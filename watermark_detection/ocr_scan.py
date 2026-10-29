@@ -2,6 +2,7 @@
 """Batch local Tesseract OCR from image URLs. Detection only; never edits photos."""
 import argparse
 import csv
+import hashlib
 import io
 import json
 import math
@@ -10,6 +11,7 @@ from pathlib import Path
 import re
 import shutil
 import subprocess
+import threading
 from concurrent.futures import ThreadPoolExecutor,as_completed
 from collections import Counter,defaultdict
 from difflib import SequenceMatcher
@@ -81,38 +83,53 @@ def ocr(image,binary,timeout):
         words.extend(found)
     return words
 
+def scan_cached_image(row,downloader,cache,binary,timeout,config,brands,scan,min_free_bytes=0):
+    """Bind detections to immutable captured bytes, not just a remote URL."""
+    result=dict(row);result['scan_id']=scan
+    original=downloader.cache/(row['image_id']+'.image')
+    if not original.exists() and shutil.disk_usage(downloader.cache).free<min_free_bytes:
+        return result|{'status':'download_error','error':'disk_reserve_reached','words':[],'brand_hits':[],'edit_approved':False}
+    image,status=downloader.get(row)
+    if image is None:return result|{'status':'download_error','error':status,'words':[],'brand_hits':[],'edit_approved':False}
+    raw=original.read_bytes();digest=hashlib.sha256(raw).hexdigest()
+    result.update(source_sha256=digest,original_bytes=len(raw))
+    path=cache/(row['image_id']+'_'+config+'.json');data=None
+    if path.exists():
+        try:data=json.loads(path.read_text())
+        except (ValueError,OSError):pass
+    if data and data.get('source_sha256')==digest:
+        words=data['words'];width=data['width'];height=data['height'];result['ocr_cache_reused']=True
+    else:
+        height,width=image.shape[:2]
+        try:words=ocr(image,binary,timeout)
+        except Exception as exc:return result|{'status':'ocr_error','error':type(exc).__name__,'words':[],'brand_hits':[],'edit_approved':False}
+        d.atomic(path,json.dumps({'words':words,'width':width,'height':height,'source_sha256':digest},ensure_ascii=False))
+        result['ocr_cache_reused']=False
+    hits=brand_hits(words,width,height,brands)
+    return result|dict(width=width,height=height,words=words,recognized_text=' '.join(w['text'] for w in words),brand_hits=hits,
+        status='known_brand_text_candidate' if hits else 'other_text_detected' if any(w['confidence']>=45 and len(token(w['text']))>=3 for w in words) else 'no_text_detected',
+        edit_approved=False,interpretation='OCR finds text, not proof of a watermark; require a verified logo/mask policy before editing.')
+
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--manifest',default='property_images/all_image_urls.csv');p.add_argument('--sample',type=int,default=0)
     p.add_argument('--output',default='watermark_detection/runs/ocr_full');p.add_argument('--cache',default='watermark_detection/cache')
     p.add_argument('--workers',type=int,default=4);p.add_argument('--timeout',type=int,default=35)
+    p.add_argument('--min-free-gb',type=float,default=5,help='Pause new downloads below this local disk reserve (decimal GB)')
     p.add_argument('--brand',action='append',help='Additional known brand word; this does not prove text is a watermark')
     args=p.parse_args()
-    if args.sample<0 or not 1<=args.workers<=8:p.error('Invalid sample/workers')
+    if args.sample<0 or not 1<=args.workers<=8 or args.min_free_gb<0:p.error('Invalid sample/workers/disk reserve')
     binary=shutil.which('tesseract')
     if not binary:p.error('Install Tesseract with English language data before running')
     version=subprocess.check_output([binary,'--version'],stderr=subprocess.STDOUT,text=True).splitlines()[0]
     cv2.setNumThreads(1);rows=d.load_manifest(args.manifest);selected=d.sample_records(rows,args.sample)
-    out=Path(args.output);out.mkdir(parents=True,exist_ok=True);cache=Path(args.cache)/'ocr';cache.mkdir(exist_ok=True)
+    out=Path(args.output);out.mkdir(parents=True,exist_ok=True);cache=Path(args.cache)/'ocr';cache.mkdir(parents=True,exist_ok=True)
     downloader=d.Downloader(args.cache);brands=list(dict.fromkeys(BRANDS+tuple(args.brand or [])))
     scan=d.now();config=token(version)+'_eng_oem1_psm11_gray1600_footer2000_autoDPI_v3'
+    ocr_locks=defaultdict(threading.Lock)
     def process(row):
-        result=dict(row);result['scan_id']=scan;path=cache/(row['image_id']+'_'+config+'.json')
-        if path.exists():
-            data=json.loads(path.read_text());words=data['words'];width=data['width'];height=data['height'];result['ocr_cache_reused']=True
-        else:
-            image,status=downloader.get(row)
-            if image is None:return result|{'status':'download_error','error':status,'words':[],'brand_hits':[]}
-            height,width=image.shape[:2]
-            try:words=ocr(image,binary,args.timeout)
-            except Exception as exc:return result|{'status':'ocr_error','error':type(exc).__name__,'words':[],'brand_hits':[]}
-            d.atomic(path,json.dumps({'words':words,'width':width,'height':height},ensure_ascii=False))
-            result['ocr_cache_reused']=False
-        hits=brand_hits(words,width,height,brands)
-        result.update(width=width,height=height,words=words,recognized_text=' '.join(w['text'] for w in words),brand_hits=hits,
-                      status='known_brand_text_candidate' if hits else 'other_text_detected' if any(w['confidence']>=45 and len(token(w['text']))>=3 for w in words) else 'no_text_detected',
-                      edit_approved=False,interpretation='OCR finds text, not proof of a watermark; protect scene text and require a verified logo/mask policy before editing.')
-        return result
+        with ocr_locks[row['image_id']]:
+            return scan_cached_image(row,downloader,cache,binary,args.timeout,config,brands,scan,int(args.min_free_gb*1e9))
     done={}
     print('OCR selected',len(selected),'of',len(rows),'images;',version,'; no hosted OCR or editing API calls.',flush=True)
     with ThreadPoolExecutor(max_workers=args.workers) as pool:
@@ -123,9 +140,15 @@ def main():
             except Exception as exc:r=row|{'status':'ocr_error','error':type(exc).__name__,'words':[],'brand_hits':[]}
             done[(row['property_key'],row['image_number'])]=r
             with (out/'checkpoint.jsonl').open('a') as f:f.write(json.dumps(r)+'\n');f.flush()
-            if len(done)%25==0:print('OCR processed',len(done),'/',len(selected),flush=True)
+            if len(done)%25==0 or len(done)==len(selected):
+                progress={'updated_at':d.now(),'processed':len(done),'total':len(selected),
+                          'statuses':dict(Counter(item['status'] for item in done.values())),
+                          'original_bytes':sum(item.get('original_bytes',0) for item in done.values()),
+                          'image_editing_calls':0,'uploaded_images':0}
+                d.atomic(out/'progress.json',json.dumps(progress,indent=2)+'\n')
+                print('OCR processed',len(done),'/',len(selected),progress['statuses'],flush=True)
     results=[done[(r['property_key'],r['image_number'])] for r in selected]
-    fields=['property_key','image_number','image_url','status','recognized_text','brand_hits','edit_approved']
+    fields=['property_key','image_number','image_url','source_sha256','original_bytes','status','recognized_text','brand_hits','edit_approved']
     buf=io.StringIO(newline='');w=csv.DictWriter(buf,fields);w.writeheader();groups=defaultdict(list)
     for r in results:
         flat={k:json.dumps(r.get(k,[]),ensure_ascii=False) if k=='brand_hits' else r.get(k,'') for k in fields}
