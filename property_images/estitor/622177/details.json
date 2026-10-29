@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "622177",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622177",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622177"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 361,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_622177",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/40b01ea4-5b32-4d85-89b7-242f948bafc0-lg.webp",
+    "https://content.estitor.com/d4e9dd9b-b448-467a-925b-bfa668c963a1-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdavanje dva nova, kompletno opremljena stana – Bar, Šušanj\nIzdaju se dva nova, moderno namještena stana u Baru, Novi Bar, preko puta od šetališta.\nStanovi se nalaze na prvom spratu nove zgrade, površine su 47 i 48 m². Svaki stan ima odvojenu spavaću sobu, dnevni boravak sa kuhinjom, hodnik, kupatilo i balkon.\nKompletno su opremljeni za udoban boravak:\nNov namještaj i potpuno opremljena kuhinja\n\nKlima-uređaj, mašina za pranje veša i mašina za pranje sudova\n\nFrižider, šporet, rerna i aparat za kafu\n\nPosuđe i sve što je potrebno za svakodnevni život\n\nParking\n\nU neposrednoj blizini nalaze se supermarket Aroma, prodavnice i autobusko stajalište.\nDostupne su dvije opcije zakupa:\n1. Zakup do 31. maja 2027. godine\nOba stana su dostupna za zakup do početka ljetnje turističke sezone. Moguće je iznajmiti jedan ili oba stana.\n2. Dugoročni zakup tokom cijele godine\nJedan od dva stana dostupan je za dugoročni zakup, uključujući ljetnju sezonu.\nStanovi se izdaju direktno od vlasnika, bez agencijske provizije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:41.719732+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.026458+00:00",
+  "source_html_sha256": "81b182f9696d7b74ca658c1695133522d8ebc0e0922e328b0e4297135528bb69",
+  "title": "Izdavanje, jednosoban stan, 48m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-23",
+  "updated_date": "2026-09-23",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "85000 Ilino, Šušanj, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Andrei Garmash",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdavanje dva nova, kompletno opremljena stana – Bar, ŠušanjIzdaju se dva nova, moderno namještena stana u Baru, Novi Bar, preko puta od šetališta.Stanovi se nalaze na prvom spratu nove zgrade, površine su 47 i 48 m²....",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!361",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267003708",
+      "name": "Andrei Garmash",
+      "email": null,
+      "source": "workbook:Outreach list!361"
+    },
+    {
+      "phone_e164": "+38267003708",
+      "name": "Andrei Garmash",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267003708"
+  ],
+  "phone_e164": "+38267003708",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

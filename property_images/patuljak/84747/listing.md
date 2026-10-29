@@ -1,0 +1,32 @@
+# Prodaja različitih imanja - Lijeva rijeka - Ptič
+
+Source: https://patuljak.me/oglas/prodaja-razlicitih-imanja-lijeva-rijeka-ptic--84747
+
+- Deal: sale
+- Property type: land
+- Published price: Cijena na upit
+- City: Podgorica
+- District: Ostalo
+- Land area (m²): 500
+
+## Original listing description
+
+PLACEVI NA PRODAJU – PTIČ, LIJEVA RIJEKA | OPŠTINA PODGORICA
+
+Na oko 1000 m nadmorske visine, u mirnom planinskom ambijentu, a na manje od pola sata vožnje od Podgorice prodaje se više parcela različitih površina i konfiguracije terena.
+
+Jedna od glavnih prednosti lokacije je blizina auto-puta. Od ulaza na auto-put na Smokovcu do petlje Veruša potrebno je oko 15-20 minuta vožnje, a od petlje do placeva još 5 minuta.
+
+Na raspolaganju su različite parcele, u zavisnosti od potreba i budžeta:
+• 20–25 €/m² – ravni placevi
+• 5–10 €/m² – placevi pod nagibom, sa otvorenim i lijepim pogledom.
+
+Mogućnost parcelacije placeva po 500 m2 .
+Na većini placeva dostupni su voda i struja.
+
+Lokacija predstavlja interesantan izbor za izgradnju porodične kuće, vikendice ili većeg imanja – za one koji žele mir i planinski ambijent, uz mogućnost da do Podgorice stignu za manje od pola sata.
+
+Za informacije o raspoloživim parcelama, površinama, tačnoj lokaciji ili dogovor oko obilaska, pozovite . Kontakt sa vlasnicima.
+???? 068 056 000
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

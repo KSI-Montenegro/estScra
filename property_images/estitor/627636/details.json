@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "627636",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-627636",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-627636"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 332,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627636",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/365d118b-7278-4a76-9bb4-2630eb9fd628-lg.webp",
+    "https://content.estitor.com/bbcab670-4b88-4600-b13f-be5787482e72-lg.webp",
+    "https://content.estitor.com/cd7ce6b1-6f76-49c8-b436-d2618656b40c-lg.webp",
+    "https://content.estitor.com/b64efb55-e530-4cb8-a923-969a5fb1bfaa-lg.webp",
+    "https://content.estitor.com/55504b9c-ad52-40b2-9fbc-06d05b409f1e-lg.webp",
+    "https://content.estitor.com/746947ae-f5c7-45eb-9241-c52f8e517043-lg.webp",
+    "https://content.estitor.com/a4c5605f-cb4c-4dc7-af57-b5ca45f7e63f-lg.webp",
+    "https://content.estitor.com/c2e689c3-7016-4f13-81da-eca0ef7c50cd-lg.webp",
+    "https://content.estitor.com/9c1a0b0c-ef6a-497b-aa3b-2d1b70aebd93-lg.webp",
+    "https://content.estitor.com/ff5eff90-ef0a-4e1c-8417-5807adce129c-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam idealan stan za izdavanje u mirnom dijelu Bara, naselje Ilino, zgrade Babovića. Ovaj osunčan jednosoban stan je odmah useljiv i nudi savršen spoj udobnosti i funkcionalnosti.\nSmješten na trećem spratu, ovaj opremljen stan površine 36 m² pruža sve što Vam je potrebno za ugodan život. Sastoji se od dnevne sobe, jedne spavaće sobe, kupatila, hodnika i terase. Stan je klimatizovan, što obezbjeđuje prijatan boravak tokom cijele godine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:27.505399+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.850452+00:00",
+  "source_html_sha256": "580f8a8cbf05e7024da256860b3e5fb74c84a2509a01c85f2decfa7a2dce0eb2",
+  "title": "Izdavanje, jednosoban stan, 36m², Ilino, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 36,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Nusret Šabotić Ilino L B 2/5 - 85000 Bar, Montenegro, 41 Ilino, Šušanj 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Slavko Musić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Predstavljamo Vam idealan stan za izdavanje u mirnom dijelu Bara, naselje Ilino, zgrade Babovića. Ovaj osunčan jednosoban stan je odmah useljiv i nudi savršen spoj udobnosti i funkcionalnosti.Smješten na trećem spratu...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!332",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263272920",
+      "name": "Slavko Musić",
+      "email": null,
+      "source": "workbook:Outreach list!332"
+    },
+    {
+      "phone_e164": "+38263272920",
+      "name": "Slavko Musić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263272920"
+  ],
+  "phone_e164": "+38263272920",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

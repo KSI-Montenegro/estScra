@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "78340",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-plac-u-rogamima-3000-m2--78340",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-plac-u-rogamima-3000-m2--78340"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 63,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78340",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!63:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Rogami",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "3000 m2 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78340_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodaje se plac u Gornjim Rogamima.moze da se parcelise. Prilaz placu asfalt. Vode nema na placu. Broj tel.067 526 043",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:01.624140+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.541225+00:00",
+  "source_html_sha256": "d42d46f7209fa8c5a7145d89ab8f2e8227be057a5ee2c83a8ad351d587e7a707",
+  "title": "Prodaje se plac u Rogamima 3000 m2.",
+  "description_language": "en",
+  "price_raw": "1.00€",
+  "price_amount": 1,
+  "price_currency": "EUR",
+  "advertiser_name": "rajka",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Rogami",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se plac u Gornjim Rogamima.moze da se parcelise. Prilaz placu asfalt. Vode nema na placu. Broj tel.067 526 043",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!63",
+      "notes": "check deal: sale at 1 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267526043",
+      "name": "rajka",
+      "email": null,
+      "source": "workbook:Not homes!63"
+    }
+  ],
+  "contact_phones": [
+    "+38267526043"
+  ],
+  "phone_e164": "+38267526043",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 3000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

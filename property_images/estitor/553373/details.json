@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "553373",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-553373",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-553373"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 618,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_553373",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Lift": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c96472f0-091d-40d4-b92c-82de0dad69ce-lg.webp",
+    "https://content.estitor.com/ea18602e-2cc0-463b-95c0-65dfcdf9ff9d-lg.webp",
+    "https://content.estitor.com/ed5b5961-9884-4d1b-9acb-9559603d113b-lg.webp",
+    "https://content.estitor.com/499ffcd3-8c40-4b84-bec0-58d10330acc5-lg.webp",
+    "https://content.estitor.com/04bd8f63-afd6-46b9-9bea-dea31bbd5f6a-lg.webp",
+    "https://content.estitor.com/072b0ae1-e7d7-4e9b-8c2d-300445b7fcc4-lg.webp",
+    "https://content.estitor.com/4b4720c3-f8ac-4f5c-b2ab-4ff60e3e03dd-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran dvosoban stan u Podgorici, idealan za one koji traže komforan dom sa mogućnošću uređenja po sopstvenom ukusu. Smješten na odličnoj lokaciji, ovaj stan nudi sve što je potrebno za udoban život.\n\nOvaj stan, ukupne površine 65.0 m², sastoji se od dvije spavaće sobe, prostranog dnevnog boravka, kuhinje i jednog kupatila. Stan je neopremljen, što novim zakupcima pruža jedinstvenu priliku da ga kompletno opreme i personalizuju prema svojim željama i potrebama, kreirajući savršen dom. Idealan je za mlade parove, manje porodice ili profesionalce.\n\nDodatne pogodnosti uključuju obezbijeđen parking ispred objekta, što eliminiše brigu o parkiranju u gradu. Zgrada posjeduje lift, što dodatno olakšava svakodnevni život. Stan je odmah useljiv.\n\nNe propustite priliku da postanete zakupac ovog prostranog stana po izuzetno povoljnoj cijeni od 400.0 EUR mjesečno. Kontaktirajte nas za više informacija i zakazivanje obilaska.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:51.428807+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.452166+00:00",
+  "source_html_sha256": "c396bce6ce8e442d14d5435b2afa76e1f8a03691d7277225c0e66f7f2a9e08d8",
+  "title": "Izdavanje, dvosoban stan, 65m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-11",
+  "updated_date": "2026-10-12",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Aisa Jasarevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift"
+  ],
+  "metadata_summary": "Izdaje se prostran dvosoban stan u Podgorici, idealan za one koji traže komforan dom sa mogućnošću uređenja po sopstvenom ukusu. Smješten na odličnoj lokaciji, ovaj stan nudi sve što je potrebno za udoban život. Ovaj ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!618",
+      "priority": 75,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+352661353048",
+      "name": "Aisa Jasarevic",
+      "email": null,
+      "source": "workbook:Outreach list!618"
+    },
+    {
+      "phone_e164": "+352661353048",
+      "name": "Aisa Jasarevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+352661353048"
+  ],
+  "phone_e164": "+352661353048",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

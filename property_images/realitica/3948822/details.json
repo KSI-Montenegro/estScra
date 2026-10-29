@@ -1,0 +1,161 @@
+{
+  "source": "realitica",
+  "listing_id": "3948822",
+  "listing_url": "https://www.realitica.com/hr/listing/3948822",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948822"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 13,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3948822",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Budva Okolina",
+    "Lokacija": "Petrovac",
+    "Adresa": "Ulica 4 zgr 43 stopovi petrovac",
+    "Energetski Razred": "A+",
+    "Cijena": "€142.000",
+    "Godina Gradnje": "2007",
+    "Spavaćih Soba": "1",
+    "Kupatila": "1",
+    "Stambena Površina": "52 m2",
+    "Od Mora (m)": "300",
+    "Klima Uređaj": true,
+    "Oglas Broj": "3948822",
+    "Postavljeno": "21 Oct, 2026",
+    "Zadnja Promjena": "26 Oct, 2026"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 142000,
+      "workbook_value": 150000,
+      "source": "workbook:Outreach list!13"
+    }
+  ],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135518rr.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135418rrrrr.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135724rr.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135752r.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135708rr.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_140209r.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_20261020_135923r.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_img-20230618-wa0018.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_img-20230618-wa0019.jpg",
+    "https://www.realitica.com/images/listing_photos/3948822_img-20230618-wa0017.jpg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju stan 52 m² u Petrovcu, 5 minuta hoda laganim korakom do mora.\n\nO stanu:\n\n* Raspored: odvojena spavaća soba, odvojena kuhinja, dnevni boravak, kupatilo, velika terasa sa djelimičnim pogledom na more.\n\n* Komfor: parket, mašina za pranje sudova, potpuno namješten i opremljen tehnikom.\n\n* Kuća i lokacija: 1. sprat, tiho zeleno dvorište bez ulične buke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:19.025148+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.863783+00:00",
+  "source_html_sha256": "e89a4018b57d66d794e66c50539f35f965da4a8ccb89ed291fb408fee2e83728",
+  "title": "Prodajem Stan-Apartman, Petrovac",
+  "description_language": "hr",
+  "city": "Budva Okolina",
+  "district": "Petrovac",
+  "street_address": "Ulica 4 zgr 43 stopovi petrovac",
+  "published_date_raw": "21 Oct, 2026",
+  "updated_date_raw": "26 Oct, 2026",
+  "area_m2": 52,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "distance_to_sea_m": 300,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€142.000",
+  "price_amount": 142000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Na prodaju stan 52 m² u Petrovcu,  5 minuta hoda laganim korakom do mora.\nO stanu:\n* Raspored: odvojena spavaća soba, odvojena kuhinja, dnevni boravak, kupatilo, velika terasa sa djelimičnim pogledom na more.\n* Komfor: parket, mašina za pranje sudova, potpuno namješten i opremljen tehnikom.\n* Kuća i lokacija: 1. sprat, tiho zeleno dvorište bez ulične buke.\n",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!13",
+      "notes": "High - Heuristic: no agency name/website/company no.; has vanity profile",
+      "priority": 100
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267350642",
+      "name": "Tatiana",
+      "email": null,
+      "source": "workbook:Outreach list!13"
+    }
+  ],
+  "contact_phones": [
+    "+38267350642"
+  ],
+  "phone_e164": "+38267350642",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "631489",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631489",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631489"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 809,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_631489",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/fadc183a-84f5-4910-ba51-82bc9b7f0ecd-lg.webp",
+    "https://content.estitor.com/f4d52779-ac34-43c3-a958-bbbe1920f27d-lg.webp",
+    "https://content.estitor.com/64245972-0d74-4b7f-b69e-1dde1cee67d1-lg.webp",
+    "https://content.estitor.com/90d38492-5ec7-48db-b36e-01bd6d696b87-lg.webp",
+    "https://content.estitor.com/1d51dcf2-9755-4648-99a5-ead98d012f7d-lg.webp",
+    "https://content.estitor.com/2a272cd4-a781-42bf-bdf4-c21604d1f6ad-lg.webp",
+    "https://content.estitor.com/fe754303-92b6-4ecc-acaf-340ff70ed116-lg.webp",
+    "https://content.estitor.com/61cb4054-5a13-4c73-8785-d64e6b5afae1-lg.webp",
+    "https://content.estitor.com/2838fa57-fc73-48b3-abc2-a7438002abe4-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u Baru, u neposrednoj blizini Sportske dvorane Topolica, na svega 500 metara od centra grada, gradskih plaža i šetališta.\nStan se sastoji od spavaće sobe, dnevnog boravka sa trpezarijom, kuhinje, kupatila i toaletom i balkona.\nU cijenu zakupa uključeni su kablovska televizija i internet. Parking je dostupan u blizini objekta.\nStan se izdaje do 1. juna 2027. godine.\nUslovi zakupa: prva i posljednja kirija unaprijed. Posljednja kirija ujedno služi kao depozit i garancija da će zakupac ostati do dogovorenog roka. U slučaju ranijeg prekida zakupa, depozit se zadržava, a može biti iskorišćen i za pokriće eventualne štete nastale u stanu.\nZa više informacija i dogovor",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:39.770902+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.881225+00:00",
+  "source_html_sha256": "366722cd1a26840d6d432419bdab39fc351ad13a6bf3e3313522b1270466fc47",
+  "title": "Izdavanje, jednosoban stan, 50m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08",
+  "price_amount": 420,
+  "price_currency": "EUR",
+  "price_raw": "420 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "12 Ulica Jovana Tomasevica, Bar 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Villa Kovacevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u Baru, u neposrednoj blizini Sportske dvorane Topolica, na svega 500 metara od centra grada, gradskih plaža i šetališta.Stan se sastoji od spavaće sobe, dnevnog boravka sa trpezarijom, kuhin...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!809",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268429627",
+      "name": "Villa Kovacevic",
+      "email": null,
+      "source": "workbook:Outreach list!809"
+    },
+    {
+      "phone_e164": "+38268429627",
+      "name": "Villa Kovacevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268429627"
+  ],
+  "phone_e164": "+38268429627",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

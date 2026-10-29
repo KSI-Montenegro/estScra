@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "632287",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632287",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632287"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 305,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_632287",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/36123a31-ad97-447d-9b1f-c980c3da1b18-lg.webp",
+    "https://content.estitor.com/c232b345-b23d-4c23-8fef-96f065b5a602-lg.webp",
+    "https://content.estitor.com/c0ae912c-2dfb-4399-9572-9cc21486818d-lg.webp",
+    "https://content.estitor.com/e34526a6-2372-447a-97d6-85af2fba13c3-lg.webp",
+    "https://content.estitor.com/0fa376a8-ec6e-432f-84fe-692e78348b66-lg.webp",
+    "https://content.estitor.com/0779cc89-d7a1-4608-90f6-75e6b10fefe9-lg.webp",
+    "https://content.estitor.com/54e883fe-28dc-431d-b890-b78a8ec75b25-lg.webp",
+    "https://content.estitor.com/64f86e34-67e9-4bee-b590-2897a67849b4-lg.webp",
+    "https://content.estitor.com/b59637ee-000d-41bd-b3bb-419aefe82502-lg.webp",
+    "https://content.estitor.com/0a7324c1-8801-4899-8eca-ba9c7c28cc76-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan u Budvi na godinu dana. Stan je slobodan od 9. novembra.\nPovršina: 48 m². Jedna spavaća soba, jedno kupatilo, drugi sprat. Četiri mjesta za spavanje.\nStan ima mašinu za pranje posuđa, rernu i klima-uređaj u svakoj sobi. Opremljen je svime što je potrebno za udoban boravak. Kućni ljubimci su dozvoljeni.\nKomunalije se plaćaju posebno. Uslovi plaćanja: 1+1+depozit.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:14.063634+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.692902+00:00",
+  "source_html_sha256": "c0b7828573fa354ace8fe569a10dd6e5c2806db959b8fe1f9ccd362f75c5e598",
+  "title": "Izdavanje, jednosoban stan, 48m², Budva, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Anastasiia Kovalchuk",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Izdaje se stan u Budvi na godinu dana. Stan je slobodan od 9. novembra.Površina: 48 m². Jedna spavaća soba, jedno kupatilo, drugi sprat. Četiri mjesta za spavanje.Stan ima mašinu za pranje posuđa, rernu i klima-uređaj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!305",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268130578",
+      "name": "Anastasiia Kovalchuk",
+      "email": null,
+      "source": "workbook:Outreach list!305"
+    },
+    {
+      "phone_e164": "+38268130578",
+      "name": "Anastasiia Kovalchuk",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268130578"
+  ],
+  "phone_e164": "+38268130578",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

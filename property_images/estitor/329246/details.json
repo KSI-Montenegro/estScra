@@ -1,0 +1,143 @@
+{
+  "source": "estitor",
+  "listing_id": "329246",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-329246",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-329246"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 273,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_329246",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Parking": "Da",
+    "Udaljenost od mora": "4500",
+    "Internet": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/005d3a31-1a06-4021-aad2-b2252051dbe7-lg.webp",
+    "https://content.estitor.com/fa276dc3-e5fa-4d37-a0e6-0b93a80f969a-lg.webp",
+    "https://content.estitor.com/58fca8fa-eae9-4f2e-82df-cb22b3361fc2-lg.webp",
+    "https://content.estitor.com/4f65d610-9623-421c-bd48-9c1016f4c896-lg.webp",
+    "https://content.estitor.com/e6b1b808-537c-4864-8b1e-55a131245a69-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem namjestenu garsonjeru. Maksimalno dvije osobe. Cijena 250e mjesecno+ komunalije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:57.963138+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.493524+00:00",
+  "source_html_sha256": "2a8a6e5fc591cd609df5d36f9dbb05f23e58781c2c75670dcac214b76809703a",
+  "title": "Izdavanje, kuća, 40m², Polje, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2025-01-21",
+  "updated_date": "2026-10-18",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 40,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Mirko Popovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "parking_raw": "Da",
+  "balconies": 1,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Parking",
+    "Internet"
+  ],
+  "metadata_summary": "Izdajem namjestenu garsonjeru. Maksimalno dvije osobe. Cijena 250e mjesecno+ komunalije.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!273",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269050099",
+      "name": "Mirko Popovic",
+      "email": null,
+      "source": "workbook:Outreach list!273"
+    },
+    {
+      "phone_e164": "+38269050099",
+      "name": "Mirko Popovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269050099"
+  ],
+  "phone_e164": "+38269050099",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

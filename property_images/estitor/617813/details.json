@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "617813",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617813",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617813"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 667,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617813",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/31952975-3cde-4db2-bf26-ea44c9f078b4-lg.webp",
+    "https://content.estitor.com/fe9ef7ed-5f60-40d3-81f9-6a2ec1142062-lg.webp",
+    "https://content.estitor.com/cd5ba1d3-e591-4b40-8ec5-a409ffe99951-lg.webp",
+    "https://content.estitor.com/817f5dd2-4e6c-4ab2-8fd7-c62cdc018a53-lg.webp",
+    "https://content.estitor.com/2588830e-1ffe-4784-9339-d7d8b5677d37-lg.webp",
+    "https://content.estitor.com/ec02eafc-8699-4613-b5e2-b48e3414367c-lg.webp",
+    "https://content.estitor.com/75a2f21a-009c-4ff5-912f-e68b478e300b-lg.webp",
+    "https://content.estitor.com/5abda1ad-c423-4df3-98b3-ee72ee990767-lg.webp",
+    "https://content.estitor.com/d91f6385-adfd-4970-89dc-f4da3741f576-lg.webp",
+    "https://content.estitor.com/3d4566c3-69ab-467f-aaba-04492d3b76df-lg.webp",
+    "https://content.estitor.com/e7fcc564-a7b2-49c1-985b-be78dab81a86-lg.webp",
+    "https://content.estitor.com/f428eb72-b2fa-4cc1-a1ff-7c04a9873047-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "If you are looking for the perfect blend of an urban location, private peace, and ultimate convenience, this one-bedroom apartment is the right choice for you. Located on the 3rd floor of the prestigious Master Kvart complex, it is just a few steps away from the Big Fashion shopping mall, restaurants, cafes, and the University Park.\nWhat sets it apart is its east-facing courtyard orientation – you will enjoy morning natural light, peace, and a pleasant ambiance free from city noise.\nKey features:\nExcellent condition: The apartment is in top-notch shape and impeccably maintained.\n\nGarage space: Includes its own private spot in the underground garage, so you will never have to worry about parking.\n\nClimate control: Equipped with an air conditioner for both heating and cooling.\n\nFully furnished: Modern, stylish furniture designed for maximum comfort.\n\nFully equipped kitchen: Fitted with new built-in appliances (oven, stovetop, refrigerator, dishwasher).\n\nFunctional layout: Living room with dining area, bedroom, and a balcony with an open view of the landscaped courtyard.\n\nPrime location: Everything you need for daily life is right outside your doorstep.\n\nThe apartment is ready for immediate move-in.\n\nAko tražite savršen spoj urbane lokacije, privatnog mira i maksimalne praktičnosti, ovaj jednosoban stan je pravi izbor za vas. Nalazi se na 3. spratu u prestižnom kompleksu Master Kvart, na samo par koraka od tržnog centra Big Fashion, restorana, kafića i Univerzitetskog parka.\nOno što ga posebno izdvaja jeste istočna orijentacija ka unutrašnjem dvorištu – uživaćete u jutarnjoj prirodnoj svjetlosti, miru i prijatnom ambijentu bez gradske buke.\nGlavne karakteristike:\nOdlično stanje: Stan je u besprekornom stanju i vrhunski održavan.\n\nGaražno mjesto: Uključuje sopstveno mjesto u podzemnoj garaži, tako da nikada nećete brinuti o parkingu.\n\nKlimatizacija: Opremljen klimom za grijanje i hlađenje.\n\nPotpuno opremljen: Moderan, stilizovan nameštaj prilagođen za maksimalnu udobnost.\n\nKompletna kuhinja: Opremljena novom ugradnom tehnikom (rerna, ploča, frižider, mašina za suđe).\n\nFunkcionalan raspored: Dnevni boravak sa trpezarijom, spavaća soba i terasa sa otvorenim pogledom na uređeno dvorište.\n\nVrhunska lokacija: Sve što vam je potrebno za svakodnevni život nalazi se ispred same zgrade.\n\nStan je odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:15.974278+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.722704+00:00",
+  "source_html_sha256": "b7328c7c485587bc26b94c4c15b9e50fdecb2009f66088befb727fa276178f2e",
+  "title": "Izdavanje, jednosoban stan, 53m², Master Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-16",
+  "updated_date": "2026-09-23",
+  "price_amount": 730,
+  "price_currency": "EUR",
+  "price_raw": "730 EUR",
+  "area_m2": 53,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Nova Profesorska, 3 Studentska, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Arijana Nikolic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "If you are looking for the perfect blend of an urban location, private peace, and ultimate convenience, this one-bedroom apartment is the right choice for you. Located on the 3rd floor of the prestigious Master Kvart ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!667",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267202202",
+      "name": "Arijana Nikolic",
+      "email": null,
+      "source": "workbook:Outreach list!667"
+    },
+    {
+      "phone_e164": "+38267202202",
+      "name": "Arijana Nikolic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267202202"
+  ],
+  "phone_e164": "+38267202202",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,137 @@
+{
+  "source": "estitor",
+  "listing_id": "575472",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-575472",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-575472"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 187,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_575472",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5a729428-2bcf-44da-ae11-1b741b33172f-lg.webp",
+    "https://content.estitor.com/a36caebf-0868-4a9c-83d9-7cef9be6a38f-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izuzetna poslovna prilika! Predstavljamo atraktivno zemljište za izdavanje u Dabezićima, Bar.\nOva parcela od 400.0 m² nalazi se na veoma frekventnoj lokaciji, direktno pored magistralnog puta koji vodi prema Albaniji, garantujući visoku vidljivost i protok saobraćaja.\nIdealna je za širok spektar poslovnih poduhvata, uključujući: benzinsku stanicu, trgovinu, skladište, apart-hotel ili stambene jedinice. Fleksibilnost je ključna – sve je stvar dogovora, sa mogućnošću dugoročnog najma.\nZemljište je 1/1 vlasništvo, direktno od vlasnika, što osigurava transparentnost i brzu realizaciju. Ne propustite priliku da pokrenete ili proširite svoj biznis na izvanrednoj lokaciji!\nZa više informacija i dogovor, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:11.453837+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.409436+00:00",
+  "source_html_sha256": "9109d76ed2c7fb862278a25d8ea24db344add3b1fd07fd1b57aee2436b3e1ba4",
+  "title": "Izdavanje, plac, 400m², Dabezići, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-02",
+  "updated_date": "2026-09-14",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Bar",
+  "street_address": "Unnamed Road, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "T..... Kalezic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izuzetna poslovna prilika! Predstavljamo atraktivno zemljište za izdavanje u Dabezićima, Bar.Ova parcela od 400.0 m² nalazi se na veoma frekventnoj lokaciji, direktno pored magistralnog puta koji vodi prema Albaniji, ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!187",
+      "agent_reasons": "not a home (land); GRADEN lists homes only",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+46793441214",
+      "name": "T..... Kalezic",
+      "email": null,
+      "source": "workbook:Not homes!187"
+    },
+    {
+      "phone_e164": "+46793441214",
+      "name": "T..... Kalezic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+46793441214"
+  ],
+  "phone_e164": "+46793441214",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "83137",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-na-zabjelu--83137",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-na-zabjelu--83137"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 436,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83137",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!436:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Jednoiposoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "45 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_11.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem uredjeno komforni stan 45m2, Radosava Burića 3 sprat.\nDnevna soba , kuhinja, pred kupatilo, kupatilo, spavaća soba, lodja kao ljetna kuhinja. Blizina škole, vrtića, marketi, dom zdravlja odlicna gradska komunikacija.\nVeliki parking ,dvorišno igralište za djecu sve na 50-200m.\nTel +382 67 533 595.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:16.936654+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.461473+00:00",
+  "source_html_sha256": "5abb580ef24ca0cc031efa6717535a7f9279650e5263de077b305e76b4ba1a69",
+  "title": "Izdajem Stan na Zabjelu",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Gligor",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednoiposoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 45,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem uredjeno komforni stan 45m2, Radosava Burića 3 sprat. Dnevna soba , kuhinja, pred kupatilo, kupatilo, spavaća soba, lodja kao ljetna kuhinja. Blizina škole, vrtića, marketi, dom zdravlja odlicna gradska komunikacija. Veliki parking ,dvorišno igralište za djecu sve na 50-200m. Tel +382 67 533 595.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!436",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267533595",
+      "name": "Gligor",
+      "email": null,
+      "source": "workbook:Outreach list!436"
+    }
+  ],
+  "contact_phones": [
+    "+38267533595"
+  ],
+  "phone_e164": "+38267533595",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,155 @@
+{
+  "source": "realitica",
+  "listing_id": "3947850",
+  "listing_url": "https://www.realitica.com/hr/listing/3947850",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947850"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 124,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3947850",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Tivat",
+    "Lokacija": "Krašići",
+    "Energetski Razred": "B",
+    "Cijena": "€230.000",
+    "Godina Gradnje": "2016",
+    "Spavaćih Soba": "2",
+    "Kupatila": "1",
+    "Stambena Površina": "74 m2",
+    "Parking Mjesta": "1",
+    "Od Mora (m)": "30",
+    "Prvi Red do Mora": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3947850",
+    "Postavljeno": "20 Oct, 2026",
+    "Zadnja Promjena": "20 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947850_6.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_8.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_1.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_9.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_11.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_capture-decran-du-2025-07-24-14-35-16.png",
+    "https://www.realitica.com/images/listing_photos/3947850_10.png",
+    "https://www.realitica.com/images/listing_photos/3947850_5.jpg"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Otkrijte ovaj šarmantni dvosobni apartman, smešten na prvom spratu.\n\nNekretnina nudi predivan spoljašnji prostor, koji uključuje:\n\n• Veliki bazen\n\n• Terasu sa roštiljem i letnjom kuhinjom\n\n• Prostor za odmor sa sofama\n\n• Ljuljašku i ležaljke\n\n• Obezbeđen privatni parking sa električnom kapijom\n\nApartman se sastoji od:\n\n• Dve prostrane spavaće sobe\n\n• Otvorene kuhinje koja je povezana sa glavnim dnevnim boravkom i pruža pogled na more\n\n• Jednog kupatila\n\n• Terase\n\n• Hodnika\n\nNekretnina pruža izuzetno panoramski pogled na more i nekoliko ostrva. Posebna prednost je što su pogled na more i ostrva zagarantovani doživotno, što obezbeđuje dugoročnu vrednost i uživanje u nekretnini.\n\nGodišnji troškovi održavanja zgrade: 300 €, što uključuje održavanje bazena (koji dele 6 apartmana) i održavanje spoljašnjih površina (žardinjere, postavljanje i održavanje spoljnog nameštaja).\n\nFasada zgrade je nedavno renovirana, tako da se u narednih 10 godina ne očekuju veći troškovi za održavanje zgrade.\n\n...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:40.208817+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.588688+00:00",
+  "source_html_sha256": "8c67e4397e957784e52e36a1d0b4573e6533679e82489f8c4f3ff8d250d795df",
+  "title": "Apartman sa bazenom na samoj obali mora",
+  "description_language": "hr",
+  "city": "Tivat",
+  "district": "Krašići",
+  "parking_raw": "1",
+  "published_date_raw": "20 Oct, 2026",
+  "updated_date_raw": "20 Oct, 2026",
+  "area_m2": 74,
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "parking_spaces": 1,
+  "distance_to_sea_m": 30,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€230.000",
+  "price_amount": 230000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Prvi Red do Mora",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Otkrijte ovaj šarmantni dvosobni apartman, smešten na prvom spratu.\nNekretnina nudi predivan spoljašnji prostor, koji uključuje:\n\n• Veliki bazen\n• Terasu sa roštiljem i letnjom kuhinjom\n• Prostor za odmor sa sofama\n• Ljuljašku i ležaljke\n• Obezbeđen privatni parking sa električnom kapijom\n\nApartman se sastoji od:\n\n• Dve prostrane spavaće sobe\n• Otvorene kuhinje koja je povezana sa glavnim dnevnim boravkom i pruža pogled na more\n• Jednog kupatila\n• Terase\n• Hodnika\n\nNekretnina pruža izuzetno panoramski pogled na more i nekoliko ostrva. Posebna prednost je što su pogled na more i ostrva zagarantovani doživotno, što obezbeđuje dugoročnu vrednost i uživanje u nekretnini.\n\nGodišnji troškovi održavanja zgrade: 300 €, što uključuje održavanje bazena (koji dele 6 apartmana) i od",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!124",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 85,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+33770980630",
+      "name": "A_dht",
+      "email": null,
+      "source": "workbook:Outreach list!124"
+    }
+  ],
+  "contact_phones": [
+    "+33770980630"
+  ],
+  "phone_e164": "+33770980630",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

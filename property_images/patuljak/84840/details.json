@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "84840",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-33-m-zabjelo-podgoric--84840",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-33-m-zabjelo-podgoric--84840"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 11,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84840",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!11:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj prostorija": "2",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "4",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Vrsta grijanja": "Ostalo",
+    "Primarna orijentacija": "Jugoistok",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Ostalo",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "33 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84840_6.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "400 € + PDV mjesečno. IZDAJE SE ZAVRŠEN POSLOVNI PROSTOR – ZABJELO, kod Cerova\n33 m² + 16 m² terasa | novogradnja 2025.\n\nModeran, potpuno završen poslovni prostor uprizemlju novogradnje u Ulici Vojislavljevića. Prostor je odmah useljiv:parket, keramika i kupatilo su gotovi. Ne nosi tuđi namještaj, pa ga za pardana opremate tačno prema svojoj djelatnosti.\n\nTerasa od 16 m² je rijetkost u ovoj kategoriji.Može biti prostor za čekanje, pauzu ili vidljiv ulaz za klijente.\n\nIdealno za kancelariju, agenciju, studio,ordinaciju ili drugu uslužnu djelatnost. Prostor je upisan kao poslovni, aprizemlje znači lak pristup za vaše klijente.\n\n✅Površina 33 m² + terasa 16 m²\n✅Potpuno završen i useljiv odmah (parket, keramika, kupatilo)\n✅Novogradnja iz 2025.\n✅Prizemlje – [zaseban ulaz sa ulice / ulaz iz zgrade]\n✅Upisan kao poslovni prostor\n✅Mogućnost zakupa garažnog mjesta u istoj zgradi\n\nZakup: 400 € + PDV mjesečno\nGaražno mjesto: opciono, 50 € + PDV mjesečno\nDepozit: dvije mjesečne kirije\nMinimalno trajanje ugovora: godinu dana\n\nUl. Vojislavljevića, Zabjelo (blizu Cerova), Podgorica\n\nObilazak po dogovoru, pozovite ili pišite:\n\n069/602-665 (Viber / WhatsApp)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:27.768172+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.145437+00:00",
+  "source_html_sha256": "240c6aca060e1eca9b46c16795012d052b04eea5421e5d49f9e8c7f33e59f8c3",
+  "title": "Izdaje se poslovni prostor 33 m², Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Vanja",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "4",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Ostalo",
+  "parking_raw": "1",
+  "area_m2": 33,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "400 € + PDV mjesečno. IZDAJE SE ZAVRŠEN POSLOVNI PROSTOR – ZABJELO, kod Cerova33 m² + 16 m² terasa | novogradnja 2025. Moderan, potpuno završen poslovni prostor uprizemlju novogradnje u Ulici Vojislavljevića. Prostor je odmah useljiv:parket, keramika i kupatilo su gotovi. Ne nosi tuđi namještaj, pa ga za pardana opremate tačno prema svojoj djelatnosti. Terasa od 16 m² je rijetkost u ovoj kategoriji.Može biti prostor za čekanje, pauzu ili vidljiv ulaz za klijente. Idealno za kancelariju, agenciju, studio,ordinaciju ili drugu uslužnu djelatnost. Prostor je upisan kao poslovni, aprizemlje znači lak pristup za vaše klijente. ✅Površina 33 m² + terasa 16 m²✅Potpuno završen i useljiv odmah (parket, keramika, kupatilo)✅Novogradnja iz 2025.✅Prizemlje – [zaseban ulaz sa ulice / ulaz iz zgrade]✅Upisan kao poslovni prostor✅Mogućnost zakupa garažnog mjesta u istoj zgradi Zakup: 400 € + PDV mjesečnoGaražno mjesto: opciono, 50 € + PDV mjesečnoDepozit: dvije mjesečne kirijeMinimalno trajanje ugovora: godinu dana Ul. Vojislavljevića, Zabjelo (blizu Cerova), Podgorica Obilazak po dogovoru, pozovite ili pišite:069/602-665 (Viber / WhatsApp)",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!11",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269602665",
+      "name": "Vanja",
+      "email": null,
+      "source": "workbook:Not homes!11"
+    }
+  ],
+  "contact_phones": [
+    "+38269602665"
+  ],
+  "phone_e164": "+38269602665",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

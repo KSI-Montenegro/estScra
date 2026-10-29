@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "556591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-556591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-556591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 718,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_556591",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4aa1faf2-91ef-4746-942e-bb074a78f975-lg.webp",
+    "https://content.estitor.com/6ce020d4-3cc1-4b6d-af17-3a475e9f209e-lg.webp",
+    "https://content.estitor.com/99677eba-5ad5-43dc-8184-c52d620c4275-lg.webp",
+    "https://content.estitor.com/658e8f3b-479a-481d-85c8-ea3695443c1f-lg.webp",
+    "https://content.estitor.com/27e8217e-96b4-4ee0-bada-5c3a7b5f0880-lg.webp",
+    "https://content.estitor.com/0cb60728-af88-4e71-a8ea-4fa25647cc83-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan jednosoban stan u prestižnoj novogradnji, lociran na atraktivnoj lokaciji Krivi Most, u ulici Vuksina Markovica bb u Podgorici.\nOvaj funkcionalan stan površine 40.0 m² nudi udoban životni prostor, idealan za pojedince ili parove. Sastoji se od jedne spavaće sobe i jednog kupatila, osiguravajući privatnost i komfor.\nStan je potpuno opremljen modernim namještajem i svim potrebnim uređajima, što omogućava useljenje bez dodatnih ulaganja. Uživajte u udobnosti novog doma sa kvalitetnim enterijerom i svim pogodnostima koje nudi novogradnja.\nU okolini zgrade dostupan je javni parking. Lokacija nudi odličnu povezanost sa svim dijelovima grada, blizinu fakulteta, tržnih centara i rekreativnih zona, čineći svakodnevni život praktičnijim.\nMjesečna zakupnina iznosi 430.0 EUR.\nStan je slobodan od 1. juna. Ne propustite priliku – kontaktirajte nas za više informacija i dogovorite termin za razgledanje!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:41.504237+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.999583+00:00",
+  "source_html_sha256": "ca6e7d10a840a5de41ae9010c23ef5b3620844248c6f9c137431e608c8416c6d",
+  "title": "Izdavanje, jednosoban stan, 40m², Krivi Most, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-12",
+  "updated_date": "2026-09-03",
+  "price_amount": 430,
+  "price_currency": "EUR",
+  "price_raw": "430 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Krivi Most, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Dragica Pekovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderan jednosoban stan u prestižnoj novogradnji, lociran na atraktivnoj lokaciji Krivi Most, u ulici Vuksina Markovica bb u Podgorici. Ovaj funkcionalan stan površine 40.0 m² nudi udoban životni prostor, id...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!718",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267390508",
+      "name": "Dragica Pekovic",
+      "email": null,
+      "source": "workbook:Outreach list!718"
+    },
+    {
+      "phone_e164": "+38267390508",
+      "name": "Dragica Pekovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267390508"
+  ],
+  "phone_e164": "+38267390508",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

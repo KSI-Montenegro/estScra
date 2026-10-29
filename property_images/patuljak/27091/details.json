@@ -1,0 +1,169 @@
+{
+  "source": "patuljak",
+  "listing_id": "27091",
+  "listing_url": "https://patuljak.me/oglas/stan-od-49m2-u-central-point-u--27091",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-od-49m2-u-central-point-u--27091"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 210,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_27091",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Central Point",
+    "Broj prostorija": "2",
+    "Sprat": "1",
+    "Broj spratova": "5+",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Zapad",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "49 m2",
+    "Uknjiženo": true,
+    "Novogradnja": true,
+    "Balkon": true,
+    "Lift": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Klima": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_11.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Prodajem prazan stan od 49m2, jednosoban, na 1. spratu, u novoizgradjenoj zgradi Central Point-a.\nZapadno orijentisan, prvi red do ulice, pogled ka Bulevaru. Sa terase je divan pogled na zalazak sunca, Master Kvart i okolina brda. Odlična zvučna izolacija.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:28.613827+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.108836+00:00",
+  "source_html_sha256": "e9b355b5f165b31b93cdb6f2d969037127536baa821b9b9a39a22d5b2713942b",
+  "title": "Stan od 49m2 u Central Point-u",
+  "description_language": "en",
+  "price_raw": "160000.00€",
+  "price_amount": 160000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivana",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Central Point",
+  "floor_raw": "1",
+  "building_floors_raw": "5+",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 49,
+  "amenities": [
+    "Uknjiženo",
+    "Novogradnja",
+    "Balkon",
+    "Lift",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Klima"
+  ],
+  "metadata_summary": "Prodajem prazan stan od 49m2, jednosoban, na 1. spratu, u novoizgradjenoj zgradi Central Point-a. Zapadno orijentisan, prvi red do ulice, pogled ka Bulevaru. Sa terase je divan pogled na zalazak sunca, Master Kvart i okolina brda. Odlična zvučna izolacija. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!210",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269912802",
+      "name": "Ivana",
+      "email": null,
+      "source": "workbook:Outreach list!210"
+    }
+  ],
+  "contact_phones": [
+    "+38269912802"
+  ],
+  "phone_e164": "+38269912802",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

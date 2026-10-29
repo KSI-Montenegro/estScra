@@ -1,0 +1,126 @@
+{
+  "source": "patuljak",
+  "listing_id": "82235",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-magacinski-prostor--82235",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-magacinski-prostor--82235"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 931,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82235",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!931:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82235_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82235_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82235_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se magacinski prostor površine 1.000 m² u Donjoj Gorici, pogodan za skladištenje, distribuciju i druge poslovne namjene.\n\nKarakteristike prostora:\n\n- Površina: 1.000 m²\n- Svijetla visina: 6 m\n- Raspon: 14 m bez stubova\n- Priključci za struju i vodu\n- Internet\n- Alarmni sistem\n- Video nadzor\n- Parking mjesta - 20",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:07.332821+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.153539+00:00",
+  "source_html_sha256": "d7273cbcf8206e2d8ce93bcf31610cd746cbe2a62a4ed04fa4d75b69bd4d24ac",
+  "title": "Izdaje se magacinski prostor",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milica",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "amenities": [],
+  "metadata_summary": "Izdaje se magacinski prostor površine 1.000 m² u Donjoj Gorici, pogodan za skladištenje, distribuciju i druge poslovne namjene.Karakteristike prostora:- Površina: 1.000 m²- Svijetla visina: 6 m- Raspon: 14 m bez stubova- Priključci za struju i vodu- Internet- Alarmni sistem- Video nadzor- Parking mjesta - 20",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!931",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267245989",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Outreach list!931"
+    }
+  ],
+  "contact_phones": [
+    "+38267245989"
+  ],
+  "phone_e164": "+38267245989",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,23 @@
+# Zemljište Lipovo
+
+Source: https://patuljak.me/oglas/zemljiste-lipovo--75299
+
+- Deal: sale
+- Property type: land
+- Published price: 8.00€
+- Price amount: 8
+- Currency: EUR
+- City: Kolašin
+- District: Gornje Lipovo
+- Land area (m²): 45000
+
+## Original listing description
+
+Prodajem zemljište kvadrature 45 000 m2, na atraktivnoj itrenutno jednoj od najpopularnijih investicionih lokacija u Kolašinu - lokalitetLipovo. Lipovo je prelijepo selo i ruralno naselje smješteno u opštini Kolašinu Crnoj Gori, poznato po netaknutoj prirodi, planinskim pejzažima i mirnomambijentu. Dijeli se na Donje i Gornje Lipovo, a nalazi se u blizini planinskihstaza pogodnih za planinarenje i seoski turizam. Nalazi se u podnožiju planineSinjajevine koja je ujedno i najveći pašnjak u Evropi, popularno nazvanecrnogorski Alpi.
+Zemljište je orjentisano nestvarnim pogledom prema najvećimvrhovima Sinjajevine, sa pejzažima koji ostavljaju bez daha. Kada je u pitanjusamo zemljište, ono se sastoji od 25 000m2 šumskog prostora prekrivenogodraslim drvećem, pogodnim za industrijsku eksploataciju. Preostalih 20 000 m2čine livade, prirodne kaskade smještene jedna iznad druge, idealne za razvoj ekoturizma.
+Udaljenost je ukupno 14km od centra Kolašina, od čega je 12km asfaltnog puta, dok je 2 km pristupni put makadamskog tipa koji je uprilično dobrom stanju svojim većim dijelom. Posjeduje 2 privatna izvorištavode, što je rijetkost na navedenom lokalitetu. Priključak za električnuenergiju se nalazi u neposrednoj blizini.
+Cijena za navedeno zemljište iznosi 9eura/m2, hitna prodajai mogućnost dogovora oko cijene.
+
+Informacije: dekibojic91@gmail.com;+38268105011 (Viber, WhatsAPP)
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

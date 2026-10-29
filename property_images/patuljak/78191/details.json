@@ -1,0 +1,154 @@
+{
+  "source": "patuljak",
+  "listing_id": "78191",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-garsonjera-na-zabjelu-u-ulici-iva-vizin--78191",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-garsonjera-na-zabjelu-u-ulici-iva-vizin--78191"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 170,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78191",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!170:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Adresa": "Iva Vizina",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Ne",
+    "Sprat": "1",
+    "Vrsta poda": "Laminat",
+    "Primarna orijentacija": "Zapad",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "27 m2",
+    "Balkon": true,
+    "Lift": true,
+    "Voda": true,
+    "Struja": true,
+    "Blindirana vrata": true,
+    "Video nadzor": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78191_1.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Prodaja garsonjera u završnoj fazi izgradnje | Zabjelo, Podgorica\n\nU ponudi su moderne garsonjere u ulici Iva Vizina, u mirnom i urbanom dijelu Zabjela, iza Titexa, Multicoma i Rocky & Pistolata.\n\nDostupne stambene jedinice:\n\n25 m² – I sprat-72.500,00 €\n27 m² – I sprat - 78.300,00 €\n\nRok završetka izgradnje: oktombar 2026. godine\n\nModeran lift\nVideo-nadzor\nObezbijeđeno parking mjesto\n\nIzuzetna lokacija:\n• dječje igralište i park u neposrednoj blizini\n• BIG Fashion centar i Klinički centar Crne Gore\n• planirana nova osnovna škola udaljena svega 300 m\n\nIdealno za život, kao i za kratkoročno ili dugoročno izdavanje, uz sigurnu investiciju u jednom od najtraženijih dijelova Podgorice.\n\nInvestitor: DID INVEST d.o.o.\n\nMogućnost kupovine putem stambenog kredita kod komercijalnih banaka.\n\nRezervišite svoju nekretninu na vrijeme!\n\n☎️ +382 69 748 778",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:06.286646+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.855540+00:00",
+  "source_html_sha256": "b9e2d8a6dccfb0176cf5c9984f5cafe3c4c0fc4c26d87f0e9631776d2d8c986a",
+  "title": "Prodaje se garsonjera na Zabjelu u ulici Iva Vizina",
+  "description_language": "en",
+  "price_raw": "78300.00€",
+  "price_amount": 78300,
+  "price_currency": "EUR",
+  "advertiser_name": "Did",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "street_address": "Iva Vizina",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Ne",
+  "parking_raw": "1",
+  "area_m2": 27,
+  "parking_spaces": 1,
+  "amenities": [
+    "Balkon",
+    "Lift",
+    "Voda",
+    "Struja",
+    "Blindirana vrata",
+    "Video nadzor"
+  ],
+  "metadata_summary": "Prodaja garsonjera u završnoj fazi izgradnje | Zabjelo, PodgoricaU ponudi su moderne garsonjere u ulici Iva Vizina, u mirnom i urbanom dijelu Zabjela, iza Titexa, Multicoma i Rocky & Pistolata.Dostupne stambene jedinice:25 m² – I sprat-72.500,00 €27 m² – I sprat - 78.300,00 € Rok završetka izgradnje: oktombar 2026. godine Moderan liftVideo-nadzor Obezbijeđeno parking mjesto Izuzetna lokacija:• dječje igralište i park u neposrednoj blizini• BIG Fashion centar i Klinički centar Crne Gore• planirana nova osnovna škola udaljena svega 300 m Idealno za život, kao i za kratkoročno ili dugoročno izdavanje, uz sigurnu investiciju u jednom od najtraženijih dijelova Podgorice.Investitor: DID INVEST d.o.o.Mogućnost kupovine putem stambenog kredita kod komercijalnih banaka. Rezervišite svoju nekretninu na vrijeme!☎️ +382 69 748 778",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!170",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269748778",
+      "name": "Did",
+      "email": null,
+      "source": "workbook:Outreach list!170"
+    }
+  ],
+  "contact_phones": [
+    "+38269748778"
+  ],
+  "phone_e164": "+38269748778",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

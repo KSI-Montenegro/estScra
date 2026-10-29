@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "363732",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-363732",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-363732"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 912,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_363732",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "2",
+    "Orijentacija": "Istok",
+    "Parking": "Opciono 2 mjesta u podzemnoj garaži",
+    "Lift": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1a3317fc-07b6-48f1-ab4a-82fdc096a6cd-lg.webp",
+    "https://content.estitor.com/6c5d050b-04c6-4eb6-934a-f0b6c1c9d574-lg.webp",
+    "https://content.estitor.com/646668c0-40ba-49ae-a9f2-b12f9a6f8974-lg.webp",
+    "https://content.estitor.com/bc09d357-a9d5-4bcc-bdde-1cb3e5b18eec-lg.webp",
+    "https://content.estitor.com/6e7d3161-3c8d-4e6f-958c-037721bcf0c2-lg.webp",
+    "https://content.estitor.com/4b824bb2-cb98-4d2c-b31a-abbd116330de-lg.webp",
+    "https://content.estitor.com/896779a6-2410-4cba-84b9-c8c8ba9d07b7-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Luksuzan dvosoban stan na dva nivoa , Mogućnost korišćenja dvije podzemne garaže. Na najljepšem mjestu kod Rimskog trga, Miran , istočno orjentisan ( ne gleda na ulicu). Namješten i odlično očuvan. Prostrana dnevna soba sa i trpezarijom , odvojena kuhinja, dvije spavaće sobe , gostinski toalet, kupatilo, ostava , sa lodjama na oba nivoa . Klimatizovan , sa centralnim grijanjem",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:50.960798+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.958027+00:00",
+  "source_html_sha256": "317fa10db344138c34a94827aaeb2ff8bb3de40550d38d69dcfa4a48e5d52685",
+  "title": "Izdavanje, dvosoban stan, 90m², Kod Capital Plaze, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-04-14",
+  "updated_date": "2026-10-20",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 90,
+  "rooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dejan Jovanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Opciono 2 mjesta u podzemnoj garaži",
+  "orientation_raw": "Istok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Luksuzan dvosoban stan na dva nivoa , Mogućnost korišćenja dvije podzemne garaže. Na najljepšem mjestu kod Rimskog trga, Miran , istočno orjentisan ( ne gleda na ulicu). Namješten i odlično očuvan. Prostrana dnevna so...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!912",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268100307",
+      "name": "Dejan Jovanovic",
+      "email": null,
+      "source": "workbook:Outreach list!912"
+    },
+    {
+      "phone_e164": "+38268100307",
+      "name": "Dejan Jovanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268100307"
+  ],
+  "phone_e164": "+38268100307",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

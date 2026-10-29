@@ -1,0 +1,124 @@
+{
+  "source": "patuljak",
+  "listing_id": "84203",
+  "listing_url": "https://patuljak.me/oglas/sto--84203",
+  "listing_urls": [
+    "https://patuljak.me/oglas/sto--84203"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 930,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84203",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ostalo",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84203_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Sto je stariji Izblijedjen, ali u dobrom stanju",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:07.200263+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.149352+00:00",
+  "source_html_sha256": "ef141958f1c2c9249c3bacb882790a09e091068fd0b12a1199a80c8873edea18",
+  "title": "Sto",
+  "description_language": "en",
+  "price_raw": "60.00€",
+  "price_amount": 60,
+  "price_currency": "EUR",
+  "advertiser_name": "Djordjije",
+  "city": "Podgorica",
+  "district": "Ostalo",
+  "amenities": [],
+  "metadata_summary": "Sto je stariji Izblijedjen, ali u dobrom stanju ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!930",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267224886",
+      "name": "Djordjije",
+      "email": null,
+      "source": "workbook:Outreach list!930"
+    }
+  ],
+  "contact_phones": [
+    "+38267224886"
+  ],
+  "phone_e164": "+38267224886",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type",
+    "property_type",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "property_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

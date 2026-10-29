@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "510416",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-510416",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-510416"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 832,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_510416",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3e073b9f-839f-4739-944f-0136ca7ef0e4-lg.webp",
+    "https://content.estitor.com/121b2c65-3669-4833-bfc8-f1d684f19a05-lg.webp",
+    "https://content.estitor.com/8f4860e6-065b-47ab-b53c-efa37b7fe5d7-lg.webp",
+    "https://content.estitor.com/b9c540b7-6b1e-475a-a6c8-2a985753928b-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban stan u Kolasinu 600m od centra. Moze i tokom zimske sezone",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:57.026462+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.157278+00:00",
+  "source_html_sha256": "a5ba0ddd8209aacb73f2cfcefd919167283e995189250f0b190ac9f93c3bdaeb",
+  "title": "Izdavanje, jednosoban stan, 40m², Smailagića Polje, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-01-14",
+  "updated_date": "2026-09-21",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kolašin",
+  "country": "ME",
+  "advertiser_name": "Vladimir Ivanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan u Kolasinu 600m od centra. Moze i tokom zimske sezone",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!832",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269027097",
+      "name": "Vladimir Ivanovic",
+      "email": null,
+      "source": "workbook:Outreach list!832"
+    },
+    {
+      "phone_e164": "+38269027097",
+      "name": "Vladimir Ivanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269027097"
+  ],
+  "phone_e164": "+38269027097",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

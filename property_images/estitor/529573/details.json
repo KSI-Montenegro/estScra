@@ -1,0 +1,180 @@
+{
+  "source": "estitor",
+  "listing_id": "529573",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-529573",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-529573"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 357,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_529573",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Površina placa": "500",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Tavan": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "500"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/62bdfb06-1958-4b43-b01e-83a438b09993-lg.webp",
+    "https://content.estitor.com/c60e3728-c9f4-43be-9041-a5b3eb4cc028-lg.webp",
+    "https://content.estitor.com/0762a594-a29c-44df-8468-79c13ceb3a1a-lg.webp",
+    "https://content.estitor.com/2b938af1-3747-475c-8213-d9ec8f238629-lg.webp",
+    "https://content.estitor.com/d1be3a26-1961-46fa-8aa7-1a0c8fc864c0-lg.webp",
+    "https://content.estitor.com/4062254e-272b-4352-bd86-2225b4223931-lg.webp",
+    "https://content.estitor.com/a25cd9ed-f23f-4679-8f8b-d098408d04c1-lg.webp",
+    "https://content.estitor.com/de6a07e2-f4f9-499d-b068-7d063bcd2de4-lg.webp",
+    "https://content.estitor.com/b49717ce-8d68-49fc-987c-08cca20b5960-lg.webp",
+    "https://content.estitor.com/7e3bd3f0-8fdf-4161-89e3-c5995120b670-lg.webp",
+    "https://content.estitor.com/2634ea77-1d78-4d88-b74c-dda104e850df-lg.webp",
+    "https://content.estitor.com/1b6d096f-9f55-48a7-9f80-da955d94269f-lg.webp",
+    "https://content.estitor.com/734bac31-2f1e-446e-bb3c-1d1e2822dd63-lg.webp",
+    "https://content.estitor.com/ae7859f9-b6b1-4e9c-80c9-b69d83eb3edb-lg.webp",
+    "https://content.estitor.com/d4165947-e442-4d1f-ac0b-fc7fd7548d5c-lg.webp",
+    "https://content.estitor.com/a79e2748-e477-46c4-8ae4-9612a78c54fe-lg.webp",
+    "https://content.estitor.com/d63cb669-3462-4928-8064-cae1f45ff494-lg.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "Kuca je povrsine 70m²,nalazi se u mirnom i osuncanom kraju.Posjeduje veliki dnevni boravak,trpezariju,kuhinju,dvije spavace sobe,hodnik, kupatilo i dvije terase.Kuca se nalazi na placu od 500m² gdje se mogu parkirati vozila.Do sada u kuci jos niko nije boravio.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:39.964842+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.002293+00:00",
+  "source_html_sha256": "afb7226f91a48fc5fa5aea077aa992aa04602bb69b5a21e457d4c667ead47f9e",
+  "title": "Izdavanje, kuća, 70m², Radanovići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-03",
+  "updated_date": "2026-09-25",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Luka Boskovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "lot_area_m2": 500,
+  "balconies": 2,
+  "year_built": 2026,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Tavan",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Kuca je povrsine 70m²,nalazi se u mirnom i osuncanom kraju.Posjeduje veliki dnevni boravak,trpezariju,kuhinju,dvije spavace sobe,hodnik, kupatilo i dvije terase.Kuca se nalazi na placu od 500m² gdje se mogu parkirati ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!357",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268087389",
+      "name": "Luka Boskovic",
+      "email": null,
+      "source": "workbook:Outreach list!357"
+    },
+    {
+      "phone_e164": "+38268087389",
+      "name": "Luka Boskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268087389"
+  ],
+  "phone_e164": "+38268087389",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

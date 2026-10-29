@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "77642",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garazu--77642",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garazu--77642"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 65,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_77642",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:source_attributes",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Master kvart",
+    "Vrsta": "U sklopu veće garaže",
+    "Kvadrata": "12",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77642_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdajem garažu u master kvartu\n068826388",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:27.440418+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.280654+00:00",
+  "source_html_sha256": "053f1e106ec142c6fbe367147ce10cdc5181c5bbb740d4bdd5e7cfb4b197bdf0",
+  "title": "Izdajem garažu",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Danilo",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Master kvart",
+  "property_type_raw": "U sklopu veće garaže",
+  "amenities": [],
+  "metadata_summary": "Izdajem garažu u master kvartu068826388",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!65",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268036481",
+      "name": "Danilo",
+      "email": null,
+      "source": "workbook:Likely agents!65"
+    }
+  ],
+  "contact_phones": [
+    "+38268036481"
+  ],
+  "phone_e164": "+38268036481",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

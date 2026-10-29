@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "638966",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638966",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638966"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 11,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_638966",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bfe17890-cd3c-4e1f-8ffd-cdcbb620f1ed-lg.webp",
+    "https://content.estitor.com/607ff2d3-82f6-4870-a138-7c1698ae1a6a-lg.webp",
+    "https://content.estitor.com/866d24ee-afeb-405d-b9ac-27e5c49337b3-lg.webp",
+    "https://content.estitor.com/29f8ff83-10ae-4b63-b1ad-f726143889f1-lg.webp",
+    "https://content.estitor.com/5b7191e8-c106-408d-8eb8-14957f19bffe-lg.webp",
+    "https://content.estitor.com/cd15a40b-abab-4af3-b34e-0c76d994e282-lg.webp",
+    "https://content.estitor.com/f544e46c-a3be-4b36-9c52-4832a524f75a-lg.webp",
+    "https://content.estitor.com/fee81cea-ce3f-4fad-8f52-70cd3e988533-lg.webp",
+    "https://content.estitor.com/6245a800-bf69-408e-a0e9-3b4f64ed0f54-lg.webp",
+    "https://content.estitor.com/0aae3001-498c-4673-9d08-01231a94bfc0-lg.webp",
+    "https://content.estitor.com/ad2a7008-d1ca-46b6-a4f9-c49370ab0093-lg.webp",
+    "https://content.estitor.com/57ba26cb-b9dc-42b2-9562-02d83dd90b8f-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se komforan jednosoban stan na Pobrezju, zgrada Razvrsja.\nKvadrature je 51 m2, nalazi se na drugom spratu i spreman je za useljenje.\nZgrada posjeduje parking pod rampom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:45.203275+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.692942+00:00",
+  "source_html_sha256": "c424ffaa905d33cd165adbd9650aa44e00e4b3e1be31b4a63a371b733b88eca1",
+  "title": "Izdavanje, jednosoban stan, 51m², Pobrežje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-21",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 51,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Danijela Knezevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon"
+  ],
+  "metadata_summary": "Izdaje se komforan jednosoban stan na Pobrezju, zgrada Razvrsja.Kvadrature je 51 m2, nalazi se na drugom spratu i spreman je za useljenje.Zgrada posjeduje parking pod rampom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!11",
+      "agent_reasons": "6 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267623020",
+      "name": "Danijela Knezevic",
+      "email": null,
+      "source": "workbook:Likely agents!11"
+    },
+    {
+      "phone_e164": "+38267623020",
+      "name": "Danijela Knezevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267623020"
+  ],
+  "phone_e164": "+38267623020",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

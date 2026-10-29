@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "597573",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-597573",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-597573"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 668,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_597573",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2a71d1fd-4f1b-430f-abf6-3c1b782d0a69-lg.webp",
+    "https://content.estitor.com/047a6a6b-fe3d-4cd1-a701-40eda8a40182-lg.webp",
+    "https://content.estitor.com/6003b0ce-6fac-429e-ac70-747fa68ff32b-lg.webp",
+    "https://content.estitor.com/13c2256f-cb24-4f38-922e-7031fb9605c5-lg.webp",
+    "https://content.estitor.com/687f3cab-a124-4656-848f-57e722bb2956-lg.webp",
+    "https://content.estitor.com/ed663958-2ade-4958-956f-782daf26c46b-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijepo opremljen dvosoban stan sa parking mjestom, iza restorana Dijagonala na Zabjelu, na odličnoj lokaciji blizini svih sadržaja potrebnih za svakodnevni život.\nStan je slobodan od 01.09.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:16.450200+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.729099+00:00",
+  "source_html_sha256": "e19777e7f9198eea95c8ccb33ec0a84e802431e4820a661b8b1b45cfa3eda66e",
+  "title": "Izdavanje, dvosoban stan, 50m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-20",
+  "updated_date": "2026-09-23",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 50,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dragana G",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se lijepo opremljen dvosoban stan sa parking mjestom, iza restorana Dijagonala na Zabjelu, na odličnoj lokaciji blizini svih sadržaja potrebnih za svakodnevni život.Stan je slobodan od 01.09.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!668",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268819323",
+      "name": "Dragana G",
+      "email": null,
+      "source": "workbook:Outreach list!668"
+    },
+    {
+      "phone_e164": "+38268819323",
+      "name": "Dragana G",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268819323"
+  ],
+  "phone_e164": "+38268819323",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "619603",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-619603",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-619603"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 40,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_619603",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c82f184a-7c8f-49dd-9b48-d4a8d1c065e3-lg.webp",
+    "https://content.estitor.com/73f97824-a2e7-4fd3-8004-a8eeb09344aa-lg.webp",
+    "https://content.estitor.com/83ab66c7-8515-4e4a-af39-cfaefb8791c0-lg.webp",
+    "https://content.estitor.com/58e989fd-af31-4361-afbe-22f86dc966c0-lg.webp",
+    "https://content.estitor.com/21dc6eab-2b18-4744-ad6a-6e49b92ae38e-lg.webp",
+    "https://content.estitor.com/2709192f-affe-4082-ab78-6f73efba7f20-lg.webp",
+    "https://content.estitor.com/58392ccc-0ce4-4042-b52b-2da5a29d3262-lg.webp",
+    "https://content.estitor.com/8b6097ca-958f-4b8d-aaae-cbabdb99c216-lg.webp",
+    "https://content.estitor.com/903aadf3-947d-4e54-a8a3-a3c7bcc966bc-lg.webp",
+    "https://content.estitor.com/5ba97ea5-5f92-4971-b03c-c79fa04abbb3-lg.webp",
+    "https://content.estitor.com/4af44db6-c095-41ae-a5fe-5819b5da7306-lg.webp",
+    "https://content.estitor.com/ef4a1162-91c4-40cf-a681-d6262617ee41-lg.webp",
+    "https://content.estitor.com/d9abbe1a-c16b-41ea-b497-323589538df5-lg.webp",
+    "https://content.estitor.com/0ec885ac-24f7-4d64-85ae-e4bba3ae987f-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdajem veliki dvosoban stan 120 m2 sa dvoristem i garaznim mjestom u Budvi, naselje Lazi. Ulaz u stan se nalazi na prizemlju i posjeduje dvoriste, pa je samim tim idealno rjesenje za zakupce sa ljubimcem; stan je pet-friendly. U velikom dnevnom boravku sa kuhinjom se nalazi rucno radjen sto za rucavanje koji se moze otvoriti i pretvoriti u sto za bilijar. Kuhinja je u potpunosti opremljena svim neophodnim elementima i tehnikom. Dnevni boravak ima izlaz na veliku terasu koja se nalazi na 1 spratu (zgrada je na kaskadnom tlu). Pored toga stan posjeduje glavno kupatilo sa tus kabinom i djeciju spavacu sobu. Glavna spavaca soba ima svoje kupatilo sa kadom, kao i svoj walk-in garderober i izlaz u dvoriste koje je ogradjeno. Sve sobe u stanu posjeduju klima uredjaj. Garazno mjesto je opremljeno prikljuckom za punjenje elektricnih vozila.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:09.597150+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.000508+00:00",
+  "source_html_sha256": "1f11534b9f02a72dfa73a8e98f3ee68ca9c34c9a63e3de156ff8a5c18d531751",
+  "title": "Izdavanje, dvosoban stan, 120m², Lazi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-19",
+  "updated_date": "2026-09-19",
+  "price_amount": 1100,
+  "price_currency": "EUR",
+  "price_raw": "1100 EUR",
+  "area_m2": 120,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Budva",
+  "street_address": "Mainski put, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Biljana Vidakovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Dvorište",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem veliki dvosoban stan 120 m2 sa dvoristem i garaznim mjestom u Budvi, naselje Lazi. Ulaz u stan se nalazi na prizemlju i posjeduje dvoriste, pa je samim tim idealno rjesenje za zakupce sa ljubimcem; stan je pet...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!40",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269896500",
+      "name": "Biljana Vidakovic",
+      "email": null,
+      "source": "workbook:Likely agents!40"
+    },
+    {
+      "phone_e164": "+38269896500",
+      "name": "Biljana Vidakovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269896500"
+  ],
+  "phone_e164": "+38269896500",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

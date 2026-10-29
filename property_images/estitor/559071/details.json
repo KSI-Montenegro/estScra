@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "559071",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-559071",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-559071"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 156,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_559071",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "3. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2019",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ea48c4a8-fa62-4248-9c71-8c4c25df7d11-lg.webp",
+    "https://content.estitor.com/af28b7bd-07a5-47e0-a6bb-37e9e37fb66e-lg.webp",
+    "https://content.estitor.com/8425c677-b08f-4258-beb6-89fbd70c96c4-lg.webp",
+    "https://content.estitor.com/45c91258-630e-4b7b-b7dc-2e7c31ae4d4f-lg.webp",
+    "https://content.estitor.com/6e955cf6-58e4-463d-8ab4-53b00481c93a-lg.webp",
+    "https://content.estitor.com/58d87075-dc63-4102-8203-80a566669dbd-lg.webp",
+    "https://content.estitor.com/d0dcb471-e0ca-41ef-acb9-08848374a2d6-lg.webp",
+    "https://content.estitor.com/6acb8a0d-fefc-4964-831f-d913c7346671-lg.webp",
+    "https://content.estitor.com/46d825bb-f7f2-4947-a9d8-08f135f317d9-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE POSLOVNI PROSTOR U BLOKU 9, PODGORICA – Ulica Đoka Miraševića!\nPredstavljamo Vam izuzetan poslovni prostor površine 115 m², smješten u modernoj novogradnji na jednoj od najtraženijih lokacija u Podgorici.\nProstor se prostire na dva nivoa, nudeći optimalnu organizaciju za različite poslovne djelatnosti. Prizemlje obuhvata tri odvojena dijela (pregrađena gipsom), prostor predviđen za kuhinju i dva potpuno opremljena toaleta. U suterenu se nalaze još dvije zasebne prostorije, takođe sa mogućnošću adaptacije.\nKljučna prednost je fleksibilnost rasporeda: po želji zakupca, gipsane pregrade se mogu ukloniti, omogućavajući kreiranje prostranog otvorenog koncepta. Prostor je opremljen i spreman za upotrebu, sa instaliranom klimatizacijom koja obezbjeđuje ugodne uslove rada tokom cijele godine.\nDodatna pogodnost je obezbijeđena garaža, što je izuzetno važno za lokaciju kao što je Blok 9. Sa dva toaleta i pripremom za kuhinju, ovaj prostor je idealan za kancelarije, ordinacije, agencije, salone i slične djelatnosti.\nMjesečna zakupnina iznosi 1200€.\nZa sve dodatne informacije i zakazivanje pregleda, kontaktirajte nas na +38263490072 (Viber/WhatsApp). Ne propustite ovu priliku za premium poslovni prostor na vrhunskoj lokaciji!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:53.154883+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.190371+00:00",
+  "source_html_sha256": "f5d64abb2d8a9779ec1e96ea0b6114d1d6aaa64bdcb4afa5e7da6e46f1693292",
+  "title": "Izdavanje, poslovni prostor, 115m², Blok 9, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-19",
+  "updated_date": "2026-10-11",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 115,
+  "bathrooms": 3,
+  "city": "Podgorica",
+  "street_address": "108 Đoka Miraševića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Lazar R",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 0,
+  "year_built": 2019,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja"
+  ],
+  "metadata_summary": "IZDAJE SE POSLOVNI PROSTOR U BLOKU 9, PODGORICA – Ulica Đoka Miraševića! Predstavljamo Vam izuzetan poslovni prostor površine 115 m², smješten u modernoj novogradnji na jednoj od najtraženijih lokacija u Podgorici. Pr...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!156",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263490072",
+      "name": "Lazar R",
+      "email": null,
+      "source": "workbook:Not homes!156"
+    },
+    {
+      "phone_e164": "+38263490072",
+      "name": "Lazar R",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263490072"
+  ],
+  "phone_e164": "+38263490072",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

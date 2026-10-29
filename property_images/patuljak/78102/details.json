@@ -1,0 +1,147 @@
+{
+  "source": "patuljak",
+  "listing_id": "78102",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-u-privatnoj-kuci-na-prvom-spratu--78102",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-u-privatnoj-kuci-na-prvom-spratu--78102"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 879,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_78102",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donji Kokoti",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Kvadratura": "100 m2",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78102_8.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdajem stan u privatnoj kuci na prvom spratu - Donji Kokoti.\nDvije spavace sobe , dnevni - trpezarija, kupatilo , spajz , terasa.\nKlima i internet.\nStan je u potpunosti opremljen namjestajem.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:29.888500+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.605663+00:00",
+  "source_html_sha256": "168a104b5f3098f27b8c5e747649c9e3e3f2102ec89c7cfcd004786ac4ed6ac7",
+  "title": "Izdajem stan u privatnoj kuci na prvom spratu",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "Milutin",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Donji Kokoti",
+  "floor_raw": "1",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 100,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem stan u privatnoj kuci na prvom spratu - Donji Kokoti.Dvije spavace sobe , dnevni - trpezarija, kupatilo , spajz , terasa. Klima i internet.Stan je u potpunosti opremljen namjestajem.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!879",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268364838",
+      "name": "Milutin Obradovic",
+      "email": null,
+      "source": "workbook:Outreach list!879"
+    }
+  ],
+  "contact_phones": [
+    "+38268364838"
+  ],
+  "phone_e164": "+38268364838",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

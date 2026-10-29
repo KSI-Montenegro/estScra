@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "639820",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-639820",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-639820"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 141,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639820",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7989d14-928c-4d3e-b36c-47a02edbd361-lg.webp",
+    "https://content.estitor.com/7f085e57-d3f2-44a8-af7b-7ca516aa85bf-lg.webp",
+    "https://content.estitor.com/979f685f-961d-4802-8c99-6e94e22f76e4-lg.webp",
+    "https://content.estitor.com/2b21b18b-fb6c-4d88-89fb-929f8bcc5b1f-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem poslovni prostor 40m2 Tivat Seljanovo pored Pršut Shop radnje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:45.670601+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.092055+00:00",
+  "source_html_sha256": "7059db545aea273b34b418e6bbbced4f4ba3e189384f7b745d7c8528a543c2e2",
+  "title": "Izdavanje, poslovni prostor, 40m², Seljanovo, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "city": "Tivat",
+  "street_address": "Zagrebačka 25",
+  "country": "ME",
+  "advertiser_name": "Stanko Gilić",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdajem poslovni prostor 40m2 Tivat Seljanovo pored Pršut Shop radnje.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!141",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269459850",
+      "name": "Stanko Gilić",
+      "email": null,
+      "source": "workbook:Not homes!141"
+    },
+    {
+      "phone_e164": "+38269459850",
+      "name": "Stanko Gilić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269459850"
+  ],
+  "phone_e164": "+38269459850",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

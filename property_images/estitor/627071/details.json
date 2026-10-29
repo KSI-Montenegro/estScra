@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "627071",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627071",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627071"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 42,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_627071",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c6db580d-ea1b-4948-9ddd-c6dbf569c37f-lg.webp",
+    "https://content.estitor.com/449bf1c3-4257-432e-8b6c-048c88283f0b-lg.webp",
+    "https://content.estitor.com/d24ee49d-ae97-4161-aede-df11fda1dc8a-lg.webp",
+    "https://content.estitor.com/d2f8abce-8f7f-4807-bf4a-747833e5b39e-lg.webp",
+    "https://content.estitor.com/5e647092-7e7a-49e6-9f67-f98ad57d21da-lg.webp",
+    "https://content.estitor.com/50941588-b26e-429a-9ced-c08f89e048e0-lg.webp",
+    "https://content.estitor.com/adb2c8d0-fab0-4d2f-9a2d-963faacb7e73-lg.webp",
+    "https://content.estitor.com/60d63736-0a70-44ed-9f9e-97797be1845f-lg.webp",
+    "https://content.estitor.com/c15dd63a-3e1f-4191-8184-39aac683f371-lg.webp",
+    "https://content.estitor.com/3939100d-3a5d-46ad-9d48-0f445a95257b-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Zabjela, Podgorica. Smješten u mirnom kraju novogradnje, ovaj stan pruža idealno okruženje za udoban život. Lokacija nudi mir i privatnost, uz laku dostupnost svim gradskim sadržajima.\nOvaj osunčan jednosoban stan, površine 43.0 m², idealan je za pojedince ili parove.\nStan je kompletno opremljen modernim nameštajem i svim neophodnim uređajima, spreman za trenutno useljenje. Pored jedne spavaće sobe i jednog kupatila, sadrži prostranu kuhinju i funkcionalan hodnik. Dodatni komfor obezbeđuju klimatizacija, interfon i lift u zgradi, koja je deo novogradnje.\nParking je obezbeđen ispred objekta, što je velika pogodnost. Stan je useljiv od 1.11.2026, čekajući svoje nove stanare.\nKućni ljubimci nisu dozvoljeni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:10.866777+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.029622+00:00",
+  "source_html_sha256": "b08f9c027dde4cb00f4f052a09c932cdfa0a5f2aa2cfe5d1db6098fa04ba3763",
+  "title": "Izdavanje, jednosoban stan, 43m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-18",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "31 Janka Đonovića, Podgorica 81000, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Zoran Perunicic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Zabjela, Podgorica. Smješten u mirnom kraju novogradnje, ovaj stan pruža idealno okruženje za udoban život. Lokacija nudi mir i privatnost, uz laku dostupnost svim g...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!42",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267833654",
+      "name": "Zoran Perunicic",
+      "email": null,
+      "source": "workbook:Likely agents!42"
+    },
+    {
+      "phone_e164": "+38267833654",
+      "name": "Zoran Perunicic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267833654"
+  ],
+  "phone_e164": "+38267833654",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

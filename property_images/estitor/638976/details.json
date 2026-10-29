@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "638976",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638976",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638976"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 592,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638976",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d8f9576b-df02-405f-b479-97af70ec1d93-lg.webp",
+    "https://content.estitor.com/204b122b-ba3b-4616-aeaa-a6cf148e8c0b-lg.webp",
+    "https://content.estitor.com/61d1ea72-f83f-4331-ad15-8098374f9702-lg.webp",
+    "https://content.estitor.com/05270a5f-e8aa-4362-a0df-51afc8d7431e-lg.webp",
+    "https://content.estitor.com/477e850d-579e-46b4-a5a3-bae5b12260aa-lg.webp",
+    "https://content.estitor.com/0e704efa-27e7-4f82-9b4a-08a37620c547-lg.webp",
+    "https://content.estitor.com/7ceaa251-7692-4eb4-8607-4edb462f0beb-lg.webp",
+    "https://content.estitor.com/c46a2980-4162-4167-a17d-31340f574c34-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se namješten jednosoban stan površine 52 m², na 4. spratu, istočno orijentisan, sunčan i sa prostranom terasom. Stan se nalazi u atraktivnom dijelu City Kvarta, u blizini svih važnih sadržaja., Osunčan, Novogradnja, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:38.544416+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.317901+00:00",
+  "source_html_sha256": "80a8fb86eb785903ee144f8e9cc68e4f0911e24f07006dbb1c27bd5c53612304",
+  "title": "Izdavanje, jednosoban stan, 52m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 52,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Pera Šoća, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Jovovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se namješten jednosoban stan površine 52 m², na 4. spratu, istočno orijentisan, sunčan i sa prostranom terasom. Stan se nalazi u atraktivnom dijelu City Kvarta, u blizini svih važnih sadržaja., Osunčan, Novogra...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!592",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267228820",
+      "name": "Aleksandar Jovovic",
+      "email": null,
+      "source": "workbook:Outreach list!592"
+    },
+    {
+      "phone_e164": "+38267228820",
+      "name": "Aleksandar Jovovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267228820"
+  ],
+  "phone_e164": "+38267228820",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

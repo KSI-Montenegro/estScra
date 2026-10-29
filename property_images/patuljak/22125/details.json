@@ -1,0 +1,140 @@
+{
+  "source": "patuljak",
+  "listing_id": "22125",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garazno-mjesto--22125",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garazno-mjesto--22125"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 983,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_22125",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Rozino",
+    "Adresa": "Uloica XVIII St, kod Okova",
+    "Vrsta": "U sklopu stambenog objekta",
+    "Kvadrata": "14",
+    "Automatska vrata": true,
+    "Video nadzor": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/22125_8.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem garažno mjesto u Budvi (Rozino Ulica XVIII St, kod Okova) Garazno mjesto je na gornjoj platformi sistema makazica/lifta kako je i na slici prikazano. Maximalna visina vozila mora biti 160cm (parkiranje u rikverc može i 170cm). Garažno mjesto se izdaje do početka sezone (kraj maja)\n\nKontakt telefon 067 503 371",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:34.366104+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.485413+00:00",
+  "source_html_sha256": "79bf89684738bb3a8d8b36e9462930a3d6d0f6be3c3924394051877a6969fbae",
+  "title": "Izdajem garažno mjesto",
+  "description_language": "en",
+  "price_raw": "70.00€",
+  "price_amount": 70,
+  "price_currency": "EUR",
+  "advertiser_name": "Milan",
+  "property_type": "garage",
+  "city": "Budva",
+  "district": "Rozino",
+  "street_address": "Uloica XVIII St, kod Okova",
+  "property_type_raw": "U sklopu stambenog objekta",
+  "amenities": [
+    "Automatska vrata",
+    "Video nadzor"
+  ],
+  "metadata_summary": "Izdajem garažno mjesto u Budvi (Rozino Ulica XVIII St, kod Okova) Garazno mjesto je na gornjoj platformi sistema makazica/lifta kako je i na slici prikazano. Maximalna visina vozila mora biti 160cm (parkiranje u rikverc može i 170cm). Garažno  mjesto se izdaje do početka sezone (kraj maja)Kontakt telefon 067 503 371",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!983",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267503371",
+      "name": "Milan Đorđijević",
+      "email": null,
+      "source": "workbook:Outreach list!983"
+    }
+  ],
+  "contact_phones": [
+    "+38267503371"
+  ],
+  "phone_e164": "+38267503371",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "628726",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-628726",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-628726"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 300,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_628726",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3fd4f9e4-3cd5-47df-8fa8-c05cd6247e28-lg.webp",
+    "https://content.estitor.com/500dee62-d711-4e53-95e5-c48cf76da181-lg.webp",
+    "https://content.estitor.com/82889766-aafb-4ada-9cff-974e23f55ade-lg.webp",
+    "https://content.estitor.com/c6bf1276-0126-4824-b262-8bfe64b66d83-lg.webp",
+    "https://content.estitor.com/35cb6c94-37f7-4e0d-96fb-7dd55b360b49-lg.webp",
+    "https://content.estitor.com/c55df46a-e2bd-41cc-b6a4-32eb873599b7-lg.webp",
+    "https://content.estitor.com/c0edd51e-fee1-4367-84ce-4c7650f40cfb-lg.webp",
+    "https://content.estitor.com/8bbf0294-4150-4942-b36c-facda11fa41e-lg.webp",
+    "https://content.estitor.com/ec1d1e67-74ba-4769-bca4-e58d9422792e-lg.webp",
+    "https://content.estitor.com/298aafe6-b7d8-4312-b1ef-d5dd2ceae251-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "🌊 150 metara do mora = samo par minuta lagane šetnje do plaže! 🌊\n🏠 Jednosoban 68m² – potpuno nov, moderan i luksuzan\n🚗 Garažno mjesto u zgradi\n🛒 50m do Supermarketa Idea + Pošte\n🌅 Terasa 20m2 sa POGLEDOM NA MORE\n📍 Donja Lastva – najljepše i najmirnije naselje u Tivtu\nZgrada samo 17 stanova – pravi boutique mir i privatnost 🕊️\n💎 Nivo opremljenosti: luksuzna nekretnina\nCijena: 1000€ mjesečno – zakup tokom cijele godine! 💰\nKontakt vlasnika: 382 68 261 390\n\n………………………………………………………\n150 meters from the sea = just a few minutes’ easy walk to the beach! 🌊\n🏠 One-bedroom apartment, 68 m² – brand new, modern and luxurious\n🚗 Garage parking space in the building\n🛒 50 m from IDEA supermarket + Post Office\n🌅 20 m² terrace with SEA VIEW\n📍 Donja Lastva – one of the most beautiful and peaceful neighborhoods in Tivat\nBoutique building with only 17 apartments – true peace and privacy 🕊️\n💎 Luxury-level furnishings and finishes\nPrice: €1,000 per month – available for year-round rental! 💰\nTo contact the property owner, please call +382 68 261 390",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:11.549784+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.664754+00:00",
+  "source_html_sha256": "c4c3efed3db487c8a5a8b17134be6ccad878df9cbcc4fcb100ccb1274d4016d5",
+  "title": "Izdavanje, jednosoban stan, 68m², Donja Lastva, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-04",
+  "updated_date": "2026-10-11",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 68,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Autobusko stajalište, Jadranska magistrala, Donja Lastva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivana Soldat",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 2,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "🌊 150 metara do mora = samo par minuta lagane šetnje do plaže! 🌊🏠 Jednosoban 68m² – potpuno nov, moderan i luksuzan🚗 Garažno mjesto u zgradi🛒 50m do Supermarketa Idea + Pošte🌅 Terasa 20m2 sa POGLEDOM NA MORE📍 D...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!300",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268261390",
+      "name": "Ivana Soldat",
+      "email": null,
+      "source": "workbook:Outreach list!300"
+    },
+    {
+      "phone_e164": "+38268261390",
+      "name": "Ivana Soldat",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268261390"
+  ],
+  "phone_e164": "+38268261390",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

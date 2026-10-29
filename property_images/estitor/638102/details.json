@@ -1,0 +1,132 @@
+{
+  "source": "estitor",
+  "listing_id": "638102",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-638102",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-638102"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 84,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_638102",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "0",
+    "Broj etaža": "2",
+    "Stanje": "Za renoviranje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d58f896b-96c3-4541-b095-7609d0321c6b-lg.webp",
+    "https://content.estitor.com/43ddb977-5846-4182-af26-b1b780b0a21b-lg.webp",
+    "https://content.estitor.com/d144babb-95fd-47ef-ac50-73d9e603a5d8-lg.webp",
+    "https://content.estitor.com/a9f8cf63-2945-46ed-b57f-67d61caed78f-lg.webp",
+    "https://content.estitor.com/adca2cbe-d6ce-4433-a784-ffe9ad7aa88d-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Kuca 160 kvadrata, 800 metara od plaze u Dobrim Vodama.\n\nKuca je za nekoga ko zeli da ulozi u nju i da je renovira iznutra.\n\nKuca je sa gradjevinskom dozvolom.\n\nPlac je 4 ara.\n\nKontaktirajte vlasnicu na whats up.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:55.148903+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.952724+00:00",
+  "source_html_sha256": "6b2fb7966658ff64df4ef5a3f7f2f0a0fb17f1aebe9fba1aa385d677078506c6",
+  "title": "Prodaja, kuća, 160m², Dobra Voda, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-19",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 160,
+  "rooms": 6,
+  "bathrooms": 2,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Snezana /",
+  "deal_type": "sale",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Za renoviranje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 0,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Kuca 160 kvadrata, 800 metara od plaze u Dobrim Vodama.Kuca je za nekoga ko zeli da ulozi u nju i da je renovira iznutra.Kuca je sa gradjevinskom dozvolom.Plac je 4 ara.Kontaktirajte vlasnicu na whats up.",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

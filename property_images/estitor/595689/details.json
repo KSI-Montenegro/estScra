@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "595689",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595689",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595689"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 839,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_595689",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2a3dfcac-3795-4124-8688-451e1f621242-lg.webp",
+    "https://content.estitor.com/b465ab12-65ec-49e2-9257-70a8a425c755-lg.webp",
+    "https://content.estitor.com/875e6400-9de5-4db2-b8e1-3fbb783f7fcd-lg.webp",
+    "https://content.estitor.com/a86c8e6c-0977-4ff3-b015-248ad3ad9345-lg.webp",
+    "https://content.estitor.com/3fd2bdaa-7f98-4a38-adcb-98c1bf5ad10d-lg.webp",
+    "https://content.estitor.com/5857a044-fa23-4bda-99ff-e15b7ba4795c-lg.webp",
+    "https://content.estitor.com/915f2cc6-6b32-45e8-8e6d-c8c4fff5ad53-lg.webp",
+    "https://content.estitor.com/ccb592f5-5768-48b4-90a2-06c07ee1417e-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajemo garsonjeru od 01.10.2026. do 01.05.2027. u centru Budve. Garsonjera je površine 32 m2 i nalazi se na 2. spratu. Sadrži: kablovsku televiziju, WiFi internet, smart sistem, pristup karticom, kao i druge pogodnosti koje stoje na raspolaganju za potpuni komfor.\n\nStruktura jednosobnog stana: kuhinja, trpezarija, dnevna soba, spavaća soba, kupatilo i terasa.\nOsunčan, Novogradnja, Blizu škole",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:01.851621+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.220612+00:00",
+  "source_html_sha256": "d63bed07439c22599be5bf17875c8819be9b1a7a9f4c279bf21863e5e7ca360f",
+  "title": "Izdavanje, garsonjera, 32m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-09-10",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 32,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "3 22. Novembra, Budva 85310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Kornelija Kovačević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajemo garsonjeru od 01.10.2026. do 01.05.2027. u centru Budve. Garsonjera je površine 32 m2 i nalazi se na 2. spratu. Sadrži: kablovsku televiziju, WiFi internet, smart sistem, pristup karticom, kao i druge pogodno...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!839",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268339900",
+      "name": "Kornelija Kovačević",
+      "email": null,
+      "source": "workbook:Outreach list!839"
+    },
+    {
+      "phone_e164": "+38268339900",
+      "name": "Kornelija Kovačević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268339900"
+  ],
+  "phone_e164": "+38268339900",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

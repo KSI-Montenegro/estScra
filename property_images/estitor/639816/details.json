@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "639816",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-639816",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-639816"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 790,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639816",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2005",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/31740e4d-4355-466b-82d6-3297fcdc0c94-lg.webp",
+    "https://content.estitor.com/5e5be5f6-df21-46a2-b1d8-ce9c6fe77457-lg.webp",
+    "https://content.estitor.com/92dcf63f-c84a-41a6-805a-75f7c2a6451f-lg.webp",
+    "https://content.estitor.com/3d42db9e-0d9d-4aab-936c-4ebbe01b88d4-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se namešten trosoban stan u Šušnju na odličnoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:23.740895+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.640476+00:00",
+  "source_html_sha256": "28eaf960f5367c45457c8b8a9cae5bd8979516e8a5a0cfa536775b42523f94f8",
+  "title": "Izdavanje, trosoban stan, 60m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 60,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Ilino, Šušanj, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Rada Panić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2005,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska"
+  ],
+  "metadata_summary": "Izdaje se namešten trosoban stan u Šušnju na odličnoj lokaciji.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!790",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381643513903",
+      "name": "Rada Panić",
+      "email": null,
+      "source": "workbook:Outreach list!790"
+    },
+    {
+      "phone_e164": "+381643513903",
+      "name": "Rada Panić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381643513903"
+  ],
+  "phone_e164": "+381643513903",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

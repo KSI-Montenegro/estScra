@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "583150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-583150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-583150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 661,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_583150",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj etaža": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Parking": "Ispred objekta",
+    "Površina placa": "1200",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Podrum": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "1200"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/79b76be2-dd1b-489a-9404-8bda2fb54026-lg.webp",
+    "https://content.estitor.com/84b79ed9-83ca-42d2-9308-eaec36bc5379-lg.webp",
+    "https://content.estitor.com/eb2ed96f-e547-4de4-8298-9f49ae2ac51b-lg.webp",
+    "https://content.estitor.com/09415419-fc94-4c36-b8d0-ad214c4eae94-lg.webp",
+    "https://content.estitor.com/e7fdf29c-f7b4-4584-a863-994d9a675ef2-lg.webp",
+    "https://content.estitor.com/713bf3b8-0c0b-4170-8a36-63b78a13144b-lg.webp",
+    "https://content.estitor.com/7dc90c32-b3bb-4811-8cfe-ecf26b2dfef7-lg.webp",
+    "https://content.estitor.com/0fe12bc1-6237-457c-8da8-5769a5dcf39e-lg.webp",
+    "https://content.estitor.com/438cce2f-4011-4bd3-9c55-863b9986ca3a-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam prostranu kuću za izdavanje u mirnom dijelu Podgorice, Ibričevina. Ova nekretnina ukupne površine 125 m², od čega 105 m² čini stambeni prostor, a 20 m² funkcionalni suteren/podrum, idealna je za porodični život. Kuća raspolaže sa 3 komforne spavaće sobe, prostranim dnevnim boravkom, trpezarijom i odvojenom kuhinjom, jednim kupatilom i hodnikom. Praktičnost je osigurana postojanjem ostave. Kuća se izdaje djelimično namještena, pružajući mogućnost budućim stanarima da prostor urede po sopstvenom ukusu. Dodatne pogodnosti uključuju klimatizaciju za ugodan boravak tokom cijele godine i obezbijeđen parking prostor ispred objekta. Posebnu vrijednost nekretnini daje prostrano dvorište površine 1200 m², koje obuhvata i prelijep voćnjak, idealan za opuštanje i uživanje na otvorenom. Ova kuća nudi savršen spoj udobnosti i funkcionalnosti u prirodnom okruženju, a istovremeno je blizu gradskih sadržaja. Cijena 900 e.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:12.675524+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.689141+00:00",
+  "source_html_sha256": "a612077b9a481ff8c20df8efe5e6c1a37e50120b9b95b0dce6fa71a1a424dd32",
+  "title": "Izdavanje, kuća, 125m², Ibričevina, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-24",
+  "updated_date": "2026-09-25",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 125,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Petra Lubarde",
+  "country": "ME",
+  "advertiser_name": "Ivana Ivana",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 1200,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Podrum",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Predstavljamo Vam prostranu kuću za izdavanje u mirnom dijelu Podgorice, Ibričevina. Ova nekretnina ukupne površine 125 m², od čega 105 m² čini stambeni prostor, a 20 m² funkcionalni suteren/podrum, idealna je za poro...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!661",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267666623",
+      "name": "Ivana Ivana",
+      "email": null,
+      "source": "workbook:Outreach list!661"
+    },
+    {
+      "phone_e164": "+38267666623",
+      "name": "Ivana Ivana",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267666623"
+  ],
+  "phone_e164": "+38267666623",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

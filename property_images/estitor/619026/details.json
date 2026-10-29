@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "619026",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-619026",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-619026"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 370,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_619026",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/98ae083f-6922-4d5a-800e-755bec581164-lg.webp",
+    "https://content.estitor.com/bf2200ea-2ad6-4bf5-8073-c3b19c6373db-lg.webp",
+    "https://content.estitor.com/540d5f86-ba3d-49ec-81b5-f0cc057267d2-lg.webp",
+    "https://content.estitor.com/0b9d13bf-5d12-41a9-a95f-f7769c67ada6-lg.webp",
+    "https://content.estitor.com/5cbab583-3cbd-41c3-9529-a506412d834e-lg.webp",
+    "https://content.estitor.com/8ca3f1df-018b-4a73-b373-f01ac98c8a79-lg.webp",
+    "https://content.estitor.com/bdc276a6-645f-49e1-a29b-2be2f8727d6d-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdavanje stana u Tivtu\nOd 01.10. slobodna namještena garsonjera - apartman 32m2, sa dodatnih 8m2 terase. Izdaje se tokom čitave godine! Svi sadržaji. Parking. Mrčevac I.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:46.178094+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.087739+00:00",
+  "source_html_sha256": "6781c19ea8bbc04a92d1cf57a02a4381a0e6c55aed702b53b8afeb8172cb63f4",
+  "title": "Izdavanje, garsonjera, 32m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-18",
+  "updated_date": "2026-09-18",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 32,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Šćepanović Sara",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Izdavanje stana u TivtuOd 01.10. slobodna namještena garsonjera - apartman 32m2, sa dodatnih 8m2 terase. Izdaje se tokom čitave godine! Svi sadržaji. Parking. Mrčevac I.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!370",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269044041",
+      "name": "Šćepanović Sara",
+      "email": null,
+      "source": "workbook:Outreach list!370"
+    },
+    {
+      "phone_e164": "+38269044041",
+      "name": "Šćepanović Sara",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269044041"
+  ],
+  "phone_e164": "+38269044041",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

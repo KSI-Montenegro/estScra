@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "640671",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640671",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640671"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 580,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640671",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/02385190-5349-4838-b435-d6d8ee728b5a-lg.webp",
+    "https://content.estitor.com/2a9057e7-1fcf-435f-bdb4-8a90c679b731-lg.webp",
+    "https://content.estitor.com/c3439648-f448-4e06-9711-bcdad92d8b7d-lg.webp",
+    "https://content.estitor.com/ad7ee2c5-8940-47cf-8eb3-a51792908148-lg.webp",
+    "https://content.estitor.com/e9105089-ca58-4ee0-9338-a4b401143319-lg.webp",
+    "https://content.estitor.com/7cc34c2c-93c6-45db-bc9c-80b684586122-lg.webp",
+    "https://content.estitor.com/b83b7fbc-f247-4c16-b0a1-6055f2f2b0a5-lg.webp",
+    "https://content.estitor.com/2da75e02-73dc-4b2b-ad90-d40a732a443a-lg.webp",
+    "https://content.estitor.com/aad74070-b675-4170-baac-e44aa544ee26-lg.webp",
+    "https://content.estitor.com/6729dbcc-cfd5-4afc-a6b4-83d7bc822445-lg.webp",
+    "https://content.estitor.com/d1b9c1aa-4c3b-4971-9b02-596b1881babd-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Novogradnja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:32.693775+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.258155+00:00",
+  "source_html_sha256": "6ef7eac4dfccbde3ce5f46dd59011f8d2b162dec97dfd96069dd588ec48c0404",
+  "title": "Izdavanje, jednosoban stan, 46m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 46,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Jelena Paunovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Novogradnja",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!580",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268224798",
+      "name": "Jelena Paunovic",
+      "email": null,
+      "source": "workbook:Outreach list!580"
+    },
+    {
+      "phone_e164": "+38268224798",
+      "name": "Jelena Paunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268224798"
+  ],
+  "phone_e164": "+38268224798",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

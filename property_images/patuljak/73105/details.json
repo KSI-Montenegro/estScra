@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "73105",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stanna-duze-vrijemest--73105",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stanna-duze-vrijemest--73105"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 537,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73105",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!537:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Adresa": "Filipa Bajkovica 55",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "48 m2",
+    "Kvadratura balkona": "6 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_2.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:15.260834+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.032025+00:00",
+  "source_html_sha256": "ea77e1f665e0d2cd13e116a2c844ba89084ba622caa50e0e14b1ff3830f8b841",
+  "title": "Izdajem jednosoban namjesten stan,na duze vrijeme.Stan je slobodan od septembra.",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Jelena",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "street_address": "Filipa Bajkovica 55",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 48,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem jednosoban namjesten stan,na duze vrijeme.Stan je slobodan od septembra.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!537",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267526150",
+      "name": "Jelena",
+      "email": null,
+      "source": "workbook:Outreach list!537"
+    }
+  ],
+  "contact_phones": [
+    "+38267526150"
+  ],
+  "phone_e164": "+38267526150",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

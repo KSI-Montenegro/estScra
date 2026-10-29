@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "275839",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-275839",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-275839"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 197,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_275839",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Godina izgradnje": "2000"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e7a04eaa-4318-4049-b2f7-1229732a3b9c-lg.webp",
+    "https://content.estitor.com/89b2e2e0-9127-4443-8d4e-3c5f7f4f9545-lg.webp",
+    "https://content.estitor.com/247b73ac-a9da-41f2-85c7-279d18e769fe-lg.webp",
+    "https://content.estitor.com/9eaa562d-64a1-4a1c-994a-12c4ac1c915d-lg.webp",
+    "https://content.estitor.com/5b4cecbc-1b34-49c4-aee1-96254cef0847-lg.webp",
+    "https://content.estitor.com/cd82a3bd-0884-4996-8460-aebafcb7a37c-lg.webp",
+    "https://content.estitor.com/bfa341bd-0d6a-45b3-8a3d-4f1427411035-lg.webp",
+    "https://content.estitor.com/8311953b-6bfa-4d58-bae7-0f3d2b45cbe1-lg.webp",
+    "https://content.estitor.com/2658b942-e7f3-4432-8643-7e77f86a8053-lg.webp",
+    "https://content.estitor.com/39166209-af6e-442f-aa50-5a4af283b922-lg.webp",
+    "https://content.estitor.com/c2ede022-0b34-4441-bc24-96a9b3e0ace1-lg.webp",
+    "https://content.estitor.com/8ee623b5-8d54-4d4d-881c-b0910dd4573c-lg.webp",
+    "https://content.estitor.com/a94ec524-8c21-454d-bfc7-bf437736b9cc-lg.webp",
+    "https://content.estitor.com/a254d806-4ee0-4d38-8fbd-344de3de275a-lg.webp",
+    "https://content.estitor.com/ac9347ef-3b80-43e4-9064-8783f0fab888-lg.webp",
+    "https://content.estitor.com/7d2ef752-1155-4505-b7cf-9b43fc0c0527-lg.webp",
+    "https://content.estitor.com/3fcece53-86cc-4d24-8f8b-4abb2e552f02-lg.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "7 komora/magacinskih prostorija višenamenskih za izdavanje, veličine od 100 m2 do 500 m2. Moguće suvo skladište kao i frigo od +5 do +20 stepeni u zavisnosti od trebovanja. Magacin je obezbeđen video nadzorom, mogućnost usluge utovara istovara viljuškarom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:16.648145+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.466820+00:00",
+  "source_html_sha256": "be03adea10d312d75117cd5feb569f22ab3609d9ed1df8aa08ba98d9cc1e12c1",
+  "title": "Izdavanje, poslovni prostor, 4000m², Zeta, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2024-08-24",
+  "updated_date": "2026-08-30",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 4000,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marina Krstović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "year_built": 2000,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "7 komora/magacinskih prostorija višenamenskih za izdavanje, veličine od 100 m2 do 500 m2. Moguće suvo skladište kao i frigo od +5 do +20 stepeni u zavisnosti od trebovanja. Magacin je obezbeđen video nadzorom, mogućno...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!197",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38162200336",
+      "name": "Marina Krstović",
+      "email": null,
+      "source": "workbook:Not homes!197"
+    },
+    {
+      "phone_e164": "+38162200336",
+      "name": "Marina Krstović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38162200336"
+  ],
+  "phone_e164": "+38162200336",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

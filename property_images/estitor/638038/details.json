@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "638038",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-638038",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-638038"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 274,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638038",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Podrum",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/63b0142e-32fd-408c-8a8e-49f89ab1d179-lg.webp",
+    "https://content.estitor.com/a66850d5-f9da-4c21-af24-5cc1a644286f-lg.webp",
+    "https://content.estitor.com/e008085b-bfe6-4562-af5e-694ab2fbc714-lg.webp",
+    "https://content.estitor.com/4fe39bd2-11db-49cd-b6f0-b6af2dc5330a-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam udoban jednosoban stan za izdavanje smješten u mirnom dijelu Škaljara, Kotor.\n\nOvaj kompletno opremljen stan, površine 40.0 m², nalazi se u prizemlju i nudi sve što je potrebno za ugodan boravak. Sastoji se od jedne spavaće sobe, kupatila i potpuno opremljene kuhinje.\n\nKao posebne pogodnosti ističu se privatno dvorište, idealno za opuštanje, kao i obezbijeđen parking ispred objekta. Stan je klimatizovan, sa dostupnim internetom i kablovskom televizijom, što garantuje komfor tokom cijelog boravka.\n\nLokacija je izuzetno povoljna, u neposrednoj blizini autobuske stanice, omogućavajući laku povezanost i pristup svim gradskim sadržajima.\n\nStan je dostupan za izdavanje u periodu od 1. novembra do 1. maja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:58.646245+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.498964+00:00",
+  "source_html_sha256": "1d2b367b95162dd16ab5b0fcc2f43c62bc26a93e19984fa427711df53005fe61",
+  "title": "Izdavanje, jednosoban stan, 40m², Škaljari, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-17",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "Auto centar, E65, Skaljari, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Zoran Petrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Podrum",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Predstavljamo Vam udoban jednosoban stan za izdavanje smješten u mirnom dijelu Škaljara, Kotor. Ovaj kompletno opremljen stan, površine 40.0 m², nalazi se u prizemlju i nudi sve što je potrebno za ugodan boravak. Sast...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!274",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269508526",
+      "name": "Zoran Petrovic",
+      "email": null,
+      "source": "workbook:Outreach list!274"
+    },
+    {
+      "phone_e164": "+38269508526",
+      "name": "Zoran Petrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269508526"
+  ],
+  "phone_e164": "+38269508526",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

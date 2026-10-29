@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "634513",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-634513",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-634513"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 804,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_634513",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/75b638dc-af8a-42a1-8404-ce9911b6640d-lg.webp",
+    "https://content.estitor.com/b0ea91df-1b88-49a8-94e5-bd569283c6b1-lg.webp",
+    "https://content.estitor.com/63d0fd4a-727a-408c-b58d-a2f157f0c24c-lg.webp",
+    "https://content.estitor.com/988733ac-b536-4a04-bbc7-c098e77e3fc5-lg.webp",
+    "https://content.estitor.com/acbf8885-915e-4384-a62e-6bcfe4bea062-lg.webp",
+    "https://content.estitor.com/9ff74d40-3567-4b4c-b105-25c2cf510aee-lg.webp",
+    "https://content.estitor.com/00df7f19-6270-4145-9478-ca44d9bb35b1-lg.webp",
+    "https://content.estitor.com/483dc906-4642-44ac-b3e2-a5c01728c7b6-lg.webp",
+    "https://content.estitor.com/41082368-8579-4556-b2b7-9b5faba2161b-lg.webp",
+    "https://content.estitor.com/f907a694-b565-486b-b6cd-3d93e8028027-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Jednosoban Stan sa komunalijama Njegoševa",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:35.961070+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.822541+00:00",
+  "source_html_sha256": "83b74eb25d2968232ba9b114e661a936d3ba866f629f1e185fd47faad0043416",
+  "title": "Izdavanje, jednosoban stan, 50m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-13",
+  "updated_date": "2026-10-13",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "country": "ME",
+  "advertiser_name": "Tanja Micunovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Jednosoban Stan sa komunalijama Njegoševa",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!804",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268903242",
+      "name": "Tanja Micunovic",
+      "email": null,
+      "source": "workbook:Outreach list!804"
+    },
+    {
+      "phone_e164": "+38268903242",
+      "name": "Tanja Micunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268903242"
+  ],
+  "phone_e164": "+38268903242",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

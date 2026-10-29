@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "620733",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-620733",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-620733"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 829,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620733",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1986",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e1b28012-e807-4814-b279-66aa1da1288a-lg.webp",
+    "https://content.estitor.com/5d5978d3-bcf0-4798-9541-72907f0a5dcd-lg.webp",
+    "https://content.estitor.com/4997bd39-3427-4ea6-a135-187a60a119b9-lg.webp",
+    "https://content.estitor.com/f1e1fae0-99ec-4bc7-83d8-eddf014ce187-lg.webp",
+    "https://content.estitor.com/a2930db7-c75c-4e5c-9507-8fa762043a68-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Osunčan i nedavno renoviran stan u srcu Cetinja nudi idealnu kombinaciju udobnosti i centralne lokacije za savremeni život.\n\nOvaj prostrani stan, površine 70.0 m², smješten je na prizemlju i savršen je za sve koji traže udoban dom. Sastoji se od dvije prostrane spavaće sobe, jednog moderno opremljenog kupatila, funkcionalnog predsoblja i trpezarije.\n\nStan se izdaje potpuno opremljen, što omogućava trenutno useljenje bez dodatnih ulaganja. Za vašu udobnost, opremljen je modernim sadržajima koji uključuju klimatizaciju i obezbijeđen internet pristup, osiguravajući ugodan boravak tokom cijele godine.\n\nLokacija je izuzetna – stan se nalazi u samom centru Cetinja, sa svim važnim gradskim sadržajima na dohvat ruke. U neposrednoj blizini su značajne kulturno-istorijske znamenitosti poput Vladinog doma, Cetinjskog manastira i dvorca kralja Nikole, kao i sve neophodne prodavnice i usluge. Javni parking je dostupan u okolini.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:54.961685+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.127450+00:00",
+  "source_html_sha256": "b3e2bb74b044dd795aa39445752510bdffa4c07b76da0cf8517633fb7dc388fc",
+  "title": "Izdavanje, dvosoban stan, 70m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-09-21",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "1a Dečanska, Cetinje, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Biljana Milosavljevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 1986,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan i nedavno renoviran stan u srcu Cetinja nudi idealnu kombinaciju udobnosti i centralne lokacije za savremeni život. Ovaj prostrani stan, površine 70.0 m², smješten je na prizemlju i savršen je za sve koji traž...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!829",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268700753",
+      "name": "Biljana Milosavljevic",
+      "email": null,
+      "source": "workbook:Outreach list!829"
+    },
+    {
+      "phone_e164": "+38268700753",
+      "name": "Biljana Milosavljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268700753"
+  ],
+  "phone_e164": "+38268700753",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

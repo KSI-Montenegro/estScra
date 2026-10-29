@@ -1,0 +1,147 @@
+{
+  "source": "estitor",
+  "listing_id": "630719",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630719",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630719"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 136,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630719",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2018",
+    "Stanje": "Odlično stanje",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/84f5928b-5b31-4ac8-bf20-1c15938e5bb7-lg.webp",
+    "https://content.estitor.com/80b75e3e-79a3-47ea-a929-a8640adf3753-lg.webp",
+    "https://content.estitor.com/12d21967-1715-4dbc-b18f-e34d36ae5709-lg.webp",
+    "https://content.estitor.com/5d283385-ff25-4127-a43a-bc0c961f459e-lg.webp",
+    "https://content.estitor.com/f61ab9d6-a2d8-470e-9124-ebcf4bb33f65-lg.webp",
+    "https://content.estitor.com/7b2b912d-9681-4dce-a074-fc62a17c47ec-lg.webp",
+    "https://content.estitor.com/0f20c6a9-a5f7-4a51-aa86-277e4fccfe90-lg.webp",
+    "https://content.estitor.com/90694b23-a9e0-4f27-af01-b77f30ca0978-lg.webp",
+    "https://content.estitor.com/41e40bf2-4ac8-456a-a3b9-f4c7efbee50d-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam atraktivan stan za izdavanje u Budvi, u popularnom naselju Rozino.\n\nOvaj funkcionalni jednosoban stan, površine 40.0 m², nalazi se na prizemlju. Potpuno je renoviran i odmah useljiv, nudeći Vam besprekoran prostor bez dodatnih ulaganja. Zahvaljujući odličnoj orijentaciji, stan je izuzetno osunčan tokom cijelog dana, stvarajući ugodnu i svijetlu atmosferu.\n\nRaspolaže jednom spavaćom sobom, jednim modernim kupatilom i prostranim dnevnim boravkom sa integrisanom kuhinjom.\n\nJavni parking je dostupan u neposrednoj blizini zgrade, što dodatno olakšava svakodnevni život. Lokacija u Rozinu omogućava Vam brz i jednostavan pristup svim bitnim gradskim sadržajima – prodavnicama, restoranima, školama, domovima zdravlja i gradskom šetalištu, čineći ga idealnim izborom za udoban i praktičan život u Budvi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:21.483517+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.999396+00:00",
+  "source_html_sha256": "c3221b3877a9d1830b2ed187608afe7cbe77514f858e206794c5b6a31d3367d9",
+  "title": "Izdavanje, jednosoban stan, 40m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-07",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "112 Žrtava Fašizma, Budva, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Agency Vision620",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "year_built": 2018,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Predstavljamo Vam atraktivan stan za izdavanje u Budvi, u popularnom naselju Rozino. Ovaj funkcionalni jednosoban stan, površine 40.0 m², nalazi se na prizemlju. Potpuno je renoviran i odmah useljiv, nudeći Vam bespre...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!136",
+      "agent_reasons": "business name (Agency Vision620)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268657677",
+      "name": "Agency Vision620",
+      "email": null,
+      "source": "workbook:Likely agents!136"
+    },
+    {
+      "phone_e164": "+38268657677",
+      "name": "Agency Vision620",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268657677"
+  ],
+  "phone_e164": "+38268657677",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,134 @@
+{
+  "source": "patuljak",
+  "listing_id": "73166",
+  "listing_url": "https://patuljak.me/oglas/jedinstveno-imanje-4000-m-iznad-kanjona-tare-dobri--73166",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jedinstveno-imanje-4000-m-iznad-kanjona-tare-dobri--73166"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 953,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_73166",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Mojkovac",
+    "Naselje": "Dobrilovina",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "4000m2 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Jedinstveno imanje 4.000 m² iznad kanjona Tare – Dobrilovina.\n\n​Opis:\n\nNa prodaju fantastično, potpuno ravno imanje površine 4.000 m² na unikatnoj lokaciji u mjestu Dobrilovina, između Mojkovca i Žabljaka. Krajnja tačka imanja udaljena je svega 40 metara od samog kanjona, pružajući spektakularan, otvoren pogled na rijeku Taru i okolne planinske vrhove.\n\n​Na imanju se nalaze:\n\n​Dvije završene vikendice u tradicionalnom stilu (unutrašnjost je kompletno obložena vrhunskom drvenom građom, potrebna manja adaptacija toaleta).\n\n​Bogat i održavan voćnjak sa preko 400 stabala raznog voća.\n\n​Infrastruktura:\n\nPlac posjeduje sopstveni prilazni put (livada/makadam) dužine stotinu metara do glavnog asfaltnog puta. Priključci za struju su na placu, a snabdijevanje vodom je neograničeno.\n\n​Zbog svoje pozicije, ravnog terena i prirodnih ljepota, ovo imanje predstavlja savršenu investiciju za eko-turizam, etno-selo ili privatni ljetnjikovac iz snova.\n\n​Vlasništvo: 1/1, čisti papiri, bez tereta.\n\n​Cijena: Po dogovoru /\n\n​KontakЗаголовок: Продается великолепное имение 4000 м² с двумя коттеджами у каньона Тара (Добриловина)\nПродается уникальное поместье площадью 4000 м² в идеальном месте для отдыха или туристического бизнеса, расположенное в Добриловине, между Мойковацем и Жабляком, в непосредственной близости от великолепного каньона реки\n\n​Два полностью меблированных коттеджа с уютным деревянным интерьером, готовых к заселению или сдаче в аренду.\n\n​Большой молодой сад с более чем 400 фруктовыми деревьями в полном расцвету сил.\n\n​Участок ухожен, имеет правильную форму и окружен нетронутой природой, что гарантирует абсолютную приватность, чистый воздух и покой. Идеальная инвестиция под эко-деревню, туристический комплекс или частную резиденцию.\n\n​Вся документация в порядке. Для получения дополнительной информации, цены и согласования осмотра пишите в ЛС или звоните.+382 68 008 203\n\nЗаголовок: Продается великолепное имение 4000 м² с двумя коттеджами у каньона Тара (ДоDescription:\n\nFor sale: A stunning, completely flat estate of 4,000 m² located in a prime location in Dobrilovina, situated between Mojkovac and Žabljak. The edge of the property sits just 40 meters from the breathtaking Tara Canyon, offering spectacular, unobstructed views of the Tara River and the surrounding mountains.\n\n​The property features:\n\n​Two fully completed cabins built in a traditional style (the interior is beautifully crafted with premium solid wood; requires minor bathroom adaptation).\n\n​A mature orchard with over 400 diverse fruit trees.\n\n​Infrastructure:\n\nThe estate has its own access road, located just 100 meters from the main asphalt highway. Electricity is connected, and water supply is unlimited.\n\n​Thanks to its flat terrain, clean air, and unbeatable location, this property is a premium investment opportunity for an eco-resort, ethno-village, or a private luxury retreat.\n\n​Ownership: 1/1 (Clean title, single owner).\n\n​Price: Upon request /\n\n​Contact: [ +382 68 008 203]бриловина)\nt: +382 68 008 203\n\n​",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:19.378313+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.281407+00:00",
+  "source_html_sha256": "96db8842097cfdedc8d107201e6853663af28471eead5d7265aa18c6b30e7a5c",
+  "title": "Jedinstveno imanje 4.000 m iznad kanjona Tare Dobrilovina-Žabljak",
+  "description_language": "en",
+  "price_raw": "30.00€",
+  "price_amount": 30,
+  "price_currency": "EUR",
+  "advertiser_name": "Ilija",
+  "property_type": "land",
+  "city": "Mojkovac",
+  "district": "Dobrilovina",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Jedinstveno imanje 4.000 m² iznad kanjona Tare – Dobrilovina.​Opis:Na prodaju fantastično, potpuno ravno imanje površine 4.000 m² na unikatnoj lokaciji u mjestu Dobrilovina, između Mojkovca i Žabljaka. Krajnja tačka imanja udaljena je svega 40 metara od samog kanjona, pružajući spektakularan, otvoren pogled na rijeku Taru i okolne planinske vrhove.​Na imanju se nalaze:​Dvije završene vikendice u tradicionalnom stilu (unutrašnjost je kompletno obložena vrhunskom drvenom građom, potrebna manja adaptacija toaleta).​Bogat i održavan voćnjak sa preko 400 stabala raznog voća.​Infrastruktura:Plac posjeduje sopstveni prilazni put (livada/makadam) dužine stotinu metara do glavnog asfaltnog puta. Priključci za struju su na placu, a snabdijevanje vodom je neograničeno.​Zbog svoje pozicije, ravnog terena i prirodnih ljepota, ovo imanje predstavlja savršenu investiciju za eko-turizam, etno-selo ili privatni ljetnjikovac iz snova.​Vlasništvo: 1/1, čisti papiri, bez tereta.​Cijena: Po dogovoru / ​KontakЗаголовок: Продается великолепное имение 4000 м² с двумя коттеджами у каньона Тара (Добриловина)Продается уникальное поместье площадью 4000 м² в идеальном месте для отдыха или туристического бизнеса, расположенное в Добриловине, между Мойковацем и Жабляком, в непосредственной близости от великолепного каньона реки ​Два полностью меблированных коттеджа с уютным деревянным интерьером, готовых к заселению или сдаче в аренду.​Большой молодой сад с более чем 400 фруктовыми деревьями в полном расцвету сил.​Участок ухожен, имеет правильную форму и окружен нетронутой природой, что гарантирует абсолютную приватность, чистый воздух и покой. Идеальная инвестиция под эко-деревню, туристический комплекс или частную резиденцию.​Вся документация в порядке. Для получения дополнительной информации, цены и согласования осмотра пишите в ЛС или звоните.+382 68 008 203Заголовок: Продается великолепное имение 4000 м² с двумя коттеджами у каньона Тара (ДоDescription:For sale: A stunning, completely flat estate of 4,000 m² located in a prime location in Dobrilovina, situated between Mojkovac and Žabljak. The edge of the property sits just 40 meters from the breathtaking Tara Canyon, offering spectacular, unobstructed views of the Tara River and the surrounding mountains.​The property features:​Two fully completed cabins built in a traditional style (the interior is beautifully crafted with premium solid wood; requires minor bathroom adaptation).​A mature orchard with over 400 diverse fruit trees.​Infrastructure:The estate has its own access road, located just 100 meters from the main asphalt highway. Electricity is connected, and water supply is unlimited.​Thanks to its flat terrain, clean air, and unbeatable location, this property is a premium investment opportunity for an eco-resort, ethno-village, or a private luxury retreat.​Ownership: 1/1 (Clean title, single owner).​Price: Upon request /​Contact: [ +382 68 008 203]бриловина)t: +382 68 008 203​",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!953",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268008203",
+      "name": "Ilija",
+      "email": null,
+      "source": "workbook:Outreach list!953"
+    }
+  ],
+  "contact_phones": [
+    "+38268008203"
+  ],
+  "phone_e164": "+38268008203",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

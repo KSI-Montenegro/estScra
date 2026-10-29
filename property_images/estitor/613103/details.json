@@ -1,0 +1,133 @@
+{
+  "source": "estitor",
+  "listing_id": "613103",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-613103",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-613103"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 968,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613103",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c132b7c0-3754-4f54-bc26-3906128582f2-lg.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdaje se garažno mjesto u Podgorici, na izuzetno traženoj lokaciji u Premium Kvartu. Ovaj prostrani garažni prostor od 13.0 m² nalazi se na spratu -1, pružajući lak pristup i sigurnost za vaše vozilo.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:27.101908+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.375722+00:00",
+  "source_html_sha256": "88429b58555d0fdef4b7c820b13ab23101161901447a599f4160c2242ac4224f",
+  "title": "Izdavanje, parking/garaža, 13m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-09",
+  "updated_date": "2026-10-08",
+  "price_amount": 80,
+  "price_currency": "EUR",
+  "price_raw": "80 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Matija Mazic",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garažno mjesto u Podgorici, na izuzetno traženoj lokaciji u Premium Kvartu. Ovaj prostrani garažni prostor od 13.0 m² nalazi se na spratu -1, pružajući lak pristup i sigurnost za vaše vozilo.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!968",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267284801",
+      "name": "Matija Mazic",
+      "email": null,
+      "source": "workbook:Outreach list!968"
+    },
+    {
+      "phone_e164": "+38267284801",
+      "name": "Matija Mazic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267284801"
+  ],
+  "phone_e164": "+38267284801",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

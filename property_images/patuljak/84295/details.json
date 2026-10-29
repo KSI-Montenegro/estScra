@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "84295",
+  "listing_url": "https://patuljak.me/oglas/prodajem-polovinu-dvojne-kuce-u-momisice-kod-ars-m--84295",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-polovinu-dvojne-kuce-u-momisice-kod-ars-m--84295"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 71,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84295",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Broj soba": "7",
+    "Stambena kvadratura": "180 m2",
+    "Broj spratova": "2",
+    "Godina izgradnje": "1970-1979",
+    "Namještena": "Ne",
+    "Kvadratura placa": "287 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84295_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84295_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84295_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodaje se Polovina dvojne kuce u Momisice preko puta Ars Medike.\n\nKuca ima 180m2 stambenog prostora, na placu od 287m2.\n\nDvojna kuca je podijeljena po vertikali i ima odvojeni ulaz i dvoriste\n( u DUP u je to urbana parcela UP10b Dupa ,Momisici A-dio zone 1PG.\n\nTakodje dozvoljena je gradnja na parceli SU+P+2PK na osnovu UTU br.08-352/21-526 od 24.06.2021g.\n\nAdresa je VII omladinske br.30.\n\nKuca ima duplex stan na 2 sprata sa 4 terase 2 kupatila, stan u suteren, veliko dvoriste i garazu.\n\nStara kvalitetna gradnja sa heps nosacima,moze da izdrzi zemljotres 9 rihtera.\n\nCijena 330 000\n\n067 403 762",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:30.353383+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.336823+00:00",
+  "source_html_sha256": "9c5f17c0c63cc74da212bb58c27c8b6c54ed6cdb5493b0e0b4b4c6e19dc0990c",
+  "title": "Prodajem polovinu dvojne kuce u Momisice kod Ars Medika",
+  "description_language": "en",
+  "price_raw": "330000.00€",
+  "price_amount": 330000,
+  "price_currency": "EUR",
+  "advertiser_name": "Milena",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "building_floors_raw": "2",
+  "room_layout_raw": "7",
+  "area_m2": 180,
+  "year_built": 1970,
+  "amenities": [],
+  "metadata_summary": "Prodaje se Polovina dvojne kuce u Momisice preko puta Ars Medike.Kuca ima 180m2 stambenog prostora,  na placu od 287m2.Dvojna kuca je podijeljena po vertikali i ima odvojeni ulaz i dvoriste ( u DUP u je to urbana parcela UP10b Dupa ,Momisici A-dio zone 1PG.Takodje dozvoljena je gradnja na parceli SU+P+2PK na osnovu UTU br.08-352/21-526 od 24.06.2021g.Adresa je VII omladinske br.30.Kuca ima duplex stan na 2 sprata sa 4 terase 2 kupatila, stan u suteren, veliko dvoriste i garazu.Stara kvalitetna gradnja sa heps nosacima,moze da izdrzi zemljotres 9 rihtera.Cijena 330 000067 403 762",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!71",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267403762",
+      "name": "Milena",
+      "email": null,
+      "source": "workbook:Likely agents!71"
+    }
+  ],
+  "contact_phones": [
+    "+38267403762"
+  ],
+  "phone_e164": "+38267403762",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

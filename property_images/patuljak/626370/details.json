@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "626370",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-44m2-budva-direktno-od-vlasnika-h--626370",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-44m2-budva-direktno-od-vlasnika-h--626370"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 117,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_626370",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!117:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Ostalo",
+    "Broj prostorija": "1",
+    "Sprat": "Prizemlje",
+    "Namješten": "Polunamješten",
+    "Godina izgradnje": "2000-2009",
+    "Vrsta poda": "Pločice",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "44 m2",
+    "Uknjiženo": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/06/626370_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/06/626370_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/06/626370_3.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodajem poslovni prostor 1/1 , Budva - Prijevor. Jedna od najkvalitetnije napravljaneih zgrada u Budvi. Lokacija pored puta, mogućnost korištenja za sve vrste poslova. Postoji mogućnost i izdavanja ili preuređenja za stan. Direktno od vlasnika. Prolaskom nove zaobilaznice dobiće veću vrijednost.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:32.655419+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.911203+00:00",
+  "source_html_sha256": "1b8ba896a57cc86597017f59c9d097498066fd386a520f5c7860388e53240b68",
+  "title": "Poslovni prostor 44m2, , Budva direktno od vlasnika HITNO, Prijevor Prodaja",
+  "description_language": "en",
+  "price_raw": "78000.00€",
+  "price_amount": 78000,
+  "price_currency": "EUR",
+  "advertiser_name": "Dušan",
+  "property_type": "commercial",
+  "city": "Budva",
+  "district": "Ostalo",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Polunamješten",
+  "parking_raw": "1",
+  "area_m2": 44,
+  "year_built": 2000,
+  "parking_spaces": 1,
+  "amenities": [
+    "Uknjiženo"
+  ],
+  "metadata_summary": "Prodajem poslovni prostor 1/1 , Budva - Prijevor. Jedna od najkvalitetnije napravljaneih zgrada u Budvi. Lokacija pored puta, mogućnost korištenja za sve vrste poslova. Postoji mogućnost i izdavanja ili preuređenja za stan. Direktno od vlasnika. Prolaskom nove zaobilaznice dobiće veću vrijednost.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!117",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268816500",
+      "name": "Dušan",
+      "email": null,
+      "source": "workbook:Not homes!117"
+    }
+  ],
+  "contact_phones": [
+    "+38268816500"
+  ],
+  "phone_e164": "+38268816500",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "73515",
+  "listing_url": "https://patuljak.me/oglas/prodajem-garsonjeru-u-budvi--73515",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-garsonjeru-u-budvi--73515"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 41,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73515",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!41:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Rozino",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Kvadratura": "22 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Kvadratura balkona": "5 m2",
+    "Vrsta poda": "Parket",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73515_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73515_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73515_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73515_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73515_4.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Na prodaju garsonjera smještena u mirnom dijelu Budve, u stambenoj porodičnoj zgradi. Stan je idealan za život, odmor ili kao investicija za izdavanje. Nalazi se na odličnoj lokaciji, u blizini svih neophodnih sadržaja, a istovremeno pruža mir i privatnost.\nZa više informacija i dogovor oko razgledanja, slobodno se javite.\n067668664",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:52.845346+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.020328+00:00",
+  "source_html_sha256": "9f5a9da4c00afa7477468e6e5d74c8492c67f4b01345335be671b94adf279c0a",
+  "title": "Prodajem garsonjeru u Budvi",
+  "description_language": "en",
+  "price_raw": "95.00€",
+  "price_amount": 95,
+  "price_currency": "EUR",
+  "advertiser_name": "Leona",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Rozino",
+  "floor_raw": "2",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 22,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Na prodaju garsonjera smještena u mirnom dijelu Budve, u stambenoj porodičnoj zgradi. Stan je idealan za život, odmor ili kao investicija za izdavanje. Nalazi se na odličnoj lokaciji, u blizini svih neophodnih sadržaja, a istovremeno pruža mir i privatnost.Za više informacija i dogovor oko razgledanja, slobodno se javite.067668664",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!41",
+      "notes": "check deal: sale at 95 EUR looks like a rent",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267668664",
+      "name": "Leona",
+      "email": null,
+      "source": "workbook:Outreach list!41"
+    }
+  ],
+  "contact_phones": [
+    "+38267668664"
+  ],
+  "phone_e164": "+38267668664",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

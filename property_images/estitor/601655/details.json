@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "601655",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-601655",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-601655"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 735,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_601655",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "0",
+    "Broj etaža": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/436d9a7f-37c0-4cbf-baeb-10c0431c94c3-lg.webp",
+    "https://content.estitor.com/3e253cb3-3f39-4ffa-b935-8748f0399393-lg.webp",
+    "https://content.estitor.com/bde412c8-6be9-4180-9869-2897a4d351e5-lg.webp",
+    "https://content.estitor.com/9dd73155-f3f9-4c9c-85fb-867ffbc6326a-lg.webp",
+    "https://content.estitor.com/7fb8d47a-19e8-4976-9275-d49ebd9dc4aa-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem kucu u dobrom stanju, prizemlje, parking i dvoriste",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:49.840514+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.092865+00:00",
+  "source_html_sha256": "15d4f3329306eb4d2ccc844c8868ec142dd7d4b2d83a373a0d30e9881759df31",
+  "title": "Izdavanje, kuća, 70m², Donja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-26",
+  "updated_date": "2026-08-26",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 70,
+  "rooms": 4,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Nikola Markovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem kucu u dobrom stanju, prizemlje, parking i dvoriste",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!735",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267839970",
+      "name": "Nikola Markovic",
+      "email": null,
+      "source": "workbook:Outreach list!735"
+    },
+    {
+      "phone_e164": "+38267839970",
+      "name": "Nikola Markovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267839970"
+  ],
+  "phone_e164": "+38267839970",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

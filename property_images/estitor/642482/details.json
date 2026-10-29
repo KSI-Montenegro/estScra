@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "642482",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642482",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642482"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 571,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_642482",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "7. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8ce2bccd-da4a-42f3-8cc8-733ab2a42057-lg.webp",
+    "https://content.estitor.com/172b2f4c-c83a-43b3-8b78-d37bf04e8cf7-lg.webp",
+    "https://content.estitor.com/4bdada9d-c4fd-4269-af38-48c2d965af4e-lg.webp",
+    "https://content.estitor.com/05fa2b8f-52f8-4ec9-99de-f17336473b0c-lg.webp",
+    "https://content.estitor.com/798f2b01-28b1-4858-b05b-7dac072b1245-lg.webp",
+    "https://content.estitor.com/7c4ad117-3494-47ef-912c-5878644e2260-lg.webp",
+    "https://content.estitor.com/03054116-ead0-48ac-932c-541c8bb6b3de-lg.webp",
+    "https://content.estitor.com/a9b51817-3e00-4c62-b83f-39973336991b-lg.webp",
+    "https://content.estitor.com/e89c5a9d-e746-47eb-866e-ec204a7bae78-lg.webp",
+    "https://content.estitor.com/e852b52a-ac22-4daa-904f-616ada139583-lg.webp",
+    "https://content.estitor.com/630acff8-6219-48bc-b50e-a7d1ba3467a5-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Dugoročno rentiranje\nVeoma moderan i prostran jednosoban apartman, nalazi se na sedmom spratu nove zgrade u Master kvartu u Podgorici, na samo 5 min hoda od Big Fashion šoping centra.\nApartman ima 50m2.\nStan se sastoji od dnevnog boravka, trpezarije, potpuno opremljene kuhinje, spavaće sobe, kupatila, hodnika i terase.\nMjesečni zakup je + računi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:29.630013+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.216116+00:00",
+  "source_html_sha256": "4056f1d6c24f6f7e3134be850ade085ecc98ebbb40cf9881e69223f1c8c3a70f",
+  "title": "Izdavanje, jednosoban stan, 50m², Master Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-23",
+  "updated_date": "2026-10-23",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Zgrada Linea, bb Blv. Knjaza Danila Petrovića, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Verica Stanojevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "7. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Dugoročno rentiranjeVeoma moderan i prostran jednosoban apartman, nalazi se na sedmom spratu nove zgrade u Master kvartu u Podgorici, na samo 5 min hoda od Big Fashion šoping centra. Apartman ima 50m2.Stan se sastoji ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!571",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269516197",
+      "name": "Verica Stanojevic",
+      "email": null,
+      "source": "workbook:Outreach list!571"
+    },
+    {
+      "phone_e164": "+38269516197",
+      "name": "Verica Stanojevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269516197"
+  ],
+  "phone_e164": "+38269516197",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

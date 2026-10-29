@@ -1,0 +1,111 @@
+{
+  "source": "patuljak",
+  "listing_id": "74543",
+  "listing_url": "https://patuljak.me/oglas/izdajem-prodajem--74543",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-prodajem--74543"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 947,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74543",
+  "field_sources": {
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "title": "workbook:Outreach list!947:primary_url_fields",
+    "deal_type": "workbook:Outreach list!947:primary_url_fields",
+    "city": "workbook:Outreach list!947:primary_url_fields",
+    "price_amount": "workbook:Outreach list!947:primary_url_fields",
+    "price_currency": "workbook:Outreach list!947:primary_url_fields"
+  },
+  "source_attributes": {},
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "unavailable_redirect",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": false,
+  "source_page_captured_at": "2026-10-29T19:21:13.845327+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.244643+00:00",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!947",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267360189",
+      "name": "Aleksandra",
+      "email": null,
+      "source": "workbook:Outreach list!947"
+    }
+  ],
+  "contact_phones": [
+    "+38267360189"
+  ],
+  "phone_e164": "+38267360189",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "title": "Izdajem prodajem",
+  "deal_type": "rent",
+  "city": "Podgorica",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "missing_core_fields": [
+    "description_original",
+    "property_type",
+    "area",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "source_unavailable",
+  "property_type": null,
+  "price_raw": null,
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "advertiser_name": null,
+  "amenities": null
+}

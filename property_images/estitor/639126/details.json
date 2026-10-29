@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "639126",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639126",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639126"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 788,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639126",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2010",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4deacfb1-cad6-4ea8-bf15-90587dd86342-lg.webp",
+    "https://content.estitor.com/7efde417-06a8-4f08-aa3f-80a71b54013d-lg.webp",
+    "https://content.estitor.com/0e5d6267-424d-463a-b4f9-270f02fb6675-lg.webp",
+    "https://content.estitor.com/a7f6a4ba-06ee-4e9f-a57d-26ccbadeb76d-lg.webp",
+    "https://content.estitor.com/c863d868-3902-4165-97c3-518a15e119aa-lg.webp",
+    "https://content.estitor.com/307fa38e-b698-4a80-a7d5-d91e486f66a8-lg.webp",
+    "https://content.estitor.com/b18f0cad-d688-4335-a857-97cfd03e10a6-lg.webp",
+    "https://content.estitor.com/74965858-7dbd-4b45-baff-c7e83f9ed03f-lg.webp",
+    "https://content.estitor.com/8492ccd7-35d8-480a-9233-51e2ef1d0eaa-lg.webp",
+    "https://content.estitor.com/1c03c621-8df8-411b-a011-394165687088-lg.webp",
+    "https://content.estitor.com/7f9a5946-665f-42aa-93b1-42a081a85aca-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Otkrijte praktičan i potpuno namješten studio apartman dostupan za iznajmljivanje u Budvi, Mejn. Ova efikasna nekretnina od 18,0 m² nalazi se na prizemlju, nudeći praktičan raspored sa jednim kupatilom, funkcionalnom kuhinjom i namjenskim hodnikom.\n\nStanari će imati koristi od modernih pogodnosti uključujući klima uređaj, kablovsku televiziju i brzu internet konekciju. Javni parking je lako dostupan, što doprinosi praktičnosti. Ovaj apartman pruža kompaktno i udobno rješenje za stanovanje sa svim bitnim karakteristikama u Budvi, Mejn.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:22.806541+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.620780+00:00",
+  "source_html_sha256": "e895768135b7fe57a1c24655b6435e127f904baeaae66ac84c7d9752ad1810b8",
+  "title": "Izdavanje, garsonjera, 18m², Maine, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 18,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Mainski put, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Fidan Akel",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2010,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Otkrijte praktičan i potpuno namješten studio apartman dostupan za iznajmljivanje u Budvi, Mejn. Ova efikasna nekretnina od 18,0 m² nalazi se na prizemlju, nudeći praktičan raspored sa jednim kupatilom, funkcionalnom ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!788",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+905324640541",
+      "name": "Fidan Akel",
+      "email": null,
+      "source": "workbook:Outreach list!788"
+    },
+    {
+      "phone_e164": "+905324640541",
+      "name": "Fidan Akel",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+905324640541"
+  ],
+  "phone_e164": "+905324640541",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

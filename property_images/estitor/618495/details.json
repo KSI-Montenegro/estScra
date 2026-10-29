@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "618495",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-618495",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-618495"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 969,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_618495",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Za renoviranje",
+    "Opremljen": "Ne",
+    "Parking": "Javni parking",
+    "Dvorište": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5de9df9b-8e6f-4379-865d-17904c4c409a-lg.webp",
+    "https://content.estitor.com/8406ba2e-207b-4dfa-a1d6-00f9a90e9fca-lg.webp",
+    "https://content.estitor.com/bc3817ec-a46b-4750-83cf-06fa3b128cc1-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostor od 35² u prizemlju stambene zgrade u Nikšiću, naselje kvart, u blizini [orijentir].\nRaspored: Neopremljen studio apartman sa prostorom za kuhinju, ostavom i wc-om\nKarakteristike:\nOgrađena terasa ispred ulaza — popločana, sa zasebnom kapijom, idealna za ljetnu baštu, izlaganje robe ili prostor za čekanje.\n\nZaseban ulaz, nezavisan od ulaza u zgradu\n\nPrizemlje, bez stepenica na samom ulazu u prostor\n\nMjesto za svijetleću reklamu iznad ulaza (postojeći nosač)\n\nMirno naselje, pješačka zona ispred, slobodno parkiranje u neposrednoj blizini\n\nNamjena: kancelarija, ordinacija, advokatska ili knjigovodstvena kancelarija, salon, studio, agencija, tiha uslužna djelatnost.\nNapomena: prostor trenutno nije uknjižen kao poslovni. Ako je zakupcu potrebna registracija djelatnosti na adresi, spremni smo da pokrenemo postupak prenamjene — dogovor oko toga je moguć uz zakup na duži rok.\nUseljiv odmah.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:27.105406+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.380840+00:00",
+  "source_html_sha256": "3fcafa6eb871b8b3a22eec985a0a3267318afeaefa14dea3ced517a0a989d12c",
+  "title": "Izdavanje, garsonjera, 35m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-17",
+  "updated_date": "2026-09-24",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 35,
+  "bathrooms": 1,
+  "city": "Nikšić",
+  "street_address": "5C IV Crnogorska, Nikšić, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Šćepan Gardašević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Za renoviranje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Dvorište"
+  ],
+  "metadata_summary": "Izdaje se prostor od 35² u prizemlju stambene zgrade u Nikšiću, naselje kvart, u blizini [orijentir].Raspored: Neopremljen studio apartman sa prostorom za kuhinju, ostavom i wc-omKarakteristike:Ograđena terasa ispred ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!969",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268208694",
+      "name": "Šćepan Gardašević",
+      "email": null,
+      "source": "workbook:Outreach list!969"
+    },
+    {
+      "phone_e164": "+38268208694",
+      "name": "Šćepan Gardašević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268208694"
+  ],
+  "phone_e164": "+38268208694",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

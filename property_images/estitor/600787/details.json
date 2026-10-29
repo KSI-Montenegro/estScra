@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "600787",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-600787",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-600787"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 277,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_600787",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/fa35224b-8b11-4f29-9140-a36002b149a9-lg.webp",
+    "https://content.estitor.com/a367f50a-9384-4d77-b77d-b4eb08e85d65-lg.webp",
+    "https://content.estitor.com/5587b2b4-8377-4704-b322-47864c906e6c-lg.webp",
+    "https://content.estitor.com/fbe05d12-96e2-4b8d-805a-7e448f16db1e-lg.webp",
+    "https://content.estitor.com/9fabc1b4-bb3c-414b-9c44-f8f4961d1194-lg.webp",
+    "https://content.estitor.com/7384d492-a428-473f-b239-a7fc0eb680ad-lg.webp",
+    "https://content.estitor.com/cdf577a7-591b-49f9-84ce-81e20ca4f927-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Pogled na more",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:59.937375+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.516969+00:00",
+  "source_html_sha256": "9840e978335560b2ec65f6d9350461d0e163ab159f016d363ae9862a1cd39a84",
+  "title": "Izdavanje, garsonjera, 33m², Dobra Voda, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-25",
+  "updated_date": "2026-10-17",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 33,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "E851, Dobra Voda, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Selma Mehanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Pogled na more",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!277",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38762335877",
+      "name": "Selma Mehanovic",
+      "email": null,
+      "source": "workbook:Outreach list!277"
+    },
+    {
+      "phone_e164": "+38762335877",
+      "name": "Selma Mehanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38762335877"
+  ],
+  "phone_e164": "+38762335877",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

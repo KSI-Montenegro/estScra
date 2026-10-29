@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "375419",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-375419",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-375419"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 59,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_375419",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2020",
+    "Orijentacija": "Jug zapad",
+    "Parking": "Da",
+    "Udaljenost od mora": "500",
+    "Internet": "true",
+    "Telefon": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6b70e570-5437-42cc-8f9f-12a368a9cc71-lg.webp",
+    "https://content.estitor.com/1e07f6b7-aa69-4d02-81b6-3c69b2cd28ac-lg.webp",
+    "https://content.estitor.com/321f33a8-f181-4db8-a0eb-4de88216bdd1-lg.webp",
+    "https://content.estitor.com/d1f70f38-9df4-41a1-8773-82ece3dcd0b9-lg.webp",
+    "https://content.estitor.com/272126a5-5d25-4306-84c7-a1f98f5178f8-lg.webp",
+    "https://content.estitor.com/d96e026b-7e8b-4564-8cab-2dd7007979d4-lg.webp",
+    "https://content.estitor.com/4f71ac45-62a6-4c15-a34d-09b5c86242f0-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Apartment for Long-Term Rent\nFully equipped with high-quality appliances and comfortable soft furniture.\nIncludes a private parking space.\nThe apartment is fresh, clean, and cozy, located in a quiet area within walking distance of the sea and the new bus station Igalo.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:20.994392+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.208871+00:00",
+  "source_html_sha256": "8ca502344ac500bcc6d64c3a739560795b2c4fc7cab1d702794854a5fb5d11ae",
+  "title": "Izdavanje, jednosoban stan, 54m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2025-05-12",
+  "updated_date": "2026-09-24",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 54,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Nadež Mik",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Da",
+  "orientation_raw": "Jug zapad",
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Telefon",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Apartment for Long-Term RentFully equipped with high-quality appliances and comfortable soft furniture.Includes a private parking space.The apartment is fresh, clean, and cozy, located in a quiet area within walking d...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!59",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269212505",
+      "name": "Nadež Mik",
+      "email": null,
+      "source": "workbook:Likely agents!59"
+    },
+    {
+      "phone_e164": "+38269212505",
+      "name": "Nadež Mik",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269212505"
+  ],
+  "phone_e164": "+38269212505",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "610787",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610787",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610787"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 80,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_610787",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7309de80-402d-4886-82d4-0a7c7f0f6417-lg.webp",
+    "https://content.estitor.com/ebdd4fab-6e81-4a3b-bd84-3c3cdc97ea47-lg.webp",
+    "https://content.estitor.com/5cda427d-4e9d-4e68-9fc3-6651b1adf6a9-lg.webp",
+    "https://content.estitor.com/a0d6ae88-27fa-4a61-86e4-69522c53a6e7-lg.webp",
+    "https://content.estitor.com/f8ab211d-250f-4f3e-8c8c-e264bce05854-lg.webp",
+    "https://content.estitor.com/ef9ce769-6cf5-47fa-8574-3565753e8c1d-lg.webp",
+    "https://content.estitor.com/89c62027-2eeb-4c48-88cb-3a7095c8fd40-lg.webp",
+    "https://content.estitor.com/dfab0baa-8fa6-4b61-b0ec-5c10c5c0051f-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se odmah useljiva garsonjera na početku Starog aerodroma, smještena u Normal zgradi.\nOvaj udoban stan, površine 28.0 m², idealan je za pojedince koji traže kvalitetan i funkcionalan životni prostor. Nalazi se na 1.spratu.\nGarsonjera je namještena i klimatizovana. spremna za stanovanje bez dodatnih ulaganja. Zgrada ima lift i interfon za dodatnu sigurnost.\nDostupan je javni parking iza zgrade. Blizina svih neophodnih sadržaja čini ovu nekretninu izuzetno praktičnom za svakodnevni život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:37.469521+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.438214+00:00",
+  "source_html_sha256": "83433d55adf7678715304eb1be17dcf5f6cd509ba04ce222f63762e21d463d1c",
+  "title": "Izdavanje, garsonjera, 28m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-05",
+  "updated_date": "2026-09-05",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Bulevar Pera Ćetkovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nada Milošević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se odmah useljiva garsonjera na početku Starog aerodroma, smještena u Normal zgradi.Ovaj udoban stan, površine 28.0 m², idealan je za pojedince koji traže kvalitetan i funkcionalan životni prostor. Nalazi se na...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!80",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269520124",
+      "name": "Nada Milošević",
+      "email": null,
+      "source": "workbook:Likely agents!80"
+    },
+    {
+      "phone_e164": "+38269520124",
+      "name": "Nada Milošević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269520124"
+  ],
+  "phone_e164": "+38269520124",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

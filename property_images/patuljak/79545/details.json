@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "79545",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-jednosoban-stan--79545",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-jednosoban-stan--79545"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 10,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79545",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!10:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "1. Maj (iza Delte)",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "Visoko prizemlje",
+    "Kvadratura": "54 m2",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79545_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Prodaja | U blizini Central Pointa | 42m2+12m2 | 145.000€\n\nJednosoban stan na atraktivnoj lokaciji dostupan je za prodaju.\nFunckionalan raspored i komfor čine ovaj stan idealnom prilikom za Vašu investiciju ili stanovanje.\n\nStruktura stana:\n- dnevni boravak\n- kuhinja\n- hodnik\n- kupatilo\n- spavaća soba\n- terasa od 12m2\n\nStan se nalazi na visokom prizemlju novogradnje.\nU cijenu je uračunato i parking mjesto pod rampom.\n\n???? +38267943000\n???? rdrealestate.me@gmail.com\n\nSale | Near Central Point | 42m2+12m2 | €145,000\n\nA one bedroom apartment in an attractive location is available for sale. Functional layout and comfort make this apartment an ideal opportunity for your investment or residence.\n\nApartment structure:\n- living room\n- kitchen\n- hallway\n- bathroom\n- bedroom\n- terrace\n\nThe apartment is located on the high ground floor of a new building. The price includes a parking space under the ramp.\n\n???? +38267943000\n???? rdrealestate.me@gmail.com",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:44.535529+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.680556+00:00",
+  "source_html_sha256": "d800e9555b5d6b9cc889193365751cc1920156360b2c724c1c4341edbfe97e29",
+  "title": "Prodaje se jednosoban stan",
+  "description_language": "en",
+  "price_raw": "145000.00€",
+  "price_amount": 145000,
+  "price_currency": "EUR",
+  "advertiser_name": "Nikolina",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "1. Maj (iza Delte)",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 54,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodaja | U blizini Central Pointa | 42m2+12m2 | 145.000€ Jednosoban stan na atraktivnoj lokaciji dostupan je za prodaju. Funckionalan raspored i komfor čine ovaj stan idealnom prilikom za Vašu investiciju ili stanovanje. Struktura stana: - dnevni boravak - kuhinja - hodnik - kupatilo- spavaća soba - terasa od 12m2Stan se nalazi na visokom prizemlju novogradnje. U cijenu je uračunato i parking mjesto pod rampom. ???? +38267943000???? rdrealestate.me@gmail.comSale | Near Central Point | 42m2+12m2 | €145,000 A one bedroom apartment in an attractive location is available for sale. Functional layout and comfort make this apartment an ideal opportunity for your investment or residence. Apartment structure: - living room - kitchen - hallway - bathroom - bedroom - terrace The apartment is located on the high ground floor of a new building. The price includes a parking space under the ramp. ???? +38267943000 ???? rdrealestate.me@gmail.com",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!10",
+      "agent_reasons": "6 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267943000",
+      "name": "Nikolina Rd",
+      "email": null,
+      "source": "workbook:Likely agents!10"
+    }
+  ],
+  "contact_phones": [
+    "+38267943000"
+  ],
+  "phone_e164": "+38267943000",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,127 @@
+{
+  "source": "patuljak",
+  "listing_id": "5384",
+  "listing_url": "https://patuljak.me/oglas/garazno-mjesto-zabjelo-podgorica-izdavanje--5384",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garazno-mjesto-zabjelo-podgorica-izdavanje--5384"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 957,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_5384",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!957:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Adresa": "4.jul",
+    "Kvadrata": "13"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5384_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdajem garazno mjesto, ul. 4.jul Zabjelo.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:21.201849+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.307539+00:00",
+  "source_html_sha256": "7514c06b1d22f073b63f8dd2842953fa16966bed8bbb1fabddae9efe3f7fdac8",
+  "title": "Garazno mjesto, Zabjelo, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "50.00€",
+  "price_amount": 50,
+  "price_currency": "EUR",
+  "advertiser_name": "Mila",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "street_address": "4.jul",
+  "amenities": [],
+  "metadata_summary": "Izdajem garazno mjesto, ul. 4.jul Zabjelo.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!957",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268878312",
+      "name": "Mila",
+      "email": null,
+      "source": "workbook:Outreach list!957"
+    }
+  ],
+  "contact_phones": [
+    "+38268878312"
+  ],
+  "phone_e164": "+38268878312",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

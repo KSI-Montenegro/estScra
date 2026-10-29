@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "640696",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-640696",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-640696"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 247,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640696",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b1147f12-4f77-458d-bb2e-6ceeb97a41d6-lg.webp",
+    "https://content.estitor.com/5bc96115-732e-47a5-bb08-865035ab0e71-lg.webp",
+    "https://content.estitor.com/9c0578c2-93d1-478c-809a-cf84668d5b34-lg.webp",
+    "https://content.estitor.com/ef2e4fe6-2e74-4027-aab2-2dd630b3e350-lg.webp",
+    "https://content.estitor.com/37be053e-267b-4da8-81eb-14bcb229b795-lg.webp",
+    "https://content.estitor.com/3e3511a2-f747-420e-a4dd-c9a1a73848c6-lg.webp",
+    "https://content.estitor.com/9ea8a612-a220-4096-8f91-37d46dd6120b-lg.webp",
+    "https://content.estitor.com/68101fa5-15eb-40a2-9756-fc615dd20055-lg.webp",
+    "https://content.estitor.com/950eb4c8-824c-4bfb-a1a7-93554cd96925-lg.webp",
+    "https://content.estitor.com/a7d4eb1f-9fa5-4b78-8641-00e70f686ee4-lg.webp",
+    "https://content.estitor.com/9c81181f-b616-4295-995a-af08a83ed548-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijep, funkcionalan jednosoban stan u Bečićima.\nStan se nalazi na 3. spratu novije zgrade sa liftom, na mirnoj i praktičnoj lokaciji. Udaljen je oko 3 minute od IDEA supermarketa i svega 6-7 minuta hoda do plaže.\nPo strukturi, stan čine manji ulazni hodnik, prostran dnevni boravak sa trpezarijom i kuhinjom, odvojena spavaća soba, komotno kupatilo i terasa koja je lijepo osunčana tokom dana. Prostor je prijatan za boravak i dobro organizovan.\nU cijenu zakupa uključeno je i garažno mjesto u sklopu zgrade, što je posebno praktično, naročito tokom ljetnjih mjeseci. Prilaz zgradi je jednostavan, bez uskih ulica i gužvi!\nStan se izdaje na godinu dana. Prilikom zakupa plaća se prva kirija i depozit.\nZa više informacija ili dogovor oko obilaska, slobodno se javite.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:45.024169+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.328137+00:00",
+  "source_html_sha256": "1b0d766e9ccbdc3a5323a4de34b3fdc71d90d038e4e9881f15095c929043a676",
+  "title": "Izdavanje, jednosoban stan, 48m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-29",
+  "price_amount": 520,
+  "price_currency": "EUR",
+  "price_raw": "520 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "E80, Bečići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Slavko S",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Dvorište",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se lijep, funkcionalan jednosoban stan u Bečićima.Stan se nalazi na 3. spratu novije zgrade sa liftom, na mirnoj i praktičnoj lokaciji. Udaljen je oko 3 minute od IDEA supermarketa i svega 6-7 minuta hoda do pl...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!247",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268640262",
+      "name": "Slavko S",
+      "email": null,
+      "source": "workbook:Outreach list!247"
+    },
+    {
+      "phone_e164": "+38268640262",
+      "name": "Slavko S",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268640262"
+  ],
+  "phone_e164": "+38268640262",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

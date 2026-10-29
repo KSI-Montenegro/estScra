@@ -1,0 +1,134 @@
+{
+  "source": "estitor",
+  "listing_id": "639044",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-bar/id-639044",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-bar/id-639044"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 976,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639044",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/07982afa-3f04-46c8-9ad8-3505e3b6cb07-lg.webp",
+    "https://content.estitor.com/679cb251-b054-4b33-92f5-304e50372b5b-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se garažno parking mjesto u podzemnoj garaži, u zgradi Zeta gradnje, na odličnoj lokaciji u centru Bara.\nProstor je bezbjedan i pokriven video-nadzorom (kamerama), što pruža dodatnu sigurnost za vaše vozilo.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:30.550788+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.425587+00:00",
+  "source_html_sha256": "93b8c59045757d92e6556b7ec00e69d9448be704206c256dcb1bcd1321bf2f25",
+  "title": "Izdavanje, parking/garaža, 13m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 85,
+  "price_currency": "EUR",
+  "price_raw": "85 EUR",
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Milica Pavicevic",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garažno parking mjesto u podzemnoj garaži, u zgradi Zeta gradnje, na odličnoj lokaciji u centru Bara.Prostor je bezbjedan i pokriven video-nadzorom (kamerama), što pruža dodatnu sigurnost za vaše vozilo.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!976",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267734378",
+      "name": "Milica Pavicevic",
+      "email": null,
+      "source": "workbook:Outreach list!976"
+    },
+    {
+      "phone_e164": "+38267734378",
+      "name": "Milica Pavicevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267734378"
+  ],
+  "phone_e164": "+38267734378",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

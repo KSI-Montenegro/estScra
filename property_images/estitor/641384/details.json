@@ -1,0 +1,121 @@
+{
+  "source": "estitor",
+  "listing_id": "641384",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641384",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641384"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 31,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_641384",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2bb35d04-17ab-4463-b196-f2a64b6021e7-lg.webp",
+    "https://content.estitor.com/9aad3a82-2cdd-4a98-8e0a-ae21d13000e3-lg.webp",
+    "https://content.estitor.com/e0f6974b-0c8b-4bfd-ac6a-4c2cc22abe84-lg.webp",
+    "https://content.estitor.com/ee2c0e44-b988-4866-92b3-2866317f915d-lg.webp",
+    "https://content.estitor.com/551b52e9-c18d-4952-b7bc-d6f255f8658e-lg.webp",
+    "https://content.estitor.com/5e94500e-0eaf-4d70-a7e2-0df652cf954c-lg.webp",
+    "https://content.estitor.com/6f7b86af-332f-47c1-ac75-78a192cfc6e4-lg.webp",
+    "https://content.estitor.com/a90c435f-7a08-4081-811b-efdde06eae24-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Miran kraj, odlična investicija, uknjiženo\nNa prodaju zemljište na atraktivnoj lokaciji u Rvasima, u blizini Skadarskog jezera. Idealno za one koji traže mir, prirodu i autentičan ambijent, uz mogućnost razvoja različitih investicionih ideja, u skladu sa urbanističkim uslovima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:30.824845+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.639939+00:00",
+  "source_html_sha256": "c3a2f588b76c36735b230fae26b82c8e2190915f86f2cf2456a9028755c55a16",
+  "title": "Prodaja, plac, 2200m², Rvaši, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-27",
+  "price_amount": 26400,
+  "price_currency": "EUR",
+  "price_raw": "26400 EUR",
+  "city": "Cetinje",
+  "street_address": "https://maps.app.goo.gl/zApE9XnrHZeAizSs9",
+  "country": "ME",
+  "advertiser_name": "Sonja Glusac",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Miran kraj, odlična investicija, uknjiženoNa prodaju zemljište na atraktivnoj lokaciji u Rvasima, u blizini Skadarskog jezera. Idealno za one koji traže mir, prirodu i autentičan ambijent, uz mogućnost razvoja različi...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

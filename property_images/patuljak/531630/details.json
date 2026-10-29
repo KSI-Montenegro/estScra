@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "531630",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-jednosoban-stan-57m2-stari-aerodrom-pod--531630",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-jednosoban-stan-57m2-stari-aerodrom-pod--531630"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 221,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_531630",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednoiposoban",
+    "Namješten": "Polunamješten",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "1",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "57 m2",
+    "Kvadratura balkona": "4 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/12/531630_13.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Za prodaju jednosoban stan 57m2, Stari Aerodrom, Podgorica. 067202078",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:34.450241+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.171899+00:00",
+  "source_html_sha256": "4ffc3c0103f2af3936fe0b8307c9e2d4b4989434a31ea722754746933c996f09",
+  "title": "Za prodaju jednosoban stan 57m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "130000.00€",
+  "price_amount": 130000,
+  "price_currency": "EUR",
+  "advertiser_name": "Sandra",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "4",
+  "room_layout_raw": "Jednoiposoban",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 57,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Za prodaju jednosoban stan 57m2, Stari Aerodrom, Podgorica. 067202078",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!221",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267202078",
+      "name": "Sandra",
+      "email": null,
+      "source": "workbook:Outreach list!221"
+    }
+  ],
+  "contact_phones": [
+    "+38267202078"
+  ],
+  "phone_e164": "+38267202078",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

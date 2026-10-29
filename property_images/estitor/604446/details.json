@@ -1,0 +1,179 @@
+{
+  "source": "estitor",
+  "listing_id": "604446",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604446",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604446"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 337,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_604446",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 450,
+      "workbook_value": 500,
+      "source": "workbook:Outreach list!337"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/153be6d3-2d60-41d9-852b-73129fcfcb32-lg.webp",
+    "https://content.estitor.com/8c5eeadb-921f-424d-8bd9-7afc4a5c4b59-lg.webp",
+    "https://content.estitor.com/b94ccc3b-2b07-4b90-89b9-b565e8da70e8-lg.webp",
+    "https://content.estitor.com/c32dce11-1ff3-4540-bbcb-06cc2cb57dd6-lg.webp",
+    "https://content.estitor.com/02d1ecbb-1946-441f-bc32-d1af278a7f1b-lg.webp",
+    "https://content.estitor.com/f389b5ba-564d-4fa7-9d4a-8a73b2b47362-lg.webp",
+    "https://content.estitor.com/b9fc2253-6e53-4b8a-a38e-9cc029c88a71-lg.webp",
+    "https://content.estitor.com/9e9362c0-7c76-47db-96f8-8922d43f0db5-lg.webp",
+    "https://content.estitor.com/9cc8e7cd-e0b7-436a-be68-c3a1669b1189-lg.webp",
+    "https://content.estitor.com/650258db-979a-4fe3-8990-78b9c7a8e550-lg.webp",
+    "https://content.estitor.com/a73abe61-a638-45fe-99d5-8c7d8af6a8d1-lg.webp",
+    "https://content.estitor.com/4d9508a5-00f5-4904-ac97-fde9847fb652-lg.webp",
+    "https://content.estitor.com/11578023-89aa-4918-b5b4-a06025042d2b-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem stan 47m2, na 12mjeseci. Lokacija Topla 2, 500m od mora, 200m od Doma Zdravlja/SUP-a. Djecja igraonica i kafić na 50m. 3 prodavnice u blizini. Dnevni boravak sa bracnim krevetom i klimom, dvokrevetna soba, kuhinja, hodnik, kupatilo, velika terasa sa parcijalnim pogledom na more i planinu, ljepa bašta i privatna garaža.\nI am renting apartment 47m2, for 12 months. Location Topla 2, 500m from sea, 200m from community Health centre / Police station. Children's playroom and coffee bar within 50m. 3 markets nearby. Living room with king size family bed and air conditioner, separate two-bedded bedroom, kitchen, hallway, bathroom, big balcony with partial sea and mountain view, nice garden and private garage.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:29.937055+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.879350+00:00",
+  "source_html_sha256": "367cc7f6c60f58ea6f5975416d43dddf224bb7a6ec636aa87586a8f1d8c467bd",
+  "title": "Izdavanje, jednosoban stan, 47m², Topla, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-29",
+  "updated_date": "2026-10-28",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "68 Nikole Ljubibratića, Herceg - Novi, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vlado Kravic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Iznajmljujem stan 47m2, na 12mjeseci. Lokacija Topla 2, 500m od mora, 200m od Doma Zdravlja/SUP-a. Djecja igraonica i kafić na 50m. 3 prodavnice u blizini. Dnevni boravak sa bracnim krevetom i klimom, dvokrevetna soba...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!337",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+385915593700",
+      "name": "Vlado Kravic",
+      "email": null,
+      "source": "workbook:Outreach list!337"
+    },
+    {
+      "phone_e164": "+385915593700",
+      "name": "Vlado Kravic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+385915593700"
+  ],
+  "phone_e164": "+385915593700",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

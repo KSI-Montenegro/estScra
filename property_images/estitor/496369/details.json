@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "496369",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-496369",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-496369"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 596,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_496369",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2020",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/710c5583-0052-4954-a0fa-cacfcc3da2db-lg.webp",
+    "https://content.estitor.com/336d77b2-67b8-4368-8cfd-90788ca872f1-lg.webp",
+    "https://content.estitor.com/e13ff152-9cf8-4ba0-9d40-d7e019da9951-lg.webp",
+    "https://content.estitor.com/6e69111c-6a5a-4055-b39e-94c8309c7a6d-lg.webp",
+    "https://content.estitor.com/e91dc2ff-c6fc-4f94-9de4-0c20f07d9fdd-lg.webp",
+    "https://content.estitor.com/695d1ad6-7163-4b81-9b23-b7f0dee076fc-lg.webp",
+    "https://content.estitor.com/c0ba6282-8fcd-4dfd-b821-2cb52a875aa5-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "IZDAJEM NAMJESTENU GARSONJERU U PODGORICI U NOVOGRADNJI\n\n- POGODNA ZA STUDENTE\n\n- NA DUZI PERIOD\n\n- PRVI SPRAT\n- 33 M2\n\nOBALA RIBNICE U NEPOSREDNOJ BLIZINI CENTRA GRADA\n\nKONTAKT : MIKAN\n\nTELEFON +38269284170\n\nVIBER +38269284170",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:40.799340+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.337218+00:00",
+  "source_html_sha256": "f318fcfe4158b86d90a9945c70033b9b2a1e4acc7a2693fe3b2dd5344372c091",
+  "title": "Izdavanje, garsonjera, 33m², Drač, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-27",
+  "updated_date": "2026-10-19",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 33,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Novica Vukoslavcevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "IZDAJEM NAMJESTENU GARSONJERU  U PODGORICI U NOVOGRADNJI - POGODNA  ZA  STUDENTE- NA  DUZI   PERIOD- PRVI SPRAT- 33 M2  OBALA RIBNICE U NEPOSREDNOJ BLIZINI CENTRA GRADAKONTAKT   : MIKAN TELEFON  +38269284170VIBER     ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!596",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269284170",
+      "name": "Novica Vukoslavcevic",
+      "email": null,
+      "source": "workbook:Outreach list!596"
+    },
+    {
+      "phone_e164": "+38269284170",
+      "name": "Novica Vukoslavcevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269284170"
+  ],
+  "phone_e164": "+38269284170",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

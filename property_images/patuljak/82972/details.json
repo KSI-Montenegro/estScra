@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "82972",
+  "listing_url": "https://patuljak.me/oglas/prodaja-placeva-piperi--82972",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-placeva-piperi--82972"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 27,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82972",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!27:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Piperi",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "1000 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82972_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:38.771743+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.260108+00:00",
+  "source_html_sha256": "153250f7ad8f003dfe32451bcbc1f8d2aa7fd8b9f4b43664bd40891cbeb16924",
+  "title": "Prodaja placeva Piperi",
+  "description_language": "en",
+  "price_raw": "20.00€",
+  "price_amount": 20,
+  "price_currency": "EUR",
+  "advertiser_name": "Milovan",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Piperi",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaja placeva Piperi",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!27",
+      "notes": "check deal: sale at 20 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268829324",
+      "name": "Milovan",
+      "email": null,
+      "source": "workbook:Not homes!27"
+    }
+  ],
+  "contact_phones": [
+    "+38268829324"
+  ],
+  "phone_e164": "+38268829324",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 1000,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

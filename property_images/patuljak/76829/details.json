@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "76829",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-namjesten-stan-53m2-ljubovic-podgorica--76829",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-namjesten-stan-53m2-ljubovic-podgorica--76829"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 885,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76829",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ljubović",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Stambena kvadratura": "53 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76829_18.webp"
+  ],
+  "image_count": 19,
+  "image_status": "ok",
+  "description_original": "U ponudi je udoban i funkcionalan stan površine 53 m², smješten u naselju Ljubović, jednoj od praktičnih i traženih lokacija u Podgorici. Stan se nalazi na 2. spratu i predstavlja dobar izbor kako za život, tako i za dugoročno izdavanje ili investiciju.\n\nRaspored je vrlo praktičan: dnevni boravak, odvojeni kuhinjski dio, spavaća soba, kupatilo, hodnik i terasa. Enterijer je uređen u mirnim, neutralnim tonovima, sa namještajem i rasporedom koji prostoru daju prijatan i funkcionalan karakter.\n\nLokacija je veoma pogodna za svakodnevni život, jer se u blizini nalaze prodavnice, škole, vrtići i svi potrebni sadržaji. Dodatna prednost je teretana koja se nalazi u istoj zgradi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:32.992621+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.671917+00:00",
+  "source_html_sha256": "8eabaebc5330cf74547fb3b8f5cd9acd1953cd9471f9f9e8a49f9d5d22028601",
+  "title": "Jednosoban namješten stan 53m2, Ljubović - Podgorica",
+  "description_language": "en",
+  "price_raw": "149000.00€",
+  "price_amount": 149000,
+  "price_currency": "EUR",
+  "advertiser_name": "Sergej",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Ljubović",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 53,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "U ponudi je udoban i funkcionalan stan površine 53 m², smješten u naselju Ljubović, jednoj od praktičnih i traženih lokacija u Podgorici. Stan se nalazi na 2. spratu i predstavlja dobar izbor kako za život, tako i za dugoročno izdavanje ili investiciju.Raspored je vrlo praktičan: dnevni boravak, odvojeni kuhinjski dio, spavaća soba, kupatilo, hodnik i terasa. Enterijer je uređen u mirnim, neutralnim tonovima, sa namještajem i rasporedom koji prostoru daju prijatan i funkcionalan karakter.Lokacija je veoma pogodna za svakodnevni život, jer se u blizini nalaze prodavnice, škole, vrtići i svi potrebni sadržaji. Dodatna prednost je teretana koja se nalazi u istoj zgradi.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!885",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268533227",
+      "name": "Sergej",
+      "email": null,
+      "source": "workbook:Outreach list!885"
+    }
+  ],
+  "contact_phones": [
+    "+38268533227"
+  ],
+  "phone_e164": "+38268533227",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

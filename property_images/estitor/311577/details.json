@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "311577",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-311577",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-311577"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 811,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_311577",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "/",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "700m",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0b5f6eb7-98ea-4ec0-ad99-0f3e3bffabdb-lg.webp",
+    "https://content.estitor.com/12234ee8-95ee-417d-bb7e-a5113ac68b94-lg.webp",
+    "https://content.estitor.com/5eeb1c3f-9926-409b-b70c-26e54a478051-lg.webp",
+    "https://content.estitor.com/52bd0b4a-55de-4ad7-82c1-4abde320745b-lg.webp",
+    "https://content.estitor.com/27625d4d-ae9b-4624-bba2-169cb990e60f-lg.webp",
+    "https://content.estitor.com/223e31d3-a93b-4b28-a03e-20a8f147db02-lg.webp",
+    "https://content.estitor.com/ac3f27b2-6b7b-4e4c-b105-b87f1ad95e9c-lg.webp",
+    "https://content.estitor.com/8d77b99f-fc59-4859-a555-eb264a13c772-lg.webp",
+    "https://content.estitor.com/2d00f7b1-1bf0-4a7d-ad3d-e2b83e492c66-lg.webp",
+    "https://content.estitor.com/48e61a95-fced-480d-9570-4303e412b612-lg.webp",
+    "https://content.estitor.com/8a376746-9889-4388-abc8-08f488c71b86-lg.webp",
+    "https://content.estitor.com/df60861e-cc4f-447a-8d9d-e637b3bc385e-lg.webp",
+    "https://content.estitor.com/edc75e69-0a1c-461c-a70a-cafa62ada2fb-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Duzi najam, na godisnjem nivou. Стан је нов, скоро изграђен и опремљен apsolutno свиме што је потребно за свакодневно функционисање. Besplatan i osiguran parking, novogradnja, miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:41.938867+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.924767+00:00",
+  "source_html_sha256": "b8c6a89b6b4efa48915f739bde3c09023a8d9a4a643005a7c0a4bbb08733dcae",
+  "title": "Izdavanje, jednosoban stan, 37m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2024-11-20",
+  "updated_date": "2026-10-07",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "61 Rolovina, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Kascelan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "/",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Duzi najam, na godisnjem nivou. Стан је нов, скоро изграђен и опремљен apsolutno свиме што је потребно за свакодневно функционисање. Besplatan i osiguran parking, novogradnja, miran kraj",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!811",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267356643",
+      "name": "Ivan Kascelan",
+      "email": null,
+      "source": "workbook:Outreach list!811"
+    },
+    {
+      "phone_e164": "+38267356643",
+      "name": "Ivan Kascelan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267356643"
+  ],
+  "phone_e164": "+38267356643",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

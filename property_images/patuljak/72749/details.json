@@ -1,0 +1,140 @@
+{
+  "source": "patuljak",
+  "listing_id": "72749",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-poslovni-prostor-70m2-centar-podgorica--72749",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-poslovni-prostor-70m2-centar-podgorica--72749"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 96,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_72749",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj prostorija": "4",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "2",
+    "Namješten": "Ne",
+    "Godina izgradnje": "2000-2009",
+    "Vrsta poda": "Ostalo",
+    "Vrsta grijanja": "Struja",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "70 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72749_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE POSLOVNI PROSTOR U CENTRU PG.\n70M2.\nODLICNA LOKACIJA.\nUSELJIV .\nINFO NA TEL 068067676",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:49.250796+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.600179+00:00",
+  "source_html_sha256": "d2108acc1e46dcc2fbcd6a57d61d2709c1a0c3655b2b449d272eb78bb43308d9",
+  "title": "Izdavanje, poslovni prostor 70m2, Centar, Podgorica",
+  "description_language": "en",
+  "price_raw": "499.99€",
+  "price_amount": 499.99,
+  "price_currency": "EUR",
+  "advertiser_name": "Vasilije",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "2",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 70,
+  "year_built": 2000,
+  "amenities": [],
+  "metadata_summary": "IZDAJE SE POSLOVNI PROSTOR U CENTRU PG. 70M2. ODLICNA LOKACIJA. USELJIV . INFO NA TEL 068067676",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!96",
+      "notes": "check deal: sale at 25 EUR looks like a rent",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268067676",
+      "name": "Vasilije",
+      "email": null,
+      "source": "workbook:Likely agents!96"
+    }
+  ],
+  "contact_phones": [
+    "+38268067676"
+  ],
+  "phone_e164": "+38268067676",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

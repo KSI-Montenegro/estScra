@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "639008",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639008",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639008"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 109,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639008",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2014",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7a9651e-9833-4ada-a6ae-bf12ec9d7a03-lg.webp",
+    "https://content.estitor.com/efdff74e-eb81-45c2-a9fb-c7291dad9330-lg.webp",
+    "https://content.estitor.com/9085ce78-987a-45b8-bd58-a94e91d8306f-lg.webp",
+    "https://content.estitor.com/48d5500a-9b9e-463a-8b93-a946a49000eb-lg.webp",
+    "https://content.estitor.com/51fb8924-0991-421d-bebd-3e589cf34c7c-lg.webp",
+    "https://content.estitor.com/385b91fd-e00a-4704-ab3d-a1f91e74cd73-lg.webp",
+    "https://content.estitor.com/2cc1232d-5b92-4f8c-b48a-76f77211c643-lg.webp",
+    "https://content.estitor.com/81863aeb-a15d-4cb8-86ad-524bbd7c833e-lg.webp",
+    "https://content.estitor.com/c822484d-0c26-4245-a551-299408da1add-lg.webp",
+    "https://content.estitor.com/7b07720a-3a92-4650-befd-226e37603204-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran dvoosoban stan od 77m2 sa fantastičnim pogledom na more, smješten u prestižnom kompleksu Harmonia u Budvi.\nStan je savremeno uređen i sadrži prostranu dnevnu sobu, kuhinju, 2 spavaće sobu, kupatilo i veliku terasu s panoramskim pogledom na more.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:57.770135+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.737370+00:00",
+  "source_html_sha256": "660b980ba630ccd3f0ab56af5125973969f7885340bb32206ff880fe7432e56f",
+  "title": "Izdavanje, dvosoban stan, 76m², Zavala, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 1200,
+  "price_currency": "EUR",
+  "price_raw": "1200 EUR",
+  "area_m2": 76,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Daria Kolesnik",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2014,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se prostran dvoosoban stan od 77m2 sa fantastičnim pogledom na more, smješten u prestižnom kompleksu Harmonia u Budvi.Stan je savremeno uređen i sadrži prostranu dnevnu sobu, kuhinju, 2 spavaće sobu, kupatilo i...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!109",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268616777",
+      "name": "Daria Kolesnik",
+      "email": null,
+      "source": "workbook:Likely agents!109"
+    },
+    {
+      "phone_e164": "+38268616777",
+      "name": "Daria Kolesnik",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268616777"
+  ],
+  "phone_e164": "+38268616777",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

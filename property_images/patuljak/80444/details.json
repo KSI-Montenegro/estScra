@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "80444",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-trosoban-stan-123-m2-u-privatnoj-kuci--80444",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-trosoban-stan-123-m2-u-privatnoj-kuci--80444"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 157,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_80444",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Vranići",
+    "Broj soba": "3",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Stambena kvadratura": "123 m2",
+    "Kvadratura placa": "600 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80444_19.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem trosoban stan u privatnoj kuci, koji se nalazi u naselju Vranici.Udaljenost od Hrama 5min voznje , do Delte od7 do 8 min. Stan posjeduje veliko dvorište i veliki parking, internet,video nadzor,gradsku vodu, klimu.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:58.892910+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.785669+00:00",
+  "source_html_sha256": "ae1f0fbc64c901c0f02a8b5d8704b8560bc8f85c2e7ea64ec6586cc0d2f341a1",
+  "title": "Iznajmljujem trosoban stan 123 m2 u privatnoj kući, Vranići, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Marica",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Vranići",
+  "building_floors_raw": "1",
+  "room_layout_raw": "3",
+  "area_m2": 123,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Iznajmljujem trosoban stan u privatnoj kuci, koji se nalazi u naselju Vranici.Udaljenost od Hrama 5min voznje , do Delte od7 do 8 min. Stan posjeduje veliko dvorište i veliki parking,  internet,video nadzor,gradsku vodu, klimu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!157",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267352030",
+      "name": "Marica",
+      "email": null,
+      "source": "workbook:Outreach list!157"
+    }
+  ],
+  "contact_phones": [
+    "+38267352030"
+  ],
+  "phone_e164": "+38267352030",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

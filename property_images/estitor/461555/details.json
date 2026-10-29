@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "461555",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-kolasin/id-461555",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-kolasin/id-461555"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 183,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_461555",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8904f438-3846-4c2c-945e-1a23aaf7b389-lg.webp",
+    "https://content.estitor.com/ad119b9c-341b-4fe9-9763-fd35bfedfc03-lg.webp",
+    "https://content.estitor.com/275a49fb-890e-47bb-b148-a5e67312eb19-lg.webp",
+    "https://content.estitor.com/ee9270e7-0669-4e04-a482-75318be44d8b-lg.webp",
+    "https://content.estitor.com/b6920f39-43a5-42be-8963-8b4e4c55bf8f-lg.webp",
+    "https://content.estitor.com/fff81f3d-b635-4125-ae02-34ff700cc5f5-lg.webp",
+    "https://content.estitor.com/2acbee76-79f8-4b72-8fa5-538d4ca71073-lg.webp",
+    "https://content.estitor.com/21dbe9d2-7bab-4b24-8792-a0a5038bd391-lg.webp",
+    "https://content.estitor.com/4c977911-a39e-49aa-94ff-a9eddba0267a-lg.webp",
+    "https://content.estitor.com/863e9874-d347-4b20-a5b6-f6e4a66051ce-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor u samom centru Kolašina, smješten na glavnoj gradskoj saobraćajnici, što garantuje visoku vidljivost i pristupačnost. Ovaj prostrani poslovni prostor, ukupne površine 140 m², idealan je za različite djelatnosti. Prostor je potpuno opremljen i spreman za korištenje, posjeduje tri (3) toaleta. Prednost lokacije dodatno upotpunjuje 5 parking mjesta direktno ispred objekta, što je ključno za klijente i zaposlene. Pogodan je za kancelarije, maloprodaju, uslužne djelatnosti, ugostiteljstvo ili predstavništva. Ne propustite priliku da svoj biznis smjestite na premium lokaciju u Kolašinu!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:09.149356+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.380199+00:00",
+  "source_html_sha256": "0d4412f1c73e1f7b79de372f5389dd5c8622bad0c4911b1b013416de27122c5d",
+  "title": "Izdavanje, poslovni prostor, 140m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-25",
+  "updated_date": "2026-09-18",
+  "price_amount": 1500,
+  "price_currency": "EUR",
+  "price_raw": "1500 EUR",
+  "area_m2": 140,
+  "bathrooms": 2,
+  "city": "Kolašin",
+  "country": "ME",
+  "advertiser_name": "Cedomir Bojic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor u samom centru Kolašina, smješten na glavnoj gradskoj saobraćajnici, što garantuje visoku vidljivost i pristupačnost. Ovaj prostrani poslovni prostor, ukupne površine 140 m², idealan je za r...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!183",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267021898",
+      "name": "Cedomir Bojic",
+      "email": null,
+      "source": "workbook:Not homes!183"
+    },
+    {
+      "phone_e164": "+38267021898",
+      "name": "Cedomir Bojic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267021898"
+  ],
+  "phone_e164": "+38267021898",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

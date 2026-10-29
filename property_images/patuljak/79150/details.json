@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "79150",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--79150",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--79150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 57,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79150",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!57:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Pejton",
+    "Broj prostorija": "4",
+    "Stambena kvadratura": "50 m2",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "no_gallery_images",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:27:16.954463+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.496043+00:00",
+  "source_html_sha256": "e33e17b5d2fe3e8707b7259cd5ef062c762f0b098c288ea04b56003aec8f73e8",
+  "title": "Izdajem poslovni prostor",
+  "description_language": "en",
+  "price_raw": "110.00€",
+  "price_amount": 110,
+  "price_currency": "EUR",
+  "advertiser_name": "Udruženje penzionera",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Pejton",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 50,
+  "amenities": [],
+  "metadata_summary": "Izdajem poslovni prostor",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!57",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267636991",
+      "name": "Udruženje penzionera",
+      "email": null,
+      "source": "workbook:Not homes!57"
+    }
+  ],
+  "contact_phones": [
+    "+38267636991"
+  ],
+  "phone_e164": "+38267636991",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [
+    "description_original",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

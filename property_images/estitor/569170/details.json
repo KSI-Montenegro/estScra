@@ -1,0 +1,134 @@
+{
+  "source": "estitor",
+  "listing_id": "569170",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-569170",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-569170"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 972,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_569170",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9edab0fb-78d9-4ec8-b05e-0322b01e538e-lg.webp",
+    "https://content.estitor.com/09b826ec-eebc-42b1-9c28-107cc5b64e6d-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdajem komfornu garažu u novoj zgradi iza Signum hotela na Pobrezju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:28.523454+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.397980+00:00",
+  "source_html_sha256": "870792cbed0cbab797d9572bd6942de6efac36321c7180be4532c0d45f96cb8a",
+  "title": "Izdavanje, parking/garaža, 15m², Pobrežje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-12",
+  "updated_date": "2026-09-09",
+  "price_amount": 100,
+  "price_currency": "EUR",
+  "price_raw": "100 EUR",
+  "city": "Podgorica",
+  "street_address": "4. Jul, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Ana Vuk",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdajem komfornu garažu u novoj zgradi iza Signum hotela na Pobrezju.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!972",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267885794",
+      "name": "Ana Vuk",
+      "email": null,
+      "source": "workbook:Outreach list!972"
+    },
+    {
+      "phone_e164": "+38267885794",
+      "name": "Ana Vuk",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267885794"
+  ],
+  "phone_e164": "+38267885794",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

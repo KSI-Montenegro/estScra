@@ -1,0 +1,129 @@
+{
+  "source": "patuljak",
+  "listing_id": "78111",
+  "listing_url": "https://patuljak.me/oglas/urbanizovano-zemljiste-2097-m2-mahala-zeta--78111",
+  "listing_urls": [
+    "https://patuljak.me/oglas/urbanizovano-zemljiste-2097-m2-mahala-zeta--78111"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 742,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_78111",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Golubovci",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "2097 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Na prodaju urbanizovano građevinsko zemljište ukupne površine 2.097 m2, smješteno u naselju Mahala, Opština Zeta.\n\nZemljište čine dvije parcele površine 966 m2 i 1.131 m2, koje zajedno predstavljaju povezanu cjelinu.\n\nPrema podacima iz raspoložive planske dokumentacije, parcele se nalaze u zoni SMG - površine za stanovanje. Predviđena je maksimalna spratnost P+2, sa mogućnošću izgradnje objekata maksimalnog BRGP-a do 530 m2 po urbanističkoj parceli, odnosno ukupno do 1.060 m2 BRGP.\nZemljište je gotovo pravilnog pravougaonog oblika, širine oko 18-20 m, nalazi se na ravnom terenu i ima obezbijeđen pristup.\n\nLokacija je udaljena oko 800 m od magistralnog puta i kružnog toka, oko 3,7 km od centra Golubovaca i oko 9 km od ulaza u Podgoricu kod Zabjela.\n\nŠira zona je infrastrukturno opremljena i dobro saobraćajno povezana sa Podgoricom, Golubovcima i magistralnim putem Podgorica-Golubovci.\n\nZemljište je pogodno za stambenu izgradnju i investiciju.\nCijena: 60 EUR/m2.\n\nUkupna cijena: 125.820 EUR.\n\nConcept Real Estate\n067 444 900",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:54.262917+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.157277+00:00",
+  "source_html_sha256": "f7b0410a071218ec6f2466c862b1fe7312f0542df2bc52f1185cf30f9a8dc17d",
+  "title": "Urbanizovano zemljište 2097 m2, Mahala, Zeta",
+  "description_language": "en",
+  "price_raw": "125820.00€",
+  "price_amount": 125820,
+  "price_currency": "EUR",
+  "advertiser_name": "zoran",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Golubovci",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Na prodaju urbanizovano građevinsko zemljište ukupne površine 2.097 m2, smješteno u naselju Mahala, Opština Zeta.Zemljište čine dvije parcele površine 966 m2 i 1.131 m2, koje zajedno predstavljaju povezanu cjelinu.Prema podacima iz raspoložive planske dokumentacije, parcele se nalaze u zoni SMG - površine za stanovanje. Predviđena je maksimalna spratnost P+2, sa mogućnošću izgradnje objekata maksimalnog BRGP-a do 530 m2 po urbanističkoj parceli, odnosno ukupno do 1.060 m2 BRGP.Zemljište je gotovo pravilnog pravougaonog oblika, širine oko 18-20 m, nalazi se na ravnom terenu i ima obezbijeđen pristup.Lokacija je udaljena oko 800 m od magistralnog puta i kružnog toka, oko 3,7 km od centra Golubovaca i oko 9 km od ulaza u Podgoricu kod Zabjela.Šira zona je infrastrukturno opremljena i dobro saobraćajno povezana sa Podgoricom, Golubovcima i magistralnim putem Podgorica-Golubovci.Zemljište je pogodno za stambenu izgradnju i investiciju.Cijena: 60 EUR/m2.Ukupna cijena: 125.820 EUR.Concept Real Estate067 444 900",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!742",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267749723",
+      "name": "zoran",
+      "email": null,
+      "source": "workbook:Outreach list!742"
+    }
+  ],
+  "contact_phones": [
+    "+38267749723"
+  ],
+  "phone_e164": "+38267749723",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2097,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

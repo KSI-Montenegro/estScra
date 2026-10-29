@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "622249",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622249",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622249"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 140,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_622249",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Magacinski",
+    "Interfon": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b983df1e-2db5-4c7c-9836-20691b960009-lg.webp",
+    "https://content.estitor.com/8c554737-dc70-4fd5-9ab6-2c2d4ab5b254-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdavanje magacinskog prostora – Zeta | blizina aerodroma\nZeta, u neposrednoj blizini Aerodroma Podgorica\nU ponudi je magacinski prostor ukupne površine 850 m²\n\nProstor je pogodan za različite vrste djelatnosti, a posebno je idealan za veleprodaju, skladištenje, distribuciju i poslovanje kojem je potrebna veća skladišna površina.\nOdlična lokacija u Zeti, u blizini aerodroma, sa praktičnim pristupom za organizaciju transporta, dostave i poslovanja.\nUkupno: 850m²\nPogodno za različite namjene\nIdealan za veleprodaju i skladištenje\nIzdaje se isključivo na duži period",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:45.568174+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.086121+00:00",
+  "source_html_sha256": "dbf9826f4357de85cb634b4a4893916e72115b002d63a5d5c70fcf15eb307d5d",
+  "title": "Izdavanje, poslovni prostor, 850m², Zeta, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-23",
+  "updated_date": "2026-10-14",
+  "price_amount": 5100,
+  "price_currency": "EUR",
+  "price_raw": "5100 EUR",
+  "area_m2": 850,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Proart Company",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Interfon",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdavanje magacinskog prostora – Zeta | blizina aerodromaZeta, u neposrednoj blizini Aerodroma PodgoricaU ponudi je magacinski prostor ukupne površine 850 m²Prostor je pogodan za različite vrste djelatnosti, a posebno...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!140",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268247247",
+      "name": "Proart Company",
+      "email": null,
+      "source": "workbook:Not homes!140"
+    },
+    {
+      "phone_e164": "+38268247247",
+      "name": "Proart Company",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268247247"
+  ],
+  "phone_e164": "+38268247247",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

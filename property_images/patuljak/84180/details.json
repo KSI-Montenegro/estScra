@@ -1,0 +1,125 @@
+{
+  "source": "patuljak",
+  "listing_id": "84180",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-zemlja-9848-m2--84180",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-zemlja-9848-m2--84180"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 431,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84180",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!431:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Tuzi",
+    "Naselje": "Dinoša",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "9848 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84180_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Imanje se prodaje u jednoj cjelini,\nPapiri 1/1.\n068751599",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:15.168777+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.440130+00:00",
+  "source_html_sha256": "41911b87722b9448ae6d692ca73e293665e381c8ef5d1cfebf4de865d38d87a6",
+  "title": "Prodaje se zemlja 9848 m2",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Arben",
+  "property_type": "land",
+  "city": "Tuzi",
+  "district": "Dinoša",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Imanje se prodaje u jednoj cjelini,Papiri 1/1.068751599",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!431",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269020225",
+      "name": "Arben",
+      "email": null,
+      "source": "workbook:Outreach list!431"
+    }
+  ],
+  "contact_phones": [
+    "+38269020225"
+  ],
+  "phone_e164": "+38269020225",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 9848,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

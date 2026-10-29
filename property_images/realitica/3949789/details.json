@@ -1,0 +1,156 @@
+{
+  "source": "realitica",
+  "listing_id": "3949789",
+  "listing_url": "https://www.realitica.com/hr/listing/3949789",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949789"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 12,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3949789",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Budva Okolina",
+    "Lokacija": "Rafailovići",
+    "Adresa": "Rafailovici",
+    "Cijena": "€580.000",
+    "Spavaćih Soba": "2",
+    "Kupatila": "3",
+    "Stambena Površina": "138 m2",
+    "Parking Mjesta": "1",
+    "Od Mora (m)": "5",
+    "Prvi Red do Mora": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3949789",
+    "Postavljeno": "22 Oct, 2026",
+    "Zadnja Promjena": "22 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3949789_photo_3_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_12_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_18_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_13_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_15_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_8_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_20_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_22_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_8_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_6_2026-10-22_13-36-24.jpg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "LUKSUZAN STAN SA POGLEDOM NA MORE I ZATVORENOM GARAŽOM – 138 m²\n\nNa prodaju prostran i elegantan stan površine 138 m², idealan za one koji traže udobnost, kvalitet i ekskluzivan ambijent.\n\nStan se odlikuje pažljivo odabranim, skupocjenim namještajem i funkcionalnim rasporedom prostorija, pružajući savršen spoj luksuza i praktičnosti.\n\nStruktura stana:\n\n- Površina: 138 m²\n\n- Dvije prostrane spavaće sobe\n\n- Dva kupatila – jedno sa tuš kabinom, drugo sa kadom\n\n- Dodatni gostinjski WC\n\n- Terasa sa prelijepim pogledom na more\n\n- Kvalitetan, skupocjen namještaj\n\nDodatna pogodnost:\n\nUz stan dolazi i zatvorena garaža površine približno 40 m², udaljena svega 5–7 minuta hoda od stana.\n\nOva nekretnina predstavlja odličan izbor kako za udoban život, tako i za one koji traže vrijednu investiciju na primorju.\n\nZa više informacija i dogovor oko obilaska stana, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:19.023806+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.860322+00:00",
+  "source_html_sha256": "c24b33b898b64d0fed3282e2e7868ae8435652ac24932a11a0c6281fdf5a2323",
+  "title": "Prodajem Stan-Apartman, Rafailovići",
+  "description_language": "hr",
+  "city": "Budva Okolina",
+  "district": "Rafailovići",
+  "street_address": "Rafailovici",
+  "parking_raw": "1",
+  "published_date_raw": "22 Oct, 2026",
+  "updated_date_raw": "22 Oct, 2026",
+  "area_m2": 138,
+  "bathrooms": 3,
+  "bedrooms": 2,
+  "parking_spaces": 1,
+  "distance_to_sea_m": 5,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€580.000",
+  "price_amount": 580000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Prvi Red do Mora",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "LUKSUZAN STAN SA POGLEDOM NA MORE I ZATVORENOM GARAŽOM – 138 m²\n\nNa prodaju prostran i elegantan stan površine 138 m², idealan za one koji traže udobnost, kvalitet i ekskluzivan ambijent.\n\nStan se odlikuje pažljivo odabranim, skupocjenim namještajem i funkcionalnim rasporedom prostorija, pružajući savršen spoj luksuza i praktičnosti.\n\nStruktura stana:\n- Površina: 138 m²\n- Dvije prostrane spavaće sobe\n- Dva kupatila – jedno sa tuš kabinom, drugo sa kadom\n- Dodatni gostinjski WC\n- Terasa sa prelijepim pogledom na more\n- Kvalitetan, skupocjen namještaj\n\nDodatna pogodnost:\nUz stan dolazi i zatvorena garaža površine približno 40 m², udaljena svega 5–7 minuta hoda od stana.\n\nOva nekretnina predstavlja odličan izbor kako za udoban život, tako i za one koji traže vrijednu investic",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!12",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 100,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+4915232777772",
+      "name": "Stan",
+      "email": null,
+      "source": "workbook:Outreach list!12"
+    }
+  ],
+  "contact_phones": [
+    "+4915232777772"
+  ],
+  "phone_e164": "+4915232777772",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "626941",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-626941",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-626941"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 819,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_626941",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f29e3cdd-5e63-4c64-a1df-a48beec00324-lg.webp",
+    "https://content.estitor.com/29424ddb-9501-4303-9c4d-48f94f1fbf04-lg.webp",
+    "https://content.estitor.com/22e06757-2ead-4aee-b05f-e49efc2b5ed8-lg.webp",
+    "https://content.estitor.com/0d9601db-f19e-4869-a31d-9236d7d51a9c-lg.webp",
+    "https://content.estitor.com/d53b8747-5582-4e21-9e94-6f57a4d8b356-lg.webp",
+    "https://content.estitor.com/8b3c6f6f-10c9-4879-a31d-a66bf93bec74-lg.webp",
+    "https://content.estitor.com/cf4b4c63-e7fc-46eb-89c3-0f1ab0fc9779-lg.webp",
+    "https://content.estitor.com/cd075a15-8204-4fce-a325-0b115d8c8d74-lg.webp",
+    "https://content.estitor.com/e518c5bc-a69e-43fe-9695-11fc642b8a92-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Pogled na more, Osunčan, Renoviran, Blizu škole, Odmah useljiv, Prvi red do mora",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:48.734505+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.012753+00:00",
+  "source_html_sha256": "675ff6223db33c44a9024aad09877819faefd06ab5baf3aaee5ab332c52efce1",
+  "title": "Izdavanje, dvosoban stan, 65m², Centar, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Snjezana Pavlovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Pogled na more, Osunčan, Renoviran, Blizu škole, Odmah useljiv, Prvi red do mora",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!819",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269323991",
+      "name": "Snjezana Pavlovic",
+      "email": null,
+      "source": "workbook:Outreach list!819"
+    },
+    {
+      "phone_e164": "+38269323991",
+      "name": "Snjezana Pavlovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269323991"
+  ],
+  "phone_e164": "+38269323991",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

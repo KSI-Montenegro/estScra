@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "642944",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-mojkovac/id-642944",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-mojkovac/id-642944"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 133,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_642944",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2c7b095d-a97f-46ab-908a-44cc7050b076-lg.webp",
+    "https://content.estitor.com/66a1a4ed-a962-4fec-85c4-819a86f3a608-lg.webp",
+    "https://content.estitor.com/d12ec98c-4fc4-4168-8409-092d7f149578-lg.webp",
+    "https://content.estitor.com/14e91ea3-13ae-4b0f-a6ca-536f08024ea3-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se lokal u Mojkovcu – 24 m²\nIzdaje se gornji deo lokala površine 24 m², na dobroj lokaciji u Mojkovcu, u blizini škole.\nOdlična lokacija\nPogodno za različite vrste delatnosti\nPoseduje kuhinju – ranije je u lokalu radila brza hrana\nLokacija: Mojkovac\n\nLokal se može pogledati uz prethodni dogovor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:43.155686+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.030379+00:00",
+  "source_html_sha256": "b00488db6c3cf9d6e86e2b5470e4648f35d3ff5241aabaa639801a683205e883",
+  "title": "Izdavanje, poslovni prostor, 24m², Centar, Mojkovac",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-24",
+  "updated_date": "2026-10-24",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 24,
+  "bathrooms": 1,
+  "city": "Mojkovac",
+  "street_address": "Njegoševa b.b",
+  "country": "ME",
+  "advertiser_name": "Kristina Pejović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se lokal u Mojkovcu – 24 m²Izdaje se gornji deo lokala površine 24 m², na dobroj lokaciji u Mojkovcu, u blizini škole.Odlična lokacijaPogodno za različite vrste delatnostiPoseduje kuhinju – ranije je u lokalu r...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!133",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381604241205",
+      "name": "Kristina Pejović",
+      "email": null,
+      "source": "workbook:Not homes!133"
+    },
+    {
+      "phone_e164": "+381604241205",
+      "name": "Kristina Pejović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381604241205"
+  ],
+  "phone_e164": "+381604241205",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

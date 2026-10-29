@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "604304",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604304",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604304"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 413,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_604304",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6da0717a-9653-4179-b389-24178696c2a6-lg.webp",
+    "https://content.estitor.com/a67b044b-a83d-4733-9ef0-230a04e4fa1f-lg.webp",
+    "https://content.estitor.com/ae1ea521-4032-4858-be8f-6c3b9bbf8af4-lg.webp",
+    "https://content.estitor.com/0516e8ad-f2c8-4bda-bd67-98e0ebbf4fd6-lg.webp",
+    "https://content.estitor.com/aa531217-6c84-4f91-ba79-a27894827de9-lg.webp",
+    "https://content.estitor.com/b840312f-85d0-41df-a8f1-4f0df6540c89-lg.webp",
+    "https://content.estitor.com/8e4e99ef-2774-449e-937e-d41fede10890-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem namjesten stan na duzi vremenski period u Bijeloj, naselje bijela skoljka.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:08.083615+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.339687+00:00",
+  "source_html_sha256": "3032531305b8eca57731aa3ce107b0cd0dbab470031daffabd30c605f462fcf7",
+  "title": "Izdavanje, jednosoban stan, 42m², Bijela, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-29",
+  "updated_date": "2026-08-29",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "12 E65, Bijela, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Nevenka Juskovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem namjesten stan na duzi vremenski period u Bijeloj, naselje bijela skoljka.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!413",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269374917",
+      "name": "Nevenka Juskovic",
+      "email": null,
+      "source": "workbook:Outreach list!413"
+    },
+    {
+      "phone_e164": "+38269374917",
+      "name": "Nevenka Juskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269374917"
+  ],
+  "phone_e164": "+38269374917",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

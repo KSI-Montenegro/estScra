@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "321346",
+  "listing_url": "https://patuljak.me/oglas/prodajem-zemljiste-14400m2-obilaznica-blizu-centr--321346",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-zemljiste-14400m2-obilaznica-blizu-centr--321346"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 563,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_321346",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!563:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bijelo Polje",
+    "Naselje": "Centar",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "14400 m2"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 14400,
+      "workbook_value": 4400,
+      "source": "workbook:Outreach list!563"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/321346_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/321346_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Prodajem zemljiste 14400m2 u Bijelom Polju - obilaznica, blizu centra. Livada, pasnjak, suma, vocnjak. Teren nije ravan, mogu se napraviti 3 kaskade. Na imanju postoji prirodni izvor pitke vode.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:26.782787+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.175231+00:00",
+  "source_html_sha256": "4c96b081ca15c776419313862085407d4c7b3130eb2b6f92fc7c09bd5d8c7bea",
+  "title": "Prodajem zemljiste 14400m2 - obilaznica, blizu centra.",
+  "description_language": "en",
+  "price_raw": "200000.00€",
+  "price_amount": 200000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ana",
+  "property_type": "land",
+  "city": "Bijelo Polje",
+  "district": "Centar",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem zemljiste 14400m2 u Bijelom Polju - obilaznica, blizu centra. Livada, pasnjak, suma, vocnjak. Teren nije ravan, mogu se napraviti 3 kaskade. Na imanju postoji prirodni izvor pitke vode.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!563",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269240242",
+      "name": "Ana",
+      "email": null,
+      "source": "workbook:Outreach list!563"
+    }
+  ],
+  "contact_phones": [
+    "+38269240242"
+  ],
+  "phone_e164": "+38269240242",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 14400,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

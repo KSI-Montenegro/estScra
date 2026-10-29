@@ -1,0 +1,174 @@
+{
+  "source": "estitor",
+  "listing_id": "595591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-595591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-595591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 232,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_595591",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d76552e2-d8c8-46c0-8a6e-0973f7c4e38a-lg.webp",
+    "https://content.estitor.com/aca98733-0ac2-4262-b654-29374b7094e5-lg.webp",
+    "https://content.estitor.com/092d6bcb-e264-489a-a5fd-6d54c0b2f032-lg.webp",
+    "https://content.estitor.com/d15b2590-d0ab-4a74-a6bc-ec10ebe782e7-lg.webp",
+    "https://content.estitor.com/d6f7cfaf-baf5-40a4-8432-6672b2a51a9a-lg.webp",
+    "https://content.estitor.com/7cd0c60b-aab4-45c7-bca6-9472bca72138-lg.webp",
+    "https://content.estitor.com/7c53509a-6d18-425a-a2d8-962302b0ae0b-lg.webp",
+    "https://content.estitor.com/5259926b-3749-44e1-a7b2-312f65152b6a-lg.webp",
+    "https://content.estitor.com/a2c909f4-bca0-4d5e-b0c2-b8c997bc64b8-lg.webp",
+    "https://content.estitor.com/560a3e86-108b-41b5-9089-d952e4c246e8-lg.webp",
+    "https://content.estitor.com/3e1c1085-b068-4b0d-8aa3-cc63d8f7c98a-lg.webp",
+    "https://content.estitor.com/d2ba4a35-d073-4714-9239-444e5ccf17e5-lg.webp",
+    "https://content.estitor.com/aff0e517-ca98-4713-8406-fcf705b8d7d4-lg.webp",
+    "https://content.estitor.com/c1cde500-cb5e-41ab-aa07-cffa162f3de8-lg.webp",
+    "https://content.estitor.com/35d3f6cf-10de-4b40-b0b3-0e33feed7f68-lg.webp",
+    "https://content.estitor.com/783269ec-d866-417d-9716-6d802947093a-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan jednosoban stan u mirnom dijelu Tivta, idealan za ugodan i kvalitetan boravak. Ovaj funkcionalan stan, površine 30.0 m², smješten je u objektu novogradnje i dizajniran da pruži sav potreban komfor za savremen život.\nStan je potpuno opremljen i spreman za useljenje, obuhvatajući prostranu spavaću sobu, elegantno uređeno kupatilo, te potpuno opremljenu kuhinju sa trpezarijom. Za vašu potpunu udobnost, stan posjeduje klimatizaciju, brz internet i kablovsku televiziju.\nDodatna pogodnost je obezbijeđen parking ispred objekta, eliminišući brigu o parkiranju. Stan je osunčan i nalazi se u mirnom kraju. Idealan je za dvije osobe.\nDostupan je za iznajmljivanje u periodu od 1. oktobra do 1. maja. Ne propustite ovu priliku za kvalitetan život u prelijepom Tivtu!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:40.013804+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.235101+00:00",
+  "source_html_sha256": "9bb5f0914f3136484b7f35433709e1d5993dc553137c669393b8403fe009c5da",
+  "title": "Izdavanje, jednosoban stan, 30m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-10-25",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 30,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Maja Bulajic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderan jednosoban stan u mirnom dijelu Tivta, idealan za ugodan i kvalitetan boravak. Ovaj funkcionalan stan, površine 30.0 m², smješten je u objektu novogradnje i dizajniran da pruži sav potreban komfor za...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!232",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267519170",
+      "name": "Maja Bulajic",
+      "email": null,
+      "source": "workbook:Outreach list!232"
+    },
+    {
+      "phone_e164": "+38267519170",
+      "name": "Maja Bulajic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267519170"
+  ],
+  "phone_e164": "+38267519170",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "611250",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-611250",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-611250"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 396,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611250",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d87adf4a-c534-4113-ad43-1a8c086500db-lg.webp",
+    "https://content.estitor.com/b8d97d77-22fc-4a41-9f73-85e1ba932b5b-lg.webp",
+    "https://content.estitor.com/be386a93-1bd8-4415-b8e2-c6fcb28e12c3-lg.webp",
+    "https://content.estitor.com/cde7989c-4846-4718-b5f9-ec351628f966-lg.webp",
+    "https://content.estitor.com/b68dba76-927d-4a11-917f-918be9301b60-lg.webp",
+    "https://content.estitor.com/0f848aaa-a4c0-4fb7-8f02-0ad61a9ba91f-lg.webp",
+    "https://content.estitor.com/9162cb06-63ef-4b0d-9c92-2870af2c0205-lg.webp",
+    "https://content.estitor.com/3c1456c3-74f4-4435-b90b-ddfef2a6f425-lg.webp",
+    "https://content.estitor.com/7a9114b3-c772-42ed-b494-9b667b18ff35-lg.webp",
+    "https://content.estitor.com/92ae99e6-2eac-44de-83ab-eaa933c950ab-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Stan se može opremiti po želji klijenta.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:59.652737+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.238205+00:00",
+  "source_html_sha256": "b628bd488f7ae1a36a1d47a59dec587a8c55aa197a23b97a4eb1b8adbc4681cc",
+  "title": "Izdavanje, jednosoban stan, 51m², Ulcinjsko Polje, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-06",
+  "updated_date": "2026-09-06",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 51,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Ulcinj",
+  "street_address": "Bulevar Teuta ",
+  "country": "ME",
+  "advertiser_name": "Sara M",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Stan se može opremiti po želji klijenta.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!396",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269076956",
+      "name": "Sara M",
+      "email": null,
+      "source": "workbook:Outreach list!396"
+    },
+    {
+      "phone_e164": "+38269076956",
+      "name": "Sara M",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269076956"
+  ],
+  "phone_e164": "+38269076956",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

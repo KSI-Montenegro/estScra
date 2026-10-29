@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "625619",
+  "listing_url": "https://patuljak.me/oglas/prodaja-vila-414-m2-rezevici-budva--625619",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-vila-414-m2-rezevici-budva--625619"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 25,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_625619",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!25:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Tudorovići",
+    "Broj soba": "5",
+    "Broj spratova": "3",
+    "Godina izgradnje": "2010-2019",
+    "Namještena": "Da",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "414 m2",
+    "Kvadratura placa": "828 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/625619_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Predstavljamo vam luksuznu vilu u mediteranskom stilu \"Casa Dea\", smještenu u elitnom predgrađu Budve, Tudorovići (Reževići).\nKuća je izgrađena na urbaniziranom placu, svi dokumenti su uređeni, tereta nema.\nGodina izgradnje - 2012.\nVila je dizajnirana od strane poznatog arhitekte iz Herceg Novog s posebnom pažnjom prema detaljima i stilu, a unutrašnjost je osmišljena od strane najboljih stručnjaka iz jednog od najnaprednijih dizajn biroa u Moskvi.\nUkupna površina vile iznosi 414 m2 s parcelom od 828 m2, na kojoj se nalazi bazen s prostorom za opuštanje, kao i ljetnja terasa s roštiljem i blagovaonicom za 10 osoba. Iz svih soba pruža se predivan pogled na more.\nU uređenju su korišćeni isključivo prirodni materijali poput kamena, travertina, mermera i hrasta. Sav namještaj i vrata izrađeni su od masivnog hrasta i naručeni su iz Italije. Kuhinja je opremljena visokokvalitetnim aparatima Gorenje.\nKuća je opremljena podnim grijanjem na cijeloj površini, automatskim roletnama na daljinskom upravljanju i klima uređajima u svim sobama. Postoji satelitska televizija.\nVila je pod video nadzorom i 24-satnim abonmanskim obezbjeđenjem obezbeđenja.\n\"Casa Dea\" se sastoji od 3 etaže i sadrži ukupno 5 spavaćih soba, 5 kupatila, kancelariju, dnevni boravak s kaminom, kuhinju s ostavom i trpezariju, gostinjske apartmane s kuhinjom, saunu s dnevnom sobom i vinarijom, teretanu.\nZa parking automobila postoji zatvorena garaža za 2 automobila i 2 dodatna parking mjesta u dvorištu. Postoji prostorija za pranje veša, 2 frižidera, zamrzivač, satelitska antena, centralno vodosnabdijevanje i rezervoar za vodu od 30 kubika.\nDuž granice parcele protiče planinski potok, od kojeg se odvodi voda u podzemni rezervoar od 30 kubika. Na parceli se nalazi predivan vrt s citrusnim drvećem, ukrasnim grmljem i tuja četinarima, kao i prelivni bazen 6x9.\nSve godine postojanja vile, vrtlar je održavao teritoriju, zbog čega cela parcela izgleda uređeno. Postoji automatski sistem za zalijevanje.\nVila je prošla sve potrebne kontrole i ima građevinsku dozvolu. Zemljište ispod vile je urbanizirano i ima dozvolu za gradnju, što je čini privlačnim objektom za dobijanje boravišne dozvole. \"Casa Dea\" je savršena kako za čitavogodišnje stanovanje, tako i za izdavanje.\nLokacija kuće je vrlo pogodna, s obližnjim restoranima i prodavnicama, pružajući sve što je potrebno za udoban život. Do kuće vodi osvijetljen put.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:57.567716+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.831365+00:00",
+  "source_html_sha256": "1dac40843ff3763dacd82b8808271bb8c01b4da9649f02ceed13a21df8d527aa",
+  "title": "Prodaja, Vila 414 m2, Reževići, Budva",
+  "description_language": "en",
+  "price_raw": "960000.00€",
+  "price_amount": 960000,
+  "price_currency": "EUR",
+  "advertiser_name": "Elena",
+  "property_type": "house",
+  "city": "Budva",
+  "district": "Tudorovići",
+  "building_floors_raw": "3",
+  "room_layout_raw": "5",
+  "parking_raw": "3 i više",
+  "area_m2": 414,
+  "year_built": 2010,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Predstavljamo vam luksuznu vilu u mediteranskom stilu Casa Dea, smještenu u elitnom predgrađu Budve, Tudorovići (Reževići).Kuća je izgrađena na urbaniziranom placu, svi dokumenti su uređeni, tereta nema.Godina izgradnje - 2012.Vila je dizajnirana od strane poznatog arhitekte iz Herceg Novog s posebnom pažnjom prema detaljima i stilu, a unutrašnjost je osmišljena od strane najboljih stručnjaka iz jednog od najnaprednijih dizajn biroa u Moskvi.Ukupna površina vile iznosi 414 m2 s parcelom od 828 m2, na kojoj se nalazi bazen s prostorom za opuštanje, kao i ljetnja terasa s roštiljem i blagovaonicom za 10 osoba. Iz svih soba pruža se predivan pogled na more.U uređenju su korišćeni isključivo prirodni materijali poput kamena, travertina, mermera i hrasta. Sav namještaj i vrata izrađeni su od masivnog hrasta i naručeni su iz Italije. Kuhinja je opremljena visokokvalitetnim aparatima Gorenje.Kuća je opremljena podnim grijanjem na cijeloj površini, automatskim roletnama na daljinskom upravljanju i klima uređajima u svim sobama. Postoji satelitska televizija.Vila je pod video nadzorom i 24-satnim abonmanskim obezbjeđenjem obezbeđenja.Casa Dea se sastoji od 3 etaže i sadrži ukupno 5 spavaćih soba, 5 kupatila, kancelariju, dnevni boravak s kaminom, kuhinju s ostavom i trpezariju, gostinjske apartmane s kuhinjom, saunu s dnevnom sobom i vinarijom, teretanu.Za parking automobila postoji zatvorena garaža za 2 automobila i 2 dodatna parking mjesta u dvorištu. Postoji prostorija za pranje veša, 2 frižidera, zamrzivač, satelitska antena, centralno vodosnabdijevanje i rezervoar za vodu od 30 kubika.Duž granice parcele protiče planinski potok, od kojeg se odvodi voda u podzemni rezervoar od 30 kubika. Na parceli se nalazi predivan vrt s citrusnim drvećem, ukrasnim grmljem i tuja četinarima, kao i prelivni bazen 6x9.Sve godine postojanja vile, vrtlar je održavao teritoriju, zbog čega cela parcela izgleda uređeno. Postoji automatski sistem za zalijevanje.Vila je prošla sve potrebne kontrole i ima građevinsku dozvolu. Zemljište ispod vile je urbanizirano i ima dozvolu za gradnju, što je čini privlačnim objektom za dobijanje boravišne dozvole. Casa Dea je savršena kako za čitavogodišnje stanovanje, tako i za izdavanje.Lokacija kuće je vrlo pogodna, s obližnjim restoranima i prodavnicama, pružajući sve što je potrebno za udoban život. Do kuće vodi osvijetljen put.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!25",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267971888",
+      "name": "Elena",
+      "email": null,
+      "source": "workbook:Likely agents!25"
+    }
+  ],
+  "contact_phones": [
+    "+38267971888"
+  ],
+  "phone_e164": "+38267971888",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

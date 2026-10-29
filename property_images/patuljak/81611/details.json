@@ -1,0 +1,153 @@
+{
+  "source": "patuljak",
+  "listing_id": "81611",
+  "listing_url": "https://patuljak.me/oglas/penthouse-sa-panoramskim-pogledom-becici--81611",
+  "listing_urls": [
+    "https://patuljak.me/oglas/penthouse-sa-panoramskim-pogledom-becici--81611"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 25,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_81611",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Bečići",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "8",
+    "Kvadratura": "119 m2",
+    "Parking mjesto": "1",
+    "Pogled na more": "Ima",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81611_14.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Prostran penthouse u stambenom kompleksu Volna, Becici, Crna Gora. Elegantan penthouse sa zapanjujucim panoramskim pogledom na more, planine i grad, upotpunjen visokokvalitetnom enterijerskom obradom i modernim dizajnom. Penthouse ima ukupnu stambenu povrsinu od 119 m2 i nalazi se na 8. (poslednjem) spratu zgrade sa liftom. Raspored - dve spavace sobe, dva kupatila, prostrana dnevna soba, balkon sa panoramskim pogledom. Stan je opremljen panoramskim prozorima od poda do plafona sa blago tonizovanim staklom, koje obezbeduje obilje prirodne svetlosti, istovremeno poboljsavajuci komfor i privatnost. Opremljen je sistemom klimatizacije u celom prostoru. Poseduje sopstveno mesto u podzemnoj garazi. Nekretnina se nalazi u dobro razvijenom naselju sa restoranima, lokalnim prodavnicama i plazom na pesackoj udaljenosti. Jadransko more je udaljeno oko 500 m.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:57.984013+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.837159+00:00",
+  "source_html_sha256": "dd6524ee69242f081f2ec785e8f4341a66ff69a2c9fef8f23325404fc6c31656",
+  "title": "Penthouse sa panoramskim pogledom, Becici",
+  "description_language": "en",
+  "price_raw": "330000.00€",
+  "price_amount": 330000,
+  "price_currency": "EUR",
+  "advertiser_name": "Elena",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Bečići",
+  "floor_raw": "8",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 119,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Prostran penthouse u stambenom kompleksu Volna, Becici, Crna Gora. Elegantan penthouse sa zapanjujucim panoramskim pogledom na more, planine i grad, upotpunjen visokokvalitetnom enterijerskom obradom i modernim dizajnom. Penthouse ima ukupnu stambenu povrsinu od 119 m2 i nalazi se na 8. (poslednjem) spratu zgrade sa liftom. Raspored - dve spavace sobe, dva kupatila, prostrana dnevna soba, balkon sa panoramskim pogledom. Stan je opremljen panoramskim prozorima od poda do plafona sa blago tonizovanim staklom, koje obezbeduje obilje prirodne svetlosti, istovremeno poboljsavajuci komfor i privatnost. Opremljen je sistemom klimatizacije u celom prostoru. Poseduje sopstveno mesto u podzemnoj garazi. Nekretnina se nalazi u dobro razvijenom naselju sa restoranima, lokalnim prodavnicama i plazom na pesackoj udaljenosti. Jadransko more je udaljeno oko 500 m.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!25",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267971888",
+      "name": "Elena",
+      "email": null,
+      "source": "workbook:Likely agents!25"
+    }
+  ],
+  "contact_phones": [
+    "+38267971888"
+  ],
+  "phone_e164": "+38267971888",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

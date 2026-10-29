@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "620886",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-620886",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-620886"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 248,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620886",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2000",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/eeaed0b3-fa3e-49d1-820f-a2637874e452-lg.webp",
+    "https://content.estitor.com/bef4672c-6b6f-4f2f-920b-9e5547ac62d1-lg.webp",
+    "https://content.estitor.com/5866cd3e-d5e6-435a-8034-c1b52583e49f-lg.webp",
+    "https://content.estitor.com/759ef3f3-8534-4f6e-8cfc-95f96949f161-lg.webp",
+    "https://content.estitor.com/bc7e9533-1d3d-40cb-b7a5-35edffb8a367-lg.webp",
+    "https://content.estitor.com/934cf8cd-1015-4940-9936-f1bab100ce29-lg.webp",
+    "https://content.estitor.com/fc82e360-d90b-43f0-b19a-0091bf347ea9-lg.webp",
+    "https://content.estitor.com/faa41a92-c247-4af1-bb05-ffd9f9ad3d6d-lg.webp",
+    "https://content.estitor.com/41463be1-615b-49e4-a1f7-eb7119644501-lg.webp",
+    "https://content.estitor.com/2b79ca1d-fa7d-4c63-a9c6-ae130c934ef9-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se kompletno namješten, manji jednosoban stan u kući u\nRadanovićima, smješten na odličnoj i praktičnoj lokaciji u blizini bulevara.\nStan se izdaje isključivo jednoj osobi i dostupan je za useljenje odmah,\ndo jula 2027. godine.\nStruktura stana:\nDnevni boravak\nKuhinja sa trpezarijom\nSpavaća soba\nKupatilo\nSadržaj i opremljenost\nStan je opremljen svim stvarima neophodnim za ugodan boravak.\nPosjeduje klima uređaj, brzi internet i satelitsku televiziju.\nIspred kuće se nalazi prelijepo uređen prostor za odmor i dvorište,\nidealno za slobodno vrijeme.\nObezbijeđeno sopstveno parking mjesto u dvorištu.\nLokacija i prednosti:\nStan se nalazi na izuzetno pristupačnoj lokaciji, u neposrednoj blizini glavnog\nbulevara. Sve što vam je potrebno za svakodnevni život udaljeno je svega\nnekoliko minuta hoda:\nHipermarket HDL Laković i TC Boka\nOsnovna škola i vrtić\nOdlična povezanost sa Kotorom, Tivtom i Budvom.\nUslovi izdavanja:\nKapacitet: Namijenjeno isključivo za jednu osobu.\nPeriod izdavanja: Do jula 2027. godine.\nDepozit: Obavezan u visini jedne kirije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:45.624076+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.334287+00:00",
+  "source_html_sha256": "c31f09caca4842646a5b59e412c1b4c705f241f07d6e028aa6991cc035d3ba48",
+  "title": "Izdavanje, jednosoban stan, 36m², Radanovići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-10-22",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 36,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Slobodanka Mrvaljevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2000,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se kompletno namješten, manji jednosoban stan u kući uRadanovićima, smješten na odličnoj i praktičnoj lokaciji u blizini bulevara.Stan se izdaje isključivo jednoj osobi i dostupan je za useljenje odmah,do jula ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!248",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269079919",
+      "name": "Slobodanka Mrvaljevic",
+      "email": null,
+      "source": "workbook:Outreach list!248"
+    },
+    {
+      "phone_e164": "+38269079919",
+      "name": "Slobodanka Mrvaljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269079919"
+  ],
+  "phone_e164": "+38269079919",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

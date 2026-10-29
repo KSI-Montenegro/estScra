@@ -1,0 +1,134 @@
+{
+  "source": "patuljak",
+  "listing_id": "77477",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-50-m2-stari-aerodrom-podgo--77477",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-50-m2-stari-aerodrom-podgo--77477"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 882,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_77477",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "50 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77477_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77477_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77477_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "IZDAJEM!\nJednosoban namješten stan na Starom Aerodromu, pored Volija i Univerziteta Mediteran, i dvosoban u Zagoriču.\n068/161-566",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:31.428167+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.637698+00:00",
+  "source_html_sha256": "513b3ae25d695ae6f3576518d1fc30bbc7f639bb8e7129d0b83e07c8fd79baf1",
+  "title": "Izdajem jednosoban stan 50 m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Miomir",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 50,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "IZDAJEM!Jednosoban namješten stan na Starom Aerodromu, pored Volija i Univerziteta Mediteran, i dvosoban u Zagoriču.068/161-566",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!882",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268161566",
+      "name": "Miomir Pejovic",
+      "email": null,
+      "source": "workbook:Outreach list!882"
+    }
+  ],
+  "contact_phones": [
+    "+38268161566"
+  ],
+  "phone_e164": "+38268161566",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

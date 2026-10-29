@@ -1,0 +1,51 @@
+# Prodajem imanje
+
+Source: https://patuljak.me/oglas/prodajem-imanje--81284
+
+- Deal: sale
+- Property type: land
+- Published price: 20.00€
+- Price amount: 20
+- Currency: EUR
+- City: Kolašin
+- District: Manastir Morača
+- Address: Selo Mioska
+- Land area (m²): 5732
+
+## Original listing description
+
+PRODAJA IMANJA – U BLIZINI KOLASINA IDEALNO ZA ETNO SELO, VIKENDICE
+
+Na prodaju prelijepo imanje u mjestu Mijoska, na raskrsnici puta Kolašin – Šavnik, u mirnom prirodnom okruženju.
+
+???? Lokacija:
+
+18 km od Kolašina
+55 km od Podgorice (putem kroz kanjon Morače)
+Samo 30 m od asfaltnog puta, do parcele vodi uređen makadamski put koji treba urediti.
+???? Površina:
+
+Livada: 848 m²
+Šuma: 4.884 m²
+Ukupno: 5.732 m²
+Parcele: L.N. 549 i 550/1
+???? Prirodni resursi:
+Imanje se nalazi između dva potoka:
+
+jedan sa izvorskom (pijaćom) vodom, koji povremeno može presušiti u periodu od kraja juna do kraja septembra (postoji mogućnost alternativnog priključenja na pijaću vodu),
+drugi potok sa tehničkom vodom, koji protiče tokom cijele godine.
+⚡ Infrastruktura:
+
+Moguć priključak na električnu energiju, jer se elektro mreža nalazi u neposrednoj blizini.
+???? Zašto je ovo imanje posebna prilika?
+
+Predivan pogled i netaknuta priroda.
+Mir i privatnost, daleko od gradske gužve.
+Odlična povezanost sa glavnim putem.
+Idealno za izgradnju porodične vikendice, brvnare, etno sela, turističkog kompleksa ili kao dugoročnu investiciju.
+Pogodno za ljubitelje planine, odmora u prirodi i seoskog turizma.
+Ovo je odlična prilika za sve koji žele da investiraju u nekretninu na području koje iz godine u godinu postaje sve atraktivnije zbog razvoja turizma u okolini Kolašina.
+
+???? Cijena: 20 € / m².
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

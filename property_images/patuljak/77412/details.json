@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "77412",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-luksuzna-kuca-170m-zabljak--77412",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-luksuzna-kuca-170m-zabljak--77412"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 14,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_77412",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Centar",
+    "Broj soba": "4",
+    "Broj spratova": "2",
+    "Namještena": "Da",
+    "Stambena kvadratura": "170 m2",
+    "Kvadratura placa": "700 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77412_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Prodaje se moderna kuća na Žabljaku, površine 170m², na placu površine 700m² smještena na prestižnoj i mirnoj lokaciji, svega 3 km od centra grada. Potpuno opremljena i uređena, ova nekretnina predstavlja savršen spoj prirodnog ambijenta, privatnosti i vrhunskog komfora, a istovremeno je odlična prilika za investiciju i turističko izdavanje.\n\nKuća je uredno uknjižena i pravno čista, sa mogućnošću nesmetanog prometa. Posjeduje više parking mjesta, uključujući parking uz magistralu, parking u dvorištu i garažu. Dvorište je uređeno, ograđeno i posjeduje dvije kapije.\n\nPoseban dio kuće predstavlja privatni spa centar u podrumu, sa saunom, hidromasažnom kadom i tuš kabinom, idealan za potpuno opuštanje nakon boravka u prirodi. Prizemlje je organizovano kao prostran dnevni prostor sa velikim staklenim površinama i panoramskim pogledom, izlazom na terasu, trpezarijom i potpuno opremljenom kuhinjom, uz dodatni toalet. Na prvom spratu nalaze se tri udobne spavaće sobe i kupatilo, dok potkrovlje pruža dodatni prostor sa dva kauča na razvlačenje, idealan za goste ili odmor.\n\nZahvaljujući atraktivnoj lokaciji, luksuznom uređenju, privatnom spa sadržaju, garaži i velikom broju parking mjesta, kuća je idealna kao luksuzni planinski dom, porodična nekretnina ili investicija za turistički najam. Žabljak kao jedna od najatraktivnijih planinskih destinacija u Crnoj Gori pruža mogućnost korišćenja i uživanja u nekretnini tokom cijele godine.\n\nCijena: 600.000€\n\nZa više informacija, fotografije i organizaciju obilaska:\n\n???? 068 282 280\nLiving Real Estate",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:30.505693+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.171956+00:00",
+  "source_html_sha256": "792ca90d8bd037c95a48bc2a2af7331241c6b75805390837e20f79de2c6236ca",
+  "title": "Prodaje se luksuzna kuća, 170m², Žabljak",
+  "description_language": "en",
+  "price_raw": "600000.00€",
+  "price_amount": 600000,
+  "price_currency": "EUR",
+  "advertiser_name": "Milica",
+  "property_type": "house",
+  "city": "Žabljak",
+  "district": "Centar",
+  "building_floors_raw": "2",
+  "room_layout_raw": "4",
+  "area_m2": 170,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Prodaje se moderna kuća na Žabljaku, površine 170m², na placu površine 700m² smještena na prestižnoj i mirnoj lokaciji, svega 3 km od centra grada. Potpuno opremljena i uređena, ova nekretnina predstavlja savršen spoj prirodnog ambijenta, privatnosti i vrhunskog komfora, a istovremeno je odlična prilika za investiciju i turističko izdavanje.Kuća je uredno uknjižena i pravno čista, sa mogućnošću nesmetanog prometa. Posjeduje više parking mjesta, uključujući parking uz magistralu, parking u dvorištu i garažu. Dvorište je uređeno, ograđeno i posjeduje dvije kapije.Poseban dio kuće predstavlja privatni spa centar u podrumu, sa saunom, hidromasažnom kadom i tuš kabinom, idealan za potpuno opuštanje nakon boravka u prirodi. Prizemlje je organizovano kao prostran dnevni prostor sa velikim staklenim površinama i panoramskim pogledom, izlazom na terasu, trpezarijom i potpuno opremljenom kuhinjom, uz dodatni toalet. Na prvom spratu nalaze se tri udobne spavaće sobe i kupatilo, dok potkrovlje pruža dodatni prostor sa dva kauča na razvlačenje, idealan za goste ili odmor.Zahvaljujući atraktivnoj lokaciji, luksuznom uređenju, privatnom spa sadržaju, garaži i velikom broju parking mjesta, kuća je idealna kao luksuzni planinski dom, porodična nekretnina ili investicija za turistički najam. Žabljak kao jedna od najatraktivnijih planinskih destinacija u Crnoj Gori pruža mogućnost korišćenja i uživanja u nekretnini tokom cijele godine.Cijena: 600.000€Za više informacija, fotografije i organizaciju obilaska:???? 068 282 280Living Real Estate",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!14",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263415353",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Not homes!14"
+    }
+  ],
+  "contact_phones": [
+    "+38263415353"
+  ],
+  "phone_e164": "+38263415353",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

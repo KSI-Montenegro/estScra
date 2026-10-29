@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "568266",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-568266",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-568266"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 154,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_568266",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Godina izgradnje": "2012",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c4c87d2b-a3ad-4895-9d1b-5706e76b90b8-lg.webp",
+    "https://content.estitor.com/0a921bce-eeff-4163-9923-134390c3c607-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan poslovni prostor površine 95.0 m² u srcu Budve, u samom Centru. Ova nekretnina nudi idealnu priliku za razvoj vašeg poslovanja na prestižnoj lokaciji.\nProstor je neopremljen, što vam omogućava potpunu slobodu u uređenju enterijera prema specifičnim potrebama vaše delatnosti. Velika površina pruža dovoljno mesta za kancelarije, izložbeni salon ili bilo koju drugu vrstu komercijalne aktivnosti.\nJedna od ključnih prednosti je obezbeđeno garažno mesto, što je neprocenjivo u centru Budve. Dodatne pogodnosti uključuju klimatizaciju za ugodan rad, brzu internet konekciju i lift za lakši pristup.\nPozicija u centru grada garantuje visoku frekventnost i vidljivost. Iskoristite priliku da vaše poslovanje procveta na ovoj vrhunskoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:52.145549+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.178422+00:00",
+  "source_html_sha256": "d61cabfd298380dddc26426d6dc7eacda4ad5156e0d236053a93d7b431dfafa0",
+  "title": "Izdavanje, poslovni prostor, 95m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-11",
+  "updated_date": "2026-10-12",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 95,
+  "city": "Budva",
+  "street_address": "bb Mediteranska, Budva 85310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Tq Plaza",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "year_built": 2012,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Izdaje se izuzetan poslovni prostor površine 95.0 m² u srcu Budve, u samom Centru. Ova nekretnina nudi idealnu priliku za razvoj vašeg poslovanja na prestižnoj lokaciji.Prostor je neopremljen, što vam omogućava potpun...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!154",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269331303",
+      "name": "Tq Plaza",
+      "email": null,
+      "source": "workbook:Not homes!154"
+    },
+    {
+      "phone_e164": "+38269331303",
+      "name": "Tq Plaza",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269331303"
+  ],
+  "phone_e164": "+38269331303",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

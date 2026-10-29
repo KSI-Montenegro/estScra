@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "633397",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633397",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633397"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 296,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_633397",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2005",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Podrum": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4af0347d-2aa5-473f-86a4-1fe42582067b-lg.webp",
+    "https://content.estitor.com/f722f166-8288-49fa-b49e-5068b22d2d98-lg.webp",
+    "https://content.estitor.com/3425b4a3-8183-4365-b2f4-56d5b4267d3b-lg.webp",
+    "https://content.estitor.com/02a99a6d-befd-436f-af80-3aba0529b3ff-lg.webp",
+    "https://content.estitor.com/0322c5d9-3c10-4b74-a68c-36a7737ffe45-lg.webp",
+    "https://content.estitor.com/a742ff58-7118-494f-bd98-e864a63cf64c-lg.webp",
+    "https://content.estitor.com/84d7dbd0-feb3-4a6f-a3ed-6a6a09964b6f-lg.webp",
+    "https://content.estitor.com/ae34d5e2-68a3-4667-aeed-77c91726e86a-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i funkcionalan stan površine 70.0 m² u mirnom dijelu Bara, naselje Ilino. Ovaj prostrani stan nudi dvije spavaće sobe i jedno kupatilo, idealan je za udoban porodični život ili parove. Smješten u prizemlju, pruža dodatnu pogodnost lakog pristupa i sopstvenog dvorišta.\n\nStan je kompletno opremljen i spreman za useljenje. Uživajte u udobnosti podnog grijanja tokom zimskih mjeseci i klimatizacije za prijatne ljetne dane. Dostupan je brz internet i kablovska televizija. Uključuje potpuno opremljenu kuhinju, trpezariju i praktičan hodnik.\n\nPosebna pogodnost je privatno dvorište koje pruža savršen prostor za opuštanje na otvorenom. Uz to, obezbijeđeno je i parking mjesto ispred objekta, kao i podrum za dodatni prostor za odlaganje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:09.522799+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.642712+00:00",
+  "source_html_sha256": "86ed2b143a6aab4dd03eeec8434e823f52302afd0b7d4477630463c4fa6abbb1",
+  "title": "Izdavanje, dvosoban stan, 70m², Ilino, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-11",
+  "updated_date": "2026-10-11",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Amarcord apartments",
+  "country": "ME",
+  "advertiser_name": "Dubravka Pejović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "year_built": 2005,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Podrum",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan i funkcionalan stan površine 70.0 m² u mirnom dijelu Bara, naselje Ilino. Ovaj prostrani stan nudi dvije spavaće sobe i jedno kupatilo, idealan je za udoban porodični život ili parove. Smješten u pri...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!296",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269895025",
+      "name": "Dubravka Pejović",
+      "email": null,
+      "source": "workbook:Outreach list!296"
+    },
+    {
+      "phone_e164": "+38269895025",
+      "name": "Dubravka Pejović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269895025"
+  ],
+  "phone_e164": "+38269895025",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

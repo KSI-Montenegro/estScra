@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "85184",
+  "listing_url": "https://patuljak.me/oglas/cetinje-plac-donje-polje--85184",
+  "listing_urls": [
+    "https://patuljak.me/oglas/cetinje-plac-donje-polje--85184"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 3,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85184",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Donje Polje",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "1020 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85184_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodaja placa povrsine 1.025m2, Cetinje (KO Cetinje I, Donje Polje, udaljenost od hotela Grand je 300m).\nMogucnost izgradnje suterenske (podrumske) etaze.\nSpratnost P+1+PK.\nMax index zauzetosti 0.4; max index izgradjenosti 1.2\nMax BRGP 500m2.\nCijena iznosi 80000.\n067810812",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:24.279313+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.062992+00:00",
+  "source_html_sha256": "4e35239198594664a2b99b7db62df1596b757bcce9f7e1b4f8e708a54ed84e17",
+  "title": "Cetinje plac Donje polje",
+  "description_language": "en",
+  "price_raw": "80000.00€",
+  "price_amount": 80000,
+  "price_currency": "EUR",
+  "advertiser_name": "Luka",
+  "property_type": "land",
+  "city": "Cetinje",
+  "district": "Donje Polje",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaja placa povrsine 1.025m2, Cetinje (KO Cetinje I, Donje Polje, udaljenost od hotela Grand je 300m).Mogucnost izgradnje suterenske (podrumske) etaze.Spratnost P+1+PK.Max index zauzetosti 0.4; max index izgradjenosti 1.2Max BRGP 500m2.Cijena iznosi 80000.067810812",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!3",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267810812",
+      "name": "Luka",
+      "email": null,
+      "source": "workbook:Not homes!3"
+    }
+  ],
+  "contact_phones": [
+    "+38267810812"
+  ],
+  "phone_e164": "+38267810812",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 1020,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

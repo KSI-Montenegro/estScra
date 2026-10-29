@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "626306",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-626306",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-626306"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 647,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_626306",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2016",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Površina placa": "3000",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "3000",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/42c6fc83-60eb-4cbb-81fe-5f12121da956-lg.webp",
+    "https://content.estitor.com/6a4d2374-c52f-406a-b5e4-a2d352c62158-lg.webp",
+    "https://content.estitor.com/1aa7deb9-c630-4e7a-9473-4d6eba015518-lg.webp",
+    "https://content.estitor.com/d1d26260-e244-451c-8695-02eafc7e6314-lg.webp",
+    "https://content.estitor.com/10b30619-9d5e-4843-b035-18843bf648bb-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Luksuzna kuća sa bazenom",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:05.636105+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.619731+00:00",
+  "source_html_sha256": "4aeb66c37bc17300b3bf3d9c9449caf741191f7fc46b97ccba7439923dfb9f98",
+  "title": "Izdavanje, kuća, 250m², Tološi, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-30",
+  "updated_date": "2026-09-30",
+  "price_amount": 2800,
+  "price_currency": "EUR",
+  "price_raw": "2800 EUR",
+  "area_m2": 250,
+  "rooms": 4,
+  "bathrooms": 4,
+  "city": "Podgorica",
+  "street_address": "E762, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivana Đurašković",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "lot_area_m2": 3000,
+  "balconies": 2,
+  "year_built": 2016,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Telefon",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Lux"
+  ],
+  "metadata_summary": "Luksuzna kuća sa bazenom",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!647",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267884474",
+      "name": "Ivana Đurašković",
+      "email": null,
+      "source": "workbook:Outreach list!647"
+    },
+    {
+      "phone_e164": "+38267884474",
+      "name": "Ivana Đurašković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267884474"
+  ],
+  "phone_e164": "+38267884474",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

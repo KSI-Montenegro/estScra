@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "80006",
+  "listing_url": "https://patuljak.me/oglas/prodaja-zemljista-2000-m-u-blizini-skadarskog-je--80006",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-zemljista-2000-m-u-blizini-skadarskog-je--80006"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 49,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80006",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!49:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "2000a m2"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 2000,
+      "workbook_value": 0,
+      "source": "workbook:Not homes!49"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80006_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "PRODAJA ZEMLJIŠTA – U BLIZINI SKADARSKOG JEZERA\n\nNa prodaju zemljište površine oko 2.000 m², smješteno u prelijepom i mirnom području u blizini Skadarskog jezera.\n\nOdlična lokacija – mir, priroda i predivno okruženje, a istovremeno dobra pristupačnost.\n\nPlac posjeduje:\n✅ pristupni put\n✅ struju na placu\n✅ vodu na placu\n✅ vlasništvo 1/1\n✅ površinu od oko 2.000 m²\n\nZemljište je pogodno za izgradnju kuće za odmor, turistički objekat, etno-selo, investiciju ili uživanje u prirodi i blizini Skadarskog jezera.\n\nOdlična prilika za one koji žele mirnu lokaciju u prirodi, uz dostupnu infrastrukturu.\n\nZa više informacija i dogovor oko obilaska – pozvati na: 067-609-310\n\nLAND FOR SALE – NEAR LAKE SKADAR\n\nFor sale: a plot of land measuring approximately 2,000 m², located in a beautiful and peaceful area near Lake Skadar.\n\nExcellent location – peace, nature and beautiful surroundings, while still offering good accessibility.\n\nThe plot includes:\n\n✅ Access road\n✅ Electricity on the plot\n✅ Water on the plot\n✅ Ownership 1/1\n✅ Approx. 2,000 m² of land\n\nThe land is suitable for building a holiday home, tourist accommodation, an ethno-village, an investment property, or simply enjoying nature and the proximity of Lake Skadar.\n\nAn excellent opportunity for those looking for a peaceful location surrounded by nature, with available infrastructure.\n\nFor more information and to arrange a viewing, please call:\n+382 67 609 310",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:52.980897+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.437656+00:00",
+  "source_html_sha256": "de35453457eb36ff18701f3c2747c9137f6acf0b888efe782c137e8959d0d0c5",
+  "title": "Prodaja zemljišta 2.000 m², u blizini Skadarskog jezera, Cetinje",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Dejan",
+  "property_type": "land",
+  "city": "Cetinje",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "PRODAJA ZEMLJIŠTA – U BLIZINI SKADARSKOG JEZERANa prodaju zemljište površine oko 2.000 m², smješteno u prelijepom i mirnom području u blizini Skadarskog jezera. Odlična lokacija – mir, priroda i predivno okruženje, a istovremeno dobra pristupačnost.Plac posjeduje: ✅ pristupni put✅ struju na placu✅ vodu na placu✅ vlasništvo 1/1✅ površinu od oko 2.000 m²Zemljište je pogodno za izgradnju kuće za odmor, turistički objekat, etno-selo, investiciju ili uživanje u prirodi i blizini Skadarskog jezera.Odlična prilika za one koji žele mirnu lokaciju u prirodi, uz dostupnu infrastrukturu.Za više informacija i dogovor oko obilaska – pozvati na:  067-609-310LAND FOR SALE – NEAR LAKE SKADARFor sale: a plot of land measuring approximately 2,000 m², located in a beautiful and peaceful area near Lake Skadar. Excellent location – peace, nature and beautiful surroundings, while still offering good accessibility.The plot includes:✅ Access road✅ Electricity on the plot✅ Water on the plot✅ Ownership 1/1✅ Approx. 2,000 m² of landThe land is suitable for building a holiday home, tourist accommodation, an ethno-village, an investment property, or simply enjoying nature and the proximity of Lake Skadar.An excellent opportunity for those looking for a peaceful location surrounded by nature, with available infrastructure.For more information and to arrange a viewing, please call:+382 67 609 310",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!49",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267609310",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Not homes!49"
+    }
+  ],
+  "contact_phones": [
+    "+38267609310"
+  ],
+  "phone_e164": "+38267609310",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

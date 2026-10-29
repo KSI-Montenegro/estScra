@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "77030",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-16m2--77030",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-16m2--77030"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 70,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77030",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Lepa Kata",
+    "Broj prostorija": "1",
+    "Stambena kvadratura": "16 m2",
+    "Sprat": "Prizemlje",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77030_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77030_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:07.047313+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.597484+00:00",
+  "source_html_sha256": "4b8518a862a8c63e99223e90091935be31517eb03691ba048577824835889c05",
+  "title": "Poslovni prostor 16m2",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "Anja",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Lepa Kata",
+  "floor_raw": "Prizemlje",
+  "area_m2": 16,
+  "amenities": [],
+  "metadata_summary": "Poslovni prostor 16m2",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!70",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269370505",
+      "name": "Anja",
+      "email": null,
+      "source": "workbook:Not homes!70"
+    }
+  ],
+  "contact_phones": [
+    "+38269370505"
+  ],
+  "phone_e164": "+38269370505",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

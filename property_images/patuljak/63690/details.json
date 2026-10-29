@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "63690",
+  "listing_url": "https://patuljak.me/oglas/izdajemprodajem-poslovni-prostor--63690",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajemprodajem-poslovni-prostor--63690"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 42,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_63690",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Malo brdo",
+    "Broj prostorija": "3",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "Godina izgradnje": "2000-2009",
+    "Vrsta poda": "Pločice",
+    "Stambena kvadratura": "32 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem/prodajem poslovni prostor na Malom Brdu, 32m2. Cijena za izdavanje 300€ mjesečno, a za prodaju 50.000€.\nKontakt: 067380890",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:47.909397+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.386604+00:00",
+  "source_html_sha256": "923d8cc9c77ff139e4e20dd36e21a10a48124da512123e8b4df1dc8050a741e3",
+  "title": "Izdajem/prodajem poslovni prostor",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "Marija",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Malo brdo",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 32,
+  "year_built": 2000,
+  "amenities": [],
+  "metadata_summary": "Izdajem/prodajem poslovni prostor na Malom Brdu, 32m2. Cijena za izdavanje 300€ mjesečno, a za prodaju 50.000€.Kontakt: 067380890",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!42",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267380890",
+      "name": "Marija",
+      "email": null,
+      "source": "workbook:Not homes!42"
+    }
+  ],
+  "contact_phones": [
+    "+38267380890"
+  ],
+  "phone_e164": "+38267380890",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

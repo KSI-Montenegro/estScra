@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "564215",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-564215",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-564215"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 807,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_564215",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8349a364-9ec5-4c91-9833-25a9d655adca-lg.webp",
+    "https://content.estitor.com/6a7cead9-ffaa-41be-b35d-674785aa8c52-lg.webp",
+    "https://content.estitor.com/1f61fe5a-19c2-4fbf-bf47-dc5d1b7efb0e-lg.webp",
+    "https://content.estitor.com/7105c30b-01a5-470a-82c3-113bccb80213-lg.webp",
+    "https://content.estitor.com/449a7959-be31-42bb-bfec-ae3cb15e7713-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Osunčan, Renoviran, Odmah useljiv, Miran kraj, Blizu škole, Blizu Aerodroma, Blizu Autobuske",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:38.359459+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.858149+00:00",
+  "source_html_sha256": "1519db58bee2a90d4a9c26bb0dcc623a01b0db909891dd7b7b4f64e09b86679d",
+  "title": "Izdavanje, garsonjera, 20m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-30",
+  "updated_date": "2026-10-12",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 20,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Markostan I, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Marku",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan, Renoviran, Odmah useljiv, Miran kraj, Blizu škole, Blizu Aerodroma, Blizu Autobuske",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!807",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269449300",
+      "name": "Nikola Marku",
+      "email": null,
+      "source": "workbook:Outreach list!807"
+    },
+    {
+      "phone_e164": "+38269449300",
+      "name": "Nikola Marku",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269449300"
+  ],
+  "phone_e164": "+38269449300",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

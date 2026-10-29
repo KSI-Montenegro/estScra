@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "638591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 114,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638591",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "0",
+    "Broj etaža": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Površina placa": "90",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "90"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c95687c1-5e0c-4c99-92ae-86dbdc4a4a2c-lg.webp",
+    "https://content.estitor.com/390fbd0c-a8a0-4efa-a9a2-f881f268ffaa-lg.webp",
+    "https://content.estitor.com/a4cbb621-fefc-42c2-85c6-a76bda18fc1c-lg.webp",
+    "https://content.estitor.com/0fb28361-46a8-45b3-aa43-bc4cdf529bc0-lg.webp",
+    "https://content.estitor.com/67532654-ff5c-428d-863e-4eb7a83991bc-lg.webp",
+    "https://content.estitor.com/a8f1f5c6-107e-4c99-a5c2-a6873b089737-lg.webp",
+    "https://content.estitor.com/57e8758f-cc63-49cb-a304-283f9c9ccbf8-lg.webp",
+    "https://content.estitor.com/bf010e9b-ca39-4da2-8f6f-fd0054d84eac-lg.webp",
+    "https://content.estitor.com/2a07bcd3-4d60-4b01-a698-b37723355625-lg.webp",
+    "https://content.estitor.com/e4a9be46-372f-4e43-b9a3-7833c1fbabf0-lg.webp",
+    "https://content.estitor.com/aa149975-1076-4c51-bba9-98275a5021fc-lg.webp",
+    "https://content.estitor.com/857ea34d-a983-47fb-950c-704c894f5bc6-lg.webp",
+    "https://content.estitor.com/2ea39e04-8c58-4ca2-9a96-8e4866728535-lg.webp",
+    "https://content.estitor.com/d721622a-efcb-473a-929c-6389c758cbdf-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam prostran i moderno uređen jednosoban stan za izdavanje u mirnom dijelu Bara, Čeluga. Smješten na spratu porodične kuće, ovaj potpuno opremljen stan od 90.0 m² nudi idealnu kombinaciju udobnosti, funkcionalnosti i privatnosti.\nStan je komotan,dobro orjentisan i prozračan. Velika kuhinja, opremljena neophodnim uređajima i praktičnim pultom, elegantno se spaja sa trpezarijom i prostranim dnevnim boravkom, stvarajući otvoreni i prijatni ambijent. Kupatilo posjeduje predprostor sa ugradnim garderoberom i dodatnim prostorom za skladištenje, pružajući praktičnost i organizovanost.\nStan je opremljen dobrim internetom, kablovskom televizijom i video nadzorom, osiguravajući sigurnost i povezanost i novim klima uređajima,zasebnu terasu, idealne za opuštanje, dok je ispred objekta obezbijeđen parking. Dio komotnog dvorišta nudi mir i tišinu, udaljen od gradske vreve, ali u blizini svih neophodnih sadržaja – supermarketa, pekare i pošte.\nOvaj stan nudi dovoljno komfora i mogućnost organizovanja radnog prostora od kuće. Kućni ljubimci nažalost nisu dozvoljeni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:01.408135+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.788813+00:00",
+  "source_html_sha256": "9c3fab83f1664358fde9faa2783187c59795930a6adbfdffb07255ebc77dba0f",
+  "title": "Izdavanje, kuća, 90m², Čeluga, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 90,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Cvetka Popovića 26",
+  "country": "ME",
+  "advertiser_name": "Staša",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 90,
+  "balconies": 0,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam prostran i moderno uređen jednosoban stan za izdavanje u mirnom dijelu Bara, Čeluga. Smješten na spratu porodične kuće, ovaj potpuno opremljen stan od 90.0 m² nudi idealnu kombinaciju udobnosti, funk...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!114",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269544414",
+      "name": "Staša",
+      "email": null,
+      "source": "workbook:Likely agents!114"
+    },
+    {
+      "phone_e164": "+38269544414",
+      "name": "Staša",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269544414"
+  ],
+  "phone_e164": "+38269544414",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "638584",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-tivat/id-638584",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-tivat/id-638584"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 269,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638584",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "0",
+    "Broj etaža": "1",
+    "Godina izgradnje": "1990",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Površina placa": "300",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Tavan": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "300"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/841f8e99-1322-4bc9-bd6f-7aa21449a17d-lg.webp",
+    "https://content.estitor.com/aada1b27-0a4e-4ff5-b4a9-df18028e0477-lg.webp",
+    "https://content.estitor.com/19faaa27-4b8c-4a0d-b3c3-01491797c5ba-lg.webp",
+    "https://content.estitor.com/3dcc419c-5fa5-4cc4-ad83-548eae02b0d1-lg.webp",
+    "https://content.estitor.com/2a4167be-1ae7-4d1d-a0f4-74ddaac7dbf4-lg.webp",
+    "https://content.estitor.com/898076cf-c6a1-4638-936d-e2db98c705c4-lg.webp",
+    "https://content.estitor.com/9aa58147-960e-4569-b627-df8de0025b75-lg.webp",
+    "https://content.estitor.com/3d921c59-36f8-48a6-8ff3-16410109cd83-lg.webp",
+    "https://content.estitor.com/cf365639-dca3-424a-9601-ab0950bf56e3-lg.webp",
+    "https://content.estitor.com/4f6311cb-dc28-48f6-b376-0b8106111526-lg.webp",
+    "https://content.estitor.com/8db571d1-d087-4c1b-b53f-8d23f3533ea6-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Za dugorocni najam kuca renovirana 2024, dvije spavace sobe. 200m od mora. Ima privatno dvoriste 300m2 i garazu. Uz kucu ukljucen u cije u je i dvokrevetni apartman, Osunčan, Renoviran, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:55.700441+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.465775+00:00",
+  "source_html_sha256": "f7ba3368a4b382c4db0475dbe337276015fca1979f697649860a4a732b81427c",
+  "title": "Izdavanje, kuća, 90m², Brdišta, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 990,
+  "price_currency": "EUR",
+  "price_raw": "990 EUR",
+  "area_m2": 90,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Tivat",
+  "street_address": "Autobusko stajalište, Aerodromska, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Ivan Bauk",
+  "deal_type": "rent",
+  "property_type": "house",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "lot_area_m2": 300,
+  "balconies": 0,
+  "year_built": 1990,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Tavan",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Za dugorocni najam kuca renovirana 2024, dvije spavace sobe. 200m od mora. Ima privatno dvoriste 300m2 i garazu. Uz kucu ukljucen u cije u je i dvokrevetni apartman, Osunčan, Renoviran, Miran kraj, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!269",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268887794",
+      "name": "Ivan Bauk",
+      "email": null,
+      "source": "workbook:Outreach list!269"
+    },
+    {
+      "phone_e164": "+38268887794",
+      "name": "Ivan Bauk",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268887794"
+  ],
+  "phone_e164": "+38268887794",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

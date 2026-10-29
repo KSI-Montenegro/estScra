@@ -1,0 +1,173 @@
+{
+  "source": "patuljak",
+  "listing_id": "76903",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stan--76903",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stan--76903"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 105,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76903",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!105:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Centar",
+    "Broj soba": "Dvoiposoban",
+    "Namješten": "Polunamješten",
+    "Sprat": "3",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeverozapad",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "68 m2",
+    "Kvadratura balkona": "12 m2",
+    "Balkon": true,
+    "Lift": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Telefonski priključak": true,
+    "Kablovska TV": true,
+    "Internet": true,
+    "Podrum/Tavan": true,
+    "Ostava": true,
+    "Protočni bojler": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76903_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:29.260185+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.453840+00:00",
+  "source_html_sha256": "02e0358a0487d408d1a7ad286ec04e3d3f531aef5a8539fe3e4603376cb635cc",
+  "title": "Prodajem stan",
+  "description_language": "en",
+  "price_raw": "130000.00€",
+  "price_amount": 130000,
+  "price_currency": "EUR",
+  "advertiser_name": "Slobodan",
+  "property_type": "apartment",
+  "city": "Nikšić",
+  "district": "Centar",
+  "floor_raw": "3",
+  "room_layout_raw": "Dvoiposoban",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Ostalo",
+  "parking_raw": "3 i više",
+  "area_m2": 68,
+  "parking_spaces": 3,
+  "amenities": [
+    "Balkon",
+    "Lift",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Telefonski priključak",
+    "Kablovska TV",
+    "Internet",
+    "Podrum/Tavan",
+    "Ostava",
+    "Protočni bojler"
+  ],
+  "metadata_summary": "Prodajem stan",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!105",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268339494",
+      "name": "Slobodan",
+      "email": null,
+      "source": "workbook:Outreach list!105"
+    }
+  ],
+  "contact_phones": [
+    "+38268339494"
+  ],
+  "phone_e164": "+38268339494",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

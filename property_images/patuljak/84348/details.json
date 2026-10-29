@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "84348",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-centar-pg--84348",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-centar-pg--84348"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 39,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84348",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "5",
+    "Kvadratura": "100 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84348_7.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem lux namješten dvoiposoban stan od 92 m2 (ima 100 m2 nijesu sve terase ušle u ukupnu kvadraturu) u zgradi hotela Nikić. Stan se nalazi na 5. spratu (nije poslednji) u jednoj od kvalitetnijih zgrada u Podgorici.\n\nPodno grijanje u kupatilu i kuhinji, 4 inverterske klime, prozori i bravarija vrhunski drvo-aluminijum, blind vrata, kuhinja komplet opremljena, spavaće sobe opremljene, video nadzor u ulazu.\n\nStan je izuzetno komforan. Pogled sa terase pruža se na Kraljev park, centar grada, Hilton…\n\nCijena 900 eura. Depozit obavezan.\n\nKontakt tel. 067 605 130 (viber, whatsapp).",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:09.457844+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.993722+00:00",
+  "source_html_sha256": "24a3254039298d60f1e3f837ab411be06b6353552696a54a4ac0a6e8bd70e34c",
+  "title": "Dvosoban stan centar PG",
+  "description_language": "en",
+  "price_raw": "900.00€",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "advertiser_name": "Stefan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "5",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 100,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem lux namješten dvoiposoban stan od 92 m2 (ima 100 m2 nijesu sve terase ušle u ukupnu kvadraturu) u zgradi hotela Nikić. Stan se nalazi na 5. spratu (nije poslednji) u jednoj od kvalitetnijih zgrada u Podgorici.Podno grijanje u kupatilu i kuhinji, 4 inverterske klime, prozori i bravarija vrhunski drvo-aluminijum, blind vrata, kuhinja komplet opremljena, spavaće sobe opremljene, video nadzor u ulazu.Stan je izuzetno komforan. Pogled sa terase pruža se na Kraljev park, centar grada, Hilton…Cijena 900 eura. Depozit obavezan.Kontakt tel. 067 605 130 (viber, whatsapp).",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!39",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267605130",
+      "name": "Stefan",
+      "email": null,
+      "source": "workbook:Likely agents!39"
+    }
+  ],
+  "contact_phones": [
+    "+38267605130"
+  ],
+  "phone_e164": "+38267605130",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

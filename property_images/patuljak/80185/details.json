@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "80185",
+  "listing_url": "https://patuljak.me/oglas/sprat-kuce-haj-nehaj--80185",
+  "listing_urls": [
+    "https://patuljak.me/oglas/sprat-kuce-haj-nehaj--80185"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 751,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_80185",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Haj Nehaj",
+    "Broj soba": "4",
+    "Broj spratova": "2",
+    "Godina izgradnje": "2020",
+    "Namještena": "Da",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Parking mjesto": "2",
+    "Kanalizacija": "Septička jama",
+    "Stambena kvadratura": "60 m2",
+    "Kvadratura placa": "3000 m2",
+    "Kvadratura balkona": "12 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80185_7.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem sprat kuce. Za vise informacija viber what\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s app +381642055403",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:59.601160+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.243097+00:00",
+  "source_html_sha256": "94385528952707edab306adc8e6423b8dc89fd871a8064a3984e9a8eb451b85a",
+  "title": "Sprat kuce Haj Nehaj",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Nemanja",
+  "property_type": "house",
+  "city": "Bar",
+  "district": "Haj Nehaj",
+  "building_floors_raw": "2",
+  "room_layout_raw": "4",
+  "heating_raw": "Struja",
+  "parking_raw": "2",
+  "area_m2": 60,
+  "year_built": 2020,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdajem sprat kuce. Za vise informacija viber what\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s app +381642055403",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!751",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381642055403",
+      "name": "Nemanja Mrvaljevic",
+      "email": null,
+      "source": "workbook:Outreach list!751"
+    }
+  ],
+  "contact_phones": [
+    "+381642055403"
+  ],
+  "phone_e164": "+381642055403",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

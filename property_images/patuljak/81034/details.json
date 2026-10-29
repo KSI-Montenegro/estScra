@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "81034",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-garsonjera-za-2-3-studentkinje--81034",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-garsonjera-za-2-3-studentkinje--81034"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 451,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81034",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!451:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Dalmatinska",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "Visoko prizemlje",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Stambena kvadratura": "35 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81034_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdaje se namještena garsonjera u kući sa zasebnim ulazom, u Dalmatinskoj ulici, u nivou Bloka VI. Pogodna za studentkinje.\n- Soba sa ormarom, komodom, club stocicem, 2 kreveta, dvosjed na razvlačenje, uz mogućnost smještaja treće osobe\n- Smart TV, tv kanali i internet\n- Klima\n- Kuhinja opremljena, ima i sto za rucavanje\n- Kupatilo opremljeno, ima veš mašinu\nTv kanali i internet uključeni u cijenu.\nMirna lokacija, blizu fakulteta\nCijena kirije: 320 € mjesečno\nVoda i struja se plaćaju posebno.\nParking mjesto.\nZa više informacija i dogovor oko gledanja, pozvati na telefon/viber\nKontakt broj: 067/303-231",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:27.505675+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.549970+00:00",
+  "source_html_sha256": "f025d2a37002c9b8941ae0a19e7c39c629c9f6cd68b2b41668dec253918790b4",
+  "title": "Izdaje se garsonjera za 2-3 studentkinje",
+  "description_language": "en",
+  "price_raw": "320.00€",
+  "price_amount": 320,
+  "price_currency": "EUR",
+  "advertiser_name": "Mirjana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Dalmatinska",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 35,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se namještena garsonjera u kući sa zasebnim ulazom, u Dalmatinskoj ulici, u nivou Bloka VI. Pogodna za studentkinje.- Soba sa ormarom, komodom, club stocicem, 2 kreveta, dvosjed na razvlačenje, uz mogućnost smještaja treće osobe- Smart TV, tv kanali i internet- Klima- Kuhinja opremljena, ima i sto za rucavanje- Kupatilo opremljeno, ima veš mašinu Tv kanali i internet uključeni u cijenu.Mirna lokacija, blizu fakulteta Cijena kirije: 320 € mjesečnoVoda i struja se plaćaju posebno.Parking mjesto.Za više informacija i dogovor oko gledanja, pozvati na telefon/viberKontakt broj: 067/303-231",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!451",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267644669",
+      "name": "Mirjana",
+      "email": null,
+      "source": "workbook:Outreach list!451"
+    }
+  ],
+  "contact_phones": [
+    "+38267644669"
+  ],
+  "phone_e164": "+38267644669",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

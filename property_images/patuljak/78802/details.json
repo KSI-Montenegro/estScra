@@ -1,0 +1,125 @@
+{
+  "source": "patuljak",
+  "listing_id": "78802",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjestenu-sobu-stari-aerodrom-069714081--78802",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjestenu-sobu-stari-aerodrom-069714081--78802"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 934,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78802",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!934:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Sprat": "Prizemlje",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "16 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78802_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:08.559219+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.172862+00:00",
+  "source_html_sha256": "c566b174ff9495cb03a0c245b3501eaf8b3fd0c93f8c04a974c51c0de9788b21",
+  "title": "Izdajem namjestenu sobu, Stari aerodrom, 069714081",
+  "description_language": "en",
+  "price_raw": "150.00€",
+  "price_amount": 150,
+  "price_currency": "EUR",
+  "advertiser_name": "Esefa",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "Prizemlje",
+  "heating_raw": "Struja",
+  "area_m2": 16,
+  "amenities": [],
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!934",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269714081",
+      "name": "Esefa",
+      "email": null,
+      "source": "workbook:Outreach list!934"
+    }
+  ],
+  "contact_phones": [
+    "+38269714081"
+  ],
+  "phone_e164": "+38269714081",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original",
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "property_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

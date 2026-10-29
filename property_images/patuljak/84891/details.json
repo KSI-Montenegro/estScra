@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "84891",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan--84891",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan--84891"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 427,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84891",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!427:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Ne",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "Visoko prizemlje",
+    "Kvadratura": "82 m2",
+    "Vrsta grijanja": "Struja",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84891_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban stan , ul Serdara Jola Piletica, pet udovica, pogodan za kancelarije, moze I za druge namjene.\nCijena 550 e.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:14.570009+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.415564+00:00",
+  "source_html_sha256": "8585381bb0c96b35b1b80b3f37af6bdcb03857b9a87ebe01a5620d967ff7b1db",
+  "title": "Izdajem stan",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "svetlana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "area_m2": 82,
+  "amenities": [],
+  "metadata_summary": "Izdajem dvosoban stan , ul Serdara Jola Piletica,  pet udovica, pogodan za kancelarije,  moze I za druge namjene.Cijena 550 e.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!427",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267230357",
+      "name": "svetlana",
+      "email": null,
+      "source": "workbook:Outreach list!427"
+    }
+  ],
+  "contact_phones": [
+    "+38267230357"
+  ],
+  "phone_e164": "+38267230357",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

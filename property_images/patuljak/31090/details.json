@@ -1,0 +1,129 @@
+{
+  "source": "patuljak",
+  "listing_id": "31090",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-poslovni-prostor-45m2--31090",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-poslovni-prostor-45m2--31090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 115,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_31090",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj prostorija": "1",
+    "Sprat": "Prizemlje",
+    "Vrsta poda": "Pločice",
+    "Stambena kvadratura": "45 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31090_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodaje se poslovni prostor 45m2 useljiv , preko puta tržnog centra Forum.\n068 105101",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:32.040636+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.900270+00:00",
+  "source_html_sha256": "d413a4a47bc7bf8f7269e70881ed4028e1c97856e389a0d7b7228293f37766c0",
+  "title": "PRODAJE SE POSLOVNI PROSTOR 45m2",
+  "description_language": "en",
+  "price_raw": "129000.00€",
+  "price_amount": 129000,
+  "price_currency": "EUR",
+  "advertiser_name": "vuk",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "Prizemlje",
+  "area_m2": 45,
+  "amenities": [],
+  "metadata_summary": "Prodaje se poslovni prostor 45m2 useljiv , preko puta tržnog centra Forum.068 105101",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!115",
+      "notes": "check deal: sale at 3100 EUR looks like a rent",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268105101",
+      "name": "vuk",
+      "email": null,
+      "source": "workbook:Not homes!115"
+    }
+  ],
+  "contact_phones": [
+    "+38268105101"
+  ],
+  "phone_e164": "+38268105101",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

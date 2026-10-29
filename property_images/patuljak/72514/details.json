@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "72514",
+  "listing_url": "https://patuljak.me/oglas/prodaja-urbanisticko-gradjevisnki-placevi--72514",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-urbanisticko-gradjevisnki-placevi--72514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 101,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72514",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!101:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Gornja Gorica",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "3.963 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_9.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "???? FOR SALE – URBAN Development Land\n\n???? Gornja Gorica, Podgorica – Miloja Pavlovića Street 123D\n\n???? Excellent investment opportunity in one of Podgorica\\'s most promising locations!\n\n???? The offer includes two urban development plots:\n???? Plot 1: 1,842 m² (932 m² + 910 m² – one functional unit)\n???? Plot 2: 2,121 m²\n\n???? Total land area: 3,963 m²\n\n????️ Development Potential\n\n✅ Plot 1 (1,842 m²): Suitable for the construction of up to 4 villas (Basement + Ground Floor + 1st Floor + Attic).\n✅ Plot 2 (2,121 m²): Suitable for the construction of a 3–4 storey residential building, with the possibility of commercial space on the ground floor, in accordance with the applicable urban planning regulations.\n\n???? Prime Location\n\n✔️ Only 150–170 m from the Podgorica–Danilovgrad Boulevard.\n✔️ Approximately 5 minutes\\' drive to City Kvart and Delta City.\n✔️ Approximately 10–15 minutes to Podgorica city centre.\n\n????️ Fully Serviced Infrastructure\n\n✔️ Paved access road\n✔️ Water supply\n✔️ Foul and stormwater sewage systems\n✔️ Telecommunications network\n✔️ Electricity available nearby\n\n???? Clear title (1/1 ownership).\n\n???? Compensation option available: Up to 80% of the land value can be exchanged for completed apartments (not a joint development), with the remaining balance payable by agreement.\n\n???? Photos, cadastral plan, and additional documentation are available upon request.\n\n???? For more information or to arrange a viewing:\n+382 69 454 630\n\n???? Call or send us a message—we\\'ll be happy to answer all your questions.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:23.295575+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.805730+00:00",
+  "source_html_sha256": "5fa0c61704b2f36a33e8b133a557f85d3d9fb88b4d4d9e6475465910930c5cbb",
+  "title": "PRODAJA-URBANISTICKO GRADJEVISNKI PLACEVI",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Ilija",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Gornja Gorica",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "???? FOR SALE – URBAN Development Land???? Gornja Gorica, Podgorica – Miloja Pavlovića Street 123D???? Excellent investment opportunity in one of Podgorica\\'s most promising locations!???? The offer includes two urban development plots:???? Plot 1: 1,842 m² (932 m² + 910 m² – one functional unit)???? Plot 2: 2,121 m²???? Total land area: 3,963 m²????️ Development Potential✅ Plot 1 (1,842 m²): Suitable for the construction of up to 4 villas (Basement + Ground Floor + 1st Floor + Attic).✅ Plot 2 (2,121 m²): Suitable for the construction of a 3–4 storey residential building, with the possibility of commercial space on the ground floor, in accordance with the applicable urban planning regulations.???? Prime Location✔️ Only 150–170 m from the Podgorica–Danilovgrad Boulevard.✔️ Approximately 5 minutes\\' drive to City Kvart and Delta City.✔️ Approximately 10–15 minutes to Podgorica city centre.????️ Fully Serviced Infrastructure✔️ Paved access road✔️ Water supply✔️ Foul and stormwater sewage systems✔️ Telecommunications network✔️ Electricity available nearby???? Clear title (1/1 ownership).???? Compensation option available: Up to 80% of the land value can be exchanged for completed apartments (not a joint development), with the remaining balance payable by agreement.???? Photos, cadastral plan, and additional documentation are available upon request.???? For more information or to arrange a viewing:+382 69 454 630???? Call or send us a message—we\\'ll be happy to answer all your questions.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!101",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267404724",
+      "name": "Ilija",
+      "email": null,
+      "source": "workbook:Not homes!101"
+    }
+  ],
+  "contact_phones": [
+    "+38267404724"
+  ],
+  "phone_e164": "+38267404724",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 3963,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

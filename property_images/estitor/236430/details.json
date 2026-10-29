@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "236430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-236430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-236430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 800,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_236430",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Parking": "Da",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5c8614ad-9cc9-4cc7-b403-4ab91b28b242-lg.webp",
+    "https://content.estitor.com/51ee0a40-2587-4512-a191-423cff66ceac-lg.webp",
+    "https://content.estitor.com/d398dc9f-3e7e-47a8-ac60-9def3f7cafbb-lg.webp",
+    "https://content.estitor.com/67c9e2f4-dd1c-491e-884c-e78d4709509c-lg.webp",
+    "https://content.estitor.com/2153ede4-0b9b-4c78-8a92-bb2b1e928d69-lg.webp",
+    "https://content.estitor.com/cc3d1826-2dc8-4f3c-b5cc-f6258bd34861-lg.webp",
+    "https://content.estitor.com/710baf53-f984-46c4-bb3e-e1ab10ce9c0f-lg.webp",
+    "https://content.estitor.com/6a1e44f9-ff92-4280-9184-fead44b4e5df-lg.webp",
+    "https://content.estitor.com/5b9e917e-a9c5-4a61-8395-e47111e06efc-lg.webp",
+    "https://content.estitor.com/42688329-85ce-45f7-a8a1-c65376334ff6-lg.webp",
+    "https://content.estitor.com/99dd9cc4-f8cf-452d-8367-8522ceb75a88-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Uključujući sve komunalije\nSunčan i lep studio apartman u mirnom mestu 3km od centra grada !\nIdealno mesto za studente ili samce.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:32.581183+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.760696+00:00",
+  "source_html_sha256": "16a03bb503f8d7eadf706d77de823f83d060315d2973f86dfc27267fc470122e",
+  "title": "Izdavanje, garsonjera, 40m², Straševina, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2024-04-10",
+  "updated_date": "2026-10-18",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 40,
+  "bathrooms": 1,
+  "city": "Nikšić",
+  "country": "ME",
+  "advertiser_name": "Marina Glusica",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "true",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Da",
+  "balconies": 2,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Uključujući sve komunalijeSunčan i lep studio apartman u mirnom mestu 3km od centra grada !Idealno mesto za studente ili samce.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!800",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269621459",
+      "name": "Marina Glusica",
+      "email": null,
+      "source": "workbook:Outreach list!800"
+    },
+    {
+      "phone_e164": "+38269621459",
+      "name": "Marina Glusica",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269621459"
+  ],
+  "phone_e164": "+38269621459",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

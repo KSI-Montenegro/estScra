@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "611668",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-611668",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-611668"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 879,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611668",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ed0fa633-88bf-4b97-b3e8-1cfe12afab88-lg.webp",
+    "https://content.estitor.com/ed4baa0d-15be-4eac-88be-d4e8065cac2d-lg.webp",
+    "https://content.estitor.com/b9ba740b-b800-49f5-925d-9aefad36746e-lg.webp",
+    "https://content.estitor.com/be98eeee-b930-4d18-b8c3-4bfb9ae7f42f-lg.webp",
+    "https://content.estitor.com/34c87fc1-c6b0-4926-850a-742535ddc13f-lg.webp",
+    "https://content.estitor.com/49da6f30-7571-479e-9f5e-aa4dde4a9ca3-lg.webp",
+    "https://content.estitor.com/696dd35f-d59c-4fe8-94dd-dda022bf3d1b-lg.webp",
+    "https://content.estitor.com/41c321c6-a774-429f-9df3-b5fcd7a7fcd9-lg.webp",
+    "https://content.estitor.com/8d6b5eae-3a73-48d6-bb69-da5c89a8ac49-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem stan u privatnoj kuci na prvom spratu - Donji Kokoti.\nDvije spavace sobe , dnevni - trpezarija, kupatilo , spajz , terasa.\nKlima i internet.\nStan je u potpunosti opremljen namjestajem.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:29.459662+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.599315+00:00",
+  "source_html_sha256": "8ab10e77c7ce09e6bfc6d848bab995c29fdf3e1a7b9d3aefc914cd6d4b42d4af",
+  "title": "Izdavanje, trosoban stan, 100m², Donji Kokoti, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-07",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 100,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Unnamed Road, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milutin Obradovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem stan u privatnoj kuci na prvom spratu - Donji Kokoti.Dvije spavace sobe , dnevni - trpezarija, kupatilo , spajz , terasa. Klima i internet.Stan je u potpunosti opremljen namjestajem.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!879",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268364838",
+      "name": "Milutin Obradovic",
+      "email": null,
+      "source": "workbook:Outreach list!879"
+    },
+    {
+      "phone_e164": "+38268364838",
+      "name": "Milutin Obradovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268364838"
+  ],
+  "phone_e164": "+38268364838",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

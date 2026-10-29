@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "598375",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-598375",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-598375"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 909,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_598375",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0b282cc5-0d92-44e3-b1e7-04b3c36aa5ee-lg.webp",
+    "https://content.estitor.com/69cf4aa1-8f99-4825-ba86-fb9c94dde1e0-lg.webp",
+    "https://content.estitor.com/ac6b6366-4dda-4b88-9ba4-7d751d0805f9-lg.webp",
+    "https://content.estitor.com/f04bad41-7223-45a7-9c6a-5ce381442ca8-lg.webp",
+    "https://content.estitor.com/7edc08dc-4215-446e-9ed9-0385d3b5aa17-lg.webp",
+    "https://content.estitor.com/1fdaeb81-0e32-4061-a9ba-0935ed0bbd4b-lg.webp",
+    "https://content.estitor.com/e117d35a-4518-43a0-92a5-044702dcf852-lg.webp",
+    "https://content.estitor.com/e3585e6f-836a-4101-b8fc-e66f1175a829-lg.webp",
+    "https://content.estitor.com/ab73203e-7499-4158-a9e6-3ef2ebefc4d1-lg.webp",
+    "https://content.estitor.com/37f2b934-04d6-4fa3-b273-24bfb2680d71-lg.webp",
+    "https://content.estitor.com/daeb9ccb-3499-465d-a043-d55e21685bda-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se atraktivan dvosoban stan površine 57 m², smješten na trećem spratu novog i luksuzno projektovanog kompleksa Gorica Residence.\nStan je kompletno opremljen kvalitetnim namještajem brenda Enza Home, uz pažljivo odabrane detalje i visok standard završne obrade. Zgrada posjeduje lift renomiranog proizvođača Kleemann, a stanu pripada i vlastito spoljašnje parking mjesto ispred zgrade.\nOdlična lokacija omogućava brzu i jednostavnu povezanost sa svim djelovima grada, dok je centar Podgorice udaljen svega 2 minuta vožnje automobilom. Smješten u podnožju brda Gorica, kompleks pruža mirno okruženje, prijatan vazduh i neposrednu blizinu prirode, uz sve prednosti urbanog načina života.\nIdealan izbor za one koji traže moderan, kvalitetan i komforan stan na atraktivnoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:49.406896+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.929980+00:00",
+  "source_html_sha256": "e91d6622990a83e01d0ed4c39ac7c77a6a213726556d9f82648fd412121dd773",
+  "title": "Izdavanje, dvosoban stan, 57m², Gorica C, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-21",
+  "updated_date": "2026-10-23",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 57,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Danilo Bozovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se atraktivan dvosoban stan površine 57 m², smješten na trećem spratu novog i luksuzno projektovanog kompleksa Gorica Residence.Stan je kompletno opremljen kvalitetnim namještajem brenda Enza Home, uz pažljivo ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!909",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267371343",
+      "name": "Danilo Bozovic",
+      "email": null,
+      "source": "workbook:Outreach list!909"
+    },
+    {
+      "phone_e164": "+38267371343",
+      "name": "Danilo Bozovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267371343"
+  ],
+  "phone_e164": "+38267371343",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

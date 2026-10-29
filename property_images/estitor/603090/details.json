@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "603090",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603090",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 767,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_603090",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6c32de4a-5848-4858-9735-3150e55e848d-lg.webp",
+    "https://content.estitor.com/4f317796-330a-438f-95a7-74e4699494e2-lg.webp",
+    "https://content.estitor.com/c3e787ce-ac30-481e-8fc1-a533fcaebf06-lg.webp",
+    "https://content.estitor.com/72d3bc8b-045b-4497-a1b1-648c1cbf1103-lg.webp",
+    "https://content.estitor.com/c43e78f7-5bf3-4650-8733-23fee56fb1b0-lg.webp",
+    "https://content.estitor.com/1794c0d7-0bc5-43e1-9fc5-8c9673baba02-lg.webp",
+    "https://content.estitor.com/71e878b1-dc51-4dd1-bba0-11fc43943499-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban komforan stan(novogradnja)zgrada pored Vodovoda u Škaljarima od 1.oktobra.Bez kucnih ljubimaca..",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:08.709441+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.386762+00:00",
+  "source_html_sha256": "b865c61a029d8c872b5a4064e4f5b5cd70c20f3eb9644e1455189609ec4f08bb",
+  "title": "Izdavanje, jednosoban stan, 65m², Škaljari, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-27",
+  "updated_date": "2026-10-08",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 65,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Jelena Nenezic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem jednosoban komforan stan(novogradnja)zgrada pored Vodovoda u Škaljarima od 1.oktobra.Bez kucnih ljubimaca..",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!767",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267206545",
+      "name": "Jelena Nenezic",
+      "email": null,
+      "source": "workbook:Outreach list!767"
+    },
+    {
+      "phone_e164": "+38267206545",
+      "name": "Jelena Nenezic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267206545"
+  ],
+  "phone_e164": "+38267206545",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

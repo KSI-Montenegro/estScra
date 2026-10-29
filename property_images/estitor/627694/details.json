@@ -1,0 +1,139 @@
+{
+  "source": "estitor",
+  "listing_id": "627694",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-627694",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-627694"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 152,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627694",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/14119dd7-ed77-4753-ad18-8419b3308c1f-lg.webp",
+    "https://content.estitor.com/d11bf933-437f-4efa-bb25-89c49c745b4f-lg.webp",
+    "https://content.estitor.com/cb0405c9-5d39-45e7-9a40-1a38b35e3204-lg.webp",
+    "https://content.estitor.com/be7b3be0-51fe-495e-9727-509fecdad11f-lg.webp",
+    "https://content.estitor.com/38070022-c6d1-40b3-8ebc-b03ee9ce69d0-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Dostupno za zakup! Predstavljamo Vam izuzetno atraktivno zemljište površine 5700 m², smješteno na primarnoj lokaciji u Matagužima, Podgorica. Ova parcela je idealno pozicionirana na samom magistralnom putu Golubovci-Tuzi, nudeći neuporedivu povezanost.\n\nKljučna prednost ove nekretnine je njena izvanredna pristupačnost. Nalazi se na samo 30-40 metara od magistrale, sa omogućenim direktnim prilazom sa glavnog puta. Dodatnu pogodnost čini mogućnost korišćenja prilaza sa čak dva puta, što značajno optimizuje logistiku i funkcionisanje za bilo koju vrstu djelatnosti.\n\nZemljište je savršeno pogodno za širok spektar namjena. Idealno je za izgradnju montažnog objekta do 1000 m² za potrebe skladištenja robe, logistiku, kao i za različite poljoprivredne djelatnosti i slično. Nudimo potpunu fleksibilnost dogovora o zakupu i broju kvadrata, prilagođavajući se specifičnim potrebama budućeg zakupca.\n\nInfrastruktura je već djelimično obezbijeđena, sa prisutnom strujom na placu. Za snabdijevanje vodom, postoji opcija priključenja na obližnji vodovod ili samoinicijativno postavljanje, u zavisnosti od Vaših želja i potreba. Vlasništvo 1/1 garantuje sigurnost i jasnoću pravnog statusa.\n\nIskoristite ovu rijetku priliku da obezbijedite prostrano i funkcionalno zemljište sa odličnom povezanošću i povoljnim uslovima. Objekat na fotografiji je ilustrovanog karaktera; izdaje se samo zemljište.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:51.179644+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.165935+00:00",
+  "source_html_sha256": "2036fbd26de1e7ac2769d99b2c8cfad8063a5112653c5a5601f66cd13cf9b609",
+  "title": "Izdavanje, plac, 5700m², Mataguži, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-12",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Stefan Boljevic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Dostupno za zakup! Predstavljamo Vam izuzetno atraktivno zemljište površine 5700 m², smješteno na primarnoj lokaciji u Matagužima, Podgorica. Ova parcela je idealno pozicionirana na samom magistralnom putu Golubovci-T...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!152",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269732724",
+      "name": "Stefan Boljevic",
+      "email": null,
+      "source": "workbook:Not homes!152"
+    },
+    {
+      "phone_e164": "+38269732724",
+      "name": "Stefan Boljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269732724"
+  ],
+  "phone_e164": "+38269732724",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

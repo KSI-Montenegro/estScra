@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "80129",
+  "listing_url": "https://patuljak.me/oglas/plac-na-jasikovcu--80129",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-na-jasikovcu--80129"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 45,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80129",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Berane",
+    "Naselje": "Jasikovac",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "1360 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80129_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80129_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80129_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Odličan plac sa prelijepim panoramskim pogledom.\nVlasnik 1/1, bez tereta i ograničenja.\nCijena 30€/m2.\nKontakt tel: +381659652004",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:49.362982+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.401373+00:00",
+  "source_html_sha256": "b6e1c6e8cb9622091477a2993ad22d5de65131df795493caaaf5bc2bef1938ce",
+  "title": "Plac na Jasikovcu",
+  "description_language": "en",
+  "price_raw": "30.00€",
+  "price_amount": 30,
+  "price_currency": "EUR",
+  "advertiser_name": "Miljan",
+  "property_type": "land",
+  "city": "Berane",
+  "district": "Jasikovac",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Odličan plac sa prelijepim panoramskim pogledom.Vlasnik 1/1, bez tereta i ograničenja.Cijena 30€/m2.Kontakt tel: +381659652004",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!45",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268246824",
+      "name": "Miljan",
+      "email": null,
+      "source": "workbook:Not homes!45"
+    }
+  ],
+  "contact_phones": [
+    "+38268246824"
+  ],
+  "phone_e164": "+38268246824",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "lot_area_m2": 1360,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

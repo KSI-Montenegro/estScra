@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "614972",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-614972",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-614972"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 93,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_614972",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Istok",
+    "Parking": "Nema parkinga",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/19f97171-264c-4357-9d4d-e4dc992bc84d-lg.webp",
+    "https://content.estitor.com/66122b5d-3fd1-4e64-b2ba-2f9a3721281b-lg.webp",
+    "https://content.estitor.com/64826647-a9fa-4acc-9957-460d03bd48b9-lg.webp",
+    "https://content.estitor.com/375ae9ea-f7d6-4015-9419-2834a606d3ab-lg.webp",
+    "https://content.estitor.com/b1ee2e03-2a30-4cae-95b3-729400122d87-lg.webp",
+    "https://content.estitor.com/ee1348a8-13d9-45b2-98d2-6855782296b1-lg.webp",
+    "https://content.estitor.com/b3a9798e-b839-43ed-949f-62ce68ae6abe-lg.webp",
+    "https://content.estitor.com/728c1b20-5324-4dfe-a224-3972046f58c0-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan poslovni prostor od 126.0 m² u srcu Drača, Podgorica. Smješten na prizemlju, ovaj prostor je idealan za različite poslovne djelatnosti, od kancelarija do uslužnih djelatnosti, pružajući laku dostupnost za klijente i zaposlene.\nProstor je kompletno renoviran, pružajući svježe, funkcionalno i privlačno okruženje. Sastoji se od dvije odvojene, prostrane prostorije koje nude fleksibilnost u organizaciji radnog prostora prema specifičnim potrebama vašeg biznisa. Poslovni prostor je djelimično namješten, što omogućava brz početak poslovanja uz minimalna dodatna ulaganja.\nDodatna pogodnost je sistem klimatizacije koji obezbjeđuje prijatan boravak i optimalne radne uslove tokom cijele godine. Iako objekat ne posjeduje sopstveni parking, njegova lokacija u Draču nudi dobru povezanost i pristup gradskim saobraćajnicama.\nOvaj poslovni prostor predstavlja izuzetnu priliku za uspostavljanje ili proširenje vašeg biznisa na frekventnoj i dobro povezanoj lokaciji u Podgorici.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:19.383843+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.753545+00:00",
+  "source_html_sha256": "808bbcda94db492b0819984e1038be16c0b40233ab1695601468a36c4ccb538f",
+  "title": "Izdavanje, poslovni prostor, 126m², Drač, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-12",
+  "updated_date": "2026-09-23",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 126,
+  "rooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Drazen Bajceta",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Istok",
+  "balconies": 0,
+  "year_built": 2015,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se moderan poslovni prostor od 126.0 m² u srcu Drača, Podgorica. Smješten na prizemlju, ovaj prostor je idealan za različite poslovne djelatnosti, od kancelarija do uslužnih djelatnosti, pružajući laku dostupno...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!93",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269332223",
+      "name": "Drazen Bajceta",
+      "email": null,
+      "source": "workbook:Not homes!93"
+    },
+    {
+      "phone_e164": "+38269332223",
+      "name": "Drazen Bajceta",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269332223"
+  ],
+  "phone_e164": "+38269332223",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

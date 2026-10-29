@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "82424",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-stan--82424",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-stan--82424"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 145,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82424",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!145:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Lazi",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Kvadratura": "28 m2",
+    "Vrsta grijanja": "Ostalo",
+    "Kvadratura balkona": "1 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82424_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82424_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82424_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82424_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan sa svim racunima 450 e(struja,voda,smece,tv,internet uracunati u cijenu)stan se izdaje na godinu dana ili duze.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:51.971426+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.706443+00:00",
+  "source_html_sha256": "44a4db02886789617ca0ac0d24c8dfea04a81b7b5a582f6a18a46619413ee4b3",
+  "title": "Izdaje se stan",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "Melina",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Lazi",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Ostalo",
+  "area_m2": 28,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se stan sa svim racunima 450 e(struja,voda,smece,tv,internet uracunati u cijenu)stan se izdaje na godinu dana ili duze.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!145",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268592159",
+      "name": "Melina",
+      "email": null,
+      "source": "workbook:Outreach list!145"
+    }
+  ],
+  "contact_phones": [
+    "+38268592159"
+  ],
+  "phone_e164": "+38268592159",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

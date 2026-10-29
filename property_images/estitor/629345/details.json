@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "629345",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-629345",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-629345"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 78,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_629345",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1dd283f1-3d5e-4ca3-b2f4-fef96fde8541-lg.webp",
+    "https://content.estitor.com/84c0ec34-d410-4363-b23d-5ad938e136e5-lg.webp",
+    "https://content.estitor.com/579633cd-cb39-49d4-bda2-4e3b2a4a02cf-lg.webp",
+    "https://content.estitor.com/062fff36-1a08-4126-9138-6269d7cc13c2-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban, namješten stan u centru Bara. Stan se nalazi na 4. spratu nove zgrade i posjeduje nov namještaj. Zgrada posjeduje svoj parking.\nZgrada se nalazi u blizini škole i ostalih sadržaja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:14.088673+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.271483+00:00",
+  "source_html_sha256": "0b67d8d96aa56907fd88d197233f024847b56e46b0ac2b9f667281c2b3a3548b",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-05",
+  "updated_date": "2026-10-18",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Jelena Drakić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban, namješten stan u centru Bara. Stan se nalazi na 4. spratu nove zgrade i posjeduje nov namještaj. Zgrada posjeduje svoj parking. Zgrada se nalazi u blizini škole i ostalih sadržaja.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!78",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38266147444",
+      "name": "Jelena",
+      "email": null,
+      "source": "workbook:Outreach list!78"
+    },
+    {
+      "phone_e164": "+38266147444",
+      "name": "Jelena Drakić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38266147444"
+  ],
+  "phone_e164": "+38266147444",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

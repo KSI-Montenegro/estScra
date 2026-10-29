@@ -1,0 +1,120 @@
+{
+  "source": "estitor",
+  "listing_id": "639110",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-639110",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-639110"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 69,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_639110",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d47f57c4-ea47-4015-bd9a-6e1459272718-lg.webp",
+    "https://content.estitor.com/50b38f5c-134c-423a-8783-d918d367fecb-lg.webp",
+    "https://content.estitor.com/403eba7f-41ee-4cd7-8bc8-d5cdc9fa6cf9-lg.webp",
+    "https://content.estitor.com/3a493e5b-7722-40ad-93d4-a2f43fc9cd3c-lg.webp",
+    "https://content.estitor.com/6794921e-c454-4be8-9de4-9398c8afb43c-lg.webp",
+    "https://content.estitor.com/34474cce-1d62-4b55-99f2-9d1b86c4200d-lg.webp",
+    "https://content.estitor.com/1501cbc0-f33c-4f8e-9676-df06626cdccc-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Na prodaju građevinsko zemljište u prelijepom selu Bratešići, Grbalj.\n\nIzuzetna lokacija sa pogledom na more u neposrednoj blizini, direktno uz put, što omogućava laku pristupačnost.\n\nUživajte u idealnim uslovima za život, u savršenom miru, svježem zraku, pogodnim za zdravje, gdje se miješa mediteranska i gorska klima.\n\nIdealno za izgradnju vaše kuće ili investiciju u turizam.\n\nZa više informacija, kontaktirajte nas!\n\nParcele: 1489,1490,1491 i 1492 = 2102 m2. KO Prijeradi, opština Kotor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:48.012156+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.861909+00:00",
+  "source_html_sha256": "4aa09ea662b0a4234323463aa11da080e05d0021725b2059ee751ac046b40d14",
+  "title": "Prodaja, plac, 2102m², Bratešići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 126000,
+  "price_currency": "EUR",
+  "price_raw": "126000 EUR",
+  "city": "Kotor",
+  "street_address": "Branka Vujadinović, 4 ulica 25 marta, Bratešići, Črna gora",
+  "country": "ME",
+  "advertiser_name": "Sasa Vuksanovic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Na prodaju građevinsko zemljište u prelijepom selu Bratešići, Grbalj.Izuzetna lokacija sa pogledom na more u neposrednoj blizini, direktno uz put, što omogućava laku pristupačnost.Uživajte u idealnim uslovima za život...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

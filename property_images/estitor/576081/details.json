@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "576081",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-576081",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-576081"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 186,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_576081",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d8b61332-1a55-40e9-af45-bca7bba4ff7b-lg.webp",
+    "https://content.estitor.com/49b7b13f-1d40-47b5-9063-4d1d34630940-lg.webp",
+    "https://content.estitor.com/6a0444b8-044f-4988-a009-5d0e119c7c53-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor pored kafića Amfora, površine 25m².",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:11.160627+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.403742+00:00",
+  "source_html_sha256": "19804ae896e483e3236852a7dafc73c7fc8d288867e89838c297c2772c8ccc2e",
+  "title": "Izdavanje, poslovni prostor, 25m², Krivi Most, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-03",
+  "updated_date": "2026-09-13",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 25,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Gradnja-promet, 64 Ilije Plamenca, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Strugar",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjeverozapad",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor pored kafića Amfora, površine 25m².",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!186",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269488477",
+      "name": "Aleksandar Strugar",
+      "email": null,
+      "source": "workbook:Not homes!186"
+    },
+    {
+      "phone_e164": "+38269488477",
+      "name": "Aleksandar Strugar",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269488477"
+  ],
+  "phone_e164": "+38269488477",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

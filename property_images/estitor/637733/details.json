@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "637733",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637733",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637733"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 275,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_637733",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e5fc8c96-db3e-4e41-84f3-8a084b44cd12-lg.webp",
+    "https://content.estitor.com/e4b2c67e-ebe4-4706-8fd6-43296d4b86a7-lg.webp",
+    "https://content.estitor.com/4fe52aa4-18bd-4f53-931c-5223abf2705c-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan sa garažnim mjestom i mogućnošću parkiranja pored zgrade, osunčan, pogled na more, novogradnja, blizu škole, miran kraj, odmah useljiv, opremljen.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:58.808036+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.504842+00:00",
+  "source_html_sha256": "0fa7440cd19729860ac22c0c9306036d110c4cf9c2a1e417479d9baa6a8e9fe6",
+  "title": "Izdavanje, jednosoban stan, 49m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-16",
+  "updated_date": "2026-10-17",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Nikole Lekića, Bar, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milenko Damjanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Jednosoban stan sa garažnim mjestom i mogućnošću parkiranja pored zgrade, osunčan, pogled na more, novogradnja, blizu škole, miran kraj, odmah useljiv, opremljen.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!275",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267413824",
+      "name": "Milenko Damjanovic",
+      "email": null,
+      "source": "workbook:Outreach list!275"
+    },
+    {
+      "phone_e164": "+38267413824",
+      "name": "Milenko Damjanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267413824"
+  ],
+  "phone_e164": "+38267413824",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

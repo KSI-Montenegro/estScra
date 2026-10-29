@@ -1,0 +1,126 @@
+{
+  "source": "patuljak",
+  "listing_id": "74537",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-525m-zabljak--74537",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-525m-zabljak--74537"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 91,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74537",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!91:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Motički Gaj",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "525 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74537_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74537_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Plac 525m², ima dozvolu za izgradnju 105m² u osnovi, na tri nivoa P+PS+PK. Udaljen 1km od centra uz magistralu. Suncana strana, odlicna lokacija. Kontakt 068342163.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:18.185098+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.740087+00:00",
+  "source_html_sha256": "1190f560938d99d4660f59053cc2250323e21bd61fdc600fba9fde5bd49271e7",
+  "title": "Prodajem plac 525m², Zabljak",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Vlastimir",
+  "property_type": "land",
+  "city": "Žabljak",
+  "district": "Motički Gaj",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Plac 525m², ima dozvolu za izgradnju 105m² u osnovi, na tri nivoa P+PS+PK. Udaljen 1km od centra uz magistralu. Suncana strana, odlicna lokacija. Kontakt 068342163.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!91",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267301344",
+      "name": "Vlastimir",
+      "email": null,
+      "source": "workbook:Not homes!91"
+    }
+  ],
+  "contact_phones": [
+    "+38267301344"
+  ],
+  "phone_e164": "+38267301344",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 525,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

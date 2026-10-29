@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "79250",
+  "listing_url": "https://patuljak.me/oglas/prodaja-kuca-84-m2-terasa-80-m2-prcanj-kotor--79250",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-kuca-84-m2-terasa-80-m2-prcanj-kotor--79250"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 7,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79250",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!7:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Kotor",
+    "Naselje": "Prčanj",
+    "Broj soba": "3",
+    "Broj spratova": "2",
+    "Namještena": "Da",
+    "Parking mjesto": "1",
+    "Kanalizacija": "Standardna",
+    "Stambena kvadratura": "84 m2",
+    "Kvadratura placa": "140 m2",
+    "Kvadratura balkona": "98 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:17.015784+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.830839+00:00",
+  "source_html_sha256": "31905c71e3da72346dbd832e9e88b01e473eb1d3ccc536fece363cd3bd43d912",
+  "title": "Prodaja, kuća 84 m2, terasa 80 m2 Prčanj, Kotor",
+  "description_language": "en",
+  "price_raw": "200000.00€",
+  "price_amount": 200000,
+  "price_currency": "EUR",
+  "advertiser_name": "aynur ruzgar",
+  "property_type": "house",
+  "city": "Kotor",
+  "district": "Prčanj",
+  "building_floors_raw": "2",
+  "room_layout_raw": "3",
+  "parking_raw": "1",
+  "area_m2": 84,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Prodaja, kuća 84 m2, terasa 80 m2  Prčanj, Kotor",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!7",
+      "priority": 100
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269357067",
+      "name": "aynur ruzgar",
+      "email": null,
+      "source": "workbook:Outreach list!7"
+    }
+  ],
+  "contact_phones": [
+    "+38269357067"
+  ],
+  "phone_e164": "+38269357067",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

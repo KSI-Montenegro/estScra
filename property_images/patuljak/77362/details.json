@@ -1,0 +1,151 @@
+{
+  "source": "patuljak",
+  "listing_id": "77362",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-namjesten-stan-42m2-parking-zagoric-p--77362",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-namjesten-stan-42m2-parking-zagoric-p--77362"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 31,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_77362",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zagorič",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Kvadratura": "42 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77362_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "IZDAVANJE - jednosoban potpuno nov stan u Zagoriču\n\nU ponudi jednosoban namješten stan, površine 42m2 u\nZagoriču u Podgorici.\n\nNalazi se na 2. spratu novogradnje koja posjeduje lift kao i parking za stanare zgrade.\n\nPotpuno je opremljen novim namještajem i uredjajima. Južno orijentisan.\nTakodje klimatizovan. Sjajna nekretnina za samce ili parove.\n\nStruktura: ulazni hodnik, dnevni boravak sa trpezarijom i\nkuhinjom, terasa, spavaća soba, kupatilo.\n\nNalazi se na lijepoj lokaciji - brdo Gorica je nadomak\nzgrade, kao i centar grada.\n\nNedaleko su dva velika marketa i ostali potrebni sadržaji.\nStan nije pet friendly. Odmah je useljiv.\n\nDepozit u visini jedne mjesečne kirije obavezan je prilikom zaključenja ugovora na period od minimum 12 mjeseci.\n\n• Cijena: 500€\n\n• Kontakt: +382 67 96 96 90",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:04.134060+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.904563+00:00",
+  "source_html_sha256": "a4842ead1a749adcdfec109139a333b1d34baef68530ccd3a3d4ee20888cd841",
+  "title": "Jednosoban namješten stan, 42m2 + parking, Zagorič, Podgorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Puerta",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zagorič",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 42,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "IZDAVANJE - jednosoban potpuno nov stan u ZagoričuU ponudi jednosoban namješten stan, površine 42m2 uZagoriču u Podgorici.Nalazi se na 2. spratu novogradnje koja posjeduje lift kao i parking za stanare zgrade. Potpuno je opremljen novim namještajem i uredjajima. Južno orijentisan.Takodje klimatizovan. Sjajna nekretnina za samce ili parove.Struktura: ulazni hodnik, dnevni boravak sa trpezarijom ikuhinjom, terasa, spavaća soba, kupatilo.Nalazi se na lijepoj lokaciji - brdo Gorica je nadomakzgrade, kao i centar grada.Nedaleko su dva velika marketa i ostali potrebni sadržaji.Stan nije pet friendly. Odmah je useljiv.Depozit u visini jedne mjesečne kirije obavezan je prilikom zaključenja ugovora na period od minimum 12 mjeseci.• Cijena: 500€• Kontakt: +382 67 96 96 90",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!31",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267969690",
+      "name": "Puerta",
+      "email": null,
+      "source": "workbook:Likely agents!31"
+    }
+  ],
+  "contact_phones": [
+    "+38267969690"
+  ],
+  "phone_e164": "+38267969690",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

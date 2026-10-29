@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "632841",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632841",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632841"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 792,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_632841",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2017",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2f77ae5f-bc1c-4784-ae82-250ad65c63b8-lg.webp",
+    "https://content.estitor.com/815968fa-1007-480b-a283-0f3b47c63a15-lg.webp",
+    "https://content.estitor.com/9b58ab53-bc36-426f-a552-03af79eb5835-lg.webp",
+    "https://content.estitor.com/c19eabd8-98c1-4a1f-8851-885a69675373-lg.webp",
+    "https://content.estitor.com/f59d0e98-73d3-432c-b068-1896e7d85fc3-lg.webp",
+    "https://content.estitor.com/5a0f55a2-eda4-434e-aff4-ae749d14fadd-lg.webp",
+    "https://content.estitor.com/2a262448-ff6b-43a6-b118-295f442086b4-lg.webp",
+    "https://content.estitor.com/8f2e18d3-704f-4add-897b-ccfd59332cfe-lg.webp",
+    "https://content.estitor.com/509e7e7d-909f-4408-bbea-f30baf805434-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem do sezone jednosoban stan u centru Budve odmah pored Tq Plaza. Slobodan od 27.oktobra.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:25.974752+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.677515+00:00",
+  "source_html_sha256": "55cc30b0a310701b54440a9ee56ddfaea88b5fa74e3ef8c6f67cd87c46e91e3d",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-10",
+  "updated_date": "2026-10-20",
+  "price_amount": 470,
+  "price_currency": "EUR",
+  "price_raw": "470 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "22. Novembra, Budva, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Biljana Babic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "year_built": 2017,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem do sezone jednosoban stan u centru Budve odmah pored Tq Plaza. Slobodan od 27.oktobra.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!792",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269261751",
+      "name": "Biljana Babic",
+      "email": null,
+      "source": "workbook:Outreach list!792"
+    },
+    {
+      "phone_e164": "+38269261751",
+      "name": "Biljana Babic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269261751"
+  ],
+  "phone_e164": "+38269261751",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

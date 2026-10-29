@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "511636",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-511636",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-511636"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 878,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_511636",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Godina izgradnje": "60",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Ispred objekta",
+    "Površina placa": "60",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Tavan": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "60"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/91543b02-a793-4e0a-9066-29b90cd13a79-lg.webp",
+    "https://content.estitor.com/d1eed79e-1ba5-4358-9841-c56381af6125-lg.webp",
+    "https://content.estitor.com/45b8c78c-519a-4072-b005-d9372efff4f3-lg.webp",
+    "https://content.estitor.com/9497a3bd-4da2-424c-8cab-59c516622ed3-lg.webp",
+    "https://content.estitor.com/4a27c1ce-7102-4d5a-b8c7-f31ecee5c92d-lg.webp",
+    "https://content.estitor.com/782a960f-bdc3-4524-9836-29c112f5f3b4-lg.webp",
+    "https://content.estitor.com/e7894042-e1e4-4d0b-89fe-b9e9b4581e07-lg.webp",
+    "https://content.estitor.com/93c42d2d-55e0-4408-bdb3-eb3881acc41f-lg.webp",
+    "https://content.estitor.com/5302a6d8-e7e2-4379-ad51-2722e498c601-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Renoviran, blizu škole, miran kraj, odmah useljiv, penthouse",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:29.056211+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.585133+00:00",
+  "source_html_sha256": "bc16af30414bc66fe68684cc575e60360728ae9dab4950397f633c22327d0fa2",
+  "title": "Izdavanje, kuća, 60m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-01-15",
+  "updated_date": "2026-09-07",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Stanna Dan",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeverozapad",
+  "lot_area_m2": 60,
+  "balconies": 1,
+  "year_built": 60,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Tavan",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Renoviran, blizu škole, miran kraj, odmah useljiv, penthouse",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!878",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268109293",
+      "name": "Stanna Dan",
+      "email": null,
+      "source": "workbook:Outreach list!878"
+    },
+    {
+      "phone_e164": "+38268109293",
+      "name": "Stanna Dan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268109293"
+  ],
+  "phone_e164": "+38268109293",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

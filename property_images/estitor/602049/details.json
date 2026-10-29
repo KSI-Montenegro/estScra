@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "602049",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602049",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602049"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 733,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_602049",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/090defb0-1a0c-4d5b-8cda-5e389fdf8052-lg.webp",
+    "https://content.estitor.com/49f31852-34e4-4ddf-af6e-df563717175e-lg.webp",
+    "https://content.estitor.com/11f23666-a49f-45ba-8901-a00507a72491-lg.webp",
+    "https://content.estitor.com/d4bdbfce-7cc0-46a3-a8b1-86df738027e4-lg.webp",
+    "https://content.estitor.com/b1fc2b7e-2ba8-4041-bdc7-b253d8afdd0b-lg.webp",
+    "https://content.estitor.com/a5e7a73a-4991-490c-a13b-dd8b039ee8fd-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban namjesten stan na Malo brdo... U cijenu uracunati racuni za vodu,smece i kablovsku...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:48.948495+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.082522+00:00",
+  "source_html_sha256": "3b1ac995e10a668658ecb6e249b8da06b8b319efc06223936d2e81cca2677194",
+  "title": "Izdavanje, dvosoban stan, 100m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-26",
+  "updated_date": "2026-08-27",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 100,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Fruškogorska, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Ivan Stijepovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem dvosoban namjesten stan na Malo brdo... U cijenu uracunati racuni za vodu,smece i kablovsku...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!733",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269569099",
+      "name": "Ivan Stijepovic",
+      "email": null,
+      "source": "workbook:Outreach list!733"
+    },
+    {
+      "phone_e164": "+38269569099",
+      "name": "Ivan Stijepovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269569099"
+  ],
+  "phone_e164": "+38269569099",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "640371",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640371",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640371"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 853,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640371",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/06bd8c83-cdab-40d0-b4e5-1d631bb5e674-lg.webp",
+    "https://content.estitor.com/1a79c484-18e9-4fd2-9dfc-7dfe40afd27f-lg.webp",
+    "https://content.estitor.com/49b551af-3ca7-42a3-a5df-5d2684dba151-lg.webp",
+    "https://content.estitor.com/290a2cac-4a5f-4da4-916a-5bd71c578fbb-lg.webp",
+    "https://content.estitor.com/e5461d93-2f9c-4e24-8e9d-2a4dd57f438f-lg.webp",
+    "https://content.estitor.com/f013eaf1-8dab-492b-872d-2b8088056523-lg.webp",
+    "https://content.estitor.com/719651ff-adf7-4789-8024-ad71021952bd-lg.webp",
+    "https://content.estitor.com/26ea1f0f-5951-414c-98e9-78ba1c03de88-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Osunčan, Novogradnja, Blizu škole, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:11.271121+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.354423+00:00",
+  "source_html_sha256": "9cbee15b7ae932824866e271b850732aff6a7e8be87ff381c103f21fd603442a",
+  "title": "Izdavanje, jednosoban stan, 49m², Stara Varoš, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Manja Vukovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Osunčan, Novogradnja, Blizu škole, Miran kraj, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!853",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268029858",
+      "name": "Manja Vukovic",
+      "email": null,
+      "source": "workbook:Outreach list!853"
+    },
+    {
+      "phone_e164": "+38268029858",
+      "name": "Manja Vukovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268029858"
+  ],
+  "phone_e164": "+38268029858",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

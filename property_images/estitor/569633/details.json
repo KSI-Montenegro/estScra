@@ -1,0 +1,140 @@
+{
+  "source": "estitor",
+  "listing_id": "569633",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-ugostiteljski-objekat/grad-ulcinj/id-569633",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-ugostiteljski-objekat/grad-ulcinj/id-569633"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 793,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_569633",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Ugostiteljski objekat"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9f413095-cc19-420c-99f1-14074b5986b3-lg.webp",
+    "https://content.estitor.com/d9ed1b9d-3ff9-42a0-be65-b82d523c456d-lg.webp",
+    "https://content.estitor.com/f174c09f-bd16-4df7-8c43-32390132fc92-lg.webp",
+    "https://content.estitor.com/1eb0ec88-c34c-4e2b-851d-3bfbe182aaff-lg.webp",
+    "https://content.estitor.com/7c257384-5e85-484f-9b11-8b79fd66c366-lg.webp",
+    "https://content.estitor.com/914a081a-f9e5-4654-9cb7-c02b0087fdb1-lg.webp",
+    "https://content.estitor.com/66db17f0-bcf6-480b-8e26-2aa4dab568f1-lg.webp",
+    "https://content.estitor.com/030d6f04-51d8-4560-a274-d632fb9f624e-lg.webp",
+    "https://content.estitor.com/ef7af938-fcc2-408f-8142-98f618c340e4-lg.webp",
+    "https://content.estitor.com/872e6963-d2bf-4e67-ab03-b55b9bb6cb2b-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izuzetna poslovna prilika u Ulcinju! Nudimo za izdavanje atraktivan ugostiteljski objekat, idealno pozicioniran u mirnom i prelijepom Zoganju, Ulcinj. Sa površinom od 112.0 m², ova nekretnina predstavlja savršeno mjesto za pokretanje ili proširenje vašeg ugostiteljskog biznisa. Objekat je pogodan za različite namjene – od modernog restorana, ugodnog kafića do dinamičnog bara sa mogućnošću organizacije svih vrsta proslava - rođendana, matura, vjenčanja. Prostranost unutrašnjosti omogućava fleksibilno uređenje prema vašim poslovnim potrebama i viziji. Ova lokacija nudi visok potencijal za profitabilnost, naročito tokom turističke sezone. Investirajte u budućnost vašeg biznisa na jednoj od najperspektivnijih lokacija na Crnogorskom primorju. Cena zakupa: 12000.0 EUR godišnje. Plaćanje se vrši u iznosu od pola godišnje rente prilikom potpisivanja ugovora, u narednom periodu - mjesec po mjesec. minimalni period zakupa - 2 godine.\nZa detalje i zakazivanje pregleda, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:26.961697+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.692354+00:00",
+  "source_html_sha256": "218cbf9121af39f3800ffbcdf66fcb2949c0ac06263e4caebe30f5afa8665842",
+  "title": "Izdavanje, ugostiteljski objekat, 112m², Kolomza, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-14",
+  "updated_date": "2026-10-20",
+  "price_amount": 12000,
+  "price_currency": "EUR",
+  "price_raw": "12000 EUR",
+  "area_m2": 112,
+  "city": "Ulcinj",
+  "street_address": "W7XM+G47, Briska Gora 85360, Черногория",
+  "country": "ME",
+  "advertiser_name": "Jusuf Jokić",
+  "deal_type": "rent",
+  "property_type_raw": "Ugostiteljski objekat",
+  "amenities": [],
+  "metadata_summary": "Izuzetna poslovna prilika u Ulcinju! Nudimo za izdavanje atraktivan ugostiteljski objekat, idealno pozicioniran u mirnom i prelijepom Zoganju, Ulcinj. Sa površinom od 112.0 m², ova nekretnina predstavlja savršeno mjes...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!793",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268528956",
+      "name": "Jusuf Jokić",
+      "email": null,
+      "source": "workbook:Outreach list!793"
+    },
+    {
+      "phone_e164": "+38268528956",
+      "name": "Jusuf Jokić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268528956"
+  ],
+  "phone_e164": "+38268528956",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

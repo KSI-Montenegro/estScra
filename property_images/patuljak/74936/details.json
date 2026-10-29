@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "74936",
+  "listing_url": "https://patuljak.me/oglas/izdajem-sprat-kuce--74936",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-sprat-kuce--74936"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 946,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74936",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!946:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Broj soba": "4",
+    "Broj spratova": "1",
+    "Godina izgradnje": "1970-1979",
+    "Namještena": "Polunamješten",
+    "Vrsta poda": "Parket",
+    "Vrsta grijanja": "Struja",
+    "Parking mjesto": "2",
+    "Kanalizacija": "Standardna",
+    "Stambena kvadratura": "150 m2",
+    "Kvadratura placa": "1520 m2",
+    "Kvadratura balkona": "100 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74936_1.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Sprat kuce polunamjesten blizu centra sa velikom terasom 067562073",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:13.220378+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.238480+00:00",
+  "source_html_sha256": "b94f7cb05cf6b472e7485de1877f88d30020b19c40529711523b7ba0fa690d3f",
+  "title": "Izdajem sprat kuce",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Biljana",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "building_floors_raw": "1",
+  "room_layout_raw": "4",
+  "heating_raw": "Struja",
+  "parking_raw": "2",
+  "area_m2": 150,
+  "year_built": 1970,
+  "parking_spaces": 2,
+  "amenities": [],
+  "metadata_summary": "Sprat kuce polunamjesten  blizu centra sa velikom terasom 067562073",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!946",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267562073",
+      "name": "Biljana",
+      "email": null,
+      "source": "workbook:Outreach list!946"
+    }
+  ],
+  "contact_phones": [
+    "+38267562073"
+  ],
+  "phone_e164": "+38267562073",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

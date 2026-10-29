@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "507601",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-507601",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-507601"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 796,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_507601",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Stanje": "Odlicno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/933bddda-13b8-4609-b061-86343af1a866-lg.webp",
+    "https://content.estitor.com/31542d82-7355-40c8-b1ed-55ec178bcb47-lg.webp",
+    "https://content.estitor.com/d5ad09ef-4083-4581-a510-bf0e1da5bc0d-lg.webp",
+    "https://content.estitor.com/248975dc-f834-42c2-af16-64e1fc1e3277-lg.webp",
+    "https://content.estitor.com/d1576383-4daf-4a9b-a739-414a3a6bcf45-lg.webp",
+    "https://content.estitor.com/aabae45a-1ca4-4822-9a56-c4f92e8f58ac-lg.webp",
+    "https://content.estitor.com/dc184e06-17c7-4dee-a4ad-9315cc4343bb-lg.webp",
+    "https://content.estitor.com/dac3de33-b418-438b-bc5f-d09811816392-lg.webp",
+    "https://content.estitor.com/136747ee-6e56-43ed-b448-5e3951ab4733-lg.webp",
+    "https://content.estitor.com/9cbb16e7-345b-48ea-8f5c-57f214447911-lg.webp",
+    "https://content.estitor.com/886c3220-3270-452e-8c72-2ae5b6c76baa-lg.webp",
+    "https://content.estitor.com/fe0ed737-0a74-4e5b-8a76-d53f5e0f076d-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdajem, novo opremljen jednosoban apartman sa odvojenim ulazom u kući uz dodatne troškove struje, vode, kablovske televizije i internata do 10.09.2026. Nalazi se na mirnoj lokaciji na 100m od osnovne škole, vrtića, pošte u Radanovićima. Uz stan se dobija parking mesto za jedno vozilo.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:29.862371+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.721841+00:00",
+  "source_html_sha256": "2ad484d4b0551f9ca62882b1ece8f74408be9a1bba82092c2b094de142278972",
+  "title": "Izdavanje, jednosoban stan, 40m², Radanovići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2025-12-28",
+  "updated_date": "2026-10-19",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Jovana Đukic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlicno",
+  "parking_raw": "Ispred objekta",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem, novo opremljen jednosoban apartman sa odvojenim ulazom u kući uz dodatne troškove struje, vode, kablovske televizije i internata do 10.09.2026. Nalazi se na mirnoj lokaciji na 100m od osnovne škole, vrtića, p...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!796",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269333698",
+      "name": "Jovana Đukic",
+      "email": null,
+      "source": "workbook:Outreach list!796"
+    },
+    {
+      "phone_e164": "+38269333698",
+      "name": "Jovana Đukic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269333698"
+  ],
+  "phone_e164": "+38269333698",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

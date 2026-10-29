@@ -1,0 +1,138 @@
+{
+  "source": "estitor",
+  "listing_id": "624092",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624092",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624092"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 38,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_624092",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Vrsta poslovnog prostora": "Magacinski"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0732cb8b-1ca6-4206-9152-3a3694751e02-lg.webp",
+    "https://content.estitor.com/170c4f65-619e-4d62-972c-3d1b8cffb918-lg.webp",
+    "https://content.estitor.com/4ec224ea-7d86-4a3a-8876-76da9d40d84b-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni i magacinski prostor površine od 40m2 do 500m2, sa mogućnošću prilagođavanja kvadrature potrebama zakupca.\nProstor se nalazi u poslovno-industrijskoj zoni i pogodan je za različite namjene- skladištenje robe, proizvodnju, magacin, servis, radionicu, veleprodaju i druge poslovne djelatnosti.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:45.037527+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.348874+00:00",
+  "source_html_sha256": "f573c42b3c284d4e21656cf350f510ddc32d17b65fdbbde38efb8a5cef178460",
+  "title": "Izdavanje, poslovni prostor, 500m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-26",
+  "updated_date": "2026-09-26",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 500,
+  "bathrooms": 4,
+  "city": "Podgorica",
+  "street_address": "Dušana Milutinovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Andrija Mijanovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni i magacinski prostor površine od 40m2 do 500m2, sa mogućnošću prilagođavanja kvadrature potrebama zakupca. Prostor se nalazi u poslovno-industrijskoj zoni i pogodan je za različite namjene- skladišt...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!38",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268512313",
+      "name": "Andrija Mijanovic",
+      "email": null,
+      "source": "workbook:Not homes!38"
+    },
+    {
+      "phone_e164": "+38268512313",
+      "name": "Andrija Mijanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268512313"
+  ],
+  "phone_e164": "+38268512313",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

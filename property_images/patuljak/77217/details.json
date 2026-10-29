@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "77217",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stana--77217",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stana--77217"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 66,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77217",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!66:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Jednoiposoban",
+    "Namješten": "Ne",
+    "Sprat": "3",
+    "Kvadratura": "62 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Prodaje se stan u izvornom stanju, površine 62m2 u koju nisu uračunate 2 terase.\n\nStruktura stana: hodnik, kupatilo, kuhinja koja se nastavlja na prostranu prostoriju koja može biti samo trpezarija ili trpezarija sa dnevnim boravkom, ostava, 2 sobe (koje mogu biti obje spavaće, ako se dnevna soba i trpezarija vežu; ili jedna spavaća, a jedna dnevna soba) i 2 terase.\nStan je za renoviranje i fleksibilan da bude veoma raskošan jednosoban ili lijep dvosoban stan, u zavisnosti od preference i potrebe budućeg vlasnika.\n\nFantastična lokacija, rijetko u ponudi, blizu O.Š. \"Maksim Gorki\".",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:07.038386+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.193838+00:00",
+  "source_html_sha256": "7d4781c7edb40b7659101ba1a2819969653075b10b5c887d64a86a5af377242d",
+  "title": "Prodaja stana",
+  "description_language": "en",
+  "price_raw": "180000.00€",
+  "price_amount": 180000,
+  "price_currency": "EUR",
+  "advertiser_name": "Borislav",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednoiposoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "area_m2": 62,
+  "amenities": [],
+  "metadata_summary": "Prodaje se stan u izvornom stanju, površine 62m2 u koju nisu uračunate 2 terase.Struktura stana: hodnik, kupatilo, kuhinja koja se nastavlja na prostranu prostoriju koja može biti samo trpezarija ili trpezarija sa dnevnim boravkom, ostava, 2 sobe (koje mogu biti obje spavaće, ako se dnevna soba i trpezarija vežu; ili jedna spavaća, a jedna dnevna soba) i 2 terase.Stan je za renoviranje i fleksibilan da bude veoma raskošan jednosoban ili lijep dvosoban stan, u zavisnosti od preference i potrebe budućeg vlasnika.Fantastična lokacija, rijetko u ponudi, blizu O.Š. Maksim Gorki.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!66",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269275126",
+      "name": "Borislav",
+      "email": null,
+      "source": "workbook:Outreach list!66"
+    }
+  ],
+  "contact_phones": [
+    "+38269275126"
+  ],
+  "phone_e164": "+38269275126",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

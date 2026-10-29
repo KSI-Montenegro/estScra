@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "83555",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stariju-prizemnu-kucu-50m2-noviju-sprat--83555",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stariju-prizemnu-kucu-50m2-noviju-sprat--83555"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 55,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83555",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!55:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Ozrinići",
+    "Broj soba": "5",
+    "Broj spratova": "2",
+    "Namještena": "Ne",
+    "Stambena kvadratura": "50 + 120 m2",
+    "Kvadratura placa": "730 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_4.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Prodajem stariju prizemnu kuću 50m2 + noviju spratnu kuću od120 m2 + pomoćni objekat od 20 m2 na placu od 730 m2 + šumu 4700 m2 i neplodnozemljište od 8000 m2 (u mjestu Turjača, na početku Ozrinića). Cijena - 140000€.\n\nKontakt telefon (Viber i WhatsApp): +447426960774",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:00.506571+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.110203+00:00",
+  "source_html_sha256": "b547618fb1a485e79c3f814b40caba5cb6b7c3ec0331213b98e864ee3f0ce648",
+  "title": "Prodajem stariju prizemnu kuću 50m2 + noviju spratnu kuću od 120 m2, Ozrinići, Nikšić",
+  "description_language": "en",
+  "price_raw": "140000.00€",
+  "price_amount": 140000,
+  "price_currency": "EUR",
+  "advertiser_name": "Radenko",
+  "property_type": "house",
+  "city": "Nikšić",
+  "district": "Ozrinići",
+  "building_floors_raw": "2",
+  "room_layout_raw": "5",
+  "area_m2": 50,
+  "amenities": [],
+  "metadata_summary": "Prodajem stariju prizemnu kuću 50m2 + noviju spratnu kuću od120 m2 + pomoćni objekat od 20 m2 na placu od 730 m2 + šumu 4700 m2 i neplodnozemljište od 8000 m2 (u mjestu Turjača, na početku Ozrinića). Cijena - 140000€. Kontakt telefon (Viber i WhatsApp): +447426960774",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!55",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267288100",
+      "name": "Radenko",
+      "email": null,
+      "source": "workbook:Outreach list!55"
+    }
+  ],
+  "contact_phones": [
+    "+38267288100"
+  ],
+  "phone_e164": "+38267288100",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

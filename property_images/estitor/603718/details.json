@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "603718",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-603718",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-603718"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 51,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_603718",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Nema parkinga",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/35917da5-670c-4ff4-b10b-902a1b6a9cb2-lg.webp",
+    "https://content.estitor.com/4c4c97e5-e72b-4d0e-af66-5648851d02cc-lg.webp",
+    "https://content.estitor.com/248f7ab9-c6fb-4cd6-90c2-2cc5f871320e-lg.webp",
+    "https://content.estitor.com/859ce996-1063-4f49-859d-3664d41a2d98-lg.webp",
+    "https://content.estitor.com/25c830ee-9708-46f4-bc90-a64719af98b3-lg.webp",
+    "https://content.estitor.com/551186c3-9447-43c0-b02c-afc8522c9be1-lg.webp",
+    "https://content.estitor.com/1a5e1948-b968-4d05-b3fa-a38c30654a15-lg.webp",
+    "https://content.estitor.com/a0f30eff-9a13-46bb-95ed-d7669a6d7207-lg.webp",
+    "https://content.estitor.com/3916f225-0890-4b52-b3f5-2d617ad22a32-lg.webp",
+    "https://content.estitor.com/3a28df4e-2826-4b7d-acbf-e38d5bcc4f53-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se luksuzan, potpuno renoviran stan od 64.0 m² u srcu Tivta, u prestižnom centru na Trgu magnolija.\nSmješten na 1.spratu, ovaj prozracan jednosoban stan nudi izuzetan komfor i eleganciju. Potpuno je opremljen i pazljivo dizajniran enterijer sa novim modernim namještajem i aparatima. Raspolaže prostranim hodnikom, udobnom spavaćom sobom, elegantnim kupatilom, moderno uređenom kuhinjom i trpezarijom. Stan ima veliku terasu, pravu rijetkost na trzistu, idealnu za uzivanje, druzenje i stvaranje dodatnog prostora za boravak na otvorenom.\nStan je opremljen klimatizacijom za prijatan boravak tokom cijele godine. Ovo je idealna prilika za one koji traže kvalitetan, funkcionalan i odmah useljiv dom u centru grada.\n\nA luxurious, completely renovated 64.0 m² apartment is for rent in the heart of Tivat, in the prestigious center on Magnolia Square.\nLocated on the 1st floor, this airy one-bedroom apartment offers exceptional comfort and elegance. It is fully equipped and carefully designed interior with new modern furniture and appliances. It has a spacious hallway, comfortable bedroom, elegant bathroom, modern kitchen and dining room. The apartment has a large terrace, a real rarity on the market, ideal for enjoying, socializing and creating additional space for outdoor living.\nThe apartment is equipped with air conditioning for a pleasant stay throughout the year. This is an ideal opportunity for those looking for a quality, functional and immediately move-in home in the city center.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:16.821668+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.129038+00:00",
+  "source_html_sha256": "5cea7af8e7a4eb219182a3e728d32818713d1f9fe76c9df341764883dbb01a93",
+  "title": "Izdavanje, jednosoban stan, 64m², Centar, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-28",
+  "updated_date": "2026-08-28",
+  "price_amount": 1100,
+  "price_currency": "EUR",
+  "price_raw": "1100 EUR",
+  "area_m2": 64,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Sremsko - Karlovačka, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Maja Šukovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se luksuzan, potpuno renoviran stan od 64.0 m² u srcu Tivta, u prestižnom centru na Trgu magnolija.Smješten na 1.spratu, ovaj prozracan jednosoban stan nudi izuzetan komfor i eleganciju. Potpuno je opremljen i ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!51",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267442088",
+      "name": "Maja Šukovic",
+      "email": null,
+      "source": "workbook:Likely agents!51"
+    },
+    {
+      "phone_e164": "+38267442088",
+      "name": "Maja Šukovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267442088"
+  ],
+  "phone_e164": "+38267442088",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

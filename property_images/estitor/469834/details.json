@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "469834",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-469834",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-469834"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 350,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_469834",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2002",
+    "Orijentacija": "Istok",
+    "Parking": "1",
+    "Udaljenost od mora": "300",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Starogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/47911558-5628-4f3f-bb51-7054823c74b4-lg.webp",
+    "https://content.estitor.com/48789dc7-3cd6-4567-b600-026ce221764e-lg.webp",
+    "https://content.estitor.com/a3e7fef2-6c9e-4b1e-b7c2-0c0c505bfbcf-lg.webp",
+    "https://content.estitor.com/80ae471c-acad-441e-ae9b-811143eb6c0d-lg.webp",
+    "https://content.estitor.com/bad612e1-c658-43f6-8af1-c0c39cb00e92-lg.webp",
+    "https://content.estitor.com/3e347a99-eef3-4412-a703-0b218c23e429-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem stan u Petrovcu na moru, stan je u potpunosti renoviran i ima novu kuhinju i kupatilo, grejanje je na inverter klimu, vredi pogledati",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:36.190454+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.954194+00:00",
+  "source_html_sha256": "61372c5a86da6627cc2a4af672e2eb2776186ef33fc28b1b51c8f366d50ea62e",
+  "title": "Izdavanje, jednosoban stan, 45m², Petrovac, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-16",
+  "updated_date": "2026-09-27",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Isak Janjic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "1",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2002,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Starogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Izdajem stan u Petrovcu na moru, stan je u potpunosti renoviran i ima novu kuhinju i kupatilo, grejanje je na inverter klimu, vredi pogledati",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!350",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381654694841",
+      "name": "Isak Janjic",
+      "email": null,
+      "source": "workbook:Outreach list!350"
+    },
+    {
+      "phone_e164": "+381654694841",
+      "name": "Isak Janjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381654694841"
+  ],
+  "phone_e164": "+381654694841",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

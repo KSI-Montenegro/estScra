@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "569483",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-569483",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-569483"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 816,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_569483",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4ebde381-65fa-48e4-9834-6ad8a2bf8303-lg.webp",
+    "https://content.estitor.com/ec53ca6a-ec23-4a09-bdb9-884fd0fa5425-lg.webp",
+    "https://content.estitor.com/9d5c52c2-5101-44ab-928f-b010493058db-lg.webp",
+    "https://content.estitor.com/c1599ef7-df90-469e-b93d-54a66d69c33f-lg.webp",
+    "https://content.estitor.com/348f7af9-d294-4ed8-87f3-c6172939bd3c-lg.webp",
+    "https://content.estitor.com/0fd33be9-e24f-40e2-8c56-e42e25cb0074-lg.webp",
+    "https://content.estitor.com/6a2727db-c9e9-467d-ba4b-eb0eb3a0fd2e-lg.webp",
+    "https://content.estitor.com/e58411db-1169-4768-bcc1-2573b7d2499f-lg.webp",
+    "https://content.estitor.com/f4ea097c-493f-4aee-9163-909b11d07d81-lg.webp",
+    "https://content.estitor.com/f7f68e84-2cf9-47f6-8eb0-365b845880c8-lg.webp",
+    "https://content.estitor.com/0150eb5e-8e05-4358-9f89-c6d5149de646-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Predstavljamo vam izvanredan stan za izdavanje na duže vrijeme u prelijepom Igalu, Herceg Novi! Ovaj moderni studio apartman, površine 27.0 m² sa jednim kupatilom, idealan je za udoban i funkcionalan život. Smješten u novogradnji, stan je kompletno opremljen i spreman za useljenje. Uživajte u svim pogodnostima modernog življenja: potpuno opremljena kuhinja i klima pruzi vam ugodan boravak tokom cijele godine. Jedna od ključnih prednosti je parking mjesto ispred objekta, što vam eliminiše brigu o parkiranju. Zgrada se održava na visokom nivou od strane profesionalne kompanije za upravljanje, uz instalirane sigurnosne kamere koje obezbjeđuju vaš mir i bezbjednost. Ne propustite ovu priliku za kvalitetan život u popularnom Igalu. Za više informacija i zakazivanje pregleda, kontaktirajte nas!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:46.237809+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.982186+00:00",
+  "source_html_sha256": "01a50c972cc2b9f01c8288d72bfc5b07f20442ddf597404a47fa20060a7aa753",
+  "title": "Izdavanje, garsonjera, 27m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-13",
+  "updated_date": "2026-10-04",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 27,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "Neimenovani Put, Igalo, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nadia Mikhaylova",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Predstavljamo vam izvanredan stan za izdavanje na duže vrijeme u prelijepom Igalu, Herceg Novi! Ovaj moderni studio apartman, površine 27.0 m² sa jednim kupatilom, idealan je za udoban i funkcionalan život. Smješten u...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!816",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269232114",
+      "name": "Nadia Mikhaylova",
+      "email": null,
+      "source": "workbook:Outreach list!816"
+    },
+    {
+      "phone_e164": "+38269232114",
+      "name": "Nadia Mikhaylova",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269232114"
+  ],
+  "phone_e164": "+38269232114",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

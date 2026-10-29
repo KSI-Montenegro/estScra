@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "73167",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-iizdaje-kuca-i-imanje-u-mojkovcu-tutic--73167",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-iizdaje-kuca-i-imanje-u-mojkovcu-tutic--73167"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 953,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73167",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!953:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Mojkovac",
+    "Naselje": "Centar",
+    "Broj soba": "4",
+    "Stambena kvadratura": "50 m2",
+    "Broj spratova": "2",
+    "Namještena": "Polunamješten",
+    "Vrsta poda": "Brodski pod",
+    "Kvadratura placa": "1000 m2",
+    "Vrsta grijanja": "Drva",
+    "Kvadratura balkona": "4 m2",
+    "Parking mjesto": "1",
+    "Kanalizacija": "Septička jama",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "PRODAJE SE-IIZDAJE: Kuća i imanje u Mojkovcu (Tutići)\n​Na prodaju je kompletno imanje sa kućom na atraktivnoj i mirnoj lokaciji u naselju Tutići, Mojkovac. Idealno za porodični život, odmor, seoski turizam ili poljoprivredu.\n​\n​Kuća: Površina od [50] m². Sastoji se od: [dnevna soba, kuhinja, 2 spavaće sobe, kupatilo].\n​Zemljište: Ukupna površina placa iznosi [1000] m².\n​Sadržaj imanja: Parcela je [ravna,voćnjak, tri vode, garaza i prateci objekti].\n​Infrastruktura: Priključeni struja i voda, obezbijeđen prilazni put do imanja.\n​Vlasništvo: Uredna dokumentacija, 1/1 na vlasnika, bez tereta i ograničenja.\n​Lokacija:\nImanje se nalazi u prelijepom i čistom prirodnom okruženju, izolovani od buke, a na svega [5] minuta vožnje od centra Mojkovca. Odlična povezanost sa turističkim ljepotama kraja (Biogradska gora, kanjon Tare).\n​???? Cijena: [70000] € (Moguć dogovor za ozbiljnog kupca)\n​???? Kontakt telefon: [+382 68 008 203] ???? Lokacija: Tutići, Mojkovac",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:19.244074+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.275933+00:00",
+  "source_html_sha256": "4f38de7843b4f74f4bc9913493b2d2fc52e3655e18a6d1b788bf66c410033f28",
+  "title": "PRODAJE SE-IIZDAJE: Kuća i imanje u Mojkovcu (Tutići) Na prodaju je kompletno imanje sa kućom",
+  "description_language": "en",
+  "price_raw": "70000.00€",
+  "price_amount": 70000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ilija",
+  "property_type": "house",
+  "city": "Mojkovac",
+  "district": "Centar",
+  "building_floors_raw": "2",
+  "room_layout_raw": "4",
+  "heating_raw": "Drva",
+  "parking_raw": "1",
+  "area_m2": 50,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "PRODAJE SE-IIZDAJE: Kuća i imanje u Mojkovcu (Tutići)​Na prodaju je kompletno imanje sa kućom na atraktivnoj i mirnoj lokaciji u naselju Tutići, Mojkovac. Idealno za porodični život, odmor, seoski turizam ili poljoprivredu.​​Kuća: Površina od [50] m². Sastoji se od: [dnevna soba, kuhinja, 2 spavaće sobe, kupatilo].​Zemljište: Ukupna površina placa iznosi [1000] m².​Sadržaj imanja: Parcela je [ravna,voćnjak, tri vode, garaza i prateci objekti].​Infrastruktura: Priključeni struja i voda, obezbijeđen prilazni put do imanja.​Vlasništvo: Uredna dokumentacija, 1/1 na vlasnika, bez tereta i ograničenja.​Lokacija:Imanje se nalazi u prelijepom i čistom prirodnom okruženju, izolovani od buke, a na svega [5] minuta vožnje od centra Mojkovca. Odlična povezanost sa turističkim ljepotama kraja (Biogradska gora, kanjon Tare).​???? Cijena: [70000] € (Moguć dogovor za ozbiljnog kupca)​???? Kontakt telefon: [+382 68 008 203] ???? Lokacija: Tutići, Mojkovac",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!953",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268008203",
+      "name": "Ilija",
+      "email": null,
+      "source": "workbook:Outreach list!953"
+    }
+  ],
+  "contact_phones": [
+    "+38268008203"
+  ],
+  "phone_e164": "+38268008203",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,134 @@
+{
+  "source": "patuljak",
+  "listing_id": "22696",
+  "listing_url": "https://patuljak.me/oglas/prodajem-gradjevinsko-zemljisteblizikuce-budva--22696",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-gradjevinsko-zemljisteblizikuce-budva--22696"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 29,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_22696",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!29:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Blizikuće",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "937 m2",
+    "Urbanistička dozvola": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/22696_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/22696_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/22696_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/22696_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Opis: Suvlasnik prodaje 937 m2 ili 1/3 idealnog dijela gradjevinskog placa u Blizikucama-okolina Budve i ostrva Sveti Stefan\nUkupna površina placa: 2810 m2\nPanoramski pogled na more\nOdlična lokacija i idealni uslovi za gradnju!\nUT-BGRP 1710 m² + suteren\n\nKoordinate placa:(42.2425731, 18.9082519)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:39.380850+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.279381+00:00",
+  "source_html_sha256": "a25af1595774ae66b86c32d56546cd323f7c94f89e6f05a4cdb7eb634cd3e9f3",
+  "title": "Prodajem Građevinsko Zemljište,Blizikuce-Budva",
+  "description_language": "en",
+  "price_raw": "225.00€",
+  "price_amount": 225,
+  "price_currency": "EUR",
+  "advertiser_name": "Dragan",
+  "property_type": "land",
+  "city": "Budva",
+  "district": "Blizikuće",
+  "area_m2": null,
+  "amenities": [
+    "Urbanistička dozvola"
+  ],
+  "metadata_summary": "Opis: Suvlasnik prodaje 937 m2 ili 1/3 idealnog dijela gradjevinskog placa u Blizikucama-okolina Budve i ostrva Sveti StefanUkupna površina placa: 2810 m2Panoramski pogled na moreOdlična lokacija i idealni uslovi za gradnju!UT-BGRP 1710 m² + suterenKoordinate placa:(42.2425731, 18.9082519)",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!29",
+      "notes": "check deal: sale at 225 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268457579",
+      "name": "Dragan",
+      "email": null,
+      "source": "workbook:Not homes!29"
+    }
+  ],
+  "contact_phones": [
+    "+38268457579"
+  ],
+  "phone_e164": "+38268457579",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 937,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

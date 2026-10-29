@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "590588",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590588",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590588"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 631,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_590588",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5b7442be-370f-409c-a1f9-aa11d7a23350-lg.webp",
+    "https://content.estitor.com/e5665287-d76e-4f9f-83d4-d67f653aacd3-lg.webp",
+    "https://content.estitor.com/25a051f3-e92d-4210-8297-9715a0369465-lg.webp",
+    "https://content.estitor.com/872e92df-4a2f-450e-bf17-d532b7601661-lg.webp",
+    "https://content.estitor.com/89e7533b-3744-4886-bf05-5e7d93b01ebd-lg.webp",
+    "https://content.estitor.com/7902aca6-a89f-4d57-94bf-f015ee81d2f4-lg.webp",
+    "https://content.estitor.com/565024ac-9f0c-47a4-9745-5fc3ae0c36b8-lg.webp",
+    "https://content.estitor.com/ca47f91e-a662-4fcc-83a1-3a2b51e9fe7f-lg.webp",
+    "https://content.estitor.com/72adf296-d780-4c73-bd68-b594c6cde690-lg.webp",
+    "https://content.estitor.com/ed5a7028-f4a6-4709-8076-d34d542f585f-lg.webp",
+    "https://content.estitor.com/5cd41ae6-0b53-4c56-87cc-71f1b34e7347-lg.webp",
+    "https://content.estitor.com/75fe37a7-e4d5-45ba-a2b1-dec75f975623-lg.webp",
+    "https://content.estitor.com/c830d425-1b21-4847-abc0-78998eddb611-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdajem manju namještenu garsonjeru na Zabjelu sa novim i očuvanim stvarima na duži period. Garsonjera je uredna i ima terasu koja je zatvorena sa pvc roletnama. Posjeduje sve stvari za normalno funkcionisanje od kojih su neke nove a neke polovne ali dobro očuvane. Nije dozvoljeno držanje kućnih ljubimaca u garsonjeri. Izdaje se isključivo ozbiljnoj ženskoj osobi a prilikom zakupa depozit je obavezan uz mjesečnu zakupninu navedenu u oglasu. Iznos depozita uz lični dogovor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:57.718132+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.524468+00:00",
+  "source_html_sha256": "3198710b7c2689cc6852dcc23f5f23a7dfec6fb5fda8402ade6fac71956f64cf",
+  "title": "Izdavanje, garsonjera, 19m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-09",
+  "updated_date": "2026-10-07",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 19,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "2 Ilije Plamenca, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nevenka Nikolić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2015,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem manju namještenu garsonjeru na Zabjelu sa novim i očuvanim stvarima na duži period. Garsonjera je uredna i ima terasu koja je zatvorena sa pvc roletnama. Posjeduje sve stvari za normalno funkcionisanje od koji...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!631",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269305867",
+      "name": "Nevenka Nikolić",
+      "email": null,
+      "source": "workbook:Outreach list!631"
+    },
+    {
+      "phone_e164": "+38269305867",
+      "name": "Nevenka Nikolić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269305867"
+  ],
+  "phone_e164": "+38269305867",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

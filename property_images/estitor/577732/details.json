@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "577732",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-577732",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-577732"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 614,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_577732",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2009",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7cf4cc70-dac3-4075-a5d9-58c6be3a8d4b-lg.webp",
+    "https://content.estitor.com/f9c7923b-f8c2-4e08-a880-b633a89036a3-lg.webp",
+    "https://content.estitor.com/7c21514f-0fda-4047-961a-0ad9ab2611b0-lg.webp",
+    "https://content.estitor.com/255086db-d289-4380-bc25-2a1d972221b2-lg.webp",
+    "https://content.estitor.com/3d0f85c5-ffac-4f23-bb95-2fd931bf539e-lg.webp",
+    "https://content.estitor.com/ce87affe-47e1-4c57-bd79-5f6cc19f0476-lg.webp",
+    "https://content.estitor.com/0bffdab9-e0d2-4490-845f-fa18ff512edb-lg.webp",
+    "https://content.estitor.com/81be3e67-6531-4c09-8b08-2d35fd870ffb-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i kompletno namješten dvosoban stan površine 62m² u izuzetno traženoj lokaciji – Bloku 9 u Podgorici.\nStan se nalazi na 1. spratu zgrade sa liftom i sjeverno je orijentisan, što obezbjeđuje prijatan ambijent i tokom ljetnjih mjeseci. Raspolaže sa dvije komforne spavaće sobe, prostranim dnevnim boravkom, kuhinjom sa trpezarijom i kupatilom. Potpuno je opremljen modernim namještajem i svim neophodnim uređajima, spreman za useljenje.\nU neposrednoj blizini stana dostupan je javni parking. Blok 9 nudi odličnu povezanost sa svim dijelovima grada, kao i blizinu prodavnica, škola, vrtića i ostalih važnih sadržaja za ugodan život.\nStan je slobodan za useljenje od 1. septembra 2026. godine.\nZa sve dodatne informacije ili zakazivanje pregleda.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:49.621895+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.429183+00:00",
+  "source_html_sha256": "63442354b7ce4d8d2c52e62225ab260f7cbfa435e2d77e307191b210d46c8309",
+  "title": "Izdavanje, dvosoban stan, 62m², Blok 9, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-09",
+  "updated_date": "2026-10-12",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 62,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "16 Milutina Vučinića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Jadranka Gilic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "year_built": 2009,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se prostran i kompletno namješten dvosoban stan površine 62m² u izuzetno traženoj lokaciji – Bloku 9 u Podgorici.Stan se nalazi na 1. spratu zgrade sa liftom i sjeverno je orijentisan, što obezbjeđuje prijatan ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!614",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268100417",
+      "name": "Jadranka Gilic",
+      "email": null,
+      "source": "workbook:Outreach list!614"
+    },
+    {
+      "phone_e164": "+38268100417",
+      "name": "Jadranka Gilic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268100417"
+  ],
+  "phone_e164": "+38268100417",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

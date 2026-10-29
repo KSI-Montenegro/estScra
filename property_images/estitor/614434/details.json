@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "614434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-614434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-614434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 301,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_614434",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1985",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0ed09216-b6d8-4c52-8656-5e6a47ca9428-lg.webp",
+    "https://content.estitor.com/a16da9ae-849e-4e78-a8f3-793f837d9fc0-lg.webp",
+    "https://content.estitor.com/d09e4e5d-f27f-49cf-b241-7f6a7b9764ae-lg.webp",
+    "https://content.estitor.com/a4b9ea89-c6e8-4f0c-8eef-f48739117aab-lg.webp",
+    "https://content.estitor.com/95c80d5c-278e-46f9-895c-35dfdc784a5c-lg.webp",
+    "https://content.estitor.com/3ff75c67-6ca6-41c4-9ec7-93a270a342cc-lg.webp",
+    "https://content.estitor.com/e5d7ffb7-2a49-4655-a5e3-0374e3c4d266-lg.webp",
+    "https://content.estitor.com/757ad739-bb9a-49ed-84ea-47c5521c24a2-lg.webp",
+    "https://content.estitor.com/907f55eb-9504-4521-a0c0-62f50954728a-lg.webp",
+    "https://content.estitor.com/e599ce15-ad8a-476e-96eb-ffbdbcdd7072-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Garsonjera 26 m2 u Herceg Novom, desetak minuta pješke od centra i isto otprilike od mora. U mirnom naselju sa velikim parkingom ispred zgrade. Ima internet i kablovska TV. Pogled je na zaliv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:12.031049+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.670347+00:00",
+  "source_html_sha256": "0f65463a67f70f8e4a97fbdcc233b7ce3547d706ae59b66beac51527c6413e3a",
+  "title": "Izdavanje, jednosoban stan, 26m², Topla, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-11",
+  "updated_date": "2026-10-11",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "price_raw": "280 EUR",
+  "area_m2": 26,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "10 Banjalučka, Herceg - Novi 85340, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Stefan Dukic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 1985,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Garsonjera 26 m2 u Herceg Novom, desetak minuta pješke od centra i isto otprilike od mora. U mirnom naselju sa velikim parkingom ispred zgrade. Ima internet i kablovska TV. Pogled je na zaliv.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!301",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381641747862",
+      "name": "Stefan Dukic",
+      "email": null,
+      "source": "workbook:Outreach list!301"
+    },
+    {
+      "phone_e164": "+381641747862",
+      "name": "Stefan Dukic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381641747862"
+  ],
+  "phone_e164": "+381641747862",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

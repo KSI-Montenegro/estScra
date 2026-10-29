@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "79094",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-lux-stan-wow-hotel-budva--79094",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-lux-stan-wow-hotel-budva--79094"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 759,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_79094",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Centar",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "9",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "47 m2",
+    "Kvadratura balkona": "7 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79094_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Lux stan u zgradi Wow hotela u Budvi!\nParking mjesto 100m od hotela.\n\nKompletno namjesten stan i spreman za useljenje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:05.305854+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.324103+00:00",
+  "source_html_sha256": "08857e8fb279b5198c75d3c5d842d8995f363a9efa408de5c59b8f16df6bbfbb",
+  "title": "Izdavanje, Lux stan, Wow hotel, Budva",
+  "description_language": "en",
+  "price_raw": "1200.00€",
+  "price_amount": 1200,
+  "price_currency": "EUR",
+  "advertiser_name": "Bogdan",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Centar",
+  "floor_raw": "9",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 47,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Lux stan u zgradi Wow hotela u Budvi!Parking mjesto 100m od hotela.Kompletno namjesten stan i spreman za useljenje.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!759",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269535011",
+      "name": "Bogdan Djurdjic",
+      "email": null,
+      "source": "workbook:Outreach list!759"
+    }
+  ],
+  "contact_phones": [
+    "+38269535011"
+  ],
+  "phone_e164": "+38269535011",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

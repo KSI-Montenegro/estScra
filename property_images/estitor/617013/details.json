@@ -1,0 +1,141 @@
+{
+  "source": "estitor",
+  "listing_id": "617013",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-617013",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-617013"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 177,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617013",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/12c35df6-728e-43c4-9460-9713107a3f2e-lg.webp",
+    "https://content.estitor.com/253490b9-84b0-401d-b6ab-503bae573fee-lg.webp",
+    "https://content.estitor.com/a84a3db2-db3f-403f-a910-b8fe5fb9afc7-lg.webp",
+    "https://content.estitor.com/3dec94ab-06f3-4564-8ddd-e427fc3c1cb7-lg.webp",
+    "https://content.estitor.com/0e39e8c1-a6fa-4592-8167-a2e24c85c9bc-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Novogradnja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:06.113198+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.342741+00:00",
+  "source_html_sha256": "1dcbacc953f1113ced84d4bb8c6a151a8d7f80309f51029f1691b9eb4183891f",
+  "title": "Izdavanje, poslovni prostor, 33m², City Kej, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-15",
+  "updated_date": "2026-09-24",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 33,
+  "city": "Podgorica",
+  "street_address": "370a Piperska, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Luka Vujovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Novogradnja",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!177",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267444844",
+      "name": "Luka Vujovic",
+      "email": null,
+      "source": "workbook:Not homes!177"
+    },
+    {
+      "phone_e164": "+38267444844",
+      "name": "Luka Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267444844"
+  ],
+  "phone_e164": "+38267444844",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

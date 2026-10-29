@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "357589",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-357589",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-357589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 419,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_357589",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Parking": "Da",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d99aad90-db44-482c-a846-1aa0749c87aa-lg.webp",
+    "https://content.estitor.com/aeff01ec-206f-465d-b0ca-68b530e0c7b3-lg.webp",
+    "https://content.estitor.com/dd9ff01b-b43f-4518-8ce1-4d09579c39b5-lg.webp",
+    "https://content.estitor.com/ac82408d-4693-4f47-805e-a34dc2cfb4ad-lg.webp",
+    "https://content.estitor.com/8bccab09-5865-451e-b128-1c8d6c77f081-lg.webp",
+    "https://content.estitor.com/915bb634-1e34-449a-b1ae-dc03addab926-lg.webp",
+    "https://content.estitor.com/2d0d8150-ea71-4193-a80f-73a8ff66c6ac-lg.webp",
+    "https://content.estitor.com/92697213-eca4-440a-a935-469f38ff7c63-lg.webp",
+    "https://content.estitor.com/8951053d-4f7d-4a70-8816-c1946cb27a0e-lg.webp",
+    "https://content.estitor.com/e0cc3e79-f91f-4793-b061-a83573658937-lg.webp",
+    "https://content.estitor.com/d9057cea-b495-4674-ad43-f5081e91532f-lg.webp",
+    "https://content.estitor.com/0e3b0b52-c934-430e-a985-843cbcfaf602-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan za izdavanje na duži period. Stan se nalazi na Svetom Stasiju ,u blizini se nalazi super market ,pošta ,autobusko stajalište ,plaža,restoran . Udaljenost od Starog grada Kotor je 5km. Stan je potpuno opremljen ,ima besplatan parking , pogled na zaliv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:10.725289+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.373519+00:00",
+  "source_html_sha256": "bc81c005a17c238c722b6aa79875522034e04ca2b65d2eac5d8ce452317dc215",
+  "title": "Izdavanje, jednosoban stan, 39m², Sveti Stasije, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2025-03-28",
+  "updated_date": "2026-08-26",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 39,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "A R",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "parking_raw": "Da",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Jednosoban stan za izdavanje na duži period. Stan se nalazi na Svetom Stasiju ,u blizini se nalazi super market ,pošta ,autobusko stajalište ,plaža,restoran . Udaljenost od Starog grada Kotor je 5km. Stan je potpuno o...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!419",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268313044",
+      "name": "A R",
+      "email": null,
+      "source": "workbook:Outreach list!419"
+    },
+    {
+      "phone_e164": "+38268313044",
+      "name": "A R",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268313044"
+  ],
+  "phone_e164": "+38268313044",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "470255",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-470255",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-470255"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 806,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_470255",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c4642750-8dfa-46af-95f6-0121aa7004b3-lg.webp",
+    "https://content.estitor.com/add95538-b1fc-429c-b8fe-276a196eac78-lg.webp",
+    "https://content.estitor.com/0563eadc-1dee-400f-ae3f-7247a528eb34-lg.webp",
+    "https://content.estitor.com/69fe95f0-2d0f-49ed-8fe2-451dbcfd8351-lg.webp",
+    "https://content.estitor.com/10d0860c-0cf7-476e-bfb9-35587f292cd2-lg.webp",
+    "https://content.estitor.com/0dd54eac-9046-47af-82de-617e24effdde-lg.webp",
+    "https://content.estitor.com/c85ac1fc-3ad7-442e-b573-ed1a66f8708b-lg.webp",
+    "https://content.estitor.com/9050e2e6-18a5-49d2-bfaf-0deb6928c0c6-lg.webp",
+    "https://content.estitor.com/53bc511c-c8ec-47ab-bab8-46d39c65f79d-lg.webp",
+    "https://content.estitor.com/11c41b5b-1201-4872-9041-c3369544deb1-lg.webp",
+    "https://content.estitor.com/f264fca2-59c7-49e7-835a-cab764a80c9a-lg.webp",
+    "https://content.estitor.com/cd21bc39-1200-4db2-868f-533b295a1e9d-lg.webp",
+    "https://content.estitor.com/2d676e2e-36ed-4597-a888-06c8560c51a9-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan jednosoban stan u srcu Cetinja, idealan za ugodan život.\n\nSmješten u novogradnji na prizemlju (0. sprat), ovaj kompaktan stan od 32.0 m² nudi izuzetnu funkcionalnost i savremeni dizajn. Unutrašnjost stana je promišljeno organizovana i obuhvata predsoblje, hodnik i potpuno opremljenu kuhinju, zajedno sa udobnom spavaćom sobom.\n\nKao dodatne pogodnosti, stan dolazi sa već obezbijeđenim Internetom i Kablovskom televizijom, što garantuje udobnost i povezanost od prvog dana. Posebno ističemo i zasebno parking mjesto koje pripada stanu, što je značajna prednost u urbanom okruženju.\n\nOva nekretnina predstavlja odličan izbor za pojedince ili parove koji traže kvalitetan i praktičan smještaj u Cetinju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:37.544117+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.848832+00:00",
+  "source_html_sha256": "6f4dc2217bf787e079d3e7b07de8d602e84003f40b9cead5ed461c292684d922",
+  "title": "Izdavanje, jednosoban stan, 32m², Gruda, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-17",
+  "updated_date": "2026-10-13",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 32,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "country": "ME",
+  "advertiser_name": "Bobo Batricevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se moderan jednosoban stan u srcu Cetinja, idealan za ugodan život. Smješten u novogradnji na prizemlju (0. sprat), ovaj kompaktan stan od 32.0 m² nudi izuzetnu funkcionalnost i savremeni dizajn. Unutrašnjost s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!806",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267516395",
+      "name": "Bobo Batricevic",
+      "email": null,
+      "source": "workbook:Outreach list!806"
+    },
+    {
+      "phone_e164": "+38267516395",
+      "name": "Bobo Batricevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267516395"
+  ],
+  "phone_e164": "+38267516395",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "588998",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-588998",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-588998"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 34,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_588998",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 800,
+      "workbook_value": 900,
+      "source": "workbook:Likely agents!34"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/0d11226b-002d-455d-9944-cc8820cba808-lg.webp",
+    "https://content.estitor.com/614a16b9-08a6-47f0-8b37-397bc84603d4-lg.webp",
+    "https://content.estitor.com/aea27811-f8dd-4757-b60b-662ec8ccd614-lg.webp",
+    "https://content.estitor.com/b295bd73-b300-4788-9af4-52bfed30cadc-lg.webp",
+    "https://content.estitor.com/ad2d7ddb-e96b-4eb8-b365-c15e9a301f29-lg.webp",
+    "https://content.estitor.com/000f3161-0317-474a-9a89-a40acff27a8b-lg.webp",
+    "https://content.estitor.com/d9d8c612-7317-4766-bbd3-46e61db97aae-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duži period renoviran luksuzno opremljen jednosoban stan na odličnoj lokaciji u Dobroti (preko puta Dobrotskih Dvora)\nPosjeduje privatan parking i terasu sa pogledom na more\nStan je dostupan od 15. septembra",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:06.357689+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.933560+00:00",
+  "source_html_sha256": "0d9810543ec9b9920eeed673f2020e75a518f845334e4b37835e1831b9924f66",
+  "title": "Izdavanje, jednosoban stan, 55m², Dobrota, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-06",
+  "updated_date": "2026-10-26",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "2 E65, Dobrota, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Jovana M",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se na duži period renoviran luksuzno opremljen jednosoban stan na odličnoj lokaciji u Dobroti (preko puta Dobrotskih Dvora)Posjeduje privatan parking i terasu sa pogledom na moreStan je dostupan od 15. septembra",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!34",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267833886",
+      "name": "Jovana M",
+      "email": null,
+      "source": "workbook:Likely agents!34"
+    },
+    {
+      "phone_e164": "+38267833886",
+      "name": "Jovana M",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267833886"
+  ],
+  "phone_e164": "+38267833886",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

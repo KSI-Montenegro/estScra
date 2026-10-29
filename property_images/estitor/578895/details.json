@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "578895",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-578895",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-578895"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 405,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_578895",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d294861c-1e77-4d12-a36b-f15eb323b5ba-lg.webp",
+    "https://content.estitor.com/1e890328-49b1-4a54-be95-5a3ef161ccde-lg.webp",
+    "https://content.estitor.com/bc8fff9e-6f7c-4e75-bcb6-81d59958bbbb-lg.webp",
+    "https://content.estitor.com/d3cf463e-53e4-4ed9-863b-bc40c5e7e303-lg.webp",
+    "https://content.estitor.com/1508784b-e365-4d41-998d-7f5907b28ebf-lg.webp",
+    "https://content.estitor.com/763dc2c9-668b-474e-a94d-ab051c5152f0-lg.webp",
+    "https://content.estitor.com/95befaf2-6844-47ec-9609-2c830da0dd6d-lg.webp",
+    "https://content.estitor.com/b4dedd68-1a78-4292-9ce2-2d02214c042c-lg.webp",
+    "https://content.estitor.com/a7ad236f-1cfe-452a-a6a4-875a5c513503-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam atraktivan stan za izdavanje u idiličnom dijelu Dobrote, Kotor.\nOvaj renovirani stan, površine 75.0 m², nudi udoban životni prostor sa 2 spavaće sobe i 1 kupatilom. Kompletno je opremljen i spreman za odmah useljenje.\nUživajte u mirnom kraju i osunčanom ambijentu, uz prekrasan pogled na more. Stan posjeduje modernu kuhinju, trpezariju, prostran hodnik i klimatizaciju za maksimalnu udobnost. Internet je dostupan.\nImajte u vidu da stan ne posjeduje sopstveno parking mjesto. Idealna prilika za život u srcu Boke Kotorske.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:04.152190+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.291961+00:00",
+  "source_html_sha256": "5889cb3cd1971486c1e21c6797a3f0650bce3e1f6e9b901c04a6f709fca182d7",
+  "title": "Izdavanje, dvosoban stan, 75m², Dobrota, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-12",
+  "updated_date": "2026-09-03",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 75,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Branimir Tatar",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema parkinga",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam atraktivan stan za izdavanje u idiličnom dijelu Dobrote, Kotor.Ovaj renovirani stan, površine 75.0 m², nudi udoban životni prostor sa 2 spavaće sobe i 1 kupatilom. Kompletno je opremljen i spreman za...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!405",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269534250",
+      "name": "Branimir Tatar",
+      "email": null,
+      "source": "workbook:Outreach list!405"
+    },
+    {
+      "phone_e164": "+38269534250",
+      "name": "Branimir Tatar",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269534250"
+  ],
+  "phone_e164": "+38269534250",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

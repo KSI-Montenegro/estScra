@@ -1,0 +1,129 @@
+{
+  "source": "patuljak",
+  "listing_id": "2915",
+  "listing_url": "https://patuljak.me/oglas/garaza-new-city-podgorica-izdavanje--2915",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garaza-new-city-podgorica-izdavanje--2915"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 902,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_2915",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:source_attributes",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Vrsta": "U sklopu veće garaže",
+    "Kvadrata": "12"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/04/2915_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:45.730196+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.868984+00:00",
+  "source_html_sha256": "e21b8e0d5e1140aefdc4fb48b27c217e5043e209b65c864a374dfda94612630e",
+  "title": "Garaza, New City, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "60.00€",
+  "price_amount": 60,
+  "price_currency": "EUR",
+  "advertiser_name": "Tanja",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "property_type_raw": "U sklopu veće garaže",
+  "amenities": [],
+  "metadata_summary": "Garaza, New City, Podgorica, Izdavanje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!902",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267237051",
+      "name": "Tanja",
+      "email": null,
+      "source": "workbook:Outreach list!902"
+    }
+  ],
+  "contact_phones": [
+    "+38267237051"
+  ],
+  "phone_e164": "+38267237051",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

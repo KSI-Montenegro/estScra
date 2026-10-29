@@ -1,0 +1,143 @@
+{
+  "source": "realitica",
+  "listing_id": "3947174",
+  "listing_url": "https://www.realitica.com/hr/listing/3947174",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 133,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3947174",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Ulcinj",
+    "Lokacija": "Velika Plaža",
+    "Energetski Razred": "A+",
+    "Godina Gradnje": "2027",
+    "Kupatila": "1",
+    "Stambena Površina": "27 m2",
+    "Parking Mjesta": "1",
+    "Od Mora (m)": "600",
+    "Novogradnja": true,
+    "Oglas Broj": "3947174",
+    "Postavljeno": "19 Oct, 2026",
+    "Zadnja Promjena": "19 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947174_img_0987.jpg",
+    "https://www.realitica.com/images/listing_photos/3947174_img_0988.jpg"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "🏡 PRODAJA GARSONJERE – 27 m²\n\nNa prodaju garsonjera površine 27 m² sa terasom, u izgradnji. Kvalitetna gradnja i funkcionalan raspored čine je odličnim izborom za stanovanje ili investiciju.\n\n📞 Za više informacija, kontaktirajte nas!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:19.463134+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.975219+00:00",
+  "source_html_sha256": "9688ca0f178e83a9643f59623f70392beafff1ad2aebf22ce656fa6f685d247c",
+  "title": "Prodajem Stan-Apartman, Velika Plaža",
+  "description_language": "hr",
+  "city": "Ulcinj",
+  "district": "Velika Plaža",
+  "parking_raw": "1",
+  "published_date_raw": "19 Oct, 2026",
+  "updated_date_raw": "19 Oct, 2026",
+  "area_m2": 27,
+  "bathrooms": 1,
+  "parking_spaces": 1,
+  "distance_to_sea_m": 600,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "amenities": [
+    "Novogradnja"
+  ],
+  "metadata_summary": "🏡 PRODAJA GARSONJERE – 27 m²\n\nNa prodaju garsonjera površine 27 m² sa terasom, u izgradnji. Kvalitetna gradnja i funkcionalan raspored čine je odličnim izborom za stanovanje ili investiciju.\n\n📞 Za više informacija, kontaktirajte nas!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!133",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269505010",
+      "name": "Tifi",
+      "email": null,
+      "source": "workbook:Likely agents!133"
+    }
+  ],
+  "contact_phones": [
+    "+38269505010"
+  ],
+  "phone_e164": "+38269505010",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [
+    "price"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

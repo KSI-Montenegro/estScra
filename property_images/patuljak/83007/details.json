@@ -1,0 +1,179 @@
+{
+  "source": "patuljak",
+  "listing_id": "83007",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-62-m-donja-gorica--83007",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-62-m-donja-gorica--83007"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 141,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83007",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!141:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Adresa": "Dragina ulica b.b",
+    "Broj soba": "Dvosoban",
+    "Namješten": true,
+    "Sprat": "1",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Laminat",
+    "Parking mjesto": "2",
+    "Stambena kvadratura": "67 m2",
+    "Kvadratura balkona": "8 m2",
+    "Balkon": true,
+    "Interfon": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Klima": true,
+    "Kablovska TV": true,
+    "Internet": true,
+    "Video nadzor": true,
+    "Alarm": true,
+    "Za studente": true,
+    "Protočni bojler": true
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 67,
+      "workbook_value": 62,
+      "source": "workbook:Outreach list!141"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83007_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE JEDAN POTPUNO OPREMLJEN DVOSOBAN STAN – DONJA GORICA, PODGORICA\n\nIzdaje se potpuno opremljen, neuseljavan dvosoban stan površine c, u novogradnji, spreman za useljenje odmah. Stan je idealan za dugoročni najam, za porodicu, par, zaposlene ili studente.\n\nKarakteristike stana:\n\n* 62 m² stambenog prostora\n* Prostrana terasa\n* Dvije spavaće sobe – jedna sa bračnim krevetom, druga sa pojedinačnim krevetom\n* Potpuno opremljena kuhinja sa ugradnim elementima, frižiderom i zamrzivačem, rernom i mašinom za pranje sudova\n* Dnevni boravak sa Smart TV-om, TV paketom i brzim Wi-Fi internetom\n* Klima uređaji u dnevnom boravku i obje spavaće sobe\n* Kupatilo sa mašinom za pranje veša\n\nDvorište, parking i sigurnost:\n\n* Dva privatna parking mjesta\n* Ograđeno i uređeno dvorište površine 700 m²\n* Video-nadzor dvorišta i parkinga\n* Kapija sa daljinskim otvaranjem\n* Video-interfon sa mogućnošću otvaranja putem kartice\n* Mirna, uređena i sigurna lokacija\n\nLokacija: Donja Gorica, Podgorica\nSamo 800 metara od Univerziteta Donja Gorica (UDG).\n\nStan je odmah useljiv i namijenjen isključivo dugoročnom najmu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:50.911446+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.684612+00:00",
+  "source_html_sha256": "88bdb8eca7e7937defce1613e2fac06b2429fafad1ce6e4006ecef7ac274d726",
+  "title": "Izdavanje, Dvosoban stan 62 m², Donja Gorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Ana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "street_address": "Dragina ulica b.b",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": true,
+  "parking_raw": "2",
+  "area_m2": 67,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Interfon",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Klima",
+    "Kablovska TV",
+    "Internet",
+    "Video nadzor",
+    "Alarm",
+    "Za studente",
+    "Protočni bojler"
+  ],
+  "metadata_summary": "IZDAJE SE JEDAN POTPUNO OPREMLJEN DVOSOBAN STAN – DONJA GORICA, PODGORICAIzdaje se potpuno opremljen, neuseljavan dvosoban stan površine c, u novogradnji, spreman za useljenje odmah. Stan je idealan za dugoročni najam, za porodicu, par, zaposlene ili studente.Karakteristike stana:* 62 m² stambenog prostora* Prostrana terasa* Dvije spavaće sobe – jedna sa bračnim krevetom, druga sa pojedinačnim krevetom* Potpuno opremljena kuhinja sa ugradnim elementima, frižiderom i zamrzivačem, rernom i mašinom za pranje sudova* Dnevni boravak sa Smart TV-om, TV paketom i brzim Wi-Fi internetom* Klima uređaji u dnevnom boravku i obje spavaće sobe* Kupatilo sa mašinom za pranje vešaDvorište, parking i sigurnost:* Dva privatna parking mjesta* Ograđeno i uređeno dvorište površine 700 m²* Video-nadzor dvorišta i parkinga* Kapija sa daljinskim otvaranjem* Video-interfon sa mogućnošću otvaranja putem kartice* Mirna, uređena i sigurna lokacijaLokacija: Donja Gorica, PodgoricaSamo 800 metara od Univerziteta Donja Gorica (UDG).Stan je odmah useljiv i namijenjen isključivo dugoročnom najmu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!141",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267235590",
+      "name": "Ana",
+      "email": null,
+      "source": "workbook:Outreach list!141"
+    }
+  ],
+  "contact_phones": [
+    "+38267235590"
+  ],
+  "phone_e164": "+38267235590",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

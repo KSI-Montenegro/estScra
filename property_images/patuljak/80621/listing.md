@@ -1,0 +1,44 @@
+# Prodaje se namješten, jednosoban stan 48 m2, u novogradnji, Bečići, Budva
+
+Source: https://patuljak.me/oglas/prodaje-se-namjesten-jednosoban-stan-48-m2-u-novog--80621
+
+- Deal: sale
+- Property type: apartment
+- Published price: 150000.00€
+- Price amount: 150000
+- Currency: EUR
+- City: Budva
+- District: Bečići
+- Area (m²): 48
+- Bedrooms: 1
+- Floor: 1
+- Furnishing: Da
+- Parking: 1
+
+## Original listing description
+
+Nova cijena!!!
+Prodaje se namješten jednosoban stan 48m2, Bečići - Budva.
+
+Bez agencija.
+
+Lokacija: ulica Nova, naselje Bečići.
+
+Stan je smješten u novogradnji, na prvom spratu zgrade Nikić koja posjeduje 2 lifta.
+
+Potpuno je opremljen i kao takav se prodaje.
+
+Udaljen je svega 500m od plaže i predstavlja odličan izbor za život, odmor ili investiciju.
+
+Stan je bez tereta.
+
+Cijena: 150.000 €.
+
+Kontakt
+• 067 07 08 01
+
+## Published amenities
+
+- Namješten
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

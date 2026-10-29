@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "596730",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596730",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596730"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 715,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_596730",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1b5da7e9-1ded-40e8-bb5d-d5ee0b3aa590-lg.webp",
+    "https://content.estitor.com/a0f1cae4-5682-4ff2-8a3f-feabd0271db1-lg.webp",
+    "https://content.estitor.com/7bda6acc-46a0-4f66-96fe-3839d1f69981-lg.webp",
+    "https://content.estitor.com/40ad497b-952c-45cf-a747-db98441030fa-lg.webp",
+    "https://content.estitor.com/8049d081-7b20-4871-bec8-1305a63cfe39-lg.webp",
+    "https://content.estitor.com/297bffb8-0856-41fa-9aaf-f2bf555c8a45-lg.webp",
+    "https://content.estitor.com/eedac76b-972c-4c8d-a28a-4c31ddea451e-lg.webp",
+    "https://content.estitor.com/1063791c-7e01-4508-a14c-cefcf9c9f69e-lg.webp",
+    "https://content.estitor.com/819dec4c-7603-4d35-8772-ec0c1aeb255e-lg.webp",
+    "https://content.estitor.com/9c84d43e-75c0-4c3f-b679-7b3d0ab0c8c9-lg.webp",
+    "https://content.estitor.com/0429a673-6ab9-446d-8565-610099fc36da-lg.webp",
+    "https://content.estitor.com/859f14c3-682d-4241-9f0e-78239381400c-lg.webp",
+    "https://content.estitor.com/9834059a-ac75-4c4b-8702-67e640ff5b3e-lg.webp",
+    "https://content.estitor.com/b3272be9-8e51-4c6b-9ff6-f16fb8d1f6d2-lg.webp",
+    "https://content.estitor.com/589f410f-b9e5-40be-a944-a59f79f2e09e-lg.webp",
+    "https://content.estitor.com/6d0909b6-b485-4e2f-9554-df493f1842bc-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Podgorice, u prestižnom naselju Centar. Ovaj elegantan stan, površine 56.0 m², idealan je za udoban život. Sastoji se od dvije prostrane spavaće sobe i nevjerovatnih pet moderno opremljenih kupatila, što nudi maksimalnu privatnost i funkcionalnost. Stan je potpuno opremljen, spreman za useljenje, a obuhvata modernu kuhinju i ugrađenu klimatizaciju za vašu udobnost tokom cijele godine. Smješten u Centru, nudi blizinu svih gradskih sadržaja, institucija, restorana i kulturnih znamenitosti.. Ne propustite priliku za udoban život u srcu grada.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:39.927487+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.984965+00:00",
+  "source_html_sha256": "163ad28bd02756f3c5a92e85a4b5416e43194f7e20ad4e05040fd2275dbfa141",
+  "title": "Izdavanje, dvosoban stan, 56m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-19",
+  "updated_date": "2026-09-03",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 56,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Milica Popivoda",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Podgorice, u prestižnom naselju Centar. Ovaj elegantan stan, površine 56.0 m², idealan je za udoban život. Sastoji se od dvije prostrane spavaće sobe i nevjerovatnih...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!715",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268002148",
+      "name": "Milica Popivoda",
+      "email": null,
+      "source": "workbook:Outreach list!715"
+    },
+    {
+      "phone_e164": "+38268002148",
+      "name": "Milica Popivoda",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268002148"
+  ],
+  "phone_e164": "+38268002148",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

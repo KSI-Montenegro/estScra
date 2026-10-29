@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "473189",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-473189",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-473189"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 840,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_473189",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Orijentacija": "Istok",
+    "Parking": "1",
+    "Udaljenost od mora": "800",
+    "Lift": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/408e8bd6-7648-4aa0-bb10-726c86aad889-lg.webp",
+    "https://content.estitor.com/9aa52ed4-da72-462e-92e3-5de561785ef1-lg.webp",
+    "https://content.estitor.com/e6689e61-dc27-4e52-98fe-c0bb41884aad-lg.webp",
+    "https://content.estitor.com/eede24a3-d580-4d6a-b633-2f1c05d0429e-lg.webp",
+    "https://content.estitor.com/6c18f9f7-9f38-4833-9dc4-37168b6e9e45-lg.webp",
+    "https://content.estitor.com/b58a95b4-b056-43c9-9410-0a9f9ee91d59-lg.webp",
+    "https://content.estitor.com/8378e659-8d87-4e57-b4d2-6250c595155b-lg.webp",
+    "https://content.estitor.com/f5f72948-9760-4345-8f82-d1453db5c5c9-lg.webp",
+    "https://content.estitor.com/3b54bb3f-2cbd-491e-9585-953aa829c2af-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban kompletno opremljen satn u Becicima. Stan je u odlicnom stanju,useljen prije dvije godine.Nalazi se u urbanom dijelu Becica,udaljen od mora 800m.\nizdaje se 500€/mjesecno..",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:02.463439+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.232826+00:00",
+  "source_html_sha256": "70e9f34f9126c7f5997c924384149f5a07a184d262e5ec0b72272b16ae355296",
+  "title": "Izdavanje, jednosoban stan, 50m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-25",
+  "updated_date": "2026-09-10",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Sjekloća",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "true",
+  "parking_raw": "1",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se jednosoban kompletno opremljen satn u Becicima. Stan je u odlicnom stanju,useljen prije dvije godine.Nalazi se u urbanom dijelu Becica,udaljen od mora 800m.izdaje se 500€/mjesecno..",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!840",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267232167",
+      "name": "Aleksandar Sjekloća",
+      "email": null,
+      "source": "workbook:Outreach list!840"
+    },
+    {
+      "phone_e164": "+38267232167",
+      "name": "Aleksandar Sjekloća",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267232167"
+  ],
+  "phone_e164": "+38267232167",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

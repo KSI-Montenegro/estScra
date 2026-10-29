@@ -1,0 +1,123 @@
+{
+  "source": "patuljak",
+  "listing_id": "601467",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-garaza-22m2-stari-aerodrom-podgorica--601467",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-garaza-22m2-stari-aerodrom-podgorica--601467"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 980,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_601467",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/12/601467_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdajem garažu od 22 kvadrata u zgradi kod Foruma, Stari aerodrom. Može se koristiti za dva auta ili čak neke druge namjene. Odlična je lokacija.\n\n+38268830682",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:32.718524+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.465479+00:00",
+  "source_html_sha256": "59564c957b9614c77d1ad1252d3d38ec19273f58f2aa90b2d27918de01dc0f9e",
+  "title": "Za izdavanje garaza 22m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Selma",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "amenities": [],
+  "metadata_summary": "Izdajem garažu od 22 kvadrata u zgradi kod Foruma, Stari aerodrom. Može se koristiti za dva auta ili čak neke druge namjene. Odlična je lokacija. +38268830682",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!980",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268830682",
+      "name": "Selma",
+      "email": null,
+      "source": "workbook:Outreach list!980"
+    }
+  ],
+  "contact_phones": [
+    "+38268830682"
+  ],
+  "phone_e164": "+38268830682",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

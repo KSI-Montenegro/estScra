@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "79358",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-plac-uz-magistralni-put-podgorica-tuzi--79358",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-plac-uz-magistralni-put-podgorica-tuzi--79358"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 55,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79358",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!55:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tuški put",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "3000 m2",
+    "Urbanistička dozvola": true,
+    "Komunalni priključak": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79358_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79358_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79358_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79358_2.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajemo plac-zemljiste 3000 m2, uz Magistralni put Podgorica-Tuzi, nalazi se pored trznog centra Kovaci, prilaz direktno sa magistralnog puta.\n\nPlac je ogradjen, idealan za stovariste-montazni magacin, plac auta ili slicno.\n\nVoda i struja na placu.\n\nPodijeljen je na 3 urbanisticke parcele spratnosti VP+2, mogucnost dogovora zajednicke izgradnje.\n\nNijesmo zainteresovani za saradnju sa agencijama.\n\nVLASNIK, 067883310",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:56.995679+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.484828+00:00",
+  "source_html_sha256": "bd08239bbcb63d8c271d3b7f4e9acbb7763d671e3c2bab7c9602351333f01084",
+  "title": "Izdavanje: Plac uz magistralni put Podgorica-Tuzi",
+  "description_language": "en",
+  "price_raw": "1700.00€",
+  "price_amount": 1700,
+  "price_currency": "EUR",
+  "advertiser_name": "ax",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Tuški put",
+  "area_m2": null,
+  "amenities": [
+    "Urbanistička dozvola",
+    "Komunalni priključak"
+  ],
+  "metadata_summary": "Izdajemo plac-zemljiste 3000 m2, uz Magistralni put Podgorica-Tuzi, nalazi se pored trznog centra Kovaci, prilaz direktno sa magistralnog puta.Plac je ogradjen, idealan za stovariste-montazni magacin, plac auta ili slicno.Voda i struja na placu.Podijeljen je na 3 urbanisticke parcele spratnosti VP+2, mogucnost dogovora zajednicke izgradnje.Nijesmo zainteresovani za saradnju sa agencijama.VLASNIK, 067883310",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!55",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267060333",
+      "name": "ax",
+      "email": null,
+      "source": "workbook:Not homes!55"
+    }
+  ],
+  "contact_phones": [
+    "+38267060333"
+  ],
+  "phone_e164": "+38267060333",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "lot_area_m2": 3000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

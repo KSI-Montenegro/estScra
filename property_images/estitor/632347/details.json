@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "632347",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-632347",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-632347"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 569,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_632347",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/53c1b2ef-8b06-40ef-ba59-e7e1a1538da1-lg.webp",
+    "https://content.estitor.com/a4127a50-bc5c-4348-8229-a9b876027e4d-lg.webp",
+    "https://content.estitor.com/38045c40-e996-4259-b749-a8f6e3e8987c-lg.webp",
+    "https://content.estitor.com/dbb63bb6-9560-4639-80b5-0dd0e8d8a4c5-lg.webp",
+    "https://content.estitor.com/1f93e1a2-10c3-415f-9aa2-de4a63f4ce3a-lg.webp",
+    "https://content.estitor.com/50f7f33c-c1a0-4311-9858-8916275f3289-lg.webp",
+    "https://content.estitor.com/53367982-cc05-4271-883f-d58c4b9d52b9-lg.webp",
+    "https://content.estitor.com/f6727627-a235-4649-9c0c-9c859db8ba16-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se komforan jednosoban stan u Podgorici, idealan za ugodan život. Ovaj moderni stan površine 42.0 m² se nalazi na 5. spratu i nudi sve što je potrebno za savremenog stanara. Sastoji se od prostranog hodnika, potpuno opremljene kuhinje, trpezarije, udobne spavaće sobe i kupatila. Stan je kompletno opremljen nameštajem i svim neophodnim uređajima, spreman za useljenje. Među pogodnostima ističu se klimatizacija za optimalnu temperaturu tokom cijele godine, kao i prisustvo lifta u zgradi, što doprinosi ukupnom komforu i pristupačnosti. Dostupan je i javni parking u okolini zgrade, obezbeđujući praktično rešenje za vaš automobil. Ova nekretnina predstavlja odličan izbor za pojedince ili parove koji traže kvalitetan smještaj na dobroj lokaciji u Podgorici, uz sve prednosti urbanog življenja. Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:29.032605+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.205077+00:00",
+  "source_html_sha256": "a09b9490bcdb61f3dc58472582d247ec52a9124291d1cec8de48efe294af6507",
+  "title": "Izdavanje, jednosoban stan, 42m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-29",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Bulevar Pera Ćetkovića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Mia Mia",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se komforan jednosoban stan u Podgorici, idealan za ugodan život. Ovaj moderni stan površine 42.0 m² se nalazi na 5. spratu i nudi sve što je potrebno za savremenog stanara. Sastoji se od prostranog hodnika, po...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!569",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269226076",
+      "name": "Mia Mia",
+      "email": null,
+      "source": "workbook:Outreach list!569"
+    },
+    {
+      "phone_e164": "+38269226076",
+      "name": "Mia Mia",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269226076"
+  ],
+  "phone_e164": "+38269226076",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

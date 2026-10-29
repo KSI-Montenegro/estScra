@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "387037",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-387037",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-387037"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 272,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_387037",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bf228be2-e8aa-4cfa-8a66-30fd3adf4375-lg.webp",
+    "https://content.estitor.com/7a17202a-2524-44d0-a835-31b6acd5e83b-lg.webp",
+    "https://content.estitor.com/b4adef34-a5d7-4f9c-99c8-67a487975adf-lg.webp",
+    "https://content.estitor.com/5d6038e7-c4de-42ad-a167-a60f42e6c786-lg.webp",
+    "https://content.estitor.com/15cb8190-22ed-4cb7-a936-ffc78728b3bb-lg.webp",
+    "https://content.estitor.com/5aab626b-d6ca-4b53-8909-52a3cfc3847d-lg.webp",
+    "https://content.estitor.com/9401b37d-fab5-477b-bf53-6d0920e8dbcc-lg.webp",
+    "https://content.estitor.com/c8e541f7-cc3f-499d-9579-0cf17bd5e913-lg.webp",
+    "https://content.estitor.com/ef569589-e68c-49e3-9d15-d0eeffec3e05-lg.webp",
+    "https://content.estitor.com/370d371d-22d3-4d7c-8af3-ba3a3a5e04f8-lg.webp",
+    "https://content.estitor.com/322965e8-9472-4de2-9b8b-3a63966f0217-lg.webp",
+    "https://content.estitor.com/725721db-7090-490c-8ee2-864e6f63171a-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Exceptional opportunity to rent in Budva! We present you a charming studio apartment of 22.0 m², ideal for a comfortable life in the heart of the Montenegrin coast. Located on the 2nd floor of a newly built building, this studio has been completely renovated and equipped with brand new furniture, providing freshness and modern comfort. The location is unbeatable! The apartment is located in the immediate vicinity of the Mega Market on the main road and the Hotel Fineso. The distance from the beach, popular restaurants and the bus station allows you to explore everything Budva has to offer on foot. Public parking is available in the area. The apartment is ready to move in and comes with everything you need: bedding, dishes, towels and other household items. Simply move in and enjoy! It is rented for a period of one year or longer. Monthly rental plus bills. Payment terms: 8 months in advance. A deposit is also paid upon moving in, which is returned at the end of the lease. Do not miss this rare opportunity for long-term rent of a fully equipped and new apartment in a prime location in Budva! Additional couch is added, 3 persons max",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:57.466469+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.487368+00:00",
+  "source_html_sha256": "c32cd47f2bd40e5143522b63c93dc764aceea9ed0209f511f6b758517f4996f9",
+  "title": "Izdavanje, garsonjera, 22m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-06-11",
+  "updated_date": "2026-10-18",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 22,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Dragan Dragan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Exceptional opportunity to rent in Budva! We present you a charming studio apartment of 22.0 m², ideal for a comfortable life in the heart of the Montenegrin coast. Located on the 2nd floor of a newly built building, ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!272",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269045009",
+      "name": "Dragan Dragan",
+      "email": null,
+      "source": "workbook:Outreach list!272"
+    },
+    {
+      "phone_e164": "+38269045009",
+      "name": "Dragan Dragan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269045009"
+  ],
+  "phone_e164": "+38269045009",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,18 @@
+# Prodajem urbanizovano zemljište - Grahovac
+
+Source: https://patuljak.me/oglas/prodajem-urbanizovano-zemljiste-grahovac--58374
+
+- Deal: sale
+- Property type: land
+- Published price: 175000.00€
+- Price amount: 175000
+- Currency: EUR
+- City: Nikšić
+- District: Grahovo
+- Land area (m²): 11672
+
+## Original listing description
+
+Prodaje se urbanizovanopoljoprivredno zemljište ozbiljnim kupcima, na Grahovcu na 1.000 metaranadmorske visine, na 300 m od magistralnog puta Grahovo-Vilusi, a ipak zaštićenobrdima od slučajnih prolaznika. Površina parcele je 11,672 m2, a nalazise pored asfaltnog puta koji vodi kroz selo. Pogodna za: poljoprivrednuproizvodnju, izgradnju stambenog i pomoćnih objekata, ali i objekata zasmještaj turista tokom čitave godine. Zato je namijenjena porodičnim iposlovnim ljudima, koji očekuju brzo uvećanje vrijednosti parcele u bliskojbudućnosti. Ima stub sa priključkom za struju od 220V, kao i odličan signal zamobilnu telefoniju. Na udaljenosti manjoj od 8 kilometara nalaze se: trgovine, zdravstvenaambulanta, tržnica, restorani, park prirode „Arboretum“, Grahovsko jezero,autobuske stanice za javni prevoz, granični prelaz Ilijino brdo i dr. Selo jebezbjedno sa komšijama koji su porodični ljudi i bez buke. Predstavlja prirodniljekoviti inhalatorijum, sa cjelogodišnjom povoljnom cirkukalijom vazduha i velikimbrojem sunčanih sati. Godišnji troškovi održavanja su veoma prihvatljivi. Stanovniksela ima snjegočistač kojim održava magistralu Morinj-Vilusi i put kroz Grahovac.Uknjižen je 1/1 i bez bilo kakvih tereta i ograničenja. Fotografije suamaterske, zbog čega je stanje u praksi veoma bolje nego na fotografijama. Ozbiljni kupciza dogovore mogu slati poruke na Viber: 0038269816830. Cijena stana za prodaju preko kapare je 233.000, a za jednokratno plaćanje 175.000 evra.
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

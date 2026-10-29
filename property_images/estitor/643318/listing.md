@@ -1,0 +1,46 @@
+# Izdavanje, jednosoban stan, 50m², City Kvart, Podgorica
+
+Source: https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-643318
+
+- Deal: rent
+- Property type: apartment
+- Published price: 650 EUR
+- Price amount: 650
+- Currency: EUR
+- City: Podgorica
+- Area (m²): 50
+- Bedrooms: 1
+- Bathrooms: 1
+- Floor: 2. sprat
+- Furnishing: Da
+- Parking: Ispred objekta
+
+## Original listing description
+
+Moderan jednosoban stan za izdavanje u City Kvartu!
+Otkrijte savršen spoj udobnosti, stila i vrhunske lokacije u Podgorici. Predstavljamo vam luksuzno opremljen jednosoban stan u srcu najtraženijeg dijela grada – City Kvart.
+Ovaj elegantni stan, ukupne površine 50 m², smješten je na prizemlju zgrade Čelebića, pružajući idealan pristup. Enterijer je pažljivo osmišljen, naglašavajući modernu estetiku i funkcionalnost.
+Stan se sastoji od prostranog dnevnog boravka, jedne udobne spavaće sobe, jednog kupatila, te moderne kuhinje i trpezarije koje su potpuno opremljene za udoban život. Dnevni boravak je savršen za opuštanje ili rad od kuće, sa direktnim izlazom na prostranu terasu koja se proteže duž cijelog stana, nudeći prelijep, nesmetan pogled. Terasi se takođe pristupa i iz spavaće sobe.
+Uživajte u svim pogodnostima savremenog života: stan posjeduje Internet, Klimatizaciju, Kablovsku televiziju, Interfon, Telefon. Posebna pogodnost je parking ispred objekta, što čini svakodnevnicu izuzetno praktičnom.
+Lokacija je izvanredna – City Kvart je poznat po svojoj blizini restoranima, kafićima, prodavnicama i svim bitnim sadržajima koji su potrebni za komforan svakodnevni život.
+Uslovi zakupa:
+Obavezan zakup na minimum 12 mjeseci.
+Prva mjesečna kirija unaprijed.
+Posljednja mjesečna kirija unaprijed.
+Depozit u visini jedne mjesečne kirije.
+Kućni ljubimci nijesu dozvoljeni.
+Fokus Nekretnine Montenegro
+
+## Published amenities
+
+- Opremljen
+- Klimatizacija
+- Internet
+- Telefon
+- Kablovska
+- Interfon
+- Kuhinja
+- Trpezarija
+- Lux
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

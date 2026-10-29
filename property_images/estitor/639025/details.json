@@ -1,0 +1,119 @@
+{
+  "source": "estitor",
+  "listing_id": "639025",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-budva/id-639025",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-budva/id-639025"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 74,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_639025",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/96e40afa-7d10-42c5-a6a1-ed762de91381-lg.webp",
+    "https://content.estitor.com/d044ee0e-5a12-4130-a424-6455164aeacf-lg.webp",
+    "https://content.estitor.com/ee4eef66-deea-417b-aa1c-8acb47d1b6b0-lg.webp",
+    "https://content.estitor.com/466ce9ee-858c-44e1-85e1-dbe67464238e-lg.webp",
+    "https://content.estitor.com/f85e0c60-815e-4a91-bd88-95ec997b42f4-lg.webp",
+    "https://content.estitor.com/c22253c0-54ae-4088-b180-b63ebb77475a-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Prodaje se plac u Buljarici",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:50.804912+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.895408+00:00",
+  "source_html_sha256": "cd0783ca10b03bf02652bcd2bdad087b47ed0ef3efe3f6c3d5d1c2731631eb76",
+  "title": "Prodaja, plac, 6767m², Buljarica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-27",
+  "price_amount": 338350,
+  "price_currency": "EUR",
+  "price_raw": "338350 EUR",
+  "city": "Budva",
+  "street_address": "Neimenovani Put, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Stefan Dragovic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Prodaje se plac u Buljarici",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

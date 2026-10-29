@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "640680",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-640680",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-640680"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 250,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640680",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/73263441-db79-4eb2-8075-7b46c67b8b8d-lg.webp",
+    "https://content.estitor.com/3e4707b9-fa9e-4cd1-bdea-b333d5ab17d5-lg.webp",
+    "https://content.estitor.com/3c59ae3a-5b03-47f8-b312-53fe23aa1a97-lg.webp",
+    "https://content.estitor.com/bbe6ee5a-4bcf-44d6-b309-147c77eb0817-lg.webp",
+    "https://content.estitor.com/670d149e-001d-4b31-953a-0e22b88c6a7b-lg.webp",
+    "https://content.estitor.com/4790c694-c892-4cd5-a419-e1f073ba3ea8-lg.webp",
+    "https://content.estitor.com/73648683-25b8-45d6-bf14-538f2af0772c-lg.webp",
+    "https://content.estitor.com/252c7959-e35f-4331-b463-c413607ddb63-lg.webp",
+    "https://content.estitor.com/76e3b910-6a06-4b8b-b280-e5933578ce6b-lg.webp",
+    "https://content.estitor.com/dc1a5648-fbf2-4648-806d-1c57abbb3b6b-lg.webp",
+    "https://content.estitor.com/4a3253ab-7edd-4b54-b8b0-9f6b9d327417-lg.webp",
+    "https://content.estitor.com/656e168a-bda7-467c-bbfb-725c36e6ca5d-lg.webp",
+    "https://content.estitor.com/45a314e6-7c93-4be6-b509-cb824ecb8a4f-lg.webp",
+    "https://content.estitor.com/ea9f7833-acb7-4697-8cac-95fecfc0e918-lg.webp",
+    "https://content.estitor.com/cfc05575-6ddd-48a5-a0a8-db301ede28a0-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duže vrijeme(minimum godinu dana) jednosoban stan u naselju Adok u Budvi.Stan je na drugom spratu i potpuno je namješten i odmah useljiv.Obavezan depozit.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:46.529079+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.346408+00:00",
+  "source_html_sha256": "1039213af81a2b76c6286c438e44bb0e096d3150acc51e746127d2ec05814283",
+  "title": "Izdavanje, dvosoban stan, 54m², Adok, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 54,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Ivan Pejovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se na duže vrijeme(minimum godinu dana) jednosoban stan u naselju Adok u Budvi.Stan je na drugom spratu i potpuno je namješten i odmah useljiv.Obavezan depozit.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!250",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267503563",
+      "name": "Ivan Pejovic",
+      "email": null,
+      "source": "workbook:Outreach list!250"
+    },
+    {
+      "phone_e164": "+38267503563",
+      "name": "Ivan Pejovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267503563"
+  ],
+  "phone_e164": "+38267503563",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

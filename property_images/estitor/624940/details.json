@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "624940",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624940",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624940"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 342,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_624940",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/05f0480c-20d6-4266-83c8-65a78e65f2e2-lg.webp",
+    "https://content.estitor.com/65109d49-a0ae-4870-b731-8b506a2a6068-lg.webp",
+    "https://content.estitor.com/49d08b0e-a413-4dc5-a047-59c022450e7a-lg.webp",
+    "https://content.estitor.com/c927dfd0-f466-4812-86e5-d54f3a40cc71-lg.webp",
+    "https://content.estitor.com/cbde98d1-3199-4098-bee9-1250a1749b62-lg.webp",
+    "https://content.estitor.com/e369642a-1008-4440-ad2f-5fa4fb7ff516-lg.webp",
+    "https://content.estitor.com/403c90a6-faaf-49f5-ac1e-629db9f72816-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Stan za izdavanje na Svetom Stasiju | 1. novembar 2026. – 1. april 2027.\nIzdaje se lijep, sunčan i udoban, potpuno opremljen stan na mirnoj lokaciji u naselju Sveti Stasije.\nStan je idealan za prijatan boravak tokom zimskih mjeseci, pruža udobnost i sve što je potrebno za svakodnevni život. Nalazi se u mirnom okruženju, a u neposrednoj blizini su plaže, restorani, prodavnice i autobusko stajalište.\n🚗 Stan posjeduje i sopstvenu garažu, što predstavlja dodatnu pogodnost.\n📅 Period izdavanja: od 1. novembra 2026. do 1. aprila 2027.\n☀️ Osunčan i udoban stan\n🌊 Pogled na more sa balkona\n🛋️ Kompletno opremljen\n🌿 Miran kraj\n🏖️ Blizina plaža\n🍽️ U blizini restorana i prodavnica\n🚌 Blizina autobuske stanice\n🚘 Obezbijeđena garaža\n✨ Idealan za one koji žele da provedu zimu u prijatnom i mirnom ambijentu, nadomak mora.\n📩 Za više informacija i fotografije, javite se putem privatne poruke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:32.650397+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.908709+00:00",
+  "source_html_sha256": "111cd0b2cf337d3b33f4d186c6d8f6faa0d3d04a1d3ea61d9857e892a577048f",
+  "title": "Izdavanje, jednosoban stan, 40m², Sveti Stasije, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "243 2, Dobrota, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Stefan Vukotić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stan za izdavanje na Svetom Stasiju | 1. novembar 2026. – 1. april 2027.Izdaje se lijep, sunčan i udoban, potpuno opremljen stan na mirnoj lokaciji u naselju Sveti Stasije.Stan je idealan za prijatan boravak tokom zim...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!342",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269950972",
+      "name": "Stefan Vukotić",
+      "email": null,
+      "source": "workbook:Outreach list!342"
+    },
+    {
+      "phone_e164": "+38269950972",
+      "name": "Stefan Vukotić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269950972"
+  ],
+  "phone_e164": "+38269950972",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

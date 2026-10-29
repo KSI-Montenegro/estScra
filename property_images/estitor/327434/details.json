@@ -1,0 +1,139 @@
+{
+  "source": "estitor",
+  "listing_id": "327434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-327434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-327434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 922,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_327434",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj etaža": "2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dfbd71dc-2716-490a-8c5c-510934af440d-lg.webp",
+    "https://content.estitor.com/cfca6e2e-7ded-4400-a167-83b04565416b-lg.webp",
+    "https://content.estitor.com/de1916eb-52dc-48fb-bc22-94e98b1ff849-lg.webp",
+    "https://content.estitor.com/49aec4bc-a7d5-457e-8fba-46c25e31d363-lg.webp",
+    "https://content.estitor.com/82db6753-1aff-494a-a0dc-396ab6901e6c-lg.webp",
+    "https://content.estitor.com/7d2daebe-d1be-4546-b129-596f5d11fa59-lg.webp",
+    "https://content.estitor.com/2377c405-c84f-4262-b56d-51e5b6bd64c6-lg.webp",
+    "https://content.estitor.com/95beef35-4aa3-44c8-949b-a45e5ce079f9-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se nenamjestena kuća, sa kuhnjiskim elementima, u Donjoj Gorici, površine 400m2, u blizini Tehnomaksa, na par minuta vožnje od TC Big Fashion-a.\nPosjeduje 4 spavaće sobe sa svojim terasama, 2 kupatila od kojih je jedno u glavnoj spavaćoj sobi. Ima veliko potkrovlje i dva podruma, kao i prostoriju za vešeraj.\nKuca ima veliko ograđeno dvorište, posjeduje kuhinju, 7 klima i centralno grijanje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:59.898875+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.060500+00:00",
+  "source_html_sha256": "61a1a6525b5280381b6ca2b2277a512a4e8e255d6170c1bdb8d00d38b23a6960",
+  "title": "Izdavanje, kuća, 400m², Donja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-01-15",
+  "updated_date": "2026-09-28",
+  "price_amount": 2500,
+  "price_currency": "EUR",
+  "price_raw": "2500 EUR",
+  "area_m2": 400,
+  "rooms": 4,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Milena Radovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "property_type_raw": "Kuća",
+  "amenities": [],
+  "metadata_summary": "Izdaje se nenamjestena kuća, sa kuhnjiskim elementima, u Donjoj Gorici, površine 400m2, u blizini Tehnomaksa, na par minuta vožnje od TC Big Fashion-a.Posjeduje 4 spavaće sobe sa svojim terasama, 2 kupatila od kojih j...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!922",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268350360",
+      "name": "Milena Radovic",
+      "email": null,
+      "source": "workbook:Outreach list!922"
+    },
+    {
+      "phone_e164": "+38268350360",
+      "name": "Milena Radovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268350360"
+  ],
+  "phone_e164": "+38268350360",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

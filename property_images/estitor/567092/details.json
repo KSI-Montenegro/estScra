@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "567092",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-567092",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-567092"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 138,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_567092",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Maloprodajni"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/52710036-4b18-404b-a49c-b21344d8b97f-lg.webp",
+    "https://content.estitor.com/ba8a9954-6433-4e59-9b4b-7a27747b22ac-lg.webp",
+    "https://content.estitor.com/85d1b000-6b70-47ac-861d-8a371a8e0cd6-lg.webp",
+    "https://content.estitor.com/2aded94f-0cb4-4df7-b7d5-5d0e99eb8433-lg.webp",
+    "https://content.estitor.com/01bc7b34-ea14-4f30-80e4-d3cabd40c327-lg.webp",
+    "https://content.estitor.com/e69e54e8-847c-4824-8727-b9b9ab839713-lg.webp",
+    "https://content.estitor.com/72f6b438-474d-4833-b2fa-e1adc89ded85-lg.webp",
+    "https://content.estitor.com/a8da4e92-6385-4f01-920b-cd38a7f4b33d-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se ekskluzivan poslovni prostor na najboljoj lokaciji u Nikšiću.\n\nSmješten na najprometnijem Bulevaru 13. jul, odmah pored \"Okova\", sa Voli, Laković i budućim Lidlom u neposrednoj blizini, ovaj prostor garantuje maksimalnu vidljivost i frekventnost.\nDvoetažni objekat, ukupne površine 200 m² (prizemlje 95m² - visina 4.5m, sprat 105m² - visina 3.5m), povezan je unutrašnjim stepeništem. Oba nivoa su koncipirana kao open space. Pored dva toaleta, prostor karakterišu velike staklene površine, savršene za brendiranje i reklamiranje. Kao neopremljen, pruža vam jedinstvenu priliku da ga u potpunosti prilagodite potrebama vašeg biznisa.\nDodatne pogodnosti uključuju minimum 7 privatnih parking mjesta ispred objekta i odličnu saobraćajnu povezanost. Završetak radova planiran je do oktobra 2026. godine, omogućavajući precizno planiranje.\nIdealno za maloprodaju, banku, šou-rum, apoteku, ordinaciju, kancelarije, salone, fitnes ili edukativni centar.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:44.332333+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.061915+00:00",
+  "source_html_sha256": "f32d9a71fa0bfff3c713e83f0439a5c2af79a7164526bf1230c8c7d56a5c0e8c",
+  "title": "Izdavanje, poslovni prostor, 200m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-08",
+  "updated_date": "2026-09-08",
+  "price_amount": 4000,
+  "price_currency": "EUR",
+  "price_raw": "4000 EUR",
+  "area_m2": 200,
+  "bathrooms": 2,
+  "city": "Nikšić",
+  "street_address": "Bulevar 13 Jul, Nikšić, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Rašo Spasojevic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se ekskluzivan poslovni prostor na najboljoj lokaciji u Nikšiću.Smješten na najprometnijem Bulevaru 13. jul, odmah pored \"Okova\", sa Voli, Laković i budućim Lidlom u neposrednoj blizini, ovaj prostor garantuje ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!138",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269575405",
+      "name": "Rašo Spasojevic",
+      "email": null,
+      "source": "workbook:Not homes!138"
+    },
+    {
+      "phone_e164": "+38269575405",
+      "name": "Rašo Spasojevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269575405"
+  ],
+  "phone_e164": "+38269575405",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

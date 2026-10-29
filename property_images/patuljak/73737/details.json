@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "73737",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-jednosoban-stan-43m2-preko-morace--73737",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-jednosoban-stan-43m2-preko-morace--73737"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 52,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_73737",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "3",
+    "Primarna orijentacija": "Sjever",
+    "Stambena kvadratura": "43 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73737_2.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Prodaje se jednosoban stan, 43m2, Preko Morače\n\nStan se nalazi na trećem spratu zgrade bez lifta.\n\nStruktura stana čini ulazni hodnik, dnevna soba, trpezarija, kuhinja, spavaća soba i terasa.\n\nStan se nalazi na jako dobroj lokaciji, u blizni vise srednjih i osnovnih škola, kao i fakulteta.\n\nCijena : 130.000€ fiksno\n\nBEZ AGENCIJA\n\nKONTAKT: 069 275 669",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:54.876121+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.460642+00:00",
+  "source_html_sha256": "317dbe88a33b9ccb3e69f5b7b649704a80d6645a3032aeaafe335d81f0eac933",
+  "title": "Prodaje se jednosoban stan, 43m2, Preko Morače",
+  "description_language": "en",
+  "price_raw": "130000.00€",
+  "price_amount": 130000,
+  "price_currency": "EUR",
+  "advertiser_name": "Mašan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 43,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodaje se jednosoban stan, 43m2, Preko Morače Stan se nalazi na trećem spratu zgrade bez lifta. Struktura stana čini ulazni hodnik, dnevna soba, trpezarija, kuhinja, spavaća soba i terasa.Stan se nalazi na jako dobroj lokaciji, u blizni vise srednjih i osnovnih škola, kao i fakulteta. Cijena : 130.000€ fiksnoBEZ AGENCIJA KONTAKT: 069 275 669 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!52",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269275669",
+      "name": "Mašan",
+      "email": null,
+      "source": "workbook:Not homes!52"
+    }
+  ],
+  "contact_phones": [
+    "+38269275669"
+  ],
+  "phone_e164": "+38269275669",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

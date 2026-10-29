@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "536547",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-536547",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-536547"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 727,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_536547",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Površina placa": "2834",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "2834"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c2310c23-3423-40a8-9427-65199edca0f7-lg.webp",
+    "https://content.estitor.com/ae06626a-2742-436f-9efa-a220f5d1f0d1-lg.webp",
+    "https://content.estitor.com/045805e6-e527-462d-bdda-0268ad3fe507-lg.webp",
+    "https://content.estitor.com/7b536858-19d6-44a2-aac3-6460a4f29a5a-lg.webp",
+    "https://content.estitor.com/eaf60ae7-6491-46b8-a58a-4e6748ce7f06-lg.webp",
+    "https://content.estitor.com/95550282-8898-418a-a271-f3dac2594cec-lg.webp",
+    "https://content.estitor.com/18ab585a-a2a7-44a0-b5cc-f5afffd861de-lg.webp",
+    "https://content.estitor.com/a7289f67-1275-47f6-932a-86e8df95298f-lg.webp",
+    "https://content.estitor.com/e1545dcf-b82d-4842-99e0-b372b152a80a-lg.webp",
+    "https://content.estitor.com/3af24ca5-ac8a-4fa0-a56d-aa86fb306311-lg.webp",
+    "https://content.estitor.com/da2c266e-7879-468e-9105-03edabdf825d-lg.webp",
+    "https://content.estitor.com/ab41c2f0-9909-4ab8-b968-6ac1edfbb40a-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izuzetna prilika za kupovinu mirnog porodičnog doma ili za investiciju u Podgorici, u idiličnom naselju Pričelje!\nNa prodaju je kuća površine 75 m², smještena na prostranom imanju od 2.834 m². Ova šarmantna kuća nudi udoban životni prostor sa 2 spavaće sobe i 1 kupatilom, a prodaje se kompletno opremljena, spremna za useljenje.\nImanje se odlikuje izuzetnim karakteristikama: Uvedeni struja i voda, asfaltni prilazni put za lak pristup, te tri pomoćna objekta koja pružaju dodatni prostor. Dostupnost dva bunara garantuje obilan izvor vode, idealno za održavanje prostranog imanja ili poljoprivredu.\nOva nekretnina je savršena za miran porodični život, pružajući privatnost i kontakt sa prirodom, ili za razvoj seoskog domaćinstva/agro-turizma zahvaljujući velikom placu i postojećim resursima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:45.962997+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.047108+00:00",
+  "source_html_sha256": "eadbcc8cfb5ca86efb0a2877c200633c50179299ffe07a68c13dfecfba4814c8",
+  "title": "Izdavanje, kuća, 75m², Pričelje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-23",
+  "updated_date": "2026-08-30",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 75,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Mico Lj",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 2834,
+  "balconies": 1,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izuzetna prilika za kupovinu mirnog porodičnog doma ili za investiciju u Podgorici, u idiličnom naselju Pričelje!Na prodaju je kuća površine 75 m², smještena na prostranom imanju od 2.834 m². Ova šarmantna kuća nudi u...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!727",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267211115",
+      "name": "Mico Lj",
+      "email": null,
+      "source": "workbook:Outreach list!727"
+    },
+    {
+      "phone_e164": "+38267211115",
+      "name": "Mico Lj",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267211115"
+  ],
+  "phone_e164": "+38267211115",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

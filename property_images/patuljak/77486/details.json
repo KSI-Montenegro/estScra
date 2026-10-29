@@ -1,0 +1,132 @@
+{
+  "source": "patuljak",
+  "listing_id": "77486",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-poslovni-prostor--77486",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-poslovni-prostor--77486"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 14,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77486",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!14:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače (Kruševac)",
+    "Broj prostorija": "1",
+    "Stambena kvadratura": "28 m2",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77486_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77486_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Prodaje se novo renoviran poslovni prostor površine 28m², smješten u sutrenu Tržnog centra Kruševac, u atraktivnom dijelu grada Preko Morače. Prostor je u sklopu novogradnje, opremljen je klima uređajem i posjeduje mokri čvor. Postoji i mogućnost kompenzacije za stan na primorju uz doplatu.\n\n????️ Cijena: 47.600€\n\n???? Kontakt: 068 282 280",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:29.632000+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.166564+00:00",
+  "source_html_sha256": "16a1fafe0d2de63356bf3e8157e6aa0c6068a3ebc92be589b8e0aa3975a8568b",
+  "title": "Prodaje se poslovni prostor",
+  "description_language": "en",
+  "price_raw": "47600.00€",
+  "price_amount": 47600,
+  "price_currency": "EUR",
+  "advertiser_name": "Milica",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Preko Morače (Kruševac)",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 28,
+  "amenities": [],
+  "metadata_summary": "Prodaje se novo renoviran poslovni prostor površine 28m², smješten u sutrenu Tržnog centra Kruševac, u atraktivnom dijelu grada Preko Morače. Prostor je u sklopu novogradnje, opremljen je klima uređajem i posjeduje mokri čvor. Postoji i mogućnost kompenzacije za stan na primorju uz doplatu.????️ Cijena: 47.600€???? Kontakt: 068 282 280",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!14",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263415353",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Not homes!14"
+    }
+  ],
+  "contact_phones": [
+    "+38263415353"
+  ],
+  "phone_e164": "+38263415353",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

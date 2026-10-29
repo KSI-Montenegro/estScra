@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "638062",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638062",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638062"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 907,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638062",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2010",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bdb8f780-6463-44aa-894f-7699d8924df6-lg.webp",
+    "https://content.estitor.com/f1f06469-4ea3-4ff6-b513-2a023c2010ec-lg.webp",
+    "https://content.estitor.com/cda04776-1aa1-4170-b6a3-1f93d3cac0e1-lg.webp",
+    "https://content.estitor.com/a1a1432d-ba1a-4cf3-b791-83e56e8eed58-lg.webp",
+    "https://content.estitor.com/83def73b-7b6a-413e-a424-53bbd63d8361-lg.webp",
+    "https://content.estitor.com/5a710229-6931-4311-81ce-e4f0cdc03864-lg.webp",
+    "https://content.estitor.com/e2f10371-de9f-468e-ad10-b82d01cf4f7c-lg.webp",
+    "https://content.estitor.com/7f237c5e-a21a-4d94-bb86-c08d39b94238-lg.webp",
+    "https://content.estitor.com/ae0fc865-a849-4254-851d-4a060a3ed61d-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan stan površine 50.0 m², idealan za ugodan život u naselju Stari Aerodrom u Podgorici.\nOvaj renoviran i osunčan prostor nudi jednu komfornu spavaću sobu i jedno moderno kupatilo. Stan je smješten na 3 spratu . Raspoloživ je odmah useljiv, spreman da dočeka svoje nove stanare bez odlaganja.\nStan je opremljen svim potrebnim sadržajima za udoban život. Uživajte u komforu klimatizacije, interfonu za sigurnost, kao i dostupnosti telefona i kablovske televizije. Zgrada posjeduje lift, a trpezarija i kuhinja su funkcionalno dizajnirane. Parking je obezbijeđen ispred objekta, što dodatno olakšava svakodnevicu.\nLokacija na Starom Aerodromu nudi odličnu povezanost sa svim dijelovima grada i blizinu brojnih sadržaja kao što su marketi, kafići, restorani i parkovi. Ovo je idealna prilika za najam moderno uređenog doma u mirnom, a urbanom okruženju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:48.235255+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.911421+00:00",
+  "source_html_sha256": "599d239c80d902c828f7b8a2bfd00cb347ab69b6139a9a12356c28eb707a66da",
+  "title": "Izdavanje, jednosoban stan, 50m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-17",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "12 Bulevar Peka Dapčevića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Petar Mugoša",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2010,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se izuzetan stan površine 50.0 m², idealan za ugodan život u naselju Stari Aerodrom u Podgorici.Ovaj renoviran i osunčan prostor nudi jednu komfornu spavaću sobu i jedno moderno kupatilo. Stan je smješten na 3 ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!907",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267214447",
+      "name": "Petar Mugoša",
+      "email": null,
+      "source": "workbook:Outreach list!907"
+    },
+    {
+      "phone_e164": "+38267214447",
+      "name": "Petar Mugoša",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267214447"
+  ],
+  "phone_e164": "+38267214447",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

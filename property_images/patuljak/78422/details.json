@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "78422",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stanovi-zagoric--78422",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stanovi-zagoric--78422"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 64,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78422",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!64:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zagorič",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Ne",
+    "Sprat": "1",
+    "Godina izgradnje": "Novogradnja",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "34 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78422_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78422_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "U ponudi su sledeće kvadrature:\nPrizemlje:\n-jednosoban 40m2\n-garsonjera 28m2\n-garsonjera 34m2\n1 .sprat :\n- jednosoban 53m2\n-garsonjera 28m2\n-garsonjera 34m2\n-garsonjera 28m2\n2.sprat:\n-trosobni 108m2\n-dvosobni 63m2\n-garsonjera 31,5m2\n3.sprat isto kao drugi raspolozivo.\n\nZgrada je trenutno u fazi grubih radova.\nRok završetka radova 12.mjeseci\nOdličan odnos cijene i kvaliteta.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:06.034347+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.182392+00:00",
+  "source_html_sha256": "fe01b2b8899f3080fc683ad5dce9928ceeca5e56a60a2ad0a8aa030428104d22",
+  "title": "Prodaja stanovi Zagorič",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "VVVV",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zagorič",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Ne",
+  "parking_raw": "1",
+  "area_m2": 34,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "U ponudi su sledeće kvadrature:Prizemlje: -jednosoban 40m2-garsonjera 28m2-garsonjera 34m21 .sprat :- jednosoban 53m2-garsonjera 28m2-garsonjera 34m2-garsonjera 28m22.sprat:-trosobni 108m2-dvosobni 63m2-garsonjera 31,5m23.sprat isto kao drugi raspolozivo.Zgrada je trenutno u fazi grubih radova.Rok završetka radova 12.mjeseciOdličan odnos cijene i kvaliteta.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!64",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268580952",
+      "name": "VVVV",
+      "email": null,
+      "source": "workbook:Outreach list!64"
+    }
+  ],
+  "contact_phones": [
+    "+38268580952"
+  ],
+  "phone_e164": "+38268580952",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

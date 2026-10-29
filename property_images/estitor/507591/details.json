@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "507591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-507591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-507591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 808,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_507591",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2017",
+    "Stanje": "Dobro",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Površina placa": "1800",
+    "Površina placa m2": "1800"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ce7669c7-7dc6-4afc-a3aa-9242ee1db12c-lg.webp",
+    "https://content.estitor.com/327c5ea7-9253-4328-8107-9ff0778ff179-lg.webp",
+    "https://content.estitor.com/de8a5a9a-3674-4716-817b-f5db758cae77-lg.webp",
+    "https://content.estitor.com/e1910890-4e80-4b2c-b1c1-e240e4c76841-lg.webp",
+    "https://content.estitor.com/dbcc936b-5eba-4972-b39d-fac60b23bc39-lg.webp",
+    "https://content.estitor.com/1202745a-fe36-4c62-986e-134235b0d334-lg.webp",
+    "https://content.estitor.com/8cefd1c3-a22f-4300-b5cd-20c661019aaf-lg.webp",
+    "https://content.estitor.com/c0c5779c-138f-418a-a65a-aeb17792d2b1-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se udobna porodična kuća površine 126 m², smještena na lijepo uređenom i prostranom placu od 1.800 m². Kuća raspolaže bazenom dimenzija 10 × 5 m, kao i ljetnjom kuhinjom, što je čini idealnom za boravak i odmor tokom toplijih mjeseci. Nekretnina se nalazi u mirnom dijelu Martinica, u naselju Gradina Martinicka, pružajući privatnost i prijatan ambijent za život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:39.291675+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.872737+00:00",
+  "source_html_sha256": "44c9cb79013d964308e9c63641c8c27349b13bdfddb63f8d002a0540110694cf",
+  "title": "Izdavanje, kuća, 126m², Donji Martinići, Danilovgrad",
+  "description_language": "sr-ME",
+  "published_date": "2025-12-28",
+  "updated_date": "2026-10-09",
+  "price_amount": 2000,
+  "price_currency": "EUR",
+  "price_raw": "2000 EUR",
+  "area_m2": 126,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Danilovgrad",
+  "country": "ME",
+  "advertiser_name": "Danijela Vukovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Dobro",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 1800,
+  "year_built": 2017,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se udobna porodična kuća površine 126 m², smještena na lijepo uređenom i prostranom placu od 1.800 m². Kuća raspolaže bazenom dimenzija 10 × 5 m, kao i ljetnjom kuhinjom, što je čini idealnom za boravak i odmor...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!808",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267235530",
+      "name": "Danijela Vukovic",
+      "email": null,
+      "source": "workbook:Outreach list!808"
+    },
+    {
+      "phone_e164": "+38267235530",
+      "name": "Danijela Vukovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267235530"
+  ],
+  "phone_e164": "+38267235530",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

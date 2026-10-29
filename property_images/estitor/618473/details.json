@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "618473",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618473",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618473"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 865,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_618473",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e2f1bf78-7222-47e5-ae2b-a8ff820a09cb-lg.webp",
+    "https://content.estitor.com/015f8bfe-0efa-4eb0-a3fe-c084b0a941ac-lg.webp",
+    "https://content.estitor.com/9906e311-a5f1-42b4-803d-0eda732fadf0-lg.webp",
+    "https://content.estitor.com/2c5d4429-8ff9-4ad8-81ef-87a9d09e0ad1-lg.webp",
+    "https://content.estitor.com/04935a90-8db1-4abf-8d45-fd2d02185789-lg.webp",
+    "https://content.estitor.com/f48e7934-8f6f-4e2b-be7e-d5d10cb02042-lg.webp",
+    "https://content.estitor.com/1d6a9f59-12a6-413a-8e32-aa8d80e18e74-lg.webp",
+    "https://content.estitor.com/be2a8ca2-c3f6-435f-96cd-69778e93cbda-lg.webp",
+    "https://content.estitor.com/da32e914-3aee-42fe-8f74-9ec3328f5f58-lg.webp",
+    "https://content.estitor.com/4b458e1a-493d-4bbb-b785-bdf8ea4b8a91-lg.webp",
+    "https://content.estitor.com/2ffa5263-0b7b-4b8f-9580-71f40ae9a9ad-lg.webp",
+    "https://content.estitor.com/051d8fb7-a54a-4dde-921c-45918f054158-lg.webp",
+    "https://content.estitor.com/dfd44d4f-6258-4a7e-b79f-09134ab82109-lg.webp",
+    "https://content.estitor.com/1afd010c-9af5-492f-9316-0a97a3dfc93e-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam moderno opremljen jednosoban stan za izdavanje na Zabjelu, u mirnoj ulici, u podnožju brda Ljubović.\nStan je smješten u kvalitetnoj novogradnji i nalazi se na petom spratu zgrade koja posjeduje lift. Funkcionalno je raspoređen i sastoji se od prostranog dnevnog boravka sa kompletno opremljenom kuhinjom, spavaće sobe, kupatila i praktičnog ulaznog hodnika.\nStan je osunčan i posjeduje terasu se koje se pruža slobodan pogled. Uključeno je privatno garažno mjesto, što garantuje dodatnu sigurnost i slobodu.\nStan je useljiv od oktobra i predstavlja savršen izbor za one koji traže kvalitetan životni prostor u Podgorici jer se nalazi na lokaciji koja nudi idealnu kombinaciju mira i pristupačnosti razlicitim sadrzajima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:17.634821+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.464189+00:00",
+  "source_html_sha256": "25f3f6304d517da4da3831cf95be81a710c7cf31aa7ea0e84af6450704bf4070",
+  "title": "Izdavanje, jednosoban stan, 45m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-17",
+  "updated_date": "2026-09-24",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "1 Aleksandra Divajna, Podgorica 81000, Черногория",
+  "country": "ME",
+  "advertiser_name": "Kristina Tosunovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Predstavljamo Vam moderno opremljen jednosoban stan za izdavanje na Zabjelu, u mirnoj ulici, u podnožju brda Ljubović. Stan je smješten u kvalitetnoj novogradnji i nalazi se na petom spratu zgrade koja posjeduje lift....",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!865",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268262282",
+      "name": "Kristina Tosunovic",
+      "email": null,
+      "source": "workbook:Outreach list!865"
+    },
+    {
+      "phone_e164": "+38268262282",
+      "name": "Kristina Tosunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268262282"
+  ],
+  "phone_e164": "+38268262282",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "80382",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stan-66-m2-niksic--80382",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stan-66-m2-niksic--80382"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 59,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80382",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!59:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Ostalo",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Polunamješten",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "66 m2",
+    "Kvadratura balkona": "4 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80382_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Prodaje se dvosoban stan u Nikšiću, zgrada Treske, 66m2, IV sprat, zgrada ima lift, komforan, prostran, uredan ulaz, sa parkingom ispred, djelimično renoviran.\n\n132.000 eura kontakt 069-515-846",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:02.118455+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.139944+00:00",
+  "source_html_sha256": "88d2628a2664e7732422a04a50451dd6ce35f724b79dde853813bffe57f037df",
+  "title": "Prodaja, stan 66 m2, Nikšić",
+  "description_language": "en",
+  "price_raw": "132000.00€",
+  "price_amount": 132000,
+  "price_currency": "EUR",
+  "advertiser_name": "Draško",
+  "property_type": "apartment",
+  "city": "Nikšić",
+  "district": "Ostalo",
+  "floor_raw": "4",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 66,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Prodaje se dvosoban stan u Nikšiću, zgrada Treske, 66m2, IV sprat, zgrada ima lift, komforan, prostran, uredan ulaz, sa parkingom ispred, djelimično renoviran.132.000 eura    kontakt 069-515-846 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!59",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269515846",
+      "name": "Draško",
+      "email": null,
+      "source": "workbook:Outreach list!59"
+    }
+  ],
+  "contact_phones": [
+    "+38269515846"
+  ],
+  "phone_e164": "+38269515846",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

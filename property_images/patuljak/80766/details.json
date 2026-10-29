@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "80766",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-45-m2-central-point-podg--80766",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-45-m2-central-point-podg--80766"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 134,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_80766",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Central Point",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "4",
+    "Stambena kvadratura": "45 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80766_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80766_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80766_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80766_1.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan Central Point\n069 745 076",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:20.952880+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.982787+00:00",
+  "source_html_sha256": "7b65c8c8b8aa528e672270e0389e545f7bf1e2c3f783218e7b8904377d00ba45",
+  "title": "Izdaje se jednosoban stan 45 m2, Central Point, Podgorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Real Estate",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Central Point",
+  "floor_raw": "4",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 45,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan Central Point069 745 076 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!134",
+      "agent_reasons": "business name (Real Estate)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269745076",
+      "name": "Real Estate",
+      "email": null,
+      "source": "workbook:Likely agents!134"
+    }
+  ],
+  "contact_phones": [
+    "+38269745076"
+  ],
+  "phone_e164": "+38269745076",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

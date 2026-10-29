@@ -1,0 +1,144 @@
+{
+  "source": "estitor",
+  "listing_id": "579255",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-579255",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-579255"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 153,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_579255",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "12",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/575c1280-c698-4aaa-bdd5-5bdc29c875d4-lg.webp",
+    "https://content.estitor.com/1f514b9a-870a-44f7-81c9-6a97068d8f63-lg.webp",
+    "https://content.estitor.com/af70ca13-2b52-4981-8816-1e0ae4aa5861-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor u srcu Bara, na izuzetno traženoj lokaciji u Centru. Smješten u neposrednoj blizini Opštine i Super marketa Idea, ovaj prostor nudi idealne uslove za razvoj vašeg poslovanja.\n\nProstor se prostire na 29.0 m² i djelimično je namješten, što omogućava brzu adaptaciju i početak rada, uz mogućnost personalizacije prema vašim potrebama. Jedna od ključnih prednosti je obezbijeđen parking ispred objekta, što je velika pogodnost za klijente i zaposlene u centru grada.\n\nIdealan je za kancelariju, agenciju, mali salon, prodavnicu ili druge uslužne djelatnosti. Odlična vidljivost i frekventna lokacija garantuju protok potencijalnih klijenata.\n\nNe propustite priliku da svoj biznis smjestite na premium lokaciju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:51.716098+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.172204+00:00",
+  "source_html_sha256": "a6b3c00c62ae642614df2350193f3d163a2cc1e6ff3672597c781c391db4c77b",
+  "title": "Izdavanje, poslovni prostor, 29m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-14",
+  "updated_date": "2026-10-12",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 29,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Ismet Saronjic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 12,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor u srcu Bara, na izuzetno traženoj lokaciji u Centru. Smješten u neposrednoj blizini Opštine i Super marketa Idea, ovaj prostor nudi idealne uslove za razvoj vašeg poslovanja. Prostor se pros...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!153",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267130456",
+      "name": "Ismet Saronjic",
+      "email": null,
+      "source": "workbook:Not homes!153"
+    },
+    {
+      "phone_e164": "+38267130456",
+      "name": "Ismet Saronjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267130456"
+  ],
+  "phone_e164": "+38267130456",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

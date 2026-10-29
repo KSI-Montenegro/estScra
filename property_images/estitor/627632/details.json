@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "627632",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627632",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627632"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 333,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627632",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2017",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d1878894-fed7-410c-ac11-1b71ee19358b-lg.webp",
+    "https://content.estitor.com/aab75a4f-acb8-4a39-9f18-8930735f7a01-lg.webp",
+    "https://content.estitor.com/4fab4cda-e664-4c64-ae91-23df168242c4-lg.webp",
+    "https://content.estitor.com/e920f185-493c-4435-8255-9e46e2594f89-lg.webp",
+    "https://content.estitor.com/7afd9e2d-937e-4d9f-860f-004429ba9f28-lg.webp",
+    "https://content.estitor.com/967de14d-62ff-4600-b65b-97570876ea3b-lg.webp",
+    "https://content.estitor.com/640b3335-72c7-4586-8f7e-527f66d853ce-lg.webp",
+    "https://content.estitor.com/1cb5a3c5-5909-4bd7-959b-53fe05f57667-lg.webp",
+    "https://content.estitor.com/2d06647b-f1aa-4e36-a3fd-13bb374119b3-lg.webp",
+    "https://content.estitor.com/9d89b1da-93cb-43f3-9249-502a111ee136-lg.webp",
+    "https://content.estitor.com/eb9b3bc5-0cca-4400-b0cc-7de918b7c030-lg.webp",
+    "https://content.estitor.com/d96192c7-39f5-47fe-b60a-f11559d1fefa-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan stan u novogradnji, smješten na atraktivnoj lokaciji u Đenovićima, Herceg Novi.\n\nOvaj komforan stan, površine 44.0 m², idealan je za udoban život. Sastoji se od jedne spavaće sobe, prostrane trpezarije, moderne kuhinje i kupatila. Stan se nalazi na trećem spratu (3. sprat).\n\nNekretnina je potpuno opremljena, spremna za useljenje, te ne zahtijeva dodatna ulaganja. Poseban kvalitet pruža terasa sa pogledom na more koja nudi oazu mira i idealno je za opuštanje ili uživanje na otvorenom.\n\nMeđu brojnim pogodnostima izdvajamo podno grijanje, koje obezbjeđuje prijatnu temperaturu tokom cijele godine, kao i sistem klimatizacije za ljetnje mjesece. Dostupni su i internet i kablovska televizija.\n\nParking je obezbijeđen ispred samog objekta, što dodatno olakšava svakodnevni život. Ovaj stan predstavlja savršen spoj modernog komfora i praktičnosti u jednom od najljepših primorskih mjesta.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:28.202703+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.855820+00:00",
+  "source_html_sha256": "cc743ee9f07b0638b2e2b1d04ab38c325c178e0984398f491c466606ce63fb92",
+  "title": "Izdavanje, jednosoban stan, 44m², Đenovići, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "E65, Đenovići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Maric",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2017,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se izuzetan stan u novogradnji, smješten na atraktivnoj lokaciji u Đenovićima, Herceg Novi. Ovaj komforan stan, površine 44.0 m², idealan je za udoban život. Sastoji se od jedne spavaće sobe, prostrane trpezari...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!333",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267433140",
+      "name": "Nikola Maric",
+      "email": null,
+      "source": "workbook:Outreach list!333"
+    },
+    {
+      "phone_e164": "+38267433140",
+      "name": "Nikola Maric",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267433140"
+  ],
+  "phone_e164": "+38267433140",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

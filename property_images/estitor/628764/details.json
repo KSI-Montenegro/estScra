@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "628764",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-628764",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-628764"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 33,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_628764",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/73c8fb97-5a11-43dd-8860-e9726f4da6b2-lg.webp",
+    "https://content.estitor.com/a36996e7-1ef2-4cb9-941a-e7bcff5e2c5f-lg.webp",
+    "https://content.estitor.com/37c12f4e-e92e-4046-9435-95320c7c5930-lg.webp",
+    "https://content.estitor.com/768738f2-853b-44f7-98c6-f304d0611233-lg.webp",
+    "https://content.estitor.com/eff947ca-2e62-4d95-a381-1c9347c7fb26-lg.webp",
+    "https://content.estitor.com/28cced05-65ae-4c51-9516-d777bff91a74-lg.webp",
+    "https://content.estitor.com/31df3536-f526-45eb-b0d7-6647f02a6955-lg.webp",
+    "https://content.estitor.com/ca67d6af-4cc0-4ee1-90ef-5322c39d4470-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem opremljen poslovni prostor u Bloku 6, kvadrature 19m2",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:42.247609+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.309068+00:00",
+  "source_html_sha256": "6d95ff638c6e4edb1044d959ad7c333ae688eb96b67f55e912f1b3523293de09",
+  "title": "Izdavanje, poslovni prostor, 19m², Blok 6, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-04",
+  "updated_date": "2026-10-04",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 19,
+  "city": "Podgorica",
+  "street_address": "Meše Selimovića, Meše Selimovića, Podgorica, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Djurdjica Djurovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem opremljen poslovni prostor u Bloku 6, kvadrature 19m2",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!33",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267600395",
+      "name": "Djurdjica Djurovic",
+      "email": null,
+      "source": "workbook:Not homes!33"
+    },
+    {
+      "phone_e164": "+38267600395",
+      "name": "Djurdjica Djurovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267600395"
+  ],
+  "phone_e164": "+38267600395",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

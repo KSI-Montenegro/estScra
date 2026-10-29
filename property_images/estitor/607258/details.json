@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "607258",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607258",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607258"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 713,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_607258",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bbca9b6d-be75-4090-9415-a4f55a5d6201-lg.webp",
+    "https://content.estitor.com/c29a3079-0ccf-4fe7-8af4-dd1c16ceba69-lg.webp",
+    "https://content.estitor.com/6993c5de-b8ee-4530-b53d-06d679681782-lg.webp",
+    "https://content.estitor.com/dd368874-2eeb-426a-acef-499b00218a58-lg.webp",
+    "https://content.estitor.com/704d9f85-6674-47cc-98b8-b280e322e708-lg.webp",
+    "https://content.estitor.com/8f9d3026-a0fd-4ce8-aa94-6352a3309e8c-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan jednosoban stan za izdavanje u Podgorici, smješten u popularnom naselju Tološi, unutar prestižnog kompleksa Family Residence Kips.\nOvaj luksuzno opremljen stan površine 41.0 m² je potpuno nov i spreman da primi stanare. Nalazi se na prizemlju (4. sprat), nudeći lakoću pristupa i udobnost.\nStan se sastoji od jedne spavaće sobe, prostranog dnevnog boravka sa kuhinjom i trpezarijom, te modernog kupatila. Svaki kutak stana je opremljen sa pažljivo biranim, kvalitetnim namještajem i tehnikom, garantujući vrhunski komfor i estetski užitak.\nVelika prednost je obezbijeđeno parking mjesto ispred objekta, pod rampom, što pruža dodatnu sigurnost i praktičnost. Lokacija u Tološima nudi mirno okruženje sa brzom povezanošću sa svim ključnim djelovima grada.\nIdealno za pojedince ili parove koji traže kvalitetan i moderan dom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:39.021127+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.973359+00:00",
+  "source_html_sha256": "9477933ddcb9538dd9feff7194e674fd5f9fc7749b00ec518a9e2598dfcd337b",
+  "title": "Izdavanje, jednosoban stan, 41m², Tološi, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-03",
+  "updated_date": "2026-09-03",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 41,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Andrije Lainovića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Luka Kontic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan jednosoban stan za izdavanje u Podgorici, smješten u popularnom naselju Tološi, unutar prestižnog kompleksa Family Residence Kips.Ovaj luksuzno opremljen stan površine 41.0 m² je potpuno nov...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!713",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269454033",
+      "name": "Luka Kontic",
+      "email": null,
+      "source": "workbook:Outreach list!713"
+    },
+    {
+      "phone_e164": "+38269454033",
+      "name": "Luka Kontic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269454033"
+  ],
+  "phone_e164": "+38269454033",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

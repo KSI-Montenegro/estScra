@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "165251",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-165251",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-165251"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 36,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_165251",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2010",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Površina placa": "320",
+    "Udaljenost od mora": "1500",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true",
+    "Površina placa m2": "320",
+    "Sprat": "1"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ee9d9a4f-96ba-4c06-878f-8a55d3c2882f-lg.webp",
+    "https://content.estitor.com/53c642f6-68b4-4561-ae84-47fbf2d4f943-lg.webp",
+    "https://content.estitor.com/8ab58f3f-10a6-4f92-a106-92d7913caa98-lg.webp",
+    "https://content.estitor.com/b9e26cf5-f14e-4f8b-aeaa-5c0f00e7d214-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "-",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:07.596715+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.960623+00:00",
+  "source_html_sha256": "8815adf36b92ffa043cf31d4919b1747dfa933234dc5b0c720c9b1f961949ad3",
+  "title": "Izdavanje, kuća, 80m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2023-08-28",
+  "updated_date": "2026-08-31",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 80,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Milan Dovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "floor_raw": "1",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "lot_area_m2": 320,
+  "balconies": 1,
+  "year_built": 2010,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "-",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!36",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269326095",
+      "name": "Milan Dovic",
+      "email": null,
+      "source": "workbook:Likely agents!36"
+    },
+    {
+      "phone_e164": "+38269326095",
+      "name": "Milan Dovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269326095"
+  ],
+  "phone_e164": "+38269326095",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

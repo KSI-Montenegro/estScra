@@ -1,0 +1,132 @@
+{
+  "source": "patuljak",
+  "listing_id": "82118",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-sobe-podgorica--82118",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-sobe-podgorica--82118"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 990,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82118",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!990:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Blok 9",
+    "Broj kreveta": "1",
+    "Stambena kvadratura": "12 m2",
+    "Sprat": "2",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Struja",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdajem sobu studentkinji, blizina Tehnickog fakulteta, blok 9, Podgorica. Pisati na viber.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:37.471469+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.534112+00:00",
+  "source_html_sha256": "b038e65c7a8fd469defc611d4d92e5cbfec32de7cf752b15019c2a77b9d0683c",
+  "title": "Izdavanje sobe, Podgorica",
+  "description_language": "en",
+  "price_raw": "250.00€",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "advertiser_name": "Tamara",
+  "city": "Podgorica",
+  "district": "Blok 9",
+  "floor_raw": "2",
+  "heating_raw": "Struja",
+  "area_m2": 12,
+  "amenities": [],
+  "metadata_summary": "Izdajem sobu studentkinji, blizina Tehnickog fakulteta, blok 9, Podgorica. Pisati na viber.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!990",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269820585",
+      "name": "Tamara",
+      "email": null,
+      "source": "workbook:Outreach list!990"
+    }
+  ],
+  "contact_phones": [
+    "+38269820585"
+  ],
+  "phone_e164": "+38269820585",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

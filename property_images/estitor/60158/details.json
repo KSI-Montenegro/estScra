@@ -1,0 +1,143 @@
+{
+  "source": "estitor",
+  "listing_id": "60158",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-60158",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-60158"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 36,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_60158",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Orijentacija": "Jug",
+    "Parking": "Da",
+    "Udaljenost od mora": "1,5",
+    "Internet": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9d419f86-0278-44cf-ae48-fbdfe8326474-lg.webp",
+    "https://content.estitor.com/0a43cf16-b7cc-4c92-b7a6-30b2f7995b9e-lg.webp",
+    "https://content.estitor.com/e2076af8-b868-4a29-996e-b92b4579d917-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "-",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:07.391121+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.955818+00:00",
+  "source_html_sha256": "ae0f426873db96ae288f5f27bc9b6c12d90a39391aa8b312e712e79dcec22a88",
+  "title": "Izdavanje, garsonjera, 20m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2022-06-27",
+  "updated_date": "2026-08-27",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 20,
+  "city": "Bar",
+  "street_address": "Ilino bb",
+  "country": "ME",
+  "advertiser_name": "Milan Dovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "parking_raw": "Da",
+  "orientation_raw": "Jug",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kuhinja"
+  ],
+  "metadata_summary": "-",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!36",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269326095",
+      "name": "Milan Dovic",
+      "email": null,
+      "source": "workbook:Likely agents!36"
+    },
+    {
+      "phone_e164": "+38269326095",
+      "name": "Milan Dovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269326095"
+  ],
+  "phone_e164": "+38269326095",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

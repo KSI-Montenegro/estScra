@@ -1,0 +1,139 @@
+{
+  "source": "realitica",
+  "listing_id": "3946516",
+  "listing_url": "https://www.realitica.com/hr/listing/3946516",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946516"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 204,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3946516",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Građevinsko Zemljište",
+    "Područje": "Bar",
+    "Lokacija": "Dobra Voda",
+    "Cijena": "€111.000",
+    "Zemljište": "409 m2",
+    "Od Mora (m)": "340",
+    "Oglas Broj": "3946516",
+    "Postavljeno": "17 Oct, 2026",
+    "Zadnja Promjena": "17 Oct, 2026"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946516_d9f02da7-bb82-4218-85c6-7471a9ece705.jpg",
+    "https://www.realitica.com/images/listing_photos/3946516_img_9973.jpeg"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Prodajemo urbanizovan plac 409 m2 na kome se može graditi objekat 450 m2 prizemlje i 3 sprata",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:19.556789+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.495777+00:00",
+  "source_html_sha256": "7dee8cf6b5747bc17a9cfcca177ac8355009e8408718063c3230c21fb6bc4fd9",
+  "title": "Prodajem urbanizovan plac -Prodajem Građevinsko Zemljište, Dobra Voda",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Dobra Voda",
+  "published_date_raw": "17 Oct, 2026",
+  "updated_date_raw": "17 Oct, 2026",
+  "distance_to_sea_m": 340,
+  "property_type_raw": "Prodajem Građevinsko Zemljište",
+  "property_type": "land",
+  "deal_type": "sale",
+  "price_raw": "€111.000",
+  "price_amount": 111000,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "Prodajemo urbanizovan plac 409 m2 na kome se može graditi objekat 450 m2 prizemlje i 3 sprata ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!204",
+      "notes": "Medium - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268429797",
+      "name": "Robert",
+      "email": null,
+      "source": "workbook:Not homes!204"
+    }
+  ],
+  "contact_phones": [
+    "+38268429797"
+  ],
+  "phone_e164": "+38268429797",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

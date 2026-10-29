@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "83531",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-83531",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-83531"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 289,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_83531",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2016",
+    "Parking": "Da",
+    "Udaljenost od mora": "1000m",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/23d29f23-a3fb-4081-bbd1-bd9b49a3076d-lg.webp",
+    "https://content.estitor.com/2b1c6842-1c12-48b0-8160-480ebed667d2-lg.webp",
+    "https://content.estitor.com/9a237eea-cf8b-4dd3-96ca-3b3a3cef2ca1-lg.webp",
+    "https://content.estitor.com/222ab8ea-cd4a-493c-a647-e8d3506f390c-lg.webp",
+    "https://content.estitor.com/3b16754f-ab8b-4885-b4e9-27f295f327a2-lg.webp",
+    "https://content.estitor.com/3de1ca86-97ce-45d9-83ce-655adbc65862-lg.webp",
+    "https://content.estitor.com/1cba3aed-2db3-4a94-b407-067c3d629d01-lg.webp",
+    "https://content.estitor.com/7645aa88-c8a8-4b09-8dc5-7f3b56c5638a-lg.webp",
+    "https://content.estitor.com/4ca41269-717c-4984-9083-b31f3f0f8ec4-lg.webp",
+    "https://content.estitor.com/fc72f5fa-619d-47b2-8560-b2bc72593576-lg.webp",
+    "https://content.estitor.com/84435d6c-b4ac-4c84-9ebb-7b7f771604ca-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Stan as dve spa ace sobe dva kupatila dve terase moderne opremljenom kuhinjom\nu dvoristu bazen\nnalazi se u veoma mirnom kraju na Svega desetak minuta od kotora I tivta",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:06.000563+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.601757+00:00",
+  "source_html_sha256": "dd436d9730c197b1c6be875e6f5d3c143378592ed4fa20760320371d9f4d7581",
+  "title": "Izdavanje, dvosoban stan, 90m², Đuraševići, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2022-10-21",
+  "updated_date": "2026-10-13",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 90,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Sandra Baljakbosnjak",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "parking_raw": "Da",
+  "balconies": 2,
+  "year_built": 2016,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stan as dve spa ace sobe dva kupatila dve terase moderne opremljenom kuhinjomu dvoristu bazennalazi se u veoma mirnom kraju na Svega desetak minuta od kotora I tivta",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!289",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381694053184",
+      "name": "Sandra Baljakbosnjak",
+      "email": null,
+      "source": "workbook:Outreach list!289"
+    },
+    {
+      "phone_e164": "+381694053184",
+      "name": "Sandra Baljakbosnjak",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381694053184"
+  ],
+  "phone_e164": "+381694053184",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

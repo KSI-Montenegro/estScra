@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "610230",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610230",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610230"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 60,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_610230",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0525e4d4-a40e-4c43-8c5b-b65e424514ef-lg.webp",
+    "https://content.estitor.com/f7420e8d-9f46-4f85-be71-20911012b3d9-lg.webp",
+    "https://content.estitor.com/4b3c5db9-6229-45f6-b8ef-f8e79ff6bd67-lg.webp",
+    "https://content.estitor.com/3921effd-ecff-4328-87f3-603d292e63ab-lg.webp",
+    "https://content.estitor.com/b5c0bfb2-8667-482c-a8ba-62318d24ee04-lg.webp",
+    "https://content.estitor.com/82443b96-592c-4305-82dd-75d0de2a21cf-lg.webp",
+    "https://content.estitor.com/d41d278f-6003-4e74-abe7-43775477d5ab-lg.webp",
+    "https://content.estitor.com/009d61f2-0da9-4e0b-a642-a260bd2bbc85-lg.webp",
+    "https://content.estitor.com/85f3c42d-81c4-473f-907e-a95099e5cae6-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijepo sređen i potpuno namješten jednosoban stan površine 50 m², smješten u prizemlju jednospratne porodične kuće.\nStan se nalazi u Dalmatinskoj ulici, iza Tržnog centra Bazar.\nStan je u top stanju, veoma lijepo uređen i posjeduje:\n2 klima uređaja\n\npotpuno namješten\n\ndosta novih elemenata i namještaja\n\nPrilikom useljenja plaća se prva i posljednja kirija + depozit.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:21.908241+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.219791+00:00",
+  "source_html_sha256": "f83ac4aec9671b3a62534eeaa778b57cf65ec8dae7950d612aa35989471973dc",
+  "title": "Izdavanje, jednosoban stan, 50m², Dalmatinska ulica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-04",
+  "updated_date": "2026-09-04",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Boško-terrivo Realestate",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se lijepo sređen i potpuno namješten jednosoban stan površine 50 m², smješten u prizemlju jednospratne porodične kuće.Stan se nalazi u Dalmatinskoj ulici, iza Tržnog centra Bazar.Stan je u top stanju, veoma lij...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!60",
+      "agent_reasons": "4 ads with this number; business name (Boško-terrivo Realestate)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269510052",
+      "name": "Boško-terrivo Realestate",
+      "email": null,
+      "source": "workbook:Likely agents!60"
+    },
+    {
+      "phone_e164": "+38269510052",
+      "name": "Boško-terrivo Realestate",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269510052"
+  ],
+  "phone_e164": "+38269510052",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

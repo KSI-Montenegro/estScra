@@ -1,0 +1,137 @@
+{
+  "source": "estitor",
+  "listing_id": "639859",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-639859",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-639859"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 852,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639859",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6f62d019-43a6-4bf6-8fbc-f7401d636108-lg.webp",
+    "https://content.estitor.com/e141226a-cb17-4c60-bedb-71573ccae738-lg.webp",
+    "https://content.estitor.com/5989d4e8-e0da-419c-b475-0c3f67254c46-lg.webp",
+    "https://content.estitor.com/c2d85922-b5a2-45e6-9663-5e4b7021e96d-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se garsonjera – Momišići, Podgorica\nLokacija: Momišići\nPovršina: 22 m²\nBez depozita\nIzdaje se funkcionalna garsonjera površine 22 m² u mirnom dijelu Momišića. Odlična lokacija, u blizini svih neophodnih sadržaja. Sadrzi parking mjesto. Voda i internet uračunati u cijenu.\nInformacije i zakazivanje razgledanja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:10.898319+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.343527+00:00",
+  "source_html_sha256": "cca360cd7c01a6f09fcada6b6d41115dfdcd3c423c91c8d31c51d7e4d8378633",
+  "title": "Izdavanje, kuća, 22m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "price_raw": "200 EUR",
+  "area_m2": 22,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "58 18. Jula, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vasilije Radunovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "balconies": 1,
+  "property_type_raw": "Kuća",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garsonjera – Momišići, PodgoricaLokacija: MomišićiPovršina: 22 m²Bez depozitaIzdaje se funkcionalna garsonjera površine 22 m² u mirnom dijelu Momišića. Odlična lokacija, u blizini svih neophodnih sadržaja. S...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!852",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267469142",
+      "name": "Vasilije Radunovic",
+      "email": null,
+      "source": "workbook:Outreach list!852"
+    },
+    {
+      "phone_e164": "+38267469142",
+      "name": "Vasilije Radunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267469142"
+  ],
+  "phone_e164": "+38267469142",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

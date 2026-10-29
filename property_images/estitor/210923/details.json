@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "210923",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-210923",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-210923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 339,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_210923",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2014",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "1,1km",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e19f1196-60f0-4f64-b2b7-92030e6fb819-lg.webp",
+    "https://content.estitor.com/0ec21d4e-3196-45d7-b046-302450a858c5-lg.webp",
+    "https://content.estitor.com/0b9c0bdd-5e6f-472c-8868-b5e69d12dbe5-lg.webp",
+    "https://content.estitor.com/36fe3f1d-218e-492a-b81e-aa62276c6d94-lg.webp",
+    "https://content.estitor.com/c841f655-334e-440b-af01-c71e3a6c0c18-lg.webp",
+    "https://content.estitor.com/545b922c-a1c7-41f0-ad2b-34cfb5a9389b-lg.webp",
+    "https://content.estitor.com/23c8b523-2b9a-4c72-abb5-c038cd1c65f6-lg.webp",
+    "https://content.estitor.com/3f466449-a991-440d-80fa-7104c53b10f4-lg.webp",
+    "https://content.estitor.com/06e10ee6-6a5a-4682-8cd3-f8c062bf3bca-lg.webp",
+    "https://content.estitor.com/ffd76e9a-3a8b-48ea-860c-9a4a5a66b932-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderno opremljena garsonjera od 33m² u Baru, idealna za udoban život. Smještena je u prizemlju novogradnje \"Pajković\" na Petrovackom putu, u mirnom i osunčanom ambijentu, samo 100m ispod perionice Car Wash.\n\nOva funkcionalna garsonjera raspolaže sa 1 kupatilom, predsobljem, kuhinjom i hodnikom, nudeći optimalan raspored prostora. Posebne pogodnosti su privatna lođa od 5m² i ekskluzivno dvorište od 15m², savršeno za opuštanje na otvorenom.\n\nStan je potpuno opremljen i nudi sve neophodne pogodnosti: Internet, Kablovsku TV i obezbijeđeno parking mjesto. Uknjižen je i odmah useljiv.\n\nCijena van sezone iznosi: 240€ mjesečno. Tokom sezone (jul/avgust): 350€ mjesečno, uz avans od 1000€ unaprijed.\n\nNe propustite ovu izvanrednu priliku! Kontakt: 068860807.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:31.158924+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.890520+00:00",
+  "source_html_sha256": "371bc761a1fa410eb59c4a6232d7ff651f2a304045586e2073bae98a8f504be5",
+  "title": "Izdavanje, garsonjera, 33m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-05",
+  "updated_date": "2026-09-30",
+  "price_amount": 240,
+  "price_currency": "EUR",
+  "price_raw": "240 EUR",
+  "area_m2": 33,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Mirošica 2, Sutomore, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Drasko D.",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2014,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderno opremljena garsonjera od 33m² u Baru, idealna za udoban život. Smještena je u prizemlju novogradnje \"Pajković\" na Petrovackom putu, u mirnom i osunčanom ambijentu, samo 100m ispod perionice Car Wash....",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!339",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268860807",
+      "name": "Drasko D.",
+      "email": null,
+      "source": "workbook:Outreach list!339"
+    },
+    {
+      "phone_e164": "+38268860807",
+      "name": "Drasko D.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268860807"
+  ],
+  "phone_e164": "+38268860807",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

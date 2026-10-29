@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "585210",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-585210",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-585210"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 382,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_585210",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3665c84d-c5d2-417a-aaff-caa3aa30ebee-lg.webp",
+    "https://content.estitor.com/30c8ee76-cce2-45fa-b9fe-49530d3d57ec-lg.webp",
+    "https://content.estitor.com/cd25baf8-493c-4d29-903c-68ea23771a85-lg.webp",
+    "https://content.estitor.com/3c6b5fe9-dd62-45cb-accc-81da85546e39-lg.webp",
+    "https://content.estitor.com/3b62e87e-04d8-4711-a9f4-57dd38925081-lg.webp",
+    "https://content.estitor.com/b0402b7e-0c38-4dbb-a4f8-51d23dd9c3b6-lg.webp",
+    "https://content.estitor.com/c9e075b5-e00c-400b-869d-9b5e53adfedd-lg.webp",
+    "https://content.estitor.com/f5d2c673-c7d2-414c-b36a-05569b72ad21-lg.webp",
+    "https://content.estitor.com/df763eb0-a0e8-4199-9283-dae012c22949-lg.webp",
+    "https://content.estitor.com/eacb455a-5a6d-428e-98a6-2b7d12b22bbe-lg.webp",
+    "https://content.estitor.com/4e4b9249-87b2-4505-85cd-6dc17841d178-lg.webp",
+    "https://content.estitor.com/1422e3f7-e9d9-4755-92e9-58aa114df480-lg.webp",
+    "https://content.estitor.com/46e1be0b-6498-4296-a1cf-3b9bdbffdae4-lg.webp",
+    "https://content.estitor.com/8ce54ca4-3ace-4d3d-8e4d-9e17a1b5cf18-lg.webp",
+    "https://content.estitor.com/942efb11-4588-4f80-930f-ea64fbcce5a0-lg.webp",
+    "https://content.estitor.com/4d374eeb-39fb-41b3-ba1b-e8b527ee2d03-lg.webp",
+    "https://content.estitor.com/db5f45fe-14c6-4ec3-a951-4ab4ffb5eebd-lg.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "Kompletno renoviran apartman sa pogledom na Boku – Krašići (52m²)\nNa prodaju renoviran i opremljen apartman u Krašićima, naselje Maslinjak.\nApartman je vazdušnom linijom udaljen svega 178 metara od obale i pruža očaravajući, panoramski pogled na Bokokotorski zaliv sa prostrane terase.\nVlasništvo je potpuno čisto, uknjiženo 1/1 (na dva fizička lica, prodaja se vrši uz saglasnost oba suvalsnika), što garantuje brz i siguran prenos.\nOsnovne informacije:\n•Kvadratura: 52,00 m² (merena površina po prostorijama iznosi 52,07 m²).\n•Pravni status: Uknjižen 1/1, bez tereta i zabeležbi.\n•Struktura: Komforna terasa (13,18 m²), dnevna soba (14,69 m²), spavaća soba (9,76 m²), odvojena kuhinja (5,22 m²), kupatilo (3,69 m²) i hodnik.\n•Opremljenost: Prodaje se namešten (uz zadržavanje nekoliko ličnih komada nameštaja, po dogovoru sa kupcem).\nTehničke prednosti i infrastruktura:\n•Parking: Pridruženo parking mesto.\n•Sopstveni rezervoar: Cisterna za vodu od 8 kubika sa hidroforom (obezbeđuje potpuni mir i stalni pritisak vode tokom letnje sezone).\n•Stanje: Apartman je nedavno kompletno renoviran, svetao i odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:52.902733+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.156637+00:00",
+  "source_html_sha256": "e6107dfe4b4c2ee5eafae7c1097f88e2621f5f8df1f8eda13bf9f7fad2fd4aa8",
+  "title": "Izdavanje, dvosoban stan, 52m², Krašići, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-29",
+  "updated_date": "2026-09-12",
+  "price_amount": 130000,
+  "price_currency": "EUR",
+  "price_raw": "130000 EUR",
+  "area_m2": 52,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Krašići, Mosorska",
+  "country": "ME",
+  "advertiser_name": "Miki Svabic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Kompletno renoviran apartman sa pogledom na Boku – Krašići (52m²)Na prodaju renoviran i opremljen apartman u Krašićima, naselje Maslinjak.Apartman je vazdušnom linijom udaljen svega 178 metara od obale i pruža očarava...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!382",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38163281174",
+      "name": "Miki Svabic",
+      "email": null,
+      "source": "workbook:Outreach list!382"
+    },
+    {
+      "phone_e164": "+38163281174",
+      "name": "Miki Svabic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38163281174"
+  ],
+  "phone_e164": "+38163281174",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

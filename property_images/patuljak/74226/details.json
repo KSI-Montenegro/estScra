@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "74226",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-778m2-gornja-gorica--74226",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-778m2-gornja-gorica--74226"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 94,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74226",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!94:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Gornja Gorica",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "778 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_8.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Prodajem plac 778m2, na kojem je stara kuca kvadrature 100m2.\nPlac se nalazi u Gornjoj Gorici, ulica Miloja Pavlovica, dup-om je dozvoljena gradnja p+2+pk.\nCijena 290.000e\nMoguca kompenzacija za stanove u novogradnji.\n069575736",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:19.852081+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.765548+00:00",
+  "source_html_sha256": "e70f437a74b510f5ac13fd93ec96ad93f4a2d04a002cfa3c7824d09ada3a8871",
+  "title": "Prodajem plac 778m2, Gornja Gorica",
+  "description_language": "en",
+  "price_raw": "290000.00€",
+  "price_amount": 290000,
+  "price_currency": "EUR",
+  "advertiser_name": "Milovan",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Gornja Gorica",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem plac 778m2, na kojem je stara kuca kvadrature 100m2.Plac se nalazi u Gornjoj Gorici, ulica Miloja Pavlovica, dup-om je dozvoljena gradnja p+2+pk. Cijena 290.000eMoguca kompenzacija za stanove u novogradnji. 069575736",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!94",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267406402",
+      "name": "Milovan",
+      "email": null,
+      "source": "workbook:Not homes!94"
+    }
+  ],
+  "contact_phones": [
+    "+38267406402"
+  ],
+  "phone_e164": "+38267406402",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 778,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

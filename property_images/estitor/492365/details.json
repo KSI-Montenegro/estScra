@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "492365",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-492365",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-492365"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 164,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_492365",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2019",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Parking": "Ne",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8c8d5e92-5b72-4de6-9a1e-61ed181b8a62-lg.webp",
+    "https://content.estitor.com/42e8ad2c-ca86-4fbc-939e-79787807ec9d-lg.webp",
+    "https://content.estitor.com/8805875d-d451-4b16-b804-3537a27f1486-lg.webp",
+    "https://content.estitor.com/75756ad7-c013-4157-8d64-3f2a95747d44-lg.webp",
+    "https://content.estitor.com/12907f5e-7965-4529-b8fe-40b456e03df4-lg.webp",
+    "https://content.estitor.com/00c780d1-d4ee-4981-b5aa-1ee7cd8e03a8-lg.webp",
+    "https://content.estitor.com/59983e21-d8f1-4ffe-95f5-35f3e8fc7798-lg.webp",
+    "https://content.estitor.com/6ca68252-b9a0-4167-a1df-614106d5ae80-lg.webp",
+    "https://content.estitor.com/9f289593-fe93-43c9-bbec-3e99426efca6-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Elegantan i komforan prostor, pogodan za razne varijante kancelarijskih poslova.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:59.324405+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.260827+00:00",
+  "source_html_sha256": "2c5a2e50b711e45a7d774c5cb701d85d8407f81c64a50da908b58711a950bd0e",
+  "title": "Izdavanje, poslovni prostor, 120m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-15",
+  "updated_date": "2026-10-26",
+  "price_amount": 1700,
+  "price_currency": "EUR",
+  "price_raw": "1700 EUR",
+  "area_m2": 120,
+  "rooms": 4,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marko Djurisic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ne",
+  "balconies": 3,
+  "year_built": 2019,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Elegantan i komforan prostor, pogodan za razne varijante kancelarijskih poslova.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!164",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267564414",
+      "name": "Marko Djurisic",
+      "email": null,
+      "source": "workbook:Not homes!164"
+    },
+    {
+      "phone_e164": "+38267564414",
+      "name": "Marko Djurisic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267564414"
+  ],
+  "phone_e164": "+38267564414",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "632182",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-632182",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-632182"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 62,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_632182",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Broj etaža": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Površina placa": "3000",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Podrum": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "3000"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6a8f1e52-c9f3-4ade-b23d-51e49b4895be-lg.webp",
+    "https://content.estitor.com/894dec25-ef91-4487-b50d-b2406d57f395-lg.webp",
+    "https://content.estitor.com/84ca6ef0-443f-42c3-9a85-2e06fce45cfa-lg.webp",
+    "https://content.estitor.com/0852e774-7da1-4dde-956d-0dd02793d12c-lg.webp",
+    "https://content.estitor.com/d7315e64-4b0d-4c76-ae8a-c3913ea64538-lg.webp",
+    "https://content.estitor.com/03054147-2ffa-4c14-b265-905cb3e31e69-lg.webp",
+    "https://content.estitor.com/aa0bdffc-6542-4b0d-afa8-1f154d2051a1-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izvanrednu priliku za iznajmljivanje prostrane kuće u mirnom naselju Gornja Gorica, Podgorica.\n\nOva opremljena kuća, površine 140.0 m², nudi komforan život na prizemlju. Raspolaže sa tri udobne spavaće sobe i jednim kupatilom. Kuća takođe obuhvata funkcionalnu kuhinju, trpezariju i prostrani hodnik, pružajući sve što je potrebno za udoban boravak.\n\nJedna od ključnih prednosti je prelijepo dvorište, idealno za opuštanje i boravak na otvorenom. Za vašu udobnost tokom cijele godine, kuća je opremljena klimatizacijom, internetom i kablovskom televizijom. Dodatni prostor za odlaganje obezbjeđuje podrum. Parking je dostupan ispred objekta.\n\nOva kuća je savršena za porodičan život, kombinujući prostranost, opremljenost i odličnu lokaciju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:23.738798+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.239460+00:00",
+  "source_html_sha256": "4409d3fd0d246c670346540ef351eae7ff89b1d6ab7d4201971dd4eb10e9c54f",
+  "title": "Izdavanje, kuća, 140m², Gornja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 140,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Alda Real",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "lot_area_m2": 3000,
+  "balconies": 2,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Podrum",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izvanrednu priliku za iznajmljivanje prostrane kuće u mirnom naselju Gornja Gorica, Podgorica. Ova opremljena kuća, površine 140.0 m², nudi komforan život na prizemlju. Raspolaže sa tri udobne spavać...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!62",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268121321",
+      "name": "Alda Real",
+      "email": null,
+      "source": "workbook:Likely agents!62"
+    },
+    {
+      "phone_e164": "+38268121321",
+      "name": "Alda Real",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268121321"
+  ],
+  "phone_e164": "+38268121321",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

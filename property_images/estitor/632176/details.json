@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "632176",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-632176",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-632176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 158,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_632176",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "2. sprat",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4340a21e-2785-4e2f-ab32-ba41bde6d028-lg.webp",
+    "https://content.estitor.com/b130000e-2f3a-4f4c-8089-b3ce1535b48e-lg.webp",
+    "https://content.estitor.com/a253740b-9799-465e-89a7-75f6dfbd15d5-lg.webp",
+    "https://content.estitor.com/b28e0f36-6d78-427d-8673-df51aa4de623-lg.webp",
+    "https://content.estitor.com/ce5521a0-7dfa-43cb-ab58-72c88d71482b-lg.webp",
+    "https://content.estitor.com/8c85647f-e680-45bb-b7d9-4fa3932f9383-lg.webp",
+    "https://content.estitor.com/ad74d236-8f60-484f-92b9-73ac7439ba52-lg.webp",
+    "https://content.estitor.com/03df3fb2-3382-4f89-8734-5239158a2ecd-lg.webp",
+    "https://content.estitor.com/f67c8025-c1e8-4681-8dbe-82e7ba86b7ef-lg.webp",
+    "https://content.estitor.com/090347cd-ff00-4571-b183-a83a2134238d-lg.webp",
+    "https://content.estitor.com/9e3606b4-30fe-41ad-8abd-d14e7f12b239-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Novogradnja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:55.018277+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.208619+00:00",
+  "source_html_sha256": "5000f0d0e919926f2cb7f0d65c9b90455b40ef78bd77969feb9170e7c2fe3ef1",
+  "title": "Izdavanje, poslovni prostor, 139m², Dalmatinska ulica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 139,
+  "rooms": 5,
+  "city": "Podgorica",
+  "street_address": "45 Dalmatinska, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Radenko Simović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 3,
+  "year_built": 2024,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Novogradnja.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!158",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267505505",
+      "name": "Radenko Simović",
+      "email": null,
+      "source": "workbook:Not homes!158"
+    },
+    {
+      "phone_e164": "+38267505505",
+      "name": "Radenko Simović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267505505"
+  ],
+  "phone_e164": "+38267505505",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

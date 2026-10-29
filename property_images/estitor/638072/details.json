@@ -1,0 +1,144 @@
+{
+  "source": "estitor",
+  "listing_id": "638072",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638072",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638072"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 584,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638072",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/00eed564-89be-4cbb-897d-db4fee4130ae-lg.webp",
+    "https://content.estitor.com/eee9918c-5dea-4960-bab3-53a7bd84958b-lg.webp",
+    "https://content.estitor.com/60c8374b-4e46-4310-afa8-833a3c8970d6-lg.webp",
+    "https://content.estitor.com/1aa08027-b23b-4cda-9daa-4db5b5707b03-lg.webp",
+    "https://content.estitor.com/4995ddf2-a00b-45f7-9464-b6ef191f03f3-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Odlčan za stanovanje, kozmetički salon, kancelariju... Na duži vremenski period.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:34.662386+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.275780+00:00",
+  "source_html_sha256": "9a98bd0e1af9d3d9ff724982312af4958e3fa6461861b6987ca1db5ea48967ff",
+  "title": "Izdavanje, jednosoban stan, 41m², Tuški Put, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-20",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 41,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "88 Bracana Bracanovića, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Kaluđerović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Odlčan za stanovanje, kozmetički salon, kancelariju... Na duži vremenski period.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!584",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267280200",
+      "name": "Ivan Kaluđerović",
+      "email": null,
+      "source": "workbook:Outreach list!584"
+    },
+    {
+      "phone_e164": "+38267280200",
+      "name": "Ivan Kaluđerović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267280200"
+  ],
+  "phone_e164": "+38267280200",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

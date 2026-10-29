@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "58540",
+  "listing_url": "https://patuljak.me/oglas/kuca-sa-velikim-placem--58540",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-sa-velikim-placem--58540"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 204,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_58540",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Sutomore",
+    "Broj soba": "6",
+    "Stambena kvadratura": "115 m2",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Kvadratura placa": "612 m2",
+    "Vrsta grijanja": "Ostalo",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58540_8.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Veliki plac 612m2 sa kućom u Sutomoru - Mirošica 2\nKatastarska parcela 720m2\nUrbanistička parcela 635KO Sutomore 819m2\nPredvidjena gradnja većeg objekta (stari urbanistički uslovi - dozvoljen stepen gradnje 1:1,8)\nKuća pod pločom opremljena za stanvanje oko 115m2+20m2 pomoćnih objekata\nMogućnost zamjene za Vrnjačku Banju, Podgoricu, Beograd, Novi Sad, Divčibare...\nInformacije na broj: +381 66 6161 610\nvioprom@gmail.com",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:24.757206+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.072713+00:00",
+  "source_html_sha256": "2ad845145754f7f5733acdc0ae2664ce78d2d464df5dc261ad17c59da9164186",
+  "title": "kuća sa velikim placem",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "nebojsa",
+  "property_type": "house",
+  "city": "Bar",
+  "district": "Sutomore",
+  "building_floors_raw": "1",
+  "room_layout_raw": "6",
+  "heating_raw": "Ostalo",
+  "area_m2": 115,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Veliki plac 612m2 sa kućom u Sutomoru - Mirošica 2Katastarska parcela 720m2Urbanistička parcela 635KO Sutomore 819m2Predvidjena gradnja većeg objekta (stari urbanistički uslovi - dozvoljen stepen gradnje 1:1,8)Kuća pod pločom opremljena za stanvanje oko 115m2+20m2 pomoćnih objekataMogućnost zamjene za Vrnjačku Banju, Podgoricu, Beograd, Novi Sad, Divčibare...Informacije na broj: +381 66 6161 610vioprom@gmail.com",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!204",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268423799",
+      "name": "nebojsa",
+      "email": null,
+      "source": "workbook:Outreach list!204"
+    }
+  ],
+  "contact_phones": [
+    "+38268423799"
+  ],
+  "phone_e164": "+38268423799",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

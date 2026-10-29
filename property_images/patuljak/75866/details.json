@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "75866",
+  "listing_url": "https://patuljak.me/oglas/prodajem-ostavu-u-sity-kvartuzgrada-celebic-preko--75866",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-ostavu-u-sity-kvartuzgrada-celebic-preko--75866"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 513,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75866",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!513:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj prostorija": "1",
+    "Stambena kvadratura": "6m2 m2",
+    "Sprat": "Suteren",
+    "Broj spratova": "1",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Beton",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Sjever",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Ostalo",
+    "Parking mjesto": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75866_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodajem funkcionalnu ostavu od 6m2 zgrada Celebic preko puta Super Volija, cijena 9.000€",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:59.397606+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.897117+00:00",
+  "source_html_sha256": "23258baf521f17deb5013f6d4063ddedda2e8b50ab87ab2a49cfc5541f146425",
+  "title": "Prodajem ostavu u Sity kvartu,zgrada Celebic preko puta Super volija",
+  "description_language": "en",
+  "price_raw": "9000.00€",
+  "price_amount": 9000,
+  "price_currency": "EUR",
+  "advertiser_name": "Milena",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "Suteren",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 6,
+  "amenities": [],
+  "metadata_summary": "Prodajem funkcionalnu ostavu od 6m2 zgrada Celebic preko puta Super Volija, cijena 9.000€ ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!513",
+      "notes": "check deal: sale at 9000 EUR looks like a rent",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269692652",
+      "name": "Milena",
+      "email": null,
+      "source": "workbook:Outreach list!513"
+    }
+  ],
+  "contact_phones": [
+    "+38269692652"
+  ],
+  "phone_e164": "+38269692652",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

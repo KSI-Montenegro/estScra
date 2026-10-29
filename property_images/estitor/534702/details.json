@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "534702",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-534702",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-534702"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 966,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_534702",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2008",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Sprat": "1"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/13ded104-c720-41fe-b68c-f47ff9d7fee1-lg.webp",
+    "https://content.estitor.com/dc21cc71-562a-498b-804c-bde881e3f1dd-lg.webp",
+    "https://content.estitor.com/05674ba3-3ad6-48b7-b066-ddcce0cb16cd-lg.webp",
+    "https://content.estitor.com/778ddc6d-9fd8-4073-b869-0cc70166821c-lg.webp",
+    "https://content.estitor.com/85f154af-2132-4886-a5f9-bc061cb8ea4d-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem garsonjeru u sklopu kuće u prizemlju. Odvojen ulaz i struja.\n\nMoguća korekcija",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:26.635013+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.366285+00:00",
+  "source_html_sha256": "b7cca43b1fbeac58397f0750f574bc2942411b49cb609d649d2d0b65a15a80ea",
+  "title": "Izdavanje, kuća, 25m², Bijelo Polje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-17",
+  "updated_date": "2026-10-29",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 25,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Danijela Sebek",
+  "deal_type": "rent",
+  "property_type": "house",
+  "floor_raw": "1",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2008,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Dvorište",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem garsonjeru u sklopu kuće u prizemlju. Odvojen ulaz i struja.Moguća korekcija",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!966",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267579425",
+      "name": "Danijela Sebek",
+      "email": null,
+      "source": "workbook:Outreach list!966"
+    },
+    {
+      "phone_e164": "+38267579425",
+      "name": "Danijela Sebek",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267579425"
+  ],
+  "phone_e164": "+38267579425",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

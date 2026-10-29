@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "611706",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-611706",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-611706"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 842,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611706",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/296b6aae-ae25-4782-bd98-af645d7c01a1-lg.webp",
+    "https://content.estitor.com/4d09dbde-331e-4e94-84f2-bd46372a126f-lg.webp",
+    "https://content.estitor.com/5e0c8c48-8e8a-4b5b-8c99-b2aadb732dfe-lg.webp",
+    "https://content.estitor.com/cafb57de-3c9c-4614-b864-c9c6ffd2ae90-lg.webp",
+    "https://content.estitor.com/ddb63099-ba8f-4d25-988c-33166f9dd3fa-lg.webp",
+    "https://content.estitor.com/f7e1439e-3205-49b8-8dad-e42e812d8b59-lg.webp",
+    "https://content.estitor.com/290f0f1a-2def-4595-81c1-43294750ba74-lg.webp",
+    "https://content.estitor.com/82a50c06-35d6-485e-a18b-7b5e9d4d759b-lg.webp",
+    "https://content.estitor.com/2abb5aa4-dfcb-4bb0-9368-e21246fc7126-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi u centru Kolašina (preko puta restorana Vodenice), tik uz rijeku, a sve 120 m udaljen od centra grada. Stan je jednosoban, potpuno opremljen do najsitnijih detalja. Nalazi se na prvom spratu u zgradi koja ima samo prvi sprat i potkrovlje. Posjeduje svoje parking mjesto. Izdaje se samo na duge staze. Stan je potpuno nov, novogradnja i neuseljivan. Za više informacija pišite na Viber. Lux, miran kraj, odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:04.350318+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.251037+00:00",
+  "source_html_sha256": "812f959dc9ffe71289f12fe64663c449ae59122bb8d2f4419e133fd8e12d9c44",
+  "title": "Izdavanje, jednosoban stan, 42m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-07",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kolašin",
+  "street_address": "Breza, Kolasin, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Milica Vukcevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stan se nalazi u centru Kolašina (preko puta restorana Vodenice), tik uz rijeku, a sve 120 m udaljen od centra grada. Stan je jednosoban, potpuno opremljen do najsitnijih detalja. Nalazi se na prvom spratu u zgradi ko...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!842",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268237678",
+      "name": "Milica Vukcevic",
+      "email": null,
+      "source": "workbook:Outreach list!842"
+    },
+    {
+      "phone_e164": "+38268237678",
+      "name": "Milica Vukcevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268237678"
+  ],
+  "phone_e164": "+38268237678",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

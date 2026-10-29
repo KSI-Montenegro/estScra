@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "2763",
+  "listing_url": "https://patuljak.me/oglas/plac-600m2-niksic-prodaja--2763",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-600m2-niksic-prodaja--2763"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 122,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_2763",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!122:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Kličevo",
+    "Broj prostorija": "8+",
+    "Sprat": "1",
+    "Broj spratova": "1",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Ostalo",
+    "Vrsta grijanja": "Ostalo",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Ostalo",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "600 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/04/2763_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodajem Plac od 600m2, u ulici Stubickoj, naselje Klicevo, Niksic, na mirnoj lokaciji. Plac se nalazi uz asfaltni put. Voda i struja uz sami plac. Kontakt 067537838 za sve dodatne informaciju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:36.602746+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.951924+00:00",
+  "source_html_sha256": "744fe89ba932480bd5469806017c34996bca96a5eb21c2c8ee0a53131a0d27e3",
+  "title": "Plac, 600m2, Niksic, Prodaja",
+  "description_language": "en",
+  "price_raw": "30.00€",
+  "price_amount": 30,
+  "price_currency": "EUR",
+  "advertiser_name": "S",
+  "property_type": "commercial",
+  "city": "Nikšić",
+  "district": "Kličevo",
+  "floor_raw": "1",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Ostalo",
+  "parking_raw": "3 i više",
+  "area_m2": 600,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Prodajem Plac od 600m2, u ulici Stubickoj, naselje Klicevo, Niksic, na mirnoj lokaciji. Plac se nalazi uz asfaltni put. Voda i struja uz sami plac. Kontakt 067537838 za sve dodatne informaciju.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!122",
+      "notes": "check deal: sale at 30 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268640621",
+      "name": "S",
+      "email": null,
+      "source": "workbook:Not homes!122"
+    }
+  ],
+  "contact_phones": [
+    "+38268640621"
+  ],
+  "phone_e164": "+38268640621",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,127 @@
+{
+  "source": "patuljak",
+  "listing_id": "74700",
+  "listing_url": "https://patuljak.me/oglas/hangar-za-izdavanje--74700",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hangar-za-izdavanje--74700"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 894,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74700",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!894:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Kotor",
+    "Naselje": "Sutvara",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74700_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74700_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se hangar – magacinski prostor\nIzdaje se hangar površine 140 m², pogodan za magacinski prostor, skladište, radionicu ili poslovnu namjenu.\n???? Odlična lokacija – nalazi se uz glavni magistralni put, sa velikim parkingom i prostorom za manipulaciju ispred objekta.\nKarakteristike:\nPovršina: 140 m²\nVelika segmentna vrata za jednostavan ulaz i izlaz vozila\nVisina objekta: 4,5 m\nStruja i voda\nVideo nadzor\nVeliki parking ispred hangara\nOdličan pristup i povezanost sa magistralnim putem\n\nProstor je pogodan za različite vrste djelatnosti i skladištenje robe, opreme, materijala i vozila.\n\nZa više informacija i dogovor oko obilaska, pozvati na 069429180 ili 069450601",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:40.896814+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.757636+00:00",
+  "source_html_sha256": "f5921543f15a3d1280adc5d1d3ba9ade0682010f23a904513d83e192d3edcd53",
+  "title": "Hangar za izdavanje",
+  "description_language": "en",
+  "price_raw": "1000.00€",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "advertiser_name": "Dado",
+  "property_type": "commercial",
+  "city": "Kotor",
+  "district": "Sutvara",
+  "amenities": [],
+  "metadata_summary": "Izdaje se hangar – magacinski prostorIzdaje se hangar površine 140 m², pogodan za magacinski prostor, skladište, radionicu ili poslovnu namjenu.???? Odlična lokacija – nalazi se uz glavni magistralni put, sa velikim parkingom i prostorom za manipulaciju ispred objekta.Karakteristike:Površina: 140 m²Velika segmentna vrata za jednostavan ulaz i izlaz vozilaVisina objekta: 4,5 mStruja i vodaVideo nadzorVeliki parking ispred hangaraOdličan pristup i povezanost sa magistralnim putemProstor je pogodan za različite vrste djelatnosti i skladištenje robe, opreme, materijala i vozila.Za više informacija i dogovor oko obilaska, pozvati na 069429180 ili 069450601",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!894",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269429180",
+      "name": "Dado",
+      "email": null,
+      "source": "workbook:Outreach list!894"
+    }
+  ],
+  "contact_phones": [
+    "+38269429180"
+  ],
+  "phone_e164": "+38269429180",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

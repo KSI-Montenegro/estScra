@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "569792",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-569792",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-569792"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 656,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_569792",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/fe412909-0288-4c6a-83ef-0a28ed077d50-lg.webp",
+    "https://content.estitor.com/fe35f1e3-cdc2-4f69-aea1-2b46a7375332-lg.webp",
+    "https://content.estitor.com/ba6a4740-6a44-45fb-8565-1c408f72fb8e-lg.webp",
+    "https://content.estitor.com/6dc22d49-a565-4bfa-a243-7eca3552151a-lg.webp",
+    "https://content.estitor.com/83054b4c-321b-4079-8518-fda9d7607b0c-lg.webp",
+    "https://content.estitor.com/39d8760c-8a21-420e-976f-43c6c9b65ca3-lg.webp",
+    "https://content.estitor.com/6e437e19-6798-4541-b591-0fd669c96ddd-lg.webp",
+    "https://content.estitor.com/3f8fd956-3a2a-42e4-ba15-0de213e515e2-lg.webp",
+    "https://content.estitor.com/bff59890-2db1-4d1d-a6db-6e62ca516644-lg.webp",
+    "https://content.estitor.com/94c76973-b73c-4fea-a20e-a7937e97cd2a-lg.webp",
+    "https://content.estitor.com/7f03a163-3f57-41e5-af9c-0796f6d0751e-lg.webp",
+    "https://content.estitor.com/975a4436-baaf-4702-a12c-99a743fc6212-lg.webp",
+    "https://content.estitor.com/ef132f52-bd93-4577-bbea-30cbadd41653-lg.webp",
+    "https://content.estitor.com/8ae2913d-21e6-476d-9469-94b4b76b03de-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban stan na Starom Aerodromu, na kružnom toku u kompleksu Dadi gradnja. Stan se nalazi na drugom spratu. Opremljen je sa komplet novim stvarima i multi split klimom za grijanje i hlađenje u svim sobama. Posjeduje veliki dnevni boravak sa kuhinjom i trpezarijom, dvije spavaće sobe, dva kupatila i veliku terasu sa izlazom iz svake sobe. Zgrada posjeduje dva lifta. Garažno mjesto obezbijeđeno.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:10.178790+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.665316+00:00",
+  "source_html_sha256": "bf4a8af176f0cbd08f1979beb29e8f6f6c7ed9fe70b5920eacb864d906e3d24c",
+  "title": "Izdavanje, dvosoban stan, 64m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-15",
+  "updated_date": "2026-09-27",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 64,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Darko Jokic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdajem dvosoban stan na Starom Aerodromu, na kružnom toku u kompleksu Dadi gradnja. Stan se nalazi na drugom spratu. Opremljen je sa komplet novim stvarima i multi split klimom za grijanje i hlađenje u svim sobama. P...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!656",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268786076",
+      "name": "Darko Jokic",
+      "email": null,
+      "source": "workbook:Outreach list!656"
+    },
+    {
+      "phone_e164": "+38268786076",
+      "name": "Darko Jokic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268786076"
+  ],
+  "phone_e164": "+38268786076",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

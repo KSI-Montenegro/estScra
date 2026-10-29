@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "630837",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630837",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630837"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 306,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630837",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "7. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2013",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c52aebaa-2ca2-4de1-bc09-03baaf8c4229-lg.webp",
+    "https://content.estitor.com/624e74d1-1eac-417c-ac74-bd208146de5d-lg.webp",
+    "https://content.estitor.com/4649d68e-e7c1-444f-afbb-65c99489059e-lg.webp",
+    "https://content.estitor.com/427ba918-2418-47b8-91ae-5222686e9b8f-lg.webp",
+    "https://content.estitor.com/dc5b2160-890f-4b1f-b348-428c65ade140-lg.webp",
+    "https://content.estitor.com/7f9ac328-0a08-4728-909e-c006ce7cd325-lg.webp",
+    "https://content.estitor.com/12f9ca14-9906-408d-88b6-05e61b6318e7-lg.webp",
+    "https://content.estitor.com/1e9eb5b2-d178-4af8-9ba1-a88bb78cbb7a-lg.webp",
+    "https://content.estitor.com/ca376adf-dc28-4c0e-a365-9f7372e43e09-lg.webp",
+    "https://content.estitor.com/0a9d5b85-96a6-4182-bc54-99e3dce92a4e-lg.webp",
+    "https://content.estitor.com/15902eb2-0901-430d-8f6b-0962468676cf-lg.webp",
+    "https://content.estitor.com/94cb1efa-3054-4624-899d-d20520524bdb-lg.webp",
+    "https://content.estitor.com/34000580-9889-4eb9-8b03-dd83dd441539-lg.webp",
+    "https://content.estitor.com/148b6b44-eec2-4a65-9793-257f497d8383-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan jednosoban stan za izdavanje u Budvi, idealan za dugoročni boravak. Ovaj lijepo i potpuno opremljen stan, površine 50 m², nudi sve što je potrebno za udoban život.\nUživajte u predivnom pogledu na more direktno iz stana, smještenog na mirnoj i prijatnoj lokaciji, pogodnoj za život tokom cijele godine. Stan je spreman za useljenje i sadrži jednu spavaću sobu, jedno kupatilo, moderno opremljenu kuhinju, trpezariju, dnevnu sobu i prostran hodnik.\nDostupne pogodnosti uključuju klimatizaciju, brzi internet i kablovsku televiziju, kao i lift u zgradi. Javni parking je obezbijeđen neposredno ispred zgrade, što doprinosi praktičnosti svakodnevnog života.\nZa više informacija i dogovor oko razgledanja, molimo Vas da se obratite.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:14.153026+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.698189+00:00",
+  "source_html_sha256": "ebbb396ba61bc05b72f7602b4e4e3ec5e7103b09cb8a9192b864b37386558b2d",
+  "title": "Izdavanje, jednosoban stan, 50m², Dubovica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-25",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "73 Žrtava Fašizma, Budva 81310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Marović Milica",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "7. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "year_built": 2013,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan jednosoban stan za izdavanje u Budvi, idealan za dugoročni boravak. Ovaj lijepo i potpuno opremljen stan, površine 50 m², nudi sve što je potrebno za udoban život.Uživajte u predivnom pogled...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!306",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267171789",
+      "name": "Marović Milica",
+      "email": null,
+      "source": "workbook:Outreach list!306"
+    },
+    {
+      "phone_e164": "+38267171789",
+      "name": "Marović Milica",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267171789"
+  ],
+  "phone_e164": "+38267171789",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

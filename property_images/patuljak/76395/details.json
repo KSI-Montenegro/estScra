@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "76395",
+  "listing_url": "https://patuljak.me/oglas/izdavanje--76395",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje--76395"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 941,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76395",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!941:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "41 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "IzDAJE SE MODERAN JEDNOSOBAN STAN | ZABJELO | PODGORICA\n\nU ponudi je moderno opremljen jednosoban stan površine 41 m², smješten na 1. spratu stambene zgrade sa liftom, u ulici Filipa Lainovića 5, na jednoj od najpraktičnijih lokacija u naselju Zabjelo.\n\nStan je pažljivo uređen, funkcionalnog rasporeda i u potpunosti opremljen, pružajući budućim zakupcima udoban i kvalitetan život bez dodatnih ulaganja. Idealan je za jednu osobu ili par koji žele mirnu lokaciju, a istovremeno odličnu povezanost sa svim dijelovima grada.\n\n✨ Karakteristike stana:\n????️ Jedna spavaća soba\n????️ Prostran dnevni boravak sa trpezarijom\n????️ Potpuno opremljena kuhinja\n???? Kupatilo\n???? Zastakljena terasa\n???? Dva velika garderobera\n???? Mašina za pranje veša\n????️ Mašina za pranje suđa\n\n???? Lokacija: Filipa Lainovića 5, Zabjelo\n\nOdlična lokacija omogućava da vam svi važni sadržaji budu nadohvat ruke:\n\n???? 2 minuta do Velikog Hard Diskonta Laković i Burger Kinga\n???? 5 minuta do Jumba i Extra Retail Parka\n???? 10 minuta do Mall of Montenegro\n\nU neposrednoj blizini nalaze se škole, vrtići, marketi, apoteke, restorani, kafići i brojni drugi sadržaji koji ovu lokaciju čine idealnom za svakodnevni život.\n\nKućni ljubimci nisu dozvoljeni\nCijena zakupa: 450 € mjesečno\n\n067/210-806",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:10.204705+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.205665+00:00",
+  "source_html_sha256": "bf83d5e035dbfdd2fa46941b2c217769b6381e62c7922e7c93a2fc5dd9f217c7",
+  "title": "Izdavanje",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "Go Rent",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "3 i više",
+  "area_m2": 41,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "IzDAJE SE MODERAN JEDNOSOBAN STAN | ZABJELO | PODGORICAU ponudi je moderno opremljen jednosoban stan površine 41 m², smješten na 1. spratu stambene zgrade sa liftom, u ulici Filipa Lainovića 5, na jednoj od najpraktičnijih lokacija u naselju Zabjelo.Stan je pažljivo uređen, funkcionalnog rasporeda i u potpunosti opremljen, pružajući budućim zakupcima udoban i kvalitetan život bez dodatnih ulaganja. Idealan je za jednu osobu ili par koji žele mirnu lokaciju, a istovremeno odličnu povezanost sa svim dijelovima grada.✨ Karakteristike stana:????️ Jedna spavaća soba????️ Prostran dnevni boravak sa trpezarijom????️ Potpuno opremljena kuhinja???? Kupatilo???? Zastakljena terasa???? Dva velika garderobera???? Mašina za pranje veša????️ Mašina za pranje suđa???? Lokacija: Filipa Lainovića 5, ZabjeloOdlična lokacija omogućava da vam svi važni sadržaji budu nadohvat ruke:???? 2 minuta do Velikog Hard Diskonta Laković i Burger Kinga???? 5 minuta do Jumba i Extra Retail Parka???? 10 minuta do Mall of MontenegroU neposrednoj blizini nalaze se škole, vrtići, marketi, apoteke, restorani, kafići i brojni drugi sadržaji koji ovu lokaciju čine idealnom za svakodnevni život.Kućni ljubimci nisu dozvoljeni Cijena zakupa: 450 € mjesečno067/210-806",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!941",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269170900",
+      "name": "Go Rent",
+      "email": null,
+      "source": "workbook:Outreach list!941"
+    }
+  ],
+  "contact_phones": [
+    "+38269170900"
+  ],
+  "phone_e164": "+38269170900",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

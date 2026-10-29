@@ -1,0 +1,166 @@
+{
+  "source": "patuljak",
+  "listing_id": "586937",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-imanje-11-000m2-podgorica--586937",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-imanje-11-000m2-podgorica--586937"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 227,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_586937",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!227:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ostalo",
+    "Broj soba": "2",
+    "Broj spratova": "1",
+    "Namještena": "Ne",
+    "Vrsta poda": "Pločice",
+    "Stambena kvadratura": "90 m2",
+    "Kvadratura placa": "11 000 m2",
+    "Kvadratura balkona": "20 m2",
+    "Balkon": true,
+    "Voda": true,
+    "Telefonski priključak": true,
+    "Pomoćni objekti": true
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 90,
+      "workbook_value": 0,
+      "source": "workbook:Outreach list!227"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/586937_6.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "PRODAJE SE PRELIJEPO IMANJE OD 11.000 m² - SAMO 15 MINUTA OD PODGORICE!\nOvo jedinstveno imanje u Stanjevića Rupi kod Spuža pruža savršenu priliku za sve koji žele svoj kutak mira, bilo za porodični dom, poljoprivredu ili razvoj etno sela.\nKuća od 90 m² sa modernom demit fasadom i prostranom terasom od 20 m² sa pogledom na cijelo imanje.\nUnutrašnjost kuće: ulazni hodnik, svijetao dnevni boravak sa trpezarijom i kuhinjom, 2 spavaće sobe i kupatilo.\nVeliko dvorište od 500 m² savršeno za uživanje na otvorenom.\nPomoćni objekti od 80 m² sa garsonjerom.\nNa 7.000 m² postavljene su protivgradne mreže i posađeno je 28 višanja, 44 šljive.\nImanje obuhvata i 3.000 m² šume – prirodni raj!\n✨ Idealno za poljoprivredne aktivnosti, ulaganje ili razvoj autentičnog etno sela.\nMogućnost izdavanja za 800 € mjesečno – odlična investicija!\nNe propustite priliku da postanete vlasnik ovog prelijepog imanja u mirnom kraju, a opet blizu grada.\nKontaktirajte nas odmah za više informacija i razgledanje!\n\nBEAUTIFUL 11,000 m² PROPERTY FOR SALE – ONLY 15 MINUTES FROM PODGORICA!\nThis unique estate in Stanjevića Rupa near Spuž offers the perfect opportunity for anyone seeking their own peaceful retreat, whether for a family home, agriculture, or developing an ethno village.\n90 m² house with a modern thermal insulation facade and a spacious 20 m² terrace overlooking the entire property. The interior includes an entrance hallway, bright living room with dining area and kitchen, 2 bedrooms, and a bathroom. The large 500 m² yard is perfect for enjoying the outdoors.\n80 m² auxiliary buildings including a studio apartment. On 7,000 m² there are hail protection nets installed and 28 sour cherry and 44 plum trees planted. The property also includes 3,000 m² of forest – a natural paradise!\n✨ Ideal for agricultural activities, investment, or developing an authentic ethno village. Rental potential of €800 per month – an excellent investment!\nDon’t miss the chance to own this beautiful estate in a peaceful area, yet close to the city. Contact us now for more information and a viewing!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:38.492441+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.204104+00:00",
+  "source_html_sha256": "4ce24b48478792494ba6ad1d437d9229f245af245b9d96d94026367835069a04",
+  "title": "Na prodaju imanje 11 000m2, Podgorica",
+  "description_language": "en",
+  "price_raw": "309000.00€",
+  "price_amount": 309000,
+  "price_currency": "EUR",
+  "advertiser_name": "Srđan",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Ostalo",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "area_m2": 90,
+  "amenities": [
+    "Balkon",
+    "Voda",
+    "Telefonski priključak",
+    "Pomoćni objekti"
+  ],
+  "metadata_summary": "PRODAJE SE PRELIJEPO IMANJE OD 11.000 m² - SAMO 15 MINUTA OD PODGORICE!Ovo jedinstveno imanje u Stanjevića Rupi kod Spuža pruža savršenu priliku za sve koji žele svoj kutak mira, bilo za porodični dom, poljoprivredu ili razvoj etno sela.Kuća od 90 m² sa modernom demit fasadom i prostranom terasom od 20 m² sa pogledom na cijelo imanje.Unutrašnjost kuće: ulazni hodnik, svijetao dnevni boravak sa trpezarijom i kuhinjom, 2 spavaće sobe i kupatilo.Veliko dvorište od 500 m² savršeno za uživanje na otvorenom.Pomoćni objekti od 80 m² sa garsonjerom.Na 7.000 m² postavljene su protivgradne mreže i posađeno je 28 višanja, 44 šljive.Imanje obuhvata i 3.000 m² šume – prirodni raj!✨ Idealno za poljoprivredne aktivnosti, ulaganje ili razvoj autentičnog etno sela.Mogućnost izdavanja za 800 € mjesečno – odlična investicija!Ne propustite priliku da postanete vlasnik ovog prelijepog imanja u mirnom kraju, a opet blizu grada.Kontaktirajte nas odmah za više informacija i razgledanje!BEAUTIFUL 11,000 m² PROPERTY FOR SALE – ONLY 15 MINUTES FROM PODGORICA!This unique estate in Stanjevića Rupa near Spuž offers the perfect opportunity for anyone seeking their own peaceful retreat, whether for a family home, agriculture, or developing an ethno village.90 m² house with a modern thermal insulation facade and a spacious 20 m² terrace overlooking the entire property. The interior includes an entrance hallway, bright living room with dining area and kitchen, 2 bedrooms, and a bathroom. The large 500 m² yard is perfect for enjoying the outdoors.80 m² auxiliary buildings including a studio apartment. On 7,000 m² there are hail protection nets installed and 28 sour cherry and 44 plum trees planted. The property also includes 3,000 m² of forest – a natural paradise!✨ Ideal for agricultural activities, investment, or developing an authentic ethno village. Rental potential of €800 per month – an excellent investment!Don’t miss the chance to own this beautiful estate in a peaceful area, yet close to the city. Contact us now for more information and a viewing!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!227",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267747241",
+      "name": "Srđan",
+      "email": null,
+      "source": "workbook:Outreach list!227"
+    }
+  ],
+  "contact_phones": [
+    "+38267747241"
+  ],
+  "phone_e164": "+38267747241",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "29339",
+  "listing_url": "https://patuljak.me/oglas/imanje-62ha-sa-starom-kucom-4-km-od-centra-selo-ra--29339",
+  "listing_urls": [
+    "https://patuljak.me/oglas/imanje-62ha-sa-starom-kucom-4-km-od-centra-selo-ra--29339"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 779,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_29339",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bijelo Polje",
+    "Naselje": "Resnik",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "62000 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_1.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Prodaje se poljoprivredno imanje, ukupne površine 6,02 ha, sa starom porodičnom kućom, kojoj je potrebna rekonstrukcija, u selu Rastoka-Bijelo Polje, 4 km od Centra grada.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:19.224620+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.503201+00:00",
+  "source_html_sha256": "397cde75e1e14682b16bb5badb5f90d87ddd6bff58e32bd6b232881f805ee8ce",
+  "title": "Imanje 6,2ha, sa starom kućom, 4 km od Centra, Selo Rastoka",
+  "description_language": "en",
+  "price_raw": "120000.00€",
+  "price_amount": 120000,
+  "price_currency": "EUR",
+  "advertiser_name": "Jadranka",
+  "property_type": "land",
+  "city": "Bijelo Polje",
+  "district": "Resnik",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se poljoprivredno imanje, ukupne površine 6,02 ha, sa starom porodičnom kućom, kojoj je potrebna rekonstrukcija, u selu Rastoka-Bijelo Polje, 4 km od Centra grada.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!779",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267855578",
+      "name": "Jadranka",
+      "email": null,
+      "source": "workbook:Outreach list!779"
+    }
+  ],
+  "contact_phones": [
+    "+38267855578"
+  ],
+  "phone_e164": "+38267855578",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 62000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

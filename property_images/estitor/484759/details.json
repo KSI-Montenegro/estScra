@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "484759",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-484759",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-484759"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 814,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_484759",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Podrum",
+    "Broj terasa": "1",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/84aa6656-e419-45a3-9ad8-5337ec88b3a7-lg.webp",
+    "https://content.estitor.com/c1e004ba-ee32-44a2-bc2c-86847c2e0764-lg.webp",
+    "https://content.estitor.com/423f11c2-0b0c-4e52-ab70-8a35a1745b59-lg.webp",
+    "https://content.estitor.com/c76a8ed7-4f4c-4f54-9783-8b41024e8911-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem stan na prizemlju u Igalo kod HDL",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:44.366211+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.961469+00:00",
+  "source_html_sha256": "1be5b873c4fb6a6d1895cafb6dfb0a2a2d82bff0f3203a5b80015d6fc14a1cef",
+  "title": "Izdavanje, jednosoban stan, 40m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2025-10-24",
+  "updated_date": "2026-10-05",
+  "price_amount": 330,
+  "price_currency": "EUR",
+  "price_raw": "330 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Danica Danica",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Podrum",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem stan na prizemlju u Igalo kod HDL",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!814",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269715707",
+      "name": "Danica Danica",
+      "email": null,
+      "source": "workbook:Outreach list!814"
+    },
+    {
+      "phone_e164": "+38269715707",
+      "name": "Danica Danica",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269715707"
+  ],
+  "phone_e164": "+38269715707",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

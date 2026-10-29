@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "536034",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-536034",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-536034"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 810,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_536034",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Podrum": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/810c4722-d9e6-45a5-a27f-dc0ff6307c1f-lg.webp",
+    "https://content.estitor.com/a57024f5-4b84-4cd7-9bae-faebc2cada7c-lg.webp",
+    "https://content.estitor.com/d488b6da-d3af-4a31-8426-5dbb6965e9ba-lg.webp",
+    "https://content.estitor.com/c47e9cb0-7471-4a20-81ae-db481cee2145-lg.webp",
+    "https://content.estitor.com/360e5015-5b5f-4388-9ea0-f2dd67add321-lg.webp",
+    "https://content.estitor.com/d8e6f054-9728-4643-a07f-7b4ba8439f52-lg.webp",
+    "https://content.estitor.com/00567a52-2234-4727-bf99-34bc397139ad-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i lijepo uređen dvosoban stan od 65.0 m², smješten u samom srcu Kolašina, Centar. Ova izuzetna nekretnina nalazi se u neposrednoj blizini poznatog kafića Balkan, nudeći idealnu poziciju za urban život sa svim gradskim sadržajima na dohvat ruke. Stan je kompletno opremljen i spreman za useljenje. Sastoji se od dvije udobne spavaće sobe, jednog kupatila, prostrane kuhinje, trpezarije, ulaznog hodnika, ostave i predsoblja, pružajući funkcionalan raspored za maksimalan komfor. Svaki detalj je pažljivo osmišljen kako bi se obezbijedio prijatan životni prostor. Za vašu udobnost, stan je opremljen klimatizacijom, brzim internetom, telefonom i kablovskom televizijom. Sigurnost je obezbijeđena interfonom, a dodatni prostor za odlaganje stvari nudi podrumska prostorija. Pristup javnom parkingu u okolini čini svakodnevni život još praktičnijm. Stan je slobodan od 01.09.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:40.801143+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.902451+00:00",
+  "source_html_sha256": "c0a64b1136b7f51b100d381668501ca6141744d774e0e0f8a5a0856a02e20f94",
+  "title": "Izdavanje, dvosoban stan, 65m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-20",
+  "updated_date": "2026-10-07",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kolašin",
+  "street_address": "15 Milivoja Bulatovića, Kolašin, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Vuksanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Podrum",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se moderan i lijepo uređen dvosoban stan od 65.0 m², smješten u samom srcu Kolašina, Centar. Ova izuzetna nekretnina nalazi se u neposrednoj blizini poznatog kafića Balkan, nudeći idealnu poziciju za urban živo...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!810",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269888636",
+      "name": "Nikola Vuksanovic",
+      "email": null,
+      "source": "workbook:Outreach list!810"
+    },
+    {
+      "phone_e164": "+38269888636",
+      "name": "Nikola Vuksanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269888636"
+  ],
+  "phone_e164": "+38269888636",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

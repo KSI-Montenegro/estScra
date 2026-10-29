@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "81600",
+  "listing_url": "https://patuljak.me/oglas/izdajemojednosoban-stan--81600",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajemojednosoban-stan--81600"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 447,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81600",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!447:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Polunamješten",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Primarna orijentacija": "Jugozapad",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "48 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81600_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "ИЗДАЈЕМО❗❗❗(Једнособан стан)\n\nНов-неусељаван једнособан стан П48м2, на другом спрату (зграда поседује лифт).\n\nНалази се на Забјелу код Еко-пумпе, улица Воислављевића.\nСтан је опремљен новим кухињским елементима и апаратима, такође постоји могућност додатног опремања по жељи будућег купца.\n\nПозициониран је југо-западно.\nЗграда поседује сопствени паркинг простор.\n\nИздаје се на дужи период уз обавезан депозит.\n\n????380€\n????068/800-223",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:25.406965+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.523680+00:00",
+  "source_html_sha256": "6df9c830a214498ab5e63b89debeeb5b3876d6326ece0ab47260f086f4488909",
+  "title": "IZDAJEMO(Jednosoban stan).",
+  "description_language": "en",
+  "price_raw": "380.00€",
+  "price_amount": 380,
+  "price_currency": "EUR",
+  "advertiser_name": "Aleksandar",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 48,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "ИЗДАЈЕМО❗❗❗(Једнособан стан)Нов-неусељаван једнособан стан П48м2, на другом спрату (зграда поседује лифт).Налази се на Забјелу код Еко-пумпе, улица Воислављевића.Стан је опремљен новим кухињским елементима и апаратима, такође постоји могућност додатног опремања по жељи будућег купца.Позициониран је југо-западно.Зграда поседује сопствени паркинг простор.Издаје се на дужи период уз обавезан депозит.????380€????068/800-223",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!447",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268800223",
+      "name": "Aleksandar",
+      "email": null,
+      "source": "workbook:Outreach list!447"
+    }
+  ],
+  "contact_phones": [
+    "+38268800223"
+  ],
+  "phone_e164": "+38268800223",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

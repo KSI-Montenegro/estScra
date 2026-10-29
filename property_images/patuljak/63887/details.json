@@ -1,0 +1,150 @@
+{
+  "source": "patuljak",
+  "listing_id": "63887",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-zemljiste-10000m-selo-duba-pluzine--63887",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-zemljiste-10000m-selo-duba-pluzine--63887"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 103,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_63887",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!103:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Plužine",
+    "Naselje": "Brezna",
+    "Adresa": "https://maps.app.goo.gl/hfB3NjtCiuQsqKnb8",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "10000 m2"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 10000,
+      "workbook_value": 0,
+      "source": "workbook:Not homes!103"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_16.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Prodaje se zemljište površine 10.000 m² u selu Duba opština Plužine.Plac se nalazi na dobroj lokaciji u netaknutoj prirodi u blizini kanjona Komarnice i područja buduće hidroelektrane.\n\nKarakteristike\n\nPovršina do 10.000 m²\nPrilazni put do placa\nStruja u neposrednoj blizini\nMirna lokacijja pogodna za vikendicu,etno-selo,turistički objekat ili poljoprivredu\n\nZa više informacija i dogovor oko obilaska,kontakt putem telefona ili poruke\nKontakt-069 214 334",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:25.581739+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.817082+00:00",
+  "source_html_sha256": "d2c89f3dd741a92e1f6999e5da5beb40ad7e8214d61ffe3abe50ed4a72ed33ff",
+  "title": "Na prodaju zemljište 10000m², selo Duba, Plužine",
+  "description_language": "en",
+  "price_raw": "10.00€",
+  "price_amount": 10,
+  "price_currency": "EUR",
+  "advertiser_name": "Radoman",
+  "property_type": "land",
+  "city": "Plužine",
+  "district": "Brezna",
+  "street_address": "https://maps.app.goo.gl/hfB3NjtCiuQsqKnb8",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se zemljište površine 10.000 m² u selu Duba opština Plužine.Plac se nalazi na dobroj lokaciji u netaknutoj prirodi  u blizini kanjona Komarnice i područja buduće hidroelektrane.KarakteristikePovršina do 10.000 m²Prilazni put do placaStruja u neposrednoj bliziniMirna lokacijja pogodna za vikendicu,etno-selo,turistički objekat ili poljoprivreduZa više informacija i dogovor oko obilaska,kontakt putem telefona ili porukeKontakt-069 214 334",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!103",
+      "notes": "check deal: sale at 10 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269214334",
+      "name": "Radoman",
+      "email": null,
+      "source": "workbook:Not homes!103"
+    }
+  ],
+  "contact_phones": [
+    "+38269214334"
+  ],
+  "phone_e164": "+38269214334",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 10000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

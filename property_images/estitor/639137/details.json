@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "639137",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-639137",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-639137"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 263,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639137",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4fdfc65a-a88d-455e-b3e3-2c9e6eaa3d15-lg.webp",
+    "https://content.estitor.com/2f1d0d30-8454-499a-bd1f-cec5103f0444-lg.webp",
+    "https://content.estitor.com/6cec5a65-6009-4e9a-84e3-76b81532745a-lg.webp",
+    "https://content.estitor.com/7136771d-a7c5-4d17-9325-ddf9f32be26a-lg.webp",
+    "https://content.estitor.com/a35a8200-795c-4fd1-b9b8-92696dd62d71-lg.webp",
+    "https://content.estitor.com/14777dc7-0b93-41b6-9126-dfade0a2290d-lg.webp",
+    "https://content.estitor.com/1d1323d9-6a28-4db6-ba50-9c17dbc128bf-lg.webp",
+    "https://content.estitor.com/72265724-e0c3-4a41-9d5b-4d0b77de1b0a-lg.webp",
+    "https://content.estitor.com/4e847e10-1a5b-4ce8-9752-74aa63634a2d-lg.webp",
+    "https://content.estitor.com/a4f27267-2f80-42ff-90dc-644df32c170e-lg.webp",
+    "https://content.estitor.com/52de06c3-cd60-4967-8c58-394d31c4e921-lg.webp",
+    "https://content.estitor.com/8c796a7e-161f-4bc8-adaf-0997fb688478-lg.webp",
+    "https://content.estitor.com/9308e046-756f-4f3f-85fa-da83f6de9b9e-lg.webp",
+    "https://content.estitor.com/2fa5a9f2-33df-4cde-a5bd-6c3d328f3181-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban stan od 95m² sa 2 terase, 3 kupatila.\nDugoročni najam od godinu dana.\nUslovi 1+1+depozit",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:53.020955+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.430124+00:00",
+  "source_html_sha256": "3530a09049318e5c9d2568e1b9eb8b979d93494be25e2c5317949fa252cbf71a",
+  "title": "Izdavanje, dvosoban stan, 95m², Donja Lastva, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 1600,
+  "price_currency": "EUR",
+  "price_raw": "1600 EUR",
+  "area_m2": 95,
+  "rooms": 2,
+  "bathrooms": 3,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Branislava Popović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se dvosoban stan od 95m² sa 2 terase, 3 kupatila. Dugoročni najam od godinu dana. Uslovi 1+1+depozit",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!263",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269606669",
+      "name": "Branislava Popović",
+      "email": null,
+      "source": "workbook:Outreach list!263"
+    },
+    {
+      "phone_e164": "+38269606669",
+      "name": "Branislava Popović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269606669"
+  ],
+  "phone_e164": "+38269606669",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

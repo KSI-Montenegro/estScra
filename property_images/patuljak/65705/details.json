@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "65705",
+  "listing_url": "https://patuljak.me/oglas/prodaja-dvosobnog-stana--65705",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-dvosobnog-stana--65705"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 197,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_65705",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Masline",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "53 m2",
+    "Kvadratura balkona": "4.5 m2",
+    "Podrum/Tavan": true,
+    "Dozvoljeni ljubimci": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_1.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Prodaja dvosobnog stana 532m u mirnom dijelu Maslina – ul. Nikole Đurkovića\n\nProdajem dvosoban, komforan stan, 53 kvadrata u Masline u ul. „Nikole Đurkovića 30 A smjesten na drugom (poslednjem) spratu manje stambene zgrade sa novom termo fasadom urađenom prije 4 godine. Stan ne posjeduje lift.\nStruktura: hodnik, kupatilo, dnevni boravak, kuhinja sa špajzom i dvije spavaće sobe.\nStan jeklimatizovan.\nUgrađena je nova,kvalitetna pvc stolarija sa roletnamana svim prozorima i ulaznim vratima.\nTerase: Stan posjeduje novu, potpuno sređenu, natkrivenu i pvc zastakljenu terasu na koju se izlazi iz dnevnog boravka kroz dvokrilna vrata.\nTakođe,stan imai zajednicku ulaznu terasu i stepeniste.\nUnutrašnjavrata su sređena i bravarija zamijenjena.\nStanima ugovorno pravo korišćenja parkinga ispred zgrade, pozicioniran ispod prozora kupatila.\nZgradase nalazi na dobroj lokaciji. Postoji dobra povezanost sa svim bitnim sadržajima (škola,marketi,vrtić..).\nTakođe ima dobru povezanost sa centrom grada inaseljima.\nStan se nalazi u mirnom naselju i pogodan je za porodični život.\nUredni papiri. Vlasnik1/1.\nCijena stanaje 93 000 evra.\nDostupna sam za obilazak stana uz prethodnu najavu.\nKontakttelefon : + 382 69 778 471",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:20.693807+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.022320+00:00",
+  "source_html_sha256": "59d4be88c7092bd58e6a8690f760717263d8619b123e9305b0846d63e6c199ff",
+  "title": "Prodaja dvosobnog stana",
+  "description_language": "en",
+  "price_raw": "93000.00€",
+  "price_amount": 93000,
+  "price_currency": "EUR",
+  "advertiser_name": "Zlata",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Masline",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 53,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten",
+    "Podrum/Tavan",
+    "Dozvoljeni ljubimci"
+  ],
+  "metadata_summary": "    Prodaja  dvosobnog stana 532m u mirnom dijelu Maslina – ul. Nikole Đurkovića          Prodajem dvosoban, komforan stan, 53 kvadrata  u Masline u ul. „Nikole Đurkovića 30 A smjesten na drugom (poslednjem) spratu manje stambene zgrade sa novom termo fasadom urađenom prije 4 godine. Stan ne posjeduje lift.Struktura: hodnik, kupatilo, dnevni boravak, kuhinja sa špajzom i dvije spavaće sobe.Stan jeklimatizovan.Ugrađena je nova,kvalitetna pvc stolarija sa roletnamana svim prozorima i ulaznim vratima.Terase: Stan posjeduje novu, potpuno sređenu, natkrivenu i pvc  zastakljenu terasu na koju se izlazi iz dnevnog boravka kroz dvokrilna vrata.Takođe,stan imai zajednicku ulaznu terasu i stepeniste.Unutrašnjavrata su sređena i bravarija zamijenjena.Stanima ugovorno pravo korišćenja parkinga ispred zgrade, pozicioniran ispod prozora kupatila.Zgradase nalazi na dobroj lokaciji. Postoji dobra povezanost sa svim bitnim sadržajima (škola,marketi,vrtić..).Takođe ima dobru povezanost sa centrom grada inaseljima.Stan se nalazi u mirnom naselju i  pogodan je za porodični život.Uredni papiri.  Vlasnik1/1.              Cijena stanaje 93 000 evra.Dostupna sam za obilazak stana uz prethodnu najavu.Kontakttelefon :  + 382 69 778 471 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!197",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269778471",
+      "name": "Zlata",
+      "email": null,
+      "source": "workbook:Outreach list!197"
+    }
+  ],
+  "contact_phones": [
+    "+38269778471"
+  ],
+  "phone_e164": "+38269778471",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

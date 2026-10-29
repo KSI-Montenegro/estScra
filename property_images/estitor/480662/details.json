@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "480662",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-480662",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-480662"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 712,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_480662",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/29fa3241-7f8f-4fc8-9843-21b34c31ed69-lg.webp",
+    "https://content.estitor.com/2c328032-03f5-4023-b5d5-fa027d7586f4-lg.webp",
+    "https://content.estitor.com/92f3d62c-8309-4530-b0a0-892fdd969f3d-lg.webp",
+    "https://content.estitor.com/c432344f-0575-4d6e-b35f-25b1deae4d73-lg.webp",
+    "https://content.estitor.com/bd071f71-a0e9-46e7-9ff3-9d7e624df936-lg.webp",
+    "https://content.estitor.com/e2837346-d14e-466e-afb1-8d3bb4407386-lg.webp",
+    "https://content.estitor.com/9c8b9faa-efb3-4f6c-a324-b1e285c97117-lg.webp",
+    "https://content.estitor.com/7cbd85f1-a261-45d0-8534-c6cd58df6e49-lg.webp",
+    "https://content.estitor.com/741ac83a-cf94-4c83-893d-db42ca17e07f-lg.webp",
+    "https://content.estitor.com/d2a74160-90d0-4470-97f9-9e1d25205b7d-lg.webp",
+    "https://content.estitor.com/5d735cd7-0570-4980-8154-82a57e90348e-lg.webp",
+    "https://content.estitor.com/e81c4204-8a18-42c5-a933-c547911023cb-lg.webp",
+    "https://content.estitor.com/d531eb45-d19d-438c-a9ea-4d292c09f674-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Dvosoban, nov, namješten stan površine 53m2 u trećoj zgradi investitora ‘’AKTON’’ u City kvartu, na II spratu stambene zgrade sa liftom.\n\nCijena 750 eura fiksno. Depozit u visini mjesecne kirije obavezan.\n\n+382 68 069 287",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:38.465724+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.967774+00:00",
+  "source_html_sha256": "e2f02dd4f4ab539283c9bb17e3373aefaa775852d69e60529e62c0ed8bc69981",
+  "title": "Izdavanje, dvosoban stan, 53m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-10-14",
+  "updated_date": "2026-09-04",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 53,
+  "rooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ivan Sekulic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Dvosoban, nov, namješten stan površine 53m2 u trećoj zgradi investitora ‘’AKTON’’ u City kvartu, na II spratu stambene zgrade sa liftom.Cijena 750 eura fiksno. Depozit u visini mjesecne kirije obavezan.+382 68 069 287",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!712",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268069287",
+      "name": "Ivan Sekulic",
+      "email": null,
+      "source": "workbook:Outreach list!712"
+    },
+    {
+      "phone_e164": "+38268069287",
+      "name": "Ivan Sekulic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268069287"
+  ],
+  "phone_e164": "+38268069287",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

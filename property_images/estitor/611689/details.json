@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "611689",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-611689",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-611689"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 392,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611689",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d49e90cc-29e4-4a02-9468-0b54594c6a92-lg.webp",
+    "https://content.estitor.com/34f0d973-8611-40aa-90f5-c2007d174243-lg.webp",
+    "https://content.estitor.com/0853b811-9e2f-4947-a486-0c795b25056a-lg.webp",
+    "https://content.estitor.com/1950ae50-2cea-4353-8eb4-e45f3dc9972e-lg.webp",
+    "https://content.estitor.com/8ec62175-2367-4965-8e37-a5db9876e7d2-lg.webp",
+    "https://content.estitor.com/6a36ace6-f4a2-4c91-82c8-efefe8dd832f-lg.webp",
+    "https://content.estitor.com/e47af7dc-0dee-47da-8000-803a1acd889d-lg.webp",
+    "https://content.estitor.com/20713fe0-a69b-49c5-9518-dcd803944b2c-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Otkrijte savršenstvo življenja uz more u ovom modernom jednosobnom stanu u Bečićima. Smješten u novogradnji, ovaj osunčan stan površine 50 m² nalazi se na prvom spratu i pruža izuzetan komfor i praktičnost. Stan je potpuno opremljen i spreman za odmah useljenje, sa svim pogodnostima za ugodan boravak. Sastoji se od jedne spavaće sobe, kupatila, dnevna soba i sa potpuno opremljenom kuhinjom. Uživajte u predivnom pogledu na more sa sopstvene terase, savršene za opuštanje. Dodatne pogodnosti uključuju klimatizaciju, brz internet i obezbijeđeno parking mjesto ispred objekta. Svi komunalni troškovi (struja, voda, odvoz smeća) su uključeni. Dostupno za dugoročni najam od 15. septembra., Odmah useljiv, Novogradnja, Miran kraj, Pogled na more, Renoviran",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:57.194601+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.213567+00:00",
+  "source_html_sha256": "4c57d06e8f7f4ad87ead1156a935310b11188d4d5c8332285104e6a1a9613854",
+  "title": "Izdavanje, jednosoban stan, 50m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-07",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "22 Sremskog Fronta, Bečići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Bane Matovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Otkrijte savršenstvo življenja uz more u ovom modernom jednosobnom stanu u Bečićima. Smješten u novogradnji, ovaj osunčan stan površine 50 m² nalazi se na prvom spratu i pruža izuzetan komfor i praktičnost. Stan je po...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!392",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267517454",
+      "name": "Bane Matovic",
+      "email": null,
+      "source": "workbook:Outreach list!392"
+    },
+    {
+      "phone_e164": "+38267517454",
+      "name": "Bane Matovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267517454"
+  ],
+  "phone_e164": "+38267517454",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

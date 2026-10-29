@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "606120",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-606120",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-606120"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 64,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_606120",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2010",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/26081e74-3538-4661-863a-091e5e7fc1a0-lg.webp",
+    "https://content.estitor.com/d773a1ca-b590-41c1-9c82-1809a31af58e-lg.webp",
+    "https://content.estitor.com/e89bb3bb-bf35-4a23-8c82-4be2e4168084-lg.webp",
+    "https://content.estitor.com/9750bd55-9338-4ce6-af9b-a990df1cdb29-lg.webp",
+    "https://content.estitor.com/db6335e4-3cc1-4079-b4ff-6682b2b7f18a-lg.webp",
+    "https://content.estitor.com/66146174-423e-4b79-828d-d8c754bf55af-lg.webp",
+    "https://content.estitor.com/02efd492-99b4-4cc2-a15e-ba9ddb3b189d-lg.webp",
+    "https://content.estitor.com/0c8d31c2-e626-423f-9404-cd6862625f88-lg.webp",
+    "https://content.estitor.com/d5b09edf-4c64-45bb-aebf-37b935dcf837-lg.webp",
+    "https://content.estitor.com/e23ff0ed-630c-4d68-92c8-6ad1c4bb40dc-lg.webp",
+    "https://content.estitor.com/73694ef7-14d2-423c-876d-f4c6529330e6-lg.webp",
+    "https://content.estitor.com/de07c6d5-a59c-40d6-9bd1-be9d18b212ec-lg.webp",
+    "https://content.estitor.com/2ae192cf-cd9f-4e86-bc48-0c1f8f53e6b0-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Dugoročni najam\nUdoban i prostran apartman na top lokaciji u Igalu, Herceg Novi!\nApartman se nalazi na samo 20 metara od mora, u živahnom dijelu Igala, okružen zelenilom i sa prelijepim pogledom na planine.\nAko tražite udoban dom u živahnom primorskom gradu, ovo je pravo mjesto za vas!\nDostupan za dugoročni najam - 12 mjeseci i duže.\nZa sve informacije i dogovor, molimo vas da nas kontaktirate isključivo putem WhatsApp-a ili Vibera. Ovo je jedini način komunikacije i zakazivanja gledanja apartmana.\nApartman se nalazi u modernoj zgradi sa liftom. U neposrednoj blizini nalazi se sve što vam je potrebno: restorani, barovi, promenada, plaže, prodavnice i supermarketi.\nPreko puta zgrade nalazi se Omladinski park Igalo.\nPovršina apartmana: 120 m² + 3 balkona\nApartman sadrži:\n3 odvojene spavaće sobe — dvije spavaće sobe sa bračnim krevetima, a treća soba sa dvosjedom na razvlačenje za dvije osobe\nJedan kauč na razvlačenje u dnevnom boravku\n2 kupatila\nPotpuno opremljenu kuhinju\n3 balkona sa pogledom na planine i dvorište\nKlima uređaj\nTV\nVeš mašina\nLift u zgradi\nOdlična lokacija — blizu mora i svih sadržaja i dešavanja u Igalu.\nKada nam šaljete upit, molimo vas da navedete naziv ili link apartmana na koji se vaš upit odnosi.\nRado ćemo vam pružiti sve dodatne informacije i odgovoriti u najkraćem roku.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:25.900746+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.262931+00:00",
+  "source_html_sha256": "904e0c94b23ed4020374adadfb1127dcce97aaeaa7e852ff42104ce7847014a3",
+  "title": "Izdavanje, trosoban stan, 120m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-01",
+  "updated_date": "2026-09-01",
+  "price_amount": 1500,
+  "price_currency": "EUR",
+  "price_raw": "1500 EUR",
+  "area_m2": 120,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Herceg Novi",
+  "street_address": "Sava Ilića, Igalo, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nik Jukov",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 3,
+  "year_built": 2010,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Dugoročni najamUdoban i prostran apartman na top lokaciji u Igalu, Herceg Novi!Apartman se nalazi na samo 20 metara od mora, u živahnom dijelu Igala, okružen zelenilom i sa prelijepim pogledom na planine.Ako tražite u...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!64",
+      "agent_reasons": "4 ads with this number",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+79169377454",
+      "name": "Nik Jukov",
+      "email": null,
+      "source": "workbook:Likely agents!64"
+    },
+    {
+      "phone_e164": "+79169377454",
+      "name": "Nik Jukov",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+79169377454"
+  ],
+  "phone_e164": "+79169377454",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

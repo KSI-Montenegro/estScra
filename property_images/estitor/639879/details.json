@@ -1,0 +1,188 @@
+{
+  "source": "estitor",
+  "listing_id": "639879",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-639879",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-639879"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 251,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639879",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2008",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 600,
+      "workbook_value": 650,
+      "source": "workbook:Outreach list!251"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/f6b209e1-96fc-4d04-9061-cff8175e4cef-lg.webp",
+    "https://content.estitor.com/f36e69e2-9a44-41b1-9ecc-3f3aadf2df89-lg.webp",
+    "https://content.estitor.com/e9451be5-aac2-4b2d-8de9-1d7d44eff901-lg.webp",
+    "https://content.estitor.com/b8e1fb30-7967-44e4-a372-641e597cda0a-lg.webp",
+    "https://content.estitor.com/afd16a4a-dc28-42a5-850c-f0cfb826f362-lg.webp",
+    "https://content.estitor.com/8d49683c-99e7-488f-98ad-e9406a9d8c7f-lg.webp",
+    "https://content.estitor.com/381f6448-e525-44a8-b6f8-e674e5ca17c6-lg.webp",
+    "https://content.estitor.com/bb8ab5fa-bab8-47cc-889d-d44c0989e796-lg.webp",
+    "https://content.estitor.com/eba44fbb-fba0-4ae9-9828-8c1a9c1fc2ea-lg.webp",
+    "https://content.estitor.com/b6d6d46b-a1b7-435f-ab1e-0f39bb0b8044-lg.webp",
+    "https://content.estitor.com/27a1ebc8-29c1-4338-89c9-9578c1a41854-lg.webp",
+    "https://content.estitor.com/cd8604dd-f7e4-4f18-bfc7-bf8ba2067bc8-lg.webp",
+    "https://content.estitor.com/c7a76c47-5fc6-4192-93e3-7e5b06de4331-lg.webp",
+    "https://content.estitor.com/24f52b88-f7ab-4583-916a-d70024e5c947-lg.webp",
+    "https://content.estitor.com/2549c724-4a0c-4355-b8ee-5ee8eb5878a7-lg.webp",
+    "https://content.estitor.com/d905e6f2-3599-40eb-a0cb-3c077be213d5-lg.webp",
+    "https://content.estitor.com/b07ebb03-23fb-4f90-b8db-8407a42bde7d-lg.webp",
+    "https://content.estitor.com/11e90655-011b-42db-95c8-c01b42cb0202-lg.webp",
+    "https://content.estitor.com/1aea5a6f-9b42-47db-bfe7-8d3d05ce7e1b-lg.webp",
+    "https://content.estitor.com/18c0a04f-d8aa-470f-972e-f59400ab426d-lg.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan od 80 m² na odličnoj lokaciji, odmah iza Porto Novog!\nStan se prostire na dvije etaže i posjeduje dva balkona.\nNa donjem nivou nalaze se dnevni boravak sa kuhinjom, dvije sobe, od kojih jedna ima izlaz na balkon, dok se na gornjem nivou nalazi prostrano potkrovlje koje pruža dodatni prostor za boravak i odmor.\nStan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini Porto Novog, idealnoj za sve koji žele udobnost i blizinu mora, restorana i ostalih sadržaja.\nZa više informacija i dogovor oko obilaska, kontaktirati putem poruke",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:46.997412+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.352066+00:00",
+  "source_html_sha256": "4b8a27f76107f4205338014133c13f056544e3b8226feb6529f2aae0f6e42342",
+  "title": "Izdavanje, trosoban stan, 80m², Đenovići, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-27",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 80,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "E65, Kumbor, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Dusan B",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 2,
+  "year_built": 2008,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se stan od 80 m² na odličnoj lokaciji, odmah iza Porto Novog!Stan se prostire na dvije etaže i posjeduje dva balkona.Na donjem nivou nalaze se dnevni boravak sa kuhinjom, dvije sobe, od kojih jedna ima izlaz na...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!251",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267610178",
+      "name": "Dusan B",
+      "email": null,
+      "source": "workbook:Outreach list!251"
+    },
+    {
+      "phone_e164": "+38267610178",
+      "name": "Dusan B",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267610178"
+  ],
+  "phone_e164": "+38267610178",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

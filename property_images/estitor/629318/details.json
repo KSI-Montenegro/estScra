@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "629318",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-629318",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-629318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 313,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_629318",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2018",
+    "Stanje": "Odlično stanje",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e9a1c6a1-981f-4568-bcb9-2993702828e0-lg.webp",
+    "https://content.estitor.com/44cc8f58-b160-4fce-abeb-e97b8c4fa6e1-lg.webp",
+    "https://content.estitor.com/a062f0fa-e673-4849-bc55-70fdb545040c-lg.webp",
+    "https://content.estitor.com/a3fb9046-18e7-4074-907d-44e8ccc8ca76-lg.webp",
+    "https://content.estitor.com/36de3d96-f183-4be1-95e1-4e9357577d7e-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Novogradnja, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:17.975814+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.741176+00:00",
+  "source_html_sha256": "6675b8e99e3fc65b291eda1a2780a5fa856806ec15fbea3283ed64fab6992c03",
+  "title": "Izdavanje, jednosoban stan, 47m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-05",
+  "updated_date": "2026-10-08",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "gordane bogojevic kovacevic",
+  "country": "ME",
+  "advertiser_name": "Maja Lu",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "year_built": 2018,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Novogradnja, Miran kraj, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!313",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268498497",
+      "name": "Maja Lu",
+      "email": null,
+      "source": "workbook:Outreach list!313"
+    },
+    {
+      "phone_e164": "+38268498497",
+      "name": "Maja Lu",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268498497"
+  ],
+  "phone_e164": "+38268498497",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

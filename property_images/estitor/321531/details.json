@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "321531",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-321531",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-321531"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 694,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_321531",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Godina izgradnje": "2023",
+    "Orijentacija": "Jug",
+    "Parking": "Nema",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3cc1d2fd-bb12-4d98-8699-f141569f8350-lg.webp",
+    "https://content.estitor.com/caf7cc98-2159-4eaa-91d4-0b46a0bc87a7-lg.webp",
+    "https://content.estitor.com/1ca663bf-b7e4-4a70-b856-1587adc78154-lg.webp",
+    "https://content.estitor.com/9b0b3a96-031c-4d41-8a79-b50b6875a72b-lg.webp",
+    "https://content.estitor.com/969a0086-7915-4c7c-b2ab-1ab0919c649c-lg.webp",
+    "https://content.estitor.com/4e97d795-7c56-4b54-992a-a6bca6ffa809-lg.webp",
+    "https://content.estitor.com/61f5aa8f-557a-42a8-9502-cf48dc34797f-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Garsonjera od 26m2, udaljena na 700m od UDG fakulteta i 500m od autobuske stanice.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:29.156880+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.869756+00:00",
+  "source_html_sha256": "f12a5170725af94cd90c92388a1528f26ef6bdecb4c5ddcf236535eee0c0cbe4",
+  "title": "Izdavanje, garsonjera, 26m², Donja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2024-12-19",
+  "updated_date": "2026-09-12",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 26,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Aleksa Filipovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "true",
+  "parking_raw": "Nema",
+  "orientation_raw": "Jug",
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Garsonjera od 26m2, udaljena na 700m od UDG fakulteta i 500m od autobuske stanice.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!694",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269744130",
+      "name": "Aleksa Filipovic",
+      "email": null,
+      "source": "workbook:Outreach list!694"
+    },
+    {
+      "phone_e164": "+38269744130",
+      "name": "Aleksa Filipovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269744130"
+  ],
+  "phone_e164": "+38269744130",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

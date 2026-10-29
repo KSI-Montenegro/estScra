@@ -1,0 +1,127 @@
+{
+  "source": "patuljak",
+  "listing_id": "68423",
+  "listing_url": "https://patuljak.me/oglas/prodajem-podrumsku-prostoriju-2927m2-preko-morace--68423",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-podrumsku-prostoriju-2927m2-preko-morace--68423"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 775,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_68423",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!775:primary_url_fields",
+    "area_m2": "workbook:Outreach list!775:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_2.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Prodaje se podrumska prostorija površine 29,27 m² u zgradi „Lovac“ (Bulevar Revolucije 26 ).preko Morace!\nKarakteristike prostora:\nVisina plafona: 2.4 m (standardna visina, veoma komotan prostor)\nStatus: Potpuno suva prostorija, bez trunke vlage,svi zidovi beton.\nInstalacije: struja i voda\nVentilacija/Svjetlost: Posjeduje horizontalni prozor sa zaštitnom rešetkom\nUlaz: Kroz zajednički ulaz zgrade\nPristup za unos robe:\nkroz ulaz zgrade ili sa trotoara ulicne strane zgrade kroz horizontaoni prozor-resetku\n\nProstor je zbog svojih dimenzija, visine i priključaka idealan za magacin, arhivu, privatnu radionicu,personalnu teretanu ili ostavu.\n\nProdaja se vrši preko notara , prenos vanknjižnog vlasništva i državine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:14.041250+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.468544+00:00",
+  "source_html_sha256": "8fa42ee9c1aa8fcf804f506d202c4ee0d39b04b3269f23d45e47a6ad3482ac9c",
+  "title": "prodajem podrumsku prostoriju 29.27m2 Preko Morace",
+  "description_language": "en",
+  "price_raw": "13000.00€",
+  "price_amount": 13000,
+  "price_currency": "EUR",
+  "advertiser_name": "Baja",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "amenities": [],
+  "metadata_summary": "Prodaje se podrumska prostorija površine 29,27 m² u zgradi „Lovac“ (Bulevar Revolucije 26 ).preko Morace!Karakteristike prostora:Visina plafona: 2.4 m (standardna visina, veoma komotan prostor)Status: Potpuno suva prostorija, bez trunke vlage,svi zidovi beton.Instalacije: struja i vodaVentilacija/Svjetlost: Posjeduje horizontalni prozor sa zaštitnom rešetkomUlaz: Kroz zajednički ulaz zgradePristup za unos robe:kroz ulaz zgrade ili sa trotoara ulicne strane zgrade kroz horizontaoni prozor-resetkuProstor je zbog svojih dimenzija, visine i priključaka idealan za magacin, arhivu, privatnu radionicu,personalnu teretanu ili ostavu.Prodaja se vrši preko notara , prenos vanknjižnog vlasništva i državine.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!775",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269116115",
+      "name": "Baja",
+      "email": null,
+      "source": "workbook:Outreach list!775"
+    }
+  ],
+  "contact_phones": [
+    "+38269116115"
+  ],
+  "phone_e164": "+38269116115",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "area_m2": 29.27,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

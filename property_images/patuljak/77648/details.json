@@ -1,0 +1,127 @@
+{
+  "source": "patuljak",
+  "listing_id": "77648",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-parking-mjesto-ili-garazu-u-centru-gr--77648",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-parking-mjesto-ili-garazu-u-centru-gr--77648"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 937,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77648",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:source_attributes",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Vrsta": "U sklopu veće garaže",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77648_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:09.183531+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.187286+00:00",
+  "source_html_sha256": "3ab2a56c21718c6de80aaa373bf1fdab53b32a007bc4e1dfdfad121756dbacb7",
+  "title": "Iznajmljujem parking mjesto ili garažu u centru grada Podgorice.",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Monika",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Centar",
+  "property_type_raw": "U sklopu veće garaže",
+  "amenities": [],
+  "metadata_summary": "Iznajmljujem parking mjesto ili garažu u centru grada Podgorice.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!937",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267090121",
+      "name": "Monika",
+      "email": null,
+      "source": "workbook:Outreach list!937"
+    }
+  ],
+  "contact_phones": [
+    "+38267090121"
+  ],
+  "phone_e164": "+38267090121",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

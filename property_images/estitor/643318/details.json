@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "643318",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-643318",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-643318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 100,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_643318",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ce4a3140-380e-49c1-810c-ff8329b7700b-lg.webp",
+    "https://content.estitor.com/61e16874-325f-4986-960a-e4451861f72d-lg.webp",
+    "https://content.estitor.com/73bb23ae-6dfe-4f4d-9f5c-8cb7316fb8a5-lg.webp",
+    "https://content.estitor.com/f5d4b894-5b07-4eda-a084-ab0102c70fc7-lg.webp",
+    "https://content.estitor.com/fd4ca43b-0ced-46db-be49-44e33f6c897c-lg.webp",
+    "https://content.estitor.com/f8211af9-30cc-49d8-ad03-7d486d5014f7-lg.webp",
+    "https://content.estitor.com/6a7043ea-4303-44b6-b7a1-3bc1119a3e0a-lg.webp",
+    "https://content.estitor.com/42a9fc14-0e8c-46b5-9184-012ffc0773a5-lg.webp",
+    "https://content.estitor.com/c9a49096-ff96-487c-9d23-8761322b6392-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Moderan jednosoban stan za izdavanje u City Kvartu!\nOtkrijte savršen spoj udobnosti, stila i vrhunske lokacije u Podgorici. Predstavljamo vam luksuzno opremljen jednosoban stan u srcu najtraženijeg dijela grada – City Kvart.\nOvaj elegantni stan, ukupne površine 50 m², smješten je na prizemlju zgrade Čelebića, pružajući idealan pristup. Enterijer je pažljivo osmišljen, naglašavajući modernu estetiku i funkcionalnost.\nStan se sastoji od prostranog dnevnog boravka, jedne udobne spavaće sobe, jednog kupatila, te moderne kuhinje i trpezarije koje su potpuno opremljene za udoban život. Dnevni boravak je savršen za opuštanje ili rad od kuće, sa direktnim izlazom na prostranu terasu koja se proteže duž cijelog stana, nudeći prelijep, nesmetan pogled. Terasi se takođe pristupa i iz spavaće sobe.\nUživajte u svim pogodnostima savremenog života: stan posjeduje Internet, Klimatizaciju, Kablovsku televiziju, Interfon, Telefon. Posebna pogodnost je parking ispred objekta, što čini svakodnevnicu izuzetno praktičnom.\nLokacija je izvanredna – City Kvart je poznat po svojoj blizini restoranima, kafićima, prodavnicama i svim bitnim sadržajima koji su potrebni za komforan svakodnevni život.\nUslovi zakupa:\nObavezan zakup na minimum 12 mjeseci.\nPrva mjesečna kirija unaprijed.\nPosljednja mjesečna kirija unaprijed.\nDepozit u visini jedne mjesečne kirije.\nKućni ljubimci nijesu dozvoljeni.\nFokus Nekretnine Montenegro",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:50.251354+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.636971+00:00",
+  "source_html_sha256": "f7ab1ff611cf834e83747aed5e351e41bfea3bb4cd8d0d56827c05885b37a20e",
+  "title": "Izdavanje, jednosoban stan, 50m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-25",
+  "updated_date": "2026-10-25",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Fokus Nekretnine",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "Moderan jednosoban stan za izdavanje u City Kvartu!Otkrijte savršen spoj udobnosti, stila i vrhunske lokacije u Podgorici. Predstavljamo vam luksuzno opremljen jednosoban stan u srcu najtraženijeg dijela grada – City ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!100",
+      "agent_reasons": "3 ads with this number; business name (Fokus Nekretnine)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268918230",
+      "name": "Fokus Nekretnine",
+      "email": null,
+      "source": "workbook:Likely agents!100"
+    },
+    {
+      "phone_e164": "+38268918230",
+      "name": "Fokus Nekretnine",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268918230"
+  ],
+  "phone_e164": "+38268918230",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

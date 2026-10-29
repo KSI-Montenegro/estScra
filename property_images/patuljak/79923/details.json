@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "79923",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-poslovni-prostor-95-m2-centar-niksic--79923",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-poslovni-prostor-95-m2-centar-niksic--79923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 39,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_79923",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Centar",
+    "Broj prostorija": "4",
+    "Sprat": "Visoko prizemlje",
+    "Broj spratova": "4",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "95 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor površine 95 m2. Posjeduje dva ulaza, glavni i magacinski. Nalazi se u centru grada, u ulici Dr Nika Miljanića. Pogodan za razne djelatnosti. Cijena mjesečnog zakupa iznosi 1100€.\n\nTel: 067/227-457",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:45.996839+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.365351+00:00",
+  "source_html_sha256": "5153dd52f7d0d3287c60e842c19f6905477a4f479b8af8fde6ba8cc9e46c8393",
+  "title": "Izdavanje, poslovni prostor 95 m2, Centar, Nikšić",
+  "description_language": "en",
+  "price_raw": "1100.00€",
+  "price_amount": 1100,
+  "price_currency": "EUR",
+  "advertiser_name": "Marko",
+  "property_type": "commercial",
+  "city": "Nikšić",
+  "district": "Centar",
+  "floor_raw": "Visoko prizemlje",
+  "building_floors_raw": "4",
+  "parking_raw": "1",
+  "area_m2": 95,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor površine 95 m2. Posjeduje dva ulaza, glavni i magacinski. Nalazi se u centru grada, u ulici Dr Nika Miljanića. Pogodan za razne djelatnosti. Cijena mjesečnog zakupa iznosi 1100€.Tel: 067/227-457",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!39",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267227457",
+      "name": "Marko",
+      "email": null,
+      "source": "workbook:Not homes!39"
+    }
+  ],
+  "contact_phones": [
+    "+38267227457"
+  ],
+  "phone_e164": "+38267227457",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

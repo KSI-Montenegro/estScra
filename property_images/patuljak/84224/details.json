@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "84224",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor--84224",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor--84224"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 19,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84224",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Humci",
+    "Broj prostorija": "2",
+    "Stambena kvadratura": "105 m2",
+    "Sprat": "1",
+    "Broj spratova": "1",
+    "Namješten": "Da",
+    "Godina izgradnje": "2020",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Ostalo",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:33.743791+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.207825+00:00",
+  "source_html_sha256": "e0f27777969382a2e2f8037c7545ac3ee94834e4cd8b05b84d9771d7260ccff5",
+  "title": "Poslovni prostor",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Marijeta",
+  "property_type": "commercial",
+  "city": "Cetinje",
+  "district": "Humci",
+  "floor_raw": "1",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "2",
+  "area_m2": 105,
+  "year_built": 2020,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namješten"
+  ],
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!19",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267445507",
+      "name": "Marijeta",
+      "email": null,
+      "source": "workbook:Not homes!19"
+    }
+  ],
+  "contact_phones": [
+    "+38267445507"
+  ],
+  "phone_e164": "+38267445507",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

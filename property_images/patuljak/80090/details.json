@@ -1,0 +1,125 @@
+{
+  "source": "patuljak",
+  "listing_id": "80090",
+  "listing_url": "https://patuljak.me/oglas/hitna-prodaja-imanja-grbi-do-lijeva-rijeka--80090",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hitna-prodaja-imanja-grbi-do-lijeva-rijeka--80090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 96,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_80090",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "175 000 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80090_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "LIJEVA RIJEKA-GRBI DO\n\nProdajem veliko imanje sa tri ucrtana objekta\n7 km od auto puta BAR-BOLJARE\nRazno voce na imanju\nStruja,voda\nPotok kroz imanje",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:23.745837+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.394936+00:00",
+  "source_html_sha256": "e95622293f47ee57fca2b71e205e2f3d48b5b1e0a6ff2a0e7d34a3988ae5e9d7",
+  "title": "Hitna prodaja imanja, Grbi Do, Lijeva Rijeka",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Ana",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "LIJEVA RIJEKA-GRBI DOProdajem veliko imanje sa tri ucrtana objekta 7 km od auto puta BAR-BOLJARERazno voce na imanjuStruja,vodaPotok kroz imanje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!96",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263482120",
+      "name": "Ana",
+      "email": null,
+      "source": "workbook:Outreach list!96"
+    }
+  ],
+  "contact_phones": [
+    "+38263482120"
+  ],
+  "phone_e164": "+38263482120",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 175000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,150 @@
+{
+  "source": "realitica",
+  "listing_id": "3948821",
+  "listing_url": "https://www.realitica.com/hr/listing/3948821",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948821"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 7,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3948821",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Podgorica",
+    "Lokacija": "Zabjelo",
+    "Adresa": "Zabjelo -Podgorica - Montenegro",
+    "Energetski Razred": "A+",
+    "Cijena": "€116.000",
+    "Spavaćih Soba": "2",
+    "Kupatila": "1",
+    "Stambena Površina": "58 m2",
+    "Parking Mjesta": "1",
+    "Novogradnja": true,
+    "Oglas Broj": "3948821",
+    "Postavljeno": "21 Oct, 2026",
+    "Zadnja Promjena": "21 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3948821_8a8cdb0439341be8ce8786e6711a79980a98e2a_3a4c2e193f992783.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_9dfa3b58afb579b0536a34130be31d80bdbf5bd_37f7ce751bb7901d.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_ed04ba2379701da021483e7ea6765eb46913c41_46de9ab972300203.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_b6b27375824a923c1b205287260d480a5a3e82b_11704405ffa59d88.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_b1987a21033d6709382a81da3430e2483330519_de4fdedb0f0c9427.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_61c23042603628f697a815435a3e8f6ca3933f9_5e9cab9eeb8fa5b2.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_1356554d9aac14c167c6b8e4920a2a070bc8ee2_fb2754214b417822.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_cde8cfe671d7e989947a1895cc1a92548a6b5cd_f4b252c2652d4807.jpg",
+    "https://www.realitica.com/images/listing_photos/3948821_f900bbc0cda460d23b9974aeca4164de32be283_ba097235b61eac29.jpg"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Prodajem dvosoban stan - 58m2 - Novogradnja. Stan se nalazi na 4 ( poslednjem ) spratu u zgradi sa liftom, lokacija Zabjelo. Parking mjesto obezbijedjeno",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:43.256422+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.650654+00:00",
+  "source_html_sha256": "a8eb738612fa6a194109eabc1738db88500e7475a8979b9f5b338fc3bf124de0",
+  "title": "Prodajem Stan-Apartman, Zabjelo",
+  "description_language": "hr",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "street_address": "Zabjelo -Podgorica - Montenegro",
+  "parking_raw": "1",
+  "published_date_raw": "21 Oct, 2026",
+  "updated_date_raw": "21 Oct, 2026",
+  "area_m2": 58,
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "parking_spaces": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€116.000",
+  "price_amount": 116000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja"
+  ],
+  "metadata_summary": "Prodajem dvosoban stan - 58m2 - Novogradnja. Stan se nalazi na 4 ( poslednjem ) spratu u zgradi sa liftom, lokacija Zabjelo. Parking mjesto obezbijedjeno",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!7",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "6 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268631711",
+      "name": "Sladja",
+      "email": null,
+      "source": "workbook:Likely agents!7"
+    }
+  ],
+  "contact_phones": [
+    "+38268631711"
+  ],
+  "phone_e164": "+38268631711",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

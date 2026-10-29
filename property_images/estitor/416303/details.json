@@ -1,0 +1,141 @@
+{
+  "source": "estitor",
+  "listing_id": "416303",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-danilovgrad/id-416303",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-danilovgrad/id-416303"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 151,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_416303",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bee48be4-168a-4ff9-a9a8-341d5cb1bc1c-lg.webp",
+    "https://content.estitor.com/c8e9cca4-ebbb-4bb3-882c-599e8601da4f-lg.webp",
+    "https://content.estitor.com/5b112c34-69b6-4ac0-83eb-798fff622865-lg.webp",
+    "https://content.estitor.com/210173e5-144f-4f99-ad79-b3d6925af9ec-lg.webp",
+    "https://content.estitor.com/f414a48d-ae30-4592-bda0-92e91101cd4b-lg.webp",
+    "https://content.estitor.com/b3999f07-94ee-4e2a-b2c0-d784e4a72fba-lg.webp",
+    "https://content.estitor.com/a30fd03e-6ba8-48ff-a01e-7d8e01ca62c8-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se povoljno, urbanizovan plac, ukupne površine 3700 m², na strateškoj lokaciji uz magistralni put Podgorica - Danilovgrad (put preko Martinića).\nOva izuzetno dobro pozicionirana parcela nalazi se na samo 15 minuta vožnje od centra Podgorice, nudeći vrhunsku vidljivost i jednostavan pristup.\nNjena urbanizacija osigurava spremnost za brzu realizaciju vaših poslovnih planova. Plac je višenamjenski i idealan za širok spektar komercijalnih djelatnosti, uključujući: izgradnju hala, supermarketa, data centara, stovarišta, logističkih centara ili auto placeva.\nBilo koji biznis koji zahtijeva prominentnu lokaciju i odličnu povezanost će ovdje pronaći svoj prosperitet.\nDodatna pogodnost je fleksibilnost zakupa: moguće je iznajmiti i manje parcele, sa minimalnom površinom od 1000 m², prilagođavajući se specifičnim potrebama vašeg poslovanja.\nNe propustite priliku da obezbijedite savršenu lokaciju za rast i razvoj vašeg preduzeća.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:50.398646+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.160438+00:00",
+  "source_html_sha256": "1c1f2d7b87f0e04579fbbdf2926dffc4b9dfc50b26a4780854b70b5385aa7230",
+  "title": "Izdavanje, plac, 3700m², Donji Martinići, Danilovgrad",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-04",
+  "updated_date": "2026-10-13",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Danilovgrad",
+  "country": "ME",
+  "advertiser_name": "Bojan Bojan",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izdaje se povoljno, urbanizovan plac, ukupne površine 3700 m², na strateškoj lokaciji uz magistralni put Podgorica - Danilovgrad (put preko Martinića).Ova izuzetno dobro pozicionirana parcela nalazi se na samo 15 minu...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!151",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267208401",
+      "name": "Bojan Bojan",
+      "email": null,
+      "source": "workbook:Not homes!151"
+    },
+    {
+      "phone_e164": "+38267208401",
+      "name": "Bojan Bojan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267208401"
+  ],
+  "phone_e164": "+38267208401",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "617669",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617669",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617669"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 872,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617669",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "8. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2019",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Nema parkinga",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4e774ecc-f9c1-4042-9a7f-4999c4e4381d-lg.webp",
+    "https://content.estitor.com/ddb5a896-bdd6-4476-9e1e-5aff6008aa29-lg.webp",
+    "https://content.estitor.com/b1c4cdf5-c5d3-4110-8833-84996eedb8ba-lg.webp",
+    "https://content.estitor.com/0bd9a06c-17e5-4b18-ae92-78974faa931e-lg.webp",
+    "https://content.estitor.com/d0fe2c73-5c36-439b-afb6-83d783f9c04a-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem namešten jednosoban stan na duži vremenski period. Stan je odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:24.826438+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.524700+00:00",
+  "source_html_sha256": "122323dd0978716808bc300a41500500d11d698b139b02eb302ef1d03b679cfb",
+  "title": "Izdavanje, jednosoban stan, 46m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-16",
+  "updated_date": "2026-09-19",
+  "price_amount": 620,
+  "price_currency": "EUR",
+  "price_raw": "620 EUR",
+  "area_m2": 46,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "19 Marka Radovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nebojša M",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "8. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "year_built": 2019,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem namešten jednosoban stan na duži vremenski period. Stan je odmah useljiv.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!872",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269604389",
+      "name": "Nebojša M",
+      "email": null,
+      "source": "workbook:Outreach list!872"
+    },
+    {
+      "phone_e164": "+38269604389",
+      "name": "Nebojša M",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269604389"
+  ],
+  "phone_e164": "+38269604389",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

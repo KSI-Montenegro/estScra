@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "84673",
+  "listing_url": "https://patuljak.me/oglas/izdajem-moderno-opremljen-jednosoban-stan-42-m2-za--84673",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-moderno-opremljen-jednosoban-stan-42-m2-za--84673"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 125,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84673",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!125:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "42 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_0.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderno opremljen jednosoban stan površine 42 m², smješten u stambenoj zgradi Family Nest, u Ulici Princeze Ksenije na Zabjelu, u blizini Osnovne škole „Oktoih“.\nStan se nalazi na drugom spratu novogradnje sa liftom i odlikuje ga funkcionalan raspored prostorija, savremeno uređenje i prijatan ambijent.\nStruktura stana: ulazni hodnik, dnevna soba sa trpezarijom i kuhinjom, spavaća soba, kupatilo i terasa.\nStan je neuseljavan, a namještaj i tehnika su novi, što ga čini potpuno spremnim za useljenje.\nIspred zgrade nalazi se veliki javni parking.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:40.470610+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.592148+00:00",
+  "source_html_sha256": "9fc073279a5801bbb8884fd2b6dd6dcf0217017c2b18b79705c3b754fae402ef",
+  "title": "Izdajem moderno opremljen jednosoban stan 42 m2, Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Anja",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 42,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se moderno opremljen jednosoban stan površine 42 m², smješten u stambenoj zgradi Family Nest, u Ulici Princeze Ksenije na Zabjelu, u blizini Osnovne škole „Oktoih“.Stan se nalazi na drugom spratu novogradnje sa liftom i odlikuje ga funkcionalan raspored prostorija, savremeno uređenje i prijatan ambijent.Struktura stana: ulazni hodnik, dnevna soba sa trpezarijom i kuhinjom, spavaća soba, kupatilo i terasa.Stan je neuseljavan, a namještaj i tehnika su novi, što ga čini potpuno spremnim za useljenje.Ispred zgrade nalazi se veliki javni parking.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!125",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267324577",
+      "name": "Anja",
+      "email": null,
+      "source": "workbook:Outreach list!125"
+    }
+  ],
+  "contact_phones": [
+    "+38267324577"
+  ],
+  "phone_e164": "+38267324577",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "630747",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-630747",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-630747"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 160,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630747",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f9583d19-095c-4d89-8499-28a35d600d5e-lg.webp",
+    "https://content.estitor.com/b08d52e3-629a-4689-9934-60b9543d25a2-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan plac površine 1.956 m², smješten u mirnom naselju Mahala, u Podgorici (Zeta), idealan za raznovrsne poslovne aktivnosti.\n\nOva lokacija nudi izvanredne mogućnosti za razvoj vašeg poslovanja, zahvaljujući strateškom položaju. Plac se nalazi samo 300 metara od magistralnog puta Podgorica–Golubovci, što garantuje brzu i laku povezanost sa ključnim saobraćajnicama. Pristup placu je izuzetno širok i uređen, omogućavajući nesmetan ulazak i izlazak svih vrsta vozila, od putničkih automobila do kamiona i radnih mašina.\n\nNjegova prostrana površina čini ga savršenim za parking automobila, auto plac, parkiranje kamiona, kombija i radnih mašina, skladištenje građevinskog materijala i opreme, kao i za ostale komercijalne i poslovne namjene.\n\nGlavne prednosti ovog placa uključuju: Optimalnu površinu od 1.956 m² za fleksibilno poslovanje, odličnu pristupačnost sa direktnom vezom sa magistralom i širokim prilazom, stratešku lokaciju blizu glavnih saobraćajnica, višenamjensku upotrebu pogodnu za širok spektar djelatnosti, te mogućnost dugoročnog zakupa, što pruža sigurnost i stabilnost za vašu investiciju.\n\nNe propustite priliku da osigurate idealnu lokaciju za vaše poslovne potrebe. po dogovoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:56.014559+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.226575+00:00",
+  "source_html_sha256": "c091d3619bc8fe4dcf70700b26861328dd461da2c0a0a042a52c759734a14568",
+  "title": "Izdavanje, plac, 1956m², Zeta, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-07",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "street_address": "XIII Ulica Mahala, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Lazar Radovic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izdaje se izuzetan plac površine 1.956 m², smješten u mirnom naselju Mahala, u Podgorici (Zeta), idealan za raznovrsne poslovne aktivnosti. Ova lokacija nudi izvanredne mogućnosti za razvoj vašeg poslovanja, zahvaljuj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!160",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269016548",
+      "name": "Lazar Radovic",
+      "email": null,
+      "source": "workbook:Not homes!160"
+    },
+    {
+      "phone_e164": "+38269016548",
+      "name": "Lazar Radovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269016548"
+  ],
+  "phone_e164": "+38269016548",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

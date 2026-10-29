@@ -1,0 +1,114 @@
+{
+  "source": "estitor",
+  "listing_id": "641342",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641342",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641342"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 36,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_641342",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c3cb325b-cd9d-4a05-9c61-c9baf8949d6d-lg.webp",
+    "https://content.estitor.com/e05bb575-4f62-4887-8870-36e31241aada-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Na prodaju plac sa prelijepim pogledom na Skadarsko Jezero u selu Čukovići - 10km od Rijeke Crnojevića.\nSve info na kontakt telefon",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:33.593353+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.679834+00:00",
+  "source_html_sha256": "300f28ca6ca7ce1b03554890ea447ed98f76d9e5a543e275fbf2117dfc8f1c6d",
+  "title": "Prodaja, plac, 7000m², Rijeka Crnojevića, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 280000,
+  "price_currency": "EUR",
+  "price_raw": "280000 EUR",
+  "city": "Cetinje",
+  "street_address": "R15, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Feđa Vujović",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Na prodaju plac sa prelijepim pogledom na Skadarsko Jezero u selu Čukovići - 10km od Rijeke Crnojevića.Sve info na kontakt telefon",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

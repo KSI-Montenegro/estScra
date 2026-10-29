@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "642813",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-642813",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-642813"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 785,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_642813",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bfc1cc22-ad0e-4af1-8f14-2fb8466f4570-lg.webp",
+    "https://content.estitor.com/15340f45-a4b6-44e6-935a-146259895724-lg.webp",
+    "https://content.estitor.com/ae43598a-3863-4e30-921f-ba2c775a2212-lg.webp",
+    "https://content.estitor.com/99871405-5e77-475f-a7fd-757bce6422eb-lg.webp",
+    "https://content.estitor.com/82bb8969-332f-4207-a6ec-57f814a4c689-lg.webp",
+    "https://content.estitor.com/bdf6570d-e206-4b6a-953b-50574715bd69-lg.webp",
+    "https://content.estitor.com/a427b463-6a0b-408b-8c41-f907010d3a81-lg.webp",
+    "https://content.estitor.com/994bc466-f9d2-4915-bb73-e618061d9453-lg.webp",
+    "https://content.estitor.com/434e4e5a-ba93-4402-a9df-998079e4e436-lg.webp",
+    "https://content.estitor.com/c33cf327-f129-446a-9f7c-2b2d3525f24a-lg.webp",
+    "https://content.estitor.com/b6c0049b-4bb0-4c38-a744-2a5e075322b3-lg.webp",
+    "https://content.estitor.com/58361554-4fe6-4ab1-b7e0-03fd39493b83-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan, osunčan stan u novogradnji u Tivtu.\nOvaj komforan jednosoban stan, površine 37.0 m², nalazi se u prizemlju i nudi sve što vam je potrebno za udoban život. Stan je opremljen dva klima uređaja i internetom, a posjeduje i potpuno funkcionalnu kuhinju sa trpezarijom.\nIzuzetna lokacija garantuje pogodnosti na svakom koraku. Aerodrom Tivat je udaljen samo 5 minuta pješke, dok je prelijepa plaža na samo 5 minuta autom . Direktno ispred zgrade nalaze se popularna pekara Davidović i Pert, što obezbjeđuje svježa peciva svakog jutra.\nStan dolazi sa obezbijeđenim garažnim mjestom, što je velika prednost u Tivtu. Idealno za pojedince ili parove koji traže kvalitetan smještaj na izvanrednoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:21.300358+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.587935+00:00",
+  "source_html_sha256": "c6abc2680226983059204dab7e852e121ec8208fc0c81d837061cf6cab0a3bd5",
+  "title": "Izdavanje, jednosoban stan, 37m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-24",
+  "updated_date": "2026-10-24",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "46 Lorovina, Tivat 85320, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Zegura",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderan, osunčan stan u novogradnji u Tivtu.Ovaj komforan jednosoban stan, površine 37.0 m², nalazi se u prizemlju i nudi sve što vam je potrebno za udoban život. Stan je opremljen dva klima uređaja i intern...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!785",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269695555",
+      "name": "Ivan Zegura",
+      "email": null,
+      "source": "workbook:Outreach list!785"
+    },
+    {
+      "phone_e164": "+38269695555",
+      "name": "Ivan Zegura",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269695555"
+  ],
+  "phone_e164": "+38269695555",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

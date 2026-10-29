@@ -1,0 +1,112 @@
+{
+  "source": "patuljak",
+  "listing_id": "74582",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-nov-namjesten-neuseljavan-jednosoban-sta--74582",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-nov-namjesten-neuseljavan-jednosoban-sta--74582"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 525,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74582",
+  "field_sources": {
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "title": "workbook:Outreach list!525:primary_url_fields",
+    "deal_type": "workbook:Outreach list!525:primary_url_fields",
+    "property_type": "workbook:Outreach list!525:primary_url_fields",
+    "city": "workbook:Outreach list!525:primary_url_fields",
+    "district": "workbook:Outreach list!525:primary_url_fields",
+    "price_amount": "workbook:Outreach list!525:primary_url_fields",
+    "price_currency": "workbook:Outreach list!525:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {},
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "unavailable_redirect",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": false,
+  "source_page_captured_at": "2026-10-29T19:17:05.499770+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.963577+00:00",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!525",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267417143",
+      "name": "Luka",
+      "email": null,
+      "source": "workbook:Outreach list!525"
+    }
+  ],
+  "contact_phones": [
+    "+38267417143"
+  ],
+  "phone_e164": "+38267417143",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "title": "Izdavanje, nov namješten neuseljavan jednosoban stan, 35m, Masline, Podgorica",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Masline",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "bedrooms": 1,
+  "missing_core_fields": [
+    "description_original",
+    "area",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "source_unavailable",
+  "price_raw": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "advertiser_name": null,
+  "amenities": null
+}

@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "616405",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-616405",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-616405"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 780,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_616405",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ace6bdcb-d85a-4822-97a6-4dd7df4a8bb4-lg.webp",
+    "https://content.estitor.com/1c642d70-3441-487e-9f78-6e36d3bee961-lg.webp",
+    "https://content.estitor.com/79c46db3-1c2e-4c7b-992e-73366be8d38a-lg.webp",
+    "https://content.estitor.com/5307077a-6f5b-4f8e-bce6-4f5af2130710-lg.webp",
+    "https://content.estitor.com/a0bd1446-bddb-4b04-bf2c-138b9713b14b-lg.webp",
+    "https://content.estitor.com/c72265f2-b015-4926-b376-3bdfb660c5f9-lg.webp",
+    "https://content.estitor.com/f7047f2a-851e-4163-8b70-8196bd4cf828-lg.webp",
+    "https://content.estitor.com/856f47a5-3181-4db3-bb4d-2d7d8a9e0856-lg.webp",
+    "https://content.estitor.com/edc053b2-1d1b-434a-be02-3658ac5d7876-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan studio -apartman u srcu Bečića, jednom od najtraženijih delova Budve, idealan za udoban život. Ovaj potpuno opremljen apartman/ garsonjera površine 29.0 m² nalazi se na 1 spratu i nudi sve što je potrebno za savremeni način života. Uživajte u komforu uz klimatizaciju, brz internet i tv. Funkcionalna kuhinja sa trpezarijom čini prostor praktičnim i prijatnim za boravak. Stan raspolaže sa jednim kupatilom. Lokacija je izuzetno povoljna, pružajući miran kraj dok ste blizu svih gradskih sadržaja i prelepih plaža. Dostupan je javni parking u neposrednoj blizini. Stan je odmah useljiv, spreman da vam pruži topli dom u prelepim Bečićima., Osunčan",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:19.261156+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.508824+00:00",
+  "source_html_sha256": "19404a8b2104e92801db5bb6d38ac2f6792980fc9c76133c0146f11da83aeecd",
+  "title": "Izdavanje, garsonjera, 29m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-14",
+  "updated_date": "2026-09-14",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 29,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "M1, Bečići, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Anđa Knežević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan studio -apartman u srcu Bečića, jednom od najtraženijih delova Budve, idealan za udoban život. Ovaj potpuno opremljen apartman/ garsonjera površine 29.0 m² nalazi se na 1 spratu i nudi sve što je pot...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!780",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267506866",
+      "name": "Anđa Knežević",
+      "email": null,
+      "source": "workbook:Outreach list!780"
+    },
+    {
+      "phone_e164": "+38267506866",
+      "name": "Anđa Knežević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267506866"
+  ],
+  "phone_e164": "+38267506866",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

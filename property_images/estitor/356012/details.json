@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "356012",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-356012",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-356012"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 417,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_356012",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Parking": "Da",
+    "Udaljenost od mora": "500 m",
+    "Internet": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6d6d52f0-3c95-4470-9e45-08d9a0351e88-lg.webp",
+    "https://content.estitor.com/6fa52080-4f85-463b-804d-695a16c5f72f-lg.webp",
+    "https://content.estitor.com/d7759d9c-8eed-4443-aff2-eb8975978909-lg.webp",
+    "https://content.estitor.com/880daca4-d54f-42a5-b2f9-4d9c33fe693b-lg.webp",
+    "https://content.estitor.com/6ed2e6dd-a4c7-4c2e-b633-abceb522036f-lg.webp",
+    "https://content.estitor.com/4413ae46-3a3e-4f74-b805-d51ed5b14a95-lg.webp",
+    "https://content.estitor.com/d76fa8f9-c450-477f-827d-d16ab0122283-lg.webp",
+    "https://content.estitor.com/ce348429-2ade-4236-8299-100ef5fc5c4e-lg.webp",
+    "https://content.estitor.com/e9b3006d-2028-477a-838e-6de6da06dbf9-lg.webp",
+    "https://content.estitor.com/6d47bccb-6a0e-4de0-a78a-611cc6e786b0-lg.webp",
+    "https://content.estitor.com/fe5b5bb7-6446-4a72-89a9-0e023286a5e1-lg.webp",
+    "https://content.estitor.com/b75e2ba9-60b0-4b02-aa6f-4242928a7e64-lg.webp",
+    "https://content.estitor.com/67885416-dba7-40a0-80bb-68efd9f3c26d-lg.webp",
+    "https://content.estitor.com/17954315-64b3-4ab7-99eb-643f57bea153-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Otkrijte izuzetan luksuzni penthaus stan dostupan za dugoročni najam, savršeno smješten na samo 3 minuta hoda od prestižnog Porto Montenegra i živopisnog Boka Place.\nOva prostrana rezidencija od 100 m² nudi tri udobne spavaće sobe i jedno moderno kupatilo, nudeći idealan raspored za porodice ili profesionalce. Sadrži visokokvalitetne završne obrade i dolazi potpuno namješten (Opremljen) sa istančanim ukusom, odražavajući njegov luksuzni (Lux) status.\nUživajte u modernim pogodnostima uključujući posvećeno parking mjesto, brzi internet i siguran interfon sistem (Interfon). Dobro opremljena kuhinja, prijatno predsoblje (Predsoblje) i efikasan raspored obezbjeđuju udobno i sofisticirano životno iskustvo.\nDostupno za dugoročni najam po cijeni od 1300.0 EUR mjesečno. Ne propustite priliku da doživite luksuzan život na jednoj od najtraženijih lokacija., Blizu škole, Odmah useljiv, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:09.998192+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.362164+00:00",
+  "source_html_sha256": "d387e1c919685ea304960553b21f460d0a77175addf5aeab6d6f989db788f82c",
+  "title": "Izdavanje, trosoban stan, 100m², Tivat, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2025-03-25",
+  "updated_date": "2026-08-27",
+  "price_amount": 1300,
+  "price_currency": "EUR",
+  "price_raw": "1300 EUR",
+  "area_m2": 100,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Ana Paskalj",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Da",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Otkrijte izuzetan luksuzni penthaus stan dostupan za dugoročni najam, savršeno smješten na samo 3 minuta hoda od prestižnog Porto Montenegra i živopisnog Boka Place. Ova prostrana rezidencija od 100 m² nudi tri udobne...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!417",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267845825",
+      "name": "Ana Paskalj",
+      "email": null,
+      "source": "workbook:Outreach list!417"
+    },
+    {
+      "phone_e164": "+38267845825",
+      "name": "Ana Paskalj",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267845825"
+  ],
+  "phone_e164": "+38267845825",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

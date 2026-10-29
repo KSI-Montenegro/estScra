@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "603027",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-603027",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-603027"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 731,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_603027",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bcf97fa0-7210-41de-91b5-e005a962dd6a-lg.webp",
+    "https://content.estitor.com/7bbd9773-d246-4044-b066-db5d8305db38-lg.webp",
+    "https://content.estitor.com/9237729a-c229-4729-917a-678c177a9258-lg.webp",
+    "https://content.estitor.com/5aea91e7-96a8-42ce-b6c7-92f47a2a8244-lg.webp",
+    "https://content.estitor.com/137aad5a-accb-4276-91db-2ff5bb2f1612-lg.webp",
+    "https://content.estitor.com/65aa289a-da79-43c9-bb45-38809f074f9a-lg.webp",
+    "https://content.estitor.com/8ec39be9-017a-4fe0-9932-5112b1f3d881-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem namješten jednosoban stan na Starom aerodromu, u neposrednoj blizini vrtića, Doma zdravlja i Osnovne škole „Pavle Rovinski\".",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:48.038785+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.070901+00:00",
+  "source_html_sha256": "dc09f48ad7c12459293bf25c982b7f014f57737f8afd98003e6754eda54ef0ec",
+  "title": "Izdavanje, jednosoban stan, 38m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-27",
+  "updated_date": "2026-08-27",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "price_raw": "280 EUR",
+  "area_m2": 38,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Vladan Femic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem namješten jednosoban stan na Starom aerodromu, u neposrednoj blizini vrtića, Doma zdravlja i Osnovne škole „Pavle Rovinski\".",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!731",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269884131",
+      "name": "Vladan Femic",
+      "email": null,
+      "source": "workbook:Outreach list!731"
+    },
+    {
+      "phone_e164": "+38269884131",
+      "name": "Vladan Femic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269884131"
+  ],
+  "phone_e164": "+38269884131",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

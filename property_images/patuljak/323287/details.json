@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "323287",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-na-zabljakupodgora--323287",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-na-zabljakupodgora--323287"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 128,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_323287",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!128:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Borje",
+    "Adresa": "KO Borje II",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "17803 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_14.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Prodaje se na Žabljaku,Podgora,Crna Gora zemljište ukupne površine 17 803 metra kvadratna,KO Borje II,katastarska parcela broj 121/23.Vlasništvo 1/1 bez tereta i ograničenja.Zemljište se nalazi u Eko selu Podgora,udaljenom od strogog centra Žabljaka 6,9km i 1,5km od kanjona rijeke Tare,a u blizini je Nacionalni park Durmitor.U rasponu od 10 minuta do 1h laganog hoda kroz lijepe visoravni i duboke šume dolazite do vidikovaca kanjona rijeke Tare koji je drugi po veličini u svijetu:Vilino guvno,Soa,Ćurevac,Brojila,... .Parcela je obogaćena četinarskom šumom borovima,smrčama i jelama.Pri dolaski i odlaski sa placa se pruža fantastičan pogled na planinske vrhove i visove Durmitora.Žabljak je jedan od centara ljetnjeg i zimskog turizma u Crnoj Gori, i mnogi ga smatraju vazdušnom banjom.Grad je sa svojih 1456 mnm najviše urbano naselje u Jugoistočnoj Evropi,sa 18 planinskih jezera i 23 planinska vrha preko 2200m visine.Parcela je gotovo pravougaonog oblika,skoro ravna,slijedećih dimenzija 147x114x135x144m.U blizini placa je struja i gradski vodovod.Plac je po konfiguraciji i veličini pogodan za izgradnju hotela,etno sela,kampa ili apartmanskog naselja sa pratećim objektima.Asfaltni put dolazi do 300m od placa (tokom zimskih mjeseci se redovno održava) i zatim ide makadamski put direktno do placa.\nCijena po metru kvadratnom je 16 eura.\ntelefon mobilni,Viber,WhatsApp: +382 67 847 818\ne-mail:todoric@t-com.me",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:40.701882+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.000754+00:00",
+  "source_html_sha256": "2fb29a1da0e609d7d45802ca829f87c136eaaefe3d344c377938d40bc4ee2475",
+  "title": "Prodajem plac na Žabljaku,Podgora",
+  "description_language": "en",
+  "price_raw": "16.00€",
+  "price_amount": 16,
+  "price_currency": "EUR",
+  "advertiser_name": "Darijo",
+  "property_type": "land",
+  "city": "Žabljak",
+  "district": "Borje",
+  "street_address": "KO Borje II",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se na Žabljaku,Podgora,Crna Gora zemljište ukupne površine 17 803 metra kvadratna,KO Borje II,katastarska parcela broj 121/23.Vlasništvo 1/1 bez tereta i ograničenja.Zemljište se nalazi u Eko selu Podgora,udaljenom od strogog centra Žabljaka 6,9km i 1,5km od kanjona rijeke Tare,a u blizini je Nacionalni park Durmitor.U rasponu od 10 minuta do 1h laganog hoda kroz lijepe visoravni i duboke šume dolazite do vidikovaca kanjona rijeke Tare koji je drugi po veličini u svijetu:Vilino guvno,Soa,Ćurevac,Brojila,... .Parcela je obogaćena četinarskom šumom borovima,smrčama i jelama.Pri dolaski i odlaski sa placa se pruža fantastičan pogled na planinske vrhove i visove Durmitora.Žabljak je jedan od centara ljetnjeg i zimskog turizma u Crnoj Gori, i mnogi ga smatraju vazdušnom banjom.Grad je sa svojih 1456 mnm najviše urbano naselje u Jugoistočnoj Evropi,sa 18 planinskih jezera i 23 planinska vrha preko 2200m visine.Parcela je gotovo pravougaonog oblika,skoro ravna,slijedećih dimenzija 147x114x135x144m.U blizini placa je struja i gradski vodovod.Plac je po konfiguraciji i veličini pogodan za izgradnju hotela,etno sela,kampa ili apartmanskog naselja sa pratećim objektima.Asfaltni put dolazi do 300m od placa (tokom zimskih mjeseci se redovno održava) i zatim ide makadamski put direktno do placa.Cijena po metru kvadratnom je 16 eura.telefon mobilni,Viber,WhatsApp:  +382  67  847  818e-mail:todoric@t-com.me ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!128",
+      "notes": "check deal: sale at 16 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267847818",
+      "name": "Darijo",
+      "email": null,
+      "source": "workbook:Not homes!128"
+    }
+  ],
+  "contact_phones": [
+    "+38267847818"
+  ],
+  "phone_e164": "+38267847818",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 17803,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

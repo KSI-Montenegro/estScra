@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "78504",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stana--78504",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stana--78504"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 168,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78504",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!168:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Kotor",
+    "Naselje": "Risan",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Kvadratura": "50 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Laminat",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "2",
+    "Pogled na more": "Ima",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:06.141197+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.844166+00:00",
+  "source_html_sha256": "5f931dba2d5821702d0e78a7cea2aaf4c1640bec730f969e333ae63d0ea4a900",
+  "title": "Izdavanje stana",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "niba",
+  "property_type": "apartment",
+  "city": "Kotor",
+  "district": "Risan",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "2",
+  "area_m2": 50,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Izdavanje stana",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!168",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268380447",
+      "name": "niba",
+      "email": null,
+      "source": "workbook:Outreach list!168"
+    }
+  ],
+  "contact_phones": [
+    "+38268380447"
+  ],
+  "phone_e164": "+38268380447",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

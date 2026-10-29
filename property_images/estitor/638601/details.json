@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "638601",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-638601",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-638601"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 113,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_638601",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/39d9f2ce-eabb-4f11-bda9-99f4c5700773-lg.webp",
+    "https://content.estitor.com/5a1f8f42-bfd7-40e1-9cb7-6e99f89f2802-lg.webp",
+    "https://content.estitor.com/4d7ce7a3-d53e-43eb-aa1b-a3e36aefad59-lg.webp",
+    "https://content.estitor.com/88ec0392-375e-4743-a76a-6b22a3ee61a9-lg.webp",
+    "https://content.estitor.com/2657a2ac-2c6e-4d4c-bb04-21e93d7952f6-lg.webp",
+    "https://content.estitor.com/0112c906-2ecf-499b-bcff-075875e3e511-lg.webp",
+    "https://content.estitor.com/0583398b-b352-428e-9dc8-022b660c7c0b-lg.webp",
+    "https://content.estitor.com/6e185106-09b5-49f4-9c57-e528a5320b69-lg.webp",
+    "https://content.estitor.com/12412fe6-c5c5-4e03-96f3-d41712468cf5-lg.webp",
+    "https://content.estitor.com/f53c0568-1657-4159-a230-f72df250736c-lg.webp",
+    "https://content.estitor.com/cd6ee346-82c7-444b-b7ee-e3959696c350-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan poslovni prostor u Tivat, idealan za različite poslovne namjene.\nSmješten u novogradnji na prizemlju (sprat 0), ovaj prostor od 50.0 m² pruža odličnu priliku za pokretanje ili proširenje vašeg biznisa. Prostor je neopremljen, što vam omogućava da ga u potpunosti prilagodite svojim potrebama i brendu.\nSastoji se od predsoblja, hodnika, kuhinje, trpezarije, jedne spavaće sobe i jednog kupatila. Ovaj raspored nudi fleksibilnost za kreiranje funkcionalnog radnog okruženja, bilo da je u pitanju kancelarija, kozmetički salon, ordinacija ili drugi tip djelatnosti. Kuhinja i trpezarija mogu služiti kao zona za osoblje ili prostor za pauze.\nDodatne pogodnosti uključuju podno grijanje i klimatizaciju, obezbjeđujući komfor tokom cijele godine. Parking je dostupan ispred objekta, što je velika prednost za klijente i zaposlene. Zgrada je u završnoj fazi.\nTivat, kao dinamičan grad na obali, nudi rastuće tržište i odličnu povezanost. Ne propustite ovu priliku za zakup atraktivnog poslovnog prostora na prestižnoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:00.998184+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.783263+00:00",
+  "source_html_sha256": "ee440aff18d07b48b415c85e732a298f74a7d43364770e9bc0b377cc10af1449",
+  "title": "Izdavanje, poslovni prostor, 50m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-25",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Mrčevac I, Mrčevac, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Anastasija Vuksic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Grijanje podno",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan poslovni prostor u Tivat, idealan za različite poslovne namjene.Smješten u novogradnji na prizemlju (sprat 0), ovaj prostor od 50.0 m² pruža odličnu priliku za pokretanje ili proširenje vašeg biznisa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!113",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267877744",
+      "name": "Anastasija Vuksic",
+      "email": null,
+      "source": "workbook:Likely agents!113"
+    },
+    {
+      "phone_e164": "+38267877744",
+      "name": "Anastasija Vuksic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267877744"
+  ],
+  "phone_e164": "+38267877744",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

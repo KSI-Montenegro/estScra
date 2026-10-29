@@ -1,0 +1,185 @@
+{
+  "source": "estitor",
+  "listing_id": "633965",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633965",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633965"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 231,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_633965",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 550,
+      "workbook_value": 600,
+      "source": "workbook:Outreach list!231"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/402a5747-46d5-42ec-a565-ad0168c75e83-lg.webp",
+    "https://content.estitor.com/3f3e7aec-6226-46e2-ab9d-5071b5b394af-lg.webp",
+    "https://content.estitor.com/8051402c-5a31-481c-94d3-c4ef3b0c81e6-lg.webp",
+    "https://content.estitor.com/f82af9b1-68a4-433e-b174-128ff0ae49d5-lg.webp",
+    "https://content.estitor.com/a4c24ced-6199-460f-b481-a10d84828886-lg.webp",
+    "https://content.estitor.com/8e8e7fa8-1712-4e59-b57f-f72ecb39574f-lg.webp",
+    "https://content.estitor.com/90b63e08-f1db-41cb-a6f6-53fe9e1f5555-lg.webp",
+    "https://content.estitor.com/6f63039b-0a80-48e7-b820-9d6998790eaf-lg.webp",
+    "https://content.estitor.com/e975bb82-0049-4086-a282-5a65a4cc6f3c-lg.webp",
+    "https://content.estitor.com/cfec6f95-274f-421b-9eaa-bfb39404e41c-lg.webp",
+    "https://content.estitor.com/5ef32cba-0820-4b54-acc9-62eb38cad741-lg.webp",
+    "https://content.estitor.com/bf6f0999-5cf6-48bd-a20e-01dadfce8a9f-lg.webp",
+    "https://content.estitor.com/1bee63dc-8f57-411e-87ce-b400f267c912-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Predstavljamo izuzetan stan za izdavanje u prestižnom kompleksu Stara Pekara, Budva, u mirnom dijelu Babin Do. Ovaj pažljivo projektovan prostor, površine 53.0 m², idealan je za komforan život ili luksuzan odmor. Stan se nalazi na drugom spratu (2 sprat) i odlikuje se modernim dizajnom i visokokvalitetnom gradnjom. Kompletno je opremljen i odmah useljiv, nudi vam udobnost bez dodatnih ulaganja. Sastoji se od jedne spavaće sobe i jednog kupatila, uz prostran dnevni boravak i potpuno opremljenu kuhinju. Uživajte u obilju prirodnog svjetla zahvaljujući odličnoj osunčanosti stana. Kao dio novogradnje luksuznog karaktera, stan nudi brojne pogodnosti: dostupan je lift, internet konekcija, klima uređaj za optimalnu temperaturu tokom cijele godine, kao i interfon za vašu sigurnost. Poseban bonus je pripadajuće dvorište, idealno za opuštanje. Obezbijeđen je javni parking u okolini kompleksa. Lokacija u mirnom kraju garantuje mir i tišinu, dok je blizina svih gradskih sadržaja prednost. Ne propustite priliku da postanete stanar ove izuzetne nekretnine. Stan je na udaljenosti 5 minuta hoda od mora, Osunčan, Novogradnja, Lux, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:39.361514+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.228461+00:00",
+  "source_html_sha256": "671af36a22b814eaba0dabe26ac0f7b5f4e939dccbb9eba596f85b7b03315cf2",
+  "title": "Izdavanje, jednosoban stan, 53m², Babin Do, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-12",
+  "updated_date": "2026-10-27",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 53,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Milica Ilic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Predstavljamo izuzetan stan za izdavanje u prestižnom kompleksu Stara Pekara, Budva, u mirnom dijelu Babin Do. Ovaj pažljivo projektovan prostor, površine 53.0 m², idealan je za komforan život ili luksuzan odmor. Stan...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!231",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269932336",
+      "name": "Milica Ilic",
+      "email": null,
+      "source": "workbook:Outreach list!231"
+    },
+    {
+      "phone_e164": "+38269932336",
+      "name": "Milica Ilic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269932336"
+  ],
+  "phone_e164": "+38269932336",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

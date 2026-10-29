@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "587279",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587279",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587279"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 700,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_587279",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4a35afb5-013e-408e-bdff-293de831cd8b-lg.webp",
+    "https://content.estitor.com/1b75e969-2243-4c9a-978c-94047cf00ebe-lg.webp",
+    "https://content.estitor.com/3e06ceea-1aee-42f3-b7da-dbaf1a4969a0-lg.webp",
+    "https://content.estitor.com/fd71e7e2-ba5a-4b0e-bdc7-27a32d75a3a5-lg.webp",
+    "https://content.estitor.com/8dd08616-3432-45c5-a422-7a445ddfd9e9-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se kompletno namještena i lijepo osvijetljena garsonjera površine 30 m2, smještena na odličnoj lokaciji na Tuškom putu, na drugom spratu zgrade koja posjeduje lift. Stan se odlikuje izuzetno funkcionalnim rasporedom i prijatnim ambijentom, a poseban adut ove nekretnine jeste prelijepa, prostrana terasa koja pruža savršen kutak za svakodnevno opuštanje i uživanje. Kompletno je opremljena savremenim namještajem i svim potrebnim kućnim aparatima, spremna za useljenje bez dodatnih ulaganja. Takođe, ispred zgrade se nalazi dosta besplatnog javnog parkinga dostupnog za stanare.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:32.491527+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.903158+00:00",
+  "source_html_sha256": "f58af0e1b720729bd40c1a3bd62b4aa2a70d080cc28033124066fd85b1158d8b",
+  "title": "Izdavanje, garsonjera, 30m², Tuški Put, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-03",
+  "updated_date": "2026-09-10",
+  "price_amount": 320,
+  "price_currency": "EUR",
+  "price_raw": "320 EUR",
+  "area_m2": 30,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dusica",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se kompletno namještena i lijepo osvijetljena garsonjera površine 30 m2, smještena na odličnoj lokaciji na Tuškom putu, na drugom spratu zgrade koja posjeduje lift. Stan se odlikuje izuzetno funkcionalnim raspo...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!700",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267590040",
+      "name": "Dusica",
+      "email": null,
+      "source": "workbook:Outreach list!700"
+    },
+    {
+      "phone_e164": "+38267590040",
+      "name": "Dusica",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267590040"
+  ],
+  "phone_e164": "+38267590040",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

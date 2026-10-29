@@ -1,0 +1,160 @@
+{
+  "source": "patuljak",
+  "listing_id": "76725",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-poslovni-prostor--76725",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-poslovni-prostor--76725"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 991,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76725",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Pobrežje",
+    "Adresa": "Filipa Lainovića 52",
+    "Broj prostorija": "1",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "1",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Jugozapad",
+    "Parking mjesto": "2",
+    "Stambena kvadratura": "117m2 m2",
+    "Uknjiženo": true,
+    "Novogradnja": true,
+    "Parking": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_8.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor površine 117 m2, smjesten u prizemlju u novom kvartu zgrada na Pobrezju, u zgradi Razvrsja.\nProstor je kompletno sredjen, ima dva toaleta i spreman je za useljenje.\nDvostrano je orijentisan, sa velikim staklenim površinama na obje strane, što obezbjeduje odličnu osvijetljenost i vidljivost.\nPosjeduje dva ulaza - jedan sa ulicne strane, a drugi iz dvorista, sto omogućava laku adaptaciju za razlicite tipove poslovnih djelatnosti.\nDepozit u visini jedne mjesečne zakupnine i ugovor\nna duzi period su obavezni.\nKontakt: 067/819-819",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:37.916493+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.548970+00:00",
+  "source_html_sha256": "e351354a19aee447b7e9710d834cc742a4990caf4c47f11be153d1d4d35f4a29",
+  "title": "Izdaje se poslovni prostor",
+  "description_language": "en",
+  "price_raw": "2000.00€",
+  "price_amount": 2000,
+  "price_currency": "EUR",
+  "advertiser_name": "Danijela",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Pobrežje",
+  "street_address": "Filipa Lainovića 52",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": true,
+  "area_m2": 117,
+  "parking_spaces": 2,
+  "amenities": [
+    "Uknjiženo",
+    "Novogradnja",
+    "Parking",
+    "Voda",
+    "Struja",
+    "Kanalizacija"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor površine 117 m2, smjesten u prizemlju u novom kvartu zgrada na Pobrezju, u zgradi Razvrsja.Prostor je kompletno sredjen, ima dva toaleta i spreman je za useljenje.Dvostrano je orijentisan, sa velikim staklenim površinama na obje strane, što obezbjeduje odličnu osvijetljenost i vidljivost.Posjeduje dva ulaza - jedan sa ulicne strane, a drugi iz dvorista, sto omogućava laku adaptaciju za razlicite tipove poslovnih djelatnosti.Depozit u visini jedne mjesečne zakupnine i ugovorna duzi period su obavezni.Kontakt: 067/819-819",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!991",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267819819",
+      "name": "Danijela",
+      "email": null,
+      "source": "workbook:Outreach list!991"
+    }
+  ],
+  "contact_phones": [
+    "+38267819819"
+  ],
+  "phone_e164": "+38267819819",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

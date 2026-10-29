@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "606115",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606115",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606115"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 906,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_606115",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/083a99c0-a561-4e1b-ab29-77ca0ae8e6ea-lg.webp",
+    "https://content.estitor.com/9d6c705f-4b63-47cb-a5aa-d2d4b5948bce-lg.webp",
+    "https://content.estitor.com/efcfb34a-0223-4a48-892d-60e51ae9811b-lg.webp",
+    "https://content.estitor.com/2c1e392b-a3e7-4be7-a436-8859d7a6437a-lg.webp",
+    "https://content.estitor.com/d1ce0a27-7160-4dbf-a594-9a8c93c48501-lg.webp",
+    "https://content.estitor.com/4992b316-34f4-4003-85d4-897b913646c0-lg.webp",
+    "https://content.estitor.com/a6ede8aa-d6c6-4ab6-99df-bd24aa90a49c-lg.webp",
+    "https://content.estitor.com/c2296162-3f40-4578-9c97-de329d64c8c4-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Na izuzetnoj lokaciji, u mirnom i prestižnom dijelu Podgorice, izdaje se nov, luksuzno opremljen jednosoban stan. Stan se nalazi na svega 700m od Big Fashion mall-a, što omogućava odličnu povezanost sa svim bitnim sadržajima u gradu. Površina stana je 45m², sastoji se od prostrane dnevne sobe sa kuhinjom, udobne spavaće sobe i savremeno opremljenog kupatila. Stan je pun prirodne svjetlosti, klimatizovan i ima veliki balkon sa panoramskim pogledom. Stan je dizajniran za udoban i savremen način života sa pažnjom na svaki detalj. Idealan za sve one koji žele komfor i luksuz u blizini svih bitnih objekata i sadržaja. Vaš novi dom čeka na Vas!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:47.653318+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.899612+00:00",
+  "source_html_sha256": "8ae2f2139752c111399d63020b5dfdd82aac0c27cb84145f13d00939614a1ef6",
+  "title": "Izdavanje, jednosoban stan, 45m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-01",
+  "updated_date": "2026-09-01",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Titex, 55 8. Marta, Podgorica 81000, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Marija Damjanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Na izuzetnoj lokaciji, u mirnom i prestižnom dijelu Podgorice, izdaje se nov, luksuzno opremljen jednosoban stan. Stan se nalazi na svega 700m od Big Fashion mall-a, što omogućava odličnu povezanost sa svim bitnim sad...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!906",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267632799",
+      "name": "Marija Damjanovic",
+      "email": null,
+      "source": "workbook:Outreach list!906"
+    },
+    {
+      "phone_e164": "+38267632799",
+      "name": "Marija Damjanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267632799"
+  ],
+  "phone_e164": "+38267632799",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

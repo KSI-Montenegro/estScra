@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "620697",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-620697",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-620697"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 821,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620697",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/acff3cc1-d9a1-4fb4-9db5-85f4fe25f8cb-lg.webp",
+    "https://content.estitor.com/df01b525-b645-49df-80b0-2886f160f447-lg.webp",
+    "https://content.estitor.com/1e83883c-ce71-4406-ad96-4096fe21c79c-lg.webp",
+    "https://content.estitor.com/e3419df7-1645-4fb7-bfd8-2f6b9387781f-lg.webp",
+    "https://content.estitor.com/00ecfce3-463b-45c1-bf83-97b332ae1530-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Stan je površine 60 kvadratnih metara, sa dvije prostrane sobe. Potpuno je opremljen i spreman za useljenje, tako da vam nije potrebno dodatno ulaganje.\n\nNalazi se svega 50 metara udaljenosti od Osnovne škole 'Njegoš', Doma zdravlja 'Cetinje' i autobuske stanice. Glavno šetalište je na par minuta hoda od stana, pružajući vam pristup brojnim restoranima, kafićima i prodavnicama.\n\nMinimalni period zakupa je 12 mjeseci. Prilikom uplate prve kirije, obavezan je depozit koji će biti vraćen po isteku ugovora.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:49.958627+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.036587+00:00",
+  "source_html_sha256": "3141dfd926ff45a291128596da813d123fcf561f85ac20be3adb84de817a2dfb",
+  "title": "Izdavanje, dvosoban stan, 60m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-09-28",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "6 Grahovska, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Miloš Perišić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Stan je površine 60 kvadratnih metara, sa dvije prostrane sobe. Potpuno je opremljen i spreman za useljenje, tako da vam nije potrebno dodatno ulaganje.Nalazi se svega 50 metara udaljenosti od Osnovne škole 'Njegoš', ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!821",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268798740",
+      "name": "Miloš Perišić",
+      "email": null,
+      "source": "workbook:Outreach list!821"
+    },
+    {
+      "phone_e164": "+38268798740",
+      "name": "Miloš Perišić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268798740"
+  ],
+  "phone_e164": "+38268798740",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

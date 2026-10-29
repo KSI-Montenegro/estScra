@@ -1,0 +1,162 @@
+{
+  "source": "patuljak",
+  "listing_id": "563238",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-garsonjera-23m2-centar-budva--563238",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-garsonjera-23m2-centar-budva--563238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 121,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_563238",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!121:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Centar",
+    "Adresa": "Jadranski put",
+    "Broj soba": "Garsonjera",
+    "Namješten": true,
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Pločice",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "23 m2",
+    "Kvadratura balkona": "2 m2",
+    "Balkon": true,
+    "Voda": true,
+    "Struja": true,
+    "Klima": true,
+    "Internet": true,
+    "Za studente": true,
+    "Dozvoljeni ljubimci": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_8.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem namještenu garsonjeru u centru Budve, na svega nekoliko minuta hoda od plaže, kao i od Starog grada. Nalazi se na drugom spratu zgrade, na Jadranskom putu u blizini semafora prema Kotoru.\nIzdaje se na duži vremenski period. Uslovi plaćanja - prvi i poslednji mjesec, kao i depozit u visini jedne mjesečne kirije.\n\nU cijenu nisu uračunati režijski troškovi.\n\nStan je dostupan od novembra 2026.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:38.926136+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.573372+00:00",
+  "source_html_sha256": "265e35049d499c1bad227148b3a20b24e462504e9ce2dcff3a5533dcd49b6587",
+  "title": "Za izdavanje garsonjera 23m2, Centar, Budva",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Jelena",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Centar",
+  "street_address": "Jadranski put",
+  "floor_raw": "2",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": true,
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 23,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Voda",
+    "Struja",
+    "Klima",
+    "Internet",
+    "Za studente",
+    "Dozvoljeni ljubimci"
+  ],
+  "metadata_summary": "Izdajem namještenu garsonjeru u centru Budve, na svega nekoliko minuta hoda od plaže, kao i od Starog grada. Nalazi se na drugom spratu zgrade, na Jadranskom putu u blizini semafora prema Kotoru.Izdaje se na duži vremenski period. Uslovi plaćanja - prvi i poslednji mjesec, kao i depozit u visini jedne mjesečne kirije.U cijenu nisu uračunati režijski troškovi.Stan je dostupan od novembra 2026.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!121",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267592522",
+      "name": "Jelena",
+      "email": null,
+      "source": "workbook:Outreach list!121"
+    }
+  ],
+  "contact_phones": [
+    "+38267592522"
+  ],
+  "phone_e164": "+38267592522",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

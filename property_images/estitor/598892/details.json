@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "598892",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-598892",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-598892"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 920,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_598892",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kablovska": "true",
+    "Interfon": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/589026ed-074c-4747-8534-1b5617994b9d-lg.webp",
+    "https://content.estitor.com/e6b6b3c5-6794-415e-95c4-00ac445032d9-lg.webp",
+    "https://content.estitor.com/35c7a819-32f6-4e80-89c0-3f388ebfb8fc-lg.webp",
+    "https://content.estitor.com/1c3a776a-3410-4493-b59e-9286308a005b-lg.webp",
+    "https://content.estitor.com/66a3cbc5-b95f-4b41-969c-e61fb91f17ba-lg.webp",
+    "https://content.estitor.com/bba383b7-cd9e-46e5-ab07-256581e5ecd8-lg.webp",
+    "https://content.estitor.com/1bdb8779-2b1e-44e7-a9a1-55d3cd4a5665-lg.webp",
+    "https://content.estitor.com/9c338547-08e9-476f-8827-eefcac293f99-lg.webp",
+    "https://content.estitor.com/7492d51e-4098-4b93-bfec-88870e375d9d-lg.webp",
+    "https://content.estitor.com/af114041-f850-496a-b590-8fe9d15b1d55-lg.webp",
+    "https://content.estitor.com/1507c1af-8c6a-4d32-8851-5b7cf82e4128-lg.webp",
+    "https://content.estitor.com/6d80edae-9d8d-42df-9334-77837142b26d-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdajem kompletno namjesten apartman 38 m2 na duzi vremenski period bez posrednika(bulevar Dzordza vasingtona 57 Podgorica) ,drugi sprat ,ima lift.Nalazi se u blizini Atlas centra,Klinickog centra,Tehničkih fakultteta.tel.069352233",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:58.047102+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.044581+00:00",
+  "source_html_sha256": "0f5ac8f6c504dea8b4edfd57feca2a7c486803aa0fba2f640f36f8d669c61f2d",
+  "title": "Izdavanje, garsonjera, 38m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-22",
+  "updated_date": "2026-10-06",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 38,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "57 Bulevar Džordža Vašingtona, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Vlasnik Vlasnik",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Kablovska",
+    "Interfon"
+  ],
+  "metadata_summary": "Izdajem kompletno namjesten apartman 38 m2 na duzi vremenski period bez posrednika(bulevar Dzordza vasingtona 57 Podgorica) ,drugi sprat ,ima lift.Nalazi se u blizini Atlas centra,Klinickog centra,Tehničkih fakultteta...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!920",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269352233",
+      "name": "Vlasnik Vlasnik",
+      "email": null,
+      "source": "workbook:Outreach list!920"
+    },
+    {
+      "phone_e164": "+38269352233",
+      "name": "Vlasnik Vlasnik",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269352233"
+  ],
+  "phone_e164": "+38269352233",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

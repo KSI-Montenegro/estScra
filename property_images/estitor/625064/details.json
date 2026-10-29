@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "625064",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-625064",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-625064"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 294,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_625064",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2018",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ad16ab43-229d-453f-94fb-1504046b8fb1-lg.webp",
+    "https://content.estitor.com/cb2f1194-e520-4fde-89d3-9754a063aa86-lg.webp",
+    "https://content.estitor.com/df57f110-d632-4418-9fb5-0984ac107895-lg.webp",
+    "https://content.estitor.com/12d7ed33-71b4-4b72-a192-8688a316aeb4-lg.webp",
+    "https://content.estitor.com/6582ee20-252c-449f-ac76-957d72db98e2-lg.webp",
+    "https://content.estitor.com/1a7ae920-8187-4106-8caa-fe494242e79a-lg.webp",
+    "https://content.estitor.com/dd3364ab-e265-4f2f-a079-7c5f0fe1b0c7-lg.webp",
+    "https://content.estitor.com/2d6dfa96-acfe-4802-bcaf-bb48abc59258-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi blizu autobuske stanice Ulcinj, odmah useljiv, privatan parking sa rampom obezbijedjen, depozit obavezan u visini jedne kirije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:08.541299+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.631245+00:00",
+  "source_html_sha256": "38498013d3dc726230d342977dc5d3b8552cca2a98fbfbcf030f737f70a0de4f",
+  "title": "Izdavanje, jednosoban stan, 48m², Centar, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-28",
+  "updated_date": "2026-10-12",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Ulcinj",
+  "street_address": "Majke tereze bb. Ulcinj",
+  "country": "ME",
+  "advertiser_name": "Valdrin Zeka",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2018,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Stan se nalazi blizu autobuske stanice Ulcinj, odmah useljiv, privatan parking sa rampom obezbijedjen, depozit obavezan u visini jedne kirije.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!294",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269809186",
+      "name": "Valdrin Zeka",
+      "email": null,
+      "source": "workbook:Outreach list!294"
+    },
+    {
+      "phone_e164": "+38269809186",
+      "name": "Valdrin Zeka",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269809186"
+  ],
+  "phone_e164": "+38269809186",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

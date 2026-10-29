@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "509474",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-509474",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-509474"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 106,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_509474",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/962b4299-f4b5-47ce-ad7d-cbd96c5bd8e1-lg.webp",
+    "https://content.estitor.com/d842f90e-5620-4a7e-aea1-7d06762b688c-lg.webp",
+    "https://content.estitor.com/05ba3645-059e-4046-8e22-e076ac2e9262-lg.webp",
+    "https://content.estitor.com/2a978d9b-25cd-4ed3-87c4-02624c4c31a6-lg.webp",
+    "https://content.estitor.com/c5099436-ceb9-4b74-8154-9d6337826804-lg.webp",
+    "https://content.estitor.com/1a8739be-d14b-4c0f-9fb4-c4810682e94a-lg.webp",
+    "https://content.estitor.com/a722a33c-80ed-4c69-b618-267a5575d9ef-lg.webp",
+    "https://content.estitor.com/8c3480b4-3415-4cbf-9c99-d809f536c0f4-lg.webp",
+    "https://content.estitor.com/ea484a0f-182b-47d0-9b43-00cf61812041-lg.webp",
+    "https://content.estitor.com/f5731129-4aad-4aae-89ab-c47728a0769a-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan preko puta Kineske ambasade, odlicna lokacija, sa terasom ispred i parkingom na ulazu. Raspored ulazni hodnik, kupatilo, kuhinja i dnevna i spavaca soba. Posjeduje tv, klimu, masinu za pranje vesa.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:55.392486+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.709400+00:00",
+  "source_html_sha256": "5a62c3d476bae2fa6e17cb2ade2c493a769a972f6277964a0e489a37279a9641",
+  "title": "Izdavanje, dvosoban stan, 28m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-01-11",
+  "updated_date": "2026-09-13",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "price_raw": "200 EUR",
+  "area_m2": 28,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ena P.",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se stan preko puta Kineske ambasade, odlicna lokacija, sa terasom ispred i parkingom na ulazu. Raspored ulazni hodnik, kupatilo, kuhinja i dnevna i spavaca soba. Posjeduje tv, klimu, masinu za pranje vesa.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!106",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268408967",
+      "name": "Ena P.",
+      "email": null,
+      "source": "workbook:Likely agents!106"
+    },
+    {
+      "phone_e164": "+38268408967",
+      "name": "Ena P.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268408967"
+  ],
+  "phone_e164": "+38268408967",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

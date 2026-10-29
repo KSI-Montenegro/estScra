@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "596588",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596588",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596588"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 121,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_596588",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a51e25ce-e8f3-4153-bd78-9f056450f236-lg.webp",
+    "https://content.estitor.com/d3782d94-c21e-468d-b604-724c6c9804c6-lg.webp",
+    "https://content.estitor.com/cc5814c8-3c26-4ad9-9455-74dca739dd17-lg.webp",
+    "https://content.estitor.com/435af1f2-c0bf-41e8-a823-136f40e977cc-lg.webp",
+    "https://content.estitor.com/5eceac11-93d5-4d33-8b92-18c472f6443b-lg.webp",
+    "https://content.estitor.com/51a2cd6c-664f-408e-95d6-4bce6c72db9c-lg.webp",
+    "https://content.estitor.com/b72e1f03-624b-45af-9c82-8e83719a5002-lg.webp",
+    "https://content.estitor.com/04fa0d7f-6178-461c-b0c5-f724e5ba959b-lg.webp",
+    "https://content.estitor.com/07cad705-41cc-4495-bd14-d60d415276df-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Odličan dvosoban stan, renoviran, sa svojim parking mjestom ispod rampe.\nZgrada je smještena odmah iz Big Fashion tržnog centra.\nLift u zgradi.\nJugoistok.\nUseljiv odmah.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:08.415429+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.862828+00:00",
+  "source_html_sha256": "9786695c4774403161fd4a446bccd174ba706a0af4241f9ce7c9217d5e467eda",
+  "title": "Izdavanje, dvosoban stan, 65m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-19",
+  "updated_date": "2026-09-11",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ana Raickovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Odličan dvosoban stan, renoviran, sa svojim parking mjestom ispod rampe.Zgrada je smještena odmah iz Big Fashion tržnog centra.Lift u zgradi.Jugoistok.Useljiv odmah.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!121",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267233316",
+      "name": "Ana Raickovic",
+      "email": null,
+      "source": "workbook:Likely agents!121"
+    },
+    {
+      "phone_e164": "+38267233316",
+      "name": "Ana Raickovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267233316"
+  ],
+  "phone_e164": "+38267233316",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

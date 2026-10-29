@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "333485",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-333485",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-333485"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 665,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_333485",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dc501d75-ae4b-4f4f-9507-53863507ee78-lg.webp",
+    "https://content.estitor.com/5c810e17-308e-43a7-9041-ee9605bfa051-lg.webp",
+    "https://content.estitor.com/694f2636-c76a-4431-b153-60d637b0e8b1-lg.webp",
+    "https://content.estitor.com/dff22c76-b535-4c88-a1b8-8bcd48a82191-lg.webp",
+    "https://content.estitor.com/c898ea65-cc1f-47b7-bfcb-f443e32f9a9a-lg.webp",
+    "https://content.estitor.com/128c5a0e-ccb8-4afc-9ace-f33b96c681f7-lg.webp",
+    "https://content.estitor.com/1f55fc69-032d-4235-b879-a0fdd91a229e-lg.webp",
+    "https://content.estitor.com/eed6f29e-02a7-4745-840b-7e8d509019c6-lg.webp",
+    "https://content.estitor.com/29296377-8777-48ec-b44d-c82a5393042d-lg.webp",
+    "https://content.estitor.com/4462eef6-3de4-4479-a7cc-74e5ed614fc2-lg.webp",
+    "https://content.estitor.com/da0114ca-a774-4cd6-9658-2c9cf235ef22-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban namješten stan sa podzemnom garažom (opciono).",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:14.668107+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.711732+00:00",
+  "source_html_sha256": "6d9ff9b3c04cc8bcdc810cd0d7d964d1a71d15cc541351143c2e282390daa1ca",
+  "title": "Izdavanje, jednosoban stan, 47m², New City, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-01-28",
+  "updated_date": "2026-09-24",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dado Djokdjuric",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem jednosoban namješten stan sa podzemnom garažom (opciono).",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!665",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268521969",
+      "name": "Dado Djokdjuric",
+      "email": null,
+      "source": "workbook:Outreach list!665"
+    },
+    {
+      "phone_e164": "+38268521969",
+      "name": "Dado Djokdjuric",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268521969"
+  ],
+  "phone_e164": "+38268521969",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

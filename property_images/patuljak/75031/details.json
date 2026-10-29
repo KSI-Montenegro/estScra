@@ -1,0 +1,158 @@
+{
+  "source": "patuljak",
+  "listing_id": "75031",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-71-m2-new-city--75031",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-71-m2-new-city--75031"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 876,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_75031",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Dvosoban",
+    "Namješten": true,
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "71 m2",
+    "Kvadratura balkona": "4 m2",
+    "Balkon": true,
+    "Lift": true,
+    "Interfon": true,
+    "Garaža": true,
+    "Blindirana vrata": true,
+    "Video nadzor": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75031_1.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi u zgradi Kips gradnje u New City. Sastoji se od,prostranog dnevnog boravka sa trpezarijom i kuhinjom, dvije spavace sobe, toaleta, kupatila , hodnika i terase. Svaka prostorija ima izlaz na terasu. Ugrađen je multisplit sistem klimatizacije. U okviru cijene je i parking mjesto u garaži.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:27.639600+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.568812+00:00",
+  "source_html_sha256": "21efd9e10a9baab90effa7f9813717f5c51b33d2cda3ba70a8bc19ec76e8a2dd",
+  "title": "Izdajem dvosoban stan 71 m2, New City",
+  "description_language": "en",
+  "price_raw": "850.00€",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "advertiser_name": "Tanja",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": true,
+  "heating_raw": "Ostalo",
+  "parking_raw": "1",
+  "area_m2": 71,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Lift",
+    "Interfon",
+    "Garaža",
+    "Blindirana vrata",
+    "Video nadzor"
+  ],
+  "metadata_summary": "Stan se nalazi u zgradi Kips gradnje u New City. Sastoji se od,prostranog dnevnog boravka sa trpezarijom i  kuhinjom, dvije spavace sobe, toaleta, kupatila , hodnika i  terase. Svaka prostorija ima izlaz na terasu. Ugrađen je multisplit sistem klimatizacije. U okviru cijene je i parking mjesto u garaži.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!876",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267616091",
+      "name": "Tanja",
+      "email": null,
+      "source": "workbook:Outreach list!876"
+    }
+  ],
+  "contact_phones": [
+    "+38267616091"
+  ],
+  "phone_e164": "+38267616091",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "81914",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-45-m2-preko-morace-podgori--81914",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-45-m2-preko-morace-podgori--81914"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 151,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81914",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!151:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "45 m2",
+    "Kvadratura balkona": "10 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81914_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:55.488504+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.745735+00:00",
+  "source_html_sha256": "cf257c82ee2efa88e023e5b04fbd33a8b14c8e7c13d1b9813a54e883510ef6bd",
+  "title": "Izdajem jednosoban stan 45 m2, Preko Morače, Podgorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Velimir",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "4",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 45,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan 45 m2, Preko Morače, Podgorica",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!151",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269472427",
+      "name": "Velimir",
+      "email": null,
+      "source": "workbook:Outreach list!151"
+    }
+  ],
+  "contact_phones": [
+    "+38269472427"
+  ],
+  "phone_e164": "+38269472427",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "557101",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-557101",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-557101"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 128,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_557101",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/92e694ac-9991-4ba6-987c-d4f2e0621777-lg.webp",
+    "https://content.estitor.com/d241f64d-b2cc-428b-ab2a-15d99407b0bd-lg.webp",
+    "https://content.estitor.com/16c5025f-0464-42e6-83f2-ca1c73e9ea18-lg.webp",
+    "https://content.estitor.com/4927d160-ee5e-4cd4-bef2-0e96913cd80c-lg.webp",
+    "https://content.estitor.com/95acaf86-41fb-4f72-b6ec-7c332b112d67-lg.webp",
+    "https://content.estitor.com/edcc0c5b-e4e7-4776-b995-dec10aa9c45f-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:16.452868+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.939413+00:00",
+  "source_html_sha256": "36364bdff453f3c8b7208214515d318db3fff5e522d332dfd6ccf86331a247e9",
+  "title": "Izdavanje, dvosoban stan, 50m², Pržno, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-13",
+  "updated_date": "2026-09-06",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 50,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Неименовани Пут, Пржно, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Zora Mitrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Miran kraj, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!128",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269482600",
+      "name": "Zora Mitrovic",
+      "email": null,
+      "source": "workbook:Likely agents!128"
+    },
+    {
+      "phone_e164": "+38269482600",
+      "name": "Zora Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269482600"
+  ],
+  "phone_e164": "+38269482600",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

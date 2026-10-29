@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "564212",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-564212",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-564212"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 155,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_564212",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1940",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Internet": "true",
+    "Dvorište": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f2ce04ee-a1f5-4c20-93da-e81c424e06e6-lg.webp",
+    "https://content.estitor.com/32fa3ffb-67a4-47ca-8dd1-99bb96cbc2f9-lg.webp",
+    "https://content.estitor.com/5aaef8b3-a3de-4134-a9a8-be4ab7804bb2-lg.webp",
+    "https://content.estitor.com/10acc38d-18ae-4f6f-bc18-a49340d47257-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Kancelarija je opremljena video nadzorom i alarmom",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:53.077866+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.184628+00:00",
+  "source_html_sha256": "864c1120b711153cc4a0e8b79837c549c87e17bb91305e839b409d7c40c5890e",
+  "title": "Izdavanje, poslovni prostor, 10m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-30",
+  "updated_date": "2026-10-12",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "price_raw": "200 EUR",
+  "area_m2": 10,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "30 Marka Miljanova, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Dragan Brnović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 1940,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Internet",
+    "Dvorište"
+  ],
+  "metadata_summary": "Kancelarija je opremljena video nadzorom i alarmom",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!155",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268555485",
+      "name": "Dragan Brnović",
+      "email": null,
+      "source": "workbook:Not homes!155"
+    },
+    {
+      "phone_e164": "+38268555485",
+      "name": "Dragan Brnović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268555485"
+  ],
+  "phone_e164": "+38268555485",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

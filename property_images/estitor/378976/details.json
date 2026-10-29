@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "378976",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-378976",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-378976"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 737,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_378976",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2000",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Podrum": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a91f8e13-5201-4fb3-8053-dadb1e0cfe44-lg.webp",
+    "https://content.estitor.com/c4bc66f3-6582-4c4e-9244-604eab638a32-lg.webp",
+    "https://content.estitor.com/e5e5f0c4-9702-45c6-b509-d0daf061593d-lg.webp",
+    "https://content.estitor.com/af4c4ca2-540a-4eed-804b-646343e7e360-lg.webp",
+    "https://content.estitor.com/38239916-c6b1-4c11-a4bf-b08341be9a04-lg.webp",
+    "https://content.estitor.com/d7fc5ddc-66a2-49f3-842c-ac33ae92df80-lg.webp",
+    "https://content.estitor.com/1570852c-c97c-48ae-a2de-ed4d3e93f5ac-lg.webp",
+    "https://content.estitor.com/4470e862-688d-45a9-82e9-a5f078c6d233-lg.webp",
+    "https://content.estitor.com/dbf929d1-f573-499f-933c-30013f210559-lg.webp",
+    "https://content.estitor.com/2694e7a1-33da-47b0-aa42-ec9ec7fb2695-lg.webp",
+    "https://content.estitor.com/3466604c-8809-47b1-b17e-061c3558d62c-lg.webp",
+    "https://content.estitor.com/85eab422-6a6d-4c93-ac19-ec77631dd722-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Dvosoban stan na IV spratu skoro renoviran sa 3 balkona, nalazi se iza škole Pavle Rovinski. Jako je funkcionalan orijentisan istok jug. Posjeduje i podrum kao i parking mjesto ispred zgrade.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:50.657444+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.103373+00:00",
+  "source_html_sha256": "af180186eaae4d44ac3cd69dd5385f8ed97cf34c7319103e4403eb32c6dad143",
+  "title": "Izdavanje, dvosoban stan, 67m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-05-21",
+  "updated_date": "2026-08-25",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 67,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "broj 4 Zmaj Jovina, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Kostic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 3,
+  "year_built": 2000,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Podrum",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Dvosoban stan na IV spratu skoro renoviran sa 3 balkona, nalazi se iza škole Pavle Rovinski. Jako je funkcionalan orijentisan istok jug. Posjeduje i podrum kao i parking mjesto ispred zgrade.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!737",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269155194",
+      "name": "Nikola Kostic",
+      "email": null,
+      "source": "workbook:Outreach list!737"
+    },
+    {
+      "phone_e164": "+38269155194",
+      "name": "Nikola Kostic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269155194"
+  ],
+  "phone_e164": "+38269155194",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

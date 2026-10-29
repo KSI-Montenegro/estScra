@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "535589",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-535589",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-535589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 680,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_535589",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e88caf8c-6d16-434d-8cb4-09eff686dcf8-lg.webp",
+    "https://content.estitor.com/d51821dc-cdc6-4785-9852-446cb9ddbc6f-lg.webp",
+    "https://content.estitor.com/7b3b0a71-9998-434d-bbdd-bd048a8856af-lg.webp",
+    "https://content.estitor.com/79dbca2a-8faa-4bf2-ba68-04def78d918c-lg.webp",
+    "https://content.estitor.com/afe69812-3995-47a2-941c-cc4bcc115c92-lg.webp",
+    "https://content.estitor.com/369f0ddb-eacb-45d0-9cdd-321e20462932-lg.webp",
+    "https://content.estitor.com/733c5e05-5e9d-4b94-a200-8c4aa94b0fe0-lg.webp",
+    "https://content.estitor.com/58f3cecd-831d-4979-9b3e-d1b12fafc3a7-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan jednosoban stan u Podgorici, naselje Zagorič, idealan za udoban i savremen život. Smješten na trećem spratu novogradnje, ovaj stan nudi sve što vam je potrebno za komforan boravak.\n\nStan je površine 47 m² i funkcionalno je raspoređen, sastojeći se od jedne spavaće sobe, kupatila, hodnika i kompletno opremljene kuhinje. Za vašu udobnost, stan je klimatizovan, a zgrada posjeduje lift.\n\nUz stan dolaze i pogodnosti poput obezbijeđenog interneta i kablovske televizije. Parking je dostupan ispred objekta, što je velika prednost u ovom dijelu grada.\n\nZagorič je mirno i poželjno naselje sa svim neophodnim sadržajima u blizini. Stan se izdaje dugoročno po cijeni od 450 EUR mjesečno. Depozit je obavezan.\n\nZa više informacija i zakazivanje pregleda, kontaktirajte nas na +38269768493 (Telegram, WhatsApp, Viber).",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:22.720979+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.792297+00:00",
+  "source_html_sha256": "bd7b7c2f3b84e36030443acf2fe9bf7ec0c42f902b6d4a402c11ee7f0a15c6fc",
+  "title": "Izdavanje, jednosoban stan, 47m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-19",
+  "updated_date": "2026-09-17",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "7 Iva Andrića, Podgorica, Черногория",
+  "country": "ME",
+  "advertiser_name": "Natalya Dubinina",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderan jednosoban stan u Podgorici, naselje Zagorič, idealan za udoban i savremen život. Smješten na trećem spratu novogradnje, ovaj stan nudi sve što vam je potrebno za komforan boravak. Stan je površine 4...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!680",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269768493",
+      "name": "Natalya Dubinina",
+      "email": null,
+      "source": "workbook:Outreach list!680"
+    },
+    {
+      "phone_e164": "+38269768493",
+      "name": "Natalya Dubinina",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269768493"
+  ],
+  "phone_e164": "+38269768493",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

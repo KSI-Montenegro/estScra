@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "639687",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-ugostiteljski-objekat/grad-plav/id-639687",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-ugostiteljski-objekat/grad-plav/id-639687"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 988,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639687",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Ugostiteljski objekat"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7a5d04d9-389b-4f5b-9d40-76ebf16005ca-lg.webp",
+    "https://content.estitor.com/04b8bc12-2f90-41ed-afca-316bb56ddaf9-lg.webp",
+    "https://content.estitor.com/e188be78-4fd1-452d-bef9-d40f775bab45-lg.webp",
+    "https://content.estitor.com/c568c8cc-0bcd-4cc2-b9a4-45206a092aa7-lg.webp",
+    "https://content.estitor.com/057f32c3-0432-43de-9c4e-3b4fa6a5b6f4-lg.webp",
+    "https://content.estitor.com/8e9d8de2-ad39-4164-9d3c-e6ebd06a534d-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Podzakup planinskog objekta ključ u ruke\nPreuzmite kompletan turistički biznis, ne samo objekat.\n\nŠta Dobijate:\nProject Prokletije operatoru nudi već uspostavljen planinski smještajni objekat u Plavu, spreman za rad po jednogodišnjem zakupu sa mogućnošću produženja smještaj, usluga hrane, prostor za događaje i lokalne turističke usluge već su obezbijeđeni, bez potrebe da se biznis gradi od nule.\n\nPlav se nalazi u srcu planinskog i avanturističkog turizma Crne Gore planinari, jahači i ljubitelji prirode dolaze zbog Nacionalnog parka Prokletije i staze Peaks of the Balkans, u okruženju jednako pogodnom za porodični odmor blizu grada.\n\nProject Prokletije\n-14 soba kapacitet do 40 gostiju.\n-Panoramski restoran, sala/venue, kapacitet do 40 osoba bar\n-Konjička štala na imanju, sa lokalnim vodičima iskusnim u jahačkim turama i višednevnim rutama do najpoznatijih lokacija Prokletija.\nDodatno:\n-Infrastruktura za naplatu već uspostavljena: prisustvo na Booking.com, online plaćanje i POS terminal za kartice\n-Podrška u prijavi gostiju preko Turističke organizacije Plava, za objekte bez sopstvenog sistema prijave.\n-Poslovni dogovor sa lokalnim operaterom džip tura, sa već utvrđenim i saradnja sa spoljnim restoranom za ketering.\nRenoviran",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:36.093825+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.518985+00:00",
+  "source_html_sha256": "798a626a8757e8c27e5a53b8daa8af0011759b1bbdb44d2b3c0bfd6c632b970a",
+  "title": "Izdavanje, ugostiteljski objekat, 550m², Bogajiće, Plav",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-25",
+  "price_amount": 2470,
+  "price_currency": "EUR",
+  "price_raw": "2470 EUR",
+  "area_m2": 550,
+  "city": "Plav",
+  "country": "ME",
+  "advertiser_name": "Dianne Grondona",
+  "deal_type": "rent",
+  "property_type_raw": "Ugostiteljski objekat",
+  "amenities": [],
+  "metadata_summary": "Podzakup planinskog objekta ključ u rukePreuzmite kompletan turistički biznis, ne samo objekat.Šta Dobijate:Project Prokletije operatoru nudi već uspostavljen planinski smještajni objekat u Plavu, spreman za rad po je...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!988",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269510607",
+      "name": "Dianne Grondona",
+      "email": null,
+      "source": "workbook:Outreach list!988"
+    },
+    {
+      "phone_e164": "+38269510607",
+      "name": "Dianne Grondona",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269510607"
+  ],
+  "phone_e164": "+38269510607",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

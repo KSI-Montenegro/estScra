@@ -1,0 +1,150 @@
+{
+  "source": "patuljak",
+  "listing_id": "77760",
+  "listing_url": "https://patuljak.me/oglas/prodajem-kucu-90m2-u-centru-kolasina--77760",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-kucu-90m2-u-centru-kolasina--77760"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 65,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77760",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!65:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Centar",
+    "Broj soba": "5",
+    "Stambena kvadratura": "90 m2",
+    "Broj spratova": "1",
+    "Godina izgradnje": "2000-2009",
+    "Namještena": "Da",
+    "Vrsta poda": "Brodski pod",
+    "Kvadratura placa": "233 m2",
+    "Vrsta grijanja": "Drva",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "2",
+    "Kanalizacija": "Standardna",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77760_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Prodajem kuću 90m2 u centru Kolašina,vlasnik uknjiženo 1/1",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:06.110651+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.187899+00:00",
+  "source_html_sha256": "fc973808ca709056707a9abd07cabd27c78350a791a2ae82a9de58a53d2a8b19",
+  "title": "Prodajem kuću 90m2 u centru Kolašina",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "radovan",
+  "property_type": "house",
+  "city": "Kolašin",
+  "district": "Centar",
+  "building_floors_raw": "1",
+  "room_layout_raw": "5",
+  "heating_raw": "Drva",
+  "parking_raw": "2",
+  "area_m2": 90,
+  "year_built": 2000,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Prodajem kuću 90m2 u centru Kolašina,vlasnik uknjiženo 1/1",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!65",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268018323",
+      "name": "radovan",
+      "email": null,
+      "source": "workbook:Outreach list!65"
+    }
+  ],
+  "contact_phones": [
+    "+38268018323"
+  ],
+  "phone_e164": "+38268018323",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

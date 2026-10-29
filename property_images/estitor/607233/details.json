@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "607233",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-607233",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-607233"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 117,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_607233",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3384c511-0c12-40b3-a0bf-bc5ef1a810d4-lg.webp",
+    "https://content.estitor.com/b919a5ce-2ff3-40ea-a444-cea8b6e1f4b2-lg.webp",
+    "https://content.estitor.com/759f5198-f4b1-48ff-a06d-c4c85496a88e-lg.webp",
+    "https://content.estitor.com/d1e8743b-1f6a-4326-ad24-233a32f5c076-lg.webp",
+    "https://content.estitor.com/b01963de-7a38-457a-93bd-b4a900086554-lg.webp",
+    "https://content.estitor.com/5c3d5bf9-1244-4988-974b-4f335d8fee1c-lg.webp",
+    "https://content.estitor.com/6590816d-f027-4715-94ab-d7ebbb70ffad-lg.webp",
+    "https://content.estitor.com/fcd379f4-1fd3-4820-aff2-71a93f0bdb04-lg.webp",
+    "https://content.estitor.com/34afdcf7-f9d9-42db-810c-c44c690c743c-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetnu priliku za dugoročni najam – prostran stan od 100 m², smješten u prizemlju porodične kuće u slikovitoj Lastvi Grbaljskoj, Kotor.\nOvaj kompletno opremljen i odmah useljiv stan nudi udoban život u mirnom i prirodnom okruženju. Sastoji se od dvije prostrane spavaće sobe, svijetlog dnevnog boravka, funkcionalne trpezarije, kompletno opremljene kuhinje, kupatila, hodnika i prijatne terase.\nStan je opremljen sa klima uređajem za ugodnu temperaturu tokom cijele godine, dok je grijanje obezbijeđeno na pelet. Dodatne pogodnosti uključuju pristup internetu, kablovsku televiziju i prostrano dvorište idealno za opuštanje. Parking mjesto je obezbijeđeno ispred objekta.\nLokacija nudi savršen spoj mira i dostupnosti: popularna plaža Jaz je udaljena samo 2 km, živahna Budva 5 km, dok su Kotor i Tivat na oko 20 km. Ovo čini nekretninu idealnom za porodicu koja cijeni privatnost i prirodu, uz laku povezanost sa urbanim centrima i obalom.\nUživajte u osunčanom prostoru i mirnom kraju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:04.732218+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.819553+00:00",
+  "source_html_sha256": "884705e3e1055db40204b995cbfde8558c907cc5cb6f408431ba13ebfa03d557",
+  "title": "Izdavanje, dvosoban stan, 100m², Lastva Grbaljska, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-03",
+  "updated_date": "2026-10-08",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 100,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "E80, Lastva Grbaljska, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Marina Pejovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetnu priliku za dugoročni najam – prostran stan od 100 m², smješten u prizemlju porodične kuće u slikovitoj Lastvi Grbaljskoj, Kotor.Ovaj kompletno opremljen i odmah useljiv stan nudi udoban živo...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!117",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269700107",
+      "name": "Marina Pejovic",
+      "email": null,
+      "source": "workbook:Likely agents!117"
+    },
+    {
+      "phone_e164": "+38269700107",
+      "name": "Marina Pejovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269700107"
+  ],
+  "phone_e164": "+38269700107",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

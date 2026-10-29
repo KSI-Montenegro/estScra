@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "547606",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-547606",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-547606"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 589,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_547606",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6629d06b-71ff-43fd-96f4-e7f9b0e48316-lg.webp",
+    "https://content.estitor.com/0de1eff6-662e-4359-87c3-0474ca9561ee-lg.webp",
+    "https://content.estitor.com/0fd8a8e2-6125-4ae1-a74b-5f43557407d9-lg.webp",
+    "https://content.estitor.com/67fc34ba-f8e8-4e34-bfaf-4fba6f4362d5-lg.webp",
+    "https://content.estitor.com/cd55a3dc-e0c4-4897-949b-3dd44fef046a-lg.webp",
+    "https://content.estitor.com/fb9bff38-5f7f-4d47-82c7-841e5bf319bc-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem studio apartmane za studente u blizini City Kvart-a, Podgorica! Tražite idealan smještaj za studiranje? Nudimo vam kompletno opremljene studio apartmane od 20.0 m², savršen za jednog studenta. Nalazi se u mirnom kraju,. Ovaj udoban prostor nudi sve što vam je potrebno: višenamjenski prostor za boravak, spavanje i učenje, kupatilo, veš mašinu, internet i potpuno opremljenu kuhinju. obezbijeđeni su klimatizacija i brz internet. U ovu cijenu su svi troškovi uračunati, osim struje. Iako apartman ne posjeduje parking, njegova izuzetna lokacija u blizini City Kvart-a nudi lak pristup svim gradskim sadržajima, fakultetima, prodavnicama i kafićima. Apartman je odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:36.693606+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.301192+00:00",
+  "source_html_sha256": "b707e606175526f14a585b5de1c046f843af330807e42fdd5051fd4586274ea2",
+  "title": "Izdavanje, jednosoban stan, 20m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-17",
+  "updated_date": "2026-10-20",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 20,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Biljana Radonjic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jugoistok",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem studio apartmane za studente u blizini City Kvart-a, Podgorica! Tražite idealan smještaj za studiranje? Nudimo vam kompletno opremljene studio apartmane od 20.0 m², savršen za jednog studenta. Nalazi se u mirn...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!589",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267045405",
+      "name": "Biljana Radonjic",
+      "email": null,
+      "source": "workbook:Outreach list!589"
+    },
+    {
+      "phone_e164": "+38267045405",
+      "name": "Biljana Radonjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267045405"
+  ],
+  "phone_e164": "+38267045405",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

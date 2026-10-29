@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "72778",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-u-city-kvartu-izdavanje--72778",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-u-city-kvartu-izdavanje--72778"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 112,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_72778",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "5",
+    "Kvadratura": "78 m2",
+    "Primarna orijentacija": "Zapad",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_9.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban stan u City kvartu. Kucni ljubimci nijesu dozvoljeni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:33.964611+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.519591+00:00",
+  "source_html_sha256": "5dfd80545088bb4a7656c5f833ebd601f44baf219c004a45f101a549dad50a7d",
+  "title": "Dvosoban stan u City kvartu - izdavanje",
+  "description_language": "en",
+  "price_raw": "950.00€",
+  "price_amount": 950,
+  "price_currency": "EUR",
+  "advertiser_name": "Irma",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "5",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 78,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se dvosoban stan u City kvartu. Kucni ljubimci nijesu dozvoljeni.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!112",
+      "notes": "check deal: sale at 3500 EUR looks like a rent",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267218284",
+      "name": "Irma",
+      "email": null,
+      "source": "workbook:Outreach list!112"
+    }
+  ],
+  "contact_phones": [
+    "+38267218284"
+  ],
+  "phone_e164": "+38267218284",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

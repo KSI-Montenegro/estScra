@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "469128",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-469128",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-469128"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 684,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_469128",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "5",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Starogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/36d3bfa7-0d97-4832-a8dd-d031dcbd2bb2-lg.webp",
+    "https://content.estitor.com/8914452b-6b35-45e7-8f87-4100ba517917-lg.webp",
+    "https://content.estitor.com/0b842709-24dc-47fe-b862-89132b6d9354-lg.webp",
+    "https://content.estitor.com/fc672175-bdce-4c0c-8149-744bb2acc601-lg.webp",
+    "https://content.estitor.com/88a2e4ab-6940-4bcb-a22d-b492e559dc3d-lg.webp",
+    "https://content.estitor.com/7730e3c7-7060-4844-9beb-966a3ae5fc8a-lg.webp",
+    "https://content.estitor.com/a44f16b5-5caf-48c3-8677-1fa871fda1b3-lg.webp",
+    "https://content.estitor.com/0bf6eb49-b42e-4a68-bfc7-5fae2a8060ea-lg.webp",
+    "https://content.estitor.com/1664ae96-a55d-4bdc-b2fd-ec32ff522b10-lg.webp",
+    "https://content.estitor.com/7ec5cd27-b1ae-4777-9dd7-a83d519e0c6b-lg.webp",
+    "https://content.estitor.com/87551111-4600-4cdc-9635-3a68f29ca703-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan od 114m2 na atraktivnoj lokaciji. Stan se sastoji od tri velike sobe, dva kupatila, tri terase, i u ponudu je uključen tavanski i podrumski skladišni prostor (+15m2). Stan je takođe renoviran nedavno, i ima klimatizaciju za svaku prostoriju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:24.147283+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.813950+00:00",
+  "source_html_sha256": "4010472f4c1d5dc24cf99fb4e74f87e2dd845dd70e824e660d4cb2aefc4883c9",
+  "title": "Izdavanje, trosoban stan, 114m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-14",
+  "updated_date": "2026-09-16",
+  "price_amount": 950,
+  "price_currency": "EUR",
+  "price_raw": "950 EUR",
+  "area_m2": 114,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "28 Mila Radunovića, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Danilo Miranović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 5,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Starogradnja"
+  ],
+  "metadata_summary": "Izdaje se stan od 114m2 na atraktivnoj lokaciji. Stan se sastoji od tri velike sobe, dva kupatila, tri terase, i u ponudu je uključen tavanski i podrumski skladišni prostor (+15m2). Stan je takođe renoviran nedavno, i...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!684",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267960026",
+      "name": "Danilo Miranović",
+      "email": null,
+      "source": "workbook:Outreach list!684"
+    },
+    {
+      "phone_e164": "+38267960026",
+      "name": "Danilo Miranović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267960026"
+  ],
+  "phone_e164": "+38267960026",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

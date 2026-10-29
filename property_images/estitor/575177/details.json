@@ -1,0 +1,181 @@
+{
+  "source": "estitor",
+  "listing_id": "575177",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-575177",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-575177"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 302,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_575177",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Garaža",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/51e07a90-3913-4112-84f9-be376bd36998-lg.webp",
+    "https://content.estitor.com/dbcc269d-607c-47bb-8148-7ba9bb86438c-lg.webp",
+    "https://content.estitor.com/ea990aee-8fc3-4648-8892-f41571687ac1-lg.webp",
+    "https://content.estitor.com/26dee8fd-14f3-4301-a715-bbaadfbe1f85-lg.webp",
+    "https://content.estitor.com/4a3f72c5-d46d-4b5b-b7d2-5a77cf31c995-lg.webp",
+    "https://content.estitor.com/50ec9861-4c43-4934-9a64-1733e22a442e-lg.webp",
+    "https://content.estitor.com/b4439264-a5db-4f22-9dc2-b9948f36378b-lg.webp",
+    "https://content.estitor.com/44b4e7dc-5e7f-44b7-b64d-892e05e3d255-lg.webp",
+    "https://content.estitor.com/fd7045ad-d485-486e-b0b3-30ec21fbf394-lg.webp",
+    "https://content.estitor.com/e3409e91-6b7c-49db-b58d-93aee3e60332-lg.webp",
+    "https://content.estitor.com/d2dad4c9-8b2c-47f4-a981-359adfe9e72b-lg.webp",
+    "https://content.estitor.com/64341a6b-c8d1-4671-b203-fd05c7eee19c-lg.webp",
+    "https://content.estitor.com/471d91ed-88ad-4537-a011-e92a27698957-lg.webp",
+    "https://content.estitor.com/f581991c-52be-4630-b442-0067993435a2-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan u novoj zgradi kompletno opremljen, za period 1.09.2026 do 15.06.2027",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:12.208511+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.676400+00:00",
+  "source_html_sha256": "049b077b02be90f9821d48500346046bf2e3a6854f04dd732975776b5fa522ea",
+  "title": "Izdavanje, jednosoban stan, 48m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-01",
+  "updated_date": "2026-10-11",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Zgrada, 1.sprat B-15, Budva 85310, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Vladimir D",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se stan u novoj zgradi kompletno opremljen, za period 1.09.2026 do 15.06.2027",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!302",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38266124033",
+      "name": "Vladimir D",
+      "email": null,
+      "source": "workbook:Outreach list!302"
+    },
+    {
+      "phone_e164": "+38266124033",
+      "name": "Vladimir D",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38266124033"
+  ],
+  "phone_e164": "+38266124033",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

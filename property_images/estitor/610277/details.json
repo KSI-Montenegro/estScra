@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "610277",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610277",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610277"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 880,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_610277",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b2fcdb20-7e70-489d-99a6-02ec03f4fc60-lg.webp",
+    "https://content.estitor.com/f271e541-c17a-4afb-8213-05ea084b2066-lg.webp",
+    "https://content.estitor.com/1223d809-3ebb-49fd-8c7b-e80fc6d39ecb-lg.webp",
+    "https://content.estitor.com/b0fb1525-2aba-4bb2-a098-15576770e511-lg.webp",
+    "https://content.estitor.com/12d329db-2bef-4d4a-9b38-c19f5016ce9c-lg.webp",
+    "https://content.estitor.com/fdf1b9a7-d099-416c-afe3-56c7eb64f92c-lg.webp",
+    "https://content.estitor.com/1b0e9ad4-a241-4e21-ae71-306329d3ce07-lg.webp",
+    "https://content.estitor.com/ec403101-7ea3-4482-9ca2-4279fdfa20d4-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan – Zagorič, Gorica C\nIzdaje se nov, neuseljavan i potpuno opremljen jednosoban stan u novogradnji, na prvom spratu zgrade bez lifta.\nFunkcionalan i pažljivo organizovan prostor\nPotpuno opremljen – spreman za useljenje\nObezbijeđen i ograđen parking za stanare\nOdlična lokacija – Zagorič, Gorica C\nStan je praktično organizovan i idealan za udoban život.\nZa više informacija i dogovor oko gledanja, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:29.925185+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.611155+00:00",
+  "source_html_sha256": "d689071f8b77755c4ceb37f7d0143ba2a3c1c79580c6a58fd48b15dd230849fa",
+  "title": "Izdavanje, jednosoban stan, 40m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-04",
+  "updated_date": "2026-09-04",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "5 Ludvika Kube, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vladimir Ivanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan – Zagorič, Gorica CIzdaje se nov, neuseljavan i potpuno opremljen jednosoban stan u novogradnji, na prvom spratu zgrade bez lifta.Funkcionalan i pažljivo organizovan prostorPotpuno opremljen ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!880",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267666676",
+      "name": "Vladimir Ivanovic",
+      "email": null,
+      "source": "workbook:Outreach list!880"
+    },
+    {
+      "phone_e164": "+38267666676",
+      "name": "Vladimir Ivanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267666676"
+  ],
+  "phone_e164": "+38267666676",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

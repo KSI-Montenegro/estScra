@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "73914",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se--73914",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se--73914"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 949,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73914",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!949:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zlatica",
+    "Broj prostorija": "2",
+    "Stambena kvadratura": "80 m2",
+    "Sprat": "1",
+    "Namješten": "Ne",
+    "Vrsta poda": "Pločice",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73914_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:15.433750+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.257045+00:00",
+  "source_html_sha256": "125ad344ccf7c6149198b86ef07477d3b10de67cda12e3ea6269e14578344937",
+  "title": "Izdaje se",
+  "description_language": "en",
+  "price_raw": "800.00€",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "advertiser_name": "boban",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Zlatica",
+  "floor_raw": "1",
+  "furnishing_raw": "Ne",
+  "area_m2": 80,
+  "amenities": [],
+  "metadata_summary": "Izdaje se",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!949",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267508458",
+      "name": "boban",
+      "email": null,
+      "source": "workbook:Outreach list!949"
+    }
+  ],
+  "contact_phones": [
+    "+38267508458"
+  ],
+  "phone_e164": "+38267508458",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

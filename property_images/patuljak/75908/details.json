@@ -1,0 +1,153 @@
+{
+  "source": "patuljak",
+  "listing_id": "75908",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-41m-sa-garazom--75908",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-41m-sa-garazom--75908"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 887,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75908",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Vezirov most",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Kvadratura": "41 m2",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "3 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:33.790121+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.688838+00:00",
+  "source_html_sha256": "33c7b73c661e3f647285fea45031c22201a3652e042714c549818687f57cfb42",
+  "title": "Jednosoban Stan 41m sa garazom",
+  "description_language": "en",
+  "price_raw": "145000.00€",
+  "price_amount": 145000,
+  "price_currency": "EUR",
+  "advertiser_name": "Radenko",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Vezirov most",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Ostalo",
+  "parking_raw": "1",
+  "area_m2": 41,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Jednosoban Stan 41m sa garazom",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!887",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268185434",
+      "name": "Radenko",
+      "email": null,
+      "source": "workbook:Outreach list!887"
+    }
+  ],
+  "contact_phones": [
+    "+38268185434"
+  ],
+  "phone_e164": "+38268185434",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

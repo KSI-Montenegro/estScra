@@ -1,0 +1,154 @@
+{
+  "source": "patuljak",
+  "listing_id": "78172",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-prizemne-kuce-na-starom-aerodromu--78172",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-prizemne-kuce-na-starom-aerodromu--78172"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 878,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_78172",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "2",
+    "Stambena kvadratura": "60 m2",
+    "Broj spratova": "1",
+    "Godina izgradnje": "2000-2009",
+    "Namještena": "Da",
+    "Vrsta poda": "Parket",
+    "Kvadratura placa": "60 m2",
+    "Vrsta grijanja": "Struja",
+    "Kvadratura balkona": "50 m2",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Septička jama",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78172_1.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:29.258001+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.590417+00:00",
+  "source_html_sha256": "41656d93040ae9bc7f6fa24db54692c593ee2cb16f2ad63191c6d83ff9fd4cad",
+  "title": "Izdavanje prizemne kuće na Starom aerodromu!",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Stan na",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 60,
+  "year_built": 2000,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdavanje prizemne kuće na Starom aerodromu!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!878",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268109293",
+      "name": "Stanna Dan",
+      "email": null,
+      "source": "workbook:Outreach list!878"
+    }
+  ],
+  "contact_phones": [
+    "+38268109293"
+  ],
+  "phone_e164": "+38268109293",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

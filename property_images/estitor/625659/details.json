@@ -1,0 +1,143 @@
+{
+  "source": "estitor",
+  "listing_id": "625659",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-625659",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-625659"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 173,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_625659",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Podrum",
+    "Broj terasa": "0",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Magacinski"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2cf504fe-6359-4857-a6b3-1813b9146277-lg.webp",
+    "https://content.estitor.com/382e8491-1cbf-420a-8f02-083153d5e863-lg.webp",
+    "https://content.estitor.com/6fb88cf0-19ce-494d-8dbb-52a9d10d962b-lg.webp",
+    "https://content.estitor.com/1ce479bc-ee5b-4fe8-af7a-ac90786371e2-lg.webp",
+    "https://content.estitor.com/67437ca8-1646-461a-a9a8-9642030ba1c2-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor, 30m2, pogodan za različite namjene. Nalazi se uz magistralni put, posjeduje parking mjesto.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:04.215718+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.320481+00:00",
+  "source_html_sha256": "351c7501b87d34d743b8733f274a6149eb5f2d1f74cee67d92a8d66affd242ca",
+  "title": "Izdavanje, poslovni prostor, 30m², Sutorina, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-29",
+  "updated_date": "2026-09-29",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 30,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Mira Malavrazić",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Podrum",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor, 30m2, pogodan za različite namjene. Nalazi se uz magistralni put, posjeduje parking mjesto.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!173",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267041016",
+      "name": "Mira Malavrazić",
+      "email": null,
+      "source": "workbook:Not homes!173"
+    },
+    {
+      "phone_e164": "+38267041016",
+      "name": "Mira Malavrazić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267041016"
+  ],
+  "phone_e164": "+38267041016",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "75580",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru--75580",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru--75580"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 516,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75580",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!516:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjever",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "30 m2",
+    "Kvadratura balkona": "5 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75580_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75580_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75580_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75580_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75580_1.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se namjestena garsonjera zabjelo",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:01.161882+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.913514+00:00",
+  "source_html_sha256": "33ac3c156d8880feef865f3f4bb1aa1b88e759a550c4f0c947d01aaac15d186b",
+  "title": "Izdajem garsonjeru",
+  "description_language": "en",
+  "price_raw": "270.00€",
+  "price_amount": 270,
+  "price_currency": "EUR",
+  "advertiser_name": "Sasa",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 30,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se namjestena garsonjera zabjelo",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!516",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267274295",
+      "name": "Sasa",
+      "email": null,
+      "source": "workbook:Outreach list!516"
+    }
+  ],
+  "contact_phones": [
+    "+38267274295"
+  ],
+  "phone_e164": "+38267274295",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

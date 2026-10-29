@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "79626",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-gradjevinski-plac-donja-gorica-550m2--79626",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-gradjevinski-plac-donja-gorica-550m2--79626"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 52,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79626",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!52:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "550 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_1.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodaje se plac, 550m2.\nNa placu je po UT uslovima dozvoljena gradnja stambenog objekta veličine 330m2 (po+p+1) i pomoćni objekat.\n\nNa placu se nalazi struja. Dovodjenje vode do placa je obaveza trenutnog vlasnika nakon potpisivanja kupoprodajnog ugovora.\n\nPlac se nalazi iza UDG-a nekih 200-300m.\n\nOdlicna prilika za gradnju kuce za porodicni zivot ili kao investicija gdje moze da se napravi stambeni objekat koji moze da se izdaje studentima.\n\nKontakt: 069 275 669 ili inbox\n\nBEZ AGENCIJA",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:54.632773+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.454417+00:00",
+  "source_html_sha256": "a7e6489c3808fc72b0c9ba911d0db6df568c7caf66d70989f9e2656e14a12584",
+  "title": "Prodaje se gradjevinski plac, Donja Gorica, 550m2",
+  "description_language": "en",
+  "price_raw": "75000.00€",
+  "price_amount": 75000,
+  "price_currency": "EUR",
+  "advertiser_name": "Mašan",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se plac, 550m2. Na placu je po UT uslovima dozvoljena gradnja stambenog objekta veličine 330m2 (po+p+1) i pomoćni objekat. Na placu se nalazi struja. Dovodjenje vode do placa je obaveza trenutnog vlasnika nakon potpisivanja kupoprodajnog ugovora. Plac se nalazi iza UDG-a nekih 200-300m. Odlicna prilika za gradnju kuce za  porodicni zivot ili kao investicija gdje moze da se napravi stambeni objekat koji moze da se izdaje studentima. Kontakt: 069 275 669 ili inboxBEZ AGENCIJA",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!52",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269275669",
+      "name": "Mašan",
+      "email": null,
+      "source": "workbook:Not homes!52"
+    }
+  ],
+  "contact_phones": [
+    "+38269275669"
+  ],
+  "phone_e164": "+38269275669",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 550,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

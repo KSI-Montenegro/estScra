@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "598923",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-598923",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-598923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 188,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_598923",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2591a3e3-76d4-4392-b7a9-bda8ca3b0971-lg.webp",
+    "https://content.estitor.com/967eb976-2112-4092-a958-4d46a1d43e62-lg.webp",
+    "https://content.estitor.com/dcca17c9-45fe-41ab-9dd8-c6b0624bacd4-lg.webp",
+    "https://content.estitor.com/e9aa3544-b34e-4320-b055-932b435c82d4-lg.webp",
+    "https://content.estitor.com/fdfd2624-97db-4a3c-999b-3c3427ee410f-lg.webp",
+    "https://content.estitor.com/977dd12d-c901-4576-8376-0fbfeffe285d-lg.webp",
+    "https://content.estitor.com/f8b76f36-9689-4bfd-a0b3-7a716739fa01-lg.webp",
+    "https://content.estitor.com/44dff03f-eee6-4f40-9379-682f34caca62-lg.webp",
+    "https://content.estitor.com/4db6e543-271a-4508-9db3-2327d875a686-lg.webp",
+    "https://content.estitor.com/f60dd9e0-4ff2-4c3a-9e8e-9145dd42e062-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor u srcu Nikšića, lociran u neposrednoj blizini čuvenog Hotela Onogošt. Ovaj funkcionalan prostor prostire se na dva nivoa, ukupne površine 57.0 m², nudeći optimalan raspored sa dvije zasebne prostorije, idealan za raznovrsne poslovne djelatnosti. Prostor je potpuno opremljen, što omogućava momentalno useljenje i pokretanje vašeg poslovanja bez dodatnih ulaganja. Udobnost je zagarantovana zahvaljujući ugrađenoj klimatizaciji. Velika pogodnost je i obezbijeđen parking direktno ispred objekta, što je izuzetan benefit u gradskom jezgru. Ova nekretnina predstavlja odličnu priliku za one koji traže reprezentativan i spreman poslovni prostor na izuzetnoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:12.270640+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.414976+00:00",
+  "source_html_sha256": "0b8aa3ac96e60426b0ad7109fc7ea7507d39d0dda939124650f95da6c4f64a45",
+  "title": "Izdavanje, poslovni prostor, 57m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-22",
+  "updated_date": "2026-09-12",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 57,
+  "rooms": 2,
+  "city": "Nikšić",
+  "street_address": "Jola Piletica",
+  "country": "ME",
+  "advertiser_name": "Božidar Mijušković",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 0,
+  "year_built": 2015,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor u srcu Nikšića, lociran u neposrednoj blizini čuvenog Hotela Onogošt. Ovaj funkcionalan prostor prostire se na dva nivoa, ukupne površine 57.0 m², nudeći optimalan raspored sa dvije zasebne ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!188",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268129595",
+      "name": "Božidar Mijušković",
+      "email": null,
+      "source": "workbook:Not homes!188"
+    },
+    {
+      "phone_e164": "+38268129595",
+      "name": "Božidar Mijušković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268129595"
+  ],
+  "phone_e164": "+38268129595",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

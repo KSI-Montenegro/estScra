@@ -1,0 +1,147 @@
+{
+  "source": "patuljak",
+  "listing_id": "75720",
+  "listing_url": "https://patuljak.me/oglas/moderan-luksuzan-stan-u-centru-tivta--75720",
+  "listing_urls": [
+    "https://patuljak.me/oglas/moderan-luksuzan-stan-u-centru-tivta--75720"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 181,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75720",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Tivat",
+    "Naselje": "Centar",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Kvadratura": "67 m2",
+    "Kvadratura balkona": "4 m2",
+    "Parking mjesto": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75720_10.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Kompletno renoviran i opremljen dvosoban stan nalazi se u samom centru grada.\nSastoji se od dva hodnika, dnevne sobe sa trpezarijom ,odvojene kuhinje koja ima ulaz iz hodnika, ali i komunikaciiju sa trpezarijom.Iz dnevne sobe se izlazi na terasu.Posjeduje komforne dvije spavaće sobe . Jedna od njih ima sopstvenu terasu . Posjeduje dva mokra čvora, komforno kupatilo u produžetku kojeg se nalazi vešeraj i odvojen toalet.\nRenoviran je najkvalitetnijim materijalima.Elektro ,vodovodne instalacije ( Grohe) , sanitarija Grohe, podovi , parket prve klase ,keramika prve klase . Podno grijanje se nalazi u kupatilu , toaletu , hodnicima i kuhinji.\nLG inverter klime u svim prostorijama ,alum.bravarija (klizna vrata i prozori sa roletnama na električne podizače ).\nOpemljen je italijanskim meblom ,namještaj po mjeri , kuhinja sa Bosch tehnikom, u vešeraju Bosch mašine za pranje i sušenje ....\nPosjeduje podrum .",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:11.883992+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.918239+00:00",
+  "source_html_sha256": "0011c3a4c7bb69c431c68499d33121552903e7a3a602c03dd0638827c6ae2eb7",
+  "title": "Moderan, luksuzan stan u centru Tivta",
+  "description_language": "en",
+  "price_raw": "360000.00€",
+  "price_amount": 360000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivančica",
+  "property_type": "apartment",
+  "city": "Tivat",
+  "district": "Centar",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema",
+  "area_m2": 67,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Kompletno renoviran i opremljen dvosoban stan nalazi se u samom centru grada.Sastoji se od  dva hodnika, dnevne sobe sa trpezarijom ,odvojene kuhinje koja ima  ulaz iz hodnika, ali i komunikaciiju sa trpezarijom.Iz dnevne sobe se izlazi na terasu.Posjeduje  komforne   dvije spavaće sobe . Jedna od njih ima sopstvenu terasu . Posjeduje dva mokra čvora, komforno kupatilo u produžetku kojeg se nalazi vešeraj i odvojen toalet. Renoviran je najkvalitetnijim materijalima.Elektro ,vodovodne instalacije ( Grohe)  , sanitarija Grohe, podovi , parket prve klase ,keramika prve klase .  Podno grijanje se nalazi u kupatilu , toaletu , hodnicima i kuhinji.LG inverter klime u svim prostorijama ,alum.bravarija (klizna vrata i prozori  sa roletnama na  električne podizače  ).Opemljen je italijanskim meblom ,namještaj po mjeri , kuhinja sa Bosch tehnikom, u vešeraju   Bosch mašine za pranje i sušenje ....Posjeduje podrum .",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!181",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269207205",
+      "name": "Ivančica",
+      "email": null,
+      "source": "workbook:Outreach list!181"
+    }
+  ],
+  "contact_phones": [
+    "+38269207205"
+  ],
+  "phone_e164": "+38269207205",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

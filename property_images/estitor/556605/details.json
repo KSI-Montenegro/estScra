@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "556605",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-556605",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-556605"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 612,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_556605",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "12",
+    "Godina izgradnje": "2010",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d42e8e88-7c50-4476-ac3c-7fa51540ea93-lg.webp",
+    "https://content.estitor.com/a1cc0942-dad8-4f43-8184-1a3d2b7ce5d0-lg.webp",
+    "https://content.estitor.com/65f8331b-4653-4be9-8359-cea6625da90e-lg.webp",
+    "https://content.estitor.com/edbed817-d360-42de-8b36-b1481fc4fcf0-lg.webp",
+    "https://content.estitor.com/0ff2cf08-1628-4840-9f24-554b02bfee10-lg.webp",
+    "https://content.estitor.com/dd9b22be-d12e-4f0f-b995-bc785bea8aa2-lg.webp",
+    "https://content.estitor.com/dc4460ef-d5c5-4926-be34-5e29ff1d2bae-lg.webp",
+    "https://content.estitor.com/41146c98-4018-40e3-9f36-f002250cd36a-lg.webp",
+    "https://content.estitor.com/383531f1-2047-48de-a782-d85e6b08d3fd-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban , opremljen stan 85m2 u Moskovskoj ulici.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:48.474710+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.419510+00:00",
+  "source_html_sha256": "924f30e3494d8a616fc6dd572e89dd0e735e2311ecddd7574d942e00607cd154",
+  "title": "Izdavanje, dvosoban stan, 85m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-12",
+  "updated_date": "2026-10-13",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 85,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Mitrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 12,
+  "year_built": 2010,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se dvosoban , opremljen stan 85m2 u Moskovskoj ulici.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!612",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269021858",
+      "name": "Aleksandar Mitrovic",
+      "email": null,
+      "source": "workbook:Outreach list!612"
+    },
+    {
+      "phone_e164": "+38269021858",
+      "name": "Aleksandar Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269021858"
+  ],
+  "phone_e164": "+38269021858",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

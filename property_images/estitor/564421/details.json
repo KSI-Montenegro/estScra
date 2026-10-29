@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "564421",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564421",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564421"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 921,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_564421",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4b8037d5-8352-44a6-ba80-1af2e94cd812-lg.webp",
+    "https://content.estitor.com/95a7d290-12ac-4cf1-8134-0d5ea4bc3ea0-lg.webp",
+    "https://content.estitor.com/fea7fd28-66e0-4954-8036-f94a0af0a1ef-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Green level 2. Lux nov useljiv stan. Novogradnja. Izdaje se izuzetan jednosoban stan povrsine 49m2 u novoj zgradi Green Level-2. Nalazi se na II-om spratu stambene zgrade južno orjentisan. Struktura stana: dnevna soba i trpezarija i kuhinja, kupatilo, hodnik, spavaća soba i balkon. Zgrada posjeduje 2 lifta, ima i svoje igralište i parking.\nDizajniran pametnom tehnologijom i visokokvalitetnom završnom obradom, ovaj stan nudi savršenu kombinaciju udobnosti, funkcionalnosti i savremenog dizajna — idealan za urbane profesionalce, parove ili investitore koji traže premium nekretnine u glavnom gradu Crne Gore.\n„Zeleni nivo 2“ je jedan od najpoželjnijih novih kompleksa u Podgorici, koji nudi modernu arhitekturu, naprednu tehnologiju i odličan kvalitet gradnje.\nObjekat je rađen po sistemu „pametne kuće“, omogućavajući kontrolu grejanja/hlađenja, osvetljenja i drugih sistema radi optimizacije potrošnje energije.\nKlimatizovan je multisplit sistemom klimatizacije (Samsung) luksuzne linije Wind free (bez direktnog izduvavanja). U pitanju je luksuzna smart zgrada koja je osigurana sa protivpožarnim sistemom i sigurnosnim vodovodnim ventilima, kao i senzorima pokreta. Posjeduje podno grijanje u kupatilu, hodniku i kuhinji, pametan sistem pomoću kojeg je moguće preko aplikacije na telefonu ili panela u dnevnoj sobi kontrolisati klime, podno grijanje, roletne, bojler, interfon i elektro ventil.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:58.881804+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.050100+00:00",
+  "source_html_sha256": "0d823d9fb3917ef61e4500d8b2e632f2a7f90b44489daa5a0946edb686a834ae",
+  "title": "Izdavanje, jednosoban stan, 49m², Tološka šuma, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-31",
+  "updated_date": "2026-10-03",
+  "price_amount": 1200,
+  "price_currency": "EUR",
+  "price_raw": "1200 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Milica Vujicic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Grijanje podno",
+    "Klimatizacija",
+    "Dvorište",
+    "Interfon",
+    "Predsoblje",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Green level 2. Lux nov useljiv stan. Novogradnja. Izdaje se izuzetan jednosoban stan povrsine 49m2 u novoj zgradi Green Level-2. Nalazi se na II-om spratu stambene zgrade južno orjentisan. Struktura stana: dnevna soba...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!921",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267530606",
+      "name": "Milica Vujicic",
+      "email": null,
+      "source": "workbook:Outreach list!921"
+    },
+    {
+      "phone_e164": "+38267530606",
+      "name": "Milica Vujicic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267530606"
+  ],
+  "phone_e164": "+38267530606",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

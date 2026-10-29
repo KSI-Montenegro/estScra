@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "73437",
+  "listing_url": "https://patuljak.me/oglas/kuca-10km-od-pljevalja--73437",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-10km-od-pljevalja--73437"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 995,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_73437",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Pljevlja",
+    "Naselje": "Ostalo",
+    "Broj soba": "4",
+    "Stambena kvadratura": "70 m2",
+    "Broj spratova": "2",
+    "Godina izgradnje": "1980-1989",
+    "Namještena": "Ne",
+    "Vrsta poda": "Brodski pod",
+    "Kvadratura placa": "2500 m2",
+    "Vrsta grijanja": "Drva",
+    "Kvadratura balkona": "8 m2",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Septička jama",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73437_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Kuća tvrda gradnja od duple cigle.\nPotrebno je ulaganje oko 8 hiljada €( zato je ta cijena u oglasu).\nIma 3 spavaće sobe i dnevna sa nišom.\nIspod veliki podrum (garaža), wc i ostava.\nUnutrašnje stepenice.\nKuća pored asvalta, struja, voda, voćnjak,\n3 pomoćna objekta.\nZa 22 hiljade i da se uloži oko 8 hiljada, dobijete ogromnu kuću sa 25 ari zemlje pored asvalta, sa pomoćnim objektima i svim priključcima.\nUz kuću 2500m2 zemlje (25ari).\nMoguće dodatno kupiti još 50 ili 100 ari zemlje po cijeni od 2€ po kvadratu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:40.457137+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.587565+00:00",
+  "source_html_sha256": "9bd7d0c205e029860ed60bee08ac886e783797be045cabe54116ef06792deaef",
+  "title": "Kuća 10km od Pljevalja",
+  "description_language": "en",
+  "price_raw": "22000.00€",
+  "price_amount": 22000,
+  "price_currency": "EUR",
+  "advertiser_name": "Zarko",
+  "property_type": "house",
+  "city": "Pljevlja",
+  "district": "Ostalo",
+  "building_floors_raw": "2",
+  "room_layout_raw": "4",
+  "heating_raw": "Drva",
+  "parking_raw": "3 i više",
+  "area_m2": 70,
+  "year_built": 1980,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Kuća tvrda gradnja od duple cigle.Potrebno je ulaganje oko 8 hiljada €( zato je ta cijena u oglasu).Ima 3 spavaće sobe i dnevna sa nišom.Ispod veliki podrum (garaža), wc i ostava.Unutrašnje stepenice.Kuća pored asvalta, struja, voda, voćnjak, 3 pomoćna objekta.Za 22 hiljade i da se uloži oko 8 hiljada, dobijete ogromnu kuću sa 25 ari zemlje pored asvalta, sa pomoćnim objektima i svim priključcima.Uz kuću 2500m2 zemlje (25ari).Moguće dodatno kupiti još 50 ili 100 ari zemlje po cijeni od 2€ po kvadratu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!995",
+      "priority": 45
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267112138",
+      "name": "Zarko",
+      "email": null,
+      "source": "workbook:Outreach list!995"
+    }
+  ],
+  "contact_phones": [
+    "+38267112138"
+  ],
+  "phone_e164": "+38267112138",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

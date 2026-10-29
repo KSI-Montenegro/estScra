@@ -1,0 +1,134 @@
+{
+  "source": "estitor",
+  "listing_id": "565416",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-565416",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-565416"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 993,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_565416",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/396b2607-e14b-4957-9a6f-00b4ce5a5c03-lg.webp",
+    "https://content.estitor.com/e849014e-1474-450e-9988-7c331105ee7b-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se garaza povrsine 18 m2 u Central pointu.\nParking mjesto se nalazi na nivou -2, u blizini lifta i izlaza na trg i plato.\nDostupno od 01.07.2026.godine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:39.054616+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.564937+00:00",
+  "source_html_sha256": "f5f68bed04b76491abd1ece22963343c536aee1cb1f13736f24f341f4dade06a",
+  "title": "Izdavanje, parking/garaža, 18m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-03",
+  "updated_date": "2026-09-11",
+  "price_amount": 70,
+  "price_currency": "EUR",
+  "price_raw": "70 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Jovana Barac",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garaza povrsine 18 m2 u Central pointu.Parking mjesto se nalazi na nivou -2, u blizini lifta i izlaza na trg i plato.Dostupno od 01.07.2026.godine.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!993",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269567835",
+      "name": "Jovana Barac",
+      "email": null,
+      "source": "workbook:Outreach list!993"
+    },
+    {
+      "phone_e164": "+38269567835",
+      "name": "Jovana Barac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269567835"
+  ],
+  "phone_e164": "+38269567835",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "600807",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600807",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600807"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 679,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_600807",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ddbe234d-2334-4ef7-b384-f44bdf723b6c-lg.webp",
+    "https://content.estitor.com/fb556994-c2aa-474d-8ae3-55f889e4c775-lg.webp",
+    "https://content.estitor.com/d73ba935-0361-40d5-acfc-f848080edb78-lg.webp",
+    "https://content.estitor.com/2c53d19e-171d-4af8-9d11-531471421fa7-lg.webp",
+    "https://content.estitor.com/abd03042-78d7-4cb0-a6f4-77e52df51424-lg.webp",
+    "https://content.estitor.com/e2467e51-d45c-42f9-8ca8-0b9eaef960e9-lg.webp",
+    "https://content.estitor.com/dd721144-372a-4a90-a051-681e972869dd-lg.webp",
+    "https://content.estitor.com/d58d9267-6edb-48a3-8f7b-d934e8fbcc3e-lg.webp",
+    "https://content.estitor.com/13c2e016-3aaf-40d3-9292-f9ab7a51085f-lg.webp",
+    "https://content.estitor.com/32dcc439-1b81-4f8a-830c-9bb6bb3f8c70-lg.webp",
+    "https://content.estitor.com/1afca362-7419-47e7-bcdc-14614b6037ca-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se prelijep, potpuno opremljen jednosoban stan površine 48 m² u Podgorici.\nSmješten na prvom spratu u srcu Siti Kvarta (New City), ovaj stan nudi idealnu kombinaciju udobnosti i urbanog života, uz istovremenu garanciju mira i tišine. Lokacija u mirnom dijelu Siti Kvarta pruža sve prednosti gradskog življenja, sa lakim pristupom svim potrebnim sadržajima.\nStan se nalazi u zgradi novogradnje i opisan je kao \"Lux\", što garantuje visok standard kvaliteta i modernog dizajna. Enterijer je pažljivo uređen i uključuje: predsoblje, prostrani hodnik, modernu kuhinju, jednu spavaću sobu i jedno kupatilo. Stan je izuzetno osunčan, što doprinosi prijatnoj atmosferi tokom cijelog dana.\nMeđu brojnim pogodnostima su: klimatizacija za optimalnu temperaturu, brz Internet i Kablovska televizija, interfon za vašu sigurnost, kao i obezbijeđen parking ispred objekta. Stan se izdaje preko cijele godine i spreman je za useljenje.\nDirektno od vlasnika",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:21.707679+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.787311+00:00",
+  "source_html_sha256": "c3bf5ca900bf30b7a293085f73e9ac829912f4d3b20f0896faa4e74482f9440c",
+  "title": "Izdavanje, jednosoban stan, 48m², New City, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-25",
+  "updated_date": "2026-09-17",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "42 Vojvode Maša Đurovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Rasovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se prelijep, potpuno opremljen jednosoban stan površine 48 m² u Podgorici.Smješten na prvom spratu u srcu Siti Kvarta (New City), ovaj stan nudi idealnu kombinaciju udobnosti i urbanog života, uz istovremenu ga...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!679",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267094594",
+      "name": "Nikola Rasovic",
+      "email": null,
+      "source": "workbook:Outreach list!679"
+    },
+    {
+      "phone_e164": "+38267094594",
+      "name": "Nikola Rasovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267094594"
+  ],
+  "phone_e164": "+38267094594",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

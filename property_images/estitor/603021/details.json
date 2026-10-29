@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "603021",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-603021",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-603021"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 61,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_603021",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c418664c-d318-41e4-8dc6-80b580a7b495-lg.webp",
+    "https://content.estitor.com/161002c4-3369-4f5d-b3af-cb0ff3136c7e-lg.webp",
+    "https://content.estitor.com/95117087-b61e-4946-a9bb-a7a99daf4e5a-lg.webp",
+    "https://content.estitor.com/f53036e5-2c60-48b9-94f0-34f708e6f449-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Garsonjera za izdavanje – Igalo\nNa odličnoj lokaciji, u blizini Sportskog centra Igalo, izdaje se potpuno opremljena garsonjera.\n• Bračni krevet\n• Fotelja\n• Kuhinja\n• Kupatilo\n• Terasa\n• Klima uređaj\nIgalo, u blizini Sportskog centra",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:22.896875+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.233055+00:00",
+  "source_html_sha256": "98a2e2153b51648818d3c113f7e7edc2ae4442b104e4ba5926c98c75ce7e7bf4",
+  "title": "Izdavanje, garsonjera, 15m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-27",
+  "updated_date": "2026-08-31",
+  "price_amount": 230,
+  "price_currency": "EUR",
+  "price_raw": "230 EUR",
+  "area_m2": 15,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "2 E65, Igalo, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "J V",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Garsonjera za izdavanje – IgaloNa odličnoj lokaciji, u blizini Sportskog centra Igalo, izdaje se potpuno opremljena garsonjera.• Bračni krevet• Fotelja• Kuhinja• Kupatilo • Terasa• Klima uređajIgalo, u blizini Sportsk...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!61",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268512830",
+      "name": "J V",
+      "email": null,
+      "source": "workbook:Likely agents!61"
+    },
+    {
+      "phone_e164": "+38268512830",
+      "name": "J V",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268512830"
+  ],
+  "phone_e164": "+38268512830",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

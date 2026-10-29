@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "537694",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-537694",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-537694"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 315,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_537694",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d6f81e6e-0041-4dfc-a6e2-2f36ead98464-lg.webp",
+    "https://content.estitor.com/df2b7600-06db-4852-ba48-922015fd8dec-lg.webp",
+    "https://content.estitor.com/784b2c9b-bdf7-4a8e-bbd5-78b915dc944e-lg.webp",
+    "https://content.estitor.com/c5ded92f-524b-4d4e-80d6-7839ed5e4c35-lg.webp",
+    "https://content.estitor.com/f0ddeba5-d6d1-47e3-8b0c-4a166b70bed2-lg.webp",
+    "https://content.estitor.com/de2dccec-46e2-4ab2-afe1-c67c19313924-lg.webp",
+    "https://content.estitor.com/58593e21-6010-4b29-8b55-638bc5dbe0dd-lg.webp",
+    "https://content.estitor.com/de18bdd9-164e-4fd9-8dd3-7d9385bff20a-lg.webp",
+    "https://content.estitor.com/d13d2486-ac81-44c0-882f-18ceb499273a-lg.webp",
+    "https://content.estitor.com/f320aeb4-b029-4afd-8c6f-bee2542a39e2-lg.webp",
+    "https://content.estitor.com/03b5ca1d-961b-4bba-b017-ed46a6e1869d-lg.webp",
+    "https://content.estitor.com/1dd7cb30-9042-4c63-ab91-135508a98f9c-lg.webp",
+    "https://content.estitor.com/78b3f938-1790-47cd-8caa-4e04a6c4b4c5-lg.webp",
+    "https://content.estitor.com/517de46f-4c03-4b66-b6c3-1c0934ea1570-lg.webp",
+    "https://content.estitor.com/6756d346-fccd-4679-8f52-aec6dbcb5c4f-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Stan je potpuno opremljen i nalazi se na 300 metara do mora, Pogled na more, Novogradnja, Odmah useljiv, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:19.520315+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.752266+00:00",
+  "source_html_sha256": "ce86195898083a01775c52c9ad02a97f5bee71bd511943a3826efccfee4e1d91",
+  "title": "Izdavanje, dvosoban stan, 68m², Đenovići, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-26",
+  "updated_date": "2026-10-08",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 68,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "53 E65, Đenovići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Stefan Abramović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stan je potpuno opremljen i nalazi se na 300 metara do mora, Pogled na more, Novogradnja, Odmah useljiv, Miran kraj",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!315",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267988872",
+      "name": "Stefan Abramović",
+      "email": null,
+      "source": "workbook:Outreach list!315"
+    },
+    {
+      "phone_e164": "+38267988872",
+      "name": "Stefan Abramović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267988872"
+  ],
+  "phone_e164": "+38267988872",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

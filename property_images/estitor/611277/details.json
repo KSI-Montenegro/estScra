@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "611277",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-611277",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-611277"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 395,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611277",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c071b0bf-d7c5-41d5-8d35-5c04e068086e-lg.webp",
+    "https://content.estitor.com/38777248-7f2a-422a-b011-fdef5bdf75b8-lg.webp",
+    "https://content.estitor.com/bdc722fb-c930-4d90-8aed-f1a7c2344f3f-lg.webp",
+    "https://content.estitor.com/0b2ff184-a33e-4672-a0cd-88bee0d635a8-lg.webp",
+    "https://content.estitor.com/466353db-43a1-4e16-8760-c15cd0a132e0-lg.webp",
+    "https://content.estitor.com/23d6dab5-be75-4bbb-903f-feeb35732f79-lg.webp",
+    "https://content.estitor.com/da93b5fa-dccb-4e19-8660-d3493ef2cf0d-lg.webp",
+    "https://content.estitor.com/07381531-26e2-48f1-bf71-1be7752d9d73-lg.webp",
+    "https://content.estitor.com/214aa0aa-46fb-4472-8352-ca01aed7630d-lg.webp",
+    "https://content.estitor.com/98710f27-f456-4a07-9e90-98906831c454-lg.webp",
+    "https://content.estitor.com/f86a8954-8bcc-4838-b214-1dc38b696c31-lg.webp",
+    "https://content.estitor.com/2cf9a455-9165-40f6-ae62-167672f50218-lg.webp",
+    "https://content.estitor.com/10ad8297-3aef-4323-99ab-ec42ca02166f-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan jednosoban stan 30m² - Dubovica Lux, Budva\nIzdaje se funkcionalan i lijepo uređen jednosoban stan površine 30m², smješten na 1. spratu zgrade u veoma traženom i mirnom naselju Dubovica Lux.\nStan se nalazi na odličnoj lokaciji, u neposrednoj blizini Mega Mall-a, Akademija znanja, autobuske stanice, restorana, prodavnica i svih sadržaja potrebnih za ugodan život.\nStruktura stana:\nDnevni boravak\n\nTrpezarija i opremljena kuhinja\n\nSpavaća soba\n\nKupatilo\n\nBalkon sa prelijepim panoramskim pogledom na grad\n\nStan je izuzetno osvijetljen, praktičnog rasporeda i spreman za useljenje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:58.973488+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.231744+00:00",
+  "source_html_sha256": "e8ec324069e7a42c095f1ac71b60e10b96d7b73698aa7aa9ac6dfdf3b405a3bd",
+  "title": "Izdavanje, jednosoban stan, 30m², Dubovica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-06",
+  "updated_date": "2026-09-06",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 30,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "56 Жертв фашизму вулиця, Будва, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Anđe Kaluđerović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan jednosoban stan 30m² - Dubovica Lux, BudvaIzdaje se funkcionalan i lijepo uređen jednosoban stan površine 30m², smješten na 1. spratu zgrade u veoma traženom i mirnom naselju Dubovica Lux. Stan se na...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!395",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269550615",
+      "name": "Anđe Kaluđerović",
+      "email": null,
+      "source": "workbook:Outreach list!395"
+    },
+    {
+      "phone_e164": "+38269550615",
+      "name": "Anđe Kaluđerović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269550615"
+  ],
+  "phone_e164": "+38269550615",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

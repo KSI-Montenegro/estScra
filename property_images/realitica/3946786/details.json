@@ -1,0 +1,148 @@
+{
+  "source": "realitica",
+  "listing_id": "3946786",
+  "listing_url": "https://www.realitica.com/hr/listing/3946786",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946786"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 15,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3946786",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Lokacija": "Čeluga",
+    "Cijena": "€92.000",
+    "Godina Gradnje": "2026",
+    "Kupatila": "1",
+    "Stambena Površina": "28 m2",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3946786",
+    "Postavljeno": "18 Oct, 2026",
+    "Zadnja Promjena": "18 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_131058-0-r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_130514r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125745r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125512r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125541r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_130009r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125958r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125609r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_125950r.jpg",
+    "https://www.realitica.com/images/listing_photos/3946786_20261016_130023r.jpg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Bar reon Čeluga\n\nNa prodaju garsonjere u novoj zgradi\n\nSvaka sa pogledom na more\n\nModerna i kvalitetna gradnja\n\nVeliki parking okolo zgrade\n\n28m2- 92.000€\n\n33m2- 98.000€",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:43.198500+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.870447+00:00",
+  "source_html_sha256": "dd59cf3b69dbe82aea9864f431529c12d9ceb1325ce32ac1de153c3de26328d3",
+  "title": "Prodajem Stan-Apartman, Čeluga",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Čeluga",
+  "published_date_raw": "18 Oct, 2026",
+  "updated_date_raw": "18 Oct, 2026",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€92.000",
+  "price_amount": 92000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Bar reon Čeluga\nNa prodaju garsonjere u novoj zgradi\nSvaka sa pogledom na more\nModerna i kvalitetna gradnja\nVeliki parking okolo zgrade\n28m2- 92.000€\n33m2- 98.000€",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!15",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 100
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268477810",
+      "name": "Andrijana",
+      "email": null,
+      "source": "workbook:Outreach list!15"
+    }
+  ],
+  "contact_phones": [
+    "+38268477810"
+  ],
+  "phone_e164": "+38268477810",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

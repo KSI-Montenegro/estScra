@@ -1,0 +1,150 @@
+{
+  "source": "patuljak",
+  "listing_id": "84671",
+  "listing_url": "https://patuljak.me/oglas/prodaja-trosoban-stan-preko-morace--84671",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-trosoban-stan-preko-morace--84671"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 16,
+      "column": "second_ad_url"
+    },
+    {
+      "sheet": "Rejected",
+      "row": 53,
+      "column": "url"
+    }
+  ],
+  "property_key": "patuljak_84671",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Kvadratura": "112 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84671_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Prodaje se trosoban stan u površine 112m2 na idealnoj lokaciji-Preko Morače, velika zgrada pored Hrama, Bulevar Džordža Vašingtona, investitor i izvođač Normal Company.\nStruktura stana: dnevna soba sa izlazom na terasu, trpezarija, kuhinja, tri spavaće sobe, ostava, još jedna terasa, hodnik, kupatilo, toalet i predsoblje.\nStan se nalazi na II spratu stambene zgrade koja posjeduje lift..\nStan se prodaje polunamješten sa američkim plakarima i kuhinjom.\nNajbolja lokacija u Podgorici, zgrada se nalazi u neposrednoj blizini škola, vrtića, restorana, kafića…\nStan je 1/1 vlasništvo, bez tereta i ograničenja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:48.292261+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.743737+00:00",
+  "source_html_sha256": "f62c29cd06a3df480692b3c6e9263d282942e133ea24ac686a7809f05fb1b8c0",
+  "title": "Prodaja, trosoban stan, Preko Morace",
+  "description_language": "en",
+  "price_raw": "340000.00€",
+  "price_amount": 340000,
+  "price_currency": "EUR",
+  "advertiser_name": "Blok",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "2",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 112,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodaje se trosoban stan u površine 112m2 na idealnoj lokaciji-Preko Morače, velika zgrada pored Hrama, Bulevar Džordža Vašingtona, investitor i izvođač Normal Company. Struktura stana: dnevna soba sa izlazom na terasu, trpezarija, kuhinja, tri spavaće sobe, ostava, još jedna terasa, hodnik, kupatilo, toalet i predsoblje.Stan se nalazi na II spratu stambene zgrade koja posjeduje lift..Stan se prodaje polunamješten sa američkim plakarima i kuhinjom.Najbolja lokacija u Podgorici, zgrada se nalazi u neposrednoj blizini škola, vrtića, restorana, kafića…Stan je 1/1 vlasništvo, bez tereta i ograničenja.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!16",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269069585",
+      "name": "Blok",
+      "email": null,
+      "source": "workbook:Likely agents!16"
+    }
+  ],
+  "contact_phones": [
+    "+38269069585"
+  ],
+  "phone_e164": "+38269069585",
+  "lead_categories": [
+    "Likely agents",
+    "Rejected"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

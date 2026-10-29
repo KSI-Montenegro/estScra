@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "337524",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-337524",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-337524"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 65,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_337524",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Udaljenost od mora": "100m",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5586ee4d-9e5b-48b2-9d2b-fafabf0e1bec-lg.webp",
+    "https://content.estitor.com/86088329-7484-444a-b494-f1906a0d3d28-lg.webp",
+    "https://content.estitor.com/5efcff49-ec81-46ed-9091-401086b7231e-lg.webp",
+    "https://content.estitor.com/0d94b51b-4de8-4fab-a870-feb4821f0ae2-lg.webp",
+    "https://content.estitor.com/48807ab0-7263-49d5-a99d-67d849ff751b-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem komforan i namješten stan u strogom centru Bara, na period od godinu dana i duže.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:03.194223+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.556947+00:00",
+  "source_html_sha256": "18c71be4dea1ef04e4d73cd16b839081b70ae78ef16bd8c97dc5712ddacb74b3",
+  "title": "Izdavanje, jednosoban stan, 52m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2025-02-07",
+  "updated_date": "2026-10-20",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 52,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "2 Maršala Tita, Bar 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nekretnine Bar",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem komforan i namješten stan u strogom centru Bara, na period od godinu dana i duže.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!65",
+      "notes": "check deal: sale at 170 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267412690",
+      "name": "nekretnine",
+      "email": null,
+      "source": "workbook:Not homes!65"
+    },
+    {
+      "phone_e164": "+38267412690",
+      "name": "Nekretnine Bar",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267412690"
+  ],
+  "phone_e164": "+38267412690",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

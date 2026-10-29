@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "85148",
+  "listing_url": "https://patuljak.me/oglas/izadajem-sobe-za-radnike--85148",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izadajem-sobe-za-radnike--85148"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 929,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85148",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Broj kreveta": "4",
+    "Stambena kvadratura": "60 m2",
+    "Sprat": "1",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Zajedničko/a",
+    "Parking mjesto": "3 i više",
+    "Godina izgradnje": "1990-1999",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85148_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85148_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdajem sobe za radnike 5 e po krevetu. Veliki parking ispred kuce. Sobe se nalaze na gornjem spratu zajednicko kupatilo i kuhinja. Velika terasa, sve sobe imaju wf .",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:06.598291+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.144292+00:00",
+  "source_html_sha256": "e5cb8c7f6ef35ba1029e99a0e9422865dfb629e6be1ccbb1ce78b601f608fea0",
+  "title": "Izadajem sobe za radnike",
+  "description_language": "en",
+  "price_raw": "5.00€",
+  "price_amount": 5,
+  "price_currency": "EUR",
+  "advertiser_name": "Aleksandra",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "floor_raw": "1",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 60,
+  "year_built": 1990,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Izdajem sobe za radnike 5 e po krevetu. Veliki parking ispred kuce. Sobe se nalaze na gornjem spratu zajednicko kupatilo i kuhinja. Velika terasa, sve sobe imaju wf . ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!929",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267399428",
+      "name": "Aleksandra",
+      "email": null,
+      "source": "workbook:Outreach list!929"
+    }
+  ],
+  "contact_phones": [
+    "+38267399428"
+  ],
+  "phone_e164": "+38267399428",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "590497",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590497",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590497"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 897,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_590497",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7072e416-48bc-44f7-95b5-f9b94d746556-lg.webp",
+    "https://content.estitor.com/72b515bc-ea15-48c1-af64-5ebd805c801e-lg.webp",
+    "https://content.estitor.com/18f2d751-34a1-472e-84a4-2dfe06bee7c6-lg.webp",
+    "https://content.estitor.com/404e59c8-8574-4a43-9cc3-d90c6f930762-lg.webp",
+    "https://content.estitor.com/8d5b011d-2bd0-4373-b9e1-004c0eab1171-lg.webp",
+    "https://content.estitor.com/b4ed9aa3-85f0-45b5-b01e-8cb4d1808f0a-lg.webp",
+    "https://content.estitor.com/3a0d8afc-7fee-46ac-9bcb-6645bc198482-lg.webp",
+    "https://content.estitor.com/616b88f7-5efe-40e4-8a2e-fbc6c7e4476d-lg.webp",
+    "https://content.estitor.com/14765abd-8aef-4c6b-9e55-6d6ff7cf73af-lg.webp",
+    "https://content.estitor.com/dbcc6511-d155-47c5-a823-6d65f0d2cc29-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i moderno opremljen stan površine 60 m² u jednom od najpoželjnijih naselja Podgorice, Momišićima. Ovaj svijetao i funkcionalan dom nudi jednu udobnu spavaću sobu i jedno kupatilo, idealan za samce ili parove.\nStan je potpuno namješten i spreman za useljenje, bez potrebe za dodatnim ulaganjima. Unutar stana pronaći ćete prostranu kuhinju sa trpezarijom, povezanu sa dnevnim boravkom, što stvara prijatan ambijent za život i odmor.\nDodatne pogodnosti uključuju klimatizaciju za optimalnu temperaturu tokom cijele godine, pristup internetu, kao i praktičnu ostavu. Poseban benefit je i pripadajuće dvorište, koje pruža miran kutak za relaksaciju.\nParking je obezbijeđen ispred objekta, što značajno olakšava svakodnevni život. Lokacija u Momišićima garantuje mir i privatnost, uz istovremenu blizinu svih važnih gradskih sadržaja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:41.377112+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.780694+00:00",
+  "source_html_sha256": "8a03a7970ef6442b0cc7f916736a62f14f0cbc5e3e2005ef92a6f9a2f41b67b0",
+  "title": "Izdavanje, jednosoban stan, 60m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-09",
+  "updated_date": "2026-10-14",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 60,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Nikca od Rovina, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Bojan Popovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kuhinja",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se prostran i moderno opremljen stan površine 60 m² u jednom od najpoželjnijih naselja Podgorice, Momišićima. Ovaj svijetao i funkcionalan dom nudi jednu udobnu spavaću sobu i jedno kupatilo, idealan za samce i...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!897",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267617053",
+      "name": "Bojan Popovic",
+      "email": null,
+      "source": "workbook:Outreach list!897"
+    },
+    {
+      "phone_e164": "+38267617053",
+      "name": "Bojan Popovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267617053"
+  ],
+  "phone_e164": "+38267617053",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

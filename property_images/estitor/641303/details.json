@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "641303",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kolasin/id-641303",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kolasin/id-641303"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 789,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_641303",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "2",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Površina placa": "500",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "500"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/57dd08dd-54cc-4dde-80f7-5a5cef9ef3a1-lg.webp",
+    "https://content.estitor.com/c98addf3-e5e1-4fb0-ba4f-29527e1e0734-lg.webp",
+    "https://content.estitor.com/4eb6c267-d404-4dfe-ad3d-68ae2254fc94-lg.webp",
+    "https://content.estitor.com/80ad5eef-c5a0-4942-9ef4-c4f6680c0c46-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izvanrednu kuću za izdavanje u srcu Kolašina, u naselju Centar.\nOva prostrana kuća od 80.0 m² nudi udoban dom sa 2 spavaće sobe i 2 kupatila. Nalazi se na prizemlju i dolazi kompletno opremljena, spremna za useljenje.\nUživajte u brojnim pogodnostima koje uključuju klimatizaciju za optimalnu temperaturu, privatno dvorište i dostupnu kablovsku televiziju. Praktičnost dopunjuje obezbijeđeno parkiranje ispred objekta.\nUnutrašnjost je pametno organizovana sa predsobljem, hodnikom, ostavom, funkcionalnom kuhinjom i prostranom trpezarijom, pružajući sav komfor modernog življenja.\nIdealno mjesto za udoban život u mirnom okruženju sa svim gradskim sadržajima nadohvat ruke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:23.320948+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.633098+00:00",
+  "source_html_sha256": "ccb6ed0e14b57b31246fc26b460786fb93327d50969f2d0ea929368189dd8d12",
+  "title": "Izdavanje, kuća, 80m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 80,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Kolašin",
+  "country": "ME",
+  "advertiser_name": "M G",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "lot_area_m2": 500,
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Predstavljamo Vam izvanrednu kuću za izdavanje u srcu Kolašina, u naselju Centar.Ova prostrana kuća od 80.0 m² nudi udoban dom sa 2 spavaće sobe i 2 kupatila. Nalazi se na prizemlju i dolazi kompletno opremljena, spre...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!789",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268064007",
+      "name": "M G",
+      "email": null,
+      "source": "workbook:Outreach list!789"
+    },
+    {
+      "phone_e164": "+38268064007",
+      "name": "M G",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268064007"
+  ],
+  "phone_e164": "+38268064007",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

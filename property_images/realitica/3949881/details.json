@@ -1,0 +1,142 @@
+{
+  "source": "realitica",
+  "listing_id": "3949881",
+  "listing_url": "https://www.realitica.com/hr/listing/3949881",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949881"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 80,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3949881",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Budva Okolina",
+    "Lokacija": "Bečići",
+    "Cijena": "€99.750",
+    "Kupatila": "1",
+    "Stambena Površina": "28 m2",
+    "Oglas Broj": "3949881",
+    "Postavljeno": "22 Oct, 2026",
+    "Zadnja Promjena": "22 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3949881_img_7639.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7643.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7640.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7641.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7642.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7644.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7645.webp",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7646.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7649.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949881_img_7648.jpeg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju Garsonjera 1 sprat, Becici, Apartments. Površina: 28,5 m²;kupatila: 1. Fotografije prikazuju tok gradnje\n\nMogućnost plaćanja na rate po dogovoru.\n\nRokovi završetka izgradnje:\n\n* Završetak zgrade planiran do 15. jula 2027. godine\n\n* Završetak cijelog kompleksa planiran za prvi kvartal 2028. godine\n\nFotografije prikazuju trenutnu fazu izgradnje. Namještaj prikazan na 3D vizualizacijama je ilustrativnog karaktera.\n\nU ovoj fazi kupovine još uvijek postoji mogućnost izbjegavanja 3% poreza, u skladu sa važećim uslovima.\n\nCijena: 99.750 €\n\nZa više informacija o dostupnim stanovima:\n\n+382 69 784 788\n\nWhatsApp / Viber / Telegram",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:14.606521+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.287383+00:00",
+  "source_html_sha256": "3918c7950fe953afa4e0ebe041db40940d9cb93f72ee8f553048eb0a45914232",
+  "title": "Prodajem Stan-Apartman, Bečići",
+  "description_language": "hr",
+  "city": "Budva Okolina",
+  "district": "Bečići",
+  "published_date_raw": "22 Oct, 2026",
+  "updated_date_raw": "22 Oct, 2026",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€99.750",
+  "price_amount": 99750,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "Na prodaju Garsonjera 1 sprat, Becici, Apartments. Površina: 28,5 m²;kupatila: 1. Fotografije prikazuju tok gradnje\n\nMogućnost plaćanja na rate po dogovoru.\n\nRokovi završetka izgradnje:\n\n* Završetak zgrade planiran do 15. jula 2027. godine\n* Završetak cijelog kompleksa planiran za prvi kvartal 2028. godine\n\nFotografije prikazuju trenutnu fazu izgradnje. Namještaj prikazan na 3D vizualizacijama je ilustrativnog karaktera.\n\nU ovoj fazi kupovine još uvijek postoji mogućnost izbjegavanja 3% poreza, u skladu sa važećim uslovima.\n\nCijena: 99.750 €\n\nZa više informacija o dostupnim stanovima:\n\n+382 69 784 788\nWhatsApp / Viber / Telegram",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!80",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269784788",
+      "name": "Filip",
+      "email": null,
+      "source": "workbook:Outreach list!80"
+    }
+  ],
+  "contact_phones": [
+    "+38269784788"
+  ],
+  "phone_e164": "+38269784788",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

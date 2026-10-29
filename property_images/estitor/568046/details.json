@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "568046",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-568046",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-568046"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 254,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_568046",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Garaža"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2df8767b-0f3b-4639-9fe2-47a542eed070-lg.webp",
+    "https://content.estitor.com/38e5f94d-1faf-4952-b422-e78dc6e80a77-lg.webp",
+    "https://content.estitor.com/d896f3f8-1271-4f5a-814e-7059ececeafb-lg.webp",
+    "https://content.estitor.com/da4e5928-8769-44f1-b876-9d5bceb9fda0-lg.webp",
+    "https://content.estitor.com/7d1135b9-49a2-461e-b34c-8b9cc74d784d-lg.webp",
+    "https://content.estitor.com/b988e75b-fa9c-43af-b3f1-9d7e7bb99410-lg.webp",
+    "https://content.estitor.com/53cc38c9-6b4b-4ecd-a885-01901ecfdc50-lg.webp",
+    "https://content.estitor.com/07f1db88-8f82-4a9a-bc12-489f0240c2d9-lg.webp",
+    "https://content.estitor.com/907bfabd-a319-4c76-a9c4-8eb75fd95c4b-lg.webp",
+    "https://content.estitor.com/5c02fd09-2d6c-41ef-b749-f98945a8b815-lg.webp",
+    "https://content.estitor.com/b344af96-f371-47c8-9e64-3a46507fb0d8-lg.webp",
+    "https://content.estitor.com/efd634b5-0aa8-4e48-b2ae-0b41b54262c3-lg.webp",
+    "https://content.estitor.com/f7d084ff-c79c-4ea6-bd45-99cf98a3aa9e-lg.webp",
+    "https://content.estitor.com/c4e60fa7-71cb-456a-9ddf-07f39ecc4f90-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i komforan stan u Pržnu – dugoročni najam od oktobra\n\nU prelepom i mirnom delu Pržna, dostupan je za dugoročni najam potpuno opremljen stan površine 57 m². Sa jednom spavaćom sobom i dva kupatila, ovaj svetao i osunčan prostor nudi predivan pogled na more.\n\nStan je moderno uređen, izuzetno komforan i funkcionalan, idealan za uživanje u mediteranskom ambijentu tokom cijele godine. Obiluje prirodnim svjetlom tokom cijelog dana, a sa prostrane terase se pruža očaravajući pogled na more.\n\nKljučne prednosti:\n\nPovršina: 57 m²\n\n1 spavaća soba, 2 kupatila\n\nPotpuno opremljen i moderno uređen\n\nPrekrasan pogled na more\n\nSvetao i osunčan prostor\n\nMirna lokacija u blizini plaže, restorana i svih neophodnih sadržaja\n\nUključeno garažno mjesto\n\nStan je dostupan za dugoročni najam od oktobra. Ne propustite priliku za život na jednoj od najljepših lokacija!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:48.542570+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.373098+00:00",
+  "source_html_sha256": "21a582041f622b20f3d73e8ff2e412babd4774e2a5dee78c87fac777d450e946",
+  "title": "Izdavanje, jednosoban stan, 57m², Pržno, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-10",
+  "updated_date": "2026-10-21",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 57,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Ivanka Ivanka",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se moderan i komforan stan u Pržnu – dugoročni najam od oktobra U prelepom i mirnom delu Pržna, dostupan je za dugoročni najam potpuno opremljen stan površine 57 m². Sa jednom spavaćom sobom i dva kupatila, ova...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!254",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381658171771",
+      "name": "Ivanka Ivanka",
+      "email": null,
+      "source": "workbook:Outreach list!254"
+    },
+    {
+      "phone_e164": "+381658171771",
+      "name": "Ivanka Ivanka",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381658171771"
+  ],
+  "phone_e164": "+381658171771",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

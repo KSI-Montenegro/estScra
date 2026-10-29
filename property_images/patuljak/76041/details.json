@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "76041",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-64-m2-centar-podgorica--76041",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-64-m2-centar-podgorica--76041"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 992,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76041",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugozapad",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "64 m2",
+    "Kvadratura balkona": "4 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76041_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem stan u centru Podgorice, 64m2,jednosoban,3 sprat, suncan,u blizini Hiltona, kirija 450 eura i depozit,mogu i studenti",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:38.752048+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.560171+00:00",
+  "source_html_sha256": "d661892459a7b7586b42e618cb54e70ff32aec2160db14843db55cbdd1bf65f5",
+  "title": "Izdajem stan 64 m2, Centar, Podgorica",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "Sanja",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 64,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem stan u centru Podgorice, 64m2,jednosoban,3 sprat, suncan,u blizini Hiltona, kirija 450 eura i depozit,mogu i studenti",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!992",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267207753",
+      "name": "Sanja",
+      "email": null,
+      "source": "workbook:Outreach list!992"
+    }
+  ],
+  "contact_phones": [
+    "+38267207753"
+  ],
+  "phone_e164": "+38267207753",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "320722",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-320722",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-320722"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 190,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_320722",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Izdam"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2ce432d4-72d8-4a36-b484-e118fa003824-lg.webp",
+    "https://content.estitor.com/8eff1b41-d8f4-49e3-8011-bbfb7687b7ad-lg.webp",
+    "https://content.estitor.com/d16369ce-c4c2-44aa-99fe-7f41b1dcb1fe-lg.webp",
+    "https://content.estitor.com/5a26eb54-7d32-45d6-8d12-301e4a308533-lg.webp",
+    "https://content.estitor.com/7d7b46e0-c417-47dc-914c-d847c566995c-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:13.262286+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.427255+00:00",
+  "source_html_sha256": "bf1b88f6cb33037f715e4c12a65f0c4c0d0edd115f18d32e338a5f2e110e497e",
+  "title": "Izdavanje, plac, 1726m², Komani, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2024-12-16",
+  "updated_date": "2026-09-09",
+  "price_amount": 1200,
+  "price_currency": "EUR",
+  "price_raw": "1200 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Milos Raicevic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!190",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267289078",
+      "name": "Milos Raicevic",
+      "email": null,
+      "source": "workbook:Not homes!190"
+    },
+    {
+      "phone_e164": "+38267289078",
+      "name": "Milos Raicevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267289078"
+  ],
+  "phone_e164": "+38267289078",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "description_original",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

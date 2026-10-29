@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "525696",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-525696",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-525696"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 837,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_525696",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Podrum": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6c163eb4-8822-46f0-925a-004127e52112-lg.webp",
+    "https://content.estitor.com/266d44c3-9b77-4ba6-8e1d-a5802274b1a1-lg.webp",
+    "https://content.estitor.com/ccf587de-eb4b-47cd-8fba-b820ba795123-lg.webp",
+    "https://content.estitor.com/84d09e67-00ef-46ad-a9fa-4d33e96a811f-lg.webp",
+    "https://content.estitor.com/bf5b40cd-a9a2-4e30-86c2-a4520d1766e6-lg.webp",
+    "https://content.estitor.com/878be36a-62c2-4d16-b6f6-2e15d1650d8c-lg.webp",
+    "https://content.estitor.com/968c3261-493a-45c2-953e-438926f15c7f-lg.webp",
+    "https://content.estitor.com/35e6b15f-c1d1-4f3e-b828-07f25ff5f34c-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem namješten jednosoban stan 55m2 u strogom centru Cetinja, stan se nalazi na 1. spratu. Stan je klimatizovan, ima internet, kablovsku, dostupan javni parking.\nStan dostupan od 01. septembra",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:00.869850+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.207711+00:00",
+  "source_html_sha256": "0a72b0227f2bed68b8a1d0d86f9d5cf0e0a2a3470400496fb2fd2faeb63597e7",
+  "title": "Izdavanje, jednosoban stan, 55m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-21",
+  "updated_date": "2026-09-12",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "11 Ivanbegova, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Slavko Kosovac",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Podrum",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdajem namješten jednosoban stan 55m2 u strogom centru Cetinja, stan se nalazi na 1. spratu. Stan je klimatizovan, ima internet, kablovsku, dostupan javni parking.Stan dostupan od 01. septembra",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!837",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267274341",
+      "name": "Slavko Kosovac",
+      "email": null,
+      "source": "workbook:Outreach list!837"
+    },
+    {
+      "phone_e164": "+38267274341",
+      "name": "Slavko Kosovac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267274341"
+  ],
+  "phone_e164": "+38267274341",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

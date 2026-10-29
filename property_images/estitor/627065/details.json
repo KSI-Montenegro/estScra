@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "627065",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627065",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627065"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 643,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627065",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Interfon": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b9062530-af24-463f-acaf-88e99a648af9-lg.webp",
+    "https://content.estitor.com/2de2e1e4-4402-46de-87d3-f365602d3894-lg.webp",
+    "https://content.estitor.com/0d4332b6-ebf6-43ba-81b0-62d8f7a74abc-lg.webp",
+    "https://content.estitor.com/f997d120-2fd2-4fa9-9d8f-ef5d9c168cb2-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem u zakup namještenu garsonjeru u Podgorici, naselje Zabjelo, zgrada Lipe.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:03.985902+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.598416+00:00",
+  "source_html_sha256": "db05084c290ca066c0248ec32278a450a237e81b2376841f4b60d93339964f83",
+  "title": "Izdavanje, jednosoban stan, 30m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01",
+  "price_amount": 320,
+  "price_currency": "EUR",
+  "price_raw": "320 EUR",
+  "area_m2": 30,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Blažene Ozane, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Irena Simunovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Interfon"
+  ],
+  "metadata_summary": "Izdajem u zakup namještenu garsonjeru u Podgorici, naselje Zabjelo, zgrada Lipe.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!643",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267504482",
+      "name": "Irena Simunovic",
+      "email": null,
+      "source": "workbook:Outreach list!643"
+    },
+    {
+      "phone_e164": "+38267504482",
+      "name": "Irena Simunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267504482"
+  ],
+  "phone_e164": "+38267504482",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

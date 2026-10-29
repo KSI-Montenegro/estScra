@@ -1,0 +1,183 @@
+{
+  "source": "estitor",
+  "listing_id": "579542",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-579542",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-579542"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 682,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_579542",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Površina placa": "1500",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Telefon": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "1500",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/97ae0f02-c1cc-4028-8f92-87b352bf5fc4-lg.webp",
+    "https://content.estitor.com/87647c31-2167-4c54-9285-b0f43c112cbd-lg.webp",
+    "https://content.estitor.com/e6252bb2-e142-4fe8-85b7-7de8c29f355f-lg.webp",
+    "https://content.estitor.com/45180566-a0d2-4c2c-94a5-efa18f0cb3cb-lg.webp",
+    "https://content.estitor.com/aa62981c-ba80-4f99-b22c-acc92ca5d970-lg.webp",
+    "https://content.estitor.com/8c3c5c05-61a5-4236-9f1e-ba9024faaec1-lg.webp",
+    "https://content.estitor.com/8654406b-3193-4abf-accb-e7989a4dd6a9-lg.webp",
+    "https://content.estitor.com/9c57fce5-a8c2-41f4-955f-957c7208a7bb-lg.webp",
+    "https://content.estitor.com/a2e613ea-f3de-405a-a500-33bce0c5dc07-lg.webp",
+    "https://content.estitor.com/7c10306e-d2ad-4051-837c-c0b3f6ea38ee-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Luksuzna moderna vila za izdavanje – Farmaci, Podgorica\nDirektno od investitora\nIzdaje se luksuzna moderna vila u naselju Farmaci, na svega nekoliko minuta od centra Podgorice. Nekretnina je građena po najvišim standardima, sa posebnim akcentom na kvalitet, energetsku efikasnost i komfor.\nVila se izdaje neopremljena, uz mogućnost potpunog ili djelimičnog opremanja prema potrebama zakupca, uz dogovor.\nOsnovne karakteristike\nKuća: 434 m²\n\nPomoćni objekat: 70 m²\n\nPlac: 1.500 m²\n\nBazen: 8 × 4 m, dubine 1,5 m\n\nOprema i sadržaji\nToplotna pumpa\n\nPodno grijanje u cijeloj kući\n\nNezavisna klimatizacija po zonama\n\nVideo nadzor\n\nAutomatski sistem za navodnjavanje\n\nBazen sa elektrolizom (slana voda) i Turbo Jet sistemom za plivanje u mjestu\n\nDva optička internet priključka\n\nPunjači za električna vozila\n\nProstrano uređeno dvorište sa visokim nivoom privatnosti\n\nNekretnina je idealna za porodično stanovanje, diplomatska predstavništva, strane kompanije ili poslovne ljude koji traže vrhunski kvalitet i mirnu lokaciju u neposrednoj blizini Podgorice.\nLokacija: Farmaci, Podgorica\nStanje: Neopremljena (mogućnost opremanja po dogovoru)\nCijena: Na upit",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:23.463251+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.802420+00:00",
+  "source_html_sha256": "632507ccd631d297a10d696637efca0e0cf0aeaa2e755ff21a02acfe8a4dc096",
+  "title": "Izdavanje, kuća, 434m², Farmaci, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-15",
+  "updated_date": "2026-09-16",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 434,
+  "rooms": 4,
+  "bathrooms": 3,
+  "city": "Podgorica",
+  "street_address": "M2.3, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Savo R",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "lot_area_m2": 1500,
+  "balconies": 2,
+  "year_built": 2026,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Telefon",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Lux"
+  ],
+  "metadata_summary": "Luksuzna moderna vila za izdavanje – Farmaci, PodgoricaDirektno od investitoraIzdaje se luksuzna moderna vila u naselju Farmaci, na svega nekoliko minuta od centra Podgorice. Nekretnina je građena po najvišim standard...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!682",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267564007",
+      "name": "Savo R",
+      "email": null,
+      "source": "workbook:Outreach list!682"
+    },
+    {
+      "phone_e164": "+38267564007",
+      "name": "Savo R",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267564007"
+  ],
+  "phone_e164": "+38267564007",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

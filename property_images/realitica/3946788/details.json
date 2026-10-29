@@ -1,0 +1,149 @@
+{
+  "source": "realitica",
+  "listing_id": "3946788",
+  "listing_url": "https://www.realitica.com/hr/listing/3946788",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946788"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 131,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3946788",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Cijena": "€345.000",
+    "Spavaćih Soba": "3",
+    "Kupatila": "2",
+    "Stambena Površina": "90 m2",
+    "Od Mora (m)": "100",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3946788",
+    "Postavljeno": "18 Oct, 2026",
+    "Zadnja Promjena": "28 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946788_86b23379-91a7-4be0-ba34-045531e2fd21.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_6b894ad3-8e18-452b-8956-d4fe965a6b8b.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_0c532ace-e9b5-42f6-be7e-4eb95b8e052e.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_cbfd06ef-a289-4880-933c-2bf1c80b549b.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_fb03bcd4-d09f-4d5a-bdc4-5f8e08a34270.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_88a8785a-3b77-48d6-8493-0da05aa54de4.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_22b266f1-2826-4730-b4d3-47a314332c59.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_1b8122f3-1a04-4f0e-897c-2205ec08bfef.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_d95f5c0c-5f14-4626-9fe6-3d2346ccade7.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946788_0c231290-e210-4acf-bd97-170ea3cb32f2.jpeg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju trosoban stan povrsine 90 m2 u zgradi Zetagradnje, centar,100 m od mora. Odlican raspored i kvalitet gradnje na idealnoj lokaciji. Cena stana 345.000 e. Vise info na tel 069 495 743",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:17.920732+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.961651+00:00",
+  "source_html_sha256": "5af160fed1644721ccd7f44b27e172bf5dca993fa654075709247c83ade57b40",
+  "title": "Prodajem Stan-Apartman, Bar",
+  "description_language": "hr",
+  "city": "Bar",
+  "published_date_raw": "18 Oct, 2026",
+  "updated_date_raw": "28 Oct, 2026",
+  "area_m2": 90,
+  "bathrooms": 2,
+  "bedrooms": 3,
+  "distance_to_sea_m": 100,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€345.000",
+  "price_amount": 345000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Na prodaju trosoban stan povrsine 90 m2 u zgradi Zetagradnje, centar,100 m od mora. Odlican raspored i kvalitet gradnje na idealnoj lokaciji. Cena stana 345.000 e. Vise info na tel 069 495 743",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!131",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; has vanity profile; Medium - Heuristic: no agency name/website/company no.; has vanity profile; Medium - Heuristic: no agency name/website/company no.; has vanity profile",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269495743",
+      "name": "Biljana",
+      "email": null,
+      "source": "workbook:Likely agents!131"
+    }
+  ],
+  "contact_phones": [
+    "+38269495743"
+  ],
+  "phone_e164": "+38269495743",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

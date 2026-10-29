@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "600785",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-600785",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-600785"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 819,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_600785",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e8e914e8-c95a-4e27-8703-76ec5edb373f-lg.webp",
+    "https://content.estitor.com/3d7a5111-660c-4195-9168-4c0d8170abe9-lg.webp",
+    "https://content.estitor.com/890733e1-69c3-4402-9d59-d0cfe43bafc6-lg.webp",
+    "https://content.estitor.com/e46de31c-21df-442e-abfb-70e2340b945c-lg.webp",
+    "https://content.estitor.com/c873f35b-bc05-4c9b-82ab-346a36addd9e-lg.webp",
+    "https://content.estitor.com/9b4d5b19-960c-48ba-b9f7-bfbdb0c4d967-lg.webp",
+    "https://content.estitor.com/67129487-df0a-42e1-a944-07c2ae4c24be-lg.webp",
+    "https://content.estitor.com/52943a5a-4b55-4e53-b780-8d8dfa5f9c01-lg.webp",
+    "https://content.estitor.com/dc8c2a71-44e4-4ea2-993c-c7060158f1fa-lg.webp",
+    "https://content.estitor.com/38614502-799b-4c4f-ad3a-edfb663746dd-lg.webp",
+    "https://content.estitor.com/28d61376-151a-4ec8-ad91-5ae2e1d12148-lg.webp",
+    "https://content.estitor.com/1704ac53-0041-4bbd-9e2e-15d7d3f60740-lg.webp",
+    "https://content.estitor.com/5f9c85b6-c85f-4b21-8a06-21bc9286c75a-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Osunčan, Novogradnja, Blizu škole, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:48.358022+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.006950+00:00",
+  "source_html_sha256": "92e5707cfae5f65f3034a32f8d03f2ae11926bc5055014e07c56582339111225",
+  "title": "Izdavanje, jednosoban stan, 50m², Pod Kuk, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-25",
+  "updated_date": "2026-08-25",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Snjezana Pavlovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Osunčan, Novogradnja, Blizu škole, Miran kraj",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!819",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269323991",
+      "name": "Snjezana Pavlovic",
+      "email": null,
+      "source": "workbook:Outreach list!819"
+    },
+    {
+      "phone_e164": "+38269323991",
+      "name": "Snjezana Pavlovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269323991"
+  ],
+  "phone_e164": "+38269323991",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

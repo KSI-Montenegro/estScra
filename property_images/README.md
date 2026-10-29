@@ -59,3 +59,7 @@ python finalize_images.py
 ```
 
 The full supplied URL-to-workbook-row mapping is in `image_collection/input_urls.json`. Raw HTML caches stay outside the deliverable. The ZIP contains only property folders, indexes, collector scripts and input URL references; it excludes credentials and raw HTML.
+
+## Listing text and structured details
+
+Each property folder now also has `description.txt`, `details.json`, and a readable `listing.md`. Master Excel/CSV/JSON exports and the missing-field report are in [listing_details](../listing_details/README.md). The complete enriched download is [GRADEN_complete_listings.zip](../GRADEN_complete_listings.zip). The earlier image-only ZIP remains available.

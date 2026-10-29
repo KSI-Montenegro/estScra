@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "82090",
+  "listing_url": "https://patuljak.me/oglas/izdajem-visenamjenski-magacin-25-m-zabjelo-podgo--82090",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-visenamjenski-magacin-25-m-zabjelo-podgo--82090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 863,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82090",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!863:primary_url_fields",
+    "property_type": "normalization:explicit_title_type_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Adresa": "Kralja Nikole",
+    "Vrsta": "Ostalo",
+    "Namjena": "Poslovni prostor",
+    "Stambena površina": "25",
+    "Trenutna lokacija": "Kralja Nikole"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82090_8.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE NOV MAGACIN\nIzdaje se nov i funkcionalan magacin od 25 m² ulica Kraja Nikole.\n✅ Visina 4 m\n✅ Rolo vrata\n✅ Nova trofazna struja\n✅ Veliki parking –\n✅ Direktan prilaz sa ulice\n✅ Pogodan za magacin, opremu, materijal, servis i razne druge namjene\n✅ Mogućnost postavljanja video-nadzora/kamera\n???? Zabjelo – Kraja Nikole, Podgorica\nOzbiljan i uredan prostor, odličan prilaz i parking.\n???? Kontakt: 068 861 561",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:16.916350+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.451259+00:00",
+  "source_html_sha256": "3f060a5ced8c38082f419e285e2504d9dc96b69b43f7c5a162736b9ea05a665c",
+  "title": "Izdajem višenamjenski magacin 25 m², Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "650.00€",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "advertiser_name": "Stef",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "street_address": "Kralja Nikole",
+  "area_m2": 25,
+  "property_type_raw": "Ostalo",
+  "amenities": [],
+  "metadata_summary": "IZDAJE SE NOV MAGACINIzdaje se nov i funkcionalan magacin od 25 m² ulica Kraja Nikole.✅ Visina 4 m✅ Rolo vrata✅ Nova trofazna struja✅ Veliki parking – ✅ Direktan prilaz sa ulice✅ Pogodan za magacin, opremu, materijal, servis i razne druge namjene✅ Mogućnost postavljanja video-nadzora/kamera???? Zabjelo  – Kraja Nikole, PodgoricaOzbiljan i uredan prostor, odličan prilaz i parking.???? Kontakt: 068 861 561",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!863",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268351214",
+      "name": "Stef",
+      "email": null,
+      "source": "workbook:Outreach list!863"
+    }
+  ],
+  "contact_phones": [
+    "+38268351214"
+  ],
+  "phone_e164": "+38268351214",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

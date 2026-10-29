@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "84747",
+  "listing_url": "https://patuljak.me/oglas/prodaja-razlicitih-imanja-lijeva-rijeka-ptic--84747",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-razlicitih-imanja-lijeva-rijeka-ptic--84747"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 70,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84747",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!70:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "500 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84747_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "PLACEVI NA PRODAJU – PTIČ, LIJEVA RIJEKA | OPŠTINA PODGORICA\n\nNa oko 1000 m nadmorske visine, u mirnom planinskom ambijentu, a na manje od pola sata vožnje od Podgorice prodaje se više parcela različitih površina i konfiguracije terena.\n\nJedna od glavnih prednosti lokacije je blizina auto-puta. Od ulaza na auto-put na Smokovcu do petlje Veruša potrebno je oko 15-20 minuta vožnje, a od petlje do placeva još 5 minuta.\n\nNa raspolaganju su različite parcele, u zavisnosti od potreba i budžeta:\n• 20–25 €/m² – ravni placevi\n• 5–10 €/m² – placevi pod nagibom, sa otvorenim i lijepim pogledom.\n\nMogućnost parcelacije placeva po 500 m2 .\nNa većini placeva dostupni su voda i struja.\n\nLokacija predstavlja interesantan izbor za izgradnju porodične kuće, vikendice ili većeg imanja – za one koji žele mir i planinski ambijent, uz mogućnost da do Podgorice stignu za manje od pola sata.\n\nZa informacije o raspoloživim parcelama, površinama, tačnoj lokaciji ili dogovor oko obilaska, pozovite . Kontakt sa vlasnicima.\n???? 068 056 000",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:29.718202+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.319433+00:00",
+  "source_html_sha256": "a24900c45212b41809d2f7c99821e48e04749cdde1666e6109accabeae32e049",
+  "title": "Prodaja različitih imanja - Lijeva rijeka - Ptič",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Dejan",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "PLACEVI NA PRODAJU – PTIČ, LIJEVA RIJEKA | OPŠTINA PODGORICA Na oko 1000 m nadmorske visine, u mirnom planinskom ambijentu, a na manje od pola sata vožnje od Podgorice prodaje se više parcela različitih površina i konfiguracije terena.Jedna od glavnih prednosti lokacije je blizina auto-puta. Od ulaza na auto-put na Smokovcu do petlje Veruša potrebno je oko 15-20 minuta vožnje, a od petlje do placeva još 5 minuta.Na raspolaganju su različite parcele, u zavisnosti od potreba i budžeta:• 20–25 €/m² – ravni placevi• 5–10 €/m² – placevi pod nagibom, sa otvorenim i lijepim pogledom.Mogućnost parcelacije placeva po 500 m2 . Na većini placeva dostupni su voda i struja.Lokacija predstavlja interesantan izbor za izgradnju porodične kuće, vikendice ili većeg imanja – za one koji žele mir i planinski ambijent, uz mogućnost da do Podgorice stignu za manje od pola sata.Za informacije o raspoloživim parcelama, površinama, tačnoj lokaciji ili dogovor oko obilaska, pozovite . Kontakt sa vlasnicima.???? 068 056 000",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!70",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267835624",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Likely agents!70"
+    }
+  ],
+  "contact_phones": [
+    "+38267835624"
+  ],
+  "phone_e164": "+38267835624",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 500,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

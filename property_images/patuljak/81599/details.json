@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "81599",
+  "listing_url": "https://patuljak.me/oglas/prodaja-trosoban-stan-95m-zabjelo-podgorica--81599",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-trosoban-stan-95m-zabjelo-podgorica--81599"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 17,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81599",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!17:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Ne",
+    "Sprat": "2",
+    "Stambena kvadratura": "95 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81599_14.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Prodaja | Trosoban stan 95 m² (Novogradnja) – Zabjelo, Podgorica\nNa izuzetnoj lokaciji na Zabjelu (pored Rocky & Pistolata), prodaje se luksuzan, odmah useljiv trosoban stan površine 95 m². Stan se nalazi na drugom spratu zgrade novogradnje i posjeduje pripadajuće poluzatvoreno garažno mjesto uračunato u ponudu, uz pogodnost oslobođenja od plaćanja poreza na promet nepokretnosti.\nOsnovne karakteristike:\nPovršina: 95 m²\n\nStruktura: Trosoban stan\n\nSprat: Drugi sprat\n\nStanje: Novogradnja, uknjiženo, odmah useljiv\n\nParking: Poluzatvorena garaža za stanare uračunata uz stan\n\nPoreska olakšica: Kupac je oslobođen plaćanja poreza",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:48.416157+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.750417+00:00",
+  "source_html_sha256": "9a28a78bc391d09961a164af9dff391114bff0fd9b55236dd5d78bd7d2bfc0ce",
+  "title": "Prodaja, trosoban stan, 95m, Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "248000.00€",
+  "price_amount": 248000,
+  "price_currency": "EUR",
+  "advertiser_name": "28 Real",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Ne",
+  "area_m2": 95,
+  "amenities": [],
+  "metadata_summary": "Prodaja | Trosoban stan 95 m² (Novogradnja) – Zabjelo, PodgoricaNa izuzetnoj lokaciji na Zabjelu (pored Rocky & Pistolata), prodaje se luksuzan, odmah useljiv trosoban stan površine 95 m². Stan se nalazi na drugom spratu zgrade novogradnje i posjeduje pripadajuće poluzatvoreno garažno mjesto uračunato u ponudu, uz pogodnost oslobođenja od plaćanja poreza na promet nepokretnosti.Osnovne karakteristike:Površina: 95 m²Struktura: Trosoban stanSprat: Drugi spratStanje: Novogradnja, uknjiženo, odmah useljivParking: Poluzatvorena garaža za stanare uračunata uz stanPoreska olakšica: Kupac je oslobođen plaćanja poreza",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!17",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267032510",
+      "name": "28 Real",
+      "email": null,
+      "source": "workbook:Likely agents!17"
+    }
+  ],
+  "contact_phones": [
+    "+38267032510"
+  ],
+  "phone_e164": "+38267032510",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

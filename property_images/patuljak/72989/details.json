@@ -1,0 +1,158 @@
+{
+  "source": "patuljak",
+  "listing_id": "72989",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-80m2-zabjelo-podgorica-prodaja--72989",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-80m2-zabjelo-podgorica-prodaja--72989"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 45,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72989",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!45:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Adresa": "Steva Boljevica 19",
+    "Broj soba": "Dvosoban",
+    "Namješten": true,
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Stambena kvadratura": "80 m2",
+    "Balkon": true,
+    "Renoviran": true,
+    "Blindirana vrata": true,
+    "Klima": true,
+    "Telefonski priključak": true,
+    "Podrum/Tavan": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_6.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Na prodaju dvosoban stan površine 80m² (u listu nepokretnosti upisano 70m²) na Zabjelu.\nStan se nalazi na I spratu stambene zgrade stare oko 30 godina, koja ima svega sedam stambenih jedinica.\nPo svojoj strukturi je dvosoban i sastoji se od prostranog dnevnog boravka sa trpezarijom, kuhinje, dvije spavaće sobe, hodnika, kupatila i dvije terase. Stan je dvostrano orijentisan, što obezbjeđuje odličnu osvijetljenost, prirodnu ventilaciju i prijatan ambijent tokom cijelog dana.\nProdaje se kompletno namješten, a uz stan dolazi i ostava površine 6m² u podrumu, koja pruža dodatni prostor za odlaganje.\nLokacija u blizini Family Kvarta omogućava brz pristup školama, vrtićima, marketima, restoranima, parkovima i svim sadržajima potrebnim za kvalitetan svakodnevni život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:58.240830+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.045442+00:00",
+  "source_html_sha256": "f70b69b71ef4848c18a0edaeea5456f41c323740ffa37b3af7ed1bbb69a84706",
+  "title": "Dvosoban stan 80m2, Zabjelo, Podgorica, Prodaja",
+  "description_language": "en",
+  "price_raw": "170000.00€",
+  "price_amount": 170000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "street_address": "Steva Boljevica 19",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": true,
+  "heating_raw": "Struja",
+  "area_m2": 80,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Renoviran",
+    "Blindirana vrata",
+    "Klima",
+    "Telefonski priključak",
+    "Podrum/Tavan"
+  ],
+  "metadata_summary": "Na prodaju dvosoban stan površine 80m² (u listu nepokretnosti upisano 70m²) na Zabjelu.Stan se nalazi na I spratu stambene zgrade stare oko 30 godina, koja ima svega sedam stambenih jedinica.Po svojoj strukturi je dvosoban i sastoji se od prostranog dnevnog boravka sa trpezarijom, kuhinje, dvije spavaće sobe, hodnika, kupatila i dvije terase. Stan je dvostrano orijentisan, što obezbjeđuje odličnu osvijetljenost, prirodnu ventilaciju i prijatan ambijent tokom cijelog dana.Prodaje se kompletno namješten, a uz stan dolazi i ostava površine 6m² u podrumu, koja pruža dodatni prostor za odlaganje.Lokacija u blizini Family Kvarta omogućava brz pristup školama, vrtićima, marketima, restoranima, parkovima i svim sadržajima potrebnim za kvalitetan svakodnevni život.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!45",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269198065",
+      "name": "Ivana",
+      "email": null,
+      "source": "workbook:Outreach list!45"
+    }
+  ],
+  "contact_phones": [
+    "+38269198065"
+  ],
+  "phone_e164": "+38269198065",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

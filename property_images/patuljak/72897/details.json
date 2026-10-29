@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "72897",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-48-m-meliora-homes-cetinje--72897",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-48-m-meliora-homes-cetinje--72897"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 542,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72897",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!542:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Gipos",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "48 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se luksuzno opremljen jednosoban stan – 48 m² | Meliora Homes, Cetinje\nU ponudi je moderno i elegantno opremljen jednosoban stan površine 48 m², smješten u prestižnoj Meliora Homes zgradi u Jabučkoj ulici na Cetinju.\nStan je pažljivo uređen, potpuno namješten i spreman za useljenje. Odlikuju ga kvalitetni materijali, savremen dizajn i funkcionalan raspored koji pruža maksimalnu udobnost. Sastoji se od prostranog dnevnog boravka sa kuhinjom i trpezarijom, spavaće sobe, kupatila i terase, idealne za opuštanje.\nZa potpuni komfor, stan je opremljen klima uređajem, a uz njega dolazi i garažno parking mjesto u sklopu zgrade.\nKarakteristike:\n48 m²\nPotpuno i moderno namješten\nTerasa\nKlima uređaj\nGaražno parking mjesto\nNova, kvalitetna i moderno projektovana zgrada\nMirno i prijatno okruženje\nIzdaje se isključivo na duži period\n\nStan je idealan za one koji traže kvalitetan životni prostor, privatnost i udobnost u jednom od najmodernijih stambenih kompleksa na Cetinju.\nZa više informacija i zakazivanje razgledanja, slobodno se javite putem poruke ili telefona.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:15.648765+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.063735+00:00",
+  "source_html_sha256": "7de775e9acd09bfaf94f73e0bfae37ed63ece63ea437363d4d699b413e787229",
+  "title": "Izdavanje, Stan 48 m², Meliora Homes, Cetinje",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Danilo",
+  "property_type": "apartment",
+  "city": "Cetinje",
+  "district": "Gipos",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 48,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se luksuzno opremljen jednosoban stan – 48 m² | Meliora Homes, CetinjeU ponudi je moderno i elegantno opremljen jednosoban stan površine 48 m², smješten u prestižnoj Meliora Homes zgradi u Jabučkoj ulici na Cetinju.Stan je pažljivo uređen, potpuno namješten i spreman za useljenje. Odlikuju ga kvalitetni materijali, savremen dizajn i funkcionalan raspored koji pruža maksimalnu udobnost. Sastoji se od prostranog dnevnog boravka sa kuhinjom i trpezarijom, spavaće sobe, kupatila i terase, idealne za opuštanje.Za potpuni komfor, stan je opremljen klima uređajem, a uz njega dolazi i garažno parking mjesto u sklopu zgrade.Karakteristike:48 m²Potpuno i moderno namještenTerasaKlima uređajGaražno parking mjestoNova, kvalitetna i moderno projektovana zgradaMirno i prijatno okruženjeIzdaje se isključivo na duži periodStan je idealan za one koji traže kvalitetan životni prostor, privatnost i udobnost u jednom od najmodernijih stambenih kompleksa na Cetinju.Za više informacija i zakazivanje razgledanja, slobodno se javite putem poruke ili telefona.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!542",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268764772",
+      "name": "Danilo",
+      "email": null,
+      "source": "workbook:Outreach list!542"
+    }
+  ],
+  "contact_phones": [
+    "+38268764772"
+  ],
+  "phone_e164": "+38268764772",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

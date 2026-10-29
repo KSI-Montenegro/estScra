@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "489450",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-489450",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-489450"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 640,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_489450",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "9. sprat",
+    "Broj terasa": "1",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/187fbae0-947e-43b6-8196-78272ed09b03-lg.webp",
+    "https://content.estitor.com/72b7e968-3901-4c1c-b867-3405f8754c7d-lg.webp",
+    "https://content.estitor.com/0804a36c-af29-4380-8350-43903dc75798-lg.webp",
+    "https://content.estitor.com/59de573b-27b5-4d9e-a3f3-6756d431959e-lg.webp",
+    "https://content.estitor.com/fd3ce902-dd5e-443f-9389-8dc43c72c0b1-lg.webp",
+    "https://content.estitor.com/4099f708-7725-495a-b999-04caffe575e2-lg.webp",
+    "https://content.estitor.com/d30f868b-bb6c-42e6-9d85-d41e3b887a31-lg.webp",
+    "https://content.estitor.com/ff2e2096-4497-4add-9ba5-0c9eef133274-lg.webp",
+    "https://content.estitor.com/e61c35c6-6393-4cdd-8ba7-e219a5e8f317-lg.webp",
+    "https://content.estitor.com/36191873-eee2-4945-a0bb-3fdcd9f7efb7-lg.webp",
+    "https://content.estitor.com/2f324c9c-aefd-4bda-a92c-c5aabff9d825-lg.webp",
+    "https://content.estitor.com/ca94dee0-9c34-452b-85a6-a868abd13b84-lg.webp",
+    "https://content.estitor.com/faf67e69-45f2-41a0-a18a-26c8d6f1d9dc-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "FOR RENT – ONE-BEDROOM APARTMENT IN THE HEART OF PODGORICA📍 City center • 9th floor (not top) • High-rise with elevator🌆 Panoramic view of Podgorica🛋️ 58 m² • Renovated • Fully furnished & equippedWHAT YOU GET:✅ Living room + bedroom (160×200 double bed, comfy 3-seater sofa)✅ Kitchen: fridge, stove, dishes for 4 people✅ Bathroom: hydromassage shower cabin, washing machine, electric radiator✅ Appliances: LCD TV, air conditioning (cooling/heating), radiator✅ Extras: bed linen, towels, iron, ironing board, vacuum cleanerPRICE:💎 €430/month – 12+ month contract (fixed)💎 Shorter lease – price by agreement (min. 3 months)Apartment available from November 12.Quiet surroundings, excellent sound insulation, security door.Location – 2 minutes walk from:• Independence Square (Trg Nezavisnosti)• Banks, post office, bakeries, restaurantsDeposit: 1 month rent📞 +382 67 521 325 (call / WhatsApp / Viber)No agency fee. Serious inquiries only., Osunčan, Blizu škole, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:02.192183+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.582315+00:00",
+  "source_html_sha256": "26723ef8728bf5891de985c6cc6b8d82d086c7a8ea251f0f44fe7bd2e6fbb98b",
+  "title": "Izdavanje, jednosoban stan, 58m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-07",
+  "updated_date": "2026-10-28",
+  "price_amount": 430,
+  "price_currency": "EUR",
+  "price_raw": "430 EUR",
+  "area_m2": 58,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "20 Miljana Vukova, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Čarapić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "9. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "FOR RENT – ONE-BEDROOM APARTMENT IN THE HEART OF PODGORICA📍 City center • 9th floor (not top) • High-rise with elevator🌆 Panoramic view of Podgorica🛋️ 58 m² • Renovated • Fully furnished &amp; equippedWHAT YOU GET:...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!640",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267521325",
+      "name": "Aleksandar Čarapić",
+      "email": null,
+      "source": "workbook:Outreach list!640"
+    },
+    {
+      "phone_e164": "+38267521325",
+      "name": "Aleksandar Čarapić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267521325"
+  ],
+  "phone_e164": "+38267521325",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

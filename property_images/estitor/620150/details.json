@@ -1,0 +1,146 @@
+{
+  "source": "estitor",
+  "listing_id": "620150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-620150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-620150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 180,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620150",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2001",
+    "Opremljen": "Ne",
+    "Orijentacija": "Zapad",
+    "Parking": "Nema parkinga"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ba70dffc-db89-4e6f-b804-0336004a3e36-lg.webp",
+    "https://content.estitor.com/38a1fab3-5e9f-413f-9c75-17ac51a2b7c3-lg.webp",
+    "https://content.estitor.com/4f00df12-0366-42cd-836c-606ddf1cc233-lg.webp",
+    "https://content.estitor.com/cff74533-027f-4afa-8572-ba1e07537eca-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem poslovni prostor 12 m2, u Herceg Novom.\nPogodan za brzu hranu, suvenirnicu, prodaju peciva, kladionicu, agenciju, prodaju sladoleda, renta car ……",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:07.565094+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.361680+00:00",
+  "source_html_sha256": "aeed2c1f21cf464bc71d8a3f2b206b0ad828e0a6d224097ad758a60e36809799",
+  "title": "Izdavanje, poslovni prostor, 12m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-20",
+  "updated_date": "2026-09-21",
+  "price_amount": 665,
+  "price_currency": "EUR",
+  "price_raw": "665 EUR",
+  "area_m2": 12,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "6a Šetalište Pet Danica, Herceg - Novi 85340, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Miloš Rajković",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Zapad",
+  "balconies": 0,
+  "year_built": 2001,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdajem poslovni prostor 12 m2, u Herceg Novom.Pogodan za brzu hranu, suvenirnicu, prodaju peciva, kladionicu, agenciju, prodaju sladoleda, renta car ……",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!180",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269630877",
+      "name": "Miloš Rajković",
+      "email": null,
+      "source": "workbook:Not homes!180"
+    },
+    {
+      "phone_e164": "+38269630877",
+      "name": "Miloš Rajković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269630877"
+  ],
+  "phone_e164": "+38269630877",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

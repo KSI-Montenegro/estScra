@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "72735",
+  "listing_url": "https://patuljak.me/oglas/izdajem-smjestaj-za-15-radnika--72735",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-smjestaj-za-15-radnika--72735"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 981,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72735",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!981:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Spuž",
+    "Broj soba": "4",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Stambena kvadratura": "70 m2",
+    "Kvadratura placa": "200 m2",
+    "Renoviran": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Klima": true,
+    "Kablovska TV": true,
+    "Internet": true,
+    "Ostava": true,
+    "Protočni bojler": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Smjestaj za radnike ili porodicu 067-233-599",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:33.167410+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.470964+00:00",
+  "source_html_sha256": "eefafe1e9e197fa29e4e1b4e77881c1ccd257a4b38de7773c5754d7551e32f90",
+  "title": "Izdajem smjestaj za 15 radnika",
+  "description_language": "en",
+  "price_raw": "700.00€",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "advertiser_name": "Nikola",
+  "property_type": "house",
+  "city": "Danilovgrad",
+  "district": "Spuž",
+  "building_floors_raw": "1",
+  "room_layout_raw": "4",
+  "area_m2": 70,
+  "amenities": [
+    "Namještena",
+    "Renoviran",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Klima",
+    "Kablovska TV",
+    "Internet",
+    "Ostava",
+    "Protočni bojler"
+  ],
+  "metadata_summary": "Smjestaj za radnike ili porodicu 067-233-599",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!981",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267233599",
+      "name": "Nikola",
+      "email": null,
+      "source": "workbook:Outreach list!981"
+    }
+  ],
+  "contact_phones": [
+    "+38267233599"
+  ],
+  "phone_e164": "+38267233599",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

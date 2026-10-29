@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "622158",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622158",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622158"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 178,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_622158",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Podrum",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/60330e62-bbd8-4898-9305-30bc38629337-lg.webp",
+    "https://content.estitor.com/5daa56fb-17bb-4a5e-88fe-373c8b0ba1b0-lg.webp",
+    "https://content.estitor.com/ad054909-b438-4803-a4f9-86f4c423d2cf-lg.webp",
+    "https://content.estitor.com/d48fe654-8694-42fa-9827-04ad279c59cb-lg.webp",
+    "https://content.estitor.com/b40bdcfa-9da0-416f-a176-18d4d1cc4a13-lg.webp",
+    "https://content.estitor.com/ade58df8-3a5e-4a89-8a3b-2e457c66dd23-lg.webp",
+    "https://content.estitor.com/d3ff7a84-dd31-43ce-8374-7f4442002f36-lg.webp",
+    "https://content.estitor.com/c966ec20-c42e-4596-8206-2dcce4895b1b-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "U sklopu NEST coworking prostora, u neposrednoj blizini Big Fashion centra, dostupne su tri privatne kancelarije za zakup.\nKancelarije su pogodne za manje timove, preduzetnike i kompanije kojima je potreban zaseban poslovni prostor, uz parking, recepciju i sve dodatne sadržaje NEST-a.\nDostupne kancelarije:\n• 11,2 m²\n• 6,5 m²\n• 7,2 m²\nCijena zakupa uključuje sve mjesečne troškove, tako da nema dodatnih računa za struju, vodu, internet i ostale redovne troškove korišćenja prostora.\nUz kancelariju, zakupcima su na raspolaganju:\n• besplatan privatni parking\n• recepcija svakog dana od 08:00 do 21:00\n• lobi za prijem klijenata i poslovnih partnera\n• 3 privatne zoom sobe\n• štampač i skener\n• opremljena zajednička kuhinja\n• besplatna kafa i čaj\n• Wi-Fi\nSvaka kancelarija može biti označena nazivom ili logotipom firme na vratima, tako da prostor može jasno funkcionisati kao adresa i kancelarija vašeg tima.\nZakup uključuje i dodatne pogodnosti:\n• 5 besplatnih sati sale za sastanke mjesečno\n• 30% popusta na dodatno korišćenje sale za sastanke\n• 20% popusta na korišćenje konferencijske sale\nLokacija je u blizini Big Fashion centra, sa jednostavnim pristupom i obezbijeđenim parkingom.\nZa više informacija, dostupnost pojedinačnih kancelarija i zakazivanje obilaska:",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:06.631080+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.348100+00:00",
+  "source_html_sha256": "be1620510f4fb7218ae5d09d587d100ee56ec87fe97275df2d933d3ae771a9eb",
+  "title": "Izdavanje, poslovni prostor, 11m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-23",
+  "updated_date": "2026-09-23",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 11,
+  "city": "Podgorica",
+  "street_address": "bb Cetinjski Put, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nest Coworking",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Podrum",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Kuhinja"
+  ],
+  "metadata_summary": "U sklopu NEST coworking prostora, u neposrednoj blizini Big Fashion centra, dostupne su tri privatne kancelarije za zakup.Kancelarije su pogodne za manje timove, preduzetnike i kompanije kojima je potreban zaseban pos...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!178",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267166777",
+      "name": "Nest Coworking",
+      "email": null,
+      "source": "workbook:Not homes!178"
+    },
+    {
+      "phone_e164": "+38267166777",
+      "name": "Nest Coworking",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267166777"
+  ],
+  "phone_e164": "+38267166777",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

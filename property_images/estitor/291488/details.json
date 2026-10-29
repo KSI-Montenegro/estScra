@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "291488",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-291488",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-291488"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 574,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_291488",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a2525aef-01f6-4033-9436-6a67ca6ec886-lg.webp",
+    "https://content.estitor.com/eb976b09-ffef-431f-bd60-4e97a0483f68-lg.webp",
+    "https://content.estitor.com/50554de4-91fc-4afd-b46c-a6b12fa46d94-lg.webp",
+    "https://content.estitor.com/3fc3cf71-f3e3-44e3-a6e3-3d2b6a7e71d9-lg.webp",
+    "https://content.estitor.com/5999d6a8-7d4c-4719-8cab-1839b82b81e5-lg.webp",
+    "https://content.estitor.com/ff01ef5c-b030-42ff-99dd-26230953f3b8-lg.webp",
+    "https://content.estitor.com/d907e848-dda5-4022-9386-bcbb18d27c64-lg.webp",
+    "https://content.estitor.com/84953e22-a1ee-4e91-bb0f-0826cfa84f7b-lg.webp",
+    "https://content.estitor.com/3fb6555b-490e-41aa-a07f-373ae43bc90a-lg.webp",
+    "https://content.estitor.com/6059be92-4ee8-4ba8-ac39-f61774d04d3d-lg.webp",
+    "https://content.estitor.com/77448931-00c9-4f93-ab9e-b65b59fb905b-lg.webp",
+    "https://content.estitor.com/891522ca-40fb-47f8-9452-f277f3f136b9-lg.webp",
+    "https://content.estitor.com/8fe6be91-67b4-4778-935d-7228f9799b0f-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Vrlo komforna garsonjera, oko 35 m2, u zgradi, privatni parking. Garsonjera se izdaje na duzi period.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:30.429283+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.232450+00:00",
+  "source_html_sha256": "980876f789f82996442bd6a142dc77768c284baa14370ae56e4010d7124374d3",
+  "title": "Izdavanje, garsonjera, 35m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2024-09-26",
+  "updated_date": "2026-10-23",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 35,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": ". .",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Vrlo komforna garsonjera, oko 35 m2, u zgradi, privatni parking. Garsonjera se izdaje na duzi period.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!574",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267520540",
+      "name": ". .",
+      "email": null,
+      "source": "workbook:Outreach list!574"
+    },
+    {
+      "phone_e164": "+38267520540",
+      "name": ". .",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267520540"
+  ],
+  "phone_e164": "+38267520540",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

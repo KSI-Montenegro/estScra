@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "564446",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564446",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564446"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 610,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_564446",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a53bdb76-69bf-4806-9972-c2b2d0149813-lg.webp",
+    "https://content.estitor.com/243ab65f-91de-4dda-bdc7-eebfe02d9c51-lg.webp",
+    "https://content.estitor.com/9e94ea50-11d8-4fe8-88f6-f1143c8ae1fa-lg.webp",
+    "https://content.estitor.com/45a051f1-622b-48b4-9be6-d9e9d70d945f-lg.webp",
+    "https://content.estitor.com/c4afb765-7c08-422e-9c6f-56aca6412750-lg.webp",
+    "https://content.estitor.com/4180bf1c-9f98-4100-9480-76fd23846838-lg.webp",
+    "https://content.estitor.com/b331c2e0-b696-41e1-9f48-fdbaa340c314-lg.webp",
+    "https://content.estitor.com/d0d7b517-1ddf-467e-8ed5-8efda8ce2a3a-lg.webp",
+    "https://content.estitor.com/d108a736-ab30-498d-8101-5bb4ed5c4462-lg.webp",
+    "https://content.estitor.com/4677cdcc-05d5-4f2b-943b-80b363e25145-lg.webp",
+    "https://content.estitor.com/b205d08c-a7fb-45c3-bf54-42d5b5a31287-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duži period jednosoban stan u Podgorici. Ova atraktivna lokacija pruža brzi pristup svim gradskim sadržajima i esencijalnim servisima. Ovaj kompletno opremljen stan, površine 40.0 m², nalazi se na drugom spratu. Dio je veće kuće koja obuhvata više zasebnih stambenih jedinica, a svaka od njih posjeduje sopstveni ulaz, garantujući privatnost i mir. Stan se sastoji od jedne spavaće sobe i jednog kupatila, nudeći funkcionalan i udoban prostor za źivot. Dostupan je za dugoročno izdavanje. Prilikom useljenja plaćaju se prva kirija, depozit u visini kirije i posljednja kirija. Ne propustite ovu sjajnu priliku za udoban dom u Podgorici!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:47.810913+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.409153+00:00",
+  "source_html_sha256": "23be60c86ec2e7a5bc44600e7df602c7b06c1f30ac9e58e015646a1fcd51fc6b",
+  "title": "Izdavanje, jednosoban stan, 40m², Dalmatinska ulica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-01",
+  "updated_date": "2026-10-13",
+  "price_amount": 380,
+  "price_currency": "EUR",
+  "price_raw": "380 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Sara Mirkovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Izdaje se na duži period jednosoban stan u Podgorici. Ova atraktivna lokacija pruža brzi pristup svim gradskim sadržajima i esencijalnim servisima. Ovaj kompletno opremljen stan, površine 40.0 m², nalazi se na drugom ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!610",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267007717",
+      "name": "Sara Mirkovic",
+      "email": null,
+      "source": "workbook:Outreach list!610"
+    },
+    {
+      "phone_e164": "+38267007717",
+      "name": "Sara Mirkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267007717"
+  ],
+  "phone_e164": "+38267007717",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

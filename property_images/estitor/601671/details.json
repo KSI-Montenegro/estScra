@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "601671",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601671",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601671"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 10,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_601671",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/789956c1-5187-46cb-adf5-13484a6ab5e6-lg.webp",
+    "https://content.estitor.com/14203b68-8bf3-4bd7-9696-60d7e2d7da47-lg.webp",
+    "https://content.estitor.com/b9928ec7-6822-482b-a9e2-191f3200de13-lg.webp",
+    "https://content.estitor.com/c9504c0b-5066-4fb6-ae7e-fbd8e0edfeee-lg.webp",
+    "https://content.estitor.com/ee159955-fe77-4fbc-aeeb-6cfd7692a208-lg.webp",
+    "https://content.estitor.com/51095cdd-5167-4e7c-b23f-00e2ec6e378b-lg.webp",
+    "https://content.estitor.com/32771908-b7d5-4137-a6d9-19a10100a1c1-lg.webp",
+    "https://content.estitor.com/594ef92c-c21e-4ba2-839c-e8b577fac8e7-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Luksuzno opremljen trosoban stan za izdavanje\nU ponudi je izuzetno lijepo uređen i luksuzno opremljen trosoban stan, smješten na trećem spratu, idealan za sve koji žele spoj komfora, privatnosti i kvalitetnog načina života.\nStan odiše modernim dizajnom i funkcionalnim rasporedom, a pažljivo birani detalji i vrhunski namještaj pružaju osjećaj topline i elegancije.\nU cijenu je uključeno i obezbijeđeno parking mjesto, dok mirna lokacija omogućava ugodan boravak, uz odličnu povezanost sa svim važnim gradskim sadržajima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:44.681211+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.685710+00:00",
+  "source_html_sha256": "2e0fcf2e44efcb1eb9e7dbdef59d53765c2f140f65ccfe657f83417685c9369d",
+  "title": "Izdavanje, trosoban stan, 125m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-26",
+  "updated_date": "2026-08-26",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 125,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Nikolina Rd",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Luksuzno opremljen trosoban stan za izdavanjeU ponudi je izuzetno lijepo uređen i luksuzno opremljen trosoban stan, smješten na trećem spratu, idealan za sve koji žele spoj komfora, privatnosti i kvalitetnog načina ži...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!10",
+      "agent_reasons": "6 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267943000",
+      "name": "Nikolina Rd",
+      "email": null,
+      "source": "workbook:Likely agents!10"
+    },
+    {
+      "phone_e164": "+38267943000",
+      "name": "Nikolina Rd",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267943000"
+  ],
+  "phone_e164": "+38267943000",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

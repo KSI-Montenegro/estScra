@@ -1,0 +1,134 @@
+{
+  "source": "patuljak",
+  "listing_id": "78348",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-u-sklopu-kuce--78348",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-u-sklopu-kuce--78348"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 479,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78348",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Konik",
+    "Broj soba": "1",
+    "Stambena kvadratura": "35 m2",
+    "Broj spratova": "1",
+    "Namještena": "Polunamješten",
+    "Kvadratura placa": "300 m2",
+    "Vrsta grijanja": "Drva",
+    "Kanalizacija": "Standardna",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78348_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78348_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78348_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78348_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Jednosoban polunamješten stan na prizemlju kuće. Struktura stana je hodnik, kupatilo, spavaća i dnevna soba sa kuhinjom. Stan se izdaje polunamješten, kao na slikama. Cijena je po dogovoru.\n\nZa sve informacije pozvati broj 069459617",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:42.690450+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.693111+00:00",
+  "source_html_sha256": "0ebcd57cf0cde8d47fc36515f58afbfbc3d5e7482558b47e5bf98f73145cdbde",
+  "title": "Jednosoban stan u sklopu kuće",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "A.",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Konik",
+  "building_floors_raw": "1",
+  "room_layout_raw": "1",
+  "heating_raw": "Drva",
+  "area_m2": 35,
+  "amenities": [],
+  "metadata_summary": "Jednosoban polunamješten stan na prizemlju kuće. Struktura stana je hodnik, kupatilo, spavaća i dnevna soba sa kuhinjom. Stan se izdaje polunamješten, kao na slikama. Cijena je po dogovoru.Za sve informacije pozvati broj 069459617",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!479",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268142038",
+      "name": "A.",
+      "email": null,
+      "source": "workbook:Outreach list!479"
+    }
+  ],
+  "contact_phones": [
+    "+38268142038"
+  ],
+  "phone_e164": "+38268142038",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

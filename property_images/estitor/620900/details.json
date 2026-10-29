@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "620900",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-620900",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-620900"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 163,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620900",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Djelimično",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Magacinski"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0113c7a5-6fd2-4465-9ad6-98f49b13fb39-lg.webp",
+    "https://content.estitor.com/cbca5eb7-0cc7-4b5e-bf42-86ca95679b50-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Predstavljamo izuzetnu priliku za zakup poslovnog prostora u Dahni, Podgorica – prostrane hale-magacina ukupne površine 750.0 m² novoizgrađenog objekta.\nOva nekretnina se nalazi na izvanrednoj lokaciji, udaljena samo 1.5 kilometar od TC Delta City, pozicionirana između Bulevara Vojislavljevića i Luča mosta, u neposrednoj blizini škole u Dahni. Ova pozicija garantuje odličnu povezanost sa ključnim saobraćajnicama i lak pristup iz svih djelova grada.\nObjekat je trenutno u izgradnji, a završetak radova se očekuje do 1. novembra. Nudimo jedinstvenu mogućnost da se finalni radovi i uređenje enterijera izvrše prema specifičnim željama i potrebama budućeg zakupca, što omogućava potpunu prilagodbu vašem poslovanju. Planirano je da prostor obuhvata 650 m² magacinskog prostora i dodatnih 100-150 m² kancelarijskog prostora.\nFunkcionalnost i pristup su ključni aspekti ovog objekta. Sa prednje strane su planirana dvoja rolo teretna magacinska vrata, zajedno sa jednim velikim salonskim staklenim vratima. Dodatno, bočno su predviđena velika rolo teretna vrata, što značajno olakšava prijem i otpremu robe. Prostor se može fleksibilno podijeliti po dužini i širini, nudeći mogućnost istovremenog korištenja kao izložbenog i magacinskog prostora. Parking je obezbijeđen ispred objekta.\nNekretnina se izdaje (po dogovoru) isključivo na duži vremenski period. Iskoristite priliku da osigurate modernu, funkcionalnu novogradnju na vrhunskoj lokaciji za dugoročni uspjeh vašeg biznisa. Cijena po dogovoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:58.598798+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.255001+00:00",
+  "source_html_sha256": "6554005da23208dd8d984219ba56afe07897166f1439cb7b583177fa8d0a191d",
+  "title": "Izdavanje, poslovni prostor, 750m², Dahna, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-10-05",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 750,
+  "city": "Podgorica",
+  "street_address": "86 Desanke Maksimović, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Aco Art",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Predstavljamo izuzetnu priliku za zakup poslovnog prostora u Dahni, Podgorica – prostrane hale-magacina ukupne površine 750.0 m² novoizgrađenog objekta.Ova nekretnina se nalazi na izvanrednoj lokaciji, udaljena samo 1...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!163",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268695950",
+      "name": "Aco Art",
+      "email": null,
+      "source": "workbook:Not homes!163"
+    },
+    {
+      "phone_e164": "+38268695950",
+      "name": "Aco Art",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268695950"
+  ],
+  "phone_e164": "+38268695950",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

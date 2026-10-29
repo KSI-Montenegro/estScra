@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "618438",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618438",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618438"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 871,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_618438",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2011",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/201d891a-98a7-4358-9771-0b7ed85f2180-lg.webp",
+    "https://content.estitor.com/01d1633f-cca7-459d-8e9c-a078a732abcb-lg.webp",
+    "https://content.estitor.com/e381a6a3-9296-45c1-a7a8-f71762a81695-lg.webp",
+    "https://content.estitor.com/27316541-83de-4aec-a14e-7927fc121696-lg.webp",
+    "https://content.estitor.com/bc633efa-d04b-4ad5-8076-bcdb1744b16d-lg.webp",
+    "https://content.estitor.com/7f5ce6ec-2502-470b-a47d-d1979cd4d919-lg.webp",
+    "https://content.estitor.com/03caf665-f07e-4f38-b168-8c4c81d3b641-lg.webp",
+    "https://content.estitor.com/ce034521-7510-49a5-b9b0-7d81c7e32a72-lg.webp",
+    "https://content.estitor.com/95401bf4-d2e8-4175-8313-c65785420cce-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i komforan jednosoban stan površine 37.0 m² u srcu Podgorice, na atraktivnoj lokaciji kod Big Fashion-a.\nOvaj funkcionalno opremljen stan nalazi se na trećem spratu i pruža sve pogodnosti za udoban život. Sastoji se od jedne spavaće sobe, dnevnog boravka, potpuno opremljene kuhinje, kupatila, ulaznog hodnika i terase.\nStan je klimatizovan i nudi kompletan paket pogodnosti, uključujući Kablovsku televiziju, Internet, Lift i Interfon. Dostupan je i javni parking u neposrednoj blizini zgrade, što dodatno olakšava svakodnevni život.\nIdealna lokacija u blizini tržnih centara, prodavnica, restorana i svih važnijih gradskih sadržaja čini ovaj stan savršenim izborom za pojedince ili parove koji traže kvalitetan smještaj u Podgorici.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:24.416266+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.513068+00:00",
+  "source_html_sha256": "6c0eb0d3f55ff1584607fa2b46c758f82c1a0bb2fc55388bef703d7fc0583820",
+  "title": "Izdavanje, jednosoban stan, 37m², Kod Big Fashion-a, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-17",
+  "updated_date": "2026-09-24",
+  "price_amount": 420,
+  "price_currency": "EUR",
+  "price_raw": "420 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ivo Marojević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2011,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se moderan i komforan jednosoban stan površine 37.0 m² u srcu Podgorice, na atraktivnoj lokaciji kod Big Fashion-a.Ovaj funkcionalno opremljen stan nalazi se na trećem spratu i pruža sve pogodnosti za udoban ži...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!871",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269487339",
+      "name": "Ivo Marojević",
+      "email": null,
+      "source": "workbook:Outreach list!871"
+    },
+    {
+      "phone_e164": "+38269487339",
+      "name": "Ivo Marojević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269487339"
+  ],
+  "phone_e164": "+38269487339",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "75227",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-garsonjere-24m2-zabjelo--75227",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-garsonjere-24m2-zabjelo--75227"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 185,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75227",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!185:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Kvadratura": "24 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeverozapad",
+    "Parking mjesto": "3 i više",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75227_5.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem garsonjeru u Ul.8.marta(par minuta od pjesackog mosta prema Delta City),Zabjelo. Garsonjera je 24 m2 u novogradnji do sad neuseljavana, nov namjestaj i bijela tehnika. Na prvom je spratu ove dvospratne zgrade,ima terasu i obezbjedjeno parking mjesto.Cijena je 300e i racuni ,kirija i depozit obavezni,na duzi vremenski period.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:14.283542+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.941055+00:00",
+  "source_html_sha256": "0e033e08478ba89b9cd066834d8aa96b27ee2cb572043300701c467b01924dc9",
+  "title": "Izdavanje garsonjere, 24m2, Zabjelo",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "Srdjan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 24,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem garsonjeru u Ul.8.marta(par minuta od pjesackog mosta prema Delta City),Zabjelo. Garsonjera je 24 m2 u novogradnji do sad neuseljavana, nov namjestaj i bijela tehnika. Na prvom je spratu ove dvospratne zgrade,ima terasu i obezbjedjeno parking mjesto.Cijena je 300e i racuni ,kirija i depozit obavezni,na duzi vremenski period.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!185",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267635787",
+      "name": "Srdjan",
+      "email": null,
+      "source": "workbook:Outreach list!185"
+    }
+  ],
+  "contact_phones": [
+    "+38267635787"
+  ],
+  "phone_e164": "+38267635787",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

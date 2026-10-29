@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "593647",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-593647",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-593647"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 67,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_593647",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1717382c-f214-4f83-a19e-41babd073eb9-lg.webp",
+    "https://content.estitor.com/077a9e94-a0c7-47b4-9b74-d6095a1d459a-lg.webp",
+    "https://content.estitor.com/b51391d5-49ff-4062-8d7e-110edfedd613-lg.webp",
+    "https://content.estitor.com/ecaaf5c9-e702-470d-b600-e021950e8f9a-lg.webp",
+    "https://content.estitor.com/3917f402-0283-4515-8ca0-1b03b562b9dc-lg.webp",
+    "https://content.estitor.com/3695b191-8d81-4a62-b1ac-5c8e17ebe0df-lg.webp",
+    "https://content.estitor.com/b5808f12-ed9c-452d-a987-59d8319ce16e-lg.webp",
+    "https://content.estitor.com/7f27d098-0589-4465-a0aa-72764e66e741-lg.webp",
+    "https://content.estitor.com/6159adcc-0c78-4c38-a03d-bad7ac47fac7-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem kancelarijski prostor oko 30m2 polunamješten - dvije kancelarije, kupatilo i terasa (zajednička kuhinja sa računovodstvenom agencijom). Blizu restorana Protokol. Sa uključenim režijama i internetom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:06.648634+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.569166+00:00",
+  "source_html_sha256": "45cb6fbe9965c2bb943317d732d7107ec6014bfb1cbc074f5010895b9d38af28",
+  "title": "Izdavanje, poslovni prostor, 30m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-14",
+  "updated_date": "2026-09-22",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 30,
+  "rooms": 2,
+  "city": "Podgorica",
+  "street_address": "Piperska 370, 370 Piperska, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milena Petroski",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdajem kancelarijski prostor oko 30m2 polunamješten - dvije kancelarije, kupatilo i terasa (zajednička kuhinja sa računovodstvenom agencijom). Blizu restorana Protokol. Sa uključenim režijama i internetom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!67",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267671717",
+      "name": "Milena Petroski",
+      "email": null,
+      "source": "workbook:Not homes!67"
+    },
+    {
+      "phone_e164": "+38267671717",
+      "name": "Milena Petroski",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267671717"
+  ],
+  "phone_e164": "+38267671717",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

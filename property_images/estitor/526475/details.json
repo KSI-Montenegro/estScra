@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "526475",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-526475",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-526475"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 171,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_526475",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "3",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9ad21d82-32e3-4fea-8a98-177f6d42f9ce-lg.webp",
+    "https://content.estitor.com/9db6ec83-97d6-45db-a6a2-31b67e607fe5-lg.webp",
+    "https://content.estitor.com/de7eb14f-1349-4436-ad6b-b455a5e240bc-lg.webp",
+    "https://content.estitor.com/f9613baf-ae92-470e-822e-08086e84c52d-lg.webp",
+    "https://content.estitor.com/0620757c-ab59-4056-bb91-ef149224df60-lg.webp",
+    "https://content.estitor.com/a5447c90-d83b-4c2a-8f76-2e60b55281c6-lg.webp",
+    "https://content.estitor.com/5f727e62-79d6-4d54-8148-64b2fa38ec27-lg.webp",
+    "https://content.estitor.com/f6395fc8-bfd8-4b74-a2ca-fffeb20d16b6-lg.webp",
+    "https://content.estitor.com/86a5cb0e-15e4-4e4f-897d-98bc6f4b4689-lg.webp",
+    "https://content.estitor.com/99141d29-cefb-4d20-a7d4-17dc4ecd75b1-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "U samom srcu grada, u najtraženijoj pješačkoj zoni, izdaje se poslovni prostor ukupne površine 140 m², raspoređen na dva sprata. Lokacija garantuje maksimalnu vidljivost, frekventnost i pristupačnost.\n\nProstor se sastoji od dvije odvojene cjeline – jedna se nalazi na prvom spratu, dok je druga smještena na drugom spratu. Između njih se nalazi uređen ulazni hodnik sa stepenicama koji povezuje nivoe, pa se iz hodnika može direktno ući u poslovni prostor na prvom spratu ili se, nastavljajući uz stepenište, pristupa drugom spratu. Cjelokupna koncepcija omogućava komforno i praktično korišćenje, bilo da želite funkcionalnu kancelarijsku cjelinu na dva nivoa ili dva potpuno odvojena poslovna dijela.\n\nU potpunosti je opremljen za kancelarijsko poslovanje – klimatizacija, osvjetljenje i raspored prostorija su usklađeni sa potrebama poslovnih korisnika.\nZahvaljujući izuzetnoj lokaciji i uređenosti, ovaj prostor predstavlja izvanrednu priliku za kompanije, agencije, IT firme, advokatske kancelarije, knjigovodstvene servise i sve druge djelatnosti kojima je bitno da budu prepoznatljivi i lako dostupni klijentima.\n\nPoslovni prostor se izdaje u kompletu, ali postoji i mogućnost zasebnog izdavanja prostora/spratova, u zavisnosti od potreba zakupca.\n\nZa više informacija, kao i za dogovor oko obilaska prostora pozvati na broj\n\n069/331-777",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:02.397336+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.302833+00:00",
+  "source_html_sha256": "8287a193569469d83377eaa55a3888c6a48c856fdf9b4d458d62b93b7a5c2ea7",
+  "title": "Izdavanje, poslovni prostor, 140m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-24",
+  "updated_date": "2026-09-30",
+  "price_amount": 2000,
+  "price_currency": "EUR",
+  "price_raw": "2000 EUR",
+  "area_m2": 140,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Nn Nn",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 3,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "U samom srcu grada, u najtraženijoj pješačkoj zoni, izdaje se poslovni prostor ukupne površine 140 m², raspoređen na dva sprata. Lokacija garantuje maksimalnu vidljivost, frekventnost i pristupačnost.Prostor se sastoj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!171",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269331777",
+      "name": "Nn Nn",
+      "email": null,
+      "source": "workbook:Not homes!171"
+    },
+    {
+      "phone_e164": "+38269331777",
+      "name": "Nn Nn",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269331777"
+  ],
+  "phone_e164": "+38269331777",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

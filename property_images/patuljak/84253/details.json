@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "84253",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-kuca-u-sutomoru--84253",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-kuca-u-sutomoru--84253"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 88,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84253",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!88:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Sutomore",
+    "Broj soba": "1",
+    "Stambena kvadratura": "57 m2",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Kvadratura placa": "175 m2",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_8.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Sutomore\nLegalna kuca.Prodaje se vertikala.\n57m2 kuća+18m2 garaza + 18m2 letnja kuhinja i kupatilo. Plac 170m2.\nCena: 58.000 €\nSve ostale informacije na kontakt:\n+381677045479 viber\n+38267030719 telefon\nStruja,gradska voda,rezervoar za vodu.\nOdvojene parcele sa susedom. Nema nista u suvlasnistvu.\nAsfalt pored kuce.\n1,2 km. Iznad magistrale,1,5 km do gradske plaze. Pogled na more.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:19.879852+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.335877+00:00",
+  "source_html_sha256": "f8a1760a98aeb09ce7cbb6aba5884bcc0bd23e0e6eb5e0cce7239c4d0516ea18",
+  "title": "Na prodaju kuca u Sutomoru",
+  "description_language": "en",
+  "price_raw": "58000.00€",
+  "price_amount": 58000,
+  "price_currency": "EUR",
+  "advertiser_name": "Sandra",
+  "property_type": "house",
+  "city": "Bar",
+  "district": "Sutomore",
+  "building_floors_raw": "1",
+  "room_layout_raw": "1",
+  "parking_raw": "1",
+  "area_m2": 57,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "SutomoreLegalna kuca.Prodaje se vertikala.57m2 kuća+18m2 garaza + 18m2 letnja kuhinja i kupatilo. Plac 170m2.Cena: 58.000 €Sve ostale informacije na kontakt:+381677045479 viber+38267030719 telefonStruja,gradska voda,rezervoar za vodu.Odvojene parcele sa susedom. Nema nista u suvlasnistvu.Asfalt pored kuce.1,2 km. Iznad magistrale,1,5 km do gradske plaze. Pogled na more.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!88",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267435532",
+      "name": "Sandra",
+      "email": null,
+      "source": "workbook:Outreach list!88"
+    }
+  ],
+  "contact_phones": [
+    "+38267435532"
+  ],
+  "phone_e164": "+38267435532",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

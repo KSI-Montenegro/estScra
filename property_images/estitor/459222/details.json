@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "459222",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-459222",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-459222"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 380,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_459222",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9b7c9f64-6716-498a-8e7a-2a7c3cedd9ba-lg.webp",
+    "https://content.estitor.com/10b9a758-766b-4e6c-bd73-28c3021e4224-lg.webp",
+    "https://content.estitor.com/ffdf82fd-36bb-4f23-b99c-ddadbcacab3a-lg.webp",
+    "https://content.estitor.com/e2f53afb-45bd-4d00-ac35-47a11e52467f-lg.webp",
+    "https://content.estitor.com/376f3c0f-f39a-4166-9dee-37b5f11e0ffb-lg.webp",
+    "https://content.estitor.com/21325cad-6bdc-4371-989f-f214132763e0-lg.webp",
+    "https://content.estitor.com/dbc6be31-3212-4730-877c-f724db0f8ad8-lg.webp",
+    "https://content.estitor.com/81b08a20-1fb8-4476-9298-32fd4e977b82-lg.webp",
+    "https://content.estitor.com/05580562-9598-4cb8-9f0c-adf66c9ac83c-lg.webp",
+    "https://content.estitor.com/bcd605fe-cd8b-4cc7-becf-a01eeab42fd9-lg.webp",
+    "https://content.estitor.com/78a89cf7-67f4-47c6-baaa-af3ca361776e-lg.webp",
+    "https://content.estitor.com/077d3aef-3fdb-46d2-97ce-da405108dc41-lg.webp",
+    "https://content.estitor.com/aa0b7131-9657-43fd-a58e-b21de7332700-lg.webp",
+    "https://content.estitor.com/a21e6575-e914-49b4-89d1-fb44be69f916-lg.webp",
+    "https://content.estitor.com/2c13a0c4-ebdd-4b6e-9cd4-a6c453754215-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se u strogom centru Budve dvosoban stan, kog TQ Plaza, sa mogucim sopstvenim parking mestom, od 01.10.2026. do 01.06.2027.god., u novoj zgradi sa liftom, na prvom spratu, juzno okrenut. Sastoji se iz dnevne sobe sa kuhinjom i trpezarijom, dve spavace sobe, kupatila i vece terase. Kompletno je opremljen: Wi-Fi, kablovska TV, klima, grejanje, ves masina, usisivac, pegla, posudje...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:51.867476+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.145726+00:00",
+  "source_html_sha256": "d34238ec2b8d6450ea82dffe8dd22be30594675289b1236ea7a868bcf0082720",
+  "title": "Izdavanje, dvosoban stan, 55m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-18",
+  "updated_date": "2026-09-14",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 55,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "3 22. Novembra, Budva 85310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Branislava Vujovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se u strogom centru Budve dvosoban stan, kog TQ Plaza, sa mogucim sopstvenim parking mestom, od 01.10.2026. do 01.06.2027.god., u novoj zgradi sa liftom, na prvom spratu, juzno okrenut. Sastoji se iz dnevne sob...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!380",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381638621952",
+      "name": "Branislava Vujovic",
+      "email": null,
+      "source": "workbook:Outreach list!380"
+    },
+    {
+      "phone_e164": "+381638621952",
+      "name": "Branislava Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381638621952"
+  ],
+  "phone_e164": "+381638621952",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

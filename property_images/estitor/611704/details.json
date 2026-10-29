@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "611704",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-611704",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-611704"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 391,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611704",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2006",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3f92ab9e-2e4a-42ff-8c61-ad1dbba6122b-lg.webp",
+    "https://content.estitor.com/099b684c-1a38-4acc-80b8-076ba59e60c2-lg.webp",
+    "https://content.estitor.com/5bdf67c9-9722-4639-bead-f634756f4315-lg.webp",
+    "https://content.estitor.com/1ccc9db9-d43d-418b-bbc2-d801c78c5fdf-lg.webp",
+    "https://content.estitor.com/1db13b41-cb9b-4728-86ca-04ec146a588a-lg.webp",
+    "https://content.estitor.com/5792ac21-79fb-429d-916e-376627ee5bd3-lg.webp",
+    "https://content.estitor.com/9c18303a-7e4f-41ca-8744-aac11e6ba263-lg.webp",
+    "https://content.estitor.com/dc9a1725-e0b5-4d86-8c1e-d104a57e694f-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan stan površine 40.0 m² u mirnom i atraktivnom naselju Pinješ, Ulcinj. Pozicioniran na prizemlju (0. sprat), ovaj osunčani stan nudi savršen spoj udobnosti i primorskog ambijenta, uz predivan pogled na more.\n\nSa jednom spavaćom sobom i jednim kupatilom, stan je kompletno opremljen i odmah useljiv, obezbeđujući maksimalnu udobnost od prvog dana. Uživajte u tišini mirnog kraja, idealnog za opuštanje i odmor.\n\nStan raspolaže svim potrebnim sadržajima: klimatizacija za ugodnu temperaturu tokom cele godine, sopstvena kuhinja, kablovska televizija i internet. Posebna pogodnost je dostupnost dvorišta i obezbeđen parking ispred objekta, što dodatno doprinosi komforu življenja u ovom divnom delu Ulcinja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:56.807985+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.207907+00:00",
+  "source_html_sha256": "945cb7025d8510fdd0d1f74f64674afcc3142cb399ca33cc204fc2b3978ca91b",
+  "title": "Izdavanje, jednosoban stan, 40m², Pinješ, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-07",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Ulcinj",
+  "country": "ME",
+  "advertiser_name": "Ermir Malohodzic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2006,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se izuzetan stan površine 40.0 m² u mirnom i atraktivnom naselju Pinješ, Ulcinj. Pozicioniran na prizemlju (0. sprat), ovaj osunčani stan nudi savršen spoj udobnosti i primorskog ambijenta, uz predivan pogled n...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!391",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269370570",
+      "name": "Ermir Malohodzic",
+      "email": null,
+      "source": "workbook:Outreach list!391"
+    },
+    {
+      "phone_e164": "+38269370570",
+      "name": "Ermir Malohodzic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269370570"
+  ],
+  "phone_e164": "+38269370570",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "655392",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-55m2-podgorica-izdavanje--655392",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-55m2-podgorica-izdavanje--655392"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 782,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_655392",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!782:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Drpe Mandića (Autobuska, Gintaš)",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Kratkoročno",
+    "Sprat": "Visoko prizemlje",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjever",
+    "Parking mjesto": "3 i više",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "55 m2",
+    "Kvadratura balkona": "4 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655392_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655392_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655392_1.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban stan u Podgorici, kod Gintaša (Mall of Montenegro). Mogućnost kratkoročnog najma, na minimum tri mjeseca. Izdaje se od 1. oktobra. Mogućnost prijave boravka za strane državljane.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:19.928244+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.538763+00:00",
+  "source_html_sha256": "cc19035c7e8b1121e8da4e363e8bea1b0a3c9a74d2e456bb24da367f937746fa",
+  "title": "Dvosoban stan, 55m2, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "600.00€",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "advertiser_name": "Ljubica",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Drpe Mandića (Autobuska, Gintaš)",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 55,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem dvosoban stan u Podgorici, kod Gintaša (Mall of Montenegro). Mogućnost kratkoročnog najma, na minimum tri mjeseca. Izdaje se od 1. oktobra. Mogućnost prijave boravka za strane državljane.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!782",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268027080",
+      "name": "Ljubica",
+      "email": null,
+      "source": "workbook:Outreach list!782"
+    }
+  ],
+  "contact_phones": [
+    "+38268027080"
+  ],
+  "phone_e164": "+38268027080",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

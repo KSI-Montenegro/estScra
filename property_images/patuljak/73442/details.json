@@ -1,0 +1,161 @@
+{
+  "source": "patuljak",
+  "listing_id": "73442",
+  "listing_url": "https://patuljak.me/oglas/prodaja-dvosobnog-stana-72m2-new-city--73442",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-dvosobnog-stana-72m2-new-city--73442"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 42,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73442",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!42:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "5",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "72 m2",
+    "Kvadratura balkona": "5 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_22.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_23.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73442_3.webp"
+  ],
+  "image_count": 22,
+  "image_status": "ok",
+  "description_original": "???? PRODAJA | Dvosoban stan – New City, Podgorica\n\nNa prodaju dvosoban stan površine 72m² u naselju New City, u novijoj, moderno građenoj zgradi sa liftom i uredno održavanim ulazom.\n\n???? Stan se nalazi u jednom od najtraženijih dijelova grada, u blizini marketa i svih neophodnih sadržaja.\n\nStruktura stana:\n• dnevni boravak sa trpezarijom i kuhinjom (open space)\n• dvije spavaće sobe\n• hodnik\n• ostava\n• kupatilo\n• odvojeni toalet\n• terasa\n\n✨ Stan je kompletno opremljen novim i kvalitetnim namještajem, sa ugradnim elementima rađenim po mjeri – spreman za useljenje bez dodatnih ulaganja.\n\n???? Mogucnost kupovine garaznog mjesta.\n\n???? Idealan kako za porodičan život, tako i kao investicija.\n\n???? Cijena: 224.000€\n\n???? Za više informacija i razgledanje: 067 551 230",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:53.053741+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.026166+00:00",
+  "source_html_sha256": "fff143825238eff3efae94776bb32b3bba1d14e4da61edefb17b71762943ea44",
+  "title": "Prodaja dvosobnog stana, 72m2 , New City",
+  "description_language": "en",
+  "price_raw": "224000.00€",
+  "price_amount": 224000,
+  "price_currency": "EUR",
+  "advertiser_name": "Rade",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "5",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 72,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "???? PRODAJA | Dvosoban stan – New City, PodgoricaNa prodaju dvosoban stan površine 72m² u naselju New City, u novijoj, moderno građenoj zgradi sa liftom i uredno održavanim ulazom.???? Stan se nalazi u jednom od najtraženijih dijelova grada, u blizini marketa i svih neophodnih sadržaja.Struktura stana:• dnevni boravak sa trpezarijom i kuhinjom (open space)• dvije spavaće sobe• hodnik• ostava• kupatilo• odvojeni toalet• terasa✨ Stan je kompletno opremljen novim i kvalitetnim namještajem, sa ugradnim elementima rađenim po mjeri – spreman za useljenje bez dodatnih ulaganja.???? Mogucnost kupovine garaznog mjesta.???? Idealan kako za porodičan život, tako i kao investicija.???? Cijena: 224.000€???? Za više informacija i razgledanje: 067 551 230",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!42",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267551230",
+      "name": "Rade",
+      "email": null,
+      "source": "workbook:Outreach list!42"
+    }
+  ],
+  "contact_phones": [
+    "+38267551230"
+  ],
+  "phone_e164": "+38267551230",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

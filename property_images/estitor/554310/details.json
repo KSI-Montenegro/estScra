@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "554310",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-554310",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-554310"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 195,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_554310",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1990",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Telefon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2599f09d-c34f-48d1-b777-59f3a9bfe750-lg.webp",
+    "https://content.estitor.com/370befc7-0e1c-4bf2-a2e3-4ec1788fd21e-lg.webp",
+    "https://content.estitor.com/bb49d1c9-dcb7-428e-8769-3ebf0035ea6e-lg.webp",
+    "https://content.estitor.com/0cd6e069-ba14-4cd5-bd2a-716009b045d6-lg.webp",
+    "https://content.estitor.com/9f2ee026-3d80-4097-8116-dc6629c19c7d-lg.webp",
+    "https://content.estitor.com/c4d14247-d5eb-44d8-b3d3-f94c13fb8dd9-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Renoviran, Blizu škole, Miran kraj, Uknjiženo, Odmah useljiv\nPoslovni prostor, posjeduje 3 prostorije, pogodan za kancelarijsku djelatnost, udaljen 150m od glavnih gradskih semafora",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:15.710044+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.454483+00:00",
+  "source_html_sha256": "c854a00199218ef286931549687fa0ae2c2dfaf4970b94e676d611e604c27f41",
+  "title": "Izdavanje, poslovni prostor, 45m², Zaobilaznica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-14",
+  "updated_date": "2026-09-02",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 45,
+  "rooms": 3,
+  "city": "Budva",
+  "street_address": "81 Dositejeva, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mihailo Đurovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 1990,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Telefon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "Renoviran, Blizu škole, Miran kraj, Uknjiženo, Odmah useljivPoslovni prostor, posjeduje 3 prostorije, pogodan za kancelarijsku djelatnost, udaljen 150m od glavnih gradskih semafora",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!195",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267240165",
+      "name": "Mihailo Đurovic",
+      "email": null,
+      "source": "workbook:Not homes!195"
+    },
+    {
+      "phone_e164": "+38267240165",
+      "name": "Mihailo Đurovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267240165"
+  ],
+  "phone_e164": "+38267240165",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "84741",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garazu-za-motore--84741",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garazu-za-motore--84741"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 19,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84741",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Kotor",
+    "Naselje": "Škaljari",
+    "Vrsta": "U sklopu stambenog objekta",
+    "Kvadrata": "100",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84741_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:51.740628+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.781939+00:00",
+  "source_html_sha256": "843087c3516a07f98a4eaf37e729aca38015e4038768306ed0dd255c66e938c9",
+  "title": "Izdajem garazu za motore",
+  "description_language": "en",
+  "price_raw": "30.00€",
+  "price_amount": 30,
+  "price_currency": "EUR",
+  "advertiser_name": "Dragan",
+  "property_type": "garage",
+  "city": "Kotor",
+  "district": "Škaljari",
+  "property_type_raw": "U sklopu stambenog objekta",
+  "amenities": [],
+  "metadata_summary": "Izdajem garazu za motore",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!19",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269360110",
+      "name": "Dragan",
+      "email": null,
+      "source": "workbook:Likely agents!19"
+    }
+  ],
+  "contact_phones": [
+    "+38269360110"
+  ],
+  "phone_e164": "+38269360110",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

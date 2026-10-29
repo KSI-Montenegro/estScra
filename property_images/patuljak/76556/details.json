@@ -1,0 +1,129 @@
+{
+  "source": "patuljak",
+  "listing_id": "76556",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-ljajkovici-3700m--76556",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-ljajkovici-3700m--76556"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 76,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76556",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!76:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zeta",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "3700 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76556_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "???? NA PRODAJU – PLAC\n???? Ljajkovići, Zeta\n???? Odlična prilika za investiciju ili izgradnju na mirnoj lokaciji, nadomak Podgorice!\n???? Površina:3.700 m²\n???? Odlična lokacija ✔️ Mirno i prijatno okruženje ✔️ Blizina grada ✔️ Nov asfaltiran pristupni put\n✅ Plac je moguće kupiti i u manjoj kvadraturi, uz napomenu da je u tom slučaju cijena po m² veća.\n???? Cijena za kupovinu kompletnog placa:50 €/m²\n???? Idealan izbor za investiciju ili izgradnju u sve traženijem dijelu Zete.\n???? Dostupne fotografije i tačna lokacija.\n???? Za više informacija ili zakazivanje obilaska: 069 240 610",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:08.783142+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.635359+00:00",
+  "source_html_sha256": "28f2dedb9a3e9657a1aad88377bcb9a7f836954511903bd66b9e23f00e57bb46",
+  "title": "Prodajem plac, Ljajkovići 3700m",
+  "description_language": "en",
+  "price_raw": "50.00€",
+  "price_amount": 50,
+  "price_currency": "EUR",
+  "advertiser_name": "Andrej",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Zeta",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "???? NA PRODAJU – PLAC ???? Ljajkovići, Zeta???? Odlična prilika za investiciju ili izgradnju na mirnoj lokaciji, nadomak Podgorice!???? Površina:3.700 m²???? Odlična lokacija ✔️ Mirno i prijatno okruženje ✔️ Blizina grada ✔️ Nov asfaltiran pristupni put✅ Plac je moguće kupiti i u manjoj kvadraturi, uz napomenu da je u tom slučaju cijena po m² veća.???? Cijena za kupovinu kompletnog placa:50 €/m²???? Idealan izbor za investiciju ili izgradnju u sve traženijem dijelu Zete.???? Dostupne fotografije i tačna lokacija.???? Za više informacija ili zakazivanje obilaska: 069 240 610",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!76",
+      "notes": "check deal: sale at 50 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269240610",
+      "name": "Andrej",
+      "email": null,
+      "source": "workbook:Not homes!76"
+    }
+  ],
+  "contact_phones": [
+    "+38269240610"
+  ],
+  "phone_e164": "+38269240610",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 3700,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

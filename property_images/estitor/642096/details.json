@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "642096",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-642096",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-642096"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 240,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_642096",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Broj etaža": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/67dd0b42-ad72-4d10-9681-d466df37efb1-lg.webp",
+    "https://content.estitor.com/75ea96f1-f33c-447d-8447-47466f0948fc-lg.webp",
+    "https://content.estitor.com/4d3dfc25-e006-4b83-8d3e-04f4d92b9f98-lg.webp",
+    "https://content.estitor.com/a09e6030-a0f6-4fb9-88ed-be0a19db5f58-lg.webp",
+    "https://content.estitor.com/dc781cea-df56-4fc9-a79f-9a95aa865d1f-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se čitav sprat kuće – Lješevići (Donji Grbalj)\nIzdaje se prostran, funkcionalan i kompletno opremljen sprat kuće na odličnoj i mirnoj lokaciji u Donjim Lješevićima (Grbalj), u blizini Radanovića i Bigova.\nOsnovne karakteristike:\nStruktura: Trosoban stan / čitav sprat kuće\nProstorije:\nVeliki i svetao dnevni boravak\nKuhinja sa trpezarijom\n3 spavaće sobe (jedna soba je trenutno prazna – mogućnost ubacivanja ležaja i ormara po dogovoru)\nmoderno kupatilo\nProstran hodnik\n2 velike terase\nParking: Obezbijeđeno više parking mjesta ispred kuće.\nLokacija i pogodnosti:\nMirno okruženje idealno za porodični život ili odmor.\nOdlična povezanost – u blizini Radanovića (marketi, škole, pumpe) i prelijepe uvale Bigova.\nBrz i lak pristup glavnim saobraćajnicama ka Tivat-u, Kotor-u i Budvi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:42.498643+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.288140+00:00",
+  "source_html_sha256": "7239ac568783427b1c17cde8fea43f1d32fce4c8188fa68a1a22abe77122dc55",
+  "title": "Izdavanje, kuća, 120m², Lješevići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-23",
+  "updated_date": "2026-10-23",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 120,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "Ljesevici",
+  "country": "ME",
+  "advertiser_name": "Sandra Koluvija",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se čitav sprat kuće – Lješevići (Donji Grbalj)Izdaje se prostran, funkcionalan i kompletno opremljen sprat kuće na odličnoj i mirnoj lokaciji u Donjim Lješevićima (Grbalj), u blizini Radanovića i Bigova.Osnovne...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!240",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269536138",
+      "name": "Sandra Koluvija",
+      "email": null,
+      "source": "workbook:Outreach list!240"
+    },
+    {
+      "phone_e164": "+38269536138",
+      "name": "Sandra Koluvija",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269536138"
+  ],
+  "phone_e164": "+38269536138",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

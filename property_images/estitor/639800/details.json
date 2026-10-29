@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "639800",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-639800",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-639800"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 791,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639800",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a391687d-ebf7-40c2-aa5b-9278af588fff-lg.webp",
+    "https://content.estitor.com/b9dd5f47-12a1-4fbb-889f-2b0efbcb236e-lg.webp",
+    "https://content.estitor.com/7b2f490a-e50a-4eae-8d08-9c03f87c0ac6-lg.webp",
+    "https://content.estitor.com/c7295351-8600-4d5f-81d4-8300ac05c5bb-lg.webp",
+    "https://content.estitor.com/a5db4279-8e96-47b1-a417-25636e2212ac-lg.webp",
+    "https://content.estitor.com/2ce7b93c-63f9-47a5-97b7-ed52beae47f9-lg.webp",
+    "https://content.estitor.com/12d38b85-22c5-4c2c-929c-8908d383cd35-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:24.472038+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.656216+00:00",
+  "source_html_sha256": "b62521cdcfb964202f3078ce379bb7a9792b6e85379dbcaaea198aa3b4ead53d",
+  "title": "Izdavanje, dvosoban stan, 50m², Kalimanj, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 50,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Ksenija Markovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!791",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268252121",
+      "name": "Ksenija Markovic",
+      "email": null,
+      "source": "workbook:Outreach list!791"
+    },
+    {
+      "phone_e164": "+38268252121",
+      "name": "Ksenija Markovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268252121"
+  ],
+  "phone_e164": "+38268252121",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

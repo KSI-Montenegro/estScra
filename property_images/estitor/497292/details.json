@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "497292",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-497292",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-497292"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 590,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_497292",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "6. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Neopremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/afc223fa-15c8-4192-92b8-2f6b6b76d4ea-lg.webp",
+    "https://content.estitor.com/ab02d62c-1bed-4976-8713-c184042db34d-lg.webp",
+    "https://content.estitor.com/10742a4d-82bc-472b-9faa-53bf3abcc7f1-lg.webp",
+    "https://content.estitor.com/2463289e-9b7c-4fe1-9b4a-935d33383cf3-lg.webp",
+    "https://content.estitor.com/1818202a-bca3-4810-b8fa-070f930ab299-lg.webp",
+    "https://content.estitor.com/af4d286c-d04f-41b8-99b2-fd1dad60ac23-lg.webp",
+    "https://content.estitor.com/f09ece1e-2acb-4c58-995e-384218d83bf7-lg.webp",
+    "https://content.estitor.com/cfcf2e00-b172-453c-8022-93fc900bd10f-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se nenamještena garsonjera površine 28m2, na Tuškom putu u Podgorici.\n\nGarsonjera se nalazi na 6. spratu i zapadno je orijentisana.\n\nParking je javni.\n\nStruktura: ulazni hodnik, dnevna zona, kupatilo i terasa.\n\nIdealna za kancelariju ili neku vrstu poslovne djelatnosti.\n\nU neposrednoj blizini su marketi, lokali, pekara, saloni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:37.469327+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.306435+00:00",
+  "source_html_sha256": "bfa2b0287f05334de2829fb84042d9505e4b57650d21286efbb5a29ce075bdce",
+  "title": "Izdavanje, garsonjera, 28m², Tuški Put, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-30",
+  "updated_date": "2026-10-20",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Mikeli",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "6. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Hodnik",
+    "Novogradnja",
+    "Neopremljen"
+  ],
+  "metadata_summary": "Izdaje se nenamještena garsonjera površine 28m2, na Tuškom putu u Podgorici. Garsonjera se nalazi na 6. spratu i zapadno je orijentisana. Parking je javni. Struktura: ulazni hodnik, dnevna zona, kupatilo i terasa. Ide...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!590",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267508196",
+      "name": "Mikeli",
+      "email": null,
+      "source": "workbook:Outreach list!590"
+    },
+    {
+      "phone_e164": "+38267508196",
+      "name": "Mikeli",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267508196"
+  ],
+  "phone_e164": "+38267508196",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

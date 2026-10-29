@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "501430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-501430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-501430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 168,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_501430",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "1",
+    "Opremljen": "Ne",
+    "Klimatizacija": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4542c8cd-d0d1-4f5d-867c-ccf7457581f7-lg.webp",
+    "https://content.estitor.com/d40a58aa-dce9-4691-a093-4934e46e2be1-lg.webp",
+    "https://content.estitor.com/8ac5217b-258b-46f4-8f67-b0eb5a6fd315-lg.webp",
+    "https://content.estitor.com/dce7a8fc-b84d-4c5a-83a7-73ce993334cc-lg.webp",
+    "https://content.estitor.com/c45cc688-b090-4f5b-9886-9ea33b760f2d-lg.webp",
+    "https://content.estitor.com/6d953dad-871d-4654-b449-97065c28f3ff-lg.webp",
+    "https://content.estitor.com/acb3ed51-e404-431c-b63d-095c9c92d8d7-lg.webp",
+    "https://content.estitor.com/2f3c9856-17d4-4393-b95a-d00a5f654798-lg.webp",
+    "https://content.estitor.com/e4a3e352-d3ec-48ee-83b0-15254efaf1e5-lg.webp",
+    "https://content.estitor.com/627c92fd-5c1b-4977-9d62-4accf247bc84-lg.webp",
+    "https://content.estitor.com/72c2bb8e-ea51-4208-897f-127d4a8e8420-lg.webp",
+    "https://content.estitor.com/eb61990e-14d0-4e53-a6aa-f7494084732c-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Poslovni prostor za najam, 125m2 plus terasa 60 m2.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:00.825586+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.283418+00:00",
+  "source_html_sha256": "8a0a705233cbe4e4ead7e79d6f8fde4f73dae16c6d3cdd30a6dda77de8540fb7",
+  "title": "Izdavanje, poslovni prostor, 125m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-12-11",
+  "updated_date": "2026-10-02",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 125,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "52 Bulevar Pera Ćetkovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mijodrag Peric",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Ne",
+  "balconies": 1,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Poslovni prostor za najam, 125m2 plus terasa 60 m2.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!168",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269050870",
+      "name": "Mijodrag Peric",
+      "email": null,
+      "source": "workbook:Not homes!168"
+    },
+    {
+      "phone_e164": "+38269050870",
+      "name": "Mijodrag Peric",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269050870"
+  ],
+  "phone_e164": "+38269050870",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

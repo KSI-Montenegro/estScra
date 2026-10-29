@@ -1,0 +1,163 @@
+{
+  "source": "patuljak",
+  "listing_id": "80148",
+  "listing_url": "https://patuljak.me/oglas/stanovi-za-izdavanje--80148",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stanovi-za-izdavanje--80148"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 753,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80148",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!753:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Centar",
+    "Broj soba": "Dvosoban",
+    "Namješten": true,
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "Visoko prizemlje",
+    "Vrsta grijanja": "Drva",
+    "Vrsta poda": "Laminat",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "3 i više",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "44 m2",
+    "Kvadratura balkona": "6 m2",
+    "Balkon": true,
+    "Renoviran": true,
+    "Voda": true,
+    "Struja": true,
+    "Blindirana vrata": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_4.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:00.134205+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.259861+00:00",
+  "source_html_sha256": "eca98f76942c4b88fde937552287b38b63ed068b4d416f074795b6f01de40bd8",
+  "title": "Stanovi za izdavanje",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "ivana",
+  "property_type": "apartment",
+  "city": "Nikšić",
+  "district": "Centar",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": true,
+  "heating_raw": "Drva",
+  "parking_raw": "3 i više",
+  "area_m2": 44,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Renoviran",
+    "Voda",
+    "Struja",
+    "Blindirana vrata"
+  ],
+  "metadata_summary": "Stanovi za izdavanje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!753",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268029076",
+      "name": "ivana",
+      "email": null,
+      "source": "workbook:Outreach list!753"
+    }
+  ],
+  "contact_phones": [
+    "+38268029076"
+  ],
+  "phone_e164": "+38268029076",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

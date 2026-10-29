@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "592762",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-592762",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-592762"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 182,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_592762",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "3. sprat",
+    "Godina izgradnje": "2018",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3bf6a8ad-9208-493e-8f04-c2ed972c93eb-lg.webp",
+    "https://content.estitor.com/ed46acdb-4118-459e-b47c-88d27c86b4e9-lg.webp",
+    "https://content.estitor.com/ec6db6ef-a13c-4612-adce-3ff4cf5a3835-lg.webp",
+    "https://content.estitor.com/db669163-0213-414b-92d2-e7139d07c262-lg.webp",
+    "https://content.estitor.com/60a234f7-f603-4f09-84b8-c7b091e597c2-lg.webp",
+    "https://content.estitor.com/9527db59-ab9a-4cf9-b66f-afc139e8dced-lg.webp",
+    "https://content.estitor.com/8c4b7c36-6eb8-4ba6-928e-08d0a6cbe239-lg.webp",
+    "https://content.estitor.com/09546c58-03a9-43ee-93cb-e8b2a87c9c63-lg.webp",
+    "https://content.estitor.com/3d07be70-173f-4660-a263-cc797899fc61-lg.webp",
+    "https://content.estitor.com/adea991d-68c9-45b6-8e4a-c758c9ddce19-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Poslovni prostor 368 m² – ekskluzivna lokacija kod Hotela Podgorica\nIzdaje se moderan i luksuzno opremljen poslovni prostor površine 368 m², smješten na 3. spratu prestižnog solitera nadomak Hotela Podgorica. Ova lokacija predstavlja jednu od najtraženijih i najreprezentativnijih poslovnih adresa u gradu, idealnu za IT kompanije, međunarodne kompanije i predstavništva, ambasade, advokatske, projektantske i arhitektonske kompanije, finansijske institucije ili kompanije kojima je potreban reprezentativan poslovni prostor većeg kapaciteta.\nStruktura i sadržaj:\nPovršina: 368 m²\n3. sprat\nReprezentativna i atraktivna poslovna lokacija\nModeran i luksuzno opremljen enterijer\nMogućnost kombinacije open-space organizacije i odvojenih kancelarija\nViše sala za sastanke (Conference rooms)\nElegantno opremljena kuhinja/čajna kuhinja\nViše sanitarnih čvorova\nReprezentativni ulazni i prijemni prostor / recepcija\nSavremeni sistemi grijanja, hlađenja i ventilacije\n\nPoslovni prostor koji ostavlja utisak\nKombinacija vrhunske lokacije, savremenog enterijera i funkcionalne organizacije prostora pruža zaposlenima kvalitetno radno okruženje, a klijentima i poslovnim partnerima reprezentativan ambijent.\nZa više informacija, dodatne fotografije i detalje o prostoru, kao i za dogovor oko termina za obilazak, kontaktirajte nas.\nNovogradnja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:08.762709+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.373841+00:00",
+  "source_html_sha256": "20f6b828d7eb8077702a4bdabc2b70a699be1c93eb79c5ecd5ce4c5930cb4e9c",
+  "title": "Izdavanje, poslovni prostor, 368m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-13",
+  "updated_date": "2026-09-18",
+  "price_amount": 8500,
+  "price_currency": "EUR",
+  "price_raw": "8500 EUR",
+  "area_m2": 368,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "Svetlane Kane Radević, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mirko Joksimović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "year_built": 2018,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Dvorište",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Poslovni prostor 368 m² – ekskluzivna lokacija kod Hotela PodgoricaIzdaje se moderan i luksuzno opremljen poslovni prostor površine 368 m², smješten na 3. spratu prestižnog solitera nadomak Hotela Podgorica. Ova lokac...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!182",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269540042",
+      "name": "Mirko Joksimović",
+      "email": null,
+      "source": "workbook:Not homes!182"
+    },
+    {
+      "phone_e164": "+38269540042",
+      "name": "Mirko Joksimović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269540042"
+  ],
+  "phone_e164": "+38269540042",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

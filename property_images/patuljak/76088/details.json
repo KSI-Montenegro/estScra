@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "76088",
+  "listing_url": "https://patuljak.me/oglas/mijenjam-garazu-u-starom-city-kvartu-za-novi-city--76088",
+  "listing_urls": [
+    "https://patuljak.me/oglas/mijenjam-garazu-u-starom-city-kvartu-za-novi-city--76088"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 943,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76088",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:source_attributes",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Vrsta": "U sklopu veće garaže",
+    "Kvadrata": "14",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76088_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Mijenjma garazu (-1) u City kvartu, ulaz pored kafića Macchiato, za garazu u novom dijelu City kvarta.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:11.706425+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.221867+00:00",
+  "source_html_sha256": "89f5f9387e37ed7518a011321d4f1b6dc82e60240a947b5d7f961d92a9ae79da",
+  "title": "Mijenjam garazu u starom City kvartu za novi City kvart",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Aco",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "property_type_raw": "U sklopu veće garaže",
+  "amenities": [],
+  "metadata_summary": "Mijenjma garazu (-1) u City kvartu, ulaz pored kafića Macchiato, za garazu u novom dijelu City kvarta.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!943",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267528258",
+      "name": "Aco",
+      "email": null,
+      "source": "workbook:Outreach list!943"
+    }
+  ],
+  "contact_phones": [
+    "+38267528258"
+  ],
+  "phone_e164": "+38267528258",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "551906",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-551906",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-551906"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 142,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_551906",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Industrijski",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9aaa1282-5dc2-4c79-b15d-49b5f41730fd-lg.webp",
+    "https://content.estitor.com/e4805119-e810-4f90-b3d4-d0c737fc144f-lg.webp",
+    "https://content.estitor.com/d2a232a4-f570-423a-b195-c9813cdd0a6e-lg.webp",
+    "https://content.estitor.com/bd0eafd7-7e39-4fa4-b4ec-346cb597378a-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetna poslovna hala površine 3000 m², smještena u prestižnoj industrijskoj zoni, u krugu nekadašnje Željezare u Nikšiću, na lokaciji Centar.\n\nOva prostrana hala je u perfektnom stanju i predstavlja idealno rješenje za širok spektar djelatnosti, uključujući proizvodnju, skladištenje ili logistički centar. Njena fleksibilnost omogućava potpunu adaptaciju prema specifičnim potrebama vašeg poslovanja.\n\nObjekat je neopremljen, što vam pruža slobodu da enterijer uredite po sopstvenoj mjeri. U sklopu hale dostupne su kancelarije, toaleti, trpezarija i ostava. Za optimalne radne uslove obezbijeđena je klimatizacija. Sigurnost je zagarantovana 24-časovnim obezbjeđenjem unutar kruga fabrike.\n\nNa raspolaganju je prostrani parking ispred objekta, dok dvorište dodatno doprinosi funkcionalnosti. Ova lokacija u Nikšiću obezbjeđuje odličnu povezanost i pristup, čineći je savršenim izborom za razvoj vašeg biznisa.\n\nCijena mjesečnog zakupa iznosi 9.000 EUR + PDV (3 EUR/m² + PDV). Iskoristite ovu jedinstvenu priliku za vaše poslovanje!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:46.415965+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.098731+00:00",
+  "source_html_sha256": "69abed9ad748d82278744be205e3fd9002266af076348cc345277b4eee1f6e91",
+  "title": "Izdavanje, poslovni prostor, 3000m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-29",
+  "updated_date": "2026-10-19",
+  "price_amount": 9000,
+  "price_currency": "EUR",
+  "price_raw": "9000 EUR",
+  "area_m2": 3000,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Nikšić",
+  "country": "ME",
+  "advertiser_name": "Marko Trifunovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se izuzetna poslovna hala površine 3000 m², smještena u prestižnoj industrijskoj zoni, u krugu nekadašnje Željezare u Nikšiću, na lokaciji Centar. Ova prostrana hala je u perfektnom stanju i predstavlja idealno...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!142",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268635683",
+      "name": "Marko Trifunovic",
+      "email": null,
+      "source": "workbook:Not homes!142"
+    },
+    {
+      "phone_e164": "+38268635683",
+      "name": "Marko Trifunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268635683"
+  ],
+  "phone_e164": "+38268635683",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

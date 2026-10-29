@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "464174",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464174",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 786,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_464174",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Orijentacija": "Istok",
+    "Parking": "Da",
+    "Udaljenost od mora": "500m",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8f4c7f49-910f-46bd-8ce3-ca3a7c3371c8-lg.webp",
+    "https://content.estitor.com/1380c2eb-952d-4437-b660-a93e7a540ea8-lg.webp",
+    "https://content.estitor.com/f021d9e3-5680-40b7-9d02-f7bd2aa675f2-lg.webp",
+    "https://content.estitor.com/3e3e8eea-332f-4956-a810-a2a42cbf76cc-lg.webp",
+    "https://content.estitor.com/25d3ed96-52f2-42e4-b461-70129a2c29a8-lg.webp",
+    "https://content.estitor.com/5113ebfa-d771-462c-88f2-44d750c7b9ca-lg.webp",
+    "https://content.estitor.com/92cdc1b7-9f3b-47c4-9424-caef3f889863-lg.webp",
+    "https://content.estitor.com/31be1cbc-3dee-46ab-87ac-008261f3e05e-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Stan sa jednom spavacom sobom, kompletno opremljen, prijatan i suncan na 500m od Slovenske palze. U blizini dva supermarketa, restorani, male trgovine, vrtic... Izdaje se do juna 2026.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:21.957365+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.599886+00:00",
+  "source_html_sha256": "385a074add3f311794145253dc4c60ed2c563b64493e2b625a4fb929bc563d32",
+  "title": "Izdavanje, jednosoban stan, 37m², Adok, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-31",
+  "updated_date": "2026-10-23",
+  "price_amount": 480,
+  "price_currency": "EUR",
+  "price_raw": "480 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Tamara B",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Da",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Stan sa jednom spavacom sobom, kompletno opremljen, prijatan i suncan na 500m od Slovenske palze. U blizini dva supermarketa, restorani, male trgovine, vrtic... Izdaje se do juna 2026.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!786",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269531603",
+      "name": "Tamara B",
+      "email": null,
+      "source": "workbook:Outreach list!786"
+    },
+    {
+      "phone_e164": "+38269531603",
+      "name": "Tamara B",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269531603"
+  ],
+  "phone_e164": "+38269531603",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

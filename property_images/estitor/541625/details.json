@@ -1,0 +1,184 @@
+{
+  "source": "estitor",
+  "listing_id": "541625",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-541625",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-541625"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 374,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_541625",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/174678c8-9d00-42cd-836d-a172d4f156dc-lg.webp",
+    "https://content.estitor.com/52b4ce82-7ef8-4cf7-af80-b0600761eaf9-lg.webp",
+    "https://content.estitor.com/4608c5ea-6acd-43d3-b26b-81d85ecb3d91-lg.webp",
+    "https://content.estitor.com/137ab560-c65b-4b17-b897-96409003e091-lg.webp",
+    "https://content.estitor.com/9f9c200f-58ff-4b9d-9d92-e963ccb677c7-lg.webp",
+    "https://content.estitor.com/e92e7267-d517-48b9-8451-dc4f5b7f4d9b-lg.webp",
+    "https://content.estitor.com/f59770e7-eb25-4f39-8a41-64f0a46fd502-lg.webp",
+    "https://content.estitor.com/302cca89-1739-4a4d-b79b-c148a1ca945f-lg.webp",
+    "https://content.estitor.com/4c8049bc-66ac-41f5-91d2-db41beb0132c-lg.webp",
+    "https://content.estitor.com/0c4b2301-3c64-4096-94c0-eaf86c624058-lg.webp",
+    "https://content.estitor.com/8b674497-60dd-4210-b9e1-22082a754104-lg.webp",
+    "https://content.estitor.com/54e6da76-5903-4573-b60e-eb052a36a3e3-lg.webp",
+    "https://content.estitor.com/5b91b7ed-85e9-4b79-a073-52f1193831e3-lg.webp",
+    "https://content.estitor.com/722b93ac-46fa-4076-88ea-f27c8be90fbf-lg.webp",
+    "https://content.estitor.com/e865bd09-4078-4c49-9301-c3d28287a0cd-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:48.180554+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.112157+00:00",
+  "source_html_sha256": "470d9e9327a335b395a907fbc2e5789df3acff28ec55d7963ebc95baad88aff9",
+  "title": "Izdavanje, jednosoban stan, 42m², Čeluga, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-05",
+  "updated_date": "2026-09-17",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "E851, Tomba, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Lazar Bajic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!374",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381612008760",
+      "name": "Lazar Bajic",
+      "email": null,
+      "source": "workbook:Outreach list!374"
+    },
+    {
+      "phone_e164": "+381612008760",
+      "name": "Lazar Bajic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381612008760"
+  ],
+  "phone_e164": "+381612008760",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

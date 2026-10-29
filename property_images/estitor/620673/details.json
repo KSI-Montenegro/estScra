@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "620673",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-ulcinj/id-620673",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-ulcinj/id-620673"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 179,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620673",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Klimatizacija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9cc09263-da9f-464b-839b-29f0573a5cb7-lg.webp",
+    "https://content.estitor.com/53b551ff-2a8d-4803-91ea-6795bc823982-lg.webp",
+    "https://content.estitor.com/cf242e09-1265-4280-8d33-42e31e4cd5a2-lg.webp",
+    "https://content.estitor.com/6a3241e8-e25d-49d8-be35-a73e2d6e1f83-lg.webp",
+    "https://content.estitor.com/092ac99e-d587-468c-8c54-177e263b9783-lg.webp",
+    "https://content.estitor.com/ff86a898-6adf-4fb9-baa4-e2d21e4edf2e-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan poslovni prostor površine 112 m² u samom centru Ulcinja, na jednoj od najatraktivnijih lokacija. Smješten na poznatoj kaldrmi ulice Rr. Hafiz Ali Ulqinaku, ovaj prostor je u neposrednoj blizini glavne gradske i turističke zone, garantujući neprekidan protok ljudi.\n\nNalazi se u prizemlju i nudi direktan ulaz sa ulice, uz dva velika izloga koja obezbjeđuju maksimalnu vidljivost i izloženost vašem poslovanju. Zahvaljujući ovoj poziciji, vaš brend će biti primijećen od velikog broja prolaznika.\n\nPosebnu prednost predstavlja činjenica da se tokom ljetnje sezone, u večernjim satima, ulica pretvara u živopisnu pješačku zonu. To drastično povećava frekvenciju lokacije, čineći je idealnom za maloprodaju, butike, showroom-ove, turističke agencije i razne druge komercijalne djelatnosti.\n\nProstor je djelimično namješten, uređen i odmah spreman za korišćenje. Dodatne pogodnosti uključuju klimatizaciju za ugodan rad tokom cijele godine, kao i praktičnu ostavu. Dostupan je i javni parking u blizini. Prethodno je uspješno funkcionisao kao butik sportske opreme, što potvrđuje njegovu komercijalnu potentnost.\n\nDostupan za zakup od Novembra 2026. godine.\n\nKao dodatnu mogućnost, uz poslovni prostor nudi se i zakup jednosobnog stana površine 40 m² sa prostranom terasom od 120 m², smještenog na spratu iznad lokala. Ova opcija pruža idealno rješenje za stanovanje ili smještaj osoblja, uz poseban dogovor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:07.195740+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.354206+00:00",
+  "source_html_sha256": "e2b487226b812e33cdd20de2941783834ccf0a535d47ae0bb24391b4cac45a44",
+  "title": "Izdavanje, poslovni prostor, 112m², Centar, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-09-21",
+  "price_amount": 1400,
+  "price_currency": "EUR",
+  "price_raw": "1400 EUR",
+  "area_m2": 112,
+  "city": "Ulcinj",
+  "street_address": "8 Vida Matanovića, Ulcinj 85360, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Leonardo Cetkovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se izuzetan poslovni prostor površine 112 m² u samom centru Ulcinja, na jednoj od najatraktivnijih lokacija. Smješten na poznatoj kaldrmi ulice Rr. Hafiz Ali Ulqinaku, ovaj prostor je u neposrednoj blizini glav...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!179",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+41767450564",
+      "name": "Leonardo Cetkovic",
+      "email": null,
+      "source": "workbook:Not homes!179"
+    },
+    {
+      "phone_e164": "+41767450564",
+      "name": "Leonardo Cetkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+41767450564"
+  ],
+  "phone_e164": "+41767450564",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "574628",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-574628",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-574628"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 125,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_574628",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Polusuteren",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e83513d3-99c1-4571-8f3d-d0c266cbdb3b-lg.webp",
+    "https://content.estitor.com/2083d31d-18e1-42f7-bdf3-43fc7b923e66-lg.webp",
+    "https://content.estitor.com/7eb1e974-a6b8-458e-8eb1-4228d92bfb2a-lg.webp",
+    "https://content.estitor.com/4fc2ad3b-34f5-4d30-9015-6239bc4f48ef-lg.webp",
+    "https://content.estitor.com/fb703d96-2b70-44f3-a8f4-5705099ca25a-lg.webp",
+    "https://content.estitor.com/eed2526f-76a6-4faf-b1df-ecc11d71d377-lg.webp",
+    "https://content.estitor.com/fb746abe-20b8-4492-8df7-4af848dfd6ce-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan, jednosoban stan površine 45m² u novogradnji, na prestižnoj lokaciji u Tivtu, pored Hotela Helada i samo 150 m do plaze Belane .\nOvaj lepo opremljen stan nalazi se na prvom spratu nove zgrade, nudi miran kraj i izuzetnu osunčanost. Uživajte u udobnosti terase, klimatizaciji i modernom enterijeru koji uključuje prostranu kuhinju, predsoblje i hodnik. Stan raspolaže svim potrebnim sadržajima: Lift, Internet, Kablovska. Posebna pogodnost je parking mjesto u garaži, kao i pristup uređenom dvorištu zgrade. Lokacija je idealna – svega 150 metara od prelepe plaže Belane. Stan je useljiv od 12. septembra.\nNe propustite priliku za život u srcu Tivta!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:13.324155+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.908943+00:00",
+  "source_html_sha256": "44989a45feeb4b905e7d08818402e8e9687fa47aab802a327df465e53c85e220",
+  "title": "Izdavanje, jednosoban stan, 45m², Tivat, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-29",
+  "updated_date": "2026-09-21",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "price_raw": "800 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Crna Gora",
+  "street_address": "16 Kalimanjska IV, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Tivat Apartments",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Polusuteren",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 3,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se izuzetan, jednosoban stan površine 45m² u novogradnji, na prestižnoj lokaciji u Tivtu, pored Hotela Helada i samo 150 m do plaze Belane .Ovaj lepo opremljen stan nalazi se na prvom spratu nove zgrade, nudi m...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!125",
+      "agent_reasons": "3 ads with this number; business name (Tivat Apartments)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267108817",
+      "name": "Tivat Apartments",
+      "email": null,
+      "source": "workbook:Likely agents!125"
+    },
+    {
+      "phone_e164": "+38267108817",
+      "name": "Tivat Apartments",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267108817"
+  ],
+  "phone_e164": "+38267108817",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

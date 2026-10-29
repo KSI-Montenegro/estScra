@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "334202",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-namjesten-stan-54-m2-u-naselju-momisici-u--334202",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-namjesten-stan-54-m2-u-naselju-momisici-u--334202"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 230,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_334202",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Adresa": "Belvederska 21",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Stambena kvadratura": "54 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/12/334202_13.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Lijepo namješten, udoban stan u naselju Momišići na 5 minuta hoda od Osnovnog suda, Pravnog i Ekonomskog fakulteta i drugih sadržaja.\nKontakt: 069 305 567",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:39.306404+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.221126+00:00",
+  "source_html_sha256": "ee6af0d48c4f27de7f79b01d74b40dba1f12bb7dacc5fa152223fdf32baf82fc",
+  "title": "Dvosoban namješten stan, 54 m2 u naselju Momišići u Podgorici",
+  "description_language": "en",
+  "price_raw": "280.00€",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "advertiser_name": "Zorana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "street_address": "Belvederska 21",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 54,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Lijepo namješten, udoban stan u naselju Momišići na 5 minuta hoda od Osnovnog suda, Pravnog i Ekonomskog fakulteta i drugih sadržaja.Kontakt: 069 305 567",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!230",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269859586",
+      "name": "Zorana",
+      "email": null,
+      "source": "workbook:Outreach list!230"
+    }
+  ],
+  "contact_phones": [
+    "+38269859586"
+  ],
+  "phone_e164": "+38269859586",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

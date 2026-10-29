@@ -1,0 +1,135 @@
+{
+  "source": "estitor",
+  "listing_id": "640623",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-640623",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-640623"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 202,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640623",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "district": "workbook:Not homes!202:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; workbook:Not homes!202:primary_url_fields"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e1e463b8-21ce-4a34-b346-1f0774f49af7-lg.webp",
+    "https://content.estitor.com/4af1ca05-526c-4ec8-9fdf-6f7036b6c57e-lg.webp",
+    "https://content.estitor.com/93854e75-5125-4994-ada6-d7ba671ed0b5-lg.webp",
+    "https://content.estitor.com/c3e96485-6882-4ffe-b493-f90669e60ea2-lg.webp",
+    "https://content.estitor.com/32f67a2f-5606-466c-921a-25ed4d907126-lg.webp",
+    "https://content.estitor.com/12621073-62a2-425d-b5c0-441131bc34af-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Prodajem urbaniziranu parcelu površine 610 m², udaljenu samo 1 km od centra grada. Izvrsna lokacija, idealno za investiciju.\n+38268629887",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:19.120794+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.487527+00:00",
+  "source_html_sha256": "046ac565cd1a60ffb905d9706fbd9f1652904f32d3d54be475f052a67859d0ad",
+  "title": "Prodaja, plac, 610m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 48800,
+  "price_currency": "EUR",
+  "price_raw": "48800 EUR",
+  "city": "Kolašin",
+  "street_address": "Put Gornji Pažanj, Колашин, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Ivan Vlahovic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Prodajem urbaniziranu parcelu površine 610 m², udaljenu samo 1 km od centra grada. Izvrsna lokacija, idealno za investiciju.+38268629887",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!202",
+      "notes": "High - Site flag: Fizičko lice (isAgency=false)",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268629887",
+      "name": "Ivan Vlahovic",
+      "email": null,
+      "source": "workbook:Not homes!202"
+    }
+  ],
+  "contact_phones": [
+    "+38268629887"
+  ],
+  "phone_e164": "+38268629887",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "district": "Centar",
+  "area_m2": null,
+  "lot_area_m2": 610,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

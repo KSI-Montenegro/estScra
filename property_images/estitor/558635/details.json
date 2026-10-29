@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "558635",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-558635",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-558635"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 287,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_558635",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2016",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d6c58888-3018-4646-8618-d27d587e34b7-lg.webp",
+    "https://content.estitor.com/444e3cf2-9e58-420a-a7ec-50bbcc809d16-lg.webp",
+    "https://content.estitor.com/282c00bd-f4a1-421f-a4fe-0e4ff96174fe-lg.webp",
+    "https://content.estitor.com/4dfaf0c6-59c0-4c34-a0c0-9003985ce74d-lg.webp",
+    "https://content.estitor.com/98d72014-3b22-43c4-b909-345f33a2f7d9-lg.webp",
+    "https://content.estitor.com/1dd11f7d-2bed-427b-8a7b-0203273e5952-lg.webp",
+    "https://content.estitor.com/d42eed3e-3726-4335-ab6a-3a7dffe8adcf-lg.webp",
+    "https://content.estitor.com/8998162e-b6f2-4447-a91a-f7691ab47840-lg.webp",
+    "https://content.estitor.com/b2b9d305-f4ad-494f-9330-83ee575f8284-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Bar, Šušanj – jednosoban stan za izdavanje.\nStan se nalazi na glavnoj cesti i ima pogled na more. Izdaje se namješten i minimalni period zakupa je 1 godina.\n\nBar, Šušanj – one-bedroom apartment for rent.\nThe apartment is located on the main road and has a sea view. It is fully furnished and available for a minimum rental period of 1 year.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:05.122139+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.590354+00:00",
+  "source_html_sha256": "42f3caeb79b80a38ea08ac7107f0e78577a2bfb17810c9ccad960bffc8de04be",
+  "title": "Izdavanje, jednosoban stan, 50m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-20",
+  "updated_date": "2026-10-14",
+  "price_amount": 425,
+  "price_currency": "EUR",
+  "price_raw": "425 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "2 Ulica Jovana Tomasevica, Bar 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Arnelabucan Bucan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2016,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Bar, Šušanj – jednosoban stan za izdavanje.Stan se nalazi na glavnoj cesti i ima pogled na more. Izdaje se namješten i minimalni period zakupa je 1 godina.Bar, Šušanj – one-bedroom apartment for rent.The apartment is ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!287",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267542491",
+      "name": "Arnelabucan Bucan",
+      "email": null,
+      "source": "workbook:Outreach list!287"
+    },
+    {
+      "phone_e164": "+38267542491",
+      "name": "Arnelabucan Bucan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267542491"
+  ],
+  "phone_e164": "+38267542491",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

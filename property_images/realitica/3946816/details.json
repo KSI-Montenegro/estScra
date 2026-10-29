@@ -1,0 +1,128 @@
+{
+  "source": "realitica",
+  "listing_id": "3946816",
+  "listing_url": "https://www.realitica.com/hr/listing/3946816",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946816"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 18,
+      "column": "url"
+    }
+  ],
+  "property_key": "realitica_3946816",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Herceg Novi",
+    "Lokacija": "Baošići",
+    "Oglas Broj": "3946816",
+    "Postavljeno": "18 Oct, 2026",
+    "Zadnja Promjena": "18 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0017.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0025.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0021.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0020.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0023.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0022.jpg",
+    "https://www.realitica.com/images/listing_photos/3946816_img-20261018-wa0019.jpg"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "BAOŠIĆI | DVOSOBAN STAN NA PRODAJU\n\nNa prodaju dvosoban stan površine 50 m², smješten u Baošićima. Stan pruža prijatan i funkcionalan prostor, pogodan za porodični život, odmor ili kao investicija za izdavanje.\n\nCijena: 135.000 €\n\nZa više informacija i dogovor oko obilaska, pošaljite poruku.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:26.222397+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.577178+00:00",
+  "source_html_sha256": "7cfc0d75f7771a28d0ae8e9c45ce07dea822ca9ef6798149a72a62d37a312a96",
+  "title": "Prodajem Stan-Apartman, Baošići",
+  "description_language": "hr",
+  "city": "Herceg Novi",
+  "district": "Baošići",
+  "published_date_raw": "18 Oct, 2026",
+  "updated_date_raw": "18 Oct, 2026",
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "amenities": [],
+  "metadata_summary": "BAOŠIĆI | DVOSOBAN STAN NA PRODAJU\n\nNa prodaju dvosoban stan površine 50 m², smješten u Baošićima. Stan pruža prijatan i funkcionalan prostor, pogodan za porodični život, odmor ili kao investicija za izdavanje.\n\nCijena: 135.000 €\n\nZa više informacija i dogovor oko obilaska, pošaljite poruku.",
+  "contact_candidates": [
+    {
+      "phone_e164": "+382383925678",
+      "name": "Nevena",
+      "email": null,
+      "source": "workbook:Rejected!18"
+    }
+  ],
+  "contact_phones": [
+    "+382383925678"
+  ],
+  "phone_e164": "+382383925678",
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "price",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

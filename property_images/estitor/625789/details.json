@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "625789",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-625789",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-625789"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 172,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_625789",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/add5e667-9132-43ee-901c-1349fdf082bc-lg.webp",
+    "https://content.estitor.com/0e8eff82-390d-4d51-a05d-5945c3600c58-lg.webp",
+    "https://content.estitor.com/3b51132c-1bfe-40ca-a619-adc40c186c82-lg.webp",
+    "https://content.estitor.com/370dc0c0-1afd-462a-a598-e140d1a9322b-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se vrhunski poslovni prostor na ekskluzivnoj lokaciji u Nikšiću, direktno na Trgu Slobode.\nOvaj objekat u novogradnji nudi neto površinu od 100 m² i pozicioniran je na Trgu Slobode (sprat 1 i 2) sa nezavisnim ulazom direktno sa Trga. Prostor se ima izvanredan pogled na Trg, pružajući prestižan ambijent za vaše poslovanje.\nEnterijer je kompletno opremljen i pažljivo dizajniran sa magnetnom LED rasvjetom, modernim multi-split sistemom za klimatizaciju i podnim grijanjem, što garantuje optimalnu temperaturu i udobnost tokom cijele godine. Odlična izolacija osigurava visoku energetsku efikasnost, smanjujući troškove poslovanja.\nPoslovni prostor sadrži jednu zasebnu prostoriju (koja može služiti kao kancelarija ili ordinacija), dva moderna kupatila, čajnu kuhinju, trpezariju, prostrani hodnik i ostavu, pružajući kompletan funkcionalni set za raznovrsne djelatnosti. Dostupan je i internet i telefon.\nDodatna pogodnost je mogućnost postavljanja reklame na fasadi objekta, čime se osigurava maksimalna vidljivost vašeg brenda na najprometnijoj lokaciji u gradu. Javni parking je dostupan u neposrednoj blizini.\nOva nekretnina predstavlja savršen izbor za predstavništva, uslužne i kancelarijske djelatnosti, trgovinske sadržaje, notarske i advokatske kancelarije, te raznovrsne medicinske i specijalističke ordinacije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:03.741509+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.314561+00:00",
+  "source_html_sha256": "68e8486d95a6e411d2ee647b122116efd7b855c440a9430beeb78cfd662330a4",
+  "title": "Izdavanje, poslovni prostor, 100m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-29",
+  "updated_date": "2026-09-29",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 100,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Nikšić",
+  "street_address": "6 Novice Cerovića, Nikšić, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Nk Vlasnik",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 0,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se vrhunski poslovni prostor na ekskluzivnoj lokaciji u Nikšiću, direktno na Trgu Slobode.Ovaj objekat u novogradnji nudi neto površinu od 100 m² i pozicioniran je na Trgu Slobode (sprat 1 i 2) sa nezavisnim ul...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!172",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267511888",
+      "name": "Nk Vlasnik",
+      "email": null,
+      "source": "workbook:Not homes!172"
+    },
+    {
+      "phone_e164": "+38267511888",
+      "name": "Nk Vlasnik",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267511888"
+  ],
+  "phone_e164": "+38267511888",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

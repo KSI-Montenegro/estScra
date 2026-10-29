@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "550489",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-550489",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-550489"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 815,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_550489",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b41433ea-bfc1-42e7-8328-526381226521-lg.webp",
+    "https://content.estitor.com/0fc949cf-c80a-4884-b76d-c22770baffee-lg.webp",
+    "https://content.estitor.com/a4eb45b6-3ce9-4255-9ab6-19ec4dc1b09a-lg.webp",
+    "https://content.estitor.com/74e09fb2-ba7f-4cc0-8252-7e082da5f3e8-lg.webp",
+    "https://content.estitor.com/c1ef11d4-d35f-43fb-86d9-d8925e393edc-lg.webp",
+    "https://content.estitor.com/56432bcb-a505-4275-b773-712041531344-lg.webp",
+    "https://content.estitor.com/12bba1ff-6b53-497f-a715-676055c84f80-lg.webp",
+    "https://content.estitor.com/a923a5a7-7568-4cdb-8448-840c4af30517-lg.webp",
+    "https://content.estitor.com/7ca09620-aafb-458d-995c-9b228c69ff2a-lg.webp",
+    "https://content.estitor.com/c1220ac2-4bdb-4bea-be29-43d7584efb84-lg.webp",
+    "https://content.estitor.com/0f051455-af30-460d-80ee-04480b7ac1e1-lg.webp",
+    "https://content.estitor.com/753d40bb-ff75-45d4-bd6c-fb4d781fd2e3-lg.webp",
+    "https://content.estitor.com/15850320-7a58-4e52-a772-a015c9ed92a0-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban apartman za stanovanje na duži period u Sutomoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:45.093796+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.971419+00:00",
+  "source_html_sha256": "1c2976f551384bbb76a711cea26d4d9da69948bc2d295dff50a28c173690b6c9",
+  "title": "Izdavanje, jednosoban stan, 49m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-27",
+  "updated_date": "2026-10-28",
+  "price_amount": 270,
+  "price_currency": "EUR",
+  "price_raw": "270 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Partizanski put bb",
+  "country": "ME",
+  "advertiser_name": "Milos Milicevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdajem jednosoban apartman za stanovanje na duži period u Sutomoru.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!815",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268057125",
+      "name": "Milos Milicevic",
+      "email": null,
+      "source": "workbook:Outreach list!815"
+    },
+    {
+      "phone_e164": "+38268057125",
+      "name": "Milos Milicevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268057125"
+  ],
+  "phone_e164": "+38268057125",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

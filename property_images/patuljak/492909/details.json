@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "492909",
+  "listing_url": "https://patuljak.me/oglas/prodaja-placa-od-1708-m2-u-tolosima--492909",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-placa-od-1708-m2-u-tolosima--492909"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 127,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_492909",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tološi",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1708 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/492909_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/492909_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/492909_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/492909_4.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Prodaje se građevinsko zemljište površine 1708m2 u naselju Tološi, ul Ceklinska. Vodovodni i elektro priključci su obezbijeđeni. Na plac je dozvoljena gradnja dva objekta od 450m2 P+1.\nPlac se nalazi na veoma lijepom i mirnom dijelu naselja, male gustine. Sa sjeverne strane plac se graniči sa brdom-Crkvina., a sa južne strane izlazi na Ceklinsku ulicu.\nPlac je idealan za izgradnju porodične kuće-vile.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:40.566075+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.994929+00:00",
+  "source_html_sha256": "418894506f5a7784222374da6727e00ab44bb21ad99cb97771dba939fbb46031",
+  "title": "Prodaja placa od 1708 m2 u Tološima",
+  "description_language": "en",
+  "price_raw": "250.00€",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "advertiser_name": "Zoran",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Tološi",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se građevinsko zemljište površine 1708m2 u naselju Tološi, ul Ceklinska. Vodovodni i elektro priključci su obezbijeđeni. Na plac je dozvoljena gradnja dva objekta od 450m2 P+1.Plac se nalazi na veoma lijepom i mirnom dijelu naselja, male gustine. Sa sjeverne strane plac se graniči sa brdom-Crkvina., a sa južne strane izlazi na Ceklinsku ulicu.Plac je idealan za izgradnju porodične kuće-vile.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!127",
+      "notes": "check deal: sale at 120 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267242160",
+      "name": "Zoran",
+      "email": null,
+      "source": "workbook:Not homes!127"
+    }
+  ],
+  "contact_phones": [
+    "+38267242160"
+  ],
+  "phone_e164": "+38267242160",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 1708,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

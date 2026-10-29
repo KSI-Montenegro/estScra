@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "271678",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-271678",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-271678"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 815,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_271678",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/80f17516-df7f-4675-bac6-0bb8a2422688-lg.webp",
+    "https://content.estitor.com/5b698e04-1ed5-4f88-acae-5466c1752b7b-lg.webp",
+    "https://content.estitor.com/eeea8d03-470f-4f38-9e91-07ffa38d0981-lg.webp",
+    "https://content.estitor.com/1631fc11-6736-4469-890d-01069c6d7662-lg.webp",
+    "https://content.estitor.com/94f35b7e-5ee5-4215-b79f-062457467387-lg.webp",
+    "https://content.estitor.com/3d7fbac4-3706-40cc-91a3-cdfb9f1d20cc-lg.webp",
+    "https://content.estitor.com/a5cabf9d-ccc8-4f59-95ef-6a4a732b6014-lg.webp",
+    "https://content.estitor.com/4fe9f148-6feb-4873-8c8f-3e3df405a1a7-lg.webp",
+    "https://content.estitor.com/793c3fff-130e-4e32-992d-1908a30f3a5b-lg.webp",
+    "https://content.estitor.com/8bceefac-90dc-40b3-a0c2-b7b7e60339e4-lg.webp",
+    "https://content.estitor.com/2e6406ef-7e9d-40ee-9016-da6be9c5a757-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban namješten stan u Sutomore na duži vremenski period. + režija",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:44.769079+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.966454+00:00",
+  "source_html_sha256": "dabd9df4a6aa0313d1618d083e029115a48f17af02e7408a5b6aead4e3255479",
+  "title": "Izdavanje, jednosoban stan, 49m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2024-08-09",
+  "updated_date": "2026-10-05",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "price_raw": "280 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Milos Milicevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem jednosoban namješten stan u Sutomore na duži vremenski period. + režija",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!815",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268057125",
+      "name": "Milos Milicevic",
+      "email": null,
+      "source": "workbook:Outreach list!815"
+    },
+    {
+      "phone_e164": "+38268057125",
+      "name": "Milos Milicevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268057125"
+  ],
+  "phone_e164": "+38268057125",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

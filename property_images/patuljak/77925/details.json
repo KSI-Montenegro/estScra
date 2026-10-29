@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "77925",
+  "listing_url": "https://patuljak.me/oglas/novorenovirani-studio-apartman-u-blizini-studensko--77925",
+  "listing_urls": [
+    "https://patuljak.me/oglas/novorenovirani-studio-apartman-u-blizini-studensko--77925"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 487,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77925",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "1",
+    "Sprat": "1",
+    "Namješten": "Da",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "18 m2",
+    "Renoviran": true,
+    "Voda": true,
+    "Klima": true,
+    "Internet": true,
+    "Za studente": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "• Nov i kompletno namještani studio apartman za najam.\n• 18m2\n• U mirnoj ulici, blizina studenskog doma i city kvarta.\n• Radnička ulica, Podgorica\n• Stan se nalazi u kući i ima poseban ulaz.\n• Klima uređaj i perilica rublja u sklopu jedinice.\n• Ne nudimo parkirno mjesto.\n• Za dogovor se javiti porukom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:46.378597+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.738356+00:00",
+  "source_html_sha256": "cfea7adef26e179afaab2d6fe0d324924ba18589d052c339dffbab1d8cf42935",
+  "title": "Novorenovirani studio apartman u blizini studenskog doma",
+  "description_language": "en",
+  "price_raw": "280.00€",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "advertiser_name": "Ana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "1",
+  "room_layout_raw": "1",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema",
+  "area_m2": 18,
+  "amenities": [
+    "Namješten",
+    "Renoviran",
+    "Voda",
+    "Klima",
+    "Internet",
+    "Za studente"
+  ],
+  "metadata_summary": "• Nov i kompletno namještani studio apartman za najam.• 18m2• U mirnoj ulici, blizina studenskog doma i city kvarta.• Radnička ulica, Podgorica• Stan se nalazi u kući i ima poseban ulaz.• Klima uređaj i perilica rublja u sklopu jedinice.• Ne nudimo parkirno mjesto.• Za dogovor se javiti porukom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!487",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267077411",
+      "name": "Ana",
+      "email": null,
+      "source": "workbook:Outreach list!487"
+    }
+  ],
+  "contact_phones": [
+    "+38267077411"
+  ],
+  "phone_e164": "+38267077411",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

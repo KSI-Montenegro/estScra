@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "585324",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-kotor/id-585324",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-kotor/id-585324"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 136,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_585324",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Podrum": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1726c29d-d4cd-48a9-9243-dba0248247a1-lg.webp",
+    "https://content.estitor.com/1aba7a81-3dfe-4203-bff5-44a4621df575-lg.webp",
+    "https://content.estitor.com/4b79446b-eba8-41f5-a7a6-45d4f3604a86-lg.webp",
+    "https://content.estitor.com/57a89e0b-be10-42a4-927f-92f8007e53a7-lg.webp",
+    "https://content.estitor.com/3ffd1b10-9250-4116-b0e3-89ecda3f8d5e-lg.webp",
+    "https://content.estitor.com/307b3b47-6e6c-4113-b8ed-e527a8eb34b3-lg.webp",
+    "https://content.estitor.com/14142457-33c1-4f6b-a8a1-3805c921e41c-lg.webp",
+    "https://content.estitor.com/6a37368b-aa3a-49d6-a0a9-6459a36266d4-lg.webp",
+    "https://content.estitor.com/23b5b9fe-f432-4970-a466-fd16a98eb024-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor u Kotoru, pored Doma zdravlja\n\nIzdaje se funkcionalan i moderno organizovan poslovni prostor površine 80 m², 30 m od mora i 40 m od Akvarijuma, odmah pored Doma zdravlja.\nProstor ima dva toaleta (jedan sa tuš kabinom), klimatizovan je (2 klime).\nPosjeduje dodatno i podrum površine 16 m², privatno parking mjesto u okviru parkinga (koji ima 5 mjesta) sa kapijom.\nPosebna prednost je zaseban ulaz koji nije vezan za stambeni dio zgrade, kao i direktan pristup iz parkinga, što omogućava jednostavno funkcionisanje različitih vrsta djelatnosti.\nProstor je pogodan za sve poslovne namjene.\nSlobodan od 1. novembra 2026.godine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:44.219332+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.049913+00:00",
+  "source_html_sha256": "0db0dcdab7a8bfe7d35c813d2791bc2e488b1649056a1cee1ba43959f2aaa67d",
+  "title": "Izdavanje, poslovni prostor, 80m², Dobrota, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-29",
+  "updated_date": "2026-10-26",
+  "price_amount": 1650,
+  "price_currency": "EUR",
+  "price_raw": "1650 EUR",
+  "area_m2": 80,
+  "bathrooms": 2,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Marija Soc",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Podrum"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor u Kotoru, pored Doma zdravljaIzdaje se funkcionalan i moderno organizovan poslovni prostor površine 80 m², 30 m od mora i 40 m od Akvarijuma, odmah pored Doma zdravlja.Prostor ima dva toalet...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!136",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269799569",
+      "name": "Marija Soc",
+      "email": null,
+      "source": "workbook:Not homes!136"
+    },
+    {
+      "phone_e164": "+38269799569",
+      "name": "Marija Soc",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269799569"
+  ],
+  "phone_e164": "+38269799569",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

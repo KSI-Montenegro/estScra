@@ -1,0 +1,125 @@
+{
+  "source": "patuljak",
+  "listing_id": "73131",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garazno-mjesto-22m2--73131",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garazno-mjesto-22m2--73131"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 980,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73131",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!980:primary_url_fields",
+    "area_m2": "workbook:Outreach list!980:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73131_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73131_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:32.252192+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.461119+00:00",
+  "source_html_sha256": "cf97e078eb7c7c46ffbbd521a50611668dc3902b07c7e3ac26ed908e0bf0f948",
+  "title": "Izdajem garažno mjesto, 22m2",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Selma",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "amenities": [],
+  "metadata_summary": "Izdajem garažno mjesto, 22m2",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!980",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268830682",
+      "name": "Selma",
+      "email": null,
+      "source": "workbook:Outreach list!980"
+    }
+  ],
+  "contact_phones": [
+    "+38268830682"
+  ],
+  "phone_e164": "+38268830682",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "area_m2": 22,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

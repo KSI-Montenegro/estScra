@@ -1,0 +1,161 @@
+{
+  "source": "patuljak",
+  "listing_id": "79937",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-na-zabjelu--79937",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-na-zabjelu--79937"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 754,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_79937",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "100 m2",
+    "Kvadratura balkona": "30 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79937_2.webp"
+  ],
+  "image_count": 21,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:01.232020+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.271450+00:00",
+  "source_html_sha256": "2258282669c59fc15c22da4d945564b465aa86c9da7e8467c0486f3b19794692",
+  "title": "Izdajem dvosoban stan na Zabjelu",
+  "description_language": "en",
+  "price_raw": "650.00€",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "advertiser_name": "Snežana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 100,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem dvosoban stan na Zabjelu",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!754",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269563144",
+      "name": "Snežana",
+      "email": null,
+      "source": "workbook:Outreach list!754"
+    }
+  ],
+  "contact_phones": [
+    "+38269563144"
+  ],
+  "phone_e164": "+38269563144",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

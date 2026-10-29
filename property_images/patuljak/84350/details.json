@@ -1,0 +1,154 @@
+{
+  "source": "patuljak",
+  "listing_id": "84350",
+  "listing_url": "https://patuljak.me/oglas/trosoban-stan-140-m2-pg--84350",
+  "listing_urls": [
+    "https://patuljak.me/oglas/trosoban-stan-140-m2-pg--84350"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 39,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84350",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Kvadratura": "140 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84350_19.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Luksuzan apartman 140 m2 sa 3 spavaće sobe, Preko Morače preko puta Hrama na mjestu gdje se spajaju Dalmatinska i Moskovska ulica.\nStan se nalazi na drugom spratu u jednom od naljepših djelova Podgorice.\n\nStan je kompletno renoviran i opremljen veoma luksuzno. Dnevna soba izuzetno komforna i prostrana sa kaminom, spojena sa trpezarijom i kuhinjom. U svim prostorijama ugrađen Daikin Inverter Multi split sistem klimatizacije.\nPosebnu draž stanu daju dvije terase na koje se izlazi iz dnevnog boravka i iz soba. Sa terasa se pruža divan pogled na Hram.\nGotovo cijeli apartman je opremljen modernim i funkcionalnim italijanskim Calligaris namještajem. Razne stolice, trpezarijski inventar, stolovi, namještaj u dnevnoj sobi, kožni kreveti u spavaćim sobama, fotelja za opuštanje, police, umjetnička ogledala i sl.\nPlakari u svim sobama. Oko 40m 2 plakara koje je radio Mirai House.\nKuhinja Ariston italijanska sa svim pratećim elementima.\nSanitarije u kupatilima opremljena uglavnom Hansgrohe brendom.\n\nBijeli hrastov parket u dnevnom boravku, sobama i hodnicima.\n\nStan posjeduje i bezbjednosni alarmni sistem sa senzorima, blindirana ulazna vrata, spuštanje roletni na prozorima daljinskim putem.\n\nKontakt telefon 067 605 130",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:09.256388+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.987654+00:00",
+  "source_html_sha256": "e045a0faaa9e1cb1c6bda6aebeecadeb7cfea0d1a8130661d7e4fae25284d286",
+  "title": "Trosoban stan 140 m2 PG",
+  "description_language": "en",
+  "price_raw": "1500.00€",
+  "price_amount": 1500,
+  "price_currency": "EUR",
+  "advertiser_name": "Stefan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "2",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 140,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Luksuzan apartman 140 m2 sa 3 spavaće sobe, Preko Morače preko puta Hrama na mjestu gdje se spajaju Dalmatinska i Moskovska ulica.Stan se nalazi na drugom spratu u jednom od naljepših djelova Podgorice.Stan je kompletno renoviran i opremljen veoma luksuzno. Dnevna soba izuzetno komforna i prostrana sa kaminom, spojena sa trpezarijom i kuhinjom. U svim prostorijama ugrađen Daikin Inverter Multi split sistem klimatizacije.Posebnu draž stanu daju dvije terase na koje se izlazi iz dnevnog boravka i iz soba. Sa terasa se pruža divan pogled na Hram.Gotovo cijeli apartman je opremljen modernim i funkcionalnim italijanskim Calligaris namještajem. Razne stolice, trpezarijski inventar, stolovi, namještaj u dnevnoj sobi, kožni kreveti u spavaćim sobama, fotelja za opuštanje, police, umjetnička ogledala i sl.Plakari u svim sobama. Oko 40m 2 plakara koje je radio Mirai House.Kuhinja Ariston italijanska sa svim pratećim elementima.Sanitarije u kupatilima opremljena uglavnom Hansgrohe brendom.Bijeli hrastov parket u dnevnom boravku, sobama i hodnicima.Stan posjeduje i bezbjednosni alarmni sistem sa senzorima, blindirana ulazna vrata, spuštanje roletni na prozorima daljinskim putem.Kontakt telefon 067 605 130",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!39",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267605130",
+      "name": "Stefan",
+      "email": null,
+      "source": "workbook:Likely agents!39"
+    }
+  ],
+  "contact_phones": [
+    "+38267605130"
+  ],
+  "phone_e164": "+38267605130",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

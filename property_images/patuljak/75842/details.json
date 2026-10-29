@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "75842",
+  "listing_url": "https://patuljak.me/oglas/tivat-kalimanj-kuca-sa-prostranim-urbanizovanim-im--75842",
+  "listing_urls": [
+    "https://patuljak.me/oglas/tivat-kalimanj-kuca-sa-prostranim-urbanizovanim-im--75842"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 180,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75842",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Tivat",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1893 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_1.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Na jednoj od najtraženijih lokacija u Tivtu, svega minut hoda od mora i šetališta u Kalimanju, prodaje se izuzetna nekretnina ukupne površine 1.893 m².\n\nCjelinu čini katastarska parcela površine 1.138 m², na kojoj se nalaze glavni objekat od 232 m², spratnosti P+1, dodatni prizemni objekat od 34 m², bazen i garaža površine 35 m², kao i još 755 m² zemljišta bez izgrađenih objekata.\n\nRijetko dostupna površina na ovoj mikrolokaciji, neposredna blizina mora, marine i centra Tivta, kao i svega nekoliko minuta vožnje do aerodroma i trajekta, ovoj nekretnini daju izuzetan stambeni i razvojni potencijal.\n\nPlanirana namjena urbanističke parcele je M1 – mješovita namjena, koja omogućava kombinovanje stanovanja i turizma, uključujući realizaciju malih porodičnih hotela kategorije najmanje 3 zvjezdice.\n\nCijena i dodatne informacije dostupne su na upit.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:11.752547+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.912309+00:00",
+  "source_html_sha256": "96164a22ba814ef94ac9085a46f78ba7e608288e6cb9a7dd71dccc54238443df",
+  "title": "TIVAT, KALIMANJ KUĆA SA PROSTRANIM URBANIZOVANIM IMANJEM",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Slavica",
+  "property_type": "land",
+  "city": "Tivat",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Na jednoj od najtraženijih lokacija u Tivtu, svega minut hoda od mora i šetališta u Kalimanju, prodaje se izuzetna nekretnina ukupne površine 1.893 m².Cjelinu čini katastarska parcela površine 1.138 m², na kojoj se nalaze glavni objekat od 232 m², spratnosti P+1, dodatni prizemni objekat od 34 m², bazen i garaža površine 35 m², kao i još 755 m² zemljišta bez izgrađenih objekata.Rijetko dostupna površina na ovoj mikrolokaciji, neposredna blizina mora, marine i centra Tivta, kao i svega nekoliko minuta vožnje do aerodroma i trajekta, ovoj nekretnini daju izuzetan stambeni i razvojni potencijal.Planirana namjena urbanističke parcele je M1 – mješovita namjena, koja omogućava kombinovanje stanovanja i turizma, uključujući realizaciju malih porodičnih hotela kategorije najmanje 3 zvjezdice.Cijena i dodatne informacije dostupne su na upit.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!180",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267416757",
+      "name": "Slavica",
+      "email": null,
+      "source": "workbook:Outreach list!180"
+    }
+  ],
+  "contact_phones": [
+    "+38267416757"
+  ],
+  "phone_e164": "+38267416757",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 1893,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

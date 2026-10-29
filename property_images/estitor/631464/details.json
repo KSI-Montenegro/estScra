@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "631464",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-631464",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-631464"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 145,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_631464",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1985",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Tavan": "true",
+    "Predsoblje": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3d87e74f-1d96-4ab2-a6f5-0e1fabb53f88-lg.webp",
+    "https://content.estitor.com/84794ec9-778a-415b-bfe1-f1588f292e25-lg.webp",
+    "https://content.estitor.com/8422116b-3071-4eeb-8975-fee84dd309a6-lg.webp",
+    "https://content.estitor.com/9bf3072d-e2da-4914-9d42-4630207581fb-lg.webp",
+    "https://content.estitor.com/a01570b7-b88a-4529-8a33-5b6c8aeb4fcf-lg.webp",
+    "https://content.estitor.com/eed87879-b559-4b77-ad42-806a3dc877fa-lg.webp",
+    "https://content.estitor.com/f8a38a44-a61a-4c06-8cc7-38bd481d6683-lg.webp",
+    "https://content.estitor.com/1dcbd237-5502-4e95-94e9-ddb3449ffefa-lg.webp",
+    "https://content.estitor.com/121e6e39-1408-4384-a063-01b4738c6831-lg.webp",
+    "https://content.estitor.com/7de818fd-e188-46b5-b9dd-f268e1cbcd94-lg.webp",
+    "https://content.estitor.com/24f581cb-1e46-4926-b6bc-293758231921-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor površine 150 m², na spratu kuće Ćubranovića, najstarije kuće u gradu, u Ulici kralja Nikole 36, u Podgorici.\nProstor je pogodan za kancelarije, kreativne studije, edukativne centre, coworking i druge poslovne i kulturne djelatnosti.\nPosebnu pogodnost predstavlja prostrana sala pogodna za organizovanje konferencija, seminara, prezentacija, predavanja i različitih poslovnih događaja.\nZahvaljujući funkcionalnom rasporedu i atraktivnoj lokaciji u centru grada, prostor pruža mogućnost prilagođavanja različitim poslovnim potrebama.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:47.605810+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.117815+00:00",
+  "source_html_sha256": "53889e5fa4ba53a7048c29707c8bf95f3321caebab40de6b0126b3ea7a7ab5b9",
+  "title": "Izdavanje, poslovni prostor, 150m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-15",
+  "price_amount": 1400,
+  "price_currency": "EUR",
+  "price_raw": "1400 EUR",
+  "area_m2": 150,
+  "rooms": 4,
+  "city": "Podgorica",
+  "street_address": "36 Kralja Nikole, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Darko Vuckovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 1985,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Tavan",
+    "Predsoblje"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor površine 150 m², na spratu kuće Ćubranovića, najstarije kuće u gradu, u Ulici kralja Nikole 36, u Podgorici.Prostor je pogodan za kancelarije, kreativne studije, edukativne centre, coworking...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!145",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263288011",
+      "name": "Darko Vuckovic",
+      "email": null,
+      "source": "workbook:Not homes!145"
+    },
+    {
+      "phone_e164": "+38263288011",
+      "name": "Darko Vuckovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263288011"
+  ],
+  "phone_e164": "+38263288011",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

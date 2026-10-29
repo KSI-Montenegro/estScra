@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "600788",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600788",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600788"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 714,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_600788",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2009",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/191ca7ad-7ba7-480d-8322-9f8687d700ec-lg.webp",
+    "https://content.estitor.com/46f7ccfc-066b-4b5f-90a5-5bdb21663ee6-lg.webp",
+    "https://content.estitor.com/1099dc89-3054-4e8e-b514-e1dbec0a4cb1-lg.webp",
+    "https://content.estitor.com/592ce579-4565-4a57-a736-69bf74346134-lg.webp",
+    "https://content.estitor.com/85e63bac-544b-422b-b2b9-c18d601327b4-lg.webp",
+    "https://content.estitor.com/65de1489-0c9c-41df-b5e7-15bb38b2b8f7-lg.webp",
+    "https://content.estitor.com/d7dad502-fbb2-47f3-9024-d4715e92012f-lg.webp",
+    "https://content.estitor.com/faf79888-9d16-42e8-bff9-5b9f72e195a8-lg.webp",
+    "https://content.estitor.com/696abbfe-6585-406c-ad70-91136b56c628-lg.webp",
+    "https://content.estitor.com/82de9202-6ae1-42af-909a-263e3c3a2bc0-lg.webp",
+    "https://content.estitor.com/c015004b-d0ef-412b-969a-dba09bea105c-lg.webp",
+    "https://content.estitor.com/ed890822-6baa-44f7-bb54-7577f3b92249-lg.webp",
+    "https://content.estitor.com/b76a5eee-ea09-4e47-8f26-f86d06fe2a8b-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se udoban i moderno opremljen stan površine 46.0 m² na atraktivnoj lokaciji u mirnom dijelu Starog Aerodroma, Podgorica.\nOvaj funkcionalan jednosoban stan (1 spavaća soba, 1 kupatilo) smješten je u prizemlju veće stambene kuće sa više jedinica za izdavanje. Nekretnina je opremljena i spremna za useljenje.\nStan posjeduje predsoblje, kompletno opremljenu kuhinju, kupatilo i spavaću sobu. Dodatni komfor obezbjeđuje klimatizacija, kablovska televizija i internet.\nLokacija je izuzetno pogodna, u neposrednoj blizini škole \"Pavle Rovinski\", pružajući mirno okruženje idealno za život. Velika prednost je privatno dvorište sa obezbijeđenim parkingom za 2+ vozila ispred objekta.\nStan je odmah useljiv. Napomena: Troškovi električne energije nisu uključeni u cijenu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:39.480951+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.979064+00:00",
+  "source_html_sha256": "8600ddb5d12b0c919397041a6dda91c8b69ed5ecf85a6dfa9e7a8658cb93da0b",
+  "title": "Izdavanje, jednosoban stan, 46m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-25",
+  "updated_date": "2026-09-03",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 46,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "14 Vlaha Bukovca, Podgorica 81101, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Miomir Kojic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 2,
+  "year_built": 2009,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se udoban i moderno opremljen stan površine 46.0 m² na atraktivnoj lokaciji u mirnom dijelu Starog Aerodroma, Podgorica.Ovaj funkcionalan jednosoban stan (1 spavaća soba, 1 kupatilo) smješten je u prizemlju već...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!714",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267025082",
+      "name": "Miomir Kojic",
+      "email": null,
+      "source": "workbook:Outreach list!714"
+    },
+    {
+      "phone_e164": "+38267025082",
+      "name": "Miomir Kojic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267025082"
+  ],
+  "phone_e164": "+38267025082",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

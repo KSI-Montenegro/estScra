@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "589591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-589591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-589591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 165,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_589591",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Dvorište": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7bf65ad-3e56-481d-a5ec-789e886c0fbb-lg.webp",
+    "https://content.estitor.com/0b55f750-32c2-416d-886d-8eec479b50e6-lg.webp",
+    "https://content.estitor.com/da1b681e-5672-46eb-a304-0be422d93659-lg.webp",
+    "https://content.estitor.com/095c0675-d07c-4062-ad95-70e39a84692c-lg.webp",
+    "https://content.estitor.com/edc7a0e5-a329-470d-97fe-f81c6a86efaa-lg.webp",
+    "https://content.estitor.com/5d39efd8-8917-4faa-81e2-894144882d7e-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se nekretnina u centru Bar.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:59.657371+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.266598+00:00",
+  "source_html_sha256": "733bda92a24960e9a02616187ff803cd39c6a53b6426192cf2b01c6d73eff9b7",
+  "title": "Izdavanje, poslovni prostor, 72m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-07",
+  "updated_date": "2026-10-03",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 72,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "H7 Mila Boskovica, Bar, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Sergej Masanovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 2,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište"
+  ],
+  "metadata_summary": "Izdaje se nekretnina u centru Bar.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!165",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268030520",
+      "name": "Sergej Masanovic",
+      "email": null,
+      "source": "workbook:Not homes!165"
+    },
+    {
+      "phone_e164": "+38268030520",
+      "name": "Sergej Masanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268030520"
+  ],
+  "phone_e164": "+38268030520",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

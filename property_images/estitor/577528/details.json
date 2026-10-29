@@ -1,0 +1,134 @@
+{
+  "source": "estitor",
+  "listing_id": "577528",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-herceg-novi/id-577528",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-herceg-novi/id-577528"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 989,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_577528",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5c2042d4-df21-4bff-95a0-278dec12c4db-lg.webp",
+    "https://content.estitor.com/49dcc33c-fcc9-46a0-8d9c-5a73ffa66b90-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetna prostrana garaža od 15.0 m² u Sutorini, Herceg Novi!\n\nOva vrhunski pozicionirana garaža nalazi se direktno uz magistralu Igalo-Sutorina, obezbjeđujući Vam neprocjenjiv lak pristup i maksimalnu praktičnost. Idealno je rješenje za sigurno parkiranje Vašeg vozila ili kao praktičan skladišni prostor.\n\nNjena lokacija garantuje potpunu zaštitu od vremenskih nepogoda i nudi dodatnu sigurnost za Vašu imovinu. Bez obzira da li ste rezident, sezonski posjetilac ili Vam je jednostavno potreban pouzdan prostor za odlaganje stvari, ova garaža ispunjava sve kriterijume po pristupačnoj cijeni.\n\nNe propustite priliku da osigurate sebi funkcionalan i dobro lociran prostor.\n\nZa sve dodatne informacije i dogovor oko pregleda, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:36.224267+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.523784+00:00",
+  "source_html_sha256": "8cb7ca4808fb05a4230a37c0bc91f683c1a3e4a2ff98ede6ab8de622ad9ec225",
+  "title": "Izdavanje, parking/garaža, 15m², Sutorina, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-08",
+  "updated_date": "2026-09-20",
+  "price_amount": 90,
+  "price_currency": "EUR",
+  "price_raw": "90 EUR",
+  "city": "Herceg Novi",
+  "street_address": "Unnamed Road, Sutorina, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Marko Marko",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdaje se izuzetna prostrana garaža od 15.0 m² u Sutorini, Herceg Novi! Ova vrhunski pozicionirana garaža nalazi se direktno uz magistralu Igalo-Sutorina, obezbjeđujući Vam neprocjenjiv lak pristup i maksimalnu prakti...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!989",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268333231",
+      "name": "Marko Marko",
+      "email": null,
+      "source": "workbook:Outreach list!989"
+    },
+    {
+      "phone_e164": "+38268333231",
+      "name": "Marko Marko",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268333231"
+  ],
+  "phone_e164": "+38268333231",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

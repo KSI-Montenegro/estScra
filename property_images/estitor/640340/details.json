@@ -1,0 +1,116 @@
+{
+  "source": "estitor",
+  "listing_id": "640340",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-640340",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-640340"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 54,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_640340",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Šumsko"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/507ff82a-e6d3-429e-8128-3129746bcdb7-lg.webp",
+    "https://content.estitor.com/862dc6cd-90e4-4633-89ff-984927be93f5-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Prodaje se zemljište površine 48.535 m² (oko 4,85 hektara), u katastarskoj opštini Vrbica, na svega 30 minuta vožnje od Podgorice.\nZemljište ima potencijal za izgradnju solarne elektrane, razvoj etno sela ili drugu namjenu, u skladu s važećim planskim uslovima.\nVlasništvo 1/1.\nZa više informacija",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:42.133190+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.780857+00:00",
+  "source_html_sha256": "4bd881b288f39785940007b10103678b1a37739e1a950662a65792065e1cc4b1",
+  "title": "Prodaja, plac, 48535m², Kuči, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-21",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "V P",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Prodaje se zemljište površine 48.535 m² (oko 4,85 hektara), u katastarskoj opštini Vrbica, na svega 30 minuta vožnje od Podgorice.Zemljište ima potencijal za izgradnju solarne elektrane, razvoj etno sela ili drugu nam...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

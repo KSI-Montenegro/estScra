@@ -1,0 +1,110 @@
+{
+  "source": "patuljak",
+  "listing_id": "84854",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-garsonjera-preko-morace-ul-moskovska--84854",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-garsonjera-preko-morace-ul-moskovska--84854"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 68,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84854",
+  "field_sources": {
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {},
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "unavailable_redirect",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": false,
+  "source_page_captured_at": "2026-10-29T19:22:29.000526+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.309941+00:00",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!68",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269581585",
+      "name": "Rajna",
+      "email": null,
+      "source": "workbook:Likely agents!68"
+    }
+  ],
+  "contact_phones": [
+    "+38269581585"
+  ],
+  "phone_e164": "+38269581585",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [
+    "title",
+    "description_original",
+    "deal_type",
+    "property_type",
+    "city",
+    "price",
+    "area",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "source_unavailable",
+  "title": null,
+  "deal_type": null,
+  "property_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "city": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "advertiser_name": null,
+  "amenities": null
+}

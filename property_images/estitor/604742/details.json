@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "604742",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-pljevlja/id-604742",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-pljevlja/id-604742"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 69,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_604742",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9c64679c-eb29-488a-85c8-6db0f9423e8d-lg.webp",
+    "https://content.estitor.com/2f3fb56c-96d0-4a50-b977-f1208bdb6364-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdajem višenamjenski poslovni prostor 42 m2 + 42 m2. Prostor posjeduje 3 parking mjesta. Obezbijeđeno grijanje i video nadzor. Udaljen od centra grada 600m, u jednoj od najprometnijih ulica u gradu. Izdaje se na duži vremenski period.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:06.920697+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.585992+00:00",
+  "source_html_sha256": "27be6c45acf98ef624bb1a18fa1d538b50d7e3aa5757e9ef9d1cc3589c1f4f0d",
+  "title": "Izdavanje, poslovni prostor, 84m², Pljevlja, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-30",
+  "updated_date": "2026-08-30",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 84,
+  "bathrooms": 1,
+  "city": "Crna Gora",
+  "street_address": "Narodne revolucije 79",
+  "country": "ME",
+  "advertiser_name": "Božo Vuković",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "year_built": 2015,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdajem višenamjenski poslovni prostor 42 m2 + 42 m2. Prostor posjeduje 3 parking mjesta. Obezbijeđeno grijanje i video nadzor. Udaljen od centra grada 600m, u jednoj od najprometnijih ulica u gradu. Izdaje se na duži...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!69",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268223542",
+      "name": "Božo Vuković",
+      "email": null,
+      "source": "workbook:Not homes!69"
+    },
+    {
+      "phone_e164": "+38268223542",
+      "name": "Božo Vuković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268223542"
+  ],
+  "phone_e164": "+38268223542",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

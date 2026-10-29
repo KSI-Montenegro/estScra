@@ -1,0 +1,49 @@
+# Izdavanje, poslovni prostor, 46m², Babilonija, Budva
+
+Source: https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-627119
+
+- Deal: rent
+- Property type: commercial
+- Published price: 700 EUR
+- Price amount: 700
+- Currency: EUR
+- City: Budva
+- Address: Babilonija 58, budva
+- Area (m²): 46
+- Furnishing: Ne
+- Parking: Ispred objekta
+
+## Original listing description
+
+Izdaje se poslovni prostor – centar Budve, preko puta nove osnovne škole
+Izdaje se poslovni prostor površine 46 m², na odličnoj i frekventnoj lokaciji u centru Budve, neposredno preko puta nove osnovne škole.
+Prostor je do oktobra bio u funkciji škole programiranja, a reklama škole i dalje stoji na objektu, što dodatno daje vidljivost lokalu.
+Zahvaljujući lokaciji i direktnom pristupu sa ulice, prostor je pogodan za različite djelatnosti, posebno za brzu hranu, manji ugostiteljski objekat, kancelariju, školu, studio, salon ili sličnu djelatnost.
+Karakteristike:
+Površina: 46 m²
+
+Centar Budve
+
+Preko puta nove osnovne škole
+
+Direktan prilaz sa ulice
+
+1 parking mjesto
+
+Odlična vidljivost i pristupačnost
+
+Pogodan za različite poslovne namjene
+
+Odlična prilika za poslovanje na jednoj od atraktivnijih lokacija u Budvi.
+Za više informacija i dogovor oko gledanja prostora
+
+## Published amenities
+
+- Klimatizacija
+- Internet
+- Dvorište
+- Telefon
+- Kablovska
+- Ostava
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "617176",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617176",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 873,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617176",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ff4397db-5187-4d5f-bcd6-0fb5214f863f-lg.webp",
+    "https://content.estitor.com/2d33776b-e1a2-4a77-a655-e11bf168ba25-lg.webp",
+    "https://content.estitor.com/8e3244f5-a5f7-4495-b7ef-c82c7145f7aa-lg.webp",
+    "https://content.estitor.com/a2f2b41c-9a7d-4c4f-a1ff-6d56cee9c722-lg.webp",
+    "https://content.estitor.com/15d9d506-409a-47ee-8e54-70b02b9088b6-lg.webp",
+    "https://content.estitor.com/ca23015d-a42b-4c43-bdd6-33313d19c86d-lg.webp",
+    "https://content.estitor.com/5afa217b-4620-4cb5-84b9-98f753908ad6-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Idealan dvosoban stan za život i rad od kuće – Zabjelo\nNa odličnoj i veoma praktičnoj lokaciji na Zabjelu, u blizini La Colline, izdaje se funkcionalan i prijatan dvosoban stan, smješten u mirnom naselju idealnom za svakodnevni život.\nLokacija: Zabjelo – kod La Colline\nU neposrednoj blizini nalaze se osnovna škola, Hard Diskont Laković i Đumbo, što lokaciju čini izuzetno praktičnom za svakodnevne potrebe.\nStan je posebno pogodan za parove, zaposlene osobe i sve koji žele da spoje kvalitetan životni prostor sa mogućnošću rada od kuće.\nU cijenu su uključene sve komunalije, internet i kablovska televizija, dok se električna energija plaća posebno, prema potrošnji.\n\nZabjelo'da yaam ve home office için ideal 2 odal daire\nLa Colline yaknlarnda, Zabjelo'da çok iyi ve oldukça pratik bir konumda, sakin bir mahallede bulunan kullanl ve konforlu 2 odal daire kiralktr.\nKonum: Zabjelo – La Colline yaknlar\nDairenin yaknnda ilkokul, Hard Diskont Laković ve Đumbo bulunmaktadr.\nDaire özellikle çiftler, çalan kiiler ve yaam alann home office ile birletirmek isteyenler için uygundur.\nFiyata tüm ortak giderler, internet ve kablolu TV dahildir. Elektrik faturas ise tüketime göre ayrca ödenmektedir.\n\nИдеальная двухкомнатная квартира для жизни и работы из дома — Забьело\nСдаётся уютная и функциональная двухкомнатная квартира в отличном районе Забьело, недалеко от La Colline.\nРасположение: Забьело — район La Colline\nКвартира расположена в тихом и спокойном жилом районе. В непосредственной близости находятся начальная школа, Hard Diskont Laković и Đumbo.\nКвартира особенно подходит для пары, работающих специалистов и тех, кто хочет совмещать комфортное проживание с возможностью работать из дома.\nВ стоимость включены все коммунальные расходы, интернет и кабельное телевидение. Электроэнергия оплачивается отдельно в соответствии с фактическим потреблением.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:25.746939+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.535952+00:00",
+  "source_html_sha256": "f022364a29195c1974ebb2583f64f4c7d62b59b1ec88f939ca61cccaa5a1b547",
+  "title": "Izdavanje, dvosoban stan, 65m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-15",
+  "updated_date": "2026-10-14",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "AVNOJ-a, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Neno D",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Idealan dvosoban stan za život i rad od kuće – ZabjeloNa odličnoj i veoma praktičnoj lokaciji na Zabjelu, u blizini La Colline, izdaje se funkcionalan i prijatan dvosoban stan, smješten u mirnom naselju idealnom za sv...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!873",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268158708",
+      "name": "Neno D",
+      "email": null,
+      "source": "workbook:Outreach list!873"
+    },
+    {
+      "phone_e164": "+38268158708",
+      "name": "Neno D",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268158708"
+  ],
+  "phone_e164": "+38268158708",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

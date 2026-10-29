@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "640702",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640702",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640702"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 909,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_640702",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "7. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e0dcef37-6962-49ac-9858-2fd5b5f43988-lg.webp",
+    "https://content.estitor.com/52f18e16-6ad9-471d-97ce-43976669b236-lg.webp",
+    "https://content.estitor.com/e361f501-759f-4881-acf8-120c19b92b73-lg.webp",
+    "https://content.estitor.com/5c0a402b-493e-4492-be66-902b5682d9b5-lg.webp",
+    "https://content.estitor.com/2d529cb8-6027-4940-81f8-5a4ac70146bd-lg.webp",
+    "https://content.estitor.com/6fe6828d-dfa6-4ee3-bc7a-f75ae5d74bcc-lg.webp",
+    "https://content.estitor.com/546ca860-f76c-47c4-8e81-000fced4777a-lg.webp",
+    "https://content.estitor.com/75853afa-2ccb-4623-adc9-dfe65a980f05-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderno uređen i funkcionalan jednosoban stan površine 50 m², smješten na sedmom spratu stambene zgrade u Master Kvartu.\nStan se sastoji od dnevnog boravka, kuhinje, trpezarije, jedne spavaće sobe, hodnika, kupatila i terase.\nObjekat posjeduje uređeno dvorište, dok je parking dostupan ispred zgrade.\nNalazi se na odličnoj lokaciji, u neposrednoj blizini svih neophodnih sadržaja, uključujući markete, restorane, kafiće i tržne centre, što ga čini idealnim izborom za udoban i praktičan svakodnevni život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:49.630464+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.935283+00:00",
+  "source_html_sha256": "9e4f9afa7b24033d5fbcca0b4f9776c6a801ba542ce6a566700fcff1dce07a93",
+  "title": "Izdavanje, jednosoban stan, 50m², Master Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Danilo Bozovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "7. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderno uređen i funkcionalan jednosoban stan površine 50 m², smješten na sedmom spratu stambene zgrade u Master Kvartu.Stan se sastoji od dnevnog boravka, kuhinje, trpezarije, jedne spavaće sobe, hodnika, k...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!909",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267371343",
+      "name": "Danilo Bozovic",
+      "email": null,
+      "source": "workbook:Outreach list!909"
+    },
+    {
+      "phone_e164": "+38267371343",
+      "name": "Danilo Bozovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267371343"
+  ],
+  "phone_e164": "+38267371343",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

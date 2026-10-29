@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "276954",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-276954",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-276954"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 960,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_276954",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f49a0c02-24a1-4e13-925b-919dea5df392-lg.webp",
+    "https://content.estitor.com/2b96fd20-b7fc-4973-8263-d9bc47d07063-lg.webp",
+    "https://content.estitor.com/a5bb16e9-a665-45d3-9fab-d1b412515aa3-lg.webp",
+    "https://content.estitor.com/5d08bfc7-7ddb-464a-97a7-16a5f4f40f5e-lg.webp",
+    "https://content.estitor.com/fdad3fc1-a929-4b5b-b0fe-1d3199f782da-lg.webp",
+    "https://content.estitor.com/dc535b4c-d9ad-47ff-88aa-74e57ac25de0-lg.webp",
+    "https://content.estitor.com/68b05a17-b177-4271-bec2-85babad31613-lg.webp",
+    "https://content.estitor.com/3b337a51-acd7-48d8-ad06-45d6b1493f4e-lg.webp",
+    "https://content.estitor.com/3ed1f475-21f1-4f00-9ac3-5c87b8057263-lg.webp",
+    "https://content.estitor.com/66941ec2-ae05-4c2b-9193-a5139e5be38f-lg.webp",
+    "https://content.estitor.com/e8924652-4229-4ea6-b044-fde9fbc19467-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem lijepo namjesten stan na studentskom trgu iznad kafea Langolo, moze i ucenicama/studentkinjama.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:23.325584+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.322984+00:00",
+  "source_html_sha256": "1837fd552dba44be9788d08bbfcd9e0b3ba4cb0151c4be2ac70760a74bb6bdba",
+  "title": "Izdavanje, jednosoban stan, 55m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2024-08-27",
+  "updated_date": "2026-09-05",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "country": "ME",
+  "advertiser_name": "Sanja Mitrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Iznajmljujem lijepo namjesten stan na studentskom trgu iznad kafea Langolo, moze i ucenicama/studentkinjama.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!960",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267569234",
+      "name": "Sanja Mitrovic",
+      "email": null,
+      "source": "workbook:Outreach list!960"
+    },
+    {
+      "phone_e164": "+38267569234",
+      "name": "Sanja Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267569234"
+  ],
+  "phone_e164": "+38267569234",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

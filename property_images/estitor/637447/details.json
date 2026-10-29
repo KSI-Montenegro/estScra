@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "637447",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637447",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637447"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 108,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_637447",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c1d68e9c-fdac-47b1-9acc-aa7f48227ed2-lg.webp",
+    "https://content.estitor.com/1f157c90-008f-4218-9cd7-5a77cf35e6fe-lg.webp",
+    "https://content.estitor.com/52f3ab9c-938e-4d90-a42f-f6977dc9f9d3-lg.webp",
+    "https://content.estitor.com/7b5c64cc-8198-4eb3-b5a9-2e4aba7a5a43-lg.webp",
+    "https://content.estitor.com/2b54ddae-6a29-4ef3-b48e-7e475e0b48a2-lg.webp",
+    "https://content.estitor.com/51436f67-7b83-4a05-88ae-6a670f724949-lg.webp",
+    "https://content.estitor.com/9fa71aac-56fe-4d99-9c1c-ea2392b1699e-lg.webp",
+    "https://content.estitor.com/4f0e27b6-53b0-4e0c-872d-2771f5cdf671-lg.webp",
+    "https://content.estitor.com/abcaac13-0aee-4ff1-900a-71655e8dd322-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan u PMTR residence.\nSmesten u centru grada.\nIzdaje se na duzi vremenski period (min. Godinu dana).\nModerno i kompletno opremljen, izuzetno pazljivo dizajniran te pruza maksimalnu udobnost uz vrhunsku lokaciju.\nOpremljeno maksimalno, Masina za ves, Klima uredjaj, masina za posudje.\nBazen u letnjoj sezoni dostupan stanarima.\n\nOtplata:\nPrva, poslednja + depozit",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:56.971827+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.725958+00:00",
+  "source_html_sha256": "a0301bc32378a0ec952c9189402b46c6e5a8e63641dfee7307d61eac200f6fec",
+  "title": "Izdavanje, jednosoban stan, 41m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-16",
+  "updated_date": "2026-10-16",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 41,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "10 Bulevar 24. Novembra, Bar 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Andjela Novakovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Jednosoban stan u PMTR residence.Smesten u centru grada.Izdaje se na duzi vremenski period (min. Godinu dana).Moderno i kompletno opremljen, izuzetno pazljivo dizajniran te pruza maksimalnu udobnost uz vrhunsku lokaci...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!108",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263449180",
+      "name": "Andjela Novakovic",
+      "email": null,
+      "source": "workbook:Likely agents!108"
+    },
+    {
+      "phone_e164": "+38263449180",
+      "name": "Andjela Novakovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263449180"
+  ],
+  "phone_e164": "+38263449180",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

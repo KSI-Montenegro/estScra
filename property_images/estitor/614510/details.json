@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "614510",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-614510",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-614510"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 695,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_614510",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/879ffa09-2d62-4a1e-a860-66edecbc6471-lg.webp",
+    "https://content.estitor.com/1b6310a5-17e2-4274-a0e8-06badf234562-lg.webp",
+    "https://content.estitor.com/f74a740a-e978-4a08-896e-f778290222ab-lg.webp",
+    "https://content.estitor.com/2dd397c1-6b81-42ba-a05d-3e05c86eb402-lg.webp",
+    "https://content.estitor.com/3a9a9712-ee4e-4edb-9a07-746a9668269e-lg.webp",
+    "https://content.estitor.com/66690927-7af8-49a6-99ec-45fd6b7a9f50-lg.webp",
+    "https://content.estitor.com/db2a3c37-e1b3-471c-9f68-28e5bce49ce0-lg.webp",
+    "https://content.estitor.com/02d2645b-98af-420b-b7df-3955748dcbaa-lg.webp",
+    "https://content.estitor.com/7e9417ba-2adf-40c1-a1f9-082d0780c0eb-lg.webp",
+    "https://content.estitor.com/b95e5435-c1c2-4c66-a956-51d83c80bf41-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem potpuno opremljen dvosoban stan, 55 m², na drugom spratu (potkrovlje) u sklopu porodične kuće, dostupno jedno parking mjesto. Miran dio Zabjela, u blizini Vodovoda.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:29.962509+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.875361+00:00",
+  "source_html_sha256": "6877fdc83a6f24365fd9946d79822c93a06eaad185a7f7cffcc9164f2bab2c2e",
+  "title": "Izdavanje, dvosoban stan, 55m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-11",
+  "updated_date": "2026-09-11",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 55,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "B. B.",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 0,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem potpuno opremljen dvosoban stan, 55 m², na drugom spratu (potkrovlje) u sklopu porodične kuće, dostupno jedno parking mjesto. Miran dio Zabjela, u blizini Vodovoda.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!695",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269155037",
+      "name": "B. B.",
+      "email": null,
+      "source": "workbook:Outreach list!695"
+    },
+    {
+      "phone_e164": "+38269155037",
+      "name": "B. B.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269155037"
+  ],
+  "phone_e164": "+38269155037",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

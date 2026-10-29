@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "610769",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-610769",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-610769"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 843,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_610769",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/18bd1d00-28e9-44be-ad06-59afe837facc-lg.webp",
+    "https://content.estitor.com/7b82056a-7d5e-44cd-aef8-95756d77d34a-lg.webp",
+    "https://content.estitor.com/424dea82-2ef4-4417-afc0-dd86bfd76e67-lg.webp",
+    "https://content.estitor.com/0e7ec931-d7ef-4848-841e-607e6b3e42d2-lg.webp",
+    "https://content.estitor.com/aea45bab-7989-47f8-b73b-6aa82c99f449-lg.webp",
+    "https://content.estitor.com/8dccd9cb-6eee-43c6-a067-6188be10d3ef-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Iznajmljuje se prostran i udoban jednosoban stan površine 68.0 m² u mirnom dijelu Petrovca, Budva. Ovaj kompletno opremljen stan pruža sve što je potrebno za komforan život.\nStan se sastoji od jedne prostrane spavaće sobe, udobnog dnevnog boravka, funkcionalne kuhinje i jednog kupatila. U potpunosti je opremljen modernim namještajem i svim neophodnim uređajima, spreman za useljenje bez dodatnih ulaganja.\nVelika prednost je obezbijeđen parking ispred objekta, što čini svakodnevicu izuzetno praktičnom. Lokacija u Petrovcu nudi mir i privatnost, uz istovremenu blizinu gradskih sadržaja i predivnih plaža, idealno za opušten život.\nOvaj atraktivan stan je dostupan za najam do 1. juna, predstavljajući idealnu priliku za kvalitetan i udoban boravak prije početka ljetnje turističke sezone.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:04.827264+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.256588+00:00",
+  "source_html_sha256": "b65fd9ad491ac204b462fc583bad13cc3878e705236e05931ade0caacf410cc1",
+  "title": "Izdavanje, jednosoban stan, 68m², Petrovac, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-05",
+  "updated_date": "2026-09-05",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 68,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "21 Nika Anđusa, Petrovac, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Danka Markovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Iznajmljuje se prostran i udoban jednosoban stan površine 68.0 m² u mirnom dijelu Petrovca, Budva. Ovaj kompletno opremljen stan pruža sve što je potrebno za komforan život.Stan se sastoji od jedne prostrane spavaće s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!843",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269010763",
+      "name": "Danka Markovic",
+      "email": null,
+      "source": "workbook:Outreach list!843"
+    },
+    {
+      "phone_e164": "+38269010763",
+      "name": "Danka Markovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269010763"
+  ],
+  "phone_e164": "+38269010763",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

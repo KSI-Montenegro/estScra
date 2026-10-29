@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "45217",
+  "listing_url": "https://patuljak.me/oglas/prodaja-poslovni-prostor-101m2-blok-9-podgorica--45217",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-poslovni-prostor-101m2-blok-9-podgorica--45217"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 113,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_45217",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!113:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Blok 9",
+    "Broj prostorija": "3",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "Primarna orijentacija": "Jugoistok",
+    "Stambena kvadratura": "101 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45217_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "U ponudi je poslovni prostor površine 101 m², smješten u atraktivnom dijelu Bloka IX. Prostor je koncipiran kao dvoetažna cjelina, sa unutrašnjim stepenicama koje povezuju prizemlje i suteren.\nU prizemnom dijelu (33 m²) nalazi se otvorena radna zona, uz čajnu kuhinju i toalet, dok suteren površine 68 m² čine dvije zasebne prostorije koje pružaju mogućnost različitih organizacionih rješenja, u skladu sa potrebama budućeg korisnika.\nZahvaljujući istočnoj orijentaciji, prostor je prijatan i osvijetljen prirodnim svjetlom tokom jutra. Fleksibilan raspored i povoljna lokacija omogućavaju širok spektar namjena — od administrativnih i prodajnih djelatnosti, preko uslužnih aktivnosti, do pomoćnog ili skladišnog prostora.\n\nNekretnina je idealna kako za samostalne preduzetnike, tako i za investitore koji traže funkcionalan prostor sa dobrim potencijalom za dugoročno izdavanje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:29.781042+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.883374+00:00",
+  "source_html_sha256": "eb6a4c36e08e9a97327ef56f562a6dbdd30216e6dd4b8193d9835901b405cce9",
+  "title": "Prodaja - Poslovni prostor, 101m2, Blok 9, Podgorica",
+  "description_language": "en",
+  "price_raw": "200000.00€",
+  "price_amount": 200000,
+  "price_currency": "EUR",
+  "advertiser_name": "Danijela",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Blok 9",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 101,
+  "amenities": [],
+  "metadata_summary": "U ponudi je poslovni prostor površine 101 m², smješten u atraktivnom dijelu Bloka IX. Prostor je koncipiran kao dvoetažna cjelina, sa unutrašnjim stepenicama koje povezuju prizemlje i suteren.U prizemnom dijelu (33 m²) nalazi se otvorena radna zona, uz čajnu kuhinju i toalet, dok suteren površine 68 m² čine dvije zasebne prostorije koje pružaju mogućnost različitih organizacionih rješenja, u skladu sa potrebama budućeg korisnika.Zahvaljujući istočnoj orijentaciji, prostor je prijatan i osvijetljen prirodnim svjetlom tokom jutra. Fleksibilan raspored i povoljna lokacija omogućavaju širok spektar namjena — od administrativnih i prodajnih djelatnosti, preko uslužnih aktivnosti, do pomoćnog ili skladišnog prostora.Nekretnina je idealna kako za samostalne preduzetnike, tako i za investitore koji traže funkcionalan prostor sa dobrim potencijalom za dugoročno izdavanje.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!113",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267057666",
+      "name": "Danijela",
+      "email": null,
+      "source": "workbook:Not homes!113"
+    }
+  ],
+  "contact_phones": [
+    "+38267057666"
+  ],
+  "phone_e164": "+38267057666",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

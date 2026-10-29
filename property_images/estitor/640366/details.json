@@ -1,0 +1,115 @@
+{
+  "source": "estitor",
+  "listing_id": "640366",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-640366",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-640366"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 49,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_640366",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/983cbfbd-2263-442c-b8d0-a69a3a45b2e1-lg.webp",
+    "https://content.estitor.com/8588f3ac-a588-411d-a152-c4a26ef367fc-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Predstavljamo izvanrednu investicionu priliku u srcu crnogorskog primorja! Na prodaju je atraktivna urbanistička parcela površine 5.682 m², smještena u pitoresknom selu Zagora, opština Kotor.\n\nOva jedinstvena lokacija, u okviru DUP-a Nerin, nosi oznaku T2 – turistička namjena, što je čini savršenom za razvoj luksuznih turističkih sadržaja. Parcela nudi otvoreni pogled na more, pružajući spektakularne pejzaže i garantujući neponovljiv doživljaj budućim posjetiocima.\n\nPristup parceli je izuzetan, sa izlazom na put sa gornje i donje strane. Posebno je značajno što je gornji put planski predviđen za povezivanje širokom saobraćajnicom prema Bigovi, što dodatno povećava vrijednost i pristupačnost lokacije. Potencijal za razvoj sofisticiranog turističkog kompleksa je ogroman, u potpunosti u skladu sa važećim planskim dokumentom i urbanističkim parametrima.\n\nOvo je rijetka šansa za investitore koji traže zemljište sa dominantnim pogledom na otvoreno more i izuzetnim potencijalom za razvoj značajnog turističkog projekta na jednoj od najpoželjnijih lokacija u Crnoj Gori. Zahtjev za izdavanje urbanističko-tehničkih uslova (UTU) je predat, što olakšava početak realizacije vašeg projekta.\n\nNe propustite priliku da postanete vlasnik dijela predivne Zagore i kreirate budućnost turizma!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:39.950643+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.754513+00:00",
+  "source_html_sha256": "23975c794fa675c93c679f45a7ba02b6d0bcd0660f90bc0db2be99ee61f68d13",
+  "title": "Prodaja, plac, 5682m², Zagora, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 909120,
+  "price_currency": "EUR",
+  "price_raw": "909120 EUR",
+  "city": "Kotor",
+  "street_address": "Neimenovani Put, Zagora, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sladjana Sucic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Predstavljamo izvanrednu investicionu priliku u srcu crnogorskog primorja! Na prodaju je atraktivna urbanistička parcela površine 5.682 m², smještena u pitoresknom selu Zagora, opština Kotor. Ova jedinstvena lokacija,...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

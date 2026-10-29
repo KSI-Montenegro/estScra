@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "299093",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-299093",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-299093"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 311,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_299093",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Starogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/903c16e4-542a-47a4-9aa2-4fc8320bc7a7-lg.webp",
+    "https://content.estitor.com/b4bc0eeb-d20f-4eba-9b3c-848716549170-lg.webp",
+    "https://content.estitor.com/32a1ec1c-7b2d-4034-8ca5-a6d922e3a858-lg.webp",
+    "https://content.estitor.com/896ea5a1-6fbb-42f7-abe0-0d9696a402e7-lg.webp",
+    "https://content.estitor.com/278ef667-c679-482c-856b-9e01f4984f63-lg.webp",
+    "https://content.estitor.com/7289efe1-d58b-4de8-a5cd-cb67d1a4c9f1-lg.webp",
+    "https://content.estitor.com/13c0ba3e-8130-4e29-a650-9aa4acbd9a8e-lg.webp",
+    "https://content.estitor.com/7feb4b19-0978-4404-b0d8-e8417d2f7926-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Komplet opremljen studio na nekolliko koraka od Porto Novi Resort.\n\nStan je pogodan za mirne osobe i izdaje se na duze vrijeme uz ugovor.\n\nUslovi:\n- + rezije\n-prva i zadnja kirija",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:16.956032+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.728353+00:00",
+  "source_html_sha256": "8f019aefdca65d530b11710274a2463e28c5e4babe062336744b7fd601e42509",
+  "title": "Izdavanje, jednosoban stan, 33m², Kumbor, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2024-10-17",
+  "updated_date": "2026-10-09",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 33,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Nemanja K",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Starogradnja"
+  ],
+  "metadata_summary": "Komplet opremljen studio na nekolliko koraka od Porto Novi Resort.Stan je pogodan za mirne osobe i izdaje se na duze vrijeme uz ugovor.Uslovi:- + rezije-prva i zadnja kirija",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!311",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267040375",
+      "name": "Nemanja K",
+      "email": null,
+      "source": "workbook:Outreach list!311"
+    },
+    {
+      "phone_e164": "+38267040375",
+      "name": "Nemanja K",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267040375"
+  ],
+  "phone_e164": "+38267040375",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

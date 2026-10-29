@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "458956",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-458956",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-458956"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 908,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_458956",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9f6b8817-4368-4dd6-aae8-ff9566c00fb5-lg.webp",
+    "https://content.estitor.com/b0790935-5aee-428c-8014-f1f30e79f3df-lg.webp",
+    "https://content.estitor.com/b8be67aa-4e03-434c-90b4-272439f86d45-lg.webp",
+    "https://content.estitor.com/e276f9ab-a4fb-4379-8548-ba2967908d0c-lg.webp",
+    "https://content.estitor.com/b91027c0-6cdb-4aca-a0b8-e0a7011e9fcc-lg.webp",
+    "https://content.estitor.com/72b3bf9c-6280-4a26-a6a3-26b0d60e7fb6-lg.webp",
+    "https://content.estitor.com/d3d25ab3-b6a6-4717-b0ca-080b11a6815d-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban neuseljivan luksuzno opremljen stan od 68 kvadrata u ulici 4. jula. Stan je pozicioniran u zgradi Signum hotela. Potpuno je namjesten i posjeduje smart sistem, kao i garazno mjesto i dvije velike terase. Stan se izdaje na duzi period uz obavezan ugovor na godinu dana, kao i prvu mjesecnu kiriju i depozit. U stanu nije dozvoljeno drzati kucne ljubimce.\n\nA brand-new, fully furnished two-bedroom luxury apartment (68 m²) is available for rent on 4. Jula Street, within the Signum Hotel building. The apartment features a smart home system, a private garage space, and two spacious terraces.\nIt is offered for long-term rental only, with a minimum one-year contract. The first month’s rent and a security deposit are required upon signing. Pets are not allowed.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:48.908222+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.923350+00:00",
+  "source_html_sha256": "abe094761b3ca120858663654375e2059312dc0894251c36b74a030ceb1a6715",
+  "title": "Izdavanje, dvosoban stan, 68m², Pobrežje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-18",
+  "updated_date": "2026-10-25",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 68,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ana Bozovicvalenzuela",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Istok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se dvosoban neuseljivan luksuzno opremljen stan od 68 kvadrata u ulici 4. jula. Stan je pozicioniran u zgradi Signum hotela. Potpuno je namjesten i posjeduje smart sistem, kao i garazno mjesto i dvije velike te...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!908",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269320533",
+      "name": "Ana Bozovicvalenzuela",
+      "email": null,
+      "source": "workbook:Outreach list!908"
+    },
+    {
+      "phone_e164": "+38269320533",
+      "name": "Ana Bozovicvalenzuela",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269320533"
+  ],
+  "phone_e164": "+38269320533",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

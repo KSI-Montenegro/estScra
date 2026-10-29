@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "81937",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-45-m-vezirov-most-pod--81937",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-45-m-vezirov-most-pod--81937"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 21,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81937",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!21:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Vezirov most",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "Prizemlje",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "46 m2"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 46,
+      "workbook_value": 45,
+      "source": "workbook:Outreach list!21"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_3.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Vezirov most, Ulica Velise Mugose 10\nNa samo nekoliko minuta od centra grada i u neposrednoj blizini Gorice, ovaj elegantno uređen jednosoban stan od 46 m² pruža sve što je potrebno za kvalitetan i savremen život.\n~ Kompletno namješten\n~ Kvalitetan namještaj rađen po mjeri\n~ Parking za stanare zgrade\n\nCijena: 140.000€\n\nKontakt telefon: +382 67 744 128",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:44.125978+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.897494+00:00",
+  "source_html_sha256": "68be4fbbd138a73e7729db4ca0c3d7f5d921517f95a5b29e54962a43994f9e06",
+  "title": "Na prodaju jednosoban stan 45 m², Vezirov most, Podgorica",
+  "description_language": "en",
+  "price_raw": "140000.00€",
+  "price_amount": 140000,
+  "price_currency": "EUR",
+  "advertiser_name": "Nikola",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Vezirov most",
+  "floor_raw": "Prizemlje",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 46,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": " Vezirov most, Ulica Velise Mugose 10Na samo nekoliko minuta od centra grada i u neposrednoj blizini Gorice, ovaj elegantno uređen jednosoban stan od 46 m² pruža sve što je potrebno za kvalitetan i savremen život.~ Kompletno namješten~ Kvalitetan namještaj rađen po mjeri~ Parking za stanare zgradeCijena: 140.000€Kontakt telefon: +382 67 744 128",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!21",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267744128",
+      "name": "Nikola",
+      "email": null,
+      "source": "workbook:Outreach list!21"
+    }
+  ],
+  "contact_phones": [
+    "+38267744128"
+  ],
+  "phone_e164": "+38267744128",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

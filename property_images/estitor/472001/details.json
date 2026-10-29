@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "472001",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-472001",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-472001"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 243,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_472001",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2016",
+    "Adresa": "4. proleterske bb"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ba3da90e-b8a7-4fa6-bccb-786851e515e5-lg.webp",
+    "https://content.estitor.com/f16c7759-5006-472e-bf9b-5e87f7c6cf04-lg.webp",
+    "https://content.estitor.com/dd3e6f3d-d0cc-4645-a41d-b7a9b3cde21a-lg.webp",
+    "https://content.estitor.com/aca2de91-5486-4894-9be0-5d1ecd018962-lg.webp",
+    "https://content.estitor.com/74461699-c9fa-4c08-8adb-2803b2be9df3-lg.webp",
+    "https://content.estitor.com/8ed05bca-3116-4d74-9a01-67d598bf8ada-lg.webp",
+    "https://content.estitor.com/4f751116-8ac4-4ad2-9c62-64234b9cf7fe-lg.webp",
+    "https://content.estitor.com/f0dd7050-a087-4426-bfac-c1326e4f1ac3-lg.webp",
+    "https://content.estitor.com/3c8e1fce-14a1-40b3-9713-cf0ce75f9d11-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se garsonjera u budvanskom naselju Lazi, odmah pored Hdl Lakovic hipermarketa. Sastoji se od jedne prostorije koja obuhvata dnevni boravak, kuhinju i spavaci dio, kupatila i terase.\nGarsonjera je kompletno opremljena i spremna za useljavanje od 15.10. Nalazi se na 2. spratu zgrade koja ima lift a u neposrednoj blizini se nalaze marketi, restorani i slicni sadrzaji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:43.058919+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.302733+00:00",
+  "source_html_sha256": "4ebfd393b5e4fd1e2b419cdb5a127e83cab2000cd40f1410e9627eb66e134877",
+  "title": "Izdavanje, garsonjera, 25m², Lazi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-22",
+  "updated_date": "2026-10-23",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 25,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Sandra Nikcevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "street_address": "4. proleterske bb",
+  "balconies": 1,
+  "year_built": 2016,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garsonjera u budvanskom naselju Lazi, odmah pored Hdl Lakovic hipermarketa. Sastoji se od jedne prostorije koja obuhvata dnevni boravak, kuhinju i spavaci dio, kupatila i terase.Garsonjera je kompletno oprem...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!243",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268799056",
+      "name": "Sandra Nikcevic",
+      "email": null,
+      "source": "workbook:Outreach list!243"
+    },
+    {
+      "phone_e164": "+38268799056",
+      "name": "Sandra Nikcevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268799056"
+  ],
+  "phone_e164": "+38268799056",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

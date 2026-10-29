@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "641370",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641370",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641370"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 788,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_641370",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2010",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/211b803b-f765-478b-943a-315929003b08-lg.webp",
+    "https://content.estitor.com/bd686151-4955-4ff4-9d8d-f6e1a4b6e579-lg.webp",
+    "https://content.estitor.com/70e17d2c-7b3c-4ac0-bd78-7639f64f7a75-lg.webp",
+    "https://content.estitor.com/6c31ba98-f0dd-456d-8030-3641c689923d-lg.webp",
+    "https://content.estitor.com/cedfef15-1d8d-4f35-a542-f0101808ad42-lg.webp",
+    "https://content.estitor.com/56ee6de1-1b76-4cd0-8cb0-65ecdb29df2b-lg.webp",
+    "https://content.estitor.com/f8b6c7fa-a7ca-440b-8702-b88182fef59c-lg.webp",
+    "https://content.estitor.com/56e31cd5-54d7-4fa7-aabb-ec58150048bf-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Otkrijte efikasan i udoban život u ovom potpuno namještenom stanu dostupnom za iznajmljivanje u Budvi, Maine. Ova pažljivo dizajnirana rezidencija od 18.0 m² nudi pametno rješenje za moderan život, smještena pogodno u prizemlju.\n\nPo ulasku, naći ćete dobro organizovan prostor koji maksimizira svaki kvadratni metar. Stan ima namjenski hodnik koji vodi u glavni dnevni prostor, koji pametno uključuje modernu kuhinju i udobnu trpezariju. Bez spavaće sobe, ovaj raspored tipa garsonjere je savršen za one koji traže pojednostavljen dom lak za održavanje.\n\nUživajte u nizu pogodnosti dizajniranih za vašu udobnost, uključujući pouzdan pristup Internetu i Kablovsku TV za zabavu i povezivanje. Budite udobni tokom cijele godine sa instaliranom Klimom. Nekretnina takođe uključuje jedno kompletno kupatilo. Javno parkiralište je dostupno, osiguravajući pristupačnost.\n\nOvaj odmah useljiv stan u Budvi, Maine, pruža sve neophodno za iskustvo iznajmljivanja bez muke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:23.044084+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.626084+00:00",
+  "source_html_sha256": "e9bfc40be818a4e0d11647a7b71439846d00d3db9731a650ee16e302bba87ecf",
+  "title": "Izdavanje, garsonjera, 18m², Maine, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 18,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Fidan Akel",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2010,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Otkrijte efikasan i udoban život u ovom potpuno namještenom stanu dostupnom za iznajmljivanje u Budvi, Maine. Ova pažljivo dizajnirana rezidencija od 18.0 m² nudi pametno rješenje za moderan život, smještena pogodno u...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!788",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+905324640541",
+      "name": "Fidan Akel",
+      "email": null,
+      "source": "workbook:Outreach list!788"
+    },
+    {
+      "phone_e164": "+905324640541",
+      "name": "Fidan Akel",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+905324640541"
+  ],
+  "phone_e164": "+905324640541",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

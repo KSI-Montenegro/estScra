@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "74164",
+  "listing_url": "https://patuljak.me/oglas/prodajem-dvosobnu-kucu-u-rubezima--74164",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-dvosobnu-kucu-u-rubezima--74164"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 108,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74164",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!108:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Ostalo",
+    "Adresa": "RUBEŽA",
+    "Broj soba": "2",
+    "Broj spratova": "1",
+    "Namještena": "Ne",
+    "Stambena kvadratura": "81 m2",
+    "Kvadratura placa": "3700 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74164_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74164_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74164_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74164_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74164_3.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "PRODAJEM DVOSOBNU KUĆU U RUBEŽIMA 81 m2ZEMLJIŠTE - 3700 m2PAPIRI UREDNI\n066/178-640",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:30.848918+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.479762+00:00",
+  "source_html_sha256": "118e662ca0eecaa843b441173c4f35bc020434849036b83c11383f39a2a53a95",
+  "title": "PRODAJEM DVOSOBNU KUĆU U RUBEŽIMA",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "N",
+  "property_type": "house",
+  "city": "Nikšić",
+  "district": "Ostalo",
+  "street_address": "RUBEŽA",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "area_m2": 81,
+  "amenities": [],
+  "metadata_summary": "PRODAJEM DVOSOBNU KUĆU U RUBEŽIMA 81 m2ZEMLJIŠTE - 3700 m2PAPIRI UREDNI066/178-640",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!108",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38266178640",
+      "name": "N",
+      "email": null,
+      "source": "workbook:Outreach list!108"
+    }
+  ],
+  "contact_phones": [
+    "+38266178640"
+  ],
+  "phone_e164": "+38266178640",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

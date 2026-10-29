@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "601783",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-601783",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-601783"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 198,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_601783",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2026",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Magacinski",
+    "Klimatizacija": "true",
+    "Dvorište": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8daa49dd-5326-44f6-b4c8-54ac9aac2c80-lg.webp",
+    "https://content.estitor.com/99c7420e-6400-4fd5-afc2-8e856669a2af-lg.webp",
+    "https://content.estitor.com/a76d21a2-0b52-4b85-85ef-a671927f818a-lg.webp",
+    "https://content.estitor.com/1574dc34-2f67-4570-8a44-f5ccd32effd7-lg.webp",
+    "https://content.estitor.com/f54eab73-042f-4424-9108-43becc9325f5-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Poslovno logistički centar površine 5300 m2 blizu centra Bara, nalazi se u ulici koja vodi pored Okova i HDL centra do Zeljeznicke stanice.\nZatvoreni poslovno-skladišni prostor - cca vise od 2000 m2 sastoji se od:\nObjekat 1:\nAdministrativni-kancelarijski prostor – cca 150 m2\nMagacinski prostor – 950 m2 sa 4 vrata sa elektro-motorom za otvaranje.\nObjekat 2:\nMagacinski prostor –cca 820 m2 (podijeljen na 3 cjeline - 2x300 m2 & 1220 m2 - svaka sa po 2 rolo vrata sa daljinskim otvaranjem)\nObjekat 3\nKancelarijski prostor 27 m2 sa toaletom i mini kuhinjom.\nObjekat 4\nNatkriveni parking 170 m2\nObjekat 5\nPortirnica na kapiji 6 m2\nObjekat 6\n3 spoljna toaleta\nObjekat je u potpunosti renoviran,opremljen i odmah dostupan.\nOpremljen je video nadzorom, oivičen punom ogradom visine 2.5 metra, sa smart sistemom kontrole ulaska.\nPL Centar se nalazi na asfaltiranoj parceli površine 5.300 m, u neposrednoj blizini Bara i Luke Bar, što ga čini izuzetno pogodnim za logistiku, distribuciju i trgovinu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:17.109005+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.473613+00:00",
+  "source_html_sha256": "c8a4c622c01546960a7da1e46ed78652b0c3b8b2d391805b91a2de563344d05c",
+  "title": "Izdavanje, poslovni prostor, 2000m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-26",
+  "updated_date": "2026-08-27",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 2000,
+  "city": "Bar",
+  "street_address": "89a Željeznička ulica, Bar 85353, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Bova 085 Bar",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište"
+  ],
+  "metadata_summary": "Poslovno logistički centar površine 5300 m2 blizu centra Bara, nalazi se u ulici koja vodi pored Okova i HDL centra do Zeljeznicke stanice.Zatvoreni poslovno-skladišni prostor - cca vise od 2000 m2 sastoji se od:Objek...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!198",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38260085085",
+      "name": "Bova 085 Bar",
+      "email": null,
+      "source": "workbook:Not homes!198"
+    },
+    {
+      "phone_e164": "+38260085085",
+      "name": "Bova 085 Bar",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38260085085"
+  ],
+  "phone_e164": "+38260085085",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "76865",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-plac-spuz--76865",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-plac-spuz--76865"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 72,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76865",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!72:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Spuž",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "4600 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_1.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Prodaje se izuzetno lijep plac površine 4600 m² u Spužu .Plac se nalazi u mirnom i prirodnom okruženju, u blizini rijeke Zete, idealno za one koji traže spoj prirode i dobre povezanosti sa gradom.\nVoda i struja dovedeni do placa\nRavna i pristupačna parcela\nOdlična lokacija – mir, priroda i brz pristup Podgorici\nPogodno za gradnju porodične kuće, vikendice ili investiciju\nCijena: 20 € / m²\nDostupan atraktivan video snimljen dronom, koji savršeno prikazuje položaj i potencijal placa.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:07.190854+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.608532+00:00",
+  "source_html_sha256": "2631d72005590e110358695e555617c56bb7b6545d7a7e6e87e556974b14b22b",
+  "title": "NA PRODAJU PLAC SPUŽ",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Ivana",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Spuž",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se izuzetno lijep plac površine 4600 m² u Spužu .Plac se nalazi u mirnom i prirodnom okruženju, u blizini rijeke Zete, idealno za one koji traže spoj prirode i dobre povezanosti sa gradom.Voda i struja dovedeni do placaRavna i pristupačna parcelaOdlična lokacija – mir, priroda i brz pristup PodgoriciPogodno za gradnju porodične kuće, vikendice ili investicijuCijena: 20 € / m²Dostupan atraktivan video snimljen dronom, koji savršeno prikazuje položaj i potencijal placa.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!72",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269194373",
+      "name": "Ivana",
+      "email": null,
+      "source": "workbook:Not homes!72"
+    }
+  ],
+  "contact_phones": [
+    "+38269194373"
+  ],
+  "phone_e164": "+38269194373",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4600,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

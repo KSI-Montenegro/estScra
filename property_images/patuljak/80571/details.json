@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "80571",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--80571",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--80571"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 40,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80571",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!40:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Cvijetin Brijeg",
+    "Broj prostorija": "2",
+    "Stambena kvadratura": "126 m2",
+    "Sprat": "Visoko prizemlje",
+    "Broj spratova": "2",
+    "Namješten": "Ne",
+    "Godina izgradnje": "2010-2019",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Sjever",
+    "WC-Kupatilo": "Zasebno/a",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_8.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem poslovni prostor pete proleterske brigade odlicna lokacija..126 kvadrata visenamjenski info 069332223",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:46.524370+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.370579+00:00",
+  "source_html_sha256": "b96a3cd17e6e5890751c286101ca6ab5d36418baae316c79200572183063c02d",
+  "title": "Izdajem poslovni prostor",
+  "description_language": "en",
+  "price_raw": "1000.00€",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "advertiser_name": "Drazen",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Cvijetin Brijeg",
+  "floor_raw": "Visoko prizemlje",
+  "building_floors_raw": "2",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "area_m2": 126,
+  "year_built": 2010,
+  "amenities": [],
+  "metadata_summary": "Izdajem poslovni prostor pete proleterske brigade odlicna lokacija..126 kvadrata visenamjenski info 069332223",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!40",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268429936",
+      "name": "Drazen",
+      "email": null,
+      "source": "workbook:Not homes!40"
+    }
+  ],
+  "contact_phones": [
+    "+38268429936"
+  ],
+  "phone_e164": "+38268429936",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

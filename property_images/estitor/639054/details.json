@@ -1,0 +1,121 @@
+{
+  "source": "estitor",
+  "listing_id": "639054",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-danilovgrad/id-639054",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-danilovgrad/id-639054"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 73,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_639054",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0eab3580-b0df-44d6-afca-b25304872fa1-lg.webp",
+    "https://content.estitor.com/d11bd9de-8bac-43fb-981f-b56bd6b94e69-lg.webp",
+    "https://content.estitor.com/1b19db62-b8e4-4e29-b59e-3bb3cd8b4f78-lg.webp",
+    "https://content.estitor.com/bd3a8c7e-ae6d-496c-a353-3f90f54fd1d6-lg.webp",
+    "https://content.estitor.com/08e9873b-1c0a-41ba-82bb-614741b545b9-lg.webp",
+    "https://content.estitor.com/e7b30308-9b8a-49bf-a631-8c5fc4a7de1d-lg.webp",
+    "https://content.estitor.com/476878f8-58ce-4aed-bcd0-da566b7c9d39-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Na prodaju plac na mirnoj i dobroj lokaciji, idealan za izgradnju porodične kuće ili investiciju.\nPristupni put ( izlaz na magistralu - 1,5 km )\nStruja i voda u blizini\nBunar na placu\nMirno okruženje",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:49.800499+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.889029+00:00",
+  "source_html_sha256": "0e8750fa2990a15200dcb137ad97381891841498b04caf91310aac2a442b414d",
+  "title": "Prodaja, plac, 1009m², Grbe, Danilovgrad",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-22",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Danilovgrad",
+  "street_address": "Неименовани Пут, Грбе, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Nepoznati Korisnik",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Na prodaju plac na mirnoj i dobroj lokaciji, idealan za izgradnju porodične kuće ili investiciju.Pristupni put ( izlaz na magistralu - 1,5 km ) Struja i voda u bliziniBunar na placuMirno okruženje",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

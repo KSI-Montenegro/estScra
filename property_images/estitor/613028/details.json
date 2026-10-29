@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "613028",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-613028",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-613028"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 831,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613028",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1986",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/33d36964-098c-4429-8bd3-ecb4fb6b2dc1-lg.webp",
+    "https://content.estitor.com/0974c6a7-62bb-496e-a4b3-aca4470d0720-lg.webp",
+    "https://content.estitor.com/6a2caf5d-9977-4e35-bc30-16c490f78ba3-lg.webp",
+    "https://content.estitor.com/3ef09209-a49b-4e8c-bcb5-6af0dc197936-lg.webp",
+    "https://content.estitor.com/ce34a0b4-e964-4dea-9364-17360a0bd3e9-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Osunčan, Renoviran, Odmah useljiv, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:56.472050+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.151278+00:00",
+  "source_html_sha256": "ddc221642637dcd00328cb6d5b62d15f6ae29cab39583868fa8e9f1d43d9808f",
+  "title": "Izdavanje, dvosoban stan, 70m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-09",
+  "updated_date": "2026-09-21",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "81 Njegoševa, Cetinje, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Biljana Milosavljevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 1986,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan, Renoviran, Odmah useljiv, Miran kraj",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!831",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268418309",
+      "name": "Biljana Milosavljevic",
+      "email": null,
+      "source": "workbook:Outreach list!831"
+    },
+    {
+      "phone_e164": "+38268418309",
+      "name": "Biljana Milosavljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268418309"
+  ],
+  "phone_e164": "+38268418309",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

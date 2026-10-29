@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "527806",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-527806",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-527806"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 98,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_527806",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/472aa89a-a2bd-4825-9fd8-5279992f56be-lg.webp",
+    "https://content.estitor.com/10f9e831-f0f8-48f7-90c7-2a9237f34793-lg.webp",
+    "https://content.estitor.com/27c6dc36-c49a-4865-8c79-21de58e09083-lg.webp",
+    "https://content.estitor.com/a8a42203-26ef-4b32-84da-294fcf8cb23b-lg.webp",
+    "https://content.estitor.com/7a570158-763d-42dc-a62d-65da93c1f7fe-lg.webp",
+    "https://content.estitor.com/83248096-ca02-416a-a889-6b8e362db4a1-lg.webp",
+    "https://content.estitor.com/70caa6d3-9fc5-46f5-a081-b55e612bf7cf-lg.webp",
+    "https://content.estitor.com/5da81f21-d64b-4070-87ac-76cebcb47854-lg.webp",
+    "https://content.estitor.com/cd844c85-fa1d-451d-a531-3ec470f2154b-lg.webp",
+    "https://content.estitor.com/34e3f42f-39f2-4941-b7b4-22c2ca340205-lg.webp",
+    "https://content.estitor.com/d365f999-94f1-49da-886f-b03c0ae79b89-lg.webp",
+    "https://content.estitor.com/7481e257-2117-4169-85c6-4427265b45df-lg.webp",
+    "https://content.estitor.com/f0ba73aa-e7bb-48a6-a266-7d5e342bab5a-lg.webp",
+    "https://content.estitor.com/4892af1e-db14-44f6-8121-ffced695d3fa-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan površine 40 m² kod Glosarija\n\nStan je osunčan i južne orijentacije, što mu obezbjeđuje obilje prirodne svjetlosti tokom dana. Sastoji se od dnevnog boravka sa kuhinjom i trpezarijom, spavaće sobe, kupatila, hodnika i terase.\n\nPotpuno je opremljen novim namještajem i tehnikom i nije nikad ranije izdavan.\n\nZgrada posjeduje lift i parking mjesto, namijenjeno stanarima.\n\nStan je nalazi na Zabjelu u novoj zgradi preko puta fabrike Glosarij.\n\nDogovor oko depozita i ugovora o izdavanju po gledanju stana.\n\nKontakt osoba:\n\nNedim: 067-328-917",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:49.387428+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.609404+00:00",
+  "source_html_sha256": "bde5d6febed367733ba038a4ece39e90a6e042b0665e88fbd1910bc3926c5dab",
+  "title": "Izdavanje, jednosoban stan, 40m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-26",
+  "updated_date": "2026-09-11",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Nedim Hrković",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan površine 40 m² kod Glosarija Stan je osunčan i južne orijentacije, što mu obezbjeđuje obilje prirodne svjetlosti tokom dana. Sastoji se od dnevnog boravka sa kuhinjom i trpezarijom, spavaće s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!98",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267328917",
+      "name": "Nedim",
+      "email": null,
+      "source": "workbook:Likely agents!98"
+    },
+    {
+      "phone_e164": "+38267328917",
+      "name": "Nedim Hrković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267328917"
+  ],
+  "phone_e164": "+38267328917",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

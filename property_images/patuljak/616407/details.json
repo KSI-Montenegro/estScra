@@ -1,0 +1,137 @@
+{
+  "source": "patuljak",
+  "listing_id": "616407",
+  "listing_url": "https://patuljak.me/oglas/izdajem-parking-mjesto-u-garazi-zgrade--616407",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-parking-mjesto-u-garazi-zgrade--616407"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 962,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_616407",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!962:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Blok 9",
+    "Adresa": "Milutina Vučinića br 41",
+    "Vrsta": "U sklopu stambenog objekta",
+    "Kvadrata": "13",
+    "Uknjiženo": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_4.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE PARKING MJESTO U GARAZI CRVENO BIJELE ZGRADE SAJO GRUPE U BLOKU 9 NA DUZI PERIOD.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:24.054510+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.336848+00:00",
+  "source_html_sha256": "2447d82afe97f20042a97365ad20a7409523aa077d0c80233ee20b876b0631ac",
+  "title": "IZDAJEM PARKING MJESTO U GARAZI ZGRADE",
+  "description_language": "en",
+  "price_raw": "100.00€",
+  "price_amount": 100,
+  "price_currency": "EUR",
+  "advertiser_name": "Jovo",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Blok 9",
+  "street_address": "Milutina Vučinića br 41",
+  "property_type_raw": "U sklopu stambenog objekta",
+  "amenities": [
+    "Uknjiženo"
+  ],
+  "metadata_summary": "IZDAJE SE PARKING MJESTO U GARAZI CRVENO BIJELE ZGRADE SAJO GRUPE U BLOKU 9  NA DUZI PERIOD.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!962",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269535359",
+      "name": "Jovo",
+      "email": null,
+      "source": "workbook:Outreach list!962"
+    }
+  ],
+  "contact_phones": [
+    "+38269535359"
+  ],
+  "phone_e164": "+38269535359",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

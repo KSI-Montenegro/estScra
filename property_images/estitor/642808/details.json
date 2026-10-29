@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "642808",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-642808",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-642808"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 785,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_642808",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2014",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Tavan": "true",
+    "Telefon": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/aa7ff593-64ec-47f9-9efc-f8ec9f5b79d0-lg.webp",
+    "https://content.estitor.com/640a47fa-d634-4233-b01f-3c6337fbbc12-lg.webp",
+    "https://content.estitor.com/92f9b00e-0d0a-490f-b99f-eff4c1f014dd-lg.webp",
+    "https://content.estitor.com/55895f09-ae6a-4ebd-ada6-08b627bd5351-lg.webp",
+    "https://content.estitor.com/05b344e5-b4e2-4272-b402-0e486136dce2-lg.webp",
+    "https://content.estitor.com/43bf3ec9-9153-46ec-98f7-06b7faf51f40-lg.webp",
+    "https://content.estitor.com/b5691360-1c44-4318-bfbb-c9519fd1092b-lg.webp",
+    "https://content.estitor.com/cac81948-7824-44c8-a557-c4d844ebd234-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Iznajmljuje se izuzetan stan u samom srcu Tivta, Centar, savršen za udoban porodični život ili profesionalce. Ovaj prostrani stan od 82.0 m² smješten je u prizemlju, pružajući jednostavan pristup i komfor.\n\nStan se diči obiljem prirodnog svjetla, što ga čini izuzetno osunčanim tokom cijelog dana, a poseban užitak pruža predivan pogled na more. Raspolaže sa tri prostrane spavaće sobe i jednim moderno uređenim kupatilom, nudeći dovoljno prostora za sve vaše potrebe.\n\nPotpuno opremljena kuhinja sa trpezarijom idealna je za pripremu obroka i druženje. Dodatne pogodnosti uključuju praktičnu ostavu i pristup tavanu, obezbeđujući ample prostor za skladištenje. Stan je opremljen za moderan život, sa klima uređajem, internetom, telefonom i interfonom, a zgrada posjeduje i lift. Za stanare je obezbijeđen javni parking u okolini zgrade.\n\nLokacija je besprekorna: nalazi se u blizini škole, što je idealno za porodice, a u neposrednoj je blizini svih bitnih gradskih sadržaja, uključujući prestižnu marinu Porto Montenegro, brojne restorane i kafiće, te popularnu Mansa mašinu na samo minut hoda. Moguća je prijava boravka.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:21.820059+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.594377+00:00",
+  "source_html_sha256": "2d7d487fcbb287d732b2ea8d27d3bf4b076832b85e8406a6c429f355477cc747",
+  "title": "Izdavanje, trosoban stan, 82m², Centar, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-24",
+  "updated_date": "2026-10-24",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 82,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "20 Palih Boraca, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Zegura",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2014,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Tavan",
+    "Telefon",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Iznajmljuje se izuzetan stan u samom srcu Tivta, Centar, savršen za udoban porodični život ili profesionalce. Ovaj prostrani stan od 82.0 m² smješten je u prizemlju, pružajući jednostavan pristup i komfor. Stan se dič...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!785",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269695555",
+      "name": "Ivan Zegura",
+      "email": null,
+      "source": "workbook:Outreach list!785"
+    },
+    {
+      "phone_e164": "+38269695555",
+      "name": "Ivan Zegura",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269695555"
+  ],
+  "phone_e164": "+38269695555",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

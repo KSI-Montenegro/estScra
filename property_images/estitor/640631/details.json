@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "640631",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640631",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640631"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 581,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_640631",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/604a09c3-6cc9-4e68-840a-b10f8195048d-lg.webp",
+    "https://content.estitor.com/3722a88f-ff74-4c61-b476-a3bdaf226476-lg.webp",
+    "https://content.estitor.com/b6a46200-41f1-4019-bdd2-6cd8c0589eda-lg.webp",
+    "https://content.estitor.com/59177895-1eaa-4b27-a64a-32beffa41d5f-lg.webp",
+    "https://content.estitor.com/b3e49a9f-042e-41af-a5a1-cd7a78989c9e-lg.webp",
+    "https://content.estitor.com/c6425562-6878-43d2-9a64-2c4a263df539-lg.webp",
+    "https://content.estitor.com/e45cd7d2-27ac-4187-9e9e-bf0bba29979d-lg.webp",
+    "https://content.estitor.com/ae06532b-56aa-4746-a314-aef2c8f2dee3-lg.webp",
+    "https://content.estitor.com/76f4d163-b885-4934-a898-b1455be2d1bc-lg.webp",
+    "https://content.estitor.com/e622e062-cfa8-45ed-8011-c5c101283efa-lg.webp",
+    "https://content.estitor.com/7c18f560-3c4b-4407-b7f4-971972a7dbf1-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se namješten jednosoban stan površine 45 m², na trećem spratu zgrade sa liftom, ulica Avda Međedovića, Stari aerodrom.\nNalazi se preko puta Tržnog centra Forum, u neposrednoj blizini restorana Sicilija, na veoma praktičnoj lokaciji za svakodnevni život.\nJužno je orijentisan, osunčan i veoma svijetao. Posjeduje terasu. Parking je dostupan ispred zgrade.\nOdmah je useljiv i izdaje se na duži period.\nObavezan je depozit u visini jedne mjesečne kirije.\nZa više informacija i dogovor oko gledanja zvati nakon 15h.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:33.131026+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.263832+00:00",
+  "source_html_sha256": "b4c755e9884231154251e346918fb29bdf0743e76808fd363dba6c399cd52579",
+  "title": "Izdavanje, jednosoban stan, 45m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-28",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Avda Međedovića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Dejan B",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se namješten jednosoban stan površine 45 m², na trećem spratu zgrade sa liftom, ulica Avda Međedovića, Stari aerodrom.Nalazi se preko puta Tržnog centra Forum, u neposrednoj blizini restorana Sicilija, na veoma...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!581",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263289434",
+      "name": "Dejan B",
+      "email": null,
+      "source": "workbook:Outreach list!581"
+    },
+    {
+      "phone_e164": "+38263289434",
+      "name": "Dejan B",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263289434"
+  ],
+  "phone_e164": "+38263289434",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

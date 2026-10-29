@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "473550",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-473550",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-473550"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 255,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_473550",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Udaljenost od mora": "900m",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1e8cd91b-906a-48a0-a9c7-137e3b37fe62-lg.webp",
+    "https://content.estitor.com/930a771f-d443-4e54-8dd8-8c87d0155165-lg.webp",
+    "https://content.estitor.com/e0a332e5-099c-41dd-b84b-24a2e0e044e7-lg.webp",
+    "https://content.estitor.com/22cce9b8-9c6b-4dab-91d4-750dcd8b35a7-lg.webp",
+    "https://content.estitor.com/5511fcf0-194f-421b-8d45-d4313e724cc3-lg.webp",
+    "https://content.estitor.com/1bc5ed22-a0de-4260-a12a-889aeee12053-lg.webp",
+    "https://content.estitor.com/89df1556-7473-46b1-85e2-8d363e9feed4-lg.webp",
+    "https://content.estitor.com/f077b929-05a1-4369-a094-8f90405d33ae-lg.webp",
+    "https://content.estitor.com/2c1f7d76-9b88-4a74-aaad-3257873a276b-lg.webp",
+    "https://content.estitor.com/157b6cbd-dca0-4368-9816-fb6645e27e3f-lg.webp",
+    "https://content.estitor.com/cf1fdf39-753e-4f0a-a244-08c2b116c6d4-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban stan, povrsine 46 m2, smjesten na 2. spratu zgrade u Ulcinju, naselje Pinješ.\nMoguće iznajmljivanje na duži i kraći vremenski period. Stan je moderno namješten, sastoji se od prostrane dnevne sobe, spavace sobe, hodnika, kupatila i 2 terase.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:48.665908+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.378621+00:00",
+  "source_html_sha256": "2f4aa98fccdc07f2bad1175092a90752d48a197f5d97396a2c6458190b80b85b",
+  "title": "Izdavanje, jednosoban stan, 46m², Stari grad Ulcinj, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-25",
+  "updated_date": "2026-10-21",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 46,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Ulcinj",
+  "country": "ME",
+  "advertiser_name": "Hotel Sale",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan, povrsine 46 m2, smjesten na 2. spratu zgrade u Ulcinju, naselje Pinješ.Moguće iznajmljivanje na duži i kraći vremenski period. Stan je moderno namješten, sastoji se od prostrane dnevne sobe, s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!255",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269031412",
+      "name": "Hotel Sale",
+      "email": null,
+      "source": "workbook:Outreach list!255"
+    },
+    {
+      "phone_e164": "+38269031412",
+      "name": "Hotel Sale",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269031412"
+  ],
+  "phone_e164": "+38269031412",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

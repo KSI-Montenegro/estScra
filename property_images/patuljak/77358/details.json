@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "77358",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-kuca-moze-i-za-radnike--77358",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-kuca-moze-i-za-radnike--77358"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 495,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77358",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!495:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Cijevna",
+    "Broj soba": "6",
+    "Stambena kvadratura": "180 m2",
+    "Broj spratova": "2",
+    "Godina izgradnje": "2020",
+    "Namještena": "Da",
+    "Vrsta poda": "Laminat",
+    "Kvadratura placa": "1000 m2",
+    "Vrsta grijanja": "Struja",
+    "Kvadratura balkona": "10 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se kuca u karabusko polje ima 6 siba 18 kreveta cijena po dogovoru ako je duzi najam\n+38269810336",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:50.674814+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.782707+00:00",
+  "source_html_sha256": "ac78b58c7dc0cb70c73fe9cbfadc69f048c8e2a1f89495df4fe2d55eb49d1e6d",
+  "title": "Izdaje se kuca moze i za radnike",
+  "description_language": "en",
+  "price_raw": "3.00€",
+  "price_amount": 3,
+  "price_currency": "EUR",
+  "advertiser_name": "Caki",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Cijevna",
+  "building_floors_raw": "2",
+  "room_layout_raw": "6",
+  "heating_raw": "Struja",
+  "area_m2": 180,
+  "year_built": 2020,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdaje se kuca u karabusko polje ima 6 siba 18 kreveta cijena po dogovoru ako je duzi najam+38269810336",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!495",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269810336",
+      "name": "Caki",
+      "email": null,
+      "source": "workbook:Outreach list!495"
+    }
+  ],
+  "contact_phones": [
+    "+38269810336"
+  ],
+  "phone_e164": "+38269810336",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

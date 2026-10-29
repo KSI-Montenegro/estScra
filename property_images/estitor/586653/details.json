@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "586653",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-zabljak/id-586653",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-zabljak/id-586653"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 33,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_586653",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "2",
+    "Broj etaža": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Površina placa": "100",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "100"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1a5c47ed-c0ca-46db-ba96-a49889af1dfd-lg.webp",
+    "https://content.estitor.com/5e2b074a-84d1-4a1d-a73c-0f6355160010-lg.webp",
+    "https://content.estitor.com/14c9da04-a1ad-46e4-9820-4423d1efecb3-lg.webp",
+    "https://content.estitor.com/b3dbdc68-b975-4085-b701-5ace884713bb-lg.webp",
+    "https://content.estitor.com/578b0c2e-a459-49bd-bca2-449ecb8cb4a0-lg.webp",
+    "https://content.estitor.com/9690be1e-5ed5-4a15-bafa-215cfcfc35e1-lg.webp",
+    "https://content.estitor.com/ac732a6a-c823-4b81-8d0c-ef1887de5309-lg.webp",
+    "https://content.estitor.com/95cbcf37-92e2-424f-9de4-6443bb87637a-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem vikendicu na Zabljaku. Posjeduje sve potrebno za prijatan odmor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:06.333963+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.927942+00:00",
+  "source_html_sha256": "d2a612198332d23bb690bd10779f802fdd115375565d060c417627e216a92126",
+  "title": "Izdavanje, kuća, 100m², Virak, Žabljak",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-01",
+  "updated_date": "2026-10-24",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 100,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Žabljak",
+  "street_address": "M6, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Marinq Krstqjic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 100,
+  "balconies": 2,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Internet",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem vikendicu na Zabljaku. Posjeduje sve potrebno za prijatan odmor.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!33",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268533444",
+      "name": "Marinq Krstqjic",
+      "email": null,
+      "source": "workbook:Likely agents!33"
+    },
+    {
+      "phone_e164": "+38268533444",
+      "name": "Marinq Krstqjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268533444"
+  ],
+  "phone_e164": "+38268533444",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

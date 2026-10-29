@@ -1,0 +1,116 @@
+{
+  "source": "estitor",
+  "listing_id": "641950",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641950",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641950"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 25,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_641950",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/939a62ad-24dd-4ab5-ac25-3d1461a38be6-lg.webp",
+    "https://content.estitor.com/3f0fb1d9-1304-45ed-96e3-cc128be98a4b-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Na prodaju zemljište u Nikšiću površine 1816m2, vlasništvo 1/1, bez opterećenja. Voda i struja do placa, kao i prilazni put.\nSve dodatne informacije",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:27.817496+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.605747+00:00",
+  "source_html_sha256": "2b817b1f8ee3be64fdb321ba46e48a7bed7579ebaaac86ba4598af66145c19f0",
+  "title": "Prodaja, plac, 1816m², Kličevo, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-23",
+  "updated_date": "2026-10-23",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Nikšić",
+  "country": "ME",
+  "advertiser_name": "Obrad Kljajevic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Na prodaju zemljište u Nikšiću površine 1816m2, vlasništvo 1/1, bez opterećenja. Voda i struja do placa, kao i prilazni put.Sve dodatne informacije",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

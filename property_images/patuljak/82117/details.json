@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "82117",
+  "listing_url": "https://patuljak.me/oglas/4-jednosobna-stana--82117",
+  "listing_urls": [
+    "https://patuljak.me/oglas/4-jednosobna-stana--82117"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 149,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82117",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Tivat",
+    "Naselje": "Radovićí",
+    "Adresa": "Novo Naselje",
+    "Broj soba": "Jednosoban",
+    "Namješten": true,
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Parking mjesto": "3 i više",
+    "Pogled na more": "Ima",
+    "Stambena kvadratura": "50 m2",
+    "Balkon": true,
+    "Klima": true,
+    "Kablovska TV": true,
+    "Internet": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82117_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82117_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "IZDAJU SE 4 JEDNOSOBNA STANA – TIVAT, RADOVIĆI, U BLIZINI LUŠTICA BAY-a\nIzdaju se četiri jednosobna stana na atraktivnoj lokaciji u Radovićima, Tivat, u neposrednoj blizini kompleksa Luštica Bay.\nStanovi su potpuno opremljeni svim neophodnim namještajem, uređajima i stvarima za svakodnevni život. Posjeduju internet, kablovsku televiziju, a obezbijeđen je i parking za stanare. Iz pojedinih stanova pruža se lijep pogled na zaliv.\nStanovi se nalaze u kući na prizemlju, prvom i drugom spratu.\nMogućnost izdavanja:\nSvaki stan pojedinačno.\nSva četiri stana zajedno, idealno za firme koje traže smještaj za svoje zaposlene.\n\nUkoliko se stanovi izdaju u kompletu za smještaj radnika, na raspolaganju je ukupno 13 ležajeva.\nOdlična opcija za firme i zaposlene koji traže praktičan, funkcionalan i potpuno opremljen smještaj na dobroj lokaciji.\n???? Lokacija: Tivat – Radovići, blizu Luštica Bay-a.\n???? Kontakt telefon: 067/516-927\nZa više informacija, cijenu i dogovor oko obilaska, pozvati navedeni broj.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:54.731723+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.734760+00:00",
+  "source_html_sha256": "25238ffe4e34c8842cef4ff13aeddfac1decae9fe732c131d0aa450b99387213",
+  "title": "4 Jednosobna stana",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Kristina",
+  "property_type": "apartment",
+  "city": "Tivat",
+  "district": "Radovićí",
+  "street_address": "Novo Naselje",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": true,
+  "parking_raw": "3 i više",
+  "area_m2": 50,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten",
+    "Pogled na more",
+    "Balkon",
+    "Klima",
+    "Kablovska TV",
+    "Internet"
+  ],
+  "metadata_summary": "IZDAJU SE 4 JEDNOSOBNA STANA – TIVAT, RADOVIĆI, U BLIZINI LUŠTICA BAY-aIzdaju se četiri jednosobna stana na atraktivnoj lokaciji u Radovićima, Tivat, u neposrednoj blizini kompleksa Luštica Bay.Stanovi su potpuno opremljeni svim neophodnim namještajem, uređajima i stvarima za svakodnevni život. Posjeduju internet, kablovsku televiziju, a obezbijeđen je i parking za stanare. Iz pojedinih stanova pruža se lijep pogled na zaliv.Stanovi se nalaze u kući na prizemlju, prvom i drugom spratu.Mogućnost izdavanja:Svaki stan pojedinačno.Sva četiri stana zajedno, idealno za firme koje traže smještaj za svoje zaposlene.Ukoliko se stanovi izdaju u kompletu za smještaj radnika, na raspolaganju je ukupno 13 ležajeva.Odlična opcija za firme i zaposlene koji traže praktičan, funkcionalan i potpuno opremljen smještaj na dobroj lokaciji.???? Lokacija: Tivat – Radovići, blizu Luštica Bay-a.???? Kontakt telefon: 067/516-927Za više informacija, cijenu i dogovor oko obilaska, pozvati navedeni broj.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!149",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268285537",
+      "name": "Kristina",
+      "email": null,
+      "source": "workbook:Outreach list!149"
+    }
+  ],
+  "contact_phones": [
+    "+38268285537"
+  ],
+  "phone_e164": "+38268285537",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

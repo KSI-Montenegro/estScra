@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "77991",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-64m2-lepa-kata-iza-gintas--77991",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-64m2-lepa-kata-iza-gintas--77991"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 66,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77991",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Lepa Kata",
+    "Broj prostorija": "3",
+    "Stambena kvadratura": "64 m2",
+    "Sprat": "Suteren",
+    "Broj spratova": "2",
+    "Namješten": "Ne",
+    "WC-Kupatilo": "Zasebno/a",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Funkcionalan i lijepo organizovan poslovni prostor površine 64 m², smješten u zgradi Lepa Kata, neposredno iza Gintaša.\nProstor je raspoređen na dvije etaže i odlikuje ga praktičan raspored koji omogućava različite poslovne namjene.\nRaspored prostora:\n* Gornja etaža – 16 m²: prostrana prostorija sa toaletom\n* Donja etaža – 48 m²: tri odvojene, funkcionalne prostorije\nProstor je pogodan za kancelarije, salon, studio, ordinaciju, edukativni centar, agenciju ili druge djelatnosti koje zahtijevaju više zasebnih prostorija.\nMirna lokacija, dobra dostupnost i funkcionalan raspored čine ovaj prostor odličnim izborom za poslovanje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:03.728571+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.562867+00:00",
+  "source_html_sha256": "2afc28f88bb614b35442485f7d44dc765512c173cd75dd39bd1aa6d6388b83e2",
+  "title": "Poslovni prostor 64m2, Lepa Kata, iza Gintas",
+  "description_language": "en",
+  "price_raw": "75000.00€",
+  "price_amount": 75000,
+  "price_currency": "EUR",
+  "advertiser_name": "Sahmir",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Lepa Kata",
+  "floor_raw": "Suteren",
+  "building_floors_raw": "2",
+  "furnishing_raw": "Ne",
+  "area_m2": 64,
+  "amenities": [],
+  "metadata_summary": "Funkcionalan i lijepo organizovan poslovni prostor površine 64 m², smješten u zgradi Lepa Kata, neposredno iza Gintaša.Prostor je raspoređen na dvije etaže i odlikuje ga praktičan raspored koji omogućava različite poslovne namjene.Raspored prostora:* Gornja etaža – 16 m²: prostrana prostorija sa toaletom* Donja etaža – 48 m²: tri odvojene, funkcionalne prostorijeProstor je pogodan za kancelarije, salon, studio, ordinaciju, edukativni centar, agenciju ili druge djelatnosti koje zahtijevaju više zasebnih prostorija.Mirna lokacija, dobra dostupnost i funkcionalan raspored čine ovaj prostor odličnim izborom za poslovanje.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!66",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268616456",
+      "name": "Sahmir",
+      "email": null,
+      "source": "workbook:Not homes!66"
+    }
+  ],
+  "contact_phones": [
+    "+38268616456"
+  ],
+  "phone_e164": "+38268616456",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

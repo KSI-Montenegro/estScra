@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "463557",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-463557",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-463557"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 57,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_463557",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "7",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ac8837a9-5ff3-44f6-b0ae-625c5cdf11e2-lg.webp",
+    "https://content.estitor.com/d382d232-a1d5-46f0-9195-0c04658c1fc9-lg.webp",
+    "https://content.estitor.com/4dda1906-8a51-42f0-b708-429fce507718-lg.webp",
+    "https://content.estitor.com/badd2484-d38d-46f8-a5cb-6ef29a6931f6-lg.webp",
+    "https://content.estitor.com/fcb1e16b-40d0-44bf-a176-e16fd6204612-lg.webp",
+    "https://content.estitor.com/dbcab187-01a1-441e-a027-1a1e5ff493f6-lg.webp",
+    "https://content.estitor.com/b6e217de-14ae-4341-ac81-530cb5d72e69-lg.webp",
+    "https://content.estitor.com/e0480618-ed1b-4e31-8f95-4d1f7f27f529-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Posebno lijep i moderno opremljen stan za duži najam – odlična lokacija\n\nIzdaje se veoma lijep, svijetao i moderno opremljen stan, smješten u maloj bijeloj zgradi, odmah pored BIG Fashion-a (Delte).\n\nStan ima odličan i veoma funkcionalan raspored, dosta prirodne svjetlosti, balkon. Enterijer je moderno i ukusno uređen, tako da stan pruža osjećaj udobnog i lijepog doma, idealnog za duži boravak.\n\nPostoji mogućnost izdavanja kao dvosobnog stana\n\nLokacija je jedna od njegovih velikih prednosti – u neposrednoj blizini su BIG Fashion i brojni sadržaji potrebni za svakodnevni život, a sve važnije lokacije u gradu su lako dostupne.\n\nSlobodan od 30. septembra",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:19.506581+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.181639+00:00",
+  "source_html_sha256": "6f8a2b6419971bf2c61e399fabe114d1c655b7c472a0dc9410a77b4cd505ba68",
+  "title": "Izdavanje, jednosoban stan, 55m², Kod Big Fashion-a, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-30",
+  "updated_date": "2026-10-18",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Neda Neda",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 7,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Posebno lijep i moderno opremljen stan za duži najam – odlična lokacijaIzdaje se veoma lijep, svijetao i moderno opremljen stan, smješten u maloj bijeloj zgradi, odmah pored BIG Fashion-a (Delte).Stan ima odličan i ve...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!57",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267433733",
+      "name": "Neda Neda",
+      "email": null,
+      "source": "workbook:Likely agents!57"
+    },
+    {
+      "phone_e164": "+38267433733",
+      "name": "Neda Neda",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267433733"
+  ],
+  "phone_e164": "+38267433733",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "559506",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-559506",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-559506"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 617,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_559506",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2018",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dbb1fe28-4422-423e-99fa-330f09db0abd-lg.webp",
+    "https://content.estitor.com/c065358d-550d-444e-aecd-26b75c3271ae-lg.webp",
+    "https://content.estitor.com/5472391b-608b-43f3-8de1-16dcc6e7154b-lg.webp",
+    "https://content.estitor.com/ec78b0c5-761f-44b8-a549-08ca6a2b867c-lg.webp",
+    "https://content.estitor.com/6df0dfbf-3e71-4e0d-adf4-318a29ecc91d-lg.webp",
+    "https://content.estitor.com/42214e04-8ea7-4b8d-9626-1020b093eba7-lg.webp",
+    "https://content.estitor.com/296b3159-8924-477d-b6c0-fa5702805487-lg.webp",
+    "https://content.estitor.com/2312cf77-a046-4de7-946d-b7968686fdba-lg.webp",
+    "https://content.estitor.com/5ef822e8-d52b-4711-a8a6-5c09dafb68ce-lg.webp",
+    "https://content.estitor.com/2bebb5c2-a08d-4dd9-b253-c806079973ed-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdavanje - Funkcionalan i moderno opremljen jednosoban stan na Zabjelu, Podgorica. Ova lokacija nudi izuzetnu povezanost sa ključnim gradskim sadržajima. U neposrednoj blizini su Multicom, Klinički centar Crne Gore (KCCG) i Medicinski fakultet. Big Fashion Podgorica je udaljen svega desetak minuta vožnje, dok su Aroma, Apoteka, Idea i Kuća Hemije na samo par minuta od zgrade, obezbjeđujući sve što vam je potrebno za ugodan život.\n\nStan se prostire na 30.0 m² i efikasno je uređen. Sastoji se od predsoblja, odvojene spavaće sobe, kupatila, te otvorenog koncepta kuhinje sa trpezarijom i dnevnim boravkom. Posjeduje i mali balkon. Nedavno je okrečen i opremljen novim, održavanim namještajem, a u kupatilu je zamijenjena tuš kabina, što garantuje prijatan boravak.\n\nPored estetskih kvaliteta, stan nudi brojne pogodnosti: brzi Internet, Klimatizaciju, Interfon i Kablovsku TV. Sigurnost je dodatno obezbijeđena nadzornom kamerom i privatnim parking mjestom ispred objekta, koje je zaštićeno električnom ogradom, pružajući bezbrižnost. Mjesečni režijski troškovi su pristupačni.\n\nObavezan depozit. Ne propustite ovu priliku za idealan dom u Podgorici! Za sve dodatne informacije i zakazivanje pregleda, kontaktirajte nas putem Vibera ili WhatsAppa.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:51.196204+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.445694+00:00",
+  "source_html_sha256": "cb3833444910772ba2ff34bb2195a3358abe96d8742e2a15fcd48da037e1ca44",
+  "title": "Izdavanje, dvosoban stan, 30m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-20",
+  "updated_date": "2026-10-12",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 30,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "33a Iva Vizina, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Danijela Stojanovićcerić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2018,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdavanje - Funkcionalan i moderno opremljen jednosoban stan na Zabjelu, Podgorica. Ova lokacija nudi izuzetnu povezanost sa ključnim gradskim sadržajima. U neposrednoj blizini su Multicom, Klinički centar Crne Gore (...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!617",
+      "priority": 75,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38169197615",
+      "name": "Danijela Stojanovićcerić",
+      "email": null,
+      "source": "workbook:Outreach list!617"
+    },
+    {
+      "phone_e164": "+38169197615",
+      "name": "Danijela Stojanovićcerić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38169197615"
+  ],
+  "phone_e164": "+38169197615",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

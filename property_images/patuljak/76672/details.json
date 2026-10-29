@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "76672",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-stan-47-m2-resident-park-donja-gorica--76672",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-stan-47-m2-resident-park-donja-gorica--76672"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 106,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76672",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Ne",
+    "Sprat": "2",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "47 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_1.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Na prodaju jednosoban stan – 47 m² | Rezident Park, Donja Gorica Na prodaju moderan jednosoban stan površine 47 m², smješten u novoizgrađenom stambenom kompleksu Rezident Park u Donjoj Gorici, na svega 5 minuta vožnje od Big Fashion tržnog centra. Stan se nalazi u kvalitetnoj novogradnji i pruža visok nivo udobnosti i funkcionalnosti. Opremljen je dodatnom klimom, dok je u kupatilu ugrađeno podno grijanje. Terasa posjeduje roletne, što pruža dodatnu privatnost i zaštitu od sunca. Uz stan dolazi parking mjesto, a stanarima je na raspolaganju i teretana u sklopu kompleksa. Karakteristike: Površina: 47 m² Jedna spavaća soba Novogradnja Parking mjesto Dodatna klima Podno grijanje u kupatilu Roletne na terasi Teretana za stanare Cijena: 130.000 €",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:29.856515+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.466369+00:00",
+  "source_html_sha256": "cbd62dcf8c6cddf2306b762d8679a0932b8755c682088f9a07361ba0fab21c3a",
+  "title": "Prodaje se stan 47 m2, Resident Park, Donja Gorica",
+  "description_language": "en",
+  "price_raw": "130000.00€",
+  "price_amount": 130000,
+  "price_currency": "EUR",
+  "advertiser_name": "Aurora",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Ne",
+  "parking_raw": "1",
+  "area_m2": 47,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Na prodaju jednosoban stan – 47 m² | Rezident Park, Donja Gorica Na prodaju moderan jednosoban stan površine 47 m², smješten u novoizgrađenom stambenom kompleksu Rezident Park u Donjoj Gorici, na svega 5 minuta vožnje od Big Fashion tržnog centra. Stan se nalazi u kvalitetnoj novogradnji i pruža visok nivo udobnosti i funkcionalnosti. Opremljen je dodatnom klimom, dok je u kupatilu ugrađeno podno grijanje. Terasa posjeduje roletne, što pruža dodatnu privatnost i zaštitu od sunca. Uz stan dolazi parking mjesto, a stanarima je na raspolaganju i teretana u sklopu kompleksa. Karakteristike: Površina: 47 m² Jedna spavaća soba Novogradnja Parking mjesto Dodatna klima Podno grijanje u kupatilu Roletne na terasi Teretana za stanare Cijena: 130.000 €",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!106",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268142637",
+      "name": "Aurora",
+      "email": null,
+      "source": "workbook:Outreach list!106"
+    }
+  ],
+  "contact_phones": [
+    "+38268142637"
+  ],
+  "phone_e164": "+38268142637",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

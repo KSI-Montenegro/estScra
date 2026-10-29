@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "587103",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587103",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587103"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 687,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_587103",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2005",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/27227970-5368-4d6f-81d6-664f4e89d9d5-lg.webp",
+    "https://content.estitor.com/62e9229e-3478-455f-b59b-221b0cdb520e-lg.webp",
+    "https://content.estitor.com/d9ca8103-168f-4395-87c2-4c1fe8277f36-lg.webp",
+    "https://content.estitor.com/ef7b898f-1b7b-4288-a534-ebbfd9cc4f62-lg.webp",
+    "https://content.estitor.com/b443787c-d459-4d5c-94fe-503395ffab1b-lg.webp",
+    "https://content.estitor.com/092b6d4d-f849-4661-a9f5-1510adcfed95-lg.webp",
+    "https://content.estitor.com/c1ab097d-fe99-4090-9574-fde3267d1490-lg.webp",
+    "https://content.estitor.com/2d0728db-4540-4bed-bbdd-5c2579e5f395-lg.webp",
+    "https://content.estitor.com/c8d0843d-e055-4398-bae1-af2aad4e7226-lg.webp",
+    "https://content.estitor.com/3299af05-b08a-4067-9dc9-c56d8905a7df-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Stan za izdavanje u Podgorici, smješten na dobroj lokaciji koja spaja mir i urbanu pogodnost. Smješten blizini škole i fakulteta (Pravni/Ekonomski).Osunčan i renoviran stan, površine 57.0 m² plus balkon, nudi dvije spavaće sobe. Stan je u opremljen. Ima mnoštvo prostora za odlaganje stvari – uključujući špajz i dodatnu ostavu (zatvoreni balkon).Dobro nam došli! Extra Sadržaji: Klima,Interfon, Balkon, Ostava i špajz, Blizu školeMiran kraj, Odmah useljiv, Blizu škole, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:25.685756+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.829234+00:00",
+  "source_html_sha256": "b6176fa4ef4b631ac9f04c8ad12540321ab18c896a44e07a458724469eeb61f3",
+  "title": "Izdavanje, dvosoban stan, 57m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-02",
+  "updated_date": "2026-09-14",
+  "price_amount": 590,
+  "price_currency": "EUR",
+  "price_raw": "590 EUR",
+  "area_m2": 57,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "1A 13. Jula, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ana Dragovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 2,
+  "year_built": 2005,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "Stan za izdavanje u Podgorici, smješten na dobroj lokaciji koja spaja mir i urbanu pogodnost. Smješten blizini škole i fakulteta (Pravni/Ekonomski).Osunčan i renoviran stan, površine 57.0 m² plus balkon, nudi dvije sp...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!687",
+      "priority": 75,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+4368184231234",
+      "name": "Ana Dragovic",
+      "email": null,
+      "source": "workbook:Outreach list!687"
+    },
+    {
+      "phone_e164": "+4368184231234",
+      "name": "Ana Dragovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+4368184231234"
+  ],
+  "phone_e164": "+4368184231234",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,135 @@
+{
+  "source": "estitor",
+  "listing_id": "615011",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-615011",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-615011"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 994,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_615011",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6bc45e16-3577-4605-b5a7-2b658f1857d9-lg.webp",
+    "https://content.estitor.com/c9be17fc-f5e3-4af0-afe7-06bb50152744-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se garažno mjesto.\nVideo nadzor, rampa i automatska vrata",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:39.931420+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.578439+00:00",
+  "source_html_sha256": "8e991625b8fc17e8a40114e4815be57dd016b44b2c277085f0e0373b67e342da",
+  "title": "Izdavanje, parking/garaža, 15m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-12",
+  "updated_date": "2026-09-12",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "street_address": "Master 8, 8 Josipa Broza Tita, Podgorica, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Jovana P",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdaje se garažno mjesto.Video nadzor, rampa i automatska vrata",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!994",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267659048",
+      "name": "Jovana P",
+      "email": null,
+      "source": "workbook:Outreach list!994"
+    },
+    {
+      "phone_e164": "+38267659048",
+      "name": "Jovana P",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267659048"
+  ],
+  "phone_e164": "+38267659048",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "456020",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-456020",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-456020"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 325,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_456020",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/91d5f5f7-dc32-43fb-bff2-c31775a70354-lg.webp",
+    "https://content.estitor.com/3451aa77-47ae-4c02-9d4f-0c0dfe208ab4-lg.webp",
+    "https://content.estitor.com/f31f74c2-0b3c-4c43-bf82-f33180bb1198-lg.webp",
+    "https://content.estitor.com/1c0386e8-3a4e-4b7c-8747-8938906c4640-lg.webp",
+    "https://content.estitor.com/2bb49a23-4b6f-4ac0-bedf-28f649793963-lg.webp",
+    "https://content.estitor.com/8bb6a87b-41a3-4e9a-9d4c-913245e15e66-lg.webp",
+    "https://content.estitor.com/9dbbd604-8358-47f1-af4f-ffb0e03de33d-lg.webp",
+    "https://content.estitor.com/f7c3ba31-3e70-41bd-9059-ea8d56a08c41-lg.webp",
+    "https://content.estitor.com/19a2d76e-a000-4716-a9b9-93ec31356664-lg.webp",
+    "https://content.estitor.com/410b780d-6615-46b5-a74e-79ff55d6eeed-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaju se moderni i kompletno opremljeni stanovi u novogradnji. Ovaj udoban dom, površine 25,0m2 do 33.0 m², sastoji se od jedne spavaće sobe, kupatila i potpuno opremljene kuhinje. Uživajte u udobnosti klimatizovanog prostora, brzom Internetu i pogodnostima koje pruža novogradnja sa liftom. Poseban adut je fantastičan pogled na more, koji pruža mir i opuštanje. Za vašu potpunu komfornost obezbijeđena je i privatna garaža. Stan je osunčan tokom cijelog dana, smješten u mirnom kraju, idealnom za opušten i kvalitetan život. Dostupno za izdavanje od 20.09.2026. godine do 15.06.2027. godine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:24.143150+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.809173+00:00",
+  "source_html_sha256": "59a80179349426f9299e223914f12e84626788340cc2de2cb896b9cf4f2ea5d8",
+  "title": "Izdavanje, jednosoban stan, 30m², Kavač, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-12",
+  "updated_date": "2026-10-05",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 30,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "Tivat Heights Access Road, Kavač, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Jelena Bogdanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaju se moderni i kompletno opremljeni stanovi u novogradnji. Ovaj udoban dom, površine 25,0m2 do 33.0 m², sastoji se od jedne spavaće sobe, kupatila i potpuno opremljene kuhinje. Uživajte u udobnosti klimatizovanog...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!325",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269739315",
+      "name": "Jelena Bogdanovic",
+      "email": null,
+      "source": "workbook:Outreach list!325"
+    },
+    {
+      "phone_e164": "+38269739315",
+      "name": "Jelena Bogdanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269739315"
+  ],
+  "phone_e164": "+38269739315",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,158 @@
+{
+  "source": "patuljak",
+  "listing_id": "78939",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-vila-sa-privatnim-bazenom-i-pogledom-na--78939",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-vila-sa-privatnim-bazenom-i-pogledom-na--78939"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 761,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_78939",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Reževići",
+    "Broj soba": "4",
+    "Broj spratova": "2",
+    "Godina izgradnje": "2010-2019",
+    "Namještena": "Da",
+    "Vrsta poda": "Pločice",
+    "Primarna orijentacija": "Zapad",
+    "Parking mjesto": "1",
+    "Kanalizacija": "Standardna",
+    "Stambena kvadratura": "140 m2",
+    "Kvadratura placa": "140 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78939_19.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno namještena vila površine 140 m², smještena u mirnom primorskom naselju Katun Reževići, sa panoramskim pogledom na Jadransko more.\n\nVila ima tri prostrane spavaće sobe, od kojih svaka posjeduje sopstveno kupatilo, kao i dodatno kupatilo za goste. Svijetao dnevni boravak povezan je sa potpuno opremljenom kuhinjom, koja sadrži sve što je potrebno za udoban svakodnevni boravak.\n\nGlavne karakteristike:\n\n• privatni bazen\n• tri spavaće sobe sa sopstvenim kupatilima\n• ukupno četiri kupatila\n• potpuno opremljena kuhinja\n• klimatizacija\n• prostor za roštilj i obedovanje na otvorenom\n• panoramski pogled na more\n• privatno parking mjesto\n• mirno i privatno okruženje\n• potpuno namještena i spremna za useljenje\n\nVila se nalazi na svega nekoliko minuta vožnje od najljepših plaža Budvanske rivijere. Veliki supermarket udaljen je približno četiri minuta, dok su Petrovac, Sveti Stefan i Budva lako dostupni.\n\nIdealna je za porodice, parove ili grupe koje traže udoban dom za dugoročni boravak, sa dovoljno prostora, privatnošću i blizinom mora.\n\nZa više informacija ili dogovor o razgledanju, pošaljite poruku ili pozovite.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:05.870309+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.339834+00:00",
+  "source_html_sha256": "7c8c14bb85890ca2f05cce3ca1063c1b7f154a4abf094247367abd3fb620eb86",
+  "title": "Izdaje se vila sa privatnim bazenom i pogledom na more, Reževići",
+  "description_language": "en",
+  "price_raw": "1990.00€",
+  "price_amount": 1990,
+  "price_currency": "EUR",
+  "advertiser_name": "Borgo",
+  "property_type": "house",
+  "city": "Budva",
+  "district": "Reževići",
+  "building_floors_raw": "2",
+  "room_layout_raw": "4",
+  "parking_raw": "1",
+  "area_m2": 140,
+  "year_built": 2010,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdaje se potpuno namještena vila površine 140 m², smještena u mirnom primorskom naselju Katun Reževići, sa panoramskim pogledom na Jadransko more.Vila ima tri prostrane spavaće sobe, od kojih svaka posjeduje sopstveno kupatilo, kao i dodatno kupatilo za goste. Svijetao dnevni boravak povezan je sa potpuno opremljenom kuhinjom, koja sadrži sve što je potrebno za udoban svakodnevni boravak.Glavne karakteristike:• privatni bazen• tri spavaće sobe sa sopstvenim kupatilima• ukupno četiri kupatila• potpuno opremljena kuhinja• klimatizacija• prostor za roštilj i obedovanje na otvorenom• panoramski pogled na more• privatno parking mjesto• mirno i privatno okruženje• potpuno namještena i spremna za useljenjeVila se nalazi na svega nekoliko minuta vožnje od najljepših plaža Budvanske rivijere. Veliki supermarket udaljen je približno četiri minuta, dok su Petrovac, Sveti Stefan i Budva lako dostupni.Idealna je za porodice, parove ili grupe koje traže udoban dom za dugoročni boravak, sa dovoljno prostora, privatnošću i blizinom mora.Za više informacija ili dogovor o razgledanju, pošaljite poruku ili pozovite.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!761",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268937430",
+      "name": "Borgo Living",
+      "email": null,
+      "source": "workbook:Outreach list!761"
+    }
+  ],
+  "contact_phones": [
+    "+38268937430"
+  ],
+  "phone_e164": "+38268937430",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

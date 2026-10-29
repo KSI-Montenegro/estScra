@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "530238",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-plac-308m2-stara-varos-podgorica--530238",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-plac-308m2-stara-varos-podgorica--530238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 30,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_530238",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!30:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stara Varoš",
+    "Broj soba": "8+",
+    "Broj spratova": "1",
+    "Godina izgradnje": "Prije 1950",
+    "Namještena": "Ne",
+    "Vrsta poda": "Beton",
+    "Vrsta grijanja": "Ostalo",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "200m2 m2",
+    "Kvadratura placa": "308m2 m2",
+    "Kvadratura balkona": "1 m2"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 200,
+      "workbook_value": 308,
+      "source": "workbook:Not homes!30"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_3.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "???? PODGORICA – STARA VAROŠ | ATRAKTIVNA LOKACIJA\n\n???? Petra Prlje – jedna od najprometnijih ulica u Staroj Varoši\n\nNa prodaju kamena kuća – ruševina, smještena na izuzetno atraktivnoj lokaciji u srcu Stare Varoši.\n\n???? Površina placa: 308 m²\n???? Objekti u osnovi: 144 m² + 51 m²\n???? Odlična lokacija i velika frekvencija ljudi\n???? Idealan potencijal za restoran, hostel, apartmane ili drugi ugostiteljski objekat\n\n✨ Odlična investiciona prilika na jednoj od najatraktivnijih lokacija u Podgorici!\n\n???? Fiksna cijena: 250.000 €\n\n???? +382 69 318 338 – WhatsApp / Viber",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:40.625899+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.289742+00:00",
+  "source_html_sha256": "5431a607889a02baeca7e75d763e4a1ecce8f40f94331f9aaecd32e62086b29f",
+  "title": "Za prodaju plac 308m2, Stara Varos, Podgorica",
+  "description_language": "en",
+  "price_raw": "250000.00€",
+  "price_amount": 250000,
+  "price_currency": "EUR",
+  "advertiser_name": "Pajo",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Stara Varoš",
+  "building_floors_raw": "1",
+  "room_layout_raw": "8+",
+  "heating_raw": "Ostalo",
+  "parking_raw": "3 i više",
+  "area_m2": 200,
+  "year_built": 1950,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "???? PODGORICA – STARA VAROŠ | ATRAKTIVNA LOKACIJA???? Petra Prlje – jedna od najprometnijih ulica u Staroj VarošiNa prodaju kamena kuća – ruševina, smještena na izuzetno atraktivnoj lokaciji u srcu Stare Varoši.???? Površina placa: 308 m²???? Objekti u osnovi: 144 m² + 51 m²???? Odlična lokacija i velika frekvencija ljudi???? Idealan potencijal za restoran, hostel, apartmane ili drugi ugostiteljski objekat✨ Odlična investiciona prilika na jednoj od najatraktivnijih lokacija u Podgorici!???? Fiksna cijena: 250.000 €???? +382 69 318 338 – WhatsApp / Viber",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!30",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269318338",
+      "name": "Pajo",
+      "email": null,
+      "source": "workbook:Not homes!30"
+    }
+  ],
+  "contact_phones": [
+    "+38269318338"
+  ],
+  "phone_e164": "+38269318338",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

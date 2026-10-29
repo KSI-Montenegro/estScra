@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "74196",
+  "listing_url": "https://patuljak.me/oglas/prodajem-urbanizovano-zemljiste--74196",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-urbanizovano-zemljiste--74196"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 948,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74196",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!948:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Jastreb",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "8500 m m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "no_gallery_images",
+  "description_original": "Urbanizovan plac sa UTE uslovima na Glavnom Bulevaru Podgorica Danilovgrad ulaz sa Bulevara front 120 m ograđen i našu preko puta IVEKA CIJENA 120 E PO KVADRATU",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:27:16.955409+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.246757+00:00",
+  "source_html_sha256": "aeffd75605fa810bd22a2eec8936568c622744f78e1a044ba5281eb5a35f5ef6",
+  "title": "Prodajem urbanizovano zemljiste",
+  "description_language": "en",
+  "price_raw": "120.00€",
+  "price_amount": 120,
+  "price_currency": "EUR",
+  "advertiser_name": "Zeljko",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Jastreb",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Urbanizovan plac sa UTE uslovima na Glavnom Bulevaru Podgorica Danilovgrad ulaz sa Bulevara front 120 m ograđen i našu preko puta IVEKA CIJENA 120 E PO KVADRATU",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!948",
+      "notes": "check deal: sale at 120 EUR looks like a rent",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269454804",
+      "name": "Zeljko",
+      "email": null,
+      "source": "workbook:Outreach list!948"
+    }
+  ],
+  "contact_phones": [
+    "+38269454804"
+  ],
+  "phone_e164": "+38269454804",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 8500,
+  "missing_core_fields": [
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "78845",
+  "listing_url": "https://patuljak.me/oglas/prodajem-jednosoban-stan-45-m2-pruska-bijelo-polje--78845",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-jednosoban-stan-45-m2-pruska-bijelo-polje--78845"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 63,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78845",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!63:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Grad": "Bijelo Polje",
+    "Naselje": "Pruška",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Polunamješten",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "45 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78845_1.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Na prodaju jednosoban, kompletno renoviran stan u Pruškoj, na odličnoj lokaciji, prekoputa škole.\nStan je u potpunosti renoviran i uređen sa posebnom pažnjom, prvenstveno za lično stanovanje, a ne za dalju prodaju, zbog čega su prilikom renoviranja birana kvalitetna i trajna rješenja, sa fokusom na udobnost i funkcionalnost.\nNekretnina se nalazi na veoma praktičnoj lokaciji za svakodnevni život. U neposrednoj blizini nalaze se škola, Dom zdravlja, vrtić, gradska pijaca, prodavnice i drugi važni sadržaji, tako da je sve potrebno dostupno na svega nekoliko minuta.\nStan je prijatan, funkcionalan i spreman za useljenje bez dodatnih ulaganja. Zahvaljujući lokaciji i kvalitetu renoviranja, odličan je izbor kako za sopstveno stanovanje, tako i kao dugoročna investicija.\nPosebna prednost: renoviranje nije rađeno površinski niti sa namjerom da se stan pripremi za prodaju – stan je uređen za sopstvene potrebe, sa namjerom dugoročnog i kvalitetnog stanovanja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:05.254575+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.176504+00:00",
+  "source_html_sha256": "18c1113f6ffbc39c9fe085e5940e18099cd99367bf0d6de2af091d9267dcb972",
+  "title": "Prodajem jednosoban stan 45 m2, Pruška, Bijelo Polje",
+  "description_language": "en",
+  "price_raw": "99000.00€",
+  "price_amount": 99000,
+  "price_currency": "EUR",
+  "advertiser_name": "Resmija",
+  "property_type": "apartment",
+  "city": "Bijelo Polje",
+  "district": "Pruška",
+  "floor_raw": "4",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Struja",
+  "area_m2": 45,
+  "amenities": [],
+  "metadata_summary": "Na prodaju jednosoban, kompletno renoviran stan u Pruškoj, na odličnoj lokaciji, prekoputa škole.Stan je u potpunosti renoviran i uređen sa posebnom pažnjom, prvenstveno za lično stanovanje, a ne za dalju prodaju, zbog čega su prilikom renoviranja birana kvalitetna i trajna rješenja, sa fokusom na udobnost i funkcionalnost.Nekretnina se nalazi na veoma praktičnoj lokaciji za svakodnevni život. U neposrednoj blizini nalaze se škola, Dom zdravlja, vrtić, gradska pijaca, prodavnice i drugi važni sadržaji, tako da je sve potrebno dostupno na svega nekoliko minuta.Stan je prijatan, funkcionalan i spreman za useljenje bez dodatnih ulaganja. Zahvaljujući lokaciji i kvalitetu renoviranja, odličan je izbor kako za sopstveno stanovanje, tako i kao dugoročna investicija.Posebna prednost: renoviranje nije rađeno površinski niti sa namjerom da se stan pripremi za prodaju – stan je uređen za sopstvene potrebe, sa namjerom dugoročnog i kvalitetnog stanovanja.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!63",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268813191",
+      "name": "Resmija",
+      "email": null,
+      "source": "workbook:Outreach list!63"
+    }
+  ],
+  "contact_phones": [
+    "+38268813191"
+  ],
+  "phone_e164": "+38268813191",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

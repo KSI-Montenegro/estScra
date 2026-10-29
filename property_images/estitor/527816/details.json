@@ -1,0 +1,130 @@
+{
+  "source": "estitor",
+  "listing_id": "527816",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-527816",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-527816"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 6,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_527816",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Godina izgradnje": "2000",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski ili za druge potrebe",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/db010d22-8493-4bc8-b1d4-de99932934a3-lg.webp",
+    "https://content.estitor.com/6c81f25d-eddd-4128-bb7a-79e8a6a0ec88-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Odmah useljiv\n\nIzdaje se poslovni prostor\n\nNa odličnoj lokaciji, u neposrednoj blizini hotela Moskva, izdaje se poslovni prostor površine 28m².\nProstor ima renovirano kupatilo, kompletnu elektroinstalaciju i video nadzor. Nalazi se u prizemlju, sa lakim pristupom i odličnom vidljivošću.\nPogodan za kancelariju, studio, salon ili sličnu djelatnost.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:20.861807+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.521856+00:00",
+  "source_html_sha256": "95a1415038317ab082fdffbbcaef86869d2690bc893cb7fb5d82d464cbb4bc35",
+  "title": "Izdavanje, poslovni prostor, 28m², Bijeli Do, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-27",
+  "updated_date": "2026-10-13",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 28,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Sofija Stankovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "year_built": 2000,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Odmah useljivIzdaje se poslovni prostorNa odličnoj lokaciji, u neposrednoj blizini hotela Moskva, izdaje se poslovni prostor površine 28m².Prostor ima renovirano kupatilo, kompletnu elektroinstalaciju i video nadzor. ...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

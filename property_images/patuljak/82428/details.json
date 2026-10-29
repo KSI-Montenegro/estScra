@@ -1,0 +1,160 @@
+{
+  "source": "patuljak",
+  "listing_id": "82428",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-garsonjera--82428",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-garsonjera--82428"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 441,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82428",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!441:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "5",
+    "Kvadratura": "30 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "4 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugozapad",
+    "Parking mjesto": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82428_21.webp"
+  ],
+  "image_count": 22,
+  "image_status": "ok",
+  "description_original": "Bez posrednika, izdaje se na duži rok namještena garsonjera u Siti Kvartu, studentima, samcima, 31m2, 5 sprat, ulica Vojvode Maša Đurovića.\nGarsonjera će biti dostupna od 02.10.2026.\nMože da se pogleda i prije tog roka.\nCijena po upitu.\nKon. tf. 067324333.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:20.390020+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.487160+00:00",
+  "source_html_sha256": "09a2de003257140b1406db8b3e670ca5c22a4763e7a6f1d43ba4258a66af8371",
+  "title": "Izdaje se garsonjera",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Zoran",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "5",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 30,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Bez posrednika, izdaje se na duži rok namještena garsonjera u  Siti Kvartu, studentima, samcima, 31m2, 5 sprat, ulica Vojvode Maša Đurovića.Garsonjera će biti dostupna od 02.10.2026.Može da se pogleda i prije tog roka.Cijena po upitu.Kon. tf. 067324333.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!441",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267324333",
+      "name": "Zoran",
+      "email": null,
+      "source": "workbook:Outreach list!441"
+    }
+  ],
+  "contact_phones": [
+    "+38267324333"
+  ],
+  "phone_e164": "+38267324333",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

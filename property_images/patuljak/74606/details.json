@@ -1,0 +1,127 @@
+{
+  "source": "patuljak",
+  "listing_id": "74606",
+  "listing_url": "https://patuljak.me/oglas/grahovo-plac--74606",
+  "listing_urls": [
+    "https://patuljak.me/oglas/grahovo-plac--74606"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 88,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74606",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Grahovo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "3.300M m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74606_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74606_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:16.292627+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.718465+00:00",
+  "source_html_sha256": "c6f0eeb2c761258d9f86125d9a789488fb736b7b38426563681e07171606f9ab",
+  "title": "GRAHOVO PLAC",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milan",
+  "property_type": "land",
+  "city": "Nikšić",
+  "district": "Grahovo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "GRAHOVO PLAC",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!88",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269452452",
+      "name": "Milan",
+      "email": null,
+      "source": "workbook:Not homes!88"
+    }
+  ],
+  "contact_phones": [
+    "+38269452452"
+  ],
+  "phone_e164": "+38269452452",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "lot_area_m2": 3300,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

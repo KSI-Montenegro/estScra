@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "298761",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-298761",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-298761"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 381,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_298761",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Polusuteren",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4dafff69-f4bb-4a23-8531-1e225913e172-lg.webp",
+    "https://content.estitor.com/e5744845-a5bc-4888-8af2-fb297afcd2fe-lg.webp",
+    "https://content.estitor.com/0aeeb487-bf87-4474-a069-32fc1166e7c6-lg.webp",
+    "https://content.estitor.com/9ffab52c-138e-478d-991d-5fbab52c1f57-lg.webp",
+    "https://content.estitor.com/bd42239d-4ceb-4658-b9cc-a2a7bee52239-lg.webp",
+    "https://content.estitor.com/ad1aa716-89ca-4a6c-8c23-7ec364872071-lg.webp",
+    "https://content.estitor.com/30af3b66-74c2-4d72-b242-c482706b221a-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Na raspolaganju vam je garsonjera od 35 m2 za iznajmljivanje u Sutomoru, udaljena samo 400 metara od mora. Ova udobna garsonjera ima sve što vam je potrebno za ugodan boravak. Unutar garsonjere se nalazi funkcionalna ugaona garnitura koja se može rasklopiti i koristiti kao krevet za spavanje. Ovo vam pruža fleksibilnost u smislu prostora, tako da možete lako pretvoriti dnevni boravak u spavaću sobu po potrebi. Tu je takođe i dvije fotelje na rasklapanje koje vam omogućavaju dodatno mjesto za odmor ili spavanje. Lokacija garsonjere je povoljna jer se nalazi u blizini brojnih sadržaja. U neposrednoj blizini se nalaze marketi Voli i Idea, što vam omogućava jednostavan pristup prehrambenim proizvodima i ostalim potrebštinama koje vam mogu biti potrebne tokom boravka. Ova garsonjera je odličan izbor za pojedince ili parove koji žele uživati u blizini mora i istovremeno imati udoban smještaj s praktičnim rješenjima za spavanje. Bilo da dolazite na odmor ili imate privremeni boravak, ova garsonjera će vam pružiti ugodan i funkcionalan prostor za opuštanje i odmor. Na odličnoj lokaciji na mirnom mjestu, apartman je u stambenoj naseljenoj zgradi gdje se određena pravila moraju poštovati. U zgradi nijesu dozvoljene žurke, okupljanja, pravljenja žurki i bilo kakva buka jer se odma poziva komunalna inspekcija. Pušenje isključivo na terasi! Zgrada posjeduje svoj parking gdje skoro uvjek ima mjesta. Upotpunosti opremljen i funkcionalan apartman.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:52.077605+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.151622+00:00",
+  "source_html_sha256": "940f0bf75ce2d036d80a6e9c8d56f858831e0a7bdb418c45a1333da8a7a1c30d",
+  "title": "Izdavanje, jednosoban stan, 35m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2024-10-16",
+  "updated_date": "2026-09-13",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "price_raw": "200 EUR",
+  "area_m2": 35,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Ognjen Filipović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Polusuteren",
+  "furnishing_raw": "true",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Na raspolaganju vam je garsonjera od 35 m2 za iznajmljivanje u Sutomoru, udaljena samo 400 metara od mora. Ova udobna garsonjera ima sve što vam je potrebno za ugodan boravak. Unutar garsonjere se nalazi funkcionalna ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!381",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269822312",
+      "name": "Ognjen Filipović",
+      "email": null,
+      "source": "workbook:Outreach list!381"
+    },
+    {
+      "phone_e164": "+38269822312",
+      "name": "Ognjen Filipović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269822312"
+  ],
+  "phone_e164": "+38269822312",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

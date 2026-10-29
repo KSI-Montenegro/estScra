@@ -1,0 +1,168 @@
+{
+  "source": "patuljak",
+  "listing_id": "74188",
+  "listing_url": "https://patuljak.me/oglas/izdaju-se-dva-poslovna-prostora-po-61-m-bulevar-13--74188",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaju-se-dva-poslovna-prostora-po-61-m-bulevar-13--74188"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 95,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74188",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Kličevo",
+    "Broj prostorija": "8+",
+    "Sprat": "1",
+    "Namješten": "Ne",
+    "Godina izgradnje": "Novogradnja",
+    "Stambena kvadratura": "61 m2",
+    "Uknjiženo": true,
+    "Novogradnja": true,
+    "Balkon": true,
+    "Parking": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Blindirana vrata": true,
+    "Klima": true,
+    "Internet": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74188_15.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Izdaju se dva potpuno nova poslovna prostora na atraktivnoj lokaciji, na samom početku Bulevara 13. jul u Kličevu, iznad poslovnice Alter Modusa.\n\nOba prostora imaju površinu od po 61 m² i sastoje se od hodnika, dvije odvojene kancelarije, kuhinje, toaleta i terase.\n\nZahvaljujući poziciji objekta na samom bulevaru, prostori pružaju odličnu vidljivost i mogućnost postavljanja upečatljive reklame na objektu.\n\nProstori su pogodni za kancelarije, osiguravajuće kuće, ordinacije, klinike, agencije, predstavništva, edukativne centre i druge poslovne i uslužne\ndjelatnosti.\n\n• Površina: 2 × 61 m²\n• Cijena: 10 €/m² mjesečno\n• Moguć zakup jednog ili oba prostora\n• Dostupan je i dodatni prostor u pozadini objekta, površine 100 m²\n• Odličan prostor za isticanje reklame prema bulevaru\n???? Bulevar 13. jul, Kličevo – Nikšić\n???? Kontakt: +382 67 556 299",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:20.323626+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.771630+00:00",
+  "source_html_sha256": "85c7797b964b295cc3893a92a0e38bedd0fa3a8dc5a2b41b1b371743e86054be",
+  "title": "Izdaju se dva poslovna prostora po 61 m Bulevar 13. jul, Nikšić",
+  "description_language": "en",
+  "price_raw": "600.00€",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "advertiser_name": "Srdjan",
+  "property_type": "commercial",
+  "city": "Nikšić",
+  "district": "Kličevo",
+  "floor_raw": "1",
+  "furnishing_raw": "Ne",
+  "parking_raw": true,
+  "area_m2": 61,
+  "amenities": [
+    "Uknjiženo",
+    "Novogradnja",
+    "Balkon",
+    "Parking",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Blindirana vrata",
+    "Klima",
+    "Internet"
+  ],
+  "metadata_summary": "Izdaju se dva potpuno nova poslovna prostora na atraktivnoj lokaciji, na samom početku Bulevara 13. jul u Kličevu, iznad poslovnice Alter Modusa.Oba prostora imaju površinu od po 61 m² i sastoje se od hodnika, dvije odvojene kancelarije, kuhinje, toaleta i terase.Zahvaljujući poziciji objekta na samom bulevaru, prostori pružaju odličnu vidljivost i mogućnost postavljanja upečatljive reklame na objektu.Prostori su pogodni za kancelarije, osiguravajuće kuće, ordinacije, klinike, agencije, predstavništva, edukativne centre i druge poslovne i uslužne djelatnosti.• Površina: 2 × 61 m²• Cijena: 10 €/m² mjesečno• Moguć zakup jednog ili oba prostora• Dostupan je i dodatni prostor u pozadini objekta, površine 100 m²• Odličan prostor za isticanje reklame prema bulevaru???? Bulevar 13. jul, Kličevo – Nikšić???? Kontakt: +382 67 556 299",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!95",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267556299",
+      "name": "Srdjan",
+      "email": null,
+      "source": "workbook:Not homes!95"
+    }
+  ],
+  "contact_phones": [
+    "+38267556299"
+  ],
+  "phone_e164": "+38267556299",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

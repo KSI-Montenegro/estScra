@@ -1,0 +1,132 @@
+{
+  "source": "patuljak",
+  "listing_id": "76322",
+  "listing_url": "https://patuljak.me/oglas/trazim-stan-ili-garsonjeru-za-izdavanje--76322",
+  "listing_urls": [
+    "https://patuljak.me/oglas/trazim-stan-ili-garsonjeru-za-izdavanje--76322"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 942,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76322",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!942:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Mojkovac",
+    "Naselje": "Centar",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "3",
+    "Kvadratura": "40 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76322_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:10.941322+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.211127+00:00",
+  "source_html_sha256": "02218092581c1332211060b45441fe70a2c68a2097276ddb12600a16bf554a15",
+  "title": "Trazim stan ili garsonjeru za izdavanje",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Jelica",
+  "property_type": "apartment",
+  "city": "Mojkovac",
+  "district": "Centar",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 40,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Trazim stan ili garsonjeru za izdavanje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!942",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268142920",
+      "name": "Jelica",
+      "email": null,
+      "source": "workbook:Outreach list!942"
+    }
+  ],
+  "contact_phones": [
+    "+38268142920"
+  ],
+  "phone_e164": "+38268142920",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

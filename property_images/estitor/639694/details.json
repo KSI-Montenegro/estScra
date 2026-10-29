@@ -1,0 +1,121 @@
+{
+  "source": "estitor",
+  "listing_id": "639694",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-639694",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-639694"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 60,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_639694",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/988cbd27-731e-4907-9897-b5fddd91fc59-lg.webp",
+    "https://content.estitor.com/87bb6af2-c652-4c74-a189-fe0ed368e60a-lg.webp",
+    "https://content.estitor.com/4fdb604f-9252-4fe7-97ef-bc122335390b-lg.webp",
+    "https://content.estitor.com/2c68ebbd-3ca5-4353-a7ce-86833909212c-lg.webp",
+    "https://content.estitor.com/e5f513c9-2a00-4c84-b1d3-b5a2976fd5c1-lg.webp",
+    "https://content.estitor.com/a5b3c65e-55ea-4241-b0ae-f30af8ef110a-lg.webp",
+    "https://content.estitor.com/6fe89bf3-25e7-4606-b5ac-0c7ac87b6120-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izuzetna prilika za investiciju ili izgradnju doma u srcu Starog Bara!\n\nNudimo Vam prostrani plac površine 1550 m², smješten na samo 200 metara od čuvenog istorijskog Starog grada Bar. Ova fantastična lokacija pruža jedinstvenu kombinaciju mira, predivnog prirodnog okruženja i blizine kulturnih znamenitosti.\n\nNa placu postoji mogućnost izgradnje porodične kuće površine 76 m², što ga čini idealnim za one koji sanjaju o svom parčetu raja pod suncem Crne Gore, ili za investitore koji prepoznaju potencijal ove lokacije.\n\nUživajte u autentičnom ambijentu Starog Bara, okruženi bogatom istorijom i prirodom, a istovremeno budite blizu svih važnih sadržaja koje grad Bar nudi – od modernih marina i prelijepih plaža do urbane infrastrukture.\n\nOvo je rijetka prilika da posjedujete značajno zemljište na tako atraktivnoj lokaciji. Savršeno za izgradnju trajnog doma, vikendice ili za razvoj turističkih kapaciteta.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:44.336876+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.818264+00:00",
+  "source_html_sha256": "189986a9c70849eafa946b5cb7518e5a0dee72c411d60978c1e8220bd6efc2d7",
+  "title": "Prodaja, plac, 1550m², Stari Bar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-22",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Milena Vasiljevic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izuzetna prilika za investiciju ili izgradnju doma u srcu Starog Bara! Nudimo Vam prostrani plac površine 1550 m², smješten na samo 200 metara od čuvenog istorijskog Starog grada Bar. Ova fantastična lokacija pruža je...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "613721",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-613721",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-613721"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 371,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613721",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/74893074-1ca6-4189-8f87-641f8955b3a0-lg.webp",
+    "https://content.estitor.com/6745128f-432d-4de0-bfff-cffa0442b5b1-lg.webp",
+    "https://content.estitor.com/632ec674-0a52-448e-a9fc-71da780fcee0-lg.webp",
+    "https://content.estitor.com/c6c15ea3-2b40-4394-b49e-1fc6910b58b1-lg.webp",
+    "https://content.estitor.com/cc21ffdc-a4ba-4808-abcc-7676905bad0d-lg.webp",
+    "https://content.estitor.com/636a522a-f9f1-4036-8f05-c0c2500fbb97-lg.webp",
+    "https://content.estitor.com/a4e2adc5-cb34-485c-b9f7-5207c45016fa-lg.webp",
+    "https://content.estitor.com/cd495d62-3cf4-4c16-8cd2-ca6166292ab9-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "PROSTRAN I SVIJETAO STAN U CENTRU BUDVE – DUGOROČNI NAJAM\nIzdaje se prostran i svijetao stan površine 51 m², smješten u samom centru Budve, u neposrednoj blizini TQ Plaza.\nStan se nalazi na odličnoj lokaciji, svega oko 250 m od mora, dok je Stari grad udaljen približno 5 minuta lagane šetnje. U neposrednoj blizini nalaze se pijaca, marketi, škola i svi sadržaji potrebni za ugodan i praktičan svakodnevni život.\nZgrada je mirna i uredna, što stan čini pogodnim za osobe koje žele da žive u centru grada, ali istovremeno cijene mir i privatnost.\nStan je prostran, funkcionalan i ispunjen prirodnom svjetlošću, a opremljen je za udoban svakodnevni život.\n\nStan se izdaje isključivo na period od godinu dana, uz zaključenje ugovora o zakupu.\nUslovi zakupa: depozit + prva i posljednja mjesečna kirija.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:47.201284+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.093064+00:00",
+  "source_html_sha256": "28e43b2b8585f3bb73ae8e12d67e18c033aad52e19ba682fb0e8fc92a7490836",
+  "title": "Izdavanje, jednosoban stan, 51m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-10",
+  "updated_date": "2026-09-18",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 51,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "21 Jadranski put, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sara Vujovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "PROSTRAN I SVIJETAO STAN U CENTRU BUDVE – DUGOROČNI NAJAMIzdaje se prostran i svijetao stan površine 51 m², smješten u samom centru Budve, u neposrednoj blizini TQ Plaza.Stan se nalazi na odličnoj lokaciji, svega oko ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!371",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267881174",
+      "name": "Sara Vujovic",
+      "email": null,
+      "source": "workbook:Outreach list!371"
+    },
+    {
+      "phone_e164": "+38267881174",
+      "name": "Sara Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267881174"
+  ],
+  "phone_e164": "+38267881174",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

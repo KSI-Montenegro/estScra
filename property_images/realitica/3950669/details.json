@@ -1,0 +1,143 @@
+{
+  "source": "realitica",
+  "listing_id": "3950669",
+  "listing_url": "https://www.realitica.com/hr/listing/3950669",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3950669"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 130,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3950669",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Ulcinj",
+    "Godina Gradnje": "2026",
+    "Spavaćih Soba": "1",
+    "Kupatila": "1",
+    "Stambena Površina": "45 m2",
+    "Parking Mjesta": "1",
+    "Prvi Red do Mora": true,
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3950669",
+    "Postavljeno": "23 Oct, 2026",
+    "Zadnja Promjena": "23 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3950669_img_3955.jpeg",
+    "https://www.realitica.com/images/listing_photos/3950669_img_3956r.jpeg",
+    "https://www.realitica.com/images/listing_photos/3950669_img_3959.jpg"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "PRODAJA LUKSUZNIH STANOVA – Otrant Reef\n\n📍Velika Plaža, Ulcinj\n\n🌟 Savršena prilika za život uz more ili investiciju u srcu Jadrana!\n\nPredstavljamo vam ekskluzivnu ponudu stanova u prestižnom novom kompleksu Otrant Reef – modernom rezidencijalnom razvoju smještenom odmah uz čistu obalu Velike plaže u Ulcinju. Ovaj luksuzni projekat spaja prirodnu ljepotu i pažljivo dizajniranu arhitekturu s panoramskim pogledima na more, stvarajući idealan balans između opuštenog mediteranskog načina života i udobnosti premium stanovanja.\n\n🏡 O kompleksu:\n\n• Lokacija: Velika Plaža, Ulcinj – direktno uz plažu i more.\n\n• Dvije stambene kule i treća kula hotelskog tipa.\n\n• Svaki stan ima prostranu terasu s panoramskim pogledom i kvalitetnu završnu obradu.\n\n• U kompleksu se nude i sadržaji poput SPA centra, bazena, restorana, šetališta i uređenih zelenih zona – sve za potpuni mediteranski način života.\n\n✨ Aktuelna ponuda stanova:\n\nOd 50 m2 do 200 m2\n\n🔊 Na ponudi jednosbni dvosobni trosobni stanovi\n\n📍 Prednosti lokacije:\n\n🏖️ Nekoliko koraka do Velike plaže – jedne od najdužih i najatraktivnijih plaža na Jadranu.\n\n🍹 Blizina lokalnih restorana, kafića i sadržaja za turiste i mještane.\n\n🌅 Izvanredna investiciona vrijednost – Ulcinj je u fokusu rasta turizma i potražnje za nekretninama.\n\n...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:17.379216+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.955806+00:00",
+  "source_html_sha256": "20413f05f01dc6d54e384ce327c1171e276b7b710771d80fa784a153dd151a2c",
+  "title": "Prodajem Stan-Apartman, Ulcinj",
+  "description_language": "hr",
+  "city": "Ulcinj",
+  "parking_raw": "1",
+  "published_date_raw": "23 Oct, 2026",
+  "updated_date_raw": "23 Oct, 2026",
+  "area_m2": 45,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "parking_spaces": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "amenities": [
+    "Prvi Red do Mora",
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "PRODAJA LUKSUZNIH STANOVA – Otrant Reef \n📍Velika Plaža, Ulcinj\n\n🌟 Savršena prilika za život uz more ili investiciju u srcu Jadrana!\n\nPredstavljamo vam ekskluzivnu ponudu stanova u prestižnom novom kompleksu Otrant Reef – modernom rezidencijalnom razvoju smještenom odmah uz čistu obalu Velike plaže u Ulcinju. Ovaj luksuzni projekat spaja prirodnu ljepotu i pažljivo dizajniranu arhitekturu s panoramskim pogledima na more, stvarajući idealan balans između opuštenog mediteranskog načina života i udobnosti premium stanovanja. \n\n🏡 O kompleksu:\n\t•\tLokacija: Velika Plaža, Ulcinj – direktno uz plažu i more. \n\t•\tDvije stambene kule i treća kula hotelskog tipa. \n\t•\tSvaki stan ima prostranu terasu s panoramskim pogledom i kvalitetnu završnu obradu. \n\t•\tU kompleksu se nude i sadržaji poput S",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!130",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269500488",
+      "name": "Mahir",
+      "email": null,
+      "source": "workbook:Likely agents!130"
+    }
+  ],
+  "contact_phones": [
+    "+38269500488"
+  ],
+  "phone_e164": "+38269500488",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [
+    "price"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

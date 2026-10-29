@@ -1,0 +1,162 @@
+{
+  "source": "patuljak",
+  "listing_id": "84744",
+  "listing_url": "https://patuljak.me/oglas/one-bedroom-apartment-in-becici-montenegro--84744",
+  "listing_urls": [
+    "https://patuljak.me/oglas/one-bedroom-apartment-in-becici-montenegro--84744"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 18,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84744",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Bečići",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "Prizemlje",
+    "Kvadratura": "48 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Kvadratura balkona": "3 m2",
+    "Vrsta poda": "Pločice",
+    "Primarna orijentacija": "Jug",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_22.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_23.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84744_24.webp"
+  ],
+  "image_count": 25,
+  "image_status": "ok",
+  "description_original": "This apartment is for sale in Sunny Side Wellness Resort & Spa, inIvanovići, Bečići, near Budva. The 48 m² layout includes a separate bedroom,living room, equipped kitchen, bathroom and a terrace overlooking the swimmingpool and surrounding mountains.\n\nThe apartment is on the ground floor and is offered with furniture andhousehold appliances. The kitchen has a hob, oven, microwave, refrigerator,fitted cabinets and work surfaces, plus a dining area with four chairs. Thebedroom includes a double bed and wardrobe; the living room has a corner sofa,coffee table and floor lamp. The bathroom has a shower, washing machine andwater heater. An air conditioner in the living room provides both cooling andheating.\n\nThe complex offers a swimming pool, fitness room, children’s playroom,sauna and hammam throughout the year. The terrace faces the pool, while thewindows face south and southeast, allowing you to enjoy the morning sun risingabove the mountains. There is no direct sea view; the appeal lies in thecombination of a practical living space, a private terrace, mountain sceneryand resort-style facilities.\n\nBečići Beach is 700 metres away, and Budva is 3 km from the complex. Theproperty is on a hillside, as is common in this part of the Montenegrin coast,so the route to the beach involves a change in elevation.\n\nThe apartment can serve as a holiday home, a base for longer stays inMontenegro or a property to consider for seasonal tourist rentals. If you areinterested in rental income, I can help organize the rental and discuss ongoingproperty management around your goals\n.\nAsking price: €135,000\n.\n???? +382 68 156 037 (WhatsApp), Telegram:@VRaushan\nContact me for a private viewing or arrange a detailed online viewing. If you’velong dreamed of moving to the seaside, this might just be the apartment for you\n.\nInterested? Send me message and I will:\n• Send you the video and floor plan of object;\n• Tell you about the area, infrastructure and actual running costs;\n• Arrange an in-person viewing or an online tour if you are not yet inMontenegro.\n.\n\nRaushan Valeev is your personal realtor inMontenegro. 15 years in seaside real estate. I provide personalized supportevery step of the way — from the initial idea of buying a home by the sea andchoosing the right property to completing the purchase and settling into lifeby the sea",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:51.035507+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.769859+00:00",
+  "source_html_sha256": "df2631c111e0d0d27efc1ab7da388f0f2d28afa43fe1c11767ad6ca3ae5a4b91",
+  "title": "One-bedroom apartment in Bečići Montenegro",
+  "description_language": "en",
+  "price_raw": "135000.00€",
+  "price_amount": 135000,
+  "price_currency": "EUR",
+  "advertiser_name": "Raushan",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Bečići",
+  "floor_raw": "Prizemlje",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 48,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "This apartment is for sale in Sunny Side Wellness Resort & Spa, inIvanovići, Bečići, near Budva. The 48 m² layout includes a separate bedroom,living room, equipped kitchen, bathroom and a terrace overlooking the swimmingpool and surrounding mountains. The apartment is on the ground floor and is offered with furniture andhousehold appliances. The kitchen has a hob, oven, microwave, refrigerator,fitted cabinets and work surfaces, plus a dining area with four chairs. Thebedroom includes a double bed and wardrobe; the living room has a corner sofa,coffee table and floor lamp. The bathroom has a shower, washing machine andwater heater. An air conditioner in the living room provides both cooling andheating. The complex offers a swimming pool, fitness room, children’s playroom,sauna and hammam throughout the year. The terrace faces the pool, while thewindows face south and southeast, allowing you to enjoy the morning sun risingabove the mountains. There is no direct sea view; the appeal lies in thecombination of a practical living space, a private terrace, mountain sceneryand resort-style facilities. Bečići Beach is 700 metres away, and Budva is 3 km from the complex. Theproperty is on a hillside, as is common in this part of the Montenegrin coast,so the route to the beach involves a change in elevation. The apartment can serve as a holiday home, a base for longer stays inMontenegro or a property to consider for seasonal tourist rentals. If you areinterested in rental income, I can help organize the rental and discuss ongoingproperty management around your goals.Asking price: €135,000.???? +382 68 156 037 (WhatsApp), Telegram:@VRaushanContact me for a private viewing or arrange a detailed online viewing. If you’velong dreamed of moving to the seaside, this might just be the apartment for you.Interested? Send me message and I will:• Send you the video and floor plan of object;• Tell you about the area, infrastructure and actual running costs;• Arrange an in-person viewing or an online tour if you are not yet inMontenegro..Raushan Valeev is your personal realtor inMontenegro. 15 years in seaside real estate. I provide personalized supportevery step of the way — from the initial idea of buying a home by the sea andchoosing the right property to completing the purchase and settling into lifeby the sea",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!18",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268156037",
+      "name": "Raushan",
+      "email": null,
+      "source": "workbook:Likely agents!18"
+    }
+  ],
+  "contact_phones": [
+    "+38268156037"
+  ],
+  "phone_e164": "+38268156037",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

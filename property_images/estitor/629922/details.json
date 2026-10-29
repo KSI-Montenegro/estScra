@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "629922",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-629922",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-629922"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 50,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_629922",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2b25a2a8-582d-449e-9c63-921801ace2f7-lg.webp",
+    "https://content.estitor.com/fd4190eb-ed05-498a-964c-c52b87476b5b-lg.webp",
+    "https://content.estitor.com/05701cdf-cf84-4af3-80ac-8d6590bff8eb-lg.webp",
+    "https://content.estitor.com/3ac413bc-83e6-4e8f-9524-eb0bd84df593-lg.webp",
+    "https://content.estitor.com/3da8cf9f-4cc6-46e1-8bd7-05ab5634376d-lg.webp",
+    "https://content.estitor.com/5fb24505-324d-44c8-b1fd-7194ce114837-lg.webp",
+    "https://content.estitor.com/2f0fa263-e246-4833-9834-7109c101fa69-lg.webp",
+    "https://content.estitor.com/59dab309-80bb-4f60-9881-e8c517801022-lg.webp",
+    "https://content.estitor.com/c62c3ac2-2b45-4dfb-82b9-84d50b31567e-lg.webp",
+    "https://content.estitor.com/371ece99-4adc-4e4a-93ed-ed882f714af3-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran, svijetao i funkcionalan dvosoban stan, idealan za porodicu ili par koji traži udoban dom u mirnom okruženju, na drugom spratu.\n\nLokacija: Gorica C\n\nStan nudi prostran dnevni boravak, veliku kuhinju i trpezariju, predsoblje i veliki hodnik koji vodi do spavaćih soba. Glavna spavaća soba i dnevni boravak imaju izlaz na terasu.\n\nPosjeduje ogromnu terasu sa velikim staklenim prozorima koja omogućava puno svjetlosti i prozračnosti u stanu.\n\nKuhinja je takodje kompletno opremljena sa puno radne površine.\n\nZgrada posjeduje javni parking, lift i video nadzor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:16.429832+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.111936+00:00",
+  "source_html_sha256": "daee3184ed7f2a9b48d5b46651c90d4230d624011dc3fc727403743154cefb23",
+  "title": "Izdavanje, dvosoban stan, 64m², Podgorica, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-06",
+  "updated_date": "2026-10-21",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 64,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Crna Gora",
+  "street_address": "3 Ulcinjska, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Tea Čelebić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se prostran, svijetao i funkcionalan dvosoban stan, idealan za porodicu ili par koji traži udoban dom u mirnom okruženju, na drugom spratu.Lokacija: Gorica CStan nudi prostran dnevni boravak, veliku kuhinju i t...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!50",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269306006",
+      "name": "Tea Čelebić",
+      "email": null,
+      "source": "workbook:Likely agents!50"
+    },
+    {
+      "phone_e164": "+38269306006",
+      "name": "Tea Čelebić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269306006"
+  ],
+  "phone_e164": "+38269306006",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "635608",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635608",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635608"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 116,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_635608",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6889c0d0-a685-450d-9ea8-ed2e09eba593-lg.webp",
+    "https://content.estitor.com/73861fd5-a771-46cd-83be-e08eb1c6ce90-lg.webp",
+    "https://content.estitor.com/180d66a1-2981-40f0-8339-fea8de4f3b75-lg.webp",
+    "https://content.estitor.com/85171ea0-29f1-45cb-b571-586a6172fcc4-lg.webp",
+    "https://content.estitor.com/953ebfec-4ccc-4bf6-87c5-cc38250c8419-lg.webp",
+    "https://content.estitor.com/04b76d18-6a92-4ad5-9385-63e5d47bdba1-lg.webp",
+    "https://content.estitor.com/c5c5eed6-9a2b-452b-b520-073c7ba8533e-lg.webp",
+    "https://content.estitor.com/e0d35897-d754-470b-8813-4ecddfbc22e6-lg.webp",
+    "https://content.estitor.com/bc860408-a2a5-4cf0-a6a9-eedad15c8ad7-lg.webp",
+    "https://content.estitor.com/569322ba-3c18-44bb-be58-83604796f09b-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetno svijetao, prostran i elegantno uređen stan površine 68m2\n(ne računajući veliku terasu), smješten na 1. spratu moderne stambene zgrade. Stan je kompletno opremljen novim, kvalitetnim namještajem i pažljivo odabranim dizajnerskim detaljima.\nSastoji se od prostranog hodnika, toaleta, dvije spavaće sobe, kuhinje, prostrane trpezarije i dnevnog boravka. Ogromna terasa sa izlazom iz dnevnog boravka i spavaće sobe, savršena za opuštanje.\n\nStan posjeduje modernu ambijentalnu rasvjetu, svremeni enterijer i svaka prostorija je klimatizovana.\n\nPosjeduje parking ispred zgrade i garažno mjesto.\n\nZgrada je obezbijedjena video nadzorom i posjeduje lift.\n\nDepozit u visini jedne mjesečne kirije je obavezan.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:04.296829+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.814545+00:00",
+  "source_html_sha256": "6676d5ce42241f248a54ef628d99de3a18dffc24eaa490f913c65e8713e629d8",
+  "title": "Izdavanje, stan, 68m², Pobrežje, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-14",
+  "updated_date": "2026-10-16",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 68,
+  "rooms": 11,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "101 4. Jul, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Iva Celebic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se izuzetno svijetao, prostran i elegantno uređen stan površine 68m2(ne računajući veliku terasu), smješten na 1. spratu moderne stambene zgrade. Stan je kompletno opremljen novim, kvalitetnim namještajem i paž...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!116",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268454951",
+      "name": "Iva Celebic",
+      "email": null,
+      "source": "workbook:Likely agents!116"
+    },
+    {
+      "phone_e164": "+38268454951",
+      "name": "Iva Celebic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268454951"
+  ],
+  "phone_e164": "+38268454951",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

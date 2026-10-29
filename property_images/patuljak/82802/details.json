@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "82802",
+  "listing_url": "https://patuljak.me/oglas/plac-pored-vinarije-u-dobrskom-selu--82802",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-pored-vinarije-u-dobrskom-selu--82802"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 66,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_82802",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "4400 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82802_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82802_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Plac je površine 4.000m² i nalazi se u najljepšem dijelu Dobrskog Sela, graniči se sa novoizgrađenom vinarijom \"Marković\" (prelijep pogled na vinograde vinarije). Uz plac kompletnom dužinom prolazi seoski asfaltni put! Kontakt tel. 067300565",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:28.360388+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.287537+00:00",
+  "source_html_sha256": "136a5c013d09bcfd175fa2e4ae43cb1ece8808d55bdecde7a5c6d9eddcf4a461",
+  "title": "Plac pored vinarije u Dobrskom Selu",
+  "description_language": "en",
+  "price_raw": "110000.00€",
+  "price_amount": 110000,
+  "price_currency": "EUR",
+  "advertiser_name": "Marija",
+  "property_type": "land",
+  "city": "Cetinje",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Plac je površine 4.000m² i nalazi se u najljepšem dijelu Dobrskog Sela, graniči se sa novoizgrađenom vinarijom Marković (prelijep pogled na vinograde vinarije). Uz plac kompletnom dužinom prolazi seoski asfaltni put! Kontakt tel. 067300565",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!66",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267554791",
+      "name": "Marija",
+      "email": null,
+      "source": "workbook:Likely agents!66"
+    }
+  ],
+  "contact_phones": [
+    "+38267554791"
+  ],
+  "phone_e164": "+38267554791",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "lot_area_m2": 4400,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

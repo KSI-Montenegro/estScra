@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "554439",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-554439",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-554439"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 674,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_554439",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5800c68e-a498-4a85-b9ff-f82fc5b7808d-lg.webp",
+    "https://content.estitor.com/2db490ee-3c4a-4d39-8971-d20299b9062e-lg.webp",
+    "https://content.estitor.com/32f747e4-0f97-4da2-bee8-f86c7958d082-lg.webp",
+    "https://content.estitor.com/1dcaaf15-3ec9-4839-bd3b-0b29be077bcf-lg.webp",
+    "https://content.estitor.com/5fcc609e-dda4-4782-9f44-2467ea64cdc3-lg.webp",
+    "https://content.estitor.com/a3c5f2da-b20a-46f8-99f5-8e8360244e7b-lg.webp",
+    "https://content.estitor.com/c4a84430-4803-40bb-83f0-60b34ec0b458-lg.webp",
+    "https://content.estitor.com/e62fe9e4-c8bf-4344-b0b5-0232227d7333-lg.webp",
+    "https://content.estitor.com/6c3f2e7c-43bc-465b-aea7-74b8bba4c77f-lg.webp",
+    "https://content.estitor.com/d20f6c23-74b4-466d-82ee-de06939fff71-lg.webp",
+    "https://content.estitor.com/7b8f3a43-b3bf-42c8-b3fb-3478feeb8468-lg.webp",
+    "https://content.estitor.com/f512e351-3d73-436e-a1f6-d873ed45b6c4-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban polunamješten stan u Zagoriču. Nalazi se u zgradi, pozicioniran na drugom spratu zgrade bez lifta, zapadno orjentisan.\nPovršina je 40m2\nStruktura: ulazni hodnik, dnevni boravak, odvojena kuhinja, trpezarija, kupatilo, spavaća soba, terasa.\nStan je klimatizovan.\nPostoji mogućnost kompletnog opremanja uz povećanje kirije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:19.444643+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.761418+00:00",
+  "source_html_sha256": "6904b268d99185c2b6d26c9c35662681b3209701a6c1ec09b1eaec5ebc79ad56",
+  "title": "Izdavanje, jednosoban stan, 40m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-06",
+  "updated_date": "2026-09-20",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Đorđe Bušković",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban polunamješten stan u Zagoriču. Nalazi se u zgradi, pozicioniran na drugom spratu zgrade bez lifta, zapadno orjentisan.Površina je 40m2Struktura: ulazni hodnik, dnevni boravak, odvojena kuhinja, tr...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!674",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269010389",
+      "name": "Đorđe Bušković",
+      "email": null,
+      "source": "workbook:Outreach list!674"
+    },
+    {
+      "phone_e164": "+38269010389",
+      "name": "Đorđe Bušković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269010389"
+  ],
+  "phone_e164": "+38269010389",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

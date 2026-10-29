@@ -1,0 +1,151 @@
+{
+  "source": "patuljak",
+  "listing_id": "20282",
+  "listing_url": "https://patuljak.me/oglas/udoban-stan-u-herceg-novom-je-vase-idealno-mjesto--20282",
+  "listing_urls": [
+    "https://patuljak.me/oglas/udoban-stan-u-herceg-novom-je-vase-idealno-mjesto--20282"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 778,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_20282",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Herceg Novi",
+    "Naselje": "Igalo",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Pločice",
+    "Parking mjesto": "1",
+    "Pogled na more": "Ima",
+    "Stambena kvadratura": "28 m2",
+    "Kvadratura balkona": "6 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Samo za vas, ugodan apartman koji će postati vaš novi dom na obali Crne Gore! Njegova površina je 28 m² + terasa sa kliznim staklom od 6 m², gdje možete uživati u jutarnjoj kafi, dočekati izlazak sunca i gledati kako se grad i more bude.\nOvo je garsonjera, ali sa zasebnom modernom kompaktnom kuhinjom. Stan je u savršenom stanju nakon svježeg renoviranja sa novim namještajem i novim aparatima - spreman je za vaš ugodan život od prvog dana. Kuća je izolovana - hladna ljeti, topla zimi, što će vam značajno uštedjeti mjesečne troškove režija.\nAko se ljeti smrznete ili zimi nije dovoljno vruće, uvijek možete \"upaliti\" kamin - ovo je naš mali romantični poklon novim vlasnicima.\nŠto se tiče komšija - dobro.\nŠto se tiče parkinga - parking je zajednički, ali ima dovoljno mjesta za sve.\nO okolini - lanac prodavnica, restoran sa gotovom hranom, prodavnica alkoholnih pića sa popustom, prodavnica sa uvijek svježim povrćem i voćem - 2 minute.\nLogistika: stanica javnog prevoza – 4 minute hoda, Dubrovnik (Hrvatska) – 30 minuta automobilom, Trebinje (Bosna i Hercegovina) – 50 minuta automobilom, aerodrom Tivat (Crna Gora) – 50 minuta automobilom trajektom.\nI na kraju o moru – Jadran je udaljen 7 minuta od najbliže plaže:\nuz nasip desno – gradske plaže Herceg Novog u dužini od 27 km do samog ruba našeg okruga,\nUz nasip s lijeve strane nalazi se plaža za blatnu terapiju Instituta za rehabilitaciju Simo Milošević i Hrvatska.\n\nStan sa čistim dokumentima i legalizovan, jedan vlasnik!\nStan se prodaje sa podstanarom koji placa 400 evra mjesecno.\nZakažite pregled odmah telefonom na +382 69 865 964 (Viber, Whatsapp, Telerganm)\nNe propustite priliku da ostvarite profitabilnu investiciju ili započnete novi život u našem voljenom gradu Herceg Novom već danas!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:16.584251+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.497340+00:00",
+  "source_html_sha256": "fe0a62ba48707438c9afa6a2c538b3184414669977fa27c9aceae14804011853",
+  "title": "Udoban stan u Herceg Novom je vaše idealno mjesto za život i opuštanje!",
+  "description_language": "en",
+  "price_raw": "125000.00€",
+  "price_amount": 125000,
+  "price_currency": "EUR",
+  "advertiser_name": "Tatiana",
+  "property_type": "apartment",
+  "city": "Herceg Novi",
+  "district": "Igalo",
+  "floor_raw": "2",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 28,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Samo za vas, ugodan apartman koji će postati vaš novi dom na obali Crne Gore! Njegova površina je 28 m² + terasa sa kliznim staklom od 6 m², gdje možete uživati u jutarnjoj kafi, dočekati izlazak sunca i gledati kako se grad i more bude. Ovo je garsonjera, ali sa zasebnom modernom kompaktnom kuhinjom. Stan je u savršenom stanju nakon svježeg renoviranja sa novim namještajem i novim aparatima - spreman je za vaš ugodan život od prvog dana. Kuća je izolovana - hladna ljeti, topla zimi, što će vam značajno uštedjeti mjesečne troškove režija. Ako se ljeti smrznete ili zimi nije dovoljno vruće, uvijek možete upaliti kamin - ovo je naš mali romantični poklon novim vlasnicima. Što se tiče komšija - dobro. Što se tiče parkinga - parking je zajednički, ali ima dovoljno mjesta za sve. O okolini - lanac prodavnica, restoran sa gotovom hranom, prodavnica alkoholnih pića sa popustom, prodavnica sa uvijek svježim povrćem i voćem - 2 minute. Logistika: stanica javnog prevoza – 4 minute hoda, Dubrovnik (Hrvatska) – 30 minuta automobilom, Trebinje (Bosna i Hercegovina) – 50 minuta automobilom, aerodrom Tivat (Crna Gora) – 50 minuta automobilom trajektom. I na kraju o moru – Jadran je udaljen 7 minuta od najbliže plaže: uz nasip desno – gradske plaže Herceg Novog u dužini od 27 km do samog ruba našeg okruga, Uz nasip s lijeve strane nalazi se plaža za blatnu terapiju Instituta za rehabilitaciju Simo Milošević i Hrvatska. Stan sa čistim dokumentima i legalizovan, jedan vlasnik!Stan se prodaje sa podstanarom koji placa 400 evra mjesecno.Zakažite pregled odmah telefonom na +382 69 865 964 (Viber, Whatsapp, Telerganm)Ne propustite priliku da ostvarite profitabilnu investiciju ili započnete novi život u našem voljenom gradu Herceg Novom već danas!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!778",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269865964",
+      "name": "Tatiana",
+      "email": null,
+      "source": "workbook:Outreach list!778"
+    }
+  ],
+  "contact_phones": [
+    "+38269865964"
+  ],
+  "phone_e164": "+38269865964",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

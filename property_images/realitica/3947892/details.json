@@ -1,0 +1,139 @@
+{
+  "source": "realitica",
+  "listing_id": "3947892",
+  "listing_url": "https://www.realitica.com/hr/listing/3947892",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947892"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 123,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3947892",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Herceg Novi",
+    "Lokacija": "Đenovići",
+    "Oglas Broj": "3947892",
+    "Postavljeno": "20 Oct, 2026",
+    "Zadnja Promjena": "20 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0009.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0005.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0016.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0013.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0010.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0003.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0006.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0004.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0001.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0000.jpg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "ĐENOVIĆI | STAN NA PRODAJU\n\nNamješten stan od 60 m², udaljen svega 150 m od Portonovog. Stan ima jednu spavaću sobu, dnevni boravak sa trpezarijom i kuhinjom, dva kupatila, veliku i manju terasu, kao i parking mjesto.\n\nCijena: 250.000 €",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:40.135271+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.585570+00:00",
+  "source_html_sha256": "94cb98b453088f6869a3e5541ea291fba1d20297e41329b495362a76d32d5263",
+  "title": "Prodajem Stan-Apartman, Đenovići",
+  "description_language": "hr",
+  "city": "Herceg Novi",
+  "district": "Đenovići",
+  "published_date_raw": "20 Oct, 2026",
+  "updated_date_raw": "20 Oct, 2026",
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "amenities": [],
+  "metadata_summary": "ĐENOVIĆI | STAN NA PRODAJU\n\nNamješten stan od 60 m², udaljen svega 150 m od Portonovog. Stan ima jednu spavaću sobu, dnevni boravak sa trpezarijom i kuhinjom, dva kupatila, veliku i manju terasu, kao i parking mjesto.\n\nCijena: 250.000 €",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!123",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; has vanity profile; Medium - Heuristic: no agency name/website/company no.; has vanity profile",
+      "priority": 85,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38345365996",
+      "name": "Danijela Mladenovic",
+      "email": null,
+      "source": "workbook:Outreach list!123"
+    }
+  ],
+  "contact_phones": [
+    "+38345365996"
+  ],
+  "phone_e164": "+38345365996",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "price",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

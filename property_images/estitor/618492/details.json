@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "618492",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-618492",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-618492"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 969,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_618492",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Za renoviranje",
+    "Opremljen": "Ne",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Dvorište": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/da5e2460-2c23-4e81-a4d6-5376b2b42699-lg.webp",
+    "https://content.estitor.com/f7f31dd7-d171-4865-891f-9864bcd462b5-lg.webp",
+    "https://content.estitor.com/2406d611-15e2-4280-8338-d4149044f578-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor od 42 m² u Nikšiću, naselje Kvart, preko puta Jolly prodavnice dječije i školske opreme. U prostoru je ranije poslovala prodavnica Mimiso.\nRaspored:\nVeća prostorija — glavni prodajni prostor sa izlogom\n\nPomoćna prostorija (u sklopu zatvorenog dijela obloženog limom) — pogodna za magacin\n\nManja prostorija — ranije korišćena kao kancelarija\n\nSanitarni čvor (WC)\n\nKarakteristike:\nUknjižen, sa namjenom poslovnog prostora u dokumentaciji\n\nPrizemlje stambene zgrade, zaseban ulaz direktno sa pješačke staze\n\nVeliki izlog prema ulici, dobra vidljivost\n\nZaštitne rešetke na izlogu i tenda\n\nMirna lokacija u gusto naseljenom dijelu grada, stalan protok pješaka\n\nSlobodno parkiranje u neposrednoj blizini\n\nNamjena: trgovina, kancelarija, servis, frizerski ili kozmetički salon, ordinacija, magacin i slično.\nProstor je useljiv odmah. Moguć dogovor oko adaptacije za duži zakup.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:27.528857+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.386564+00:00",
+  "source_html_sha256": "55118a75928a00c839cbcfd7b151f63b03c437414c56708ba1addc5ceef62261",
+  "title": "Izdavanje, poslovni prostor, 42m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-17",
+  "updated_date": "2026-09-24",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 42,
+  "rooms": 2,
+  "city": "Nikšić",
+  "street_address": "Četvorka, 4 Alekse Backovića, Nikšić 81400, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Šćepan Gardašević",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Za renoviranje",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Dvorište"
+  ],
+  "metadata_summary": "Izdaje se poslovni prostor od 42 m² u Nikšiću, naselje Kvart, preko puta Jolly prodavnice dječije i školske opreme. U prostoru je ranije poslovala prodavnica Mimiso.Raspored:Veća prostorija — glavni prodajni prostor s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!969",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268208694",
+      "name": "Šćepan Gardašević",
+      "email": null,
+      "source": "workbook:Outreach list!969"
+    },
+    {
+      "phone_e164": "+38268208694",
+      "name": "Šćepan Gardašević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268208694"
+  ],
+  "phone_e164": "+38268208694",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

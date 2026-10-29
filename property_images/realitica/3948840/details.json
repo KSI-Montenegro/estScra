@@ -1,0 +1,135 @@
+{
+  "source": "realitica",
+  "listing_id": "3948840",
+  "listing_url": "https://www.realitica.com/hr/listing/3948840",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948840"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 122,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3948840",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Garaža",
+    "Područje": "Budva",
+    "Lokacija": "Centar",
+    "Cijena": "€33.000",
+    "Godina Gradnje": "2020",
+    "Stambena Površina": "18 m2",
+    "Oglas Broj": "3948840",
+    "Postavljeno": "21 Oct, 2026",
+    "Zadnja Promjena": "21 Oct, 2026"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3948840_20261021_102538r.jpg"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Budva centar prodajem garažu u zgradi Sava osiguranja kontakt telefon +382 68 519 773",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:39.405374+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.579054+00:00",
+  "source_html_sha256": "18d9a703dbb3e870db26e3debeeb850c1188e2085c98cc4836f596b1900f2b31",
+  "title": "Prodajem Garaža, Centar",
+  "description_language": "hr",
+  "city": "Budva",
+  "district": "Centar",
+  "published_date_raw": "21 Oct, 2026",
+  "updated_date_raw": "21 Oct, 2026",
+  "area_m2": 18,
+  "property_type_raw": "Prodajem Garaža",
+  "property_type": "garage",
+  "deal_type": "sale",
+  "price_raw": "€33.000",
+  "price_amount": 33000,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "Budva centar prodajem garažu u zgradi Sava osiguranja kontakt telefon +382 68 519 773",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!122",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268519773",
+      "name": "Boro",
+      "email": null,
+      "source": "workbook:Outreach list!122"
+    }
+  ],
+  "contact_phones": [
+    "+38268519773"
+  ],
+  "phone_e164": "+38268519773",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

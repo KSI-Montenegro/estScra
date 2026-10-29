@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "452352",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-452352",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-452352"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 728,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_452352",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Broj terasa": "2",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e65d77ea-a51a-4438-939f-d97a58f9839b-lg.webp",
+    "https://content.estitor.com/bfb209b6-08e4-43a8-a575-ca46c37456fb-lg.webp",
+    "https://content.estitor.com/efa49728-0f34-44b7-b930-d337036a7691-lg.webp",
+    "https://content.estitor.com/5dbb9b39-cc46-441c-8c47-afa358733b54-lg.webp",
+    "https://content.estitor.com/4b73ebec-bec9-4da2-af61-f12fab247df2-lg.webp",
+    "https://content.estitor.com/09382303-612e-49a4-8c08-e93d0deca376-lg.webp",
+    "https://content.estitor.com/ceb91590-b525-4660-9e93-849158697070-lg.webp",
+    "https://content.estitor.com/b3414eff-ab31-4348-b7c8-978c6300bdea-lg.webp",
+    "https://content.estitor.com/f0ee8cd8-80cf-4a8a-a538-d66e6f1b4348-lg.webp",
+    "https://content.estitor.com/bd15c07e-7789-4d96-8343-1499088f6066-lg.webp",
+    "https://content.estitor.com/dc8c974d-044e-4776-bafd-b6bf3bd90f27-lg.webp",
+    "https://content.estitor.com/f87d5fd0-cec1-45bb-a5eb-3e666b7218a4-lg.webp",
+    "https://content.estitor.com/6044208b-2eea-47d6-a7ab-451e47342e4a-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Dvosoban, odlična lokacija, klima u svim sobama i grijanje sa radijatorima. Velika terasa, uredne zajedničke prostorije i lift, mirno i ugodno. Mogućnost iznajmljivanja zatvorene garaže uz doplatu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:46.164767+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.052246+00:00",
+  "source_html_sha256": "ab5a3711ee1d0e7083fb3ba6a1e47a39549fb9e587e60c5a79018c1b24ed2721",
+  "title": "Izdavanje, dvosoban stan, 85m², Podgorica, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2025-07-30",
+  "updated_date": "2026-08-29",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 85,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Nikola Lajovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja"
+  ],
+  "metadata_summary": "Dvosoban, odlična lokacija, klima u svim sobama i grijanje sa radijatorima. Velika terasa, uredne zajedničke prostorije i lift, mirno i ugodno. Mogućnost iznajmljivanja zatvorene garaže uz doplatu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!728",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267230150",
+      "name": "Nikola Lajovic",
+      "email": null,
+      "source": "workbook:Outreach list!728"
+    },
+    {
+      "phone_e164": "+38267230150",
+      "name": "Nikola Lajovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267230150"
+  ],
+  "phone_e164": "+38267230150",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

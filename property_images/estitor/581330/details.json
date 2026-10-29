@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "581330",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581330",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581330"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 926,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_581330",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/65de29d0-220e-4c9b-84ca-eda95962c6d5-lg.webp",
+    "https://content.estitor.com/4e8cc945-4db1-4ae7-a342-ff4a68c0f056-lg.webp",
+    "https://content.estitor.com/7da4f8ce-d02e-4c6d-b1db-c40c357f8570-lg.webp",
+    "https://content.estitor.com/486f7156-82d7-490b-8f9d-541fe81e8aff-lg.webp",
+    "https://content.estitor.com/2099e103-6ae2-468a-821a-787c8bb86139-lg.webp",
+    "https://content.estitor.com/9862c2f2-f45e-415d-9626-519492fe0a6a-lg.webp",
+    "https://content.estitor.com/fec9b370-ecaf-4239-93a1-6c6786efbac4-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan u Zagoriču, Podgorica, idealan za ugodan porodični život. Površine 68.0 m². Stan je pažljivo raspoređen i sastoji se od prostranog hodnika, dvije komforne spavaće sobe i jednog kupatila, pružajući optimalan prostor za svakodnevni boravak. Prostor je izuzetno osunčan i odmah useljiv, opremljen sa svim pogodnostima neophodnim za savremen život: klimatizacija, kablovska televizija, internet i interfon za vašu sigurnost. Potpuno opremljena kuhinja. Smješten u mirnom kraju sa dosta zelenila, ovaj stan je savršen izbor, posebno zbog blizine škole. Za vaše vozilo dostupan je javni parking, što dodatno olakšava svakodnevne aktivnosti.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:03.908864+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.111476+00:00",
+  "source_html_sha256": "04eae5f2436d7a799e942134362ee6dca39202c3b8b094c10f6ab1935153c9b9",
+  "title": "Izdavanje, dvosoban stan, 68m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-20",
+  "updated_date": "2026-09-04",
+  "price_amount": 520,
+  "price_currency": "EUR",
+  "price_raw": "520 EUR",
+  "area_m2": 68,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "23 Ljubotinjskih junaka, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Irina",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se stan u Zagoriču, Podgorica, idealan za ugodan porodični život. Površine 68.0 m². Stan je pažljivo raspoređen i sastoji se od prostranog hodnika, dvije komforne spavaće sobe i jednog kupatila, pružajući optim...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!926",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267579940",
+      "name": "Irina",
+      "email": null,
+      "source": "workbook:Outreach list!926"
+    },
+    {
+      "phone_e164": "+38267579940",
+      "name": "Irina",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267579940"
+  ],
+  "phone_e164": "+38267579940",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

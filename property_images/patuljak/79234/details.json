@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "79234",
+  "listing_url": "https://patuljak.me/oglas/prodajem-saunu--79234",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-saunu--79234"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 165,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79234",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!165:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Kotor",
+    "Naselje": "Dobrota",
+    "Broj prostorija": "1",
+    "Sprat": "Prizemlje",
+    "Namješten": "Da",
+    "Stambena kvadratura": "20 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79234_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "PRODAJE SE: Velika drvena sauna (kapacitet 7–10 osoba)\n​Na prodaju drvena sauna velikog kapaciteta (za 7 do 10 osoba). Sauna je trenutno rasklopljena, spremna za lak utovar, transport i montažu na vašoj lokaciji.\n​Kapacitet: 7–10 osoba (idealno za komercijalnu upotrebu ili veće privatne objekte)\n​Stanje: Odlično očuvana, kompletna sa svom pratećom opremom\n​Prednost: Rasklopljena — štedi vrijeme i znatno olakšava transport\n​Namjena: Izuzetna prilika za hotele, SPA i wellness centre, kompenzacija/dopuna ponude za etno sela, luksuzne vile za izdavanje ili privatne vlasnike.\n\n​???? Lokacija: Kotor / Boka Kotorska\n???? Cijena: moguć dogovor za ozbiljne kupce\n\n???? Kontakt: +38267333929 +38268010925 / WhatsApp / Viber",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:05.987395+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.828444+00:00",
+  "source_html_sha256": "c0ed14f4737c43159c5e4a657c047d228645c9227bf384cad49411708cf03f35",
+  "title": "Prodajem SAUNU",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Koko",
+  "property_type": "commercial",
+  "city": "Kotor",
+  "district": "Dobrota",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "area_m2": 20,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "PRODAJE SE: Velika drvena sauna (kapacitet 7–10 osoba)​Na prodaju drvena sauna velikog kapaciteta (za 7 do 10 osoba). Sauna je trenutno rasklopljena, spremna za lak utovar, transport i montažu na vašoj lokaciji.​Kapacitet: 7–10 osoba (idealno za komercijalnu upotrebu ili veće privatne objekte)​Stanje: Odlično očuvana, kompletna sa svom pratećom opremom​Prednost: Rasklopljena — štedi vrijeme i znatno olakšava transport​Namjena: Izuzetna prilika za hotele, SPA i wellness centre, kompenzacija/dopuna ponude za etno sela, luksuzne vile za izdavanje ili privatne vlasnike.​???? Lokacija: Kotor / Boka Kotorska???? Cijena: moguć dogovor za ozbiljne kupce???? Kontakt: +38267333929  +38268010925 / WhatsApp / Viber",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!165",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267333929",
+      "name": "Koko",
+      "email": null,
+      "source": "workbook:Outreach list!165"
+    }
+  ],
+  "contact_phones": [
+    "+38267333929"
+  ],
+  "phone_e164": "+38267333929",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

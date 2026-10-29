@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "632258",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632258",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632258"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 118,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_632258",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/eee3a801-e07c-404c-b6a1-cf4de6bd44e8-lg.webp",
+    "https://content.estitor.com/7f2859c3-9409-460f-b537-75f883ef121e-lg.webp",
+    "https://content.estitor.com/1d59df7b-69ac-4dd2-87e5-f043378637a1-lg.webp",
+    "https://content.estitor.com/886634be-064a-4a5c-85bb-8358ac53dc54-lg.webp",
+    "https://content.estitor.com/18605b56-705b-4cd3-967c-88fba25845c1-lg.webp",
+    "https://content.estitor.com/e5df2a3e-d313-4267-8b85-6f480410ab9f-lg.webp",
+    "https://content.estitor.com/c3eab7f9-4551-4915-a65d-a4a5616eafab-lg.webp",
+    "https://content.estitor.com/b277732c-3846-41ac-8697-11833f39afaa-lg.webp",
+    "https://content.estitor.com/3216e8fb-9a7b-40c4-a400-d296a8f551b5-lg.webp",
+    "https://content.estitor.com/493fab45-99d4-4ad1-9aa5-4598d466f9d0-lg.webp",
+    "https://content.estitor.com/89ae7ed6-43d6-48c1-b4f3-69b049ccd16a-lg.webp",
+    "https://content.estitor.com/50170eca-89df-47c7-95fd-2f332c9964da-lg.webp",
+    "https://content.estitor.com/58958988-8842-4d10-a631-cb9918626eb5-lg.webp",
+    "https://content.estitor.com/8d85519a-32bc-4728-b495-2ab53f8aa288-lg.webp",
+    "https://content.estitor.com/cd7d724f-1071-40e1-9658-cf393c9ac41a-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se namešten stan u Budvi, iznad Parme, na duži period – cela godina.\nStan ima tri spavaće sobe, svetlu dnevnu sobu sa klimom i izlazom na terasu, trpezariju, kuhinju i kupatilo sa kadom.\nNajveća prednost je velika terasa sa pogledom na more, ostrvo i grad – idealna za jutarnju kafu i letnje večeri.\nPogodno za porodicu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:05.390460+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.830436+00:00",
+  "source_html_sha256": "7f398eb0baa03a879c74aa11fb1849b65d919bf9cf7d3b6c8c9df4d04352c0ca",
+  "title": "Izdavanje, trosoban stan, 75m², Lazi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-09",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 75,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Jelena Milanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se namešten stan u Budvi, iznad Parme, na duži period – cela godina.Stan ima tri spavaće sobe, svetlu dnevnu sobu sa klimom i izlazom na terasu, trpezariju, kuhinju i kupatilo sa kadom.Najveća prednost je velik...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!118",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269338164",
+      "name": "Jelena Milanovic",
+      "email": null,
+      "source": "workbook:Likely agents!118"
+    },
+    {
+      "phone_e164": "+38269338164",
+      "name": "Jelena Milanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269338164"
+  ],
+  "phone_e164": "+38269338164",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

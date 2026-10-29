@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "73562",
+  "listing_url": "https://patuljak.me/oglas/hitnona-prodaju-plac-5554-m-jastreb-danilovgrad--73562",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hitnona-prodaju-plac-5554-m-jastreb-danilovgrad--73562"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 97,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73562",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!97:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Jastreb",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "5554 m2"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 5554,
+      "workbook_value": 554,
+      "source": "workbook:Not homes!97"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73562_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Hitno!\nProdajem plac 5.554 m² u Jastreb/Danilovgrad.\nPlac se prodaje kao jedna cjelina.\nVlasništvo 1/1.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:21.469112+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.783941+00:00",
+  "source_html_sha256": "b46615d9df9325b8f62cc681358b5c3c6d66ebdc066ca6834c175072299ef1bf",
+  "title": "Hitno!Na prodaju plac 5.554 m², Jastreb, Danilovgrad",
+  "description_language": "en",
+  "price_raw": "13.00€",
+  "price_amount": 13,
+  "price_currency": "EUR",
+  "advertiser_name": "Viktorija",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Jastreb",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Hitno!Prodajem plac 5.554 m² u Jastreb/Danilovgrad.  Plac se prodaje kao jedna cjelina.Vlasništvo 1/1.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!97",
+      "notes": "check deal: sale at 13 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267428447",
+      "name": "Viktorija",
+      "email": null,
+      "source": "workbook:Not homes!97"
+    }
+  ],
+  "contact_phones": [
+    "+38267428447"
+  ],
+  "phone_e164": "+38267428447",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 5554,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

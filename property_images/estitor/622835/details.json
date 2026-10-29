@@ -1,0 +1,146 @@
+{
+  "source": "estitor",
+  "listing_id": "622835",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-622835",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-622835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 663,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_622835",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c2bf5f71-cf73-46e4-b227-cc9694505463-lg.webp",
+    "https://content.estitor.com/47ac958e-1c3c-4c3d-97ef-85965c6c6f40-lg.webp",
+    "https://content.estitor.com/e90c552a-ce02-48ca-9d28-9c8e3045d7d6-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se funkcionalan jednosoban stan u srcu Podgorice, na prestižnoj lokaciji Pod Goricom. Ova izuzetna nekretnina nudi savršen spoj udobnosti i urbanog života, idealna za pojedince ili parove koji traže kvalitetan dom u jednom od najpoželjnijih dijelova grada.\nStan se prostire na površini od 37.0 m² i nalazi se na prizemlju, što omogućava lak pristup. Sastoji se od jedne prostrane spavaće sobe i jednog modernog kupatila, pružajući sve što je potrebno za komforan i praktičan boravak. Za vašu udobnost tokom cijele godine, stan je opremljen klimatizacijom. Zgrada u kojoj se stan nalazi posjeduje i lift, što doprinosi modernom i funkcionalnom ambijentu.\nU neposrednoj blizini dostupan je javni parking, što značajno olakšava svakodnevne aktivnosti. Lokacija Pod Goricom pruža izvanrednu povezanost sa svim važnim gradskim sadržajima, kao što su zelene površine, rekreativne staze, kao i razne prodavnice i restorani. Ne propustite priliku da živite u udobnom stanu na jednoj od najatraktivnijih adresa u Podgorici.\n\nŠto se tiče plaćanja, prilikom useljenja potrebno je uplatiti prvi i posljednji mjesec kirije, kao i depozit. Kao lijep bonus, 15 dana boravka je već uključeno i ne plaća se dodatno",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:13.995212+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.700652+00:00",
+  "source_html_sha256": "d86ce20bbf1876a111907bcb97c87050fb76303f7922d14e7f38dd34f53801b2",
+  "title": "Izdavanje, jednosoban stan, 37m², Pod Goricom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-24",
+  "updated_date": "2026-09-24",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "5 Ludvika Kube, Podgorica, Czarnogóra",
+  "country": "ME",
+  "advertiser_name": "Orkhan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se funkcionalan jednosoban stan u srcu Podgorice, na prestižnoj lokaciji Pod Goricom. Ova izuzetna nekretnina nudi savršen spoj udobnosti i urbanog života, idealna za pojedince ili parove koji traže kvalitetan ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!663",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268479576",
+      "name": "Orkhan",
+      "email": null,
+      "source": "workbook:Outreach list!663"
+    },
+    {
+      "phone_e164": "+38268479576",
+      "name": "Orkhan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268479576"
+  ],
+  "phone_e164": "+38268479576",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

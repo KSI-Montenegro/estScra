@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "606077",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606077",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606077"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 721,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_606077",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Nema parkinga",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ef3ba29d-c768-4750-954f-df1193f3586d-lg.webp",
+    "https://content.estitor.com/e8380e6f-cd02-4786-8d3b-bfd645ed48be-lg.webp",
+    "https://content.estitor.com/ba8d33d2-24af-4bd8-8d60-3be1348b3a25-lg.webp",
+    "https://content.estitor.com/091645e7-c388-4392-854a-ea464af1ff41-lg.webp",
+    "https://content.estitor.com/500b0b56-6dbf-4224-b9a7-984bf9ded81d-lg.webp",
+    "https://content.estitor.com/37774755-d644-4b51-a39f-ad945d2f48cb-lg.webp",
+    "https://content.estitor.com/7238e841-7d16-4d03-ad80-205ee8813bc4-lg.webp",
+    "https://content.estitor.com/6abce5f6-0229-434e-9939-890706d7ade6-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan kao kancelarija u Master kvartu, 50m2, 1 sprat, nenamjesten (ima malo namjestaja kao na slikama).",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:42.958128+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.016584+00:00",
+  "source_html_sha256": "9386d4a02352c8424330ecc6e62589a3bdf9f7816e1c5595c26cbe62fdd9e7be",
+  "title": "Izdavanje, jednosoban stan, 50m², Master Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-01",
+  "updated_date": "2026-09-01",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Darko Jovanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan kao kancelarija u Master kvartu, 50m2, 1 sprat, nenamjesten (ima malo namjestaja kao na slikama).",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!721",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267641534",
+      "name": "Darko Jovanovic",
+      "email": null,
+      "source": "workbook:Outreach list!721"
+    },
+    {
+      "phone_e164": "+38267641534",
+      "name": "Darko Jovanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267641534"
+  ],
+  "phone_e164": "+38267641534",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

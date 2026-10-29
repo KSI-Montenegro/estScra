@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "75520",
+  "listing_url": "https://patuljak.me/oglas/studio-apartman-2678m-2-sprat-montenegrina-resid--75520",
+  "listing_urls": [
+    "https://patuljak.me/oglas/studio-apartman-2678m-2-sprat-montenegrina-resid--75520"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 32,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75520",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Dubovica",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Ne",
+    "Sprat": "2",
+    "Kvadratura": "26 m2",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "3 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Ima",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Studio apartman (26,78m²) sa panoramskim pogledom na more.\nApartman SU3-G2\nSprat: 2. sprat\nRaspored:\n- 0 spavaćih soba\n- 1 kupatilo\n- Dnevni boravak sa kuhinjom i izlazom na terasu\n- Terasa\nCena na 100% plaćanje: 110,678.00 EUR\nCena na odloženo plaćanje: 116,078,00 EUR\nKupovina je direktno od investitora.\nMontenegrina Residence – Ekskluzivan stambeni kompleks u Budvi, Dubovica Lux\nPanoramski pogled na more i luksuz koji inspiriše\nKupovinom nekretnine u ovom kompleksu ostvarujete oslobađanje od poreza na promet nepokretnosti (3–5%).\nPredstavljamo vam Montenegrina Residence, ekskluzivan stambeni kompleks u prestižnom naselju Dubovica u Budvi, sa očaravajućim panoramskim pogledom na Jadransko more.\nKompleks sadrži: 38 luksuznih apartmana, 40 garažnih mesta,recepciju sa 24-časovnim obezbeđenjem, spa centar sa teretanom, đakuzijem i saunom, spoljašnji grejani bazen koji se koristi tokom cele godine, bar na bazenu i restoran, dečije igralište osmišljeno za bezbrižnu igru najmlađih.\nZgrada je projektovana u klasičnom arhitektonskom stilu, sa fokusom na vrhunski kvalitet izrade i ekološke evropske materijale prve klase.\nPlanirani završetak izgradnje: Decembar 2027. godine.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:05.729502+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.910433+00:00",
+  "source_html_sha256": "23f979f6cfe0e8097eb8a17df7ea29f0f29dd6a2ee7438bb78ada16c74fb77da",
+  "title": "Studio apartman - 26,78m - 2. sprat -Montenegrina Residence",
+  "description_language": "en",
+  "price_raw": "110678.00€",
+  "price_amount": 110678,
+  "price_currency": "EUR",
+  "advertiser_name": "Budva",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Dubovica",
+  "floor_raw": "2",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Ostalo",
+  "parking_raw": "Nema",
+  "area_m2": 26,
+  "amenities": [
+    "Pogled na more"
+  ],
+  "metadata_summary": "Studio apartman (26,78m²) sa panoramskim pogledom na more.Apartman SU3-G2Sprat: 2. spratRaspored:- 0 spavaćih soba- 1 kupatilo- Dnevni boravak sa kuhinjom i izlazom na terasu- TerasaCena na 100% plaćanje: 110,678.00 EURCena na odloženo plaćanje: 116,078,00 EURKupovina je direktno od investitora.Montenegrina Residence – Ekskluzivan stambeni kompleks u Budvi, Dubovica LuxPanoramski pogled na more i luksuz koji inspirišeKupovinom nekretnine u ovom kompleksu ostvarujete oslobađanje od poreza na promet nepokretnosti (3–5%).Predstavljamo vam Montenegrina Residence, ekskluzivan stambeni kompleks u prestižnom naselju Dubovica u Budvi, sa očaravajućim panoramskim pogledom na Jadransko more.Kompleks sadrži: 38 luksuznih apartmana, 40 garažnih mesta,recepciju sa 24-časovnim obezbeđenjem, spa centar sa teretanom, đakuzijem i saunom, spoljašnji grejani bazen koji se koristi tokom cele godine, bar na bazenu i restoran, dečije igralište osmišljeno za bezbrižnu igru najmlađih.Zgrada je projektovana u klasičnom arhitektonskom stilu, sa fokusom na vrhunski kvalitet izrade i ekološke evropske materijale prve klase.Planirani završetak izgradnje: Decembar 2027. godine.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!32",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268132820",
+      "name": "Budva",
+      "email": null,
+      "source": "workbook:Likely agents!32"
+    }
+  ],
+  "contact_phones": [
+    "+38268132820"
+  ],
+  "phone_e164": "+38268132820",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": false,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

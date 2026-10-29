@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "84265",
+  "listing_url": "https://patuljak.me/oglas/stan-u-budvi--84265",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-u-budvi--84265"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 740,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84265",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Golubovina",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "40 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_13.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Stan kod kafica Tabu ,Golubovina u Budvi ,ravni dio Budve kod centra, do sezone 330e\n\n+38269408557",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:53.517159+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.134867+00:00",
+  "source_html_sha256": "bf04035a85dbe5c266b37b29161a402a149b102a91c63ba77894a8792f89e300",
+  "title": "Stan u Budvi",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "branka",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Golubovina",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 40,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Stan kod kafica Tabu ,Golubovina u Budvi ,ravni dio Budve kod centra, do sezone 330e +38269408557",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!740",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269408557",
+      "name": "branka",
+      "email": null,
+      "source": "workbook:Outreach list!740"
+    }
+  ],
+  "contact_phones": [
+    "+38269408557"
+  ],
+  "phone_e164": "+38269408557",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

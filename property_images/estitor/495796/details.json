@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "495796",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-495796",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-495796"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 101,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_495796",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "3",
+    "Broj etaža": "2",
+    "Parking": "Ima",
+    "Površina placa": "500",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Površina placa m2": "500"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ec3c20ac-28b6-4aa7-b8a4-d62757f2e69f-lg.webp",
+    "https://content.estitor.com/63e2752f-0141-49c9-8876-c696b6dfe2b2-lg.webp",
+    "https://content.estitor.com/4ba39b08-5437-490e-ba27-2d70bda3c160-lg.webp",
+    "https://content.estitor.com/03d78709-3233-4651-805e-072a7af6f3cb-lg.webp",
+    "https://content.estitor.com/8b908c0d-a6bb-4c4b-a022-d3dccd637040-lg.webp",
+    "https://content.estitor.com/47d9db84-6745-48ca-9ab3-cffcbcff2a71-lg.webp",
+    "https://content.estitor.com/69c0998c-0829-4fcc-b2e7-4db7afd73b46-lg.webp",
+    "https://content.estitor.com/fe76bb59-a946-4ca4-a86c-8a6dc3a4e736-lg.webp",
+    "https://content.estitor.com/c84c27eb-0b38-4c93-a498-dea6e1b5e040-lg.webp",
+    "https://content.estitor.com/62fed4ec-e378-4f71-a2d2-457502db714b-lg.webp",
+    "https://content.estitor.com/14189576-c059-452b-aaa1-96e899d93e19-lg.webp",
+    "https://content.estitor.com/d2eeb5cb-36ad-4406-9393-54a475296dca-lg.webp",
+    "https://content.estitor.com/845fea0a-1a8d-4e36-b178-4cfc2dad2a6a-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "-",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:51.651425+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.652491+00:00",
+  "source_html_sha256": "afc30785ab5e179fb1d86896d879dad674f8f14c46b56a753b6d3266a6749f1c",
+  "title": "Izdavanje, kuća, 128m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-25",
+  "updated_date": "2026-09-12",
+  "price_amount": 1100,
+  "price_currency": "EUR",
+  "price_raw": "1100 EUR",
+  "area_m2": 128,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Drazen Nikolic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "parking_raw": "Ima",
+  "lot_area_m2": 500,
+  "balconies": 3,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "-",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!101",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268274284",
+      "name": "Drazen Nikolic",
+      "email": null,
+      "source": "workbook:Likely agents!101"
+    },
+    {
+      "phone_e164": "+38268274284",
+      "name": "Drazen Nikolic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268274284"
+  ],
+  "phone_e164": "+38268274284",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "112976",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-plac--112976",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-plac--112976"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 132,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_112976",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Adresa": "Curilac, novi put",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1817 m2",
+    "Urbanistička dozvola": true,
+    "Građevinska dozvola": true,
+    "Komunalni priključak": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_20.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Zemljiste 1/1 vlasnistvo, uz magistralu, stambeno poslovna zona, moguca gradnja.\nKontakt:069133466",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:42.665839+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.024734+00:00",
+  "source_html_sha256": "8ccf84e0f0699bf2e4d86ebbfd74fe44bd90b34d6a3f1673f90eaf8e87161ea9",
+  "title": "Zemljiste, plac",
+  "description_language": "en",
+  "price_raw": "90000.00€",
+  "price_amount": 90000,
+  "price_currency": "EUR",
+  "advertiser_name": "Marko",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "street_address": "Curilac, novi put",
+  "area_m2": null,
+  "amenities": [
+    "Urbanistička dozvola",
+    "Građevinska dozvola",
+    "Komunalni priključak"
+  ],
+  "metadata_summary": "Zemljiste 1/1 vlasnistvo, uz magistralu, stambeno poslovna zona, moguca gradnja.Kontakt:069133466",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!132",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269133466",
+      "name": "Marko",
+      "email": null,
+      "source": "workbook:Not homes!132"
+    }
+  ],
+  "contact_phones": [
+    "+38269133466"
+  ],
+  "phone_e164": "+38269133466",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "lot_area_m2": 1817,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "district": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

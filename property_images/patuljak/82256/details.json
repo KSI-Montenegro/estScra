@@ -1,0 +1,153 @@
+{
+  "source": "patuljak",
+  "listing_id": "82256",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-blizu-big-fashion-i-klinickog-centra--82256",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-blizu-big-fashion-i-klinickog-centra--82256"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 442,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82256",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "1. Maj (iza Delte)",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "81 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82256_14.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "81m2, I sprat, orijentacija sjever istok i malo zapad, održavanje redovno, dio izmedju Krivi most, Big Fashion, Klinički centar.\nUlaz u zgradu redovno održavan, mermer.\n\nDvosoban stan, velika spavaća soba sa ogromnim plakarom puno drvo, krevet 200x240 puno drvo i noćni ormarići, zavrsa i draperija do poda i francuski balkon\nManja soba sa plakarom kreveti, police i izlazom na zastakljenu terasu sa komarnikom.\nVelika dnevna soba sa trpezarijom, prozori francuski balkon i prozor sa svijetlost, sto i komoda za Tv i knjige puno drvo. Svaki prozor sa komarnikom. Izlaz na zastakljenu terasu sa komarnikom.\nOdvojena kuhinja sa francuskim balkonom i komarnikom, kuhinja vintage style puno drvo.\nHodnik sa plakarom vintage style i puno drvo.\nVeliko kupatilo sa ugradnim policama i đakuzi kada.\nToalet sa ugrađenim plakarom po mjeri.\nSvaka soba ima klima uređaj.\nStan se prodaje namješten.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:21.162775+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.493880+00:00",
+  "source_html_sha256": "17fa8965394057884f3fc0e4b6252741a2cc4440abcc64b7aba6cca7eea1f101",
+  "title": "Dvosoban stan blizu Big Fashion i Kliničkog centra",
+  "description_language": "en",
+  "price_raw": "260000.00€",
+  "price_amount": 260000,
+  "price_currency": "EUR",
+  "advertiser_name": "T",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "1. Maj (iza Delte)",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 81,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "81m2, I sprat, orijentacija sjever istok i malo zapad, održavanje redovno, dio izmedju Krivi most, Big Fashion, Klinički centar. Ulaz u zgradu redovno održavan, mermer.Dvosoban stan, velika spavaća soba sa ogromnim plakarom puno drvo, krevet 200x240 puno drvo i noćni ormarići, zavrsa i draperija do poda i francuski balkon Manja soba sa plakarom kreveti, police i izlazom na zastakljenu terasu sa komarnikom.Velika dnevna soba sa trpezarijom, prozori francuski balkon i prozor  sa svijetlost, sto i komoda za Tv i knjige puno drvo. Svaki prozor sa komarnikom. Izlaz na zastakljenu terasu sa komarnikom.Odvojena kuhinja sa francuskim balkonom i komarnikom, kuhinja vintage style puno drvo. Hodnik sa plakarom vintage style i puno drvo. Veliko kupatilo sa ugradnim policama i đakuzi kada. Toalet sa ugrađenim plakarom po mjeri.Svaka soba ima klima uređaj.  Stan se prodaje namješten.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!442",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267858186",
+      "name": "T",
+      "email": null,
+      "source": "workbook:Outreach list!442"
+    }
+  ],
+  "contact_phones": [
+    "+38267858186"
+  ],
+  "phone_e164": "+38267858186",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

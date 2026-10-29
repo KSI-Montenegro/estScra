@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "14979",
+  "listing_url": "https://patuljak.me/oglas/kuca-96m2-kolasin-prodaja--14979",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-96m2-kolasin-prodaja--14979"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 60,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_14979",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Smailagića Polje",
+    "Adresa": "Bjelasicka 64",
+    "Broj soba": "2",
+    "Broj spratova": "2",
+    "Namještena": "Da",
+    "Vrsta poda": "Brodski pod",
+    "Vrsta grijanja": "Drva",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Septička jama",
+    "Stambena kvadratura": "96 m2",
+    "Kvadratura placa": "200 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14979_10.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Kuca se nalazi na putu za skijaliste udaljena od centra oko 1,4 km.Lijepo i mirno mjesto trenutno najbolja pozicija na ovom potezu.Struktura kuce je ulazni hodnik,dnevna soba sa kuhinjom,ostava i terasa.Unutrasnje stepenice koje vode na spratu.Na spratu su dvije spavace sobe koje umaju izlaz na terasu i kupatilo.Kuca je kompletno namjestena sa svim neophodnim stvarima za zivot.Grijanje je na drva,kamin pec koja zagrije citavu kucu do tem 25-26°.Kuca je napravljena od cvrstvog materijala,demit fasade,dekorativnog kamena i brodskog patosa.Debljina zidova je oko 35 cm.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:03.245152+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.152208+00:00",
+  "source_html_sha256": "00a207799925fa33e93daae2b9ad3aa3bb7695b3c0ccf2ae47192b53760f4696",
+  "title": "Kuca, 96m2, Kolasin, Prodaja",
+  "description_language": "en",
+  "price_raw": "230000.00€",
+  "price_amount": 230000,
+  "price_currency": "EUR",
+  "advertiser_name": "Tomo",
+  "property_type": "house",
+  "city": "Kolašin",
+  "district": "Smailagića Polje",
+  "street_address": "Bjelasicka 64",
+  "building_floors_raw": "2",
+  "room_layout_raw": "2",
+  "heating_raw": "Drva",
+  "parking_raw": "3 i više",
+  "area_m2": 96,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Kuca se nalazi na putu za skijaliste udaljena od centra oko 1,4 km.Lijepo i mirno mjesto trenutno najbolja pozicija na ovom potezu.Struktura kuce je ulazni hodnik,dnevna soba sa kuhinjom,ostava i terasa.Unutrasnje stepenice koje vode na spratu.Na spratu su dvije spavace sobe koje umaju izlaz na terasu i kupatilo.Kuca je kompletno namjestena sa svim neophodnim stvarima za zivot.Grijanje je na drva,kamin pec koja zagrije citavu kucu do tem 25-26°.Kuca je napravljena od cvrstvog materijala,demit fasade,dekorativnog kamena i brodskog patosa.Debljina zidova je oko 35 cm.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!60",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269031129",
+      "name": "Tomo",
+      "email": null,
+      "source": "workbook:Outreach list!60"
+    }
+  ],
+  "contact_phones": [
+    "+38269031129"
+  ],
+  "phone_e164": "+38269031129",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

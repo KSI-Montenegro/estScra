@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "47822",
+  "listing_url": "https://patuljak.me/oglas/prodajem-namjesten-jednosoban-stan-u-dalmatinskoj--47822",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-namjesten-jednosoban-stan-u-dalmatinskoj--47822"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 99,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_47822",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!99:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Dalmatinska",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "Suteren",
+    "Kvadratura": "47 m2",
+    "Primarna orijentacija": "Jugoistok",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/47822_9.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Prodajemo jednosoban stan u Dalmatinskoj ulici, zgrada Rakčević, u blizini hotela Crnogorska kuća.\nStan ima 47m2, suteren.\nOrijentacija: jug-istok.\n\nCijena: 70.500e - prodaje se namješten.\n\n069/051-360",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:49.878061+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.616860+00:00",
+  "source_html_sha256": "807cab90a541bd1723eaae274216eea1ed96335731851e6a294d2acbf05e8c4d",
+  "title": "Prodajem namješten jednosoban stan u Dalmatinskoj ulici 47m2, suteren",
+  "description_language": "en",
+  "price_raw": "70500.00€",
+  "price_amount": 70500,
+  "price_currency": "EUR",
+  "advertiser_name": "Dragan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Dalmatinska",
+  "floor_raw": "Suteren",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 47,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodajemo jednosoban stan u Dalmatinskoj ulici, zgrada Rakčević, u blizini hotela Crnogorska kuća. Stan ima 47m2, suteren. Orijentacija: jug-istok. Cijena: 70.500e - prodaje se namješten.069/051-360",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!99",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269051360",
+      "name": "Dragan",
+      "email": null,
+      "source": "workbook:Likely agents!99"
+    }
+  ],
+  "contact_phones": [
+    "+38269051360"
+  ],
+  "phone_e164": "+38269051360",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

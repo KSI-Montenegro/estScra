@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "379798",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-379798",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-379798"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 364,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_379798",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2020",
+    "Parking": "Da",
+    "Udaljenost od mora": "400m",
+    "Lift": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a22d0c10-7b66-4a35-b313-635cea77b07b-lg.webp",
+    "https://content.estitor.com/1a151f12-1508-4723-9971-55e527c3765b-lg.webp",
+    "https://content.estitor.com/e652ee78-f7c1-4075-afee-a7af6d72772a-lg.webp",
+    "https://content.estitor.com/9d5b0849-db42-46c4-a838-74b43c837b9e-lg.webp",
+    "https://content.estitor.com/5fccb26e-b99e-4168-b415-dbc6c5ce2aed-lg.webp",
+    "https://content.estitor.com/fa588442-d256-4bdc-ab5e-1d69ca407252-lg.webp",
+    "https://content.estitor.com/9cd3a339-b0c5-42df-b21f-9261229b2167-lg.webp",
+    "https://content.estitor.com/6090b315-b5cb-42c3-b95a-6ebcf99926da-lg.webp",
+    "https://content.estitor.com/42abbf9b-66fe-412a-9fba-fe18a9b2256d-lg.webp",
+    "https://content.estitor.com/02e7d265-02da-47ba-98f9-b4136e9e4966-lg.webp",
+    "https://content.estitor.com/dfd1d66e-c153-4ec1-b8a2-05fab1d3c562-lg.webp",
+    "https://content.estitor.com/5352f826-753e-4c83-adee-f64840f1cf1a-lg.webp",
+    "https://content.estitor.com/c98dfa97-5ceb-4bd3-8535-69f2928a98ab-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Na izdavanje dobro pozicioniran, moderno namješten stan površine 66m2. Atraktivna lokacija stana u mirnom dijelu Tivta, okružen zelenilom na samo 400m od mora, a 800m od Porto Montenegra. Stan je opremljen ugrađenim LG multisplit sistemom, u svakoj prostoriji. Jedna od spavaćih soba je master room, sa zasebnim kupatilom. Stan je veoma osvijetljen, orijentisan jugoistočno. Useljiv je odmah, idealan za stanovanje kao i za izdavanje. Stan posjeduje i svoje parking mjesto.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:43.217862+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.044353+00:00",
+  "source_html_sha256": "7d0951569449923965cbe831db2a291388529562b22ef9587ce602231e56f985",
+  "title": "Izdavanje, dvosoban stan, 66m², Donja Lastva, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2025-05-23",
+  "updated_date": "2026-09-22",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 66,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Jovana Perovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Da",
+  "balconies": 2,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Lift",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Na izdavanje dobro pozicioniran, moderno namješten stan površine 66m2. Atraktivna lokacija stana u mirnom dijelu Tivta, okružen zelenilom na samo 400m od mora, a 800m od Porto Montenegra. Stan je opremljen ugrađenim L...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!364",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269276695",
+      "name": "Jovana Perovic",
+      "email": null,
+      "source": "workbook:Outreach list!364"
+    },
+    {
+      "phone_e164": "+38269276695",
+      "name": "Jovana Perovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269276695"
+  ],
+  "phone_e164": "+38269276695",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

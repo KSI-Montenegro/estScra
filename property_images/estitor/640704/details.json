@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "640704",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640704",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640704"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 4,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_640704",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e6ca2f90-be2d-42aa-a334-7db84497e4f6-lg.webp",
+    "https://content.estitor.com/c622f55b-bc1d-4fae-aa6d-52b2ea64a2a4-lg.webp",
+    "https://content.estitor.com/44489dd4-f1c9-4801-aed2-a746a9c17b0d-lg.webp",
+    "https://content.estitor.com/810e08f2-68f0-4eaf-98b8-18268de5b6c2-lg.webp",
+    "https://content.estitor.com/b571a5a2-6b26-4c1b-93e5-bcfb9e9910f5-lg.webp",
+    "https://content.estitor.com/0d77a52f-602d-4ad3-91cb-650a3e1554c1-lg.webp",
+    "https://content.estitor.com/7cd5c988-2f0f-401f-bb79-f6b6c927c3e2-lg.webp",
+    "https://content.estitor.com/694a7707-0502-4a73-ab40-100c27952513-lg.webp",
+    "https://content.estitor.com/d9a39d9e-3a15-4599-a927-a0464942d35e-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Stari Aerodrom, Podgorica | Jednosoban stan za izdavanje | 50 m²\n\nIzdaje se renoviran i osunčan jednosoban stan površine 50 m², smješten na Starom Aerodromu u Podgorici.\nStan se nalazi na trećem spratu stambene zgrade sa liftom. Odlikuju ga funkcionalan raspored, odvojena spavaća soba i balkon, a renoviran je i spreman za useljenje.\nKarakteristike stana:\n* Površina: 50 m²\n* Struktura: Jednosoban stan\n* Sprat: Treći\n* Lift: Da\n* Balkon: Da\n* Kupatilo: Da\n* Klima uređaj: Da\n* Interfon: Da\n* Orijentacija: Zapad\n* Stanje: Renoviran, odlično očuvan\n* Parking: Javni parking ispred zgrade\n* Dostupan odmah\nLokacija – Stari Aerodrom, Podgorica\nStan se nalazi u naselju Stari Aerodrom, u blizini prodavnica, supermarketa, kafića, restorana, škola i drugih sadržaja neophodnih za svakodnevni život. Lokacija omogućava jednostavan pristup različitim djelovima Podgorice.\nMjesečna zakupnina:",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:42.020471+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.616664+00:00",
+  "source_html_sha256": "3c98ab09d5d664103ce8737379278166cace3cf24a295c55bbc5dc6c0ea4a7a3",
+  "title": "Izdavanje, jednosoban stan, 50m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-21",
+  "updated_date": "2026-10-21",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Denis Mekić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stari Aerodrom, Podgorica | Jednosoban stan za izdavanje | 50 m²Izdaje se renoviran i osunčan jednosoban stan površine 50 m², smješten na Starom Aerodromu u Podgorici.Stan se nalazi na trećem spratu stambene zgrade sa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!4",
+      "agent_reasons": "9 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268848666",
+      "name": "Denis Mekić",
+      "email": null,
+      "source": "workbook:Likely agents!4"
+    },
+    {
+      "phone_e164": "+38268848666",
+      "name": "Denis Mekić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268848666"
+  ],
+  "phone_e164": "+38268848666",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

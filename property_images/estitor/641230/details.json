@@ -1,0 +1,181 @@
+{
+  "source": "estitor",
+  "listing_id": "641230",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641230",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641230"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 246,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_641230",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 600,
+      "workbook_value": 650,
+      "source": "workbook:Outreach list!246"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/64a3e4d8-b5a8-417a-8113-5c0fb3530b8d-lg.webp",
+    "https://content.estitor.com/1e18db6f-bc5b-4332-b0e7-96d13486b591-lg.webp",
+    "https://content.estitor.com/eba558e5-1fae-47f9-80d4-97c5747e5361-lg.webp",
+    "https://content.estitor.com/4aa536b2-d67e-4c20-900e-abac00939b1e-lg.webp",
+    "https://content.estitor.com/2ab35522-f47b-4dcf-a02b-f18c1db1bb58-lg.webp",
+    "https://content.estitor.com/319f0b08-d875-470c-a313-fb97f464f672-lg.webp",
+    "https://content.estitor.com/0ad97d82-4e6d-4152-ac30-27e1255763d9-lg.webp",
+    "https://content.estitor.com/8cb498f3-93d2-48fe-810c-3a488347874c-lg.webp",
+    "https://content.estitor.com/c5dc3826-2923-47c9-bcef-b477f08ea119-lg.webp",
+    "https://content.estitor.com/80e37530-421f-4986-b047-414faf89e636-lg.webp",
+    "https://content.estitor.com/dae4a529-c946-4980-83b0-21a227b35b18-lg.webp",
+    "https://content.estitor.com/4f103c7d-ffa2-4995-90d3-876ad7c432d5-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdajem na godinu dana i duže jednosoban stan u Budvi.\nPovršina - 45m², nalazi na visokom prizemlju nove i moderne stambene zgrade sa liftom na odlicnoj lokaciji blizu mora kod hotela Slavija.\nStruktura stana: Dnevna soba sa trpezarijom, kuhinja, spavaća soba, kupatilo, terasa.\nVlasnik.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:44.253559+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.321136+00:00",
+  "source_html_sha256": "105feacb0d0edff56ede0c80e5cbaf10769a3caffd2b4de5e658d773d8632cce",
+  "title": "Izdavanje, jednosoban stan, 45m², Podkošljun, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-27",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 3,
+  "city": "Budva",
+  "street_address": "6 Brodarska, Budva 85310, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Sale Veljkovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdajem na godinu dana i duže jednosoban stan u Budvi.Površina - 45m², nalazi na visokom prizemlju nove i moderne stambene zgrade sa liftom na odlicnoj lokaciji blizu mora kod hotela Slavija.Struktura stana: Dnevna so...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!246",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268292343",
+      "name": "Sale Veljkovic",
+      "email": null,
+      "source": "workbook:Outreach list!246"
+    },
+    {
+      "phone_e164": "+38268292343",
+      "name": "Sale Veljkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268292343"
+  ],
+  "phone_e164": "+38268292343",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

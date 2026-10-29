@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "587922",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587922",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-587922"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 722,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_587922",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/885aa60c-d8af-45c8-b095-1093c8393b8c-lg.webp",
+    "https://content.estitor.com/70f84391-fca1-4c9e-be05-c31632d4184d-lg.webp",
+    "https://content.estitor.com/80e05203-07d2-4558-ac1c-d65c156445d6-lg.webp",
+    "https://content.estitor.com/0aff2db3-6ef4-4efb-8d78-37857b775dd8-lg.webp",
+    "https://content.estitor.com/efc39104-3eba-4a7c-b521-016beddcd049-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se atraktivan jednosoban stan od 45.0 m², smješten u srcu Centra Podgorice. Ova nekretnina je idealna za udoban život pojedinca ili para, pružajući sve što je potrebno na jednom mjestu.\nStan je potpuno opremljen modernim namještajem i tehnikom, te je odmah useljiv. Karakteriše ga izuzetna osunčanost tokom cijelog dana, što doprinosi prijatnoj atmosferi.\nStan posjeduje lift, interfon, klimatizaciju, internet i kablovsku televiziju, obezbjeđujući potpuni komfor. Kuhinja je opremljena svim neophodnim elementima. Dostupan je javni parking u okolini zgrade.\nNe propustite priliku da živite na prestižnoj lokaciji sa svim pogodnostima urbanog života na dohvat ruke. Cijena po dogovoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:43.258572+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.021950+00:00",
+  "source_html_sha256": "03ffe1d2df39f38f5e6322626b75f825cc6a86d619b3ad6e8ccd0990e0bcc0b6",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-04",
+  "updated_date": "2026-09-01",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "2-6 Vuka Karadžića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Neda Rasovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjever",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se atraktivan jednosoban stan od 45.0 m², smješten u srcu Centra Podgorice. Ova nekretnina je idealna za udoban život pojedinca ili para, pružajući sve što je potrebno na jednom mjestu. Stan je potpuno opremlje...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!722",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269328788",
+      "name": "Neda Rasovic",
+      "email": null,
+      "source": "workbook:Outreach list!722"
+    },
+    {
+      "phone_e164": "+38269328788",
+      "name": "Neda Rasovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269328788"
+  ],
+  "phone_e164": "+38269328788",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "639009",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639009",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639009"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 58,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_639009",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a63bde80-312b-4133-ae18-42d2ed5be690-lg.webp",
+    "https://content.estitor.com/8439f931-46f5-431a-8cbb-f208999ed9cd-lg.webp",
+    "https://content.estitor.com/d344d7aa-0628-46a2-be04-cfd04df3e0f7-lg.webp",
+    "https://content.estitor.com/e7821064-8595-464e-9982-ed03236fd46c-lg.webp",
+    "https://content.estitor.com/10d0ec25-495c-4fcc-91cb-2dd34a3c0c84-lg.webp",
+    "https://content.estitor.com/7ab62b22-cec1-4332-99c7-5e93133004ce-lg.webp",
+    "https://content.estitor.com/108cb0f4-76ac-4f54-a5cb-8763b223cd8d-lg.webp",
+    "https://content.estitor.com/01548843-fa16-4fcf-b673-303f2795877c-lg.webp",
+    "https://content.estitor.com/3497b346-654a-4553-9963-1bf6811f23bf-lg.webp",
+    "https://content.estitor.com/39b63332-9ad3-4939-9b77-af82c7b75afb-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem lijep namješten stan sa jednom spavaćom sobom, dva balkona, pogledom na vrt i brda (i bočno na more) i privatnim parking mjestom. Stan je svijetao i prijatan, sa trostranom orijentacijom. Ima dnevni boravak sa kuhinjom (indukcija, mašine za veš i sudove, gril-mikrotalasna) i trpezarijom, spavaću sobu sa bračnim krevetom, predsoblje i kupatilo, kao i brzi Wi-Fi internet, klima uređaj i kvarcnu peć. Nalazi se u manjoj višeporodičnoj zgradi sa velikom baštom i privatnim parkingom, u najmirnijem dijelu Budve, na 1000 m od mora. Supermarketi Hdl i Idea na 5', škola i obdanište na 7-8', plaža na 15'. Stan se izdaje na godinu dana. Unaprijed se plaćaju prva kirija, dvije posljednje i depozit. Računi i parking mjesto nijesu uračunati. Max tri osobe. Molimo, bez kućnih ljubimaca i pušenja u stanu. Osunčan, Renoviran, Blizu škole, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:20.821876+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.197631+00:00",
+  "source_html_sha256": "96e1a4544a49667b5b391fd861e288795a8b91f5a9e7e79de882693c0294d321",
+  "title": "Izdavanje, jednosoban stan, 43m², Lazi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "4. Proleterske, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mila N",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje"
+  ],
+  "metadata_summary": "Izdajem lijep namješten stan sa jednom spavaćom sobom, dva balkona, pogledom na vrt i brda (i bočno na more) i privatnim parking mjestom. Stan je svijetao i prijatan, sa trostranom orijentacijom. Ima dnevni boravak sa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!58",
+      "agent_reasons": "4 ads with this number",
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+34603791202",
+      "name": "Mila N",
+      "email": null,
+      "source": "workbook:Likely agents!58"
+    },
+    {
+      "phone_e164": "+34603791202",
+      "name": "Mila N",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+34603791202"
+  ],
+  "phone_e164": "+34603791202",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

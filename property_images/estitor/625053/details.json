@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "625053",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-625053",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-625053"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 121,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_625053",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "3",
+    "Broj etaža": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Površina placa": "6000",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Podrum": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Površina placa m2": "6000",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9990100d-8268-443c-a1f8-68cb010ad580-lg.webp",
+    "https://content.estitor.com/8a3ef9fe-7bf5-497b-aca5-06ed7b15c119-lg.webp",
+    "https://content.estitor.com/912bf181-0a73-4aaf-bad8-cfafdefb6067-lg.webp",
+    "https://content.estitor.com/c4475496-cd20-4226-b654-5011e259ef82-lg.webp",
+    "https://content.estitor.com/c4b9f228-a759-4ec5-afa0-ba316263ec99-lg.webp",
+    "https://content.estitor.com/c130ec13-12a8-46a9-bc69-829e0b45f395-lg.webp",
+    "https://content.estitor.com/52ba9760-b20d-4a94-b52e-0f01e7974d5e-lg.webp",
+    "https://content.estitor.com/4e8a32f7-15d8-40ee-8e44-85e2430c5c9a-lg.webp",
+    "https://content.estitor.com/cfe2ce99-034c-454c-a047-e9ab6f4a8ef0-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Osunčan, novogradnja, lux, miran kraj, odmah useljiv\nLuksuzna vila površine sa podrumom i garažama površine, na placu od.\nSmjestan u mirnom dijelu na nekoliko minuta od Imanja Knjaz.\nNekretnina odiše udobnošću i sigurnošću, ograđena kamenom ogradom sa kapijama na elektronsko otvaranje.\nPodno grijanje, multisplit sistem hlađenja i grijanja u svim prostorijama.\nIzuzetna nekretnina.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:09.179031+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.868734+00:00",
+  "source_html_sha256": "f1af0e148bd6d5965e926653e7367a37a99e149aa46ad3144d3dd7d984eb2b16",
+  "title": "Izdavanje, kuća, 340m², Mareza, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28",
+  "price_amount": 1300,
+  "price_currency": "EUR",
+  "price_raw": "1300 EUR",
+  "area_m2": 340,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ana Raickovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "lot_area_m2": 6000,
+  "balconies": 3,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Dvorište",
+    "Podrum",
+    "Kuhinja",
+    "Trpezarija",
+    "Ostava",
+    "Lux"
+  ],
+  "metadata_summary": "Osunčan, novogradnja, lux, miran kraj, odmah useljivLuksuzna vila površine sa podrumom i garažama površine, na placu od.Smjestan u mirnom dijelu na nekoliko minuta od Imanja Knjaz.Nekretnina odiše udobnošću i sigurnoš...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!121",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267233316",
+      "name": "Ana Raickovic",
+      "email": null,
+      "source": "workbook:Likely agents!121"
+    },
+    {
+      "phone_e164": "+38267233316",
+      "name": "Ana Raickovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267233316"
+  ],
+  "phone_e164": "+38267233316",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

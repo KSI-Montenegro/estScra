@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "639014",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-639014",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-639014"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 591,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639014",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Sjever",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/faa8830f-5e6e-471d-bba1-82b55fe88916-lg.webp",
+    "https://content.estitor.com/1427f181-8cb5-4f12-99c5-8727a5cda50b-lg.webp",
+    "https://content.estitor.com/2d994b18-80d9-4325-bc00-8a3510005bbd-lg.webp",
+    "https://content.estitor.com/b42f2ad5-7b15-43d1-a96f-b1a5e9330673-lg.webp",
+    "https://content.estitor.com/972a9c09-d740-4323-92ef-951502807454-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Stan je opremljen kuhinjom i kupatilom, dok ostatak prostora nije u potpunosti namješten. Postoji mogućnost dogovora oko dodatnog opremanja stana u skladu sa potrebama zakupca, uz dogovor o depozitu i ostalim uslovima.\nUslovi zakupa: Prva i posljednja kirija, uz obavezan dodatni depozit unaprijed.\nZa više informacija i dogovor, kontaktirati putem poruke ili telefona.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:37.757135+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.312367+00:00",
+  "source_html_sha256": "800ef2d966030984e0fdf14657cc338cc3474f69bddbac171ec0167475c834dd",
+  "title": "Izdavanje, jednosoban stan, 56m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-19",
+  "updated_date": "2026-10-19",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 56,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "17b Bulevar Veljka Vlahovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sanida Pepic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Stan je opremljen kuhinjom i kupatilom, dok ostatak prostora nije u potpunosti namješten. Postoji mogućnost dogovora oko dodatnog opremanja stana u skladu sa potrebama zakupca, uz dogovor o depozitu i ostalim uslovima...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!591",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268711720",
+      "name": "Sanida Pepic",
+      "email": null,
+      "source": "workbook:Outreach list!591"
+    },
+    {
+      "phone_e164": "+38268711720",
+      "name": "Sanida Pepic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268711720"
+  ],
+  "phone_e164": "+38268711720",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

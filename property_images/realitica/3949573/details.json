@@ -1,0 +1,142 @@
+{
+  "source": "realitica",
+  "listing_id": "3949573",
+  "listing_url": "https://www.realitica.com/hr/listing/3949573",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949573"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 82,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3949573",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Građevinsko Zemljište",
+    "Područje": "Bar",
+    "Lokacija": "Utjeha",
+    "Adresa": "Sremska Utjeha Bar",
+    "Cijena": "€99.000",
+    "Zemljište": "476 m2",
+    "Od Mora (m)": "700",
+    "Oglas Broj": "3949573",
+    "Postavljeno": "22 Oct, 2026",
+    "Zadnja Promjena": "22 Oct, 2026"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3949573_img_0762.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949573_b17a1855-164f-4cf3-97b7-5bde77b025b0.jpg",
+    "https://www.realitica.com/images/listing_photos/3949573_img_2654.jpeg"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "На продају је грађевинско земљиште са уредном документацијом и погледом на море, које се налази у општини Бар, у насељу Куње (Црна Гора).\n\nПовршина: 476 м².\n\nПриватна продаја.\n\nУ цену је укључена и грађевинска дозвола за пројекат виле (уколико сте заинтересовани).\n\nГрађевинска дозвола је већ издата.\n\nСве је правно уређено, без чекања на административне процедуре.\n\nПо потреби, могу вам послати пројекат на увид.\n\nУобичајено време чекања на грађевинску дозволу износи од 6 до 12 месеци.\n\nЦрна Гора је посвећена приступању Европској унији до 2028. године.\n\nПарцела број 4016/26 може се погледати на јавном порталу црногорског катастра непокретности.\n\nОпремљена комплетном инфраструктуром.\n\nСлободно ме контактирајте уколико имате било каква питања.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:15.481336+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.299324+00:00",
+  "source_html_sha256": "389d74df81a0b73989326a686d7b619f996d5d73be403a8bde479ee3cf5e42d0",
+  "title": "Prodajem Građevinsko Zemljište, Utjeha",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Utjeha",
+  "street_address": "Sremska Utjeha Bar",
+  "published_date_raw": "22 Oct, 2026",
+  "updated_date_raw": "22 Oct, 2026",
+  "distance_to_sea_m": 700,
+  "property_type_raw": "Prodajem Građevinsko Zemljište",
+  "property_type": "land",
+  "deal_type": "sale",
+  "price_raw": "€99.000",
+  "price_amount": 99000,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "На продају је грађевинско земљиште са уредном документацијом и погледом на море, које се налази у општини Бар, у насељу Куње (Црна Гора).\n\nПовршина: 476 м².\n\nПриватна продаја.\n\nУ цену је укључена и грађевинска дозвола за пројекат виле (уколико сте заинтересовани).\n\nГрађевинска дозвола је већ издата.\n\nСве је правно уређено, без чекања на административне процедуре.\n\nПо потреби, могу вам послати пројекат на увид.\n\nУобичајено време чекања на грађевинску дозволу износи од 6 до 12 месеци.\n\nЦрна Гора је посвећена приступању Европској унији до 2028. године.\n\nПарцела број 4016/26 може се погледати на јавном порталу црногорског катастра непокретности.\n\nОпремљена комплетном инфраструктуром.\n\nСлободно ме контактирајте уколико имате било каква питања.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!82",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+4915222991723",
+      "name": "Dennis Peach",
+      "email": null,
+      "source": "workbook:Outreach list!82"
+    }
+  ],
+  "contact_phones": [
+    "+4915222991723"
+  ],
+  "phone_e164": "+4915222991723",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

@@ -1,0 +1,181 @@
+{
+  "source": "estitor",
+  "listing_id": "291523",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-291523",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-291523"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 811,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_291523",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Orijentacija": "/",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "500 m",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8bcc6a69-d417-4fad-815b-3f1a5eef7caf-lg.webp",
+    "https://content.estitor.com/11245c3a-4156-4f89-bde5-4496617c88cf-lg.webp",
+    "https://content.estitor.com/6c7026f0-27ee-489f-98e6-dca24797120a-lg.webp",
+    "https://content.estitor.com/f2173b5c-be76-4a18-bb97-0a0e76f0c225-lg.webp",
+    "https://content.estitor.com/d2cd643d-a64e-4146-b7d4-cc9c961db064-lg.webp",
+    "https://content.estitor.com/0fa26ea1-0881-4698-aa59-775e16e3c835-lg.webp",
+    "https://content.estitor.com/55b2c194-053a-4888-a585-f0d35e9c76b2-lg.webp",
+    "https://content.estitor.com/1f640277-5b86-4d57-93d8-cf610294a15a-lg.webp",
+    "https://content.estitor.com/9109ac33-ba2e-4c16-bd15-1397468f3ffa-lg.webp",
+    "https://content.estitor.com/70955236-de48-49a2-aba2-24d391bfe9f7-lg.webp",
+    "https://content.estitor.com/3e47e56a-3b51-4b72-a5bf-401f38e42966-lg.webp",
+    "https://content.estitor.com/1c1c4acf-c3fb-4bf2-965c-5e6930a7e15c-lg.webp",
+    "https://content.estitor.com/47daf8f8-aebb-4580-9e28-873103332135-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Apartman se izdaje od 1.Oktobra do 1.Maja (moguc dogovor i za Maj mjesec) .\nStan je izuzetno uredan, cist, stanje je prakticno novo , i opremljen je apsolutno svim sto vam je neophodno za lagodan i udoban zivot .\nZa ostale informacije pozvati\nNovogradnja, Lux, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:41.218544+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.913896+00:00",
+  "source_html_sha256": "9eeafcce1437d5e0801773697473b61176afb5bdaaa9d9d3c9b703e85f058073",
+  "title": "Izdavanje, trosoban stan, 120m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2024-09-27",
+  "updated_date": "2026-10-06",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 120,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "61 Rolovina, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Kascelan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "/",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Apartman se izdaje od 1.Oktobra do 1.Maja (moguc dogovor i za Maj mjesec) .Stan je izuzetno uredan, cist, stanje je prakticno novo , i opremljen je apsolutno svim sto vam je neophodno za lagodan i udoban zivot .Za ost...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!811",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267356643",
+      "name": "Ivan Kascelan",
+      "email": null,
+      "source": "workbook:Outreach list!811"
+    },
+    {
+      "phone_e164": "+38267356643",
+      "name": "Ivan Kascelan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267356643"
+  ],
+  "phone_e164": "+38267356643",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

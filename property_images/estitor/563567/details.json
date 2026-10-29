@@ -1,0 +1,146 @@
+{
+  "source": "estitor",
+  "listing_id": "563567",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-563567",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-563567"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 616,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_563567",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "5",
+    "Broj etaža": "3",
+    "Stanje": "Za renoviranje",
+    "Opremljen": "Djelimično",
+    "Parking": "Ispred objekta",
+    "Površina placa": "1000",
+    "Površina placa m2": "1000"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/fa9d41ee-609d-452c-9676-d05b1cfb2e40-lg.webp",
+    "https://content.estitor.com/7fb9a1f6-9c96-45cd-a318-8c66aae1c76d-lg.webp",
+    "https://content.estitor.com/0cecad89-c992-477b-9107-7fc7b62bdfa2-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Predstavljamo izuzetno prostranu kuću za izdavanje u popularnom naselju Tološi, Podgorica. Ova impresivna nekretnina prostire se na čak 400 m², nudeći obilje komfora i funkcionalnosti za moderni način života.\nSa čak 7 spavaćih soba i 4 kupatila, ova kuća je idealna za velike porodice, višegeneracijsko stanovanje ili profesionalce koji traže prostran dom sa dovoljno prostora za radne sobe ili goste. Raspored prostorija pruža privatnost i udobnost za sve stanare.\nSmještena u mirnom kraju Tološa, nekretnina garantuje opuštajuće okruženje daleko od gradske vreve, a istovremeno je izuzetno praktična. Posebna pogodnost je blizina škole, što je čini savršenim izborom za porodice sa djecom.\nKuća se izdaje djelimično namještena, što vam omogućava da je personalizujete i opremite prema sopstvenom stilu i potrebama. Obezbijeđen je parking ispred objekta, pružajući dodatnu udobnost. Ova fantastična kuća je odmah useljiva, spremna da primi svoje nove stanare.\nNe propustite priliku da živite u prostranom domu u jednom od najpoželjnijih dijelova Podgorice. Kontaktirajte nas za više informacija i zakazivanje obilaska!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:51.048865+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.440501+00:00",
+  "source_html_sha256": "a1b86e46ca0569e61a60a70140611b26c83a37e04fc96d1ed16ffc3a1c13c358",
+  "title": "Izdavanje, kuća, 400m², Tološi, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-28",
+  "updated_date": "2026-10-12",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 400,
+  "rooms": 7,
+  "bathrooms": 4,
+  "city": "Podgorica",
+  "street_address": "Ivangradska 22",
+  "country": "ME",
+  "advertiser_name": "Sanja Mrdak",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Za renoviranje",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 1000,
+  "balconies": 5,
+  "property_type_raw": "Kuća",
+  "amenities": [],
+  "metadata_summary": "Predstavljamo izuzetno prostranu kuću za izdavanje u popularnom naselju Tološi, Podgorica. Ova impresivna nekretnina prostire se na čak 400 m², nudeći obilje komfora i funkcionalnosti za moderni način života.Sa čak 7 ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!616",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268311915",
+      "name": "Sanja Mrdak",
+      "email": null,
+      "source": "workbook:Outreach list!616"
+    },
+    {
+      "phone_e164": "+38268311915",
+      "name": "Sanja Mrdak",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268311915"
+  ],
+  "phone_e164": "+38268311915",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

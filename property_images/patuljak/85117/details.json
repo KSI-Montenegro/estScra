@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "85117",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosobannamjesten-stan--85117",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosobannamjesten-stan--85117"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 850,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85117",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!850:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Malo brdo",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Kvadratura": "100 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "10 m2",
+    "Vrsta poda": "Pločice",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85117_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban,komplet namjesten stan od 100m2 na Malom brdu,prvi sprat kuce sa zasebnim ulazom i parking mjestom-069 852-415",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:10.129046+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.320032+00:00",
+  "source_html_sha256": "41386f2ff59931e38257a649259ff656a6c7178517393255e1441bd71233e134",
+  "title": "Izdajem dvosoban,namjesten stan",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Dijana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Malo brdo",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 100,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem dvosoban,komplet namjesten stan od 100m2 na Malom brdu,prvi sprat kuce sa zasebnim ulazom i parking mjestom-069 852-415",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!850",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269852415",
+      "name": "Dijana",
+      "email": null,
+      "source": "workbook:Outreach list!850"
+    }
+  ],
+  "contact_phones": [
+    "+38269852415"
+  ],
+  "phone_e164": "+38269852415",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

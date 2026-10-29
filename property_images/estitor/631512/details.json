@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "631512",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631512",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631512"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 312,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_631512",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2af30dac-c7d2-4855-8f53-f40664a27b88-lg.webp",
+    "https://content.estitor.com/b4e15f48-9ece-4c93-bf19-d060533ce176-lg.webp",
+    "https://content.estitor.com/67b98374-5cf5-4ff2-b627-574b69f207b1-lg.webp",
+    "https://content.estitor.com/814d8334-3136-4c4f-8037-b5071c277f71-lg.webp",
+    "https://content.estitor.com/0ca31f72-e076-453c-b8c9-614ba9a3cba3-lg.webp",
+    "https://content.estitor.com/b5c9b9b6-c18e-44c0-885c-3137bebb2ab1-lg.webp",
+    "https://content.estitor.com/53f22e43-a2ff-49fa-b214-44f430e0928f-lg.webp",
+    "https://content.estitor.com/98cf6d32-0d27-4025-813d-b2a92af53864-lg.webp",
+    "https://content.estitor.com/f34a8268-2e47-425f-8d1e-f9b9debc1911-lg.webp",
+    "https://content.estitor.com/3741a70c-ad4d-4248-8bd3-152203e7cdac-lg.webp",
+    "https://content.estitor.com/4ad3c1d4-3a82-42a8-a7bb-5998a0b3ba05-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i funkcionalan stan – garsonjera u srcu Sutomora, Bar. Smješten u novogradnji, ovaj osunčan dom nudi idealnu kombinaciju udobnosti i pristupačnosti.\nSa svojih 35.0 m², stan je kompletno opremljen i odmah useljiv, što ga čini savršenim izborom za pojedince ili parove. Prizemlje garantuje lak pristup, dok vas pogled na more poziva na opuštanje.\nZgrada je novogradnja i opremljena liftom i interfonom, pružajući dodatnu sigurnost i komfor. Javni parking je dostupan u neposrednoj blizini. Lokacija je izuzetna, blizu škole i svih bitnih sadržaja, što osigurava praktičan svakodnevni život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:17.232554+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.734935+00:00",
+  "source_html_sha256": "b4192f8baabbc2214ae9546c4fd092ba59604f49c834ed181fd6e9c262df9cc1",
+  "title": "Izdavanje, garsonjera, 35m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08",
+  "price_amount": 270,
+  "price_currency": "EUR",
+  "price_raw": "270 EUR",
+  "area_m2": 35,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "2 Njegoševa, Sutomore 85355, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Anđela Petranović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se moderan i funkcionalan stan – garsonjera u srcu Sutomora, Bar. Smješten u novogradnji, ovaj osunčan dom nudi idealnu kombinaciju udobnosti i pristupačnosti.Sa svojih 35.0 m², stan je kompletno opremljen i od...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!312",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267536146",
+      "name": "Anđela Petranović",
+      "email": null,
+      "source": "workbook:Outreach list!312"
+    },
+    {
+      "phone_e164": "+38267536146",
+      "name": "Anđela Petranović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267536146"
+  ],
+  "phone_e164": "+38267536146",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

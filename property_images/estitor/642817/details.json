@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "642817",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-642817",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-642817"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 12,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_642817",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/20cd7211-9785-4ca8-bc87-4750127520b0-lg.webp",
+    "https://content.estitor.com/b39206e5-e4ca-4449-ac38-0bf39a1813cd-lg.webp",
+    "https://content.estitor.com/7af83bc4-0235-4c8b-99b7-65a59d759c15-lg.webp",
+    "https://content.estitor.com/20ed5713-8d6f-40b8-aac2-029375e9ad88-lg.webp",
+    "https://content.estitor.com/bde42af7-617d-400b-9114-ad7a920e7306-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se renovirana i potpuno opremljena garsonjera površine 33m², sa dvorištem od 10m².\nKarakteristike:\n* Lokacija: Topla 2\n* Površina 33m² + dvorište 10m²\n* Renovirana i opremljena\n* Klima uređaj\n* Internet\n* Parking mjesto\n* Renoveran\n* Miran kraj\n* Odmah useljiv\nGarsonjera se izdaje dugoročno, na period od 12 mjeseci",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:46.011064+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.704322+00:00",
+  "source_html_sha256": "a41ac6720f5af22ab3dc7ce6f6c390daeeb92c34f170845549e154c92259457a",
+  "title": "Izdavanje, garsonjera, 33m², Topla, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-24",
+  "updated_date": "2026-10-24",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 33,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Vukašin Lutovac",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se renovirana i potpuno opremljena garsonjera površine 33m², sa dvorištem od 10m².Karakteristike:* Lokacija: Topla 2* Površina 33m² + dvorište 10m²* Renovirana i opremljena* Klima uređaj* Internet* Parking mjes...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!12",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269278706",
+      "name": "Vukasin",
+      "email": null,
+      "source": "workbook:Likely agents!12"
+    },
+    {
+      "phone_e164": "+38269278706",
+      "name": "Vukašin Lutovac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269278706"
+  ],
+  "phone_e164": "+38269278706",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

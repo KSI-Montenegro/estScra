@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "471638",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-471638",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-471638"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 835,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_471638",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Orijentacija": "Juzna",
+    "Parking": "Da",
+    "Udaljenost od mora": "700",
+    "Lift": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7970f3a4-e957-4511-b3fb-e63e77036d6d-lg.webp",
+    "https://content.estitor.com/f7430f21-c674-4ddd-9c6d-bafe7b430926-lg.webp",
+    "https://content.estitor.com/50275fb1-c714-4d08-9cbd-e0c4a9a2ab7e-lg.webp",
+    "https://content.estitor.com/67f63dab-1511-4624-832e-30b1f90901da-lg.webp",
+    "https://content.estitor.com/3f5d1cca-148c-4851-96e5-c9c9381af2eb-lg.webp",
+    "https://content.estitor.com/edc48b90-1359-43c4-8e49-d744716dc517-lg.webp",
+    "https://content.estitor.com/bb019166-fc90-4b22-9fc2-2c38c9d2d4a1-lg.webp",
+    "https://content.estitor.com/ea7f415e-d0a7-4727-a4a2-6fd73472ab15-lg.webp",
+    "https://content.estitor.com/523fa6fa-0705-4720-bcf2-04a2d0c9e12f-lg.webp",
+    "https://content.estitor.com/a34bea98-38a1-4c14-a96a-144293422445-lg.webp",
+    "https://content.estitor.com/98d34147-b2c3-4dbd-9857-37d4147203a7-lg.webp",
+    "https://content.estitor.com/4d53eb5b-90ef-46ee-b725-6ee703ce0453-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderno opremljen jednosoban stan,na jednoj od najboljih pozicija u gradu,multisplit sistem grijanja i hladjenja,internet i odrzavanje ulaza uracunato u cijenu.Pogled na more.Drugi sprat,lift.Kucni ljubimci nisu dozvoljeni",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:59.304122+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.179802+00:00",
+  "source_html_sha256": "7ee86d4c00e9074deda9a91609154ccafa9f7615a58966389b510811410c8da2",
+  "title": "Izdavanje, jednosoban stan, 48m², Pinješ, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-20",
+  "updated_date": "2026-09-14",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Ulcinj",
+  "country": "ME",
+  "advertiser_name": "Marko Cejovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Da",
+  "orientation_raw": "Juzna",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Lift",
+    "Internet",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se moderno opremljen jednosoban stan,na jednoj od najboljih pozicija u gradu,multisplit sistem grijanja i hladjenja,internet i odrzavanje ulaza uracunato u cijenu.Pogled na more.Drugi sprat,lift.Kucni ljubimci ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!835",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267495499",
+      "name": "Marko Cejovic",
+      "email": null,
+      "source": "workbook:Outreach list!835"
+    },
+    {
+      "phone_e164": "+38267495499",
+      "name": "Marko Cejovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267495499"
+  ],
+  "phone_e164": "+38267495499",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

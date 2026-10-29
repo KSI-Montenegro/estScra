@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "466538",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-466538",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-466538"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 106,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_466538",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Interfon": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/269675cb-aea0-4f7b-bdc8-99aee5cb1ed6-lg.webp",
+    "https://content.estitor.com/a3837910-01e5-4f9d-9b61-a4ad7ef1b384-lg.webp",
+    "https://content.estitor.com/90a1376f-8534-4d2a-98c9-0c8cf99f9703-lg.webp",
+    "https://content.estitor.com/9b350098-8555-4a29-9a6e-0d5cb216ccc5-lg.webp",
+    "https://content.estitor.com/599d0b7f-bdbb-4590-845a-ed660af39a2e-lg.webp",
+    "https://content.estitor.com/9ebbfde0-fd72-414e-bb6c-63ffe35eabcf-lg.webp",
+    "https://content.estitor.com/013d5085-c309-4690-a001-ac29b6be45b5-lg.webp",
+    "https://content.estitor.com/78bee811-6435-48c9-ba06-d099e5f5f5f1-lg.webp",
+    "https://content.estitor.com/b8ef0280-3cf2-49ab-a002-de92d8eed5ea-lg.webp",
+    "https://content.estitor.com/c9e7595e-5377-4fa4-a3d9-4eb7cf37f702-lg.webp",
+    "https://content.estitor.com/4184c03c-b07a-4b2e-9e2f-9067a180234d-lg.webp",
+    "https://content.estitor.com/aa00340c-8e60-41be-af20-1d746f960626-lg.webp",
+    "https://content.estitor.com/46e2619c-7f01-4c92-8a89-fc9df2a15ddd-lg.webp",
+    "https://content.estitor.com/e43054a3-d11c-469b-8f88-4b9b3aa67cf8-lg.webp",
+    "https://content.estitor.com/56939def-f6b5-41ba-b645-ce42bfebc241-lg.webp",
+    "https://content.estitor.com/75c0fdc4-5809-43cf-8cd4-0ab7a55d1de9-lg.webp",
+    "https://content.estitor.com/4218bcf1-ce47-4e1d-8f01-5fc2e05b240c-lg.webp",
+    "https://content.estitor.com/aa4b9e9e-8d81-417d-8451-95c193bc431c-lg.webp",
+    "https://content.estitor.com/307c380b-9a32-4c75-9e8e-73be9c97e35a-lg.webp",
+    "https://content.estitor.com/1c1defad-b4a0-413d-9e5c-b77eed27a351-lg.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban renoviran stan na prvom spratu na duži period, u mirnom okruženju, 55m2 u zgradi blizanci iznad Parme, struktura stana - hodnik, kuhinja, dnevna, spavaća, kupatilo i velika terasa. Parking dostupan ispred zgrade. Kupatilo je novo, kao i kuhinja. Idealan za par.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:55.173173+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.703633+00:00",
+  "source_html_sha256": "fbb7620db03c57849908631706dd7e9c8dc5afdf4066f40583ce2f2414add793",
+  "title": "Izdavanje, jednosoban stan, 55m², Lazi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-06",
+  "updated_date": "2026-10-20",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Ena P.",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Interfon",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban renoviran stan na prvom spratu na duži period, u mirnom okruženju, 55m2 u zgradi blizanci iznad Parme, struktura stana - hodnik, kuhinja, dnevna, spavaća, kupatilo i velika terasa. Parking dostupa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!106",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268408967",
+      "name": "Ena P.",
+      "email": null,
+      "source": "workbook:Likely agents!106"
+    },
+    {
+      "phone_e164": "+38268408967",
+      "name": "Ena P.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268408967"
+  ],
+  "phone_e164": "+38268408967",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

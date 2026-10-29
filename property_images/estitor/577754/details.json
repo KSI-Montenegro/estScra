@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "577754",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-577754",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-577754"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 123,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_577754",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2000",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/36505589-6b51-4243-bd1a-e36165008273-lg.webp",
+    "https://content.estitor.com/7d1ac873-c2e0-4092-bdb9-2fc6d9ae93f1-lg.webp",
+    "https://content.estitor.com/2d47c92c-7873-43bc-883e-f46881f0427b-lg.webp",
+    "https://content.estitor.com/d8dc41d7-e163-48bf-adb9-d7bcfd8a0061-lg.webp",
+    "https://content.estitor.com/b3e1c78e-88f5-4c27-8158-c329effc9292-lg.webp",
+    "https://content.estitor.com/ab10f132-d09d-4e8a-b4f1-7c11fc97f99a-lg.webp",
+    "https://content.estitor.com/fb0dac00-b583-46b9-8644-fad5617accb8-lg.webp",
+    "https://content.estitor.com/7ed48346-f837-4ca2-9742-ab26c3c79cbf-lg.webp",
+    "https://content.estitor.com/55871267-d653-422e-970f-366409eb2fd3-lg.webp",
+    "https://content.estitor.com/529936fb-d18a-4329-b4aa-9b938618093a-lg.webp",
+    "https://content.estitor.com/e4fa92d6-5e8e-4cd9-bb6f-916a94d5629a-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Prvi red do mora – izuzetna prilika za najam u srcu Đenovića, Herceg Novi!\nPredstavljamo Vam šarmantan i funkcionalan stan za izdavanje, savršeno pozicioniran za uživanje u primorskom životu. Sa površinom od 27.0 m², ovaj kompaktan dom nudi sve što je potrebno za udoban boravak.\nStan se sastoji od 1 spavaće sobe i 1 kupatila, te je u potpunosti opremljen, što znači da je spreman za useljenje bez ikakvih dodatnih ulaganja. Uživajte u modernoj kuhinji, te se rashladite tokom letnjih dana zahvaljujući klimatizaciji.\nPosebna pogodnost je dvorište, idealno za jutarnju kafu ili večernje opuštanje. Parking ispred objekta Vam obezbeđuje bezbrižno parkiranje. Smješten direktno na obali, nudi predivan pogled i brz pristup plaži.\nOvaj stan je idealan za samca, par ili kao sezonski najam. Ne propustite ovu jedinstvenu priliku.\nKontaktirajte nas za više informacija i dogovorite razgledanje!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:11.222412+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.889159+00:00",
+  "source_html_sha256": "b2847e89a5a8aabd165687ba6a8dca13904b1655f50eb88f1892f867f0fe50d3",
+  "title": "Izdavanje, jednosoban stan, 27m², Đenovići, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-09",
+  "updated_date": "2026-09-24",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 27,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "92 E65, Đenovići, Черногория",
+  "country": "ME",
+  "advertiser_name": "Nadezda Mikhailova",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugozapad",
+  "balconies": 0,
+  "year_built": 2000,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Prvi red do mora – izuzetna prilika za najam u srcu Đenovića, Herceg Novi!Predstavljamo Vam šarmantan i funkcionalan stan za izdavanje, savršeno pozicioniran za uživanje u primorskom životu. Sa površinom od 27.0 m², o...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!123",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267053502",
+      "name": "Nadezda Mikhailova",
+      "email": null,
+      "source": "workbook:Likely agents!123"
+    },
+    {
+      "phone_e164": "+38267053502",
+      "name": "Nadezda Mikhailova",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267053502"
+  ],
+  "phone_e164": "+38267053502",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

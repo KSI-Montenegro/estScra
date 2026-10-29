@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "627740",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-627740",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-627740"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 167,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627740",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Vrsta poslovnog prostora": "Maloprodajni",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7b9a850-6cef-4b25-b7ed-065bc422eea3-lg.webp",
+    "https://content.estitor.com/81a08273-e3c9-4268-be6a-46d1353f2c16-lg.webp",
+    "https://content.estitor.com/5200b57f-63ae-48ac-ae67-6cee6b9bfc92-lg.webp",
+    "https://content.estitor.com/e08e8ef0-2bc4-4a22-8225-9efc20056b95-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Predstavljamo izuzetan poslovni prostor za izdavanje u srcu Tivta, idealan za pokretanje ili proširenje vašeg poslovanja u jednom od najdinamičnijih gradova na crnogorskoj obali.\n\nOvaj moderni prostor, ukupne površine 50.0 m², smješten je na prizemlju, što garantuje izvanrednu vidljivost i lak pristup za vaše klijente ili zaposlene. Unutrašnjost je optimalno organizovana i obuhvata dvije potpuno funkcionalne kupaonice, što predstavlja značajnu prednost i rijetkost za poslovne prostore ove kvadrature.\n\nZa optimalnu udobnost tokom cijele godine, prostor je u potpunosti opremljen modernom klimatizacijom. Njegova adaptabilnost omogućava širok spektar namjena – od kancelarijskog prostora, maloprodaje, salona ljepote, butika do raznih servisnih djelatnosti. Lokacija u Tivtu nudi dinamično poslovno okruženje sa stalnim protokom ljudi.\n\nNe propustite priliku da osigurate savršeno mjesto za uspjeh vašeg biznisa u Tivtu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:00.650771+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.277980+00:00",
+  "source_html_sha256": "80fd792a9741b5b3a901379c8757423c4dc29cf4318b2f358d0c2883109e6e16",
+  "title": "Izdavanje, poslovni prostor, 50m², Donja Lastva, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02",
+  "price_amount": 1200,
+  "price_currency": "EUR",
+  "price_raw": "1200 EUR",
+  "area_m2": 50,
+  "bathrooms": 2,
+  "city": "Tivat",
+  "street_address": "Jadranska magistrala, Доња Ластва, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Miko Vucelic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Predstavljamo izuzetan poslovni prostor za izdavanje u srcu Tivta, idealan za pokretanje ili proširenje vašeg poslovanja u jednom od najdinamičnijih gradova na crnogorskoj obali. Ovaj moderni prostor, ukupne površine ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!167",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269014073",
+      "name": "Miko Vucelic",
+      "email": null,
+      "source": "workbook:Not homes!167"
+    },
+    {
+      "phone_e164": "+38269014073",
+      "name": "Miko Vucelic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269014073"
+  ],
+  "phone_e164": "+38269014073",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,32 @@
+# Prodajem SAUNU
+
+Source: https://patuljak.me/oglas/prodajem-saunu--79234
+
+- Deal: sale
+- Property type: commercial
+- Published price: Cijena na upit
+- City: Kotor
+- District: Dobrota
+- Area (m²): 20
+- Floor: Prizemlje
+- Furnishing: Da
+
+## Original listing description
+
+PRODAJE SE: Velika drvena sauna (kapacitet 7–10 osoba)
+​Na prodaju drvena sauna velikog kapaciteta (za 7 do 10 osoba). Sauna je trenutno rasklopljena, spremna za lak utovar, transport i montažu na vašoj lokaciji.
+​Kapacitet: 7–10 osoba (idealno za komercijalnu upotrebu ili veće privatne objekte)
+​Stanje: Odlično očuvana, kompletna sa svom pratećom opremom
+​Prednost: Rasklopljena — štedi vrijeme i znatno olakšava transport
+​Namjena: Izuzetna prilika za hotele, SPA i wellness centre, kompenzacija/dopuna ponude za etno sela, luksuzne vile za izdavanje ili privatne vlasnike.
+
+​???? Lokacija: Kotor / Boka Kotorska
+???? Cijena: moguć dogovor za ozbiljne kupce
+
+???? Kontakt: +38267333929 +38268010925 / WhatsApp / Viber
+
+## Published amenities
+
+- Namješten
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "80015",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-budva--80015",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-budva--80015"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 48,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80015",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!48:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Babilonija",
+    "Broj prostorija": "2",
+    "Sprat": "Prizemlje",
+    "Stambena kvadratura": "24 m2",
+    "Uknjiženo": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80015_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdajem poslovni prostor pogodan za sve namjene",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:52.488435+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.431944+00:00",
+  "source_html_sha256": "251ffbb581339cf306b2cecb722db6de171a767bf6c589c9733a1ba31c7a8a0d",
+  "title": "Izdajem poslovni prostor, Budva",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Zdravka",
+  "property_type": "commercial",
+  "city": "Budva",
+  "district": "Babilonija",
+  "floor_raw": "Prizemlje",
+  "area_m2": 24,
+  "amenities": [
+    "Uknjiženo"
+  ],
+  "metadata_summary": "Izdajem poslovni prostor pogodan za sve namjene",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!48",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263484156",
+      "name": "Zdravka",
+      "email": null,
+      "source": "workbook:Not homes!48"
+    }
+  ],
+  "contact_phones": [
+    "+38263484156"
+  ],
+  "phone_e164": "+38263484156",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

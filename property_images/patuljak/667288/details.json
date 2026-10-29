@@ -1,0 +1,158 @@
+{
+  "source": "patuljak",
+  "listing_id": "667288",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-71m2-tuski-put-podgorica-prodaja--667288",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-71m2-tuski-put-podgorica-prodaja--667288"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 51,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_667288",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!51:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tuški put",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "6",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Stambena kvadratura": "71 m2",
+    "Kvadratura balkona": "2 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_22.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667288_3.webp"
+  ],
+  "image_count": 23,
+  "image_status": "ok",
+  "description_original": "Prodaje se 71 m2, u vojnoj zgradi – Tuški put u Podgorici. Stan ima 3 sobe, 2 mokra čvora – kupatilo sa tuš kabinom i gostinski wc, trpezariju, terasu, lođu, kuhinju sa ugrađenim kuhinjskim elementima i dva hodnika. Izuzetno funkcionalan stan sa prelijepim rasporedom prostorija koji odvaja spavaći blok u posebnu cjelinu. Stan se nalazi u zgradi koja je napravljena i useljena 1979 g. i jedna je od najkvalitetnijih zgrada ikada napravljenih u Podgorici, uključujući i nove, jer je pravljena po tada najstrožijim mogućim standardima. U neposrednoj blizini se nalaze škole, vrtići, prodavnice, pijaca, TC Mall of Montenegro kao i igrališta za djecu ispred zgrade, gdje je takođe i veliki parking gdje ćete uvijek naći mjesto za parkiranje.Zgrada i stan se nalaze u mirnom dijelu grada, koji obezbjeđuje lijep i kvalitetan život.\nhttps://www.youtube.com/watch?v=OLUo4tLJCwE",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:58.979516+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.084529+00:00",
+  "source_html_sha256": "df7655d052d63a49a2efa64deda87b6649ce262b2dd3f987c8cd7e7e9af8e90d",
+  "title": "Dvosoban stan, 71m2, Tuski put, Podgorica, Prodaja",
+  "description_language": "en",
+  "price_raw": "210000.00€",
+  "price_amount": 210000,
+  "price_currency": "EUR",
+  "advertiser_name": "Dejan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Tuški put",
+  "floor_raw": "6",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 71,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodaje se  71 m2, u vojnoj zgradi – Tuški put u Podgorici. Stan ima 3 sobe, 2 mokra čvora – kupatilo sa tuš kabinom i gostinski wc, trpezariju, terasu, lođu, kuhinju sa ugrađenim kuhinjskim elementima i dva hodnika. Izuzetno funkcionalan stan sa prelijepim rasporedom prostorija koji odvaja spavaći blok u posebnu cjelinu. Stan se nalazi u zgradi koja je napravljena i useljena 1979 g. i jedna je od najkvalitetnijih zgrada ikada napravljenih u Podgorici, uključujući i nove, jer je pravljena po tada najstrožijim mogućim standardima. U neposrednoj blizini se nalaze škole, vrtići, prodavnice, pijaca, TC Mall of Montenegro kao i igrališta za djecu ispred zgrade, gdje je takođe i veliki parking gdje ćete uvijek naći mjesto za parkiranje.Zgrada i stan se nalaze u mirnom dijelu grada, koji obezbjeđuje lijep i kvalitetan život.https://www.youtube.com/watch?v=OLUo4tLJCwE",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!51",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269019302",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Outreach list!51"
+    }
+  ],
+  "contact_phones": [
+    "+38269019302"
+  ],
+  "phone_e164": "+38269019302",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

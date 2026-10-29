@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "453614",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-453614",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-453614"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 101,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_453614",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Parking": "Ima",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/65048184-936d-4518-ba11-166e31289f0c-lg.webp",
+    "https://content.estitor.com/98356eb4-47cb-46cb-9dbe-44035d1ca5ad-lg.webp",
+    "https://content.estitor.com/125582b6-61db-4679-a465-a735c088af84-lg.webp",
+    "https://content.estitor.com/1b8527c4-4ca0-41c2-bc9f-3808951526f1-lg.webp",
+    "https://content.estitor.com/b014b9ed-a088-4289-8a38-c12312c444e2-lg.webp",
+    "https://content.estitor.com/f786193a-8957-462b-a6d6-b5b7deccdf52-lg.webp",
+    "https://content.estitor.com/2ac91c0c-a8b4-4c67-83bd-828c6d9555b2-lg.webp",
+    "https://content.estitor.com/39d595ee-d123-4e1a-8c8f-6e47da6d7fe3-lg.webp",
+    "https://content.estitor.com/1ba67973-6021-47ce-8674-e01e4c907265-lg.webp",
+    "https://content.estitor.com/e931b5d4-393b-4532-89c0-791fc62cc7fa-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosobnu opremljenu manju kucu na Starom aerodromu kod doma zdravlja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:51.196966+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.647847+00:00",
+  "source_html_sha256": "907f33d303a9ee4a23a6469322af15c77c3816cb5db8f6af1cb0e0cae407737d",
+  "title": "Izdavanje, jednosoban stan, 40m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-04",
+  "updated_date": "2026-09-12",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Drazen Nikolic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "furnishing_raw": "true",
+  "parking_raw": "Ima",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Internet",
+    "Kablovska",
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem jednosobnu opremljenu manju kucu na Starom aerodromu kod doma zdravlja.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!101",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268274284",
+      "name": "Drazen Nikolic",
+      "email": null,
+      "source": "workbook:Likely agents!101"
+    },
+    {
+      "phone_e164": "+38268274284",
+      "name": "Drazen Nikolic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268274284"
+  ],
+  "phone_e164": "+38268274284",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

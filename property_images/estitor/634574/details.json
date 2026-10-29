@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "634574",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-634574",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-634574"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 76,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_634574",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/46ec2c08-20ea-4993-978f-23d0f2556fb0-lg.webp",
+    "https://content.estitor.com/87d8c3a1-0b01-48cd-b694-9f7235ba2ecb-lg.webp",
+    "https://content.estitor.com/a5d22f89-cd09-4c49-bb92-b8172ad3029e-lg.webp",
+    "https://content.estitor.com/4e4ba3f5-3da6-4cc7-9761-73488eb1e36f-lg.webp",
+    "https://content.estitor.com/b034ad8b-e9ab-4307-b492-6c843f0add00-lg.webp",
+    "https://content.estitor.com/24a9e1a1-e3f3-4796-ad4c-86b446974546-lg.webp",
+    "https://content.estitor.com/1322d22e-0d1d-4668-aa92-784fa3caeb57-lg.webp",
+    "https://content.estitor.com/ab69af8d-edce-4d5f-b9d3-e26cea10c6d3-lg.webp",
+    "https://content.estitor.com/0c787932-fe39-4f0e-8f5c-80ed1350917d-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi u naselju Velji Vinogradi, odmah kod restorana Zlatibor i picerije Fenix. Stan se nalazi na prizemlju zgrade. Stan je renoviran 2019., jednosoban, veličine 37m2, Spavaća soba ima bračni krevet i plakar. U dnevnom boravku je garnitura koja se razvlači po potrebi. Stan je klimatizovan, ima obezbijedjen , dok je kuhinja potpuno opremljena. U trpezariji su sto sa 3 stolice. Kupatilo ima tus kabinu kao i masinu za ves. U sklopu stana je i veća terasa sa garniturom za 4 osobe.\nIzdaje se na duzi period.\nVlasnik",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:34.261577+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.387928+00:00",
+  "source_html_sha256": "9783fc4b7471920f94dc6019486e39b77a97ddf8c50043ac6f355a5fb4695613",
+  "title": "Izdavanje, jednosoban stan, 37m², Velji Vinogradi, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-13",
+  "updated_date": "2026-10-27",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "80 Babilonja, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Filip Burzan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Stan se nalazi u naselju Velji Vinogradi, odmah kod restorana Zlatibor i picerije Fenix. Stan se nalazi na prizemlju zgrade. Stan je renoviran 2019., jednosoban, veličine 37m2, Spavaća soba ima bračni krevet i plakar....",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!76",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267431600",
+      "name": "Filip",
+      "email": null,
+      "source": "workbook:Likely agents!76"
+    },
+    {
+      "phone_e164": "+38267431600",
+      "name": "Filip Burzan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267431600"
+  ],
+  "phone_e164": "+38267431600",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "73097",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru-uldalmatinska-potpuno-namjesten--73097",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru-uldalmatinska-potpuno-namjesten--73097"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 538,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73097",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!538:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Dalmatinska",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "2",
+    "Kvadratura": "24 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "5586 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Zapad",
+    "Parking mjesto": "1",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "zvati na broj 068598121",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:15.395095+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.037240+00:00",
+  "source_html_sha256": "774e5c8eeb9da3a7117956176dbe200f81b15db3ae4e777c658b6dc938eee366",
+  "title": "izdajem garsonjeru ul.dalmatinska potpuno namjestena",
+  "description_language": "en",
+  "price_raw": "280.00€",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "advertiser_name": "veljko",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Dalmatinska",
+  "floor_raw": "2",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 24,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "zvati na broj 068598121",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!538",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268216775",
+      "name": "veljko",
+      "email": null,
+      "source": "workbook:Outreach list!538"
+    }
+  ],
+  "contact_phones": [
+    "+38268216775"
+  ],
+  "phone_e164": "+38268216775",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "595874",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595874",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595874"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 95,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_595874",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Nema parkinga",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bf1e0a8e-575b-4b16-96a4-275dc956c923-lg.webp",
+    "https://content.estitor.com/b500af04-0404-4378-92fc-f0e05c8ed34e-lg.webp",
+    "https://content.estitor.com/dad84f60-e1c7-4ad4-b446-262db575faf4-lg.webp",
+    "https://content.estitor.com/a348ad0a-2477-4bce-a842-30a8a75b821b-lg.webp",
+    "https://content.estitor.com/dad30775-6301-4307-a811-555e09a89324-lg.webp",
+    "https://content.estitor.com/fd2977e9-6d57-4c8e-a80f-1f50e2063414-lg.webp",
+    "https://content.estitor.com/6e3954b5-4189-45e0-9f06-2703fdafc8c6-lg.webp",
+    "https://content.estitor.com/be49dc66-61d6-4160-9e71-7a6122187878-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno namješten i moderno opremljen jednosoban stan na odličnoj lokaciji iza Delte, preko puta Central Pointa. Stan se nalazi u kvalitetnoj zgradi sa liftom, veoma je svijetao i orijentisan ka istoku, što ga čini toplim i prijatnim tokom cijelog dana.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:48.576493+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.585515+00:00",
+  "source_html_sha256": "39734dc77f9c2d61adaad711c06dd669ea00ffd3e8fdc79d16064a58b9b25311",
+  "title": "Izdavanje, jednosoban stan, 42m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-09-22",
+  "price_amount": 460,
+  "price_currency": "EUR",
+  "price_raw": "460 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Marka Radovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vladan Bozovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se potpuno namješten i moderno opremljen jednosoban stan na odličnoj lokaciji iza Delte, preko puta Central Pointa. Stan se nalazi u kvalitetnoj zgradi sa liftom, veoma je svijetao i orijentisan ka istoku, što ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!95",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269350880",
+      "name": "Vladan Bozovic",
+      "email": null,
+      "source": "workbook:Likely agents!95"
+    },
+    {
+      "phone_e164": "+38269350880",
+      "name": "Vladan Bozovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269350880"
+  ],
+  "phone_e164": "+38269350880",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

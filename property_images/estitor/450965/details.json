@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "450965",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-450965",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-450965"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 597,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_450965",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d4e7ea41-9b59-4964-83aa-9f5cc56d1ce8-lg.webp",
+    "https://content.estitor.com/5ab9e4fd-5d9c-4b6a-8789-ce35ec0457f4-lg.webp",
+    "https://content.estitor.com/8dabaeab-7887-45e8-a89a-826e4434f827-lg.webp",
+    "https://content.estitor.com/aa586c3d-e1bf-410c-ba43-bfeabddff783-lg.webp",
+    "https://content.estitor.com/41a39233-907b-49bc-b551-a886371f29d3-lg.webp",
+    "https://content.estitor.com/1ac6278d-03a4-403e-821a-05dd7c7a65ab-lg.webp",
+    "https://content.estitor.com/00210323-6114-4921-a0e8-156f9e0b31f9-lg.webp",
+    "https://content.estitor.com/9ea9e419-2902-4110-b4b1-cbbde8214861-lg.webp",
+    "https://content.estitor.com/564d78d6-9937-452b-ba2a-67adf4b3df9d-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem trosoban stan za kancelariski prostor. Bez agencija i posrednika.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:40.920744+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.342567+00:00",
+  "source_html_sha256": "a59677183a4594e745810819ab7f169e7eed24fb648b557f75e900e270051f61",
+  "title": "Izdavanje, trosoban stan, 104m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-20",
+  "updated_date": "2026-10-19",
+  "price_amount": 1300,
+  "price_currency": "EUR",
+  "price_raw": "1300 EUR",
+  "area_m2": 104,
+  "rooms": 3,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Tina S",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "true",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem trosoban stan za kancelariski prostor. Bez agencija i posrednika.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!597",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267878731",
+      "name": "Tina S",
+      "email": null,
+      "source": "workbook:Outreach list!597"
+    },
+    {
+      "phone_e164": "+38267878731",
+      "name": "Tina S",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267878731"
+  ],
+  "phone_e164": "+38267878731",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

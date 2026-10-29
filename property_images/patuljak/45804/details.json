@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "45804",
+  "listing_url": "https://patuljak.me/oglas/prodajem-zemljiste-dobra-voda--45804",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-zemljiste-dobra-voda--45804"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 206,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_45804",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!206:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Dobra Voda",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "15.227 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodajem Zemljište, Dobre Vode\nPodručje: Bar\nLokacija: Dobra Voda\nAdresa: Bar, Utjeha\nCijena: 20€ po kvadratu\nZemljište: 15.227 m2\nOd Mora (m): 3800\n\nOpis: Prodajem zemljište površine 15 227 m2; na Utjehi (između Bara i Ulcinja). Udaljeno je 19 km od Bara, i Ulcinja, i samo 4 km od obale. Od glavne magistrale do placa vodi nov asfalt širine 5 m. Plac je očišćen, i ima struju.\n\n+382 68 057842",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:25.499760+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.084745+00:00",
+  "source_html_sha256": "8924348f744e18dd20a495bcb4ce3ad96354c7bf7f857a6eda73f2d64b393c48",
+  "title": "Prodajem zemljiste, Dobra Voda",
+  "description_language": "en",
+  "price_raw": "20.00€",
+  "price_amount": 20,
+  "price_currency": "EUR",
+  "advertiser_name": "Milica",
+  "property_type": "land",
+  "city": "Bar",
+  "district": "Dobra Voda",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem Zemljište, Dobre VodePodručje: BarLokacija: Dobra VodaAdresa: Bar, UtjehaCijena: 20€ po kvadratuZemljište: 15.227 m2Od Mora (m): 3800Opis: Prodajem zemljište površine 15 227 m2; na Utjehi (između Bara i Ulcinja). Udaljeno je 19 km od Bara, i Ulcinja, i samo 4 km od obale. Od glavne magistrale do placa vodi nov asfalt širine 5 m. Plac je očišćen, i ima struju.+382 68 057842",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!206",
+      "notes": "check deal: sale at 20 EUR looks like a rent",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268339236",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Outreach list!206"
+    }
+  ],
+  "contact_phones": [
+    "+38268339236"
+  ],
+  "phone_e164": "+38268339236",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 15227,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

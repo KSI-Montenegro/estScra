@@ -1,0 +1,139 @@
+{
+  "source": "realitica",
+  "listing_id": "3948717",
+  "listing_url": "https://www.realitica.com/hr/listing/3948717",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948717"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 201,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3948717",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Zemljište",
+    "Područje": "Kotor",
+    "Lokacija": "Zagora",
+    "Cijena": "€909.120",
+    "Zemljište": "5.682 m2",
+    "Od Mora (m)": "2600",
+    "Oglas Broj": "3948717",
+    "Postavljeno": "21 Oct, 2026",
+    "Zadnja Promjena": "21 Oct, 2026"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3948717_img-110c57983d9b339ec19b4ef421b71f44-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3948717_screenshot_20261021_103459_maps.jpg"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "🌊 PRODAJA URBANISTIČKE PARCELE SA OTVORENIM POGLEDOM NA MORE – ZAGORA, DUP NERIN\n\nNa prodaju atraktivna urbanistička parcela površine 5.682 m², smještena u selu Zagora, u okviru DUP-a Nerin, sa oznakom T2 – turistička namjena.\n\n🌅 Otvoreni pogled na more, atraktivna lokacija i izuzetan investicioni potencijal!\n\n📍 Lokacija: Zagora, opština Kotor\n\n📐 Površina: 5.682 m²\n\n🏗️ Namjena: T2 – turistički sadržaji\n\n💶 Cijena: 160 €/m²\n\n💰 Ukupna cijena: 909.120 €\n\n📑 Status: Zahtjev za izdavanje UTU je predat.\n\nPrednosti parcele:\n\n- 🌊 Otvoreni pogled na more.\n\n- 🛣️ Izlaz na put sa gornje i donje strane parcele.\n\n- 🚧 Gornji put je planski predviđen za povezivanje širokom saobraćajnicom prema Bigovi.\n\n- 🏨 Potencijal za razvoj turističkog kompleksa, u skladu sa važećim planskim dokumentom i urbanističkim parametrima.\n\nOdlična prilika za investitore koji traže zemljište sa pogledom na otvoreno more i potencijalom za razvoj turističkog projekta na Crnogorskom primorju.\n\n📩 Za više informacija i dokumentaciju, kontakt putem privatne poruke ili what’s app/viber/telegram 069 185 635",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:18.587405+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.484343+00:00",
+  "source_html_sha256": "b0a068761e95d6f7a8fed9c178bf6c67060968541890545e4f98c974ae26264c",
+  "title": "Prodajem Zemljište, Zagora",
+  "description_language": "hr",
+  "city": "Kotor",
+  "district": "Zagora",
+  "published_date_raw": "21 Oct, 2026",
+  "updated_date_raw": "21 Oct, 2026",
+  "distance_to_sea_m": 2600,
+  "property_type_raw": "Prodajem Zemljište",
+  "property_type": "land",
+  "deal_type": "sale",
+  "price_raw": "€909.120",
+  "price_amount": 909120,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "🌊 PRODAJA URBANISTIČKE PARCELE SA OTVORENIM POGLEDOM NA MORE – ZAGORA, DUP NERIN\n\nNa prodaju atraktivna urbanistička parcela površine 5.682 m², smještena u selu Zagora, u okviru DUP-a Nerin, sa oznakom T2 – turistička namjena.\n\n🌅 Otvoreni pogled na more, atraktivna lokacija i izuzetan investicioni potencijal!\n\n📍 Lokacija: Zagora, opština Kotor\n📐 Površina: 5.682 m²\n🏗️ Namjena: T2 – turistički sadržaji\n💶 Cijena: 160 €/m²\n💰 Ukupna cijena: 909.120 €\n📑 Status: Zahtjev za izdavanje UTU je predat.\n\nPrednosti parcele:\n\n- 🌊 Otvoreni pogled na more.\n- 🛣️ Izlaz na put sa gornje i donje strane parcele.\n- 🚧 Gornji put je planski predviđen za povezivanje širokom saobraćajnicom prema Bigovi.\n- 🏨 Potencijal za razvoj turističkog kompleksa, u skladu sa važećim planskim dokumentom i urbani",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!201",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269185635",
+      "name": "Sladjana",
+      "email": null,
+      "source": "workbook:Not homes!201"
+    }
+  ],
+  "contact_phones": [
+    "+38269185635"
+  ],
+  "phone_e164": "+38269185635",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

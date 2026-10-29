@@ -1,0 +1,154 @@
+{
+  "source": "patuljak",
+  "listing_id": "78646",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-pansion--78646",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-pansion--78646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 763,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78646",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!763:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Borje",
+    "Broj soba": "8+",
+    "Stambena kvadratura": "142 m2",
+    "Broj spratova": "3",
+    "Godina izgradnje": "2010-2019",
+    "Namještena": "Da",
+    "Vrsta poda": "Brodski pod",
+    "Kvadratura placa": "400 m2",
+    "Vrsta grijanja": "Drva",
+    "Kvadratura balkona": "20 m2",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Septička jama",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78646_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Pansion je razradjen od 4 apartmana. Vec 7 g na svim platformama. Visoke ocene. Kapacitet 18-22 osobe. Vlasnistvo 1/1 , bez tereta. Kont telefon 067786660",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:07.023095+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.359262+00:00",
+  "source_html_sha256": "b7a88373b8be7ee85b70639f7f5d8dfa461db39d8173c444b9eecc41b1a2b45f",
+  "title": "Prodaje se pansion",
+  "description_language": "en",
+  "price_raw": "185000.00€",
+  "price_amount": 185000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ksenija",
+  "property_type": "house",
+  "city": "Žabljak",
+  "district": "Borje",
+  "building_floors_raw": "3",
+  "room_layout_raw": "8+",
+  "heating_raw": "Drva",
+  "parking_raw": "3 i više",
+  "area_m2": 142,
+  "year_built": 2010,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Pansion je razradjen od 4 apartmana. Vec 7 g na svim platformama. Visoke ocene. Kapacitet 18-22 osobe. Vlasnistvo 1/1 , bez tereta. Kont telefon 067786660",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!763",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267786660",
+      "name": "Ksenija",
+      "email": null,
+      "source": "workbook:Outreach list!763"
+    }
+  ],
+  "contact_phones": [
+    "+38267786660"
+  ],
+  "phone_e164": "+38267786660",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

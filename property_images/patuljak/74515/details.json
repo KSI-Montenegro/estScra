@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "74515",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-45m2-stari-aerodrom-podgorica--74515",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-45m2-stari-aerodrom-podgorica--74515"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 895,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_74515",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "6",
+    "Kvadratura": "45 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "5 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "1",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_8.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "????IZDAVANJE❗️????450€\n\nJednosoban stan površine 45m2 za izdavanje na Starom Aerodromu.\n\nNalazi se na VI spratu zgrade MUP-a, kod O.Š. Pavle Rovinski.\n\nPo svojoj strukturi stan se sastoji od: dnevnog boravka, trpezarije, kuhinje, spavaće sobe, hodnika, kupatila, toaleta i terase.\n\nNamješten je modernim i kvalitetnim stvarima, jako komforan i funkcionalan. Posjeduje multisplit sistem grijanja i hlađenja.\n\nU cijenu zakupa uključen je i parking mjesto pod rampom.\n\nLokacija stana je odlična. Preko puta se nalazi osnovna škola Pavle Rovinski, dok se na 150m udaljesnoti nalazi vrtić. Ispred zgrade nalazi se autobusko stajalište, mega market Aroma, a ublizini se nalaze još i Voli market, veliki broj restorana, kafića, pekara i slično.\n\nDepozit u visini jedne mjesečne kirije i ugovor na minimum jednu godinu su obavezni.\n\n☎️068/576-243",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:40.938196+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.769884+00:00",
+  "source_html_sha256": "a73c7ed7872d443d4a66064fa3013b6a85c98225cd484cc0486c269b726a4d9b",
+  "title": "Izdavanje, Stan, 45m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "6",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 45,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "????IZDAVANJE❗️????450€Jednosoban stan površine 45m2 za izdavanje na Starom Aerodromu.Nalazi se na VI spratu zgrade MUP-a, kod O.Š. Pavle Rovinski.Po svojoj strukturi stan se sastoji od: dnevnog boravka, trpezarije, kuhinje, spavaće sobe, hodnika, kupatila, toaleta i terase.Namješten je modernim i kvalitetnim stvarima, jako komforan i funkcionalan. Posjeduje multisplit sistem grijanja i hlađenja.U cijenu zakupa uključen je i parking mjesto pod rampom.Lokacija stana je odlična. Preko puta se nalazi osnovna škola Pavle Rovinski, dok se na 150m udaljesnoti nalazi vrtić. Ispred zgrade nalazi se autobusko stajalište, mega market Aroma, a ublizini se nalaze još i Voli market, veliki broj restorana, kafića, pekara i slično.Depozit u visini jedne mjesečne kirije i ugovor na minimum jednu godinu su obavezni.☎️068/576-243",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!895",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268576243",
+      "name": "Ognjen Tomčić",
+      "email": null,
+      "source": "workbook:Outreach list!895"
+    }
+  ],
+  "contact_phones": [
+    "+38268576243"
+  ],
+  "phone_e164": "+38268576243",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

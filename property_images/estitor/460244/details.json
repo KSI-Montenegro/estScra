@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "460244",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-460244",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-460244"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 111,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_460244",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Udaljenost od mora": "80",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2695f80c-fda8-41d1-9a9a-f01244d5d615-lg.webp",
+    "https://content.estitor.com/c4aa3887-6fa0-4820-b446-cc647eaf38e7-lg.webp",
+    "https://content.estitor.com/f8152c4b-364e-44b6-904f-f4da0994aef8-lg.webp",
+    "https://content.estitor.com/88498871-3ef2-484c-82a7-384dc4111699-lg.webp",
+    "https://content.estitor.com/db4e9342-008c-4249-97e9-3a1411e313ec-lg.webp",
+    "https://content.estitor.com/9eedc847-777c-47d6-b9b6-2724715a138f-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i prozračan jednosoban stan površine 50m², smješten u mirnom mjestu Buljarica, 80m od plaze, na svega 15 minuta vožnje od Budve i 20 minuta od Bara.Stan posjeduje:Veliku terasu sa spektakularnim panoramskim pogledom na moreSvijetao dnevni boravak sa dosta prirodne svjetlostiOdvojenu spavaću sobuFunkcionalnu kuhinju i trpezarijuKupatiloZbog svoje pozicije i prostornosti, stan je idealan za duži boravak, a mirna lokacija u prirodi pruža potpuni odmor i privatnost. Površina: 50 m² Pogled: panoramski na more, Osunčan, Pogled na more, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:59.405182+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.763435+00:00",
+  "source_html_sha256": "b0216285557812a6bdbf5f6826b951d42ce54aa8648c2cc93e414eb0a4d6dfa2",
+  "title": "Izdavanje, jednosoban stan, 50m², Buljarica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-21",
+  "updated_date": "2026-10-20",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Buljarica BB, Kaluđerac, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mitra Radovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se prostran i prozračan jednosoban stan površine 50m², smješten u mirnom mjestu Buljarica, 80m od plaze, na svega 15 minuta vožnje od Budve i 20 minuta od Bara.Stan posjeduje:Veliku terasu sa spektakularnim pan...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!111",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268672930",
+      "name": "Mitra Radovic",
+      "email": null,
+      "source": "workbook:Likely agents!111"
+    },
+    {
+      "phone_e164": "+38268672930",
+      "name": "Mitra Radovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268672930"
+  ],
+  "phone_e164": "+38268672930",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

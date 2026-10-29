@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "76240",
+  "listing_url": "https://patuljak.me/oglas/plac-u-tolosima-1793m2--76240",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-u-tolosima-1793m2--76240"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 78,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76240",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tološi",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1793 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_1.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:10.286347+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.655684+00:00",
+  "source_html_sha256": "66e3f318bd7e42c4cc7e71b3555705ae948c8f885f7720145555cbda8b3e570d",
+  "title": "PLAC U TOLOSIMA 1793M2",
+  "description_language": "en",
+  "price_raw": "300000.00€",
+  "price_amount": 300000,
+  "price_currency": "EUR",
+  "advertiser_name": "Vlajko",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Tološi",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "PLAC U TOLOSIMA 1793M2",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!78",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269766253",
+      "name": "Vlajko",
+      "email": null,
+      "source": "workbook:Not homes!78"
+    }
+  ],
+  "contact_phones": [
+    "+38269766253"
+  ],
+  "phone_e164": "+38269766253",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "lot_area_m2": 1793,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

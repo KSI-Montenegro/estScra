@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "619649",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-619649",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-619649"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 24,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_619649",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2015",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f652887c-61cf-453c-b0f6-98da850ff3e5-lg.webp",
+    "https://content.estitor.com/34940525-3061-49bd-ac97-6bf6f19890c9-lg.webp",
+    "https://content.estitor.com/c88d8721-a130-44f7-b3f6-df4a563fc966-lg.webp",
+    "https://content.estitor.com/23754260-19e9-44dd-b2ae-796c708f075a-lg.webp",
+    "https://content.estitor.com/70b87643-2f08-4ab6-8961-c043d72a30f4-lg.webp",
+    "https://content.estitor.com/4102ff2e-d887-466d-94e5-daf477d10f8b-lg.webp",
+    "https://content.estitor.com/e649fbac-e22f-4e3a-aeca-3b83a8df93b7-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno nov i sređen poslovni prostor , 46m2 , BLOK 9, Zgrada Kroling\n\nPogodan za kancelarije, predstavništva, salone i ordinacije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:36.652766+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.237969+00:00",
+  "source_html_sha256": "f155f747517ae552489b862092165396e98d1b5f68032fdb9194dab58fdc1dc1",
+  "title": "Izdavanje, poslovni prostor, 46m², Blok 9, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-19",
+  "updated_date": "2026-09-19",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 46,
+  "city": "Podgorica",
+  "street_address": "Zgrada Kroling, 30 Jovana Popovića Lipovca, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Danilo Jevrić",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "balconies": 0,
+  "year_built": 2015,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se potpuno nov i sređen poslovni prostor , 46m2 , BLOK 9, Zgrada KrolingPogodan za kancelarije, predstavništva, salone i ordinacije.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!24",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267166322",
+      "name": "Danilo Jevrić",
+      "email": null,
+      "source": "workbook:Not homes!24"
+    },
+    {
+      "phone_e164": "+38267166322",
+      "name": "Danilo Jevrić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267166322"
+  ],
+  "phone_e164": "+38267166322",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

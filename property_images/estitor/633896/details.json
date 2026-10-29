@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "633896",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633896",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633896"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 141,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_633896",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d63024aa-66b4-4f33-b436-b80baa253092-lg.webp",
+    "https://content.estitor.com/800a164f-1325-4d36-bae7-e9e2858e757e-lg.webp",
+    "https://content.estitor.com/1ad6bae2-bcf1-41d7-aae6-5d3499ce0894-lg.webp",
+    "https://content.estitor.com/7e5c7fc4-2516-4d54-ab1a-9505640fc2f3-lg.webp",
+    "https://content.estitor.com/44425cbb-f264-484d-b385-cc0f92b84d00-lg.webp",
+    "https://content.estitor.com/d82d583e-0239-48a3-83a9-9ed67d99b169-lg.webp",
+    "https://content.estitor.com/365226ca-71a7-4e86-80a3-3cc2b9f5fd63-lg.webp",
+    "https://content.estitor.com/4ade8611-31a3-4e36-a7b4-34f831e0180f-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Dobra Voda | 400 m od mora\n\nIzdaje se stan na duži vremenski period, sa prelijepim pogledom na more, u zgradi sa bazenom i prostorom za odmor.\n\nKarakteristike stana:\n\nPogled na more\n\nPrizemlje\n\nPrivatna terasa sa dvorištem u sklopu stana\n\nUdaljenost od mora svega 400 m\n\nBazen u sklopu zgrade\n\nZajednička terasa za odmor i uživanje\n\nParking\n\nIzdavanje na duži period\n\nInformacije i zakazivanje obilaska:\n\nRea Nekretnine d.o.o.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:23.113032+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.033599+00:00",
+  "source_html_sha256": "a28dcdde91f0fed721f6641f18e3903ff7f18388e32d2a41117f3a58f3b69dd9",
+  "title": "Izdavanje, garsonjera, 28m², Dobra Voda, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-12",
+  "updated_date": "2026-10-12",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "93 E851, Dobra Voda, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Rea Nekretnine",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Dobra Voda | 400 m od moraIzdaje se stan na duži vremenski period, sa prelijepim pogledom na more, u zgradi sa bazenom i prostorom za odmor. Karakteristike stana: Pogled na more Prizemlje Privatna terasa sa dvorištem ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!141",
+      "agent_reasons": "business name (Rea Nekretnine)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267518587",
+      "name": "Rea Nekretnine",
+      "email": null,
+      "source": "workbook:Likely agents!141"
+    },
+    {
+      "phone_e164": "+38267518587",
+      "name": "Rea Nekretnine",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267518587"
+  ],
+  "phone_e164": "+38267518587",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

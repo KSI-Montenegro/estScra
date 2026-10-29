@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "626434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 120,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_626434",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "1999",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5824a388-d8a9-4d62-a363-c767c6c983ae-lg.webp",
+    "https://content.estitor.com/1695fb21-3173-43ea-a781-c11974a6074d-lg.webp",
+    "https://content.estitor.com/38720e98-62d6-40ee-b1a6-51e6086cb6f9-lg.webp",
+    "https://content.estitor.com/a3093d1f-e859-49b9-97af-a906e74630ec-lg.webp",
+    "https://content.estitor.com/83059443-9bb1-47bf-98aa-9dc93a62b4b3-lg.webp",
+    "https://content.estitor.com/a84857cb-3614-4cb9-bbcc-0b3db3ee4b8f-lg.webp",
+    "https://content.estitor.com/4498a3a1-e0a2-4623-a9ad-ad154dc5a8d4-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban namjesten stan 40m2 kod Vezirovog Mosta",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:08.269655+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.857409+00:00",
+  "source_html_sha256": "ebd07cb6f1c3006b2b9f24489baac3ba2ef9a405e6e245f4bd8658a501715f69",
+  "title": "Izdavanje, jednosoban stan, 40m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-30",
+  "updated_date": "2026-09-30",
+  "price_amount": 260,
+  "price_currency": "EUR",
+  "price_raw": "260 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Gavra vukovica",
+  "country": "ME",
+  "advertiser_name": "Zeljko Radunovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "balconies": 1,
+  "year_built": 1999,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdajem jednosoban namjesten stan 40m2 kod Vezirovog Mosta",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!120",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267613342",
+      "name": "Zeljko Radunovic",
+      "email": null,
+      "source": "workbook:Likely agents!120"
+    },
+    {
+      "phone_e164": "+38267613342",
+      "name": "Zeljko Radunovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267613342"
+  ],
+  "phone_e164": "+38267613342",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

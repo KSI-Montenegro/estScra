@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "615012",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bijelo-polje/id-615012",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bijelo-polje/id-615012"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 184,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_615012",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4f116870-d978-4222-9d2e-ba8d5204e7a0-lg.webp",
+    "https://content.estitor.com/034b3680-1b0c-421e-be6e-87d261a59893-lg.webp",
+    "https://content.estitor.com/ef61bb2c-2ecf-45e5-a476-25aae2fbaf5c-lg.webp",
+    "https://content.estitor.com/72d91f1b-1c3b-47a7-a6a2-3af1b37c2c36-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan poslovni prostor u srcu Bijelog Polja, na prestižnoj lokaciji Centar.\n\nOvaj funkcionalan prostor površine 26.0 m² nalazi se na prizemlju (0. sprat), što ga čini lako dostupnim za klijente i zaposlene. Idealno je rješenje za kancelariju, manju prodavnicu, agenciju, salon ili servisnu djelatnost. Prostor je djelimično namješten, pružajući fleksibilnost novom zakupcu da ga uredi po sopstvenim potrebama i brendu.\n\nUnutrašnjost obuhvata praktičan hodnik koji omogućava bolju organizaciju i privatnost. Dodatna pogodnost je obezbijeđen parking ispred objekta, što je ključno za udobnost poslovanja u gradskom jezgru.\n\nNe propustite priliku da osigurate idealnu lokaciju za razvoj Vašeg biznisa!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:09.708775+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.386900+00:00",
+  "source_html_sha256": "b5de3f1b4afdfd096aca93392a9faf94ae83a8ebd285db6038b89fa94bc12c43",
+  "title": "Izdavanje, poslovni prostor, 26m², Centar, Bijelo Polje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-12",
+  "updated_date": "2026-09-17",
+  "price_amount": 220,
+  "price_currency": "EUR",
+  "price_raw": "220 EUR",
+  "area_m2": 26,
+  "city": "Bijelo Polje",
+  "country": "ME",
+  "advertiser_name": "Nermin Mujanović",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se izuzetan poslovni prostor u srcu Bijelog Polja, na prestižnoj lokaciji Centar. Ovaj funkcionalan prostor površine 26.0 m² nalazi se na prizemlju (0. sprat), što ga čini lako dostupnim za klijente i zaposlene...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!184",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268009806",
+      "name": "Nermin Mujanović",
+      "email": null,
+      "source": "workbook:Not homes!184"
+    },
+    {
+      "phone_e164": "+38268009806",
+      "name": "Nermin Mujanović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268009806"
+  ],
+  "phone_e164": "+38268009806",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "635891",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635891",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635891"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 72,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_635891",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2d138a77-e819-420a-aee0-5b8fc9c494aa-lg.webp",
+    "https://content.estitor.com/7741d372-6a09-4651-8257-e465d6fd4be9-lg.webp",
+    "https://content.estitor.com/6d80e61e-742b-43fe-a58f-29e13b45ca17-lg.webp",
+    "https://content.estitor.com/e098301e-fe9c-41fc-a800-9ebf8dc6c947-lg.webp",
+    "https://content.estitor.com/b01f94db-fe37-490e-9076-6f923fd97085-lg.webp",
+    "https://content.estitor.com/300f2eae-5795-45c2-ae59-5ea170876139-lg.webp",
+    "https://content.estitor.com/f566703f-52c1-45f4-b7ec-74ff854672a0-lg.webp",
+    "https://content.estitor.com/e35f0ce6-0372-4c62-8154-6377123dcd0f-lg.webp",
+    "https://content.estitor.com/f4025916-e1d9-4839-901e-7093d61c4d9c-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem Stan u Centru grada, preko puta prve banke, stan je skroz opremljen. Spreman za useljenje",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:30.695598+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.348503+00:00",
+  "source_html_sha256": "0d46c2cf11c28f44896265ef9d5406e0ea326c8ad248c680d66ca4ab8a3e45f9",
+  "title": "Izdavanje, jednosoban stan, 43m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-15",
+  "updated_date": "2026-10-15",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "9 Vuka Karadžića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Balsa Besic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdajem Stan u Centru grada, preko puta prve banke, stan je skroz opremljen. Spreman za useljenje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!72",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267283738",
+      "name": "Balsa Besic",
+      "email": null,
+      "source": "workbook:Likely agents!72"
+    },
+    {
+      "phone_e164": "+38267283738",
+      "name": "Balsa Besic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267283738"
+  ],
+  "phone_e164": "+38267283738",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

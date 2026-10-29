@@ -1,0 +1,118 @@
+{
+  "source": "estitor",
+  "listing_id": "638502",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-tivat/id-638502",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-tivat/id-638502"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 83,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_638502",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b096c270-06e3-4ccb-b3d5-9fd11c75479a-lg.webp",
+    "https://content.estitor.com/c2e0bcc1-3174-49b4-aeb7-a1da84ce74e0-lg.webp",
+    "https://content.estitor.com/ac5abc12-a46e-4ea8-a024-571f0a701347-lg.webp",
+    "https://content.estitor.com/0e29f0ec-f441-454d-a578-edcc1acee5f4-lg.webp",
+    "https://content.estitor.com/2d07829f-5f98-4a36-a696-97695d518432-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "3 građevinske parcele zajedno 366m² UPD17. U centru Novog naselja. Broj parcela i površina:\n\nP314/3. 72 m²\nP319. 120 49m²\n314/1. 173 m²\n\nNa parceli je vinski podrum 11m².\n\nMože se graditi kuća na tri etaže, 282m².\n\nUšuškano a blizu sva infrastruktura Radovića. Do mnogobrojnih plaža 5m autom. Do centra Radovića i Centrale (Luštica Bay) 300m. Pogled na zaliv, na Boku, Lovčen, planine, Porto Montenegro i Tivat. Odrasle i mlade masline, ukupno 9. Visoka kamena ograda garantuje privatnost. Septička jama. Vrlo ugodna atmosfera.\n+38269233846 Vid (srpski, engleski, ruski)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:54.320301+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.946544+00:00",
+  "source_html_sha256": "60e54fe019d2be95ae5411b22c4b7ca278ff7645b100748dd6dcf5f9ee10eab6",
+  "title": "Prodaja, plac, 366m², Radovići, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-21",
+  "price_amount": 110000,
+  "price_currency": "EUR",
+  "price_raw": "110000 EUR",
+  "city": "Tivat",
+  "street_address": "Radovići I, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Just Rugel",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "3 građevinske parcele zajedno 366m² UPD17. U centru Novog naselja. Broj parcela i površina:P314/3. 72 m²P319. 120 49m²314/1. 173 m²Na parceli je vinski podrum 11m².Može se graditi kuća na tri etaže, 282m².Ušuškano a b...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

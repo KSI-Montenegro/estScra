@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "572119",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572119",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572119"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 805,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_572119",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/62608b6e-894e-41e9-9897-b7fd77171662-lg.webp",
+    "https://content.estitor.com/077023c6-fa6a-4172-ac10-920b9c5dba6d-lg.webp",
+    "https://content.estitor.com/5fa51706-d461-4b6b-8395-ab3cd32e867f-lg.webp",
+    "https://content.estitor.com/7692bd3c-c90e-4381-ab5a-7734ac2b0244-lg.webp",
+    "https://content.estitor.com/33fd2940-6c9f-4bd6-91c7-d735a657e8c5-lg.webp",
+    "https://content.estitor.com/350dbff2-7877-45f0-8ea3-cf306641d543-lg.webp",
+    "https://content.estitor.com/b25b33bc-36d5-421e-add1-65daf416e519-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Novogradnja, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:36.455283+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.831278+00:00",
+  "source_html_sha256": "c65a2d3bac976c4feea5a4cd1ac1262c65c86794c117d6c9af7570cf570bc17e",
+  "title": "Izdavanje, jednosoban stan, 42m², Ulcinjsko Polje, Ulcinj",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-22",
+  "updated_date": "2026-10-13",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Ulcinj",
+  "country": "ME",
+  "advertiser_name": "Husein Hoxhiq",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Novogradnja, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!805",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269124150",
+      "name": "Husein Hoxhiq",
+      "email": null,
+      "source": "workbook:Outreach list!805"
+    },
+    {
+      "phone_e164": "+38269124150",
+      "name": "Husein Hoxhiq",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269124150"
+  ],
+  "phone_e164": "+38269124150",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,163 @@
+{
+  "source": "patuljak",
+  "listing_id": "73912",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-48m2-zabjelo-podgorica--73912",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-48m2-zabjelo-podgorica--73912"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 192,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73912",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "5",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "43 m2",
+    "Kvadratura balkona": "5 m2"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 43,
+      "workbook_value": 48,
+      "source": "workbook:Outreach list!192"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73912_1.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini osnovnih škola \"Oktoih\" i \"Vuk Karadžić\", vrtića, dječijeg igrališta, marketa, apoteka i svih sadržaja potrebnih za ugodan svakodnevni život.\nStan je moderno i ukusno uređen, potpuno namješten. Zgrada posjeduje parking, a lokacija je mirna i odlično povezana sa ostatkom grada.\nPrednost imaju samci i bračni parovi. Kućni ljubimci nisu dozvoljeni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:17.627847+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.980570+00:00",
+  "source_html_sha256": "ecca6dc4e291beaae7a2b5753d9b722029098ed848db0cf28a1c5cade33132ee",
+  "title": "Jednosoban stan 48m2, Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Fatma",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "5",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 43,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Stan se nalazi na izuzetnoj lokaciji, u neposrednoj blizini osnovnih škola Oktoih i Vuk Karadžić, vrtića, dječijeg igrališta, marketa, apoteka i svih sadržaja potrebnih za ugodan svakodnevni život.Stan je moderno i ukusno uređen, potpuno namješten. Zgrada posjeduje parking, a lokacija je mirna i odlično povezana sa ostatkom grada.Prednost imaju samci i bračni parovi. Kućni ljubimci nisu dozvoljeni.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!192",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267482251",
+      "name": "Fatma",
+      "email": null,
+      "source": "workbook:Outreach list!192"
+    }
+  ],
+  "contact_phones": [
+    "+38267482251"
+  ],
+  "phone_e164": "+38267482251",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

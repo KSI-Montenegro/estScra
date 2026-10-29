@@ -1,0 +1,57 @@
+# Izdavanje, dvosoban stan 65 m2, Zabjelo, Podgorica
+
+Source: https://patuljak.me/oglas/izdavanje-dvosoban-stan-65-m2-zabjelo-podgorica--79460
+
+- Deal: rent
+- Property type: house
+- Published price: 400.00€
+- Price amount: 400
+- Currency: EUR
+- City: Podgorica
+- District: Zabjelo
+- Area (m²): 65
+- Parking: 2
+
+## Original listing description
+
+IDEALAN DVOSOBAN STAN ZA ŽIVOT I RAD OD KUĆE – ZABJELO
+Na odličnoj i veoma praktičnoj lokaciji na Zabjelu, u blizini La Colline, izdaje se funkcionalan i prijatan dvosoban stan, smješten u mirnom naselju idealnom za svakodnevni život.
+Lokacija: Zabjelo – kod La Colline
+U neposrednoj blizini nalaze se osnovna škola, Hard Diskont Laković i Džumbo, što lokaciju čini izuzetno praktičnom za svakodnevne potrebe.
+Stan je posebno pogodan za parove, zaposlene osobe i sve koji žele da spoje kvalitetan životni prostor sa mogućnošću rada od kuće.
+Mjesečna zakupnina: 400 €
+U cijenu su uključene sve komunalije, internet i kablovska televizija, dok se električna energija plaća posebno, prema potrošnji.
+Kontakt: 067 822 420
+
+ZABJELO’DA YAŞAM VE HOME OFFICE İÇİN İDEAL 2 ODALI DAİRE
+La Colline yakınlarında, Zabjelo’da çok iyi ve oldukça pratik bir konumda, sakin bir mahallede bulunan kullanışlı ve konforlu 2 odalı daire kiralıktır.
+Konum: Zabjelo – La Colline yakınları
+Dairenin yakınında ilkokul, Hard Diskont Laković ve Đumbo bulunmaktadır.
+Daire özellikle çiftler, çalışan kişiler ve yaşam alanını home office ile birleştirmek isteyenler için uygundur.
+Aylık kira: 400 €
+Fiyata tüm ortak giderler, internet ve kablolu TV dahildir. Elektrik faturası ise tüketime göre ayrıca ödenmektedir.
+İletişim: 067 822 420
+
+ИДЕАЛЬНАЯ ДВУХКОМНАТНАЯ КВАРТИРА ДЛЯ ЖИЗНИ И РАБОТЫ ИЗ ДОМА — ЗАБЬЕЛО
+Сдаётся уютная и функциональная двухкомнатная квартира в отличном районе Забьело, недалеко от La Colline.
+Расположение: Забьело — район La Colline
+Квартира расположена в тихом и спокойном жилом районе. В непосредственной близости находятся начальная школа, Hard Diskont Laković и Đumbo.
+Квартира особенно подходит для пары, работающих специалистов и тех, кто хочет совмещать комфортное проживание с возможностью работать из дома.
+Арендная плата: 400 € в месяц
+В стоимость включены все коммунальные расходы, интернет и кабельное телевидение. Электроэнергия оплачивается отдельно в соответствии с фактическим потреблением.
+Контактный телефон: 067 822 420
+
+## Published amenities
+
+- Namještena
+- Kanalizacija
+- Balkon
+- Renoviran
+- Voda
+- Struja
+- Klima
+- Kablovska TV
+- Internet
+- Uključen trošak režija
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

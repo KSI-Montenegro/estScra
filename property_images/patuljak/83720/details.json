@@ -1,0 +1,156 @@
+{
+  "source": "patuljak",
+  "listing_id": "83720",
+  "listing_url": "https://patuljak.me/oglas/studio-apartmani--83720",
+  "listing_urls": [
+    "https://patuljak.me/oglas/studio-apartmani--83720"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 136,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83720",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Grbalj",
+    "Broj soba": "4",
+    "Stambena kvadratura": "25 m2",
+    "Sprat": "1",
+    "Kvadratura placa": "500 m2",
+    "Godina izgradnje": "2000-2009",
+    "Vrsta grijanja": "Struja",
+    "Kvadratura balkona": "3 m2",
+    "Namješten": "Da",
+    "Parking mjesto": "3 i više",
+    "WC-Kupatilo": "Zasebno/a",
+    "Kuhinja": "Zasebno/a",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_16.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "STUDIO APARTMANI ZA IZDAVANJE – LASTVA GRBALJSKA, BUDVA\n\nIzdaju se tri potpuno opremljene smještajne jedinice u Lastvi Grbaljskoj, na oko 7 km od Budve.\n\nSmještaj je pogodan za radnike, zaposlene u Budvi i okolini, kao i za osobe kojima je potreban smještaj na duži period.\n\nU cijenu zakupa uključeni su svi troškovi vode, struje i komunalija, bez dodatnih mjesečnih računa.\n\nU ponudi su:\n\n1. Dvokrevetni studio apartman – za 2 osobe\n\n* Udobni ležajevi\n* Sopstvena kuhinja i frižider\n* Zasebno kupatilo\n* Klima-uređaj\n* Televizor\n* Pristup velikoj zajedničkoj terasi\n\nCijena: 300 € mjesečno\n\n2. Trokrevetni studio apartman – za 3 osobe\n\n* Udobni ležajevi\n* Sopstvena kuhinja i frižider\n* Zasebno kupatilo\n* Klima-uređaj\n* Televizor\n* Privatni balkon\n\nCijena: 400 € mjesečno\n\n3. Prostrani studio sa dvije trokrevetne sobe – za ukupno 6 osoba\n\n* Dvije odvojene trokrevetne sobe\n* Dva zasebna balkona\n* Dva televizora\n* Dva frižidera\n* Zajednička, potpuno opremljena kuhinja\n* Zajedničko kupatilo\n\nCijena: 500 € mjesečno\n\nDodatne pogodnosti\n\nSvim gostima je na raspolaganju velika zajednička terasa, pogodna za odmor i boravak na otvorenom, nezavisno od toga da li smještajna jedinica posjeduje privatni balkon.\n\nUkupan smještajni kapacitet: 11 osoba.\n\n???? Za više informacija: +382 69 133 482",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:46.201532+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.654757+00:00",
+  "source_html_sha256": "3bb10c01820bb7c74af62b19e7d80dac3b9f6659d2396b3c6cd9f7e25982df16",
+  "title": "Studio apartmani",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Dejan",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Grbalj",
+  "floor_raw": "1",
+  "room_layout_raw": "4",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 25,
+  "year_built": 2000,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "STUDIO APARTMANI ZA IZDAVANJE – LASTVA GRBALJSKA, BUDVAIzdaju se tri potpuno opremljene smještajne jedinice u Lastvi Grbaljskoj, na oko 7 km od Budve.Smještaj je pogodan za radnike, zaposlene u Budvi i okolini, kao i za osobe kojima je potreban smještaj na duži period.U cijenu zakupa uključeni su svi troškovi vode, struje i komunalija, bez dodatnih mjesečnih računa.U ponudi su:1. Dvokrevetni studio apartman – za 2 osobe* Udobni ležajevi* Sopstvena kuhinja i frižider* Zasebno kupatilo* Klima-uređaj* Televizor* Pristup velikoj zajedničkoj terasiCijena: 300 € mjesečno2. Trokrevetni studio apartman – za 3 osobe* Udobni ležajevi* Sopstvena kuhinja i frižider* Zasebno kupatilo* Klima-uređaj* Televizor* Privatni balkonCijena: 400 € mjesečno3. Prostrani studio sa dvije trokrevetne sobe – za ukupno 6 osoba* Dvije odvojene trokrevetne sobe* Dva zasebna balkona* Dva televizora* Dva frižidera* Zajednička, potpuno opremljena kuhinja* Zajedničko kupatiloCijena: 500 € mjesečnoDodatne pogodnostiSvim gostima je na raspolaganju velika zajednička terasa, pogodna za odmor i boravak na otvorenom, nezavisno od toga da li smještajna jedinica posjeduje privatni balkon.Ukupan smještajni kapacitet: 11 osoba.???? Za više informacija: +382 69 133 482",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!136",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269133482",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Outreach list!136"
+    }
+  ],
+  "contact_phones": [
+    "+38269133482"
+  ],
+  "phone_e164": "+38269133482",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

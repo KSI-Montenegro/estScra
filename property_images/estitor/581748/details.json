@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "581748",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-581748",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-581748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 149,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_581748",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d4fa04e8-934c-4aea-a679-1caa8cc22a84-lg.webp",
+    "https://content.estitor.com/004c6c8e-f827-4d02-b572-815e46ec75fe-lg.webp",
+    "https://content.estitor.com/23582309-7069-43e3-84ae-c93cce329488-lg.webp",
+    "https://content.estitor.com/37b9b569-5973-406a-a5fd-a509513bc2a9-lg.webp",
+    "https://content.estitor.com/273ac1ef-4ac7-4d03-aa5b-d57a86c6a3cc-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se funkcionalan i svijetao poslovni prostor površine 100 m², idealan za kancelarije, IT kompanije, predstavništva i druge poslovne djelatnosti.\nOpen space koncept\n\nSkoro renoviran\n\nVisina plafona do 3 m\n\nObilje prirodne svjetlosti\n\nKuhinja i kupatilo\n\nProstrana otvorena terasa\n\nObezbijeđena parking mjesta\n\nPostoji mogućnost iznajmljivanja zajedno sa magacinskim prostorom:\nMagacin površine 250 m²\n\nProsječna visina 4,5 m\n\nOmogućen pristup šleperima i teretnim kamionima\n\nProstor se nalazi na mirnoj lokaciji i pogodan je za kompanije kojima je potreban kancelarijski i skladišni prostor na jednom mjestu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:49.319628+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.141858+00:00",
+  "source_html_sha256": "74fae2122816532e349c2723ff39f87a78971965c1a714a1cb79e289866f7552",
+  "title": "Izdavanje, poslovni prostor, 100m², Kuće Rakića, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-21",
+  "updated_date": "2026-10-13",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 100,
+  "city": "Podgorica",
+  "street_address": "73 Ulica Kuće Rakića 4, Podgorica 81206, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milica Brašanac",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "year_built": 2023,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište"
+  ],
+  "metadata_summary": "Izdaje se funkcionalan i svijetao poslovni prostor površine 100 m², idealan za kancelarije, IT kompanije, predstavništva i druge poslovne djelatnosti.Open space konceptSkoro renoviranVisina plafona do 3 mObilje prirod...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!149",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267811802",
+      "name": "Milica Brašanac",
+      "email": null,
+      "source": "workbook:Not homes!149"
+    },
+    {
+      "phone_e164": "+38267811802",
+      "name": "Milica Brašanac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267811802"
+  ],
+  "phone_e164": "+38267811802",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

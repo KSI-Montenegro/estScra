@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "80365",
+  "listing_url": "https://patuljak.me/oglas/prodajem-dvosoban-stan-50-m2-budva--80365",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-dvosoban-stan-50-m2-budva--80365"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 60,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80365",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!60:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Babin Do",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Pogled na more": "Ima",
+    "Stambena kvadratura": "50 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_0.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Prodajem dvosoban potpuno namjesten stan u Budvi naselje Babin do.Stan se sastoji od ulaznog hodnika,dnevne sobe sa kuhinjom,malog hodnika koji povezuje spavace sobe i kupatilo i terasu koja ima panoramski pogled na more.Vlasnik, stan 1/1 na moje ime.\n\nVRIJEDI POGLEDATI!!!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:03.008165+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.145909+00:00",
+  "source_html_sha256": "9b4c86f58193b8055995b4a2c1082e6e3c0e359d63cf545f33dce16d1b7bdd58",
+  "title": "Prodajem dvosoban stan 50 m2, Budva",
+  "description_language": "en",
+  "price_raw": "185000.00€",
+  "price_amount": 185000,
+  "price_currency": "EUR",
+  "advertiser_name": "Tomo",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Babin Do",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 50,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Prodajem dvosoban potpuno namjesten stan u Budvi naselje Babin do.Stan se sastoji od ulaznog hodnika,dnevne sobe sa kuhinjom,malog hodnika koji povezuje spavace sobe i kupatilo i terasu koja ima panoramski pogled na more.Vlasnik, stan 1/1 na moje ime.VRIJEDI POGLEDATI!!!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!60",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269031129",
+      "name": "Tomo",
+      "email": null,
+      "source": "workbook:Outreach list!60"
+    }
+  ],
+  "contact_phones": [
+    "+38269031129"
+  ],
+  "phone_e164": "+38269031129",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

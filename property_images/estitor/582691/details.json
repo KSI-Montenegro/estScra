@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "582691",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-582691",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-582691"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 736,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_582691",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "1970",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Hodnik": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/86b0857d-553c-4aaf-a0a8-03b185b00da9-lg.webp",
+    "https://content.estitor.com/a665ed2e-0dda-4427-8a6c-e23ae164801b-lg.webp",
+    "https://content.estitor.com/391044c3-e9c4-4752-b111-3c468c368f2b-lg.webp",
+    "https://content.estitor.com/72016b86-6b84-4169-b2b8-7710c40e862b-lg.webp",
+    "https://content.estitor.com/f34a20cc-323f-4e13-8190-81082b4e3a62-lg.webp",
+    "https://content.estitor.com/fb2fa49b-8195-4433-9b3c-9e6b10401c60-lg.webp",
+    "https://content.estitor.com/bf432b84-f562-4856-a400-5430ea98010b-lg.webp",
+    "https://content.estitor.com/71c0eb31-bd0f-4683-8b93-d3c5caf397ef-lg.webp",
+    "https://content.estitor.com/f2c74c42-e882-4eb8-b9e7-48f5eafde7e2-lg.webp",
+    "https://content.estitor.com/0c7473c7-8a0a-4353-b3a6-c37e35cd31e2-lg.webp",
+    "https://content.estitor.com/74602bf4-70c1-461a-bc09-a54fa9046fe1-lg.webp",
+    "https://content.estitor.com/91815af9-4e47-4861-8f97-5ab11082d81d-lg.webp",
+    "https://content.estitor.com/0747e1e1-64b2-4450-875e-dd5a5887c7fc-lg.webp",
+    "https://content.estitor.com/8bcac7d0-9bb7-4c36-9a44-5794bb3280d6-lg.webp",
+    "https://content.estitor.com/71fd0c03-1377-4c2c-8e4e-929d09e5aa5c-lg.webp",
+    "https://content.estitor.com/b206db2a-ff64-40bf-b33d-b961bf1d6835-lg.webp",
+    "https://content.estitor.com/62d88170-035b-484a-8d95-53097c26bb09-lg.webp"
+  ],
+  "image_count": 17,
+  "image_status": "ok",
+  "description_original": "Izdavanje stana – Strogi centar Podgorice\nIzdaje se izuzetno komforan i funkcionalan dvosoban stan površine 68 m², smješten u samom centru Podgorice, u zgradi starije, kvalitetne gradnje.\nStan je potpuno renoviran, moderno uređen i opremljen novim namještajem i savremenom tehnikom, te ne zahtijeva dodatna ulaganja.\nStruktura stana:\nProstran ulazni hodnik\n\nDvije velike i veoma komforne spavaće sobe\n\nSvijetao dnevni boravak\n\nZatvoreni balkon\n\nFunkcionalno organizovan kuhinjski prostor\n\nKupatilo\n\nStan odlikuju odličan raspored prostorija, mnogo prirodne svjetlosti i osjećaj prostranosti, što ga čini idealnim za ugodan porodični život ili investiciju za izdavanje.\nPrednosti:\nKompletno renoviran\nNovi namještaj i tehnika\nVeliki ugradni ormari i mnogo prostora za odlaganje\nIzuzetno funkcionalan raspored\nJavni parking sa obje strane zgrade\nJedna od najatraktivnijih lokacija u Podgorici\nU neposrednoj blizini nalaze se škole, vrtići, fakulteti, marketi, restorani, kafići, državne institucije i svi sadržaji neophodni za svakodnevni život.\nOdlična prilika za porodice, zaposlene osobe, studente...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:50.492885+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.097672+00:00",
+  "source_html_sha256": "b89a7faa5750691fcd375cc7fe8f0b7f5a9d0599fcc0eee5efbeb6a127e5fca6",
+  "title": "Izdavanje, dvosoban stan, 68m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-23",
+  "updated_date": "2026-08-25",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 68,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Bulevar Ivana Crnojevića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milica Pg",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 2,
+  "year_built": 1970,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Hodnik",
+    "Lux"
+  ],
+  "metadata_summary": "Izdavanje stana – Strogi centar PodgoriceIzdaje se izuzetno komforan i funkcionalan dvosoban stan površine 68 m², smješten u samom centru Podgorice, u zgradi starije, kvalitetne gradnje.Stan je potpuno renoviran, mode...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!736",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267638518",
+      "name": "Milica Pg",
+      "email": null,
+      "source": "workbook:Outreach list!736"
+    },
+    {
+      "phone_e164": "+38267638518",
+      "name": "Milica Pg",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267638518"
+  ],
+  "phone_e164": "+38267638518",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

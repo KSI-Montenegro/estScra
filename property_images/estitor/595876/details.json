@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "595876",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595876",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595876"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 891,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_595876",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/560cd266-689d-4278-8cd5-31575e9fe4b1-lg.webp",
+    "https://content.estitor.com/a3fb2898-b965-456b-be05-a071ee6e82aa-lg.webp",
+    "https://content.estitor.com/48eae1bc-b791-41f2-8fbc-e2cf138627f3-lg.webp",
+    "https://content.estitor.com/0abe1c9f-c6ae-47de-87f3-c47fb4f3d50a-lg.webp",
+    "https://content.estitor.com/0b260d90-ae35-4ffb-a03b-488346a9513f-lg.webp",
+    "https://content.estitor.com/72239f31-2cc7-4ee4-b8fd-9693575c138e-lg.webp",
+    "https://content.estitor.com/913f433e-6bbe-4363-b25c-c7be600edd6e-lg.webp",
+    "https://content.estitor.com/d982633b-78c1-43cb-a746-b7781294a648-lg.webp",
+    "https://content.estitor.com/e3934e61-89c5-452f-8a0c-49b9a5d54c26-lg.webp",
+    "https://content.estitor.com/df57ef02-483f-4e93-a0ce-05392cdcdc86-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u blizini Bloka 5, kod Bazara, u porodičnoj kući. Stan je idealan za studente zbog blizine mnogih fakulteta.\nStan ima balkon, klimu i peć na drva. U cijenu su uključeni internet, TV i voda, dok se struja plaća posebno.\nStan se izdaje isključivo nepušačima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:37.147194+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.724707+00:00",
+  "source_html_sha256": "cddcfb0bb0aa6155a6c4160ee73bf5de05e08ef7b764adae7ab26b30cd94e6ec",
+  "title": "Izdavanje, jednosoban stan, 50m², Blok 5, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-08-28",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "18. jula 42",
+  "country": "ME",
+  "advertiser_name": "Olja Rakčević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u blizini Bloka 5, kod Bazara, u porodičnoj kući. Stan je idealan za studente zbog blizine mnogih fakulteta.Stan ima balkon, klimu i peć na drva. U cijenu su uključeni internet, TV i voda, do...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!891",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267399865",
+      "name": "Olja Rakčević",
+      "email": null,
+      "source": "workbook:Outreach list!891"
+    },
+    {
+      "phone_e164": "+38267399865",
+      "name": "Olja Rakčević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267399865"
+  ],
+  "phone_e164": "+38267399865",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

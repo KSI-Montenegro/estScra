@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "562729",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562729",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562729"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 672,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_562729",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c6070264-b487-418a-bb59-19881b642522-lg.webp",
+    "https://content.estitor.com/f6c4ca18-86bd-492d-b300-d2104c54ad3c-lg.webp",
+    "https://content.estitor.com/db0b22d3-4f28-4f47-a261-0febabd18353-lg.webp",
+    "https://content.estitor.com/be6e1beb-b0da-4e32-81ca-7cd76a517e12-lg.webp",
+    "https://content.estitor.com/a121a45b-7f3a-41d9-a12e-2ccd367d3578-lg.webp",
+    "https://content.estitor.com/d4c5efb3-86d1-4fba-ad0c-f702959e130f-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "izdajem namjesten jednosoban stan u Profesorskoj zgradi Dzordza Vašington 550e 067152520",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:18.532251+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.751289+00:00",
+  "source_html_sha256": "aebbd216109b715a12cae556d21c807919c0f1a5fdd49782ca59e91a7402628d",
+  "title": "Izdavanje, jednosoban stan, 58m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-26",
+  "updated_date": "2026-09-21",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 58,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Leona Djeljevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "izdajem namjesten jednosoban stan u Profesorskoj zgradi Dzordza Vašington 550e 067152520",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!672",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267152520",
+      "name": "Leona Djeljevic",
+      "email": null,
+      "source": "workbook:Outreach list!672"
+    },
+    {
+      "phone_e164": "+38267152520",
+      "name": "Leona Djeljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267152520"
+  ],
+  "phone_e164": "+38267152520",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

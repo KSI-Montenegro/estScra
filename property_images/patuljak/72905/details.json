@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "72905",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-45m2--72905",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-45m2--72905"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 46,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72905",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!46:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Ne",
+    "Sprat": "1",
+    "Kvadratura": "45 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72905_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Na prodaju jednosoban stan – 45 m² | Stari aerodrom, Podgorica | Privatno parking mjesto\nProdaje se lijepo održavan i funkcionalan jednosoban stan površine 45 m², smješten na prvom spratu stambene zgrade sa liftom, na odličnoj lokaciji u Bulevaru Pera Ćetkovića, naselje Stari aerodrom.\nStruktura stana:\ndnevni boravak sa kuhinjom i trpezarijom,\nspavaća soba,\nhodnik,\nkupatilo,\nterasa zatvorena roletnama, koja pruža dodatni korisni prostor.\n\nStan je svijetao, uredan i funkcionalnog rasporeda, pogodan kako za porodični život.Posebna prednost je što uz stan dolazi sopstveno parking mjesto, što je danas velika vrijednost na ovoj lokaciji.\n???? Lokacija je izuzetno atraktivna, u neposrednoj blizini škola, vrtića, marketa, apoteka, restorana i svih sadržaja potrebnih za ugodan život.\nCijena: 120.000 €\nZa više informacija i dogovor oko razgledanja, kontaktirajte:\n???? 068003252",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:58.702890+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.051070+00:00",
+  "source_html_sha256": "701edc6647e583c441b15c567f81cb3bfe16ca91d87e5756522c80e076a2e004",
+  "title": "Na prodaju jednosoban stan 45m2",
+  "description_language": "en",
+  "price_raw": "120.00€",
+  "price_amount": 120,
+  "price_currency": "EUR",
+  "advertiser_name": "Andjela",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 45,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Na prodaju jednosoban stan – 45 m² | Stari aerodrom, Podgorica | Privatno parking mjestoProdaje se lijepo održavan i funkcionalan jednosoban stan površine 45 m², smješten na prvom spratu stambene zgrade sa liftom, na odličnoj lokaciji u Bulevaru Pera Ćetkovića, naselje Stari aerodrom.Struktura stana:dnevni boravak sa kuhinjom i trpezarijom,spavaća soba,hodnik,kupatilo,terasa zatvorena roletnama, koja pruža dodatni korisni prostor.Stan je svijetao, uredan i funkcionalnog rasporeda, pogodan kako za porodični život.Posebna prednost je što uz stan dolazi sopstveno parking mjesto, što je danas velika vrijednost na ovoj lokaciji.???? Lokacija je izuzetno atraktivna, u neposrednoj blizini škola, vrtića, marketa, apoteka, restorana i svih sadržaja potrebnih za ugodan život.Cijena: 120.000 €Za više informacija i dogovor oko razgledanja, kontaktirajte:???? 068003252",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!46",
+      "notes": "check deal: sale at 120 EUR looks like a rent",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268003252",
+      "name": "Andjela",
+      "email": null,
+      "source": "workbook:Outreach list!46"
+    }
+  ],
+  "contact_phones": [
+    "+38268003252"
+  ],
+  "phone_e164": "+38268003252",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

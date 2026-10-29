@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "641420",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-641420",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-641420"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 575,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_641420",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e4d62960-1590-412d-b9f4-4617428ea7a9-lg.webp",
+    "https://content.estitor.com/4a9721f0-847d-49bc-8b74-8180a3c36ed0-lg.webp",
+    "https://content.estitor.com/4c4fd07d-ac1b-4d18-91d8-a1b25c167bac-lg.webp",
+    "https://content.estitor.com/7cbed1f5-3f48-4a9d-80c2-769bc62bf5cb-lg.webp",
+    "https://content.estitor.com/df7bc02f-aa65-426e-9e36-a22b3463ff51-lg.webp",
+    "https://content.estitor.com/3fbc2b16-f408-4961-ae96-85dbe730ddde-lg.webp",
+    "https://content.estitor.com/4e0e2696-023b-4012-9c6d-7cba15a52f8f-lg.webp",
+    "https://content.estitor.com/b5c39559-2edc-46bd-a81c-6a133a0afb01-lg.webp",
+    "https://content.estitor.com/9700ba4b-14da-482b-813b-3e42aa02fe3a-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno opremljen, neuseljavan stan sa garažom — Premium kvart, Podgorica!\nBudi prvi stanar ovog novog stana od 50 m², smještenog u Premium kvartu, uz City kvart i u neposrednoj blizini marketa Voli.\nStan je potpuno opremljen kuhinjom, mašinom za veš i svim potrebnim namještajem.\nGaražno mjesto uključeno je u cijenu.\nPovršina: 49 m²\nUseljiv od 1. novembra 2026.\nStan se izdaje za najviše dvije osobe.\nKućni ljubimci nisu dozvoljeni.\nŽeliš da pogledaš stan? Video-obilazak dostupan je na upit putem poruke.\nBrand-new, fully furnished apartment with garage parking for rent — Premium Kvart, Podgorica!\nBe the first to call this 50 m² apartment home! Located in Premium Kvart, next to City Kvart and close to the Voli supermarket.\nFully furnished, with an equipped kitchen, washing machine and all essential furniture.\nGarage parking space included in the rent.\nSize: 49 m²\nAvailable from 1 November 2026.\nMaximum occupancy: two people.\nNo pets allowed.\nWant a closer look? A video tour is available on request.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:31.399329+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.238536+00:00",
+  "source_html_sha256": "91add682b98b79ad2129245cdb6a8f46c64f325d16a3f93c479706439f67eb00",
+  "title": "Izdavanje, jednosoban stan, 49m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Vojvode Maša Đurovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Mirka Dur",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se potpuno opremljen, neuseljavan stan sa garažom — Premium kvart, Podgorica!Budi prvi stanar ovog novog stana od 50 m², smještenog u Premium kvartu, uz City kvart i u neposrednoj blizini marketa Voli.Stan je p...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!575",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269073110",
+      "name": "Mirka Dur",
+      "email": null,
+      "source": "workbook:Outreach list!575"
+    },
+    {
+      "phone_e164": "+38269073110",
+      "name": "Mirka Dur",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269073110"
+  ],
+  "phone_e164": "+38269073110",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

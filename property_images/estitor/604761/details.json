@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "604761",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604761",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604761"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 397,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_604761",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0e2af455-a6b1-4c05-b7a7-9eb5290b8294-lg.webp",
+    "https://content.estitor.com/ce1f013b-04e4-4522-b459-c2662780ce6b-lg.webp",
+    "https://content.estitor.com/82985de8-9f85-442b-a757-d77493a822a7-lg.webp",
+    "https://content.estitor.com/1d798c8a-bbee-4614-9261-adfd5be9d652-lg.webp",
+    "https://content.estitor.com/4a645e32-816b-41ab-9a72-309858dc3844-lg.webp",
+    "https://content.estitor.com/1e391e2b-07fb-4eef-acfe-6702b2485f5c-lg.webp",
+    "https://content.estitor.com/5572a904-7516-4e0e-867b-a866204e4c4a-lg.webp",
+    "https://content.estitor.com/ba82d938-b9fb-46eb-97e8-0abbc7f29107-lg.webp",
+    "https://content.estitor.com/de8bd731-6369-45a8-a011-ab45c1b7335e-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se udoban jednosoban stan površine 55.0 m², smješten u mirnom dijelu Herceg Novog, Topla. Ovaj prizemni stan je idealan za one koji traže komfor i praktičnost u prijatnom okruženju.\nStan je potpuno opremljen i spreman za odmah useljenje. Sastoji se od jedne spavaće sobe, prostranog kupatila, funkcionalne kuhinje i trpezarije i hodnika. Svaki kutak je osmišljen da pruži maksimalnu udobnost.\nKao posebna pogodnost, stan ima klimatizaciju za ugodan boravak tokom cijele godine, kao i privatno dvorište koje pruža miran kutak za opuštanje i uživanje na otvorenom. Lokacija nudi javni parking i nalazi se blizu škole, u mirnom kraju, što ga čini savršenim izborom za porodice ili pojedince koji cijene mir i dostupnost svih sadržaja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:59.960753+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.243904+00:00",
+  "source_html_sha256": "8ec280128d8247f6e56136123909c3fbae8f0ba51d72b5e53f697065b1d8c5d6",
+  "title": "Izdavanje, jednosoban stan, 55m², Topla, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-30",
+  "updated_date": "2026-09-06",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 55,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "26 Orijenskog Bataljona, Herceg - Novi 85340, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Dusan Kekovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se udoban jednosoban stan površine 55.0 m², smješten u mirnom dijelu Herceg Novog, Topla. Ovaj prizemni stan je idealan za one koji traže komfor i praktičnost u prijatnom okruženju.Stan je potpuno opremljen i s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!397",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267108789",
+      "name": "Dusan Kekovic",
+      "email": null,
+      "source": "workbook:Outreach list!397"
+    },
+    {
+      "phone_e164": "+38267108789",
+      "name": "Dusan Kekovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267108789"
+  ],
+  "phone_e164": "+38267108789",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

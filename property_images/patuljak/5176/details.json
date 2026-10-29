@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "5176",
+  "listing_url": "https://patuljak.me/oglas/kuca-240m2-momisici-podgorica-prodaja--5176",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-240m2-momisici-podgorica-prodaja--5176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 50,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_5176",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!50:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Broj soba": "7",
+    "Broj spratova": "1",
+    "Godina izgradnje": "1970-1979",
+    "Namještena": "Da",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "240 m2",
+    "Kvadratura placa": "550 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_2.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Prodaje se kuća u Momišićima, u blizini Palade, ukupne površine 240 m², smještena na placu od 555 m². Kuća se sastoji od dva sprata, sa tri parking mjesta i dvorištem koje uključuje dvije bašte. Na gornjem spratu nalazi se trosoban stan, dok donji sprat sadrži dvosoban stan u potpunosti uređen, kao i dva manja jednosobna stana u sivoj fazi. 067002217\n\nPostoji mogućnost prodaje sa ili bez namještaja, a zemljište ima potencijal za gradnju po DUP-u (600 m²). Cijena iznosi 380.000 € , uz mogućnost dogovora ili zamjene. 067002217",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:58.849563+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.078563+00:00",
+  "source_html_sha256": "f724dda089568eadb0b2a32720f7d2218bec169473dbb13170be2ce2efe748f3",
+  "title": "Kuca, 240m2, Momisici, Podgorica, Prodaja",
+  "description_language": "en",
+  "price_raw": "380000.00€",
+  "price_amount": 380000,
+  "price_currency": "EUR",
+  "advertiser_name": "Luka",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "building_floors_raw": "1",
+  "room_layout_raw": "7",
+  "parking_raw": "3 i više",
+  "area_m2": 240,
+  "year_built": 1970,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Prodaje se kuća u Momišićima, u blizini Palade, ukupne površine 240 m², smještena na placu od 555 m². Kuća se sastoji od dva sprata, sa tri parking mjesta i dvorištem koje uključuje dvije bašte. Na gornjem spratu nalazi se trosoban stan, dok donji sprat sadrži dvosoban stan u potpunosti uređen, kao i dva manja jednosobna stana u sivoj fazi.  067002217Postoji mogućnost prodaje sa ili bez namještaja, a zemljište ima potencijal za gradnju po DUP-u (600 m²). Cijena iznosi 380.000 € , uz mogućnost dogovora ili zamjene.   067002217 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!50",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267002217",
+      "name": "Luka",
+      "email": null,
+      "source": "workbook:Outreach list!50"
+    }
+  ],
+  "contact_phones": [
+    "+38267002217"
+  ],
+  "phone_e164": "+38267002217",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

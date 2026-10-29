@@ -1,0 +1,148 @@
+{
+  "source": "realitica",
+  "listing_id": "3949814",
+  "listing_url": "https://www.realitica.com/hr/listing/3949814",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949814"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 81,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3949814",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Energetski Razred": "A+",
+    "Cijena": "€110.000",
+    "Spavaćih Soba": "1",
+    "Kupatila": "1",
+    "Stambena Površina": "36 m2",
+    "Od Mora (m)": "500",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3949814",
+    "Postavljeno": "22 Oct, 2026",
+    "Zadnja Promjena": "22 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3949814_img-1483f573788863f8d6c2462f3d6f22f6-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-08c7634fa4929b17fa2ef0b6b4df7558-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-5b2d65e9d13c6cd16a3051b73ebef845-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-402333f55a26fedb9b20205001043a56-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-f2f3f4fedcceecd89a120cf8c5c1b3c6-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-e0643239fc81a9d107fac43f6ff829af-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-cbfd3af0c18584f644ecc2bf17806d9a-v.jpg",
+    "https://www.realitica.com/images/listing_photos/3949814_img-b7d41378e08afb7ac15b5cce14fa94d6-v.jpg"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Prodajem jednosoban namješten stan u Baru struktura stana dnevni boravak kuhinja trpezarija spavaća soba terasa kupatilo stan se nalazi u centru Bara udaljen je od mora pet stotina metara",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:15.083700+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.293547+00:00",
+  "source_html_sha256": "867cced15a0519d22019b5ad050d04df1f1fb901cd1c5a5880bb9e4d38bb2769",
+  "title": "Prodajem Stan-Apartman, Bar",
+  "description_language": "hr",
+  "city": "Bar",
+  "published_date_raw": "22 Oct, 2026",
+  "updated_date_raw": "22 Oct, 2026",
+  "area_m2": 36,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "distance_to_sea_m": 500,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€110.000",
+  "price_amount": 110000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Prodajem jednosoban namješten stan u Baru struktura stana dnevni boravak kuhinja trpezarija spavaća soba terasa kupatilo stan se nalazi u centru Bara udaljen je od mora pet stotina metara",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!81",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267973777",
+      "name": "Sado Mustafic",
+      "email": null,
+      "source": "workbook:Outreach list!81"
+    }
+  ],
+  "contact_phones": [
+    "+38267973777"
+  ],
+  "phone_e164": "+38267973777",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

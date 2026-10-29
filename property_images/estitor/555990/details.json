@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "555990",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-555990",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-555990"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 604,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_555990",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7059c6cc-6106-47ac-b9bc-419e4a5bf915-lg.webp",
+    "https://content.estitor.com/3b7a90e4-5400-4b8c-a353-6211107e895a-lg.webp",
+    "https://content.estitor.com/53f658d0-9573-4e16-9160-9ac881dbd295-lg.webp",
+    "https://content.estitor.com/05976fb9-0e51-4d69-8467-8c8fb9b6b733-lg.webp",
+    "https://content.estitor.com/3f6d08ed-fde8-4bf2-8dbe-82c8f1b16311-lg.webp",
+    "https://content.estitor.com/dedbe21e-05e3-4b10-9e7e-8f82a1bae982-lg.webp",
+    "https://content.estitor.com/96bdeb56-b274-4d88-b486-e4e6038060d1-lg.webp",
+    "https://content.estitor.com/b1948e58-6f1e-4252-84cc-840cd2d2f749-lg.webp",
+    "https://content.estitor.com/e138e8e2-884b-4dc3-82e6-269d72fdb0b4-lg.webp",
+    "https://content.estitor.com/63c21d4f-1cad-4af4-8cfc-f8a47872a59e-lg.webp",
+    "https://content.estitor.com/86973fe7-9441-408d-853f-76def4fa2415-lg.webp",
+    "https://content.estitor.com/48238308-2672-4e7a-a5ec-4f1efe9a4c6c-lg.webp",
+    "https://content.estitor.com/cd712028-fbda-4775-a48f-d888d9b34f2b-lg.webp",
+    "https://content.estitor.com/fceab928-8d23-436d-aada-b311ad57f0eb-lg.webp",
+    "https://content.estitor.com/1159104c-efff-42f3-a3b1-00a61231750e-lg.webp",
+    "https://content.estitor.com/a8bb5fac-67a4-42bc-a14c-2ffc60034708-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Miran kraj, Odmah useljiv\nIzdaje se jednosobni namješten stan.\nParking mjesto, kamere…\nOdlična lokacija!\nPlaćanje kirije+struja. (Ostalo plaćeno)\nDepozit pri ulasku obavezan!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:44.179515+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.375372+00:00",
+  "source_html_sha256": "71f2b95b2b36719274220ffa956e23c82151a0e63aa8b998735cb4737f3007c5",
+  "title": "Izdavanje, jednosoban stan, 36m², Gornja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-10",
+  "updated_date": "2026-10-14",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 36,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marina Marković",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2015,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Miran kraj, Odmah useljivIzdaje se jednosobni namješten stan.Parking mjesto, kamere…Odlična lokacija!Plaćanje kirije+struja. (Ostalo plaćeno)Depozit pri ulasku obavezan!",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!604",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267199350",
+      "name": "Marina Marković",
+      "email": null,
+      "source": "workbook:Outreach list!604"
+    },
+    {
+      "phone_e164": "+38267199350",
+      "name": "Marina Marković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267199350"
+  ],
+  "phone_e164": "+38267199350",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "637453",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-637453",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-637453"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 140,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_637453",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2013",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/682f0a89-0942-4118-a048-7bedb205c972-lg.webp",
+    "https://content.estitor.com/d354c1f4-1f8e-4dd3-841f-d244470208d0-lg.webp",
+    "https://content.estitor.com/96ae3ff7-e8e7-4ef8-a950-4bf489ec26c7-lg.webp",
+    "https://content.estitor.com/18303501-267b-44c9-9150-2fd92a10d89b-lg.webp",
+    "https://content.estitor.com/15c4ec23-1cce-40e9-a46f-a333acbeb5f9-lg.webp",
+    "https://content.estitor.com/7d3e0ee8-ddb3-47ec-a9b2-ce853c82f5c8-lg.webp",
+    "https://content.estitor.com/e610440e-273f-44cc-92ce-e8345e5edb44-lg.webp",
+    "https://content.estitor.com/52c68e7f-3153-4fee-81ce-3116e8eb425f-lg.webp",
+    "https://content.estitor.com/610a75be-3266-46df-8d62-43a5c0722045-lg.webp",
+    "https://content.estitor.com/8f07668b-a7c2-4a26-8115-5da846b48197-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Jednosoban nenamjesten na duzi period",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:22.887866+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.027971+00:00",
+  "source_html_sha256": "5b70c93662248acba92d3156a99a4bcac3d576f5fec0d39b7a9bf15db67ac57e",
+  "title": "Izdavanje, jednosoban stan, 42m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-16",
+  "updated_date": "2026-10-16",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Luxuryrealestate Tivat",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Ne",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2013,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Jednosoban nenamjesten na duzi period",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!140",
+      "agent_reasons": "business name (Luxuryrealestate Tivat)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269072866",
+      "name": "Luxuryrealestate Tivat",
+      "email": null,
+      "source": "workbook:Likely agents!140"
+    },
+    {
+      "phone_e164": "+38269072866",
+      "name": "Luxuryrealestate Tivat",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269072866"
+  ],
+  "phone_e164": "+38269072866",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

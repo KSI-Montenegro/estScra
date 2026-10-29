@@ -1,0 +1,161 @@
+{
+  "source": "patuljak",
+  "listing_id": "76530",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-ljubovic--76530",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-ljubovic--76530"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 505,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76530",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ljubović",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "Visoko prizemlje",
+    "Kvadratura": "58 m2",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "5 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugozapad",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76530_18.webp"
+  ],
+  "image_count": 19,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:55.783171+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.851538+00:00",
+  "source_html_sha256": "c4fea948a3635dae8d225ab3f8f0c279beaeb512b60f1a3e9772d8e6784c7cea",
+  "title": "Jednosoban stan Ljubovic",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Ljubović",
+  "floor_raw": "Visoko prizemlje",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Ostalo",
+  "parking_raw": "Nema",
+  "area_m2": 58,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Jednosoban stan Ljubovic",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!505",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269125777",
+      "name": "Ivan",
+      "email": null,
+      "source": "workbook:Outreach list!505"
+    }
+  ],
+  "contact_phones": [
+    "+38269125777"
+  ],
+  "phone_e164": "+38269125777",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

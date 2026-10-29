@@ -1,0 +1,72 @@
+# Studio apartmani
+
+Source: https://patuljak.me/oglas/studio-apartmani--83720
+
+- Deal: rent
+- Property type: apartment
+- Published price: Cijena na upit
+- City: Budva
+- District: Grbalj
+- Area (m²): 25
+- Floor: 1
+- Furnishing: Da
+- Parking: 3 i više
+
+## Original listing description
+
+STUDIO APARTMANI ZA IZDAVANJE – LASTVA GRBALJSKA, BUDVA
+
+Izdaju se tri potpuno opremljene smještajne jedinice u Lastvi Grbaljskoj, na oko 7 km od Budve.
+
+Smještaj je pogodan za radnike, zaposlene u Budvi i okolini, kao i za osobe kojima je potreban smještaj na duži period.
+
+U cijenu zakupa uključeni su svi troškovi vode, struje i komunalija, bez dodatnih mjesečnih računa.
+
+U ponudi su:
+
+1. Dvokrevetni studio apartman – za 2 osobe
+
+* Udobni ležajevi
+* Sopstvena kuhinja i frižider
+* Zasebno kupatilo
+* Klima-uređaj
+* Televizor
+* Pristup velikoj zajedničkoj terasi
+
+Cijena: 300 € mjesečno
+
+2. Trokrevetni studio apartman – za 3 osobe
+
+* Udobni ležajevi
+* Sopstvena kuhinja i frižider
+* Zasebno kupatilo
+* Klima-uređaj
+* Televizor
+* Privatni balkon
+
+Cijena: 400 € mjesečno
+
+3. Prostrani studio sa dvije trokrevetne sobe – za ukupno 6 osoba
+
+* Dvije odvojene trokrevetne sobe
+* Dva zasebna balkona
+* Dva televizora
+* Dva frižidera
+* Zajednička, potpuno opremljena kuhinja
+* Zajedničko kupatilo
+
+Cijena: 500 € mjesečno
+
+Dodatne pogodnosti
+
+Svim gostima je na raspolaganju velika zajednička terasa, pogodna za odmor i boravak na otvorenom, nezavisno od toga da li smještajna jedinica posjeduje privatni balkon.
+
+Ukupan smještajni kapacitet: 11 osoba.
+
+???? Za više informacija: +382 69 133 482
+
+## Published amenities
+
+- Namješten
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "266760",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-266760",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-266760"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 830,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_266760",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/cb8c30d7-15ef-4ad8-a594-10c09c0cbf67-lg.webp",
+    "https://content.estitor.com/1178442f-4ca6-45f2-b37c-b6b9a28109e0-lg.webp",
+    "https://content.estitor.com/dd2b59d0-b3e8-4187-ad8f-f910d9d73c4a-lg.webp",
+    "https://content.estitor.com/10ba25c5-29b5-41b7-a38c-cbc2d2d7feba-lg.webp",
+    "https://content.estitor.com/c51470b1-14c8-44b5-94e3-812f3a5c2532-lg.webp",
+    "https://content.estitor.com/5b3064c2-79df-4c2d-b204-5a9e97ac1f3b-lg.webp",
+    "https://content.estitor.com/d9711a91-2efb-41a2-8e6b-7974567f8253-lg.webp",
+    "https://content.estitor.com/e502e798-bf10-4898-864a-09c9de01ea9c-lg.webp",
+    "https://content.estitor.com/f3499006-eb24-4151-af0c-e2df41c0694a-lg.webp",
+    "https://content.estitor.com/1d4df4c9-0a2e-433a-b2f9-5f72810e18a4-lg.webp",
+    "https://content.estitor.com/fd214aaa-4997-4a4f-adb3-d00a225295a5-lg.webp",
+    "https://content.estitor.com/95257fcd-4e65-4268-a558-427762fe4895-lg.webp",
+    "https://content.estitor.com/dcef9089-5c94-4eda-b344-678750afd5ca-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban namješten stan u Budvi, naselje Bečiće.\nStan se nalazi preki puta hotela Mediteran.\nIzdaje se na duzi vremenski rok.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:55.817552+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.136889+00:00",
+  "source_html_sha256": "c735ac47721a7cdf85e0c0ec6b603a43b50af9c89a4d5ce59bb794aefad0c3f0",
+  "title": "Izdavanje, dvosoban stan, 46m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2024-07-23",
+  "updated_date": "2026-09-21",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 46,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Željka Popović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem dvosoban namješten stan u Budvi, naselje Bečiće.Stan se nalazi preki puta hotela Mediteran.Izdaje se na duzi vremenski rok.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!830",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269969997",
+      "name": "Željka Popović",
+      "email": null,
+      "source": "workbook:Outreach list!830"
+    },
+    {
+      "phone_e164": "+38269969997",
+      "name": "Željka Popović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269969997"
+  ],
+  "phone_e164": "+38269969997",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

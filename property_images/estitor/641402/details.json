@@ -1,0 +1,121 @@
+{
+  "source": "estitor",
+  "listing_id": "641402",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-641402",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-641402"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 30,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_641402",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/67996566-8cee-48aa-9902-ff16089d876c-lg.webp",
+    "https://content.estitor.com/8e359302-f437-435d-8d27-d3c0b0a6ed3a-lg.webp",
+    "https://content.estitor.com/f31e137e-42ac-4e62-9eba-28d4a1fa89d0-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Na prodaju dvosoban stan u centru Tivta, prizemlje (idealno za poslovni prostor)-prodaja putem skupljanja ponuda.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:30.640604+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.634115+00:00",
+  "source_html_sha256": "a36a1d3acedd5942708ef66c1b68b4a62920257a31cdc52b930557b5c159d596",
+  "title": "Prodaja, dvosoban stan, 67m², Centar, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 67,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "20 Palih Boraca, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ljubo Macanovic",
+  "deal_type": "sale",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Na prodaju dvosoban stan u centru Tivta, prizemlje (idealno za poslovni prostor)-prodaja putem skupljanja ponuda.",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

@@ -1,0 +1,164 @@
+{
+  "source": "patuljak",
+  "listing_id": "48756",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--48756",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--48756"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 111,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_48756",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!111:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Blok 5",
+    "Adresa": "Meše Selimovića 14",
+    "Broj prostorija": "3",
+    "Sprat": "Prizemlje",
+    "Namješten": true,
+    "Vrsta poda": "Parket",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Jugoistok",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "20 m2",
+    "Uknjiženo": true,
+    "Renoviran": true,
+    "Parking": true,
+    "Voda": true,
+    "Struja": true,
+    "Klima": true,
+    "Video nadzor": true,
+    "Alarm": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48756_8.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Prostor je obezbijeđen video-nadzorom.Posjeduje kompjutersku mrežu.Idealan za poslovnicu,kancelariju ili učionicu.Blizina škole, ostalih sadržaja, parking uvijek dostupan,poslednja zgrada bloka 5.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:29.052593+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.870358+00:00",
+  "source_html_sha256": "1b31ea17c545717c9e075f1e14b02a643ccf598181beefe6d9b343d3d63f97ed",
+  "title": "Izdajem poslovni prostor",
+  "description_language": "en",
+  "price_raw": "440.00€",
+  "price_amount": 440,
+  "price_currency": "EUR",
+  "advertiser_name": "Đorđe",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Blok 5",
+  "street_address": "Meše Selimovića 14",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": true,
+  "heating_raw": "Struja",
+  "parking_raw": true,
+  "area_m2": 20,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten",
+    "Uknjiženo",
+    "Renoviran",
+    "Parking",
+    "Voda",
+    "Struja",
+    "Klima",
+    "Video nadzor",
+    "Alarm"
+  ],
+  "metadata_summary": "Prostor je obezbijeđen video-nadzorom.Posjeduje kompjutersku mrežu.Idealan za poslovnicu,kancelariju ili učionicu.Blizina škole, ostalih sadržaja, parking uvijek dostupan,poslednja zgrada bloka 5.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!111",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267308663",
+      "name": "Đorđe",
+      "email": null,
+      "source": "workbook:Not homes!111"
+    }
+  ],
+  "contact_phones": [
+    "+38267308663"
+  ],
+  "phone_e164": "+38267308663",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

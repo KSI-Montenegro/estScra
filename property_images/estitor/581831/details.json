@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "581831",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-581831",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-581831"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 143,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_581831",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/29f470c2-d7c3-4a26-9358-e67bc1616067-lg.webp",
+    "https://content.estitor.com/240a96a1-dcb7-45dc-a963-72d84fc389a0-lg.webp",
+    "https://content.estitor.com/b4eb9c51-8af0-45cf-a6e2-f3ed50c3d7aa-lg.webp",
+    "https://content.estitor.com/0817c300-9619-4a43-aa1e-e6a318653b5f-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor – Centar Bara (Zelena pijaca)\nIzdaje se poslovni prostor u centru Bara, na odličnoj lokaciji u sklopu Zelene pijace.\nPovršina: 22 m²\nLokal posjeduje mjesto za roštilj i rashladnu komoru. Pogodno za više djelatnosti.\nOdlična lokacija sa velikom frekvencijom",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:46.779758+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.104612+00:00",
+  "source_html_sha256": "93c4aba0cff5a44f39bee6f65450ee9e01a1145d566bf7c2757b0621e488387a",
+  "title": "Izdavanje, poslovni prostor, 22m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-21",
+  "updated_date": "2026-10-16",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 22,
+  "city": "Bar",
+  "street_address": "42.098216 19.099150, Bar, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Adil Kojic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor – Centar Bara (Zelena pijaca)Izdaje se poslovni prostor u centru Bara, na odličnoj lokaciji u sklopu Zelene pijace.Površina: 22 m²Lokal posjeduje mjesto za roštilj i rashladnu komoru. Pogodn...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!143",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267664597",
+      "name": "Adil Kojic",
+      "email": null,
+      "source": "workbook:Not homes!143"
+    },
+    {
+      "phone_e164": "+38267664597",
+      "name": "Adil Kojic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267664597"
+  ],
+  "phone_e164": "+38267664597",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

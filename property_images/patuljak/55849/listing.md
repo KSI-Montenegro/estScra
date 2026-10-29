@@ -1,0 +1,38 @@
+# Prodaju se dva placa na Veruši: 1006m2 i 1087m2,okolina Podgorice
+
+Source: https://patuljak.me/oglas/prodaju-se-dva-placa-na-verusi-1006m2-i-1087m2okol--55849
+
+- Deal: sale
+- Property type: land
+- Published price: 130000.00€
+- Price amount: 130000
+- Currency: EUR
+- City: Podgorica
+- District: Ostalo
+- Land area (m²): 2093
+
+## Original listing description
+
+SUNCE NEKRETNINE
+- prodaja -
+
+130 000€
+
+Placevi na prodaju – Veruša, Laneno Polje |
+Na prodaju dva placa u naselju Laneno Polje, Veruša, površine 1.006 m² i 1.087 m². Lokacija je mirna i okružena prirodom, pogodna za izgradnju vikendice, kuće za odmor ili turističkog objekta.
+Placevi su udaljeni 100 m od asfaltnog puta Veruša – Mokra, dok se rijeka Verušica i kamp nalaze na 200 m. Dječije odmaralište na Veruši udaljeno je 500 m.
+Parcele se nalaze jedna pored druge i moguće ih je kupiti pojedinačno ili zajedno, što predstavlja odličnu priliku za veći plac ili investiciju.
+Površine i cijene:
+1.006 m² – 63.000 €
+1.087 m² – 68.000 €
+Oba placa zajedno – 130.000 €
+
+Placеvi se nalaze na području Veruše, koje je Prostornim planom Glavnog grada Podgorice prepoznato kao razvojna tačka sa potencijalom za turizam i eko‑turizam, uz valorizaciju prirodnih resursa i unapređenje turističkih kapaciteta. Zvanični dokumenti dostupni su na web‑stranici Glavnog grada Podgorice i Sekretarijata za planiranje prostora i održivi razvoj:
+-Prostorno‑urbanistički plan Podgorice (PUP)
+-Lokalna studija lokacije „Veruša“
+Vlasništvo 1/1, dokumentacija uredna, bez tereta i ograničenja.
+Sunce nekretnine
+069 155 195
+069 600 085
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

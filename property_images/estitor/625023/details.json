@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "625023",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-625023",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-625023"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 26,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_625023",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "6. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Za renoviranje",
+    "Parking": "Javni parking",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1ef0ba7c-7b70-42ec-8f1c-edf945e5ec30-lg.webp",
+    "https://content.estitor.com/9a1b6e98-fa7b-4b42-a304-dcf55d2e7fb6-lg.webp",
+    "https://content.estitor.com/c49f8035-acd8-4121-8528-0077266613d0-lg.webp",
+    "https://content.estitor.com/9a57e138-7d47-4e0f-8297-de40baa87fb3-lg.webp",
+    "https://content.estitor.com/53a95052-e19d-41e0-83be-fae213591898-lg.webp",
+    "https://content.estitor.com/65b9e021-3885-4bf7-80d7-55fede3d3da8-lg.webp",
+    "https://content.estitor.com/1bd53dc1-646f-414d-8d51-9f7687325479-lg.webp",
+    "https://content.estitor.com/be43b698-e868-457e-8e5a-2994564bb980-lg.webp",
+    "https://content.estitor.com/030f55f2-df1d-4f3a-a02f-9c1e912b32c4-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se komforan, kompletno opremljen jednosoban stan na odličnoj i traženoj lokaciji – Zabjelo, u neposrednoj blizini brda Ljubović.\nStan je useljiv, opremljen svim potrebnim nameštajem i bijelom tehnikom, idealan za samce ili parove koji traže miran kraj blizu svih ključnih sadržaja u gradu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:59.662715+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.847870+00:00",
+  "source_html_sha256": "89edab1b787944961131ec6e90ddc5e915c33aa555bce618a0f0d79aeec752b5",
+  "title": "Izdavanje, jednosoban stan, 39m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 39,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Jelena Kulusic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "6. sprat",
+  "condition_raw": "Za renoviranje",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se komforan, kompletno opremljen jednosoban stan na odličnoj i traženoj lokaciji – Zabjelo, u neposrednoj blizini brda Ljubović.Stan je useljiv, opremljen svim potrebnim nameštajem i bijelom tehnikom, idealan z...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!26",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269353489",
+      "name": "jelena",
+      "email": null,
+      "source": "workbook:Likely agents!26"
+    },
+    {
+      "phone_e164": "+38269353489",
+      "name": "Jelena Kulusic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269353489"
+  ],
+  "phone_e164": "+38269353489",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

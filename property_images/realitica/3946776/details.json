@@ -1,0 +1,151 @@
+{
+  "source": "realitica",
+  "listing_id": "3946776",
+  "listing_url": "https://www.realitica.com/hr/listing/3946776",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946776"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 78,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3946776",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Lokacija": "Bar Centar",
+    "Adresa": "Bar Crna Gora",
+    "Cijena": "€250.000",
+    "Spavaćih Soba": "2",
+    "Kupatila": "2",
+    "Stambena Površina": "76 m2",
+    "Parking Mjesta": "1",
+    "Od Mora (m)": "200",
+    "Klima Uređaj": true,
+    "Oglas Broj": "3946776",
+    "Postavljeno": "18 Oct, 2026",
+    "Zadnja Promjena": "18 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946776_img_0917.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0916.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0912.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0914.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0913.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0910.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0915.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946776_img_0918.jpeg"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Prodajem dvosoban konforan stan od 76m2 za 250000e. Stan je renoviran pre godinu dana lepim i modernim namestajem. Stan se nalazi u samom centru grada u stambenoj zgradi na sestom spratu.Stan je nepunih dvesta metara udaljen od gradske plaze i setalista.\n\nZa vise informacija nazovite dati broj.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:14.046805+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.268181+00:00",
+  "source_html_sha256": "63409703de3e7e8b639c628fb40f03ba2d61a91f0b85aa140bbe9c6b9b8e9941",
+  "title": "Prodajem Stan-Apartman, Bar Centar",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Bar Centar",
+  "street_address": "Bar Crna Gora",
+  "parking_raw": "1",
+  "published_date_raw": "18 Oct, 2026",
+  "updated_date_raw": "18 Oct, 2026",
+  "area_m2": 76,
+  "bathrooms": 2,
+  "bedrooms": 2,
+  "parking_spaces": 1,
+  "distance_to_sea_m": 200,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€250.000",
+  "price_amount": 250000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Klima Uređaj"
+  ],
+  "metadata_summary": " Prodajem dvosoban konforan stan od 76m2 za 250000e. Stan je renoviran pre godinu dana lepim i modernim namestajem. Stan se nalazi u samom centru grada u stambenoj zgradi na sestom spratu.Stan je nepunih dvesta metara udaljen od gradske plaze i setalista.\n Za vise informacija nazovite dati broj.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!78",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38266147444",
+      "name": "Jelena",
+      "email": null,
+      "source": "workbook:Outreach list!78"
+    }
+  ],
+  "contact_phones": [
+    "+38266147444"
+  ],
+  "phone_e164": "+38266147444",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

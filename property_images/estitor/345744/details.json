@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "345744",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-345744",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-345744"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 570,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_345744",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "7. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Lift": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6300ab51-ce74-4e9e-b14e-af403779a977-lg.webp",
+    "https://content.estitor.com/bc66df96-41ca-4a8f-806c-ea91627c3a12-lg.webp",
+    "https://content.estitor.com/0604f3b9-e7cd-4cc6-a3f7-45a2d249833f-lg.webp",
+    "https://content.estitor.com/53d3c819-2280-49db-9217-ad46a1f7a055-lg.webp",
+    "https://content.estitor.com/e842a4c5-cf96-4ed9-84ce-41207be43e8b-lg.webp",
+    "https://content.estitor.com/c6d3e3a0-e2f8-45fe-81fb-80102a334a11-lg.webp",
+    "https://content.estitor.com/5406c041-4f05-4da7-9ff9-a27677c70936-lg.webp",
+    "https://content.estitor.com/94d275dc-4a5c-4874-8fbd-4e03b5c341a7-lg.webp",
+    "https://content.estitor.com/c76248b4-b3fb-42da-9f81-1ee771b035b4-lg.webp",
+    "https://content.estitor.com/cec8aeb8-12c3-411a-80a7-dd3c07b65bd9-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan 52m2 za izdavanje fizickim licima\nStan slobodan od 1.11.2026.\n- Minimalni period vazenja ugovora o zakupu: 12 mjeseci\n- Ovjera ugovora kod notara\n- Uslovi placanja: prilikom potpisivanja ugovora se uplacuju dvije zakupnine (prva i posljednja), kao i depozit u visini jedne mjesecne kirije, kao zastita zakupodavca od krsenja ugovora\n- Rok plaćanja: do 5 u mjesecu za tekuci mjesec\n- Tekuci/mjesecni racuni (struja, voda, odrzavanje stana, komunalije) padaju na teret zakupca.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:29.236106+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.211103+00:00",
+  "source_html_sha256": "4b466d32f600dbb898c4964019241c35b7971ac7ceaed7dfb4ae38af8ae2d39c",
+  "title": "Izdavanje, jednosoban stan, 52m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-02-27",
+  "updated_date": "2026-10-24",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 52,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ivana Rabrenovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "7. sprat",
+  "furnishing_raw": "true",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Jednosoban stan 52m2 za izdavanje fizickim licimaStan slobodan od 1.11.2026.- Minimalni period vazenja ugovora o zakupu: 12 mjeseci- Ovjera ugovora kod notara- Uslovi placanja: prilikom potpisivanja ugovora se uplacuj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!570",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267596546",
+      "name": "Ivana Rabrenovic",
+      "email": null,
+      "source": "workbook:Outreach list!570"
+    },
+    {
+      "phone_e164": "+38267596546",
+      "name": "Ivana Rabrenovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267596546"
+  ],
+  "phone_e164": "+38267596546",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

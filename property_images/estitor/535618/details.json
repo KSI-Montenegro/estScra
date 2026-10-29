@@ -1,0 +1,154 @@
+{
+  "source": "estitor",
+  "listing_id": "535618",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-535618",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-535618"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 191,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_535618",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Čvrsta gradnja",
+    "Lift": "true",
+    "Podrum": "true",
+    "Interfon": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/79a2e30e-dafc-45f2-bafa-18cf1fe77b4c-lg.webp",
+    "https://content.estitor.com/772317c5-727a-4b40-a940-1003117c0b57-lg.webp",
+    "https://content.estitor.com/d930db87-2791-4dfa-9633-8f62dd448fb1-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izuzetna prilika za razvoj vašeg poslovanja! Nudimo prostran poslovni prostor za izdavanje u Podgorici, u mirnom, ali strateški važnom naselju Donja Gorica, koji se nalazi na raskrsnici Bulevara 21. maj i Jugozapadne obilaznice. Ovaj objekat se sastoji od podruma, prizemlja i 1. sprata, kvadrature u osnovi 900 m², pružajući vam neograničene mogućnosti za adaptaciju i uređenje. Pogodan je za razne djelatnosti – od skladišta, proizvodnih pogona, logističkih centara, do velikih kancelarijskih kompleksa ili izložbenih salona. Nudi se neopremljen, što vam omogućava da kreirate enterijer koji u potpunosti odražava identitet i potrebe vaše kompanije. Prostor sadrzi dvoje unutrašnjih stepeništa sa prednje strane objekta i centralno stepenište, uz koje postoji putnički lift na sve etaže. Takodje, postoji teretni lift koji povezuje podrum i prizemlje. Velika prednost je dostupan parking ispred objekta, koji obezbjeđuje praktičnost za vaše zaposlene i klijente. Donja Gorica je prepoznatljiva po svom brzom razvoju i pristupačnosti, što ovaj prostor čini savršenom lokacijom za biznise koji teže rastu i efikasnosti. Ne propustite ovu jedinstvenu šansu da osigurate idealno mjesto za prosperitet vašeg posla. Za više informacija ili zakazivanje obilaska, kontaktirajte nas već danas!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:13.702107+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.432530+00:00",
+  "source_html_sha256": "0c4c2947236e231acfc45574c48b0a4ef69af823dc0921a74ee12a92d24ddc30",
+  "title": "Izdavanje, poslovni prostor, 2700m², Donja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-19",
+  "updated_date": "2026-09-08",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 2700,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "M2.3, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Zeljko Mugosa",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeverozapad",
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Lift",
+    "Podrum",
+    "Interfon"
+  ],
+  "metadata_summary": "Izuzetna prilika za razvoj vašeg poslovanja! Nudimo prostran poslovni prostor za izdavanje u Podgorici, u mirnom, ali strateški važnom naselju Donja Gorica, koji se nalazi na raskrsnici Bulevara 21. maj i Jugozapadne ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!191",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268116789",
+      "name": "Zeljko Mugosa",
+      "email": null,
+      "source": "workbook:Not homes!191"
+    },
+    {
+      "phone_e164": "+38268116789",
+      "name": "Zeljko Mugosa",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268116789"
+  ],
+  "phone_e164": "+38268116789",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

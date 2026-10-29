@@ -1,0 +1,179 @@
+{
+  "source": "estitor",
+  "listing_id": "634548",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-634548",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-634548"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 606,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_634548",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 700,
+      "workbook_value": 750,
+      "source": "workbook:Outreach list!606"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/340e99ca-e753-455f-bfef-06539636fbb4-lg.webp",
+    "https://content.estitor.com/6ce33960-fcd1-4e5f-b12f-2ec42c6d1a79-lg.webp",
+    "https://content.estitor.com/bce1abe1-0ae0-4c52-a35f-153a2a86bf9c-lg.webp",
+    "https://content.estitor.com/c270dd70-df49-42f9-bf48-373031f0849b-lg.webp",
+    "https://content.estitor.com/162856bb-95fe-463a-99c6-638356d8856c-lg.webp",
+    "https://content.estitor.com/a0821809-500c-4eff-a1ce-01eabea38c99-lg.webp",
+    "https://content.estitor.com/e2831b69-8ec8-49ea-9668-774e7fbd0239-lg.webp",
+    "https://content.estitor.com/9a091a02-7d70-4eea-bdd5-d3de9650aa3d-lg.webp",
+    "https://content.estitor.com/32692cc0-f853-4c34-a9b5-ba7005bf17e1-lg.webp",
+    "https://content.estitor.com/21fcb269-8d5e-45d0-8057-bfab41f1be86-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban namješten stan sa parking mjestom u Baku ulici, Podgorica.\nStan se nalazi kod Bemax parka i trim staze u trospratnoj zgradi \"Tološki apartmani\" sa liftom i privatnim dvorištem, dječijim igralištem i parkingom sa kontrolisanim pristupom.\nNa pješačkoj udaljenosti se nalaze šoping molovi: Big Fashion ( bivši Delta City), City Mall i poslivni centar Capital Plaza, kao i dvije Osnovne škole i vrtići.\n\nStan je baziran na otvorenom konceptu i sastoji se od kuhinje, dnevnog boravka, trpezarije , dvije spavaće sobe , kupatilo, hodnik i dvije terase.\n\nPovršina: 75m2\nSprat: 1\nParking mjesto: 1",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:45.579319+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.386695+00:00",
+  "source_html_sha256": "cfc5d7de3b4c0a2e26ebaee585a3b200b3083c5825eac63f7bcd0bbb428471a8",
+  "title": "Izdavanje, dvosoban stan, 75m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-13",
+  "updated_date": "2026-10-26",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 75,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Baku, Podgorica, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Zorica Tomic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Dvorište",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se dvosoban namješten stan sa parking mjestom u Baku ulici, Podgorica. Stan se nalazi kod Bemax parka i trim staze u trospratnoj zgradi \"Tološki apartmani\" sa liftom i privatnim dvorištem, dječijim igralištem i...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!606",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267844900",
+      "name": "Zorica Tomic",
+      "email": null,
+      "source": "workbook:Outreach list!606"
+    },
+    {
+      "phone_e164": "+38267844900",
+      "name": "Zorica Tomic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267844900"
+  ],
+  "phone_e164": "+38267844900",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

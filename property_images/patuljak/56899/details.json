@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "56899",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-stara-kuca-300m2-centar-danilovgrad--56899",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-stara-kuca-300m2-centar-danilovgrad--56899"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 7,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_56899",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Centar",
+    "Broj soba": "1",
+    "Broj spratova": "2",
+    "Namještena": "Ne",
+    "Stambena kvadratura": "300 m2",
+    "Kvadratura placa": "600 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/56899_0.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Stara kuća u centru Danilovgrada 300m2 sa 600m2 unutrašnjeg dvorišta. Moguće podizanje jos jednog sprata.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:43.606078+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.653477+00:00",
+  "source_html_sha256": "95ea2a2710351807b742211f16f2ea3c70fba9c7117cdb09ddd03393593e7d2b",
+  "title": "Na prodaju, stara kuća 300m2, Centar, Danilovgrad",
+  "description_language": "en",
+  "price_raw": "95000.00€",
+  "price_amount": 95000,
+  "price_currency": "EUR",
+  "advertiser_name": "Sladja",
+  "property_type": "house",
+  "city": "Danilovgrad",
+  "district": "Centar",
+  "building_floors_raw": "2",
+  "room_layout_raw": "1",
+  "area_m2": 300,
+  "amenities": [],
+  "metadata_summary": "Stara kuća u centru Danilovgrada 300m2 sa 600m2 unutrašnjeg dvorišta. Moguće podizanje jos jednog sprata.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!7",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "agent_reasons": "6 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268631711",
+      "name": "Sladja",
+      "email": null,
+      "source": "workbook:Likely agents!7"
+    }
+  ],
+  "contact_phones": [
+    "+38268631711"
+  ],
+  "phone_e164": "+38268631711",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "82805",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan--82805",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan--82805"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 439,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82805",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Broj soba": "1",
+    "Stambena kvadratura": "60 m2",
+    "Broj spratova": "1",
+    "Godina izgradnje": "1980-1989",
+    "Namještena": "Da",
+    "Vrsta poda": "Pločice",
+    "Kvadratura placa": "560 m2",
+    "Vrsta grijanja": "Drva",
+    "Kvadratura balkona": "12 m2",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "1",
+    "Kanalizacija": "Standardna",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82805_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82805_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82805_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82805_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:18.894537+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.478553+00:00",
+  "source_html_sha256": "dd7578e03e16711fed8c59f2e0f55f168e0b22a73d0c3da77ff3fec0a8cd64b6",
+  "title": "Jednosoban stan",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Igor",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "building_floors_raw": "1",
+  "room_layout_raw": "1",
+  "heating_raw": "Drva",
+  "parking_raw": "1",
+  "area_m2": 60,
+  "year_built": 1980,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Jednosoban stan",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!439",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267333392",
+      "name": "Igor",
+      "email": null,
+      "source": "workbook:Outreach list!439"
+    }
+  ],
+  "contact_phones": [
+    "+38267333392"
+  ],
+  "phone_e164": "+38267333392",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

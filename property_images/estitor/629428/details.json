@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "629428",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-629428",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-629428"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 148,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_629428",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Opremljen": "Ne",
+    "Parking": "Nema parkinga",
+    "Vrsta poslovnog prostora": "Kancelarijski"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7a6bed7-7e55-4608-95bc-6ab8e324dada-lg.webp",
+    "https://content.estitor.com/0b33ac6d-cb4f-429b-9613-03d7dc853640-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor – centar Nikšića\nIzdaje se poslovni prostor na atraktivnoj lokaciji u strogom centru Nikšića, u City Centru.\nProstor je pogodan za različite poslovne namjene, kao što su kancelarije, butik, maloprodajni objekat, kao i druge uslužne i poslovne djelatnosti.\nOdlična lokacija u centru grada pruža dobru vidljivost i pristupačnost.\nZa više informacija i dogovor oko obilaska prostora, kontaktirajte.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:49.092296+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.135827+00:00",
+  "source_html_sha256": "e01aa6a292c83c3dde9f5d50fe044b402ff889d934f5f85f77788abd9a8de006",
+  "title": "Izdavanje, poslovni prostor, 27m², Centar, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-05",
+  "updated_date": "2026-10-13",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 27,
+  "city": "Nikšić",
+  "street_address": "8 Trg Slobode, Nikšić 81400, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Marko Pavicevic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "parking_raw": "Nema parkinga",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor – centar NikšićaIzdaje se poslovni prostor na atraktivnoj lokaciji u strogom centru Nikšića, u City Centru.Prostor je pogodan za različite poslovne namjene, kao što su kancelarije, butik, ma...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!148",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267578187",
+      "name": "Marko Pavicevic",
+      "email": null,
+      "source": "workbook:Not homes!148"
+    },
+    {
+      "phone_e164": "+38267578187",
+      "name": "Marko Pavicevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267578187"
+  ],
+  "phone_e164": "+38267578187",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "581849",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581849",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581849"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 706,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_581849",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2016",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7777be99-2bcd-4cdc-81a7-1b7794b99747-lg.webp",
+    "https://content.estitor.com/0ce94f2c-f21b-4cfe-a4e2-22a3de877ead-lg.webp",
+    "https://content.estitor.com/005c9d2f-b565-4842-92c6-a1e688236d57-lg.webp",
+    "https://content.estitor.com/314eabe9-b57c-494c-8b67-d29a731c28da-lg.webp",
+    "https://content.estitor.com/686d4087-29d6-4958-a115-b56deea42b0f-lg.webp",
+    "https://content.estitor.com/d17a7b27-1d96-4d24-bee1-ca72f1a8b54d-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem garsonjeru u City kvart.Zgrada u kojoj se nalazi kafić Ulix.Ulaz do.\nNamještena super.Na duži vremenski period",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:36.308805+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.935615+00:00",
+  "source_html_sha256": "b36bbdda0d409f2c8b4c95da54c650cddba1b80b69586f9c0de9a1ae5682186a",
+  "title": "Izdavanje, garsonjera, 30m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-21",
+  "updated_date": "2026-09-07",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 30,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Vito Janjevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2016,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem garsonjeru u City kvart.Zgrada u kojoj se nalazi kafić Ulix.Ulaz do.Namještena super.Na duži vremenski period",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!706",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267205705",
+      "name": "Vito Janjevic",
+      "email": null,
+      "source": "workbook:Outreach list!706"
+    },
+    {
+      "phone_e164": "+38267205705",
+      "name": "Vito Janjevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267205705"
+  ],
+  "phone_e164": "+38267205705",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

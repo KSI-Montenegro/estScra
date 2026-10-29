@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "579550",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-579550",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-579550"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 399,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_579550",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b72f28e8-73b8-49d9-95f7-dfd59f1306cd-lg.webp",
+    "https://content.estitor.com/7847fd64-fd47-46e8-9b1f-38983d72b8ec-lg.webp",
+    "https://content.estitor.com/7778fbea-d532-46aa-9f01-8ed4c87ff0fb-lg.webp",
+    "https://content.estitor.com/55f8dd0d-5172-4438-8e61-5af0ffc30f4e-lg.webp",
+    "https://content.estitor.com/02f53b52-daa9-413b-8261-5b11114adaa7-lg.webp",
+    "https://content.estitor.com/93c3ea1b-92d5-45b1-9274-65a8cd48f508-lg.webp",
+    "https://content.estitor.com/259c0114-3589-4ceb-8338-5f022d47f349-lg.webp",
+    "https://content.estitor.com/aa58b925-abe6-4ff2-90c7-056b8ea30b7d-lg.webp",
+    "https://content.estitor.com/286194d4-2fa7-4659-8d17-c3eb00e92991-lg.webp",
+    "https://content.estitor.com/9d112c06-b0ac-42b6-ad7a-905ca093801d-lg.webp",
+    "https://content.estitor.com/6d0e10ae-e787-453b-bae3-b6777037a621-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno NOV, moderno i kompletno opremljen stan na duži period - godinu dana. Stan se nalazi na 1. spratu stambene zgrade (zgrada posjeduje lift). Garažno parking mjesto uključeno. (Stan se iznajmljuje isključivo za dugoročni zakup,najmanje godinu dana. Kratkoročni zakup i sezonski boravak nisu prihvaćeni)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:00.943465+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.255797+00:00",
+  "source_html_sha256": "3d33dfa868d0011ef9f26e6b26d89c22182803fc9ef114778114791a45a6672f",
+  "title": "Izdavanje, jednosoban stan, 44m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-15",
+  "updated_date": "2026-09-06",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "E80, Bečići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Masa R",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se potpuno NOV, moderno i kompletno opremljen stan na duži period - godinu dana. Stan se nalazi na 1. spratu stambene zgrade (zgrada posjeduje lift). Garažno parking mjesto uključeno. (Stan se iznajmljuje isklj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!399",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267884070",
+      "name": "Masa R",
+      "email": null,
+      "source": "workbook:Outreach list!399"
+    },
+    {
+      "phone_e164": "+38267884070",
+      "name": "Masa R",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267884070"
+  ],
+  "phone_e164": "+38267884070",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

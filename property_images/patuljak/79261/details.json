@@ -1,0 +1,155 @@
+{
+  "source": "patuljak",
+  "listing_id": "79261",
+  "listing_url": "https://patuljak.me/oglas/becicinov-jednosoban-stan-od-46m2--79261",
+  "listing_urls": [
+    "https://patuljak.me/oglas/becicinov-jednosoban-stan-od-46m2--79261"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 101,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79261",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Bečići",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "6",
+    "Kvadratura": "46 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "5 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Pogled na more": "Ima",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 139999.98,
+      "workbook_value": 139999,
+      "source": "workbook:Outreach list!101"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79261_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Vlasnik prodaje nov jednosoban stan od 46m2 koji se nalazi na šestom spratu (nije poslednji) u zgradi sa 2 ifta i pogledom na more.Stan je komplet namješten.Papiri su 1/1.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:26.970009+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.429691+00:00",
+  "source_html_sha256": "99551a360c1f0dd0a088d5207412d0deb3dc56097c736a9c56391720a2e07903",
+  "title": "Bečići,Nov jednosoban stan od 46m2",
+  "description_language": "en",
+  "price_raw": "139999.98€",
+  "price_amount": 139999.98,
+  "price_currency": "EUR",
+  "advertiser_name": "DRAGAN",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Bečići",
+  "floor_raw": "6",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 46,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Vlasnik prodaje nov jednosoban stan od 46m2 koji se nalazi na šestom spratu (nije poslednji) u zgradi sa 2 ifta i pogledom na more.Stan je komplet namješten.Papiri su 1/1.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!101",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269050880",
+      "name": "DRAGAN",
+      "email": null,
+      "source": "workbook:Outreach list!101"
+    }
+  ],
+  "contact_phones": [
+    "+38269050880"
+  ],
+  "phone_e164": "+38269050880",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

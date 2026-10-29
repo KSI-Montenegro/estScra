@@ -1,0 +1,26 @@
+# Izdavanje, jednosoban stan, 35m², Sutomore, Bar
+
+Source: https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-298761
+
+- Deal: rent
+- Property type: apartment
+- Published price: 200 EUR
+- Price amount: 200
+- Currency: EUR
+- City: Bar
+- Area (m²): 35
+- Bedrooms: 1
+- Bathrooms: 1
+- Floor: Polusuteren
+- Furnishing: true
+
+## Original listing description
+
+Na raspolaganju vam je garsonjera od 35 m2 za iznajmljivanje u Sutomoru, udaljena samo 400 metara od mora. Ova udobna garsonjera ima sve što vam je potrebno za ugodan boravak. Unutar garsonjere se nalazi funkcionalna ugaona garnitura koja se može rasklopiti i koristiti kao krevet za spavanje. Ovo vam pruža fleksibilnost u smislu prostora, tako da možete lako pretvoriti dnevni boravak u spavaću sobu po potrebi. Tu je takođe i dvije fotelje na rasklapanje koje vam omogućavaju dodatno mjesto za odmor ili spavanje. Lokacija garsonjere je povoljna jer se nalazi u blizini brojnih sadržaja. U neposrednoj blizini se nalaze marketi Voli i Idea, što vam omogućava jednostavan pristup prehrambenim proizvodima i ostalim potrebštinama koje vam mogu biti potrebne tokom boravka. Ova garsonjera je odličan izbor za pojedince ili parove koji žele uživati u blizini mora i istovremeno imati udoban smještaj s praktičnim rješenjima za spavanje. Bilo da dolazite na odmor ili imate privremeni boravak, ova garsonjera će vam pružiti ugodan i funkcionalan prostor za opuštanje i odmor. Na odličnoj lokaciji na mirnom mjestu, apartman je u stambenoj naseljenoj zgradi gdje se određena pravila moraju poštovati. U zgradi nijesu dozvoljene žurke, okupljanja, pravljenja žurki i bilo kakva buka jer se odma poziva komunalna inspekcija. Pušenje isključivo na terasi! Zgrada posjeduje svoj parking gdje skoro uvjek ima mjesta. Upotpunosti opremljen i funkcionalan apartman.
+
+## Published amenities
+
+- Starogradnja
+- Opremljen
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

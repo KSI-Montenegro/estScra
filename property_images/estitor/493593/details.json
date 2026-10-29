@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "493593",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-493593",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-493593"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 927,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_493593",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Novogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b48d8fb8-70ec-42af-b9ae-5e4242030740-lg.webp",
+    "https://content.estitor.com/cc6d7599-5318-4f71-bfac-44f73134d1cf-lg.webp",
+    "https://content.estitor.com/9c122358-0296-4fbf-859c-5c733012d884-lg.webp",
+    "https://content.estitor.com/d569f4d7-a582-411b-a225-885d40dabcf4-lg.webp",
+    "https://content.estitor.com/9ed1c44d-a91d-4e64-af26-f6cc0efa0f53-lg.webp",
+    "https://content.estitor.com/a59c99fa-d2ae-4c48-b8df-3c49580909e2-lg.webp",
+    "https://content.estitor.com/6a34abe3-2a5d-4d3a-aa95-0332e8225e12-lg.webp",
+    "https://content.estitor.com/266665dc-9e23-44da-be4f-ad443a825310-lg.webp",
+    "https://content.estitor.com/cf0b200b-13a6-4432-bef7-ae7fa6723c4b-lg.webp",
+    "https://content.estitor.com/a5428747-2783-4991-a33c-5184c872d1be-lg.webp",
+    "https://content.estitor.com/adc4eec3-7940-446b-97de-31f4768ecb45-lg.webp",
+    "https://content.estitor.com/86d5be18-36f8-4fa8-a9c0-1afc93c9f55e-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan, novogradnja, namjesten sve novo, ima parking mjesto(garazno mjesto). U blizini je skola i vrtic na 2min, dom zdravlja, marketi, park šuma Gorica na 10min pjeske, centar grada 15min pjeske. Moguc dogovor i korekcija cijene na duzi vremenski period. Zvati poslije 16h. Kont tel 067/579-442\n067/007-033",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:04.882906+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.122762+00:00",
+  "source_html_sha256": "2aaf9939241c45d1a7eb689025b3931e9d25a9b11a6d1a7d9dd46db29dee8a35",
+  "title": "Izdavanje, jednosoban stan, 35m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-19",
+  "updated_date": "2026-09-06",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 35,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Andjela Ilic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "true",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan, novogradnja, namjesten sve novo, ima parking mjesto(garazno mjesto). U blizini je skola i vrtic na 2min, dom zdravlja, marketi, park šuma Gorica na 10min pjeske, centar grada 15min pjeske. M...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!927",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267579442",
+      "name": "Andjela Ilic",
+      "email": null,
+      "source": "workbook:Outreach list!927"
+    }
+  ],
+  "contact_phones": [
+    "+38267579442"
+  ],
+  "phone_e164": "+38267579442",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,147 @@
+{
+  "source": "realitica",
+  "listing_id": "3950445",
+  "listing_url": "https://www.realitica.com/hr/listing/3950445",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3950445"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 79,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "realitica_3950445",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Budva",
+    "Lokacija": "Centar",
+    "Adresa": "Gospostina, Budva",
+    "Cijena": "€192.000",
+    "Spavaćih Soba": "1",
+    "Kupatila": "1",
+    "Stambena Površina": "51 m2",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3950445",
+    "Postavljeno": "23 Oct, 2026",
+    "Zadnja Promjena": "23 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--2-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--4-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--7-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--5-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--11-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--8-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--9-.webp",
+    "https://www.realitica.com/images/listing_photos/3950445_full-webp--10-.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "PRODAJA STANA SA POGLEDOM NA MORE – GOSPOŠTINA, BUDVA\n\nNa prodaju namješten jednosoban stan površine 51 m², smješten u atraktivnom dijelu Budve, u naselju Gospoština.\n\nStan je kompletno namješten i opremljen svim potrebnim sadržajima za udoban boravak. Sa stana se pruža lijep pogled na more, što ga čini idealnim mjestom za odmor i uživanje.\n\nKarakteristike stana:\n\nPovršina: 51 m²\n\nJedna spavaća soba\n\nPogled na more\n\nKompletno namješten i opremljen\n\nAtraktivna lokacija – Gospoština, Budva\n\nCijena: 192.000 €\n\n+38267755066",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:14.178016+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.280546+00:00",
+  "source_html_sha256": "beb39da6979b8bee449ce562301eb183c273210e1c0a6b60c5dab64f3679a966",
+  "title": "Prodajem Stan-Apartman, Centar",
+  "description_language": "hr",
+  "city": "Budva",
+  "district": "Centar",
+  "street_address": "Gospostina, Budva",
+  "published_date_raw": "23 Oct, 2026",
+  "updated_date_raw": "23 Oct, 2026",
+  "area_m2": 51,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€192.000",
+  "price_amount": 192000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "PRODAJA STANA SA POGLEDOM NA MORE – GOSPOŠTINA, BUDVA\nNa prodaju namješten jednosoban stan površine 51 m², smješten u atraktivnom dijelu Budve, u naselju Gospoština.\nStan je kompletno namješten i opremljen svim potrebnim sadržajima za udoban boravak. Sa stana se pruža lijep pogled na more, što ga čini idealnim mjestom za odmor i uživanje.\n Karakteristike stana:\n Površina: 51 m²\nJedna spavaća soba\nPogled na more\nKompletno namješten i opremljen\nAtraktivna lokacija – Gospoština, Budva\nCijena: 192.000 €\n+38267755066\n",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!79",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; has vanity profile; Medium - Heuristic: no agency name/website/company no.; has vanity profile",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267755066",
+      "name": "DraganaDragana",
+      "email": null,
+      "source": "workbook:Outreach list!79"
+    }
+  ],
+  "contact_phones": [
+    "+38267755066"
+  ],
+  "phone_e164": "+38267755066",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

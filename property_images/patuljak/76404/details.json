@@ -1,0 +1,126 @@
+{
+  "source": "patuljak",
+  "listing_id": "76404",
+  "listing_url": "https://patuljak.me/oglas/grobnica--76404",
+  "listing_urls": [
+    "https://patuljak.me/oglas/grobnica--76404"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 769,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76404",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Herceg Novi",
+    "Naselje": "Savina",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Beton",
+    "Kvadratura": "2 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76404_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodajem grobnicu na groblju Crkve Svetog Save na Savini, uradjen je mermer. Grobnica je za 2 mjesta.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:10.150910+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.416889+00:00",
+  "source_html_sha256": "c6a570d0d8e0bdcabec22c0651c10e49a430a42d227d60736e686e6cea577e45",
+  "title": "Grobnica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Vasilije",
+  "property_type": "land",
+  "city": "Herceg Novi",
+  "district": "Savina",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem grobnicu na groblju Crkve Svetog Save na Savini, uradjen je mermer. Grobnica je za 2 mjesta.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!769",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268532255",
+      "name": "Vasilije",
+      "email": null,
+      "source": "workbook:Outreach list!769"
+    }
+  ],
+  "contact_phones": [
+    "+38268532255"
+  ],
+  "phone_e164": "+38268532255",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "524036",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524036",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524036"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 613,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_524036",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0595d7e6-862f-4a76-9553-983392a8743d-lg.webp",
+    "https://content.estitor.com/859a348c-9752-4c2b-a0cf-5c477b9331e9-lg.webp",
+    "https://content.estitor.com/2ce315c0-f2aa-47c4-9b7f-2c322dafaaaf-lg.webp",
+    "https://content.estitor.com/931c4510-53e3-4e09-b16f-465abaf13219-lg.webp",
+    "https://content.estitor.com/7bd5ff01-c6ca-4c3e-b0f3-a524933068c3-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se atraktivan jednosoban stan u renomiranom stambenom kompleksu Normal Hill, smještenom u lameli F, manjoj zgradi pored slikovitog brda Ljubović u Podgorici.\n\nOvaj moderni stan se nalazi na 4. spratu, prostire se na komfornih 48 m² i idealan je za pojedince ili parove. Sastoji se od prostranog dnevnog boravka sa kuhinjom i trpezarijom, jedne udobne spavaće sobe i kupatila.\n\nStan je u potpunosti opremljen novim, modernim namještajem i svim neophodnim uređajima, što omogućava trenutno useljenje bez dodatnih ulaganja. Uživajte u mirnom okruženju sa lakim pristupom prirodi brda Ljubović, istovremeno zadržavajući brzu povezanost sa centrom.\n\nNe propustite priliku da postanete dio prestižnog kvarta.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:48.643390+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.424335+00:00",
+  "source_html_sha256": "9cd53ac0202d7dbbefb20166ad160c886c1c2d726e09524f660a64b66c30cf72",
+  "title": "Izdavanje, jednosoban stan, 48m², Ljubović, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-05",
+  "updated_date": "2026-10-13",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Eldin Mucevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se atraktivan jednosoban stan u renomiranom stambenom kompleksu Normal Hill, smještenom u lameli F, manjoj zgradi pored slikovitog brda Ljubović u Podgorici. Ovaj moderni stan se nalazi na 4. spratu, prostire s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!613",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267534550",
+      "name": "Eldin Mucevic",
+      "email": null,
+      "source": "workbook:Outreach list!613"
+    },
+    {
+      "phone_e164": "+38267534550",
+      "name": "Eldin Mucevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267534550"
+  ],
+  "phone_e164": "+38267534550",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "620165",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-620165",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-620165"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 367,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620165",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dfff141b-6c40-4bfb-b79b-5d940026d9ba-lg.webp",
+    "https://content.estitor.com/c3a71091-3bd7-48c6-a8c2-4fd1036d6363-lg.webp",
+    "https://content.estitor.com/76cec0ec-50cb-4204-b190-fa34a091c9f9-lg.webp",
+    "https://content.estitor.com/6ad6e77c-4335-4cc3-9dc0-e09d635d6a7b-lg.webp",
+    "https://content.estitor.com/b09473c0-b386-43c3-b609-b070c5f950bc-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se atraktivan stan u Šušnju, Bar, savršen za udoban i kvalitetan život. Ovaj moderno uređen dom, površine 42.0 m², smješten je u kvalitetnoj novogradnji i nalazi se na prizemlju (0. sprat), pružajući lakoću pristupa i praktičnost.\nStan se sastoji od jedne prostrane spavaće sobe, elegantnog kupatila, prostranog predsoblja, te moderne kuhinje i trpezarije koje su funkcionalno povezane. Kompletno je opremljen i spreman za useljenje bez dodatnih ulaganja, što Vam omogućava bezbrižan početak.\nUživajte u potpunom komforu uz klimatizaciju, brz internet i kablovsku televiziju. Vaša sigurnost je obezbijeđena interfonom. Dostupan je i javni parking za stanare i posjetioce.\nLokacija je izuzetno povoljna – miran kraj u Šušnju, Bar, na 15 minuta od centra grada i 10 minuta od mora. Idealan je za porodičan život, ali i za sve one koji traže mir i blizinu svih bitnih sadržaja. Ovaj osunčan stan predstavlja izuzetnu priliku za dugoročni najam u srcu Bara.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:45.221594+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.066565+00:00",
+  "source_html_sha256": "9e5812c96b867cd408b359528b4d93cc15981ab83c0310f185ed2d8f8ae0ae8b",
+  "title": "Izdavanje, jednosoban stan, 42m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-20",
+  "updated_date": "2026-09-20",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 42,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Crnogorskih Serdara, Bar",
+  "country": "ME",
+  "advertiser_name": "Nenad Filipović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se atraktivan stan u Šušnju, Bar, savršen za udoban i kvalitetan život. Ovaj moderno uređen dom, površine 42.0 m², smješten je u kvalitetnoj novogradnji i nalazi se na prizemlju (0. sprat), pružajući lakoću pri...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!367",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268434460",
+      "name": "Nenad Filipović",
+      "email": null,
+      "source": "workbook:Outreach list!367"
+    },
+    {
+      "phone_e164": "+38268434460",
+      "name": "Nenad Filipović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268434460"
+  ],
+  "phone_e164": "+38268434460",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,12 @@
+{
+  "input_mapping": "passed",
+  "all_1797_property_folders": "passed",
+  "all_14522_image_urls_preserved": "passed",
+  "original_description_files_match_json_csv_xlsx": "passed",
+  "source_text_excludes_site_ui": "passed",
+  "price_and_area_locale_cases": "passed",
+  "three_source_fixture_details": "passed",
+  "secondary_ad_does_not_inherit_primary_property_fields": "passed",
+  "descriptions_fabricated": 0,
+  "raw_html_caches_included": false
+}

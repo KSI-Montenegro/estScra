@@ -1,0 +1,49 @@
+{
+  "extracted_at": "2026-10-29T19:50:06.345499+00:00",
+  "input_workbook_sha256": "8c7ef6021c008b615312b860a4c7ac128f43a8ea21923251ef7bb6d46fdae87f",
+  "total_properties": 1797,
+  "source_pages_available": 1723,
+  "with_original_description": 1585,
+  "with_title": 1743,
+  "with_price_amount": 1627,
+  "with_city": 1771,
+  "with_area": 1645,
+  "with_unique_contact_phone": 1714,
+  "with_images": 1715,
+  "with_coordinates": 0,
+  "with_bedrooms": 981,
+  "with_bathrooms": 783,
+  "maximum_original_description_length": 9533,
+  "core_fields_complete": 1360,
+  "missing_core_field_counts": {
+    "description_original": 212,
+    "deal_type": 125,
+    "price": 37,
+    "area": 152,
+    "images": 82,
+    "title": 54,
+    "contact_phone": 83,
+    "property_type": 28,
+    "city": 26
+  },
+  "description_statuses": {
+    "extracted": 1585,
+    "no_published_description": 138,
+    "source_unavailable": 74
+  },
+  "by_source": {
+    "estitor": {
+      "total": 906,
+      "with_description": 860
+    },
+    "patuljak": {
+      "total": 845,
+      "with_description": 680
+    },
+    "realitica": {
+      "total": 46,
+      "with_description": 45
+    }
+  },
+  "extraction_errors": []
+}

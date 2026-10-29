@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "81927",
+  "listing_url": "https://patuljak.me/oglas/prodajem-kucu-120-m-beri-podgorica--81927",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-kucu-120-m-beri-podgorica--81927"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 22,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81927",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!22:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Beri",
+    "Broj soba": "2",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "120 m2",
+    "Kvadratura placa": "750 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81927_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81927_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81927_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81927_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Kuća sa placem – 750 m²\n\nProdaje se kuća površine 120 m², potpuno namještena . Uz kuću se nalazi i pomoćni objekat od 40 m², pogodan za ostavu ili radionicu.\n\nPlac na kojem se kuća nalazi ima 750 m² i pruža dovoljno prostora za dvorište i dodatne sadržaje.\n\n???? Za više informacija , kontaktirajte nas putem Viber-a ili WhatsApp-a.\n+38267036699",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:44.142377+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.903077+00:00",
+  "source_html_sha256": "720fbe9348f936eaca40aef3cdfc7083133ca0d8056613d1346999ab90464e82",
+  "title": "Prodajem kuću 120 m², Beri, Podgorica",
+  "description_language": "en",
+  "price_raw": "100000.00€",
+  "price_amount": 100000,
+  "price_currency": "EUR",
+  "advertiser_name": "Kristina",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Beri",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "parking_raw": "3 i više",
+  "area_m2": 120,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Kuća sa placem – 750 m²Prodaje se kuća površine 120 m², potpuno namještena . Uz kuću se nalazi i pomoćni objekat od 40 m², pogodan za ostavu ili radionicu.Plac na kojem se kuća nalazi ima 750 m² i pruža dovoljno prostora za dvorište i dodatne sadržaje.???? Za više informacija , kontaktirajte nas putem Viber-a ili WhatsApp-a. +38267036699",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!22",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268211286",
+      "name": "Kristina",
+      "email": null,
+      "source": "workbook:Outreach list!22"
+    }
+  ],
+  "contact_phones": [
+    "+38268211286"
+  ],
+  "phone_e164": "+38268211286",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

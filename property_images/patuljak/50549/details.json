@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "50549",
+  "listing_url": "https://patuljak.me/oglas/izdajem-opremljen-stan--50549",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-opremljen-stan--50549"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 550,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_50549",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!550:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "6",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Stambena kvadratura": "56 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/50549_1.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Изнајмљујем Стан-Апартман, Стари Аеродром\nВрста: Стан-Апартман\nПодрује: Подгорица\nЛокација: Стари аеродром\nАдреса: Булевар Пера Ћетковића, Подгорица\nCljena: 400€\nГодина градње: 2016\nБрој спаваћих соба: 2\nКупатила: 1\nПовршина стана: 56 м2\nПаркинг места: 2\nНовоградња\nКлима Уредај\nОпис: Изнајмљујем намјестен стан на Старом\nАеродрому на дужи временски период.\nЗграда је новије градње са лифтом.\nСтан је опремијен свом техником и одмах\nусељив.\nКонтакт тел. 067 544 474",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:19.524721+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.110786+00:00",
+  "source_html_sha256": "e5ddd631f18e6a2fe5715b4fbd8ed95bd59b7c0527e7d0ab6fee2ad01fe007e7",
+  "title": "Izdajem opremljen stan",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Milena",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "6",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 56,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Изнајмљујем Стан-Апартман, Стари АеродромВрста: Стан-Апартман Подрује: ПодгорицаЛокација: Стари аеродромАдреса: Булевар Пера Ћетковића, ПодгорицаCljena: 400€Година градње: 2016Број спаваћих соба: 2Купатила: 1Површина стана: 56 м2Паркинг места: 2НовоградњаКлима УредајОпис: Изнајмљујем намјестен стан на СтаромАеродрому на дужи временски период.Зграда је новије градње са лифтом.Стан је опремијен свом техником и одмахусељив.Контакт тел. 067 544 474",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!550",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267544474",
+      "name": "Milena",
+      "email": null,
+      "source": "workbook:Outreach list!550"
+    }
+  ],
+  "contact_phones": [
+    "+38267544474"
+  ],
+  "phone_e164": "+38267544474",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

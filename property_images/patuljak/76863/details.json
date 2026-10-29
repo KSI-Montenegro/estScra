@@ -1,0 +1,132 @@
+{
+  "source": "patuljak",
+  "listing_id": "76863",
+  "listing_url": "https://patuljak.me/oglas/ravan-i-osuncan-plac-u-bjelopavlicima-spuz--76863",
+  "listing_urls": [
+    "https://patuljak.me/oglas/ravan-i-osuncan-plac-u-bjelopavlicima-spuz--76863"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 72,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_76863",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Spuž",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "12000 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76863_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76863_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76863_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76863_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76863_3.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Ravan i osunčan plac u Bjelopavlićima – Spuž, 10 km od Podgorice\n\nProdaje se 12.000 m² ravan plac, osunčan tokom cijelog dana, sa lijepim pogledom na Spušku glavicu. Teren je poljoprivrednog tipa, sa blagim nagibom/padom prema rječici Brestici, pogodan za voćnjak, povrtnjak ili gradnju.\n\nNa placu se nalazi stara kuća i nepresušni bunar, uz priključke za struju i vodu – spremno za korišćenje odmah.\n\nLokacija: Bjelopavlići, Spuž, pristup asfaltiranim putem.\n\nCijena: 17 €/m²",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:07.650029+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.613741+00:00",
+  "source_html_sha256": "b39e4f78b35cdbdbf36027c91a231b1d66ef6435b6647722587fbfb5f68acee6",
+  "title": "Ravan i osunčan plac u Bjelopavlićima Spuž",
+  "description_language": "en",
+  "price_raw": "204.00€",
+  "price_amount": 204,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivana",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Spuž",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Ravan i osunčan plac u Bjelopavlićima – Spuž, 10 km od PodgoriceProdaje se 12.000 m² ravan plac, osunčan tokom cijelog dana, sa lijepim pogledom na Spušku glavicu. Teren je poljoprivrednog tipa, sa blagim nagibom/padom prema rječici Brestici, pogodan za voćnjak, povrtnjak ili gradnju.Na placu se nalazi stara kuća i nepresušni bunar, uz priključke za struju i vodu – spremno za korišćenje odmah.Lokacija: Bjelopavlići, Spuž, pristup asfaltiranim putem.Cijena: 17 €/m² ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!72",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269194373",
+      "name": "Ivana",
+      "email": null,
+      "source": "workbook:Not homes!72"
+    }
+  ],
+  "contact_phones": [
+    "+38269194373"
+  ],
+  "phone_e164": "+38269194373",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 12000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

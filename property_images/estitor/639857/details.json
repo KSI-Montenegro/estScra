@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "639857",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639857",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639857"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 257,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639857",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2008",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dd7d93ee-39db-40ef-b39f-c5acb0a4adcc-lg.webp",
+    "https://content.estitor.com/4552c717-e8e8-4c43-9e87-5c0ba3180411-lg.webp",
+    "https://content.estitor.com/206fc202-c253-4073-ab21-941fee1e2089-lg.webp",
+    "https://content.estitor.com/7c57439a-addb-4682-96e2-81c83e1e90a4-lg.webp",
+    "https://content.estitor.com/97afd1f9-5e36-4977-ad77-bed04bb2a150-lg.webp",
+    "https://content.estitor.com/8e8cf54e-71d6-45cd-b8cc-8628a3a71fdf-lg.webp",
+    "https://content.estitor.com/e14edaaf-8ff1-4722-97cf-c5bf1b48f63d-lg.webp",
+    "https://content.estitor.com/d3ff254b-4e79-46f7-a445-07a81fa8a7a2-lg.webp",
+    "https://content.estitor.com/84206f40-2855-4818-bb5e-ef1aa950b4b6-lg.webp",
+    "https://content.estitor.com/6787ee08-7931-4dfb-a434-9e18c803ddf7-lg.webp",
+    "https://content.estitor.com/de8e1c8b-6a03-4796-9b03-1fb345b2feec-lg.webp",
+    "https://content.estitor.com/8cd501ca-be5a-40f2-95b3-8fe0c594dad0-lg.webp",
+    "https://content.estitor.com/0b375c24-c923-48b9-a26d-e5479003703a-lg.webp",
+    "https://content.estitor.com/b8f0c396-4977-4026-8da2-fc6d89dad116-lg.webp",
+    "https://content.estitor.com/2d06ed2c-e4e8-4ac3-b7b2-150405f06cf1-lg.webp",
+    "https://content.estitor.com/faac64ec-4789-41ce-8b0e-920560e9466b-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izvanredan stan za izdavanje u mirnom i traženom naselju Podkošljun u Budvi.\nOvaj komforan jednosoban stan prostire se na 48.0 m² i nalazi se na 2. spratu. Potpuno je opremljen, što Vam omogućava da se uselite bez dodatnih briga.\nStan se sastoji od jedne spavaće sobe, kupatila, funkcionalne kuhinje, trpezarije i ulaznog hodnika, pružajući prijatan i praktičan životni prostor.\nOpremljenost stana uključuje sve što je potrebno za savremen život: klimatizaciju za ugodnu temperaturu tokom cijele godine, pristup internetu i kablovskoj televiziji.\nJavni parking je dostupan u blizini objekta, što olakšava svakodnevni život. Lokacija u Podkošljunu pruža idealnu ravnotežu između mirnog okruženja i blizine gradskih sadržaja, plaža i šetališta.\nOvo je idealna prilika za dugoročni najam u srcu Budve.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:49.658167+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.392698+00:00",
+  "source_html_sha256": "55ba6477088e3bb13cc6bb6d2351917ce833daf6d44e23d42c1e451ca67a6c44",
+  "title": "Izdavanje, jednosoban stan, 48m², Podkošljun, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 48,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "18 4. Proleterske, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Luka Pićurić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2008,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izvanredan stan za izdavanje u mirnom i traženom naselju Podkošljun u Budvi.Ovaj komforan jednosoban stan prostire se na 48.0 m² i nalazi se na 2. spratu. Potpuno je opremljen, što Vam omogućava da s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!257",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267889989",
+      "name": "Luka Pićurić",
+      "email": null,
+      "source": "workbook:Outreach list!257"
+    },
+    {
+      "phone_e164": "+38267889989",
+      "name": "Luka Pićurić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267889989"
+  ],
+  "phone_e164": "+38267889989",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

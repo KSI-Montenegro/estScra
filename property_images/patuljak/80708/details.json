@@ -1,0 +1,140 @@
+{
+  "source": "patuljak",
+  "listing_id": "80708",
+  "listing_url": "https://patuljak.me/oglas/mijenjam-jednosoban-stan-za-dvosoban-new-city--80708",
+  "listing_urls": [
+    "https://patuljak.me/oglas/mijenjam-jednosoban-stan-za-dvosoban-new-city--80708"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 452,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80708",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "5",
+    "Kvadratura": "45 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Kvadratura balkona": "6 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80708_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Mijenjam jednosoban stan u Kips zgradama naselje New City kod super Volija (City kvart) za dvosoban u Acton zgradama, New City, Premium Kvart.\nZvati na br.telefona 067 461 700.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:27.915197+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.557497+00:00",
+  "source_html_sha256": "91e7df8ae921a7ba26b303f5d6673e946184785a01fa4ed84e1caf9540a38e45",
+  "title": "Mijenjam jednosoban stan za dvosoban New City",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milica",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "5",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 45,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Mijenjam jednosoban stan u Kips zgradama naselje New City kod super Volija (City kvart) za dvosoban u Acton zgradama, New City, Premium Kvart. Zvati na br.telefona 067 461 700. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!452",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267461700",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Outreach list!452"
+    }
+  ],
+  "contact_phones": [
+    "+38267461700"
+  ],
+  "phone_e164": "+38267461700",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

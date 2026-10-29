@@ -1,0 +1,158 @@
+{
+  "source": "realitica",
+  "listing_id": "3949589",
+  "listing_url": "https://www.realitica.com/hr/listing/3949589",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 82,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3949589",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Kuću",
+    "Područje": "Bar",
+    "Lokacija": "Polje",
+    "Energetski Razred": "A+",
+    "Cijena": "€290.000",
+    "Godina Gradnje": "2026",
+    "Spavaćih Soba": "2",
+    "Kupatila": "1",
+    "Stambena Površina": "97 m2",
+    "Zemljište": "510 m2",
+    "Parking Mjesta": "2",
+    "Od Mora (m)": "800",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3949589",
+    "Postavljeno": "22 Oct, 2026",
+    "Zadnja Promjena": "22 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3949589_img_2673.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2672.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2671.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2670.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_c95dadf1-a663-44fd-bb31-b76e88f4a147.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2674.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2661.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2659.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2663.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949589_img_2660.jpeg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Новоизграђена, самостојећа породична кућа са врхунском завршном обрадом.\n\nПрво усељење.\n\nПродајемо кућу у Црној Гори, у насељу Поље (општина Бар).\n\nПотпуно легализована, са важећом грађевинском дозволом.\n\nПродаја директно од власника.\n\nКућа је у завршној фази изградње и биће спремна за усељење до 1. јануара 2027. године.\n\nЧврста, висококвалитетна градња уз употребу квалитетних материјала.\n\nДоступна је фото-документација за сваку фазу изградње.\n\nКарактеристике укључују темељ са армирано-бетонским серклажима, изолацију и алуминијумски кров (такође изолован).\n\nПодови од камена.\n\nФасаде обложене каменом.\n\nСамостојећи објекат на плацу површине 510 м².\n\nУ току је изградња оградног зида око целог имања.\n\nПотпуно опремљена, укључујући кухињу.\n\nКоришћени су искључиво материјали и брендови врхунског квалитета – као што су Hansgrohe, Geberit, Koinor итд.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:15.230164+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.296301+00:00",
+  "source_html_sha256": "b1cf92908a6a1a9fa7aec900cc1208898fc857adebe82c0223b2d6ff917a2399",
+  "title": "Prodajem Kuću, Polje",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Polje",
+  "parking_raw": "2",
+  "published_date_raw": "22 Oct, 2026",
+  "updated_date_raw": "22 Oct, 2026",
+  "area_m2": 97,
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "parking_spaces": 2,
+  "distance_to_sea_m": 800,
+  "property_type_raw": "Prodajem Kuću",
+  "property_type": "house",
+  "deal_type": "sale",
+  "price_raw": "€290.000",
+  "price_amount": 290000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Новоизграђена, самостојећа породична кућа са врхунском завршном обрадом.\n\nПрво усељење.\n\nПродајемо кућу у Црној Гори, у насељу Поље (општина Бар).\nПотпуно легализована, са важећом грађевинском дозволом.\nПродаја директно од власника.\nКућа је у завршној фази изградње и биће спремна за усељење до 1. јануара 2027. године.\nЧврста, висококвалитетна градња уз употребу квалитетних материјала.\nДоступна је фото-документација за сваку фазу изградње.\nКарактеристике укључују темељ са армирано-бетонским серклажима, изолацију и алуминијумски кров (такође изолован).\nПодови од камена.\nФасаде обложене каменом.\nСамостојећи објекат на плацу површине 510 м².\nУ току је изградња оградног зида око целог имања.\nПотпуно опремљена, укључујући кухињу.\nКоришћени су искључиво материјали и брендови врхун",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!82",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+4915222991723",
+      "name": "Dennis Peach",
+      "email": null,
+      "source": "workbook:Outreach list!82"
+    }
+  ],
+  "contact_phones": [
+    "+4915222991723"
+  ],
+  "phone_e164": "+4915222991723",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

@@ -1,0 +1,160 @@
+{
+  "source": "patuljak",
+  "listing_id": "80543",
+  "listing_url": "https://patuljak.me/oglas/veci-jednosoban-stan-sa-pogledom-na-more-300-m-od--80543",
+  "listing_urls": [
+    "https://patuljak.me/oglas/veci-jednosoban-stan-sa-pogledom-na-more-300-m-od--80543"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 156,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80543",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Bečići",
+    "Adresa": "Alekse Šantića",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Pogled na more": "Ima",
+    "Stambena kvadratura": "53 m2"
+  },
+  "quality_flags": [
+    "description_mentions_both_sale_and_rent"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80543_5.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Na prodaju je komforan jednosoban stan površine 53 m², smješten na 4. spratu novije stambene zgrade sa liftom, na Bulevaru u Bečićima - Budva.\n\nJužno-istočna orijentacija omogućava dosta dnevne svjetlosti tokom dana a posebno lijep pogled na more pruža se sa terase. Kompletno je namješten i opremljen, te je spreman za useljenje bez potrebnih dodatnih ulaganja.\n\nStan je udaljen oko 300 m od mora i plaže, odnosno nekoliko minuta pješke. U okolini se nalaze brojni hoteli, restorani i drugi sadržaji. Luksuzni Resort Dukley gardens, Spelendid, Mediteran i dr. poznati hoteli su na samo par minuta hoda od stambene zgrade.\n\nU neposrednoj blizini nalaze se market, restorani, pošta i gradski prevoz, što omogućava praktično svakodnevno funkcionisanje tokom cijele godine.\n\nZbog blizine mora, dobre lokacije i sadržaja u okolini, pogodan je za cjelogodišnje stanovanje, kao i za turističko izdavanje.\n\nVlasnička dokumentacija potpuno uredna.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:58.081095+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.774204+00:00",
+  "source_html_sha256": "dffa347bd3909b5e34e1a0e78bbd567cc791fb7c8e4e7af0fb543007378908f0",
+  "title": "Veći jednosoban stan sa pogledom na more, 300 m od plaže Bečići, Budva",
+  "description_language": "en",
+  "price_raw": "159000.00€",
+  "price_amount": 159000,
+  "price_currency": "EUR",
+  "advertiser_name": "Snezana",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Bečići",
+  "street_address": "Alekse Šantića",
+  "floor_raw": "4",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 53,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Na prodaju je komforan jednosoban stan površine 53 m², smješten na 4. spratu novije stambene zgrade sa liftom, na Bulevaru u Bečićima - Budva.Južno-istočna orijentacija omogućava dosta dnevne svjetlosti tokom dana a posebno lijep pogled na more pruža se sa terase. Kompletno je namješten i opremljen, te je spreman za useljenje bez potrebnih dodatnih ulaganja.Stan je udaljen oko 300 m od mora i plaže, odnosno nekoliko minuta pješke. U okolini se nalaze brojni hoteli, restorani i drugi sadržaji. Luksuzni Resort Dukley gardens, Spelendid, Mediteran i dr. poznati hoteli su na samo par minuta hoda od stambene zgrade.U neposrednoj blizini nalaze se market, restorani, pošta i gradski prevoz, što omogućava praktično svakodnevno funkcionisanje tokom cijele godine.Zbog blizine mora, dobre lokacije i sadržaja u okolini, pogodan je za cjelogodišnje stanovanje, kao i za turističko izdavanje.Vlasnička dokumentacija potpuno uredna.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!156",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269604411",
+      "name": "Snezana",
+      "email": null,
+      "source": "workbook:Outreach list!156"
+    }
+  ],
+  "contact_phones": [
+    "+38269604411"
+  ],
+  "phone_e164": "+38269604411",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

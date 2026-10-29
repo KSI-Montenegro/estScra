@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "60278",
+  "listing_url": "https://patuljak.me/oglas/prodaja-gradjevinskog-placa-322m2-bijela-herceg-no--60278",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-gradjevinskog-placa-322m2-bijela-herceg-no--60278"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 105,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_60278",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!105:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Herceg Novi",
+    "Naselje": "Bijela",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Beton",
+    "Kvadratura": "322 m2",
+    "Komunalni priključak": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60278_1.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Na plac je PUP-om Herceg Novi dozvoljena gradnja objektamaksimalne površine 160m2, i BGP do 500m2 u najviše 3 etaže. Dovedena struja,voda, komunikacije, kanalizacija i ima betonski pristupni put uz plac. Vlasništvo je čisto, 1/1, bez tereta.\n\nPlac je pozicioniran iznad marketa HDL u Bijeloj, pored HercegNovog. Površine je 322m2, i namjenjen je za izgradnju porodičnog objekta. Imapravilan trapezasti oblik, priveden je namjeni, i ima pogled na more. Udaljenje od plaže 700m. Cijena je 68 000 eura. Može i kompezacija za garsonjeru u Podgoricu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:25.655620+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.829593+00:00",
+  "source_html_sha256": "291d63e572329b6d0c25a3c405f3850a53e04ca76481e868ddf6fc911936108e",
+  "title": "Prodaja građevinskog placa 322m2, Bijela, Herceg Novi",
+  "description_language": "en",
+  "price_raw": "68000.00€",
+  "price_amount": 68000,
+  "price_currency": "EUR",
+  "advertiser_name": "Marinko",
+  "property_type": "land",
+  "city": "Herceg Novi",
+  "district": "Bijela",
+  "area_m2": null,
+  "amenities": [
+    "Komunalni priključak"
+  ],
+  "metadata_summary": "Na plac je PUP-om Herceg Novi dozvoljena gradnja objektamaksimalne površine 160m2, i BGP do 500m2 u najviše 3 etaže. Dovedena struja,voda, komunikacije, kanalizacija i ima betonski pristupni put uz plac. Vlasništvo je čisto, 1/1, bez tereta. Plac je pozicioniran iznad marketa HDL u Bijeloj, pored HercegNovog. Površine je 322m2, i namjenjen je za izgradnju porodičnog objekta. Imapravilan trapezasti oblik, priveden je namjeni, i ima pogled na more. Udaljenje od plaže 700m. Cijena je 68 000 eura. Može i kompezacija za garsonjeru u Podgoricu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!105",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267111467",
+      "name": "Marinko",
+      "email": null,
+      "source": "workbook:Not homes!105"
+    }
+  ],
+  "contact_phones": [
+    "+38267111467"
+  ],
+  "phone_e164": "+38267111467",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 322,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

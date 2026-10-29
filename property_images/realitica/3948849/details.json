@@ -1,0 +1,154 @@
+{
+  "source": "realitica",
+  "listing_id": "3948849",
+  "listing_url": "https://www.realitica.com/hr/listing/3948849",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948849"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 52,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3948849",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Podgorica",
+    "Lokacija": "Stari Aerodrom",
+    "Energetski Razred": "A+",
+    "Cijena": "€125.000",
+    "Godina Gradnje": "3",
+    "Spavaćih Soba": "1",
+    "Kupatila": "2",
+    "Stambena Površina": "48 m2",
+    "Klima Uređaj": true,
+    "Oglas Broj": "3948849",
+    "Postavljeno": "21 Oct, 2026",
+    "Zadnja Promjena": "24 Oct, 2026"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 125000,
+      "workbook_value": 120000,
+      "source": "workbook:Outreach list!52"
+    }
+  ],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0088.jpg",
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0108.jpg",
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0101.jpg",
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0103.jpg",
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0067.jpg",
+    "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0086.jpg"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Stan se nalazi na 2. katu nove zgrade s liftom, potpuno je namješten novim, čistim stvarima, ima dva prostrana balkona, dvije kupaonice i potpuno je opremljen liftom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:59.104380+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.090711+00:00",
+  "source_html_sha256": "f2124d13892b6dd3db2166581f122a61fb830fe9ce00424ce2dfdc5d9db821f4",
+  "title": "Prodajem Stan-Apartman, Stari Aerodrom",
+  "description_language": "hr",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "published_date_raw": "21 Oct, 2026",
+  "updated_date_raw": "24 Oct, 2026",
+  "area_m2": 48,
+  "bathrooms": 2,
+  "bedrooms": 1,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€125.000",
+  "price_amount": 125000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Stan se nalazi na 2. katu nove zgrade s liftom, potpuno je namješten novim, čistim stvarima, ima dva prostrana balkona, dvije kupaonice i potpuno je opremljen liftom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!52",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 95,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+905453158731",
+      "name": "A.Y",
+      "email": null,
+      "source": "workbook:Outreach list!52"
+    }
+  ],
+  "contact_phones": [
+    "+905453158731"
+  ],
+  "phone_e164": "+905453158731",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

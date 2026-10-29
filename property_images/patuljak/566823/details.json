@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "566823",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-50m2-stari-aerodrom-p--566823",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-50m2-stari-aerodrom-p--566823"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 907,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_566823",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Stambena kvadratura": "50 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_20.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem namjesten stan u prvoj zgradi na Starom Aerodromu. Ulaz pored lokala Sherlock Holmes.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:48.495987+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.917855+00:00",
+  "source_html_sha256": "7e4d44e05c64e2aecd3b646656bc8ac5329098f8f2285aabed0d2044be5d839f",
+  "title": "Za izdavanje jednosoban stan 50m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "450.00€",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "advertiser_name": "Petar",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "3",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 50,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem namjesten stan u prvoj zgradi na  Starom Aerodromu. Ulaz pored lokala Sherlock Holmes. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!907",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267214447",
+      "name": "Petar Mugoša",
+      "email": null,
+      "source": "workbook:Outreach list!907"
+    }
+  ],
+  "contact_phones": [
+    "+38267214447"
+  ],
+  "phone_e164": "+38267214447",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

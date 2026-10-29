@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "566770",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566770",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566770"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 615,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_566770",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2019",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Parking": "Garaža",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dfb3ecd9-d6cc-4788-ab28-23a81d609d97-lg.webp",
+    "https://content.estitor.com/8f70bd05-3bd1-40d0-80b7-3b1ed7a4ae87-lg.webp",
+    "https://content.estitor.com/c278f90f-78eb-41b8-8606-7e16bb355dc5-lg.webp",
+    "https://content.estitor.com/778fe73b-e4cc-4bb1-9644-2b4cd2a3a31b-lg.webp",
+    "https://content.estitor.com/80cf8912-4564-4cc5-94c1-4e76110f9a5f-lg.webp",
+    "https://content.estitor.com/45ece487-1a4f-40f7-bca7-6e0ab2a625d2-lg.webp",
+    "https://content.estitor.com/8e57d76a-1ef8-4538-b056-e8da7d221352-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Stan 103 kvadrata 5 sprat, dnevni boravak sa trpezarijom i kuhinjom i velikim otvorima koji izlaze na predivnu terasu sa mnogo lijepim pogledom , dvije spavace sobe, penthaus.\nDva kupatila za obije spavace sobe u spavacem bloku koji je odvojen hodnikom, plus obije spavace sobe takodje imaju svoje balkone. Gostinjski wc u prvom hodniku ulaznom. Mnogo luksuzno sve sredjeno novo potpuno .\nPoluopremljen sve ugradno i svi uredjaji ugradni. Plakari kuhinja (u stanu je i 11 umjetnickih djela akademskih slikara).\n+ 2 garazna mjesta\n+ 2 lifta u ulazu i nova zgrada\nStan 103 kvadrata 5 sprat, dnevni boravak sa trpezarijom i kuhinjom i velikim otvorima koji izlaze na predivnu terasu sa mnogo lijepim pogledom , dvije spavace sobe, penthaus.\nDva kupatila za obije spavace sobe u spavacem bloku koji je odvojen hodnikom, plus obije spavace sobe takodje imaju svoje balkone. Gostinjski wc u prvom hodniku ulaznom. Mnogo luksuzno sve sredjeno novo potpuno .\nPoluopremljen sve ugradno i svi uredjaji ugradni. Plakari kuhinja (u stanu je i 11 umjetnickih djela akademskih slikara).\n+ 2 garazna mjesta\n+ 2 lifta u ulazu i nova zgrada\nMoguce dodatno opremanje stana.\nizdavanje na godinu dana minimum.\nizdavanje na godinu dana minimum.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:49.657091+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.434886+00:00",
+  "source_html_sha256": "9e0ed29647c4fd1d437dac758d0546d994e438cf56fcdd2a96b59be9189a7a8a",
+  "title": "Izdavanje, dvosoban stan, 103m², Ljubović, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-06",
+  "updated_date": "2026-10-12",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 103,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "Neimenovani Put, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milena Vujovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 2,
+  "year_built": 2019,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Stan 103 kvadrata 5 sprat, dnevni boravak sa trpezarijom i kuhinjom i velikim otvorima koji izlaze na predivnu terasu sa mnogo lijepim pogledom , dvije spavace sobe, penthaus. Dva kupatila za obije spavace sobe u spav...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!615",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267521323",
+      "name": "Milena Vujovic",
+      "email": null,
+      "source": "workbook:Outreach list!615"
+    },
+    {
+      "phone_e164": "+38267521323",
+      "name": "Milena Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267521323"
+  ],
+  "phone_e164": "+38267521323",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

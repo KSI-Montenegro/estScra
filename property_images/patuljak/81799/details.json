@@ -1,0 +1,153 @@
+{
+  "source": "patuljak",
+  "listing_id": "81799",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan--81799",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan--81799"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 864,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_81799",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "7",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "56 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81799_17.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdajem komforan,prostran jednosoban stan od 56m².Veliki dnevni boravak sa veoma udobnom garniturom sa elektricnim podizacima.Trpezarija i kuhinja ,open space koncept.Klima 24000btu u dnevnoj i 12000btu u spavacoj sobi.Takodje ima i masinu za susenje vesa jer nema terasu,ali zato ima ogromnu ostavu duz cijelog stana u potkrovnom dijelu.Ima i parkig mjesto pod rampom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:17.512636+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.457858+00:00",
+  "source_html_sha256": "f4bb50bcac1c01f0d0da1a4eec3270098d0fe9c4cb9836713335fe3a6732d804",
+  "title": "Izdajem jednosoban stan",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Jelena",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "7",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 56,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": " Izdajem komforan,prostran jednosoban stan od 56m².Veliki dnevni boravak sa veoma udobnom garniturom sa elektricnim podizacima.Trpezarija i kuhinja ,open space koncept.Klima 24000btu u dnevnoj i 12000btu u spavacoj sobi.Takodje ima i masinu za susenje vesa jer nema terasu,ali zato ima ogromnu ostavu duz cijelog stana u potkrovnom dijelu.Ima i parkig mjesto pod rampom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!864",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269237750",
+      "name": "Jelena Raicevic",
+      "email": null,
+      "source": "workbook:Outreach list!864"
+    }
+  ],
+  "contact_phones": [
+    "+38269237750"
+  ],
+  "phone_e164": "+38269237750",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

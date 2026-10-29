@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "633024",
+  "listing_url": "https://patuljak.me/oglas/idajem-dvije-sobe-15-m2-gornja-gorica-podgorica-iz--633024",
+  "listing_urls": [
+    "https://patuljak.me/oglas/idajem-dvije-sobe-15-m2-gornja-gorica-podgorica-iz--633024"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 986,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_633024",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!986:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Gornja Gorica",
+    "Sprat": "Prizemlje",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Centralno (kotlarnica)",
+    "Primarna orijentacija": "Zasebno/a",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "15 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdajem jednokrevetnu sobu u Gornjoj Gorici, kompletno namještenu. Centralno grijanje, struja, voda, parking i zasebno kupatilo. Sve u jednu cijenu.\nZA VIŠE INF. POZOVITE NA BROJ\n+382 67 359908",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:35.510001+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.503302+00:00",
+  "source_html_sha256": "2b829624560756c18abc504adde6cf2d456624003b976d6a3103759e2fbfdc7f",
+  "title": "Idajem dvije sobe, 15 m2, Gornja Gorica, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milica",
+  "city": "Podgorica",
+  "district": "Gornja Gorica",
+  "floor_raw": "Prizemlje",
+  "heating_raw": "Centralno (kotlarnica)",
+  "parking_raw": "3 i više",
+  "area_m2": 15,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Izdajem jednokrevetnu sobu u Gornjoj Gorici, kompletno namještenu. Centralno grijanje, struja, voda, parking i zasebno kupatilo. Sve u jednu cijenu.ZA VIŠE INF. POZOVITE NA BROJ +382 67 359908",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!986",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268745528",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Outreach list!986"
+    }
+  ],
+  "contact_phones": [
+    "+38268745528"
+  ],
+  "phone_e164": "+38268745528",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

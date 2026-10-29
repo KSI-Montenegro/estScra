@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "604268",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-604268",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-604268"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 847,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_604268",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/0a6695ab-03cf-401c-91f1-21e9742a0d89-lg.webp",
+    "https://content.estitor.com/9cc241f1-2351-4fc4-9fae-165fa66b238c-lg.webp",
+    "https://content.estitor.com/0687d7aa-7497-4088-aa0b-4529c39ceeed-lg.webp",
+    "https://content.estitor.com/663cb2ea-a951-46e2-8416-33abb77b7b98-lg.webp",
+    "https://content.estitor.com/c9bcf83c-d3ad-4b30-aea0-a280f814765c-lg.webp",
+    "https://content.estitor.com/71920a4d-0e8c-44c8-b7c3-5dee539cbbd2-lg.webp",
+    "https://content.estitor.com/69137a97-af5d-47a1-9c10-b3f7f6349c5d-lg.webp",
+    "https://content.estitor.com/73e68dcf-a5ec-469a-b618-21018e95ee4f-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan i kompletno opremljen stan na ulazu u Cetinje. Idealna lokacija za ugodan život!\nOvaj renoviran stan površine 60.0 m² nalazi se u prizemlju i nudi optimalan raspored sa jednom spavaćom sobom,velikim dnevnim boravkom pogodnim za noćenje i jednim kupatilom. Pogodan je za studente, manje porodice i bračne parove koji traže komfor i praktičnost.\nStan je osunčan i smješten u mirnom kraju, ali istovremeno blizu svih važnih sadržaja, uključujući školu. Odmah je useljiv, što ga čini savršenim izborom za one koji traže brz i jednostavan prelazak u novi dom.\nUživajte u udobnosti koju pruža klimatizacija, kao i u opuštajućem dvorištu. Stan je opremljen svim neophodnim elementima uključujući predsoblje, funkcionalnu kuhinju i trpezariju. Dostupan je brz internet i kablovska televizija. Parking je obezbijeđen ispred objekta.\nNe propustite ovu priliku za kvalitetan najam na odličnoj lokaciji!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:07.774763+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.295131+00:00",
+  "source_html_sha256": "2e8c1efb493abd26e1fc3c1e695b5302156a9ca2523c0cc48d8a14c22fb7cb74",
+  "title": "Izdavanje, jednosoban stan, 60m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-29",
+  "updated_date": "2026-08-29",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 60,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "Mojkovačka, Cetinje, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Sandra Bjegovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 0,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan i kompletno opremljen stan na ulazu u Cetinje. Idealna lokacija za ugodan život!Ovaj renoviran stan površine 60.0 m² nalazi se u prizemlju i nudi optimalan raspored sa jednom spavaćom sobom,velikim d...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!847",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267265331",
+      "name": "Sandra Bjegovic",
+      "email": null,
+      "source": "workbook:Outreach list!847"
+    },
+    {
+      "phone_e164": "+38267265331",
+      "name": "Sandra Bjegovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267265331"
+  ],
+  "phone_e164": "+38267265331",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

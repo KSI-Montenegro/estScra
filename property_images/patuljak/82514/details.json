@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "82514",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-kuca-76-m2-mataguzi--82514",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-kuca-76-m2-mataguzi--82514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 144,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82514",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!144:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Mataguži",
+    "Broj soba": "1",
+    "Broj spratova": "1",
+    "Godina izgradnje": "Novogradnja",
+    "Namještena": "Da",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Parking mjesto": "1",
+    "Kanalizacija": "Septička jama",
+    "Stambena kvadratura": "76 m2",
+    "Kvadratura placa": "1000 m2",
+    "Kvadratura balkona": "14 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_1.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Kuća je novogradnja, potpuno sređena i opremljena, na ograđenom placu, obezbijeđena video nadzorom, ima parking garažno mjesto, u cijenu su uračunate sve režije (struja, voda, tv, internet, ostale komunalije), posjeduje mašinu za pranje vesa i suđa, el šporet, aspirator, frižider i zamrzivač odmah useljiva.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:51.315894+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.701458+00:00",
+  "source_html_sha256": "2f817d0bacb9dce08daf74adf88708a3e270dd62c3bbb855354fec071d37a147",
+  "title": "Izdavanje, Kuća 76 m2, Mataguži",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Zlatko",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Mataguži",
+  "building_floors_raw": "1",
+  "room_layout_raw": "1",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 76,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Kuća je novogradnja, potpuno sređena i opremljena, na ograđenom placu, obezbijeđena video nadzorom, ima parking garažno mjesto, u cijenu su uračunate sve režije (struja, voda, tv, internet, ostale komunalije), posjeduje mašinu za pranje vesa i suđa, el šporet, aspirator, frižider i zamrzivač odmah useljiva. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!144",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268004664",
+      "name": "Zlatko",
+      "email": null,
+      "source": "workbook:Outreach list!144"
+    }
+  ],
+  "contact_phones": [
+    "+38268004664"
+  ],
+  "phone_e164": "+38268004664",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

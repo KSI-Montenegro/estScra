@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "631535",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631535",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631535"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 918,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_631535",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Interfon": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/575f329e-1658-4094-9ad0-9f492a57bf22-lg.webp",
+    "https://content.estitor.com/c2a2166a-8dbf-40e3-a802-5cb4adaa1ec9-lg.webp",
+    "https://content.estitor.com/84df3adc-d222-45db-9af0-6356e68a83ee-lg.webp",
+    "https://content.estitor.com/1f13114e-bf07-4c31-8848-d77aaa0c3c46-lg.webp",
+    "https://content.estitor.com/71ac3c6e-69aa-4ab1-9640-fcf992d194cd-lg.webp",
+    "https://content.estitor.com/9e53ff65-b1b5-4245-810e-4e9dec33a13c-lg.webp",
+    "https://content.estitor.com/c6fe7c44-0d87-4abb-8e91-93001adad340-lg.webp",
+    "https://content.estitor.com/efd0217a-9986-4a27-97f8-5cd6a99de459-lg.webp",
+    "https://content.estitor.com/210c905e-f12d-41fa-bfc4-88eaf0c22c0f-lg.webp",
+    "https://content.estitor.com/57ff2dc7-070a-4af7-88f7-eeb56c4de827-lg.webp",
+    "https://content.estitor.com/f5e3adc2-ea25-45fd-b3da-18b278effdb3-lg.webp",
+    "https://content.estitor.com/212644c0-e98f-4b74-afc8-1e9f1a84f258-lg.webp",
+    "https://content.estitor.com/1b4c690a-976b-40c5-8968-a474b0a89a63-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se luksuzno opremljen jednosoban stan u prestižnom stambeno-poslovnom kompleksu Central Point, Faza 4.\nStan se nalazi na V spratu, površine je 50 m², sa pogledom na bulevar.\nEnterijer je pažljivo osmišljen, sa posebnim akcentom na kvalitet materijala, funkcionalnost i savremeni dizajn.\n● Unikatno dizajniran ugradni namještaj izrađen od prirodnog furnira i lakiranog medijapana visokog sjaja\n● Kuhinja sa premium Dekton radnom pločom\n● Namještaj, rasvjeta i oprema renomiranih brendova: Bosch, La Galeria, Euro Casa, KARE, Lumina, Vibia, TOOY, Foscarini\n● Kompletno opremljena kuhinja, uključujući posuđe i male kućne aparate\n● Obezbijeđeni posteljina, peškiri i svi neophodni detalji za udoban boravak\nMjesečna zakupnina: 900 €, sa uključenim garažnim mjestom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:56.368206+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.022445+00:00",
+  "source_html_sha256": "ed2dd7b42e873abc0c616aaf3a9f4545a41c15fb4fb47ff904a9434881ddb0c9",
+  "title": "Izdavanje, jednosoban stan, 50m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "139 Marka Radovića, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Marina Halloway",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jugozapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Interfon",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se luksuzno opremljen jednosoban stan u prestižnom stambeno-poslovnom kompleksu Central Point, Faza 4.Stan se nalazi na V spratu, površine je 50 m², sa pogledom na bulevar.Enterijer je pažljivo osmišljen, sa po...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!918",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267130660",
+      "name": "Marina Halloway",
+      "email": null,
+      "source": "workbook:Outreach list!918"
+    },
+    {
+      "phone_e164": "+38267130660",
+      "name": "Marina Halloway",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267130660"
+  ],
+  "phone_e164": "+38267130660",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

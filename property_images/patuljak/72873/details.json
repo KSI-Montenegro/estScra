@@ -1,0 +1,159 @@
+{
+  "source": "patuljak",
+  "listing_id": "72873",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-40m2-stari-aerodrom-podgor--72873",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-40m2-stari-aerodrom-podgor--72873"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 899,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_72873",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednosoban",
+    "Namješten": true,
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "40 m2",
+    "Balkon": true,
+    "Lift": true,
+    "Interfon": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Blindirana vrata": true,
+    "Klima": true,
+    "Kablovska TV": true,
+    "Video nadzor": true,
+    "Za studente": true,
+    "Uključen trošak režija": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72873_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban stan 40m2, Stari Aerodrom, Podgorica",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:43.407142+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.809495+00:00",
+  "source_html_sha256": "36fe442f1cd38b2ee7f507b67f857d0cdcc6989e2b6890ae3a1ed653ec82368d",
+  "title": "Izdajem jednosoban stan 40m2, Stari Aerodrom, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Kristina",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": true,
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 40,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten",
+    "Balkon",
+    "Lift",
+    "Interfon",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Blindirana vrata",
+    "Klima",
+    "Kablovska TV",
+    "Video nadzor",
+    "Za studente",
+    "Uključen trošak režija"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan 40m2, Stari Aerodrom, Podgorica ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!899",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269011141",
+      "name": "Kristina",
+      "email": null,
+      "source": "workbook:Outreach list!899"
+    }
+  ],
+  "contact_phones": [
+    "+38269011141"
+  ],
+  "phone_e164": "+38269011141",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

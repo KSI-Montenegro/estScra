@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "626333",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-626333",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-626333"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 157,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_626333",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Turisticki",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Hodnik": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dee7179d-ecd2-4070-9e83-891f69e08658-lg.webp",
+    "https://content.estitor.com/78582a5c-89d6-4e33-aca7-eef90e37127a-lg.webp",
+    "https://content.estitor.com/99bbd9a7-1aa4-4c71-a898-8bff35d821a7-lg.webp",
+    "https://content.estitor.com/dc8cd9cc-e560-426b-9f60-af2e0677b123-lg.webp",
+    "https://content.estitor.com/20052736-bd78-4437-b089-1c9ac56b22a3-lg.webp",
+    "https://content.estitor.com/6718607c-f3da-4ce1-b837-a942a9d0eb15-lg.webp",
+    "https://content.estitor.com/64a22e4b-d080-48b4-b30d-032009845904-lg.webp",
+    "https://content.estitor.com/a7a57caf-6f69-4db8-a537-2032579a7f37-lg.webp",
+    "https://content.estitor.com/5fd1babe-3747-4174-a848-2a5b6883a830-lg.webp",
+    "https://content.estitor.com/90a30ca7-02f5-4e8c-b78f-c6b97ef4bc70-lg.webp",
+    "https://content.estitor.com/954d372b-4306-4739-9e7a-cb409a476e8d-lg.webp",
+    "https://content.estitor.com/ad13b90b-1b54-49bc-8700-1120d2a96761-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Predstavljamo vam poslovnu priliku u Donjoj Lastvi.\nU okviru Ollie’s Hotel-a, dostupan je za dugoročni zakup potpuno nov i moderno opremljen kozmetički salon.\nProstor je spreman za rad, na atraktivnoj lokaciji i uređen po savremenim standardima.\nZa više informacija, kontaktirajte nas putem direktne poruke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:53.440717+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.196399+00:00",
+  "source_html_sha256": "c9d50fc175c4effc9e18f6c5cb9530ae3f6d92650dcfd3464994ee9e1a3baaee",
+  "title": "Izdavanje, poslovni prostor, 42m², Opatovo, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-30",
+  "updated_date": "2026-10-10",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 42,
+  "city": "Tivat",
+  "street_address": "Autobusko stajalište, Jadranska magistrala, Donja Lastva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vladan Rovčanin",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "Predstavljamo vam poslovnu priliku u Donjoj Lastvi.U okviru Ollie’s Hotel-a, dostupan je za dugoročni zakup potpuno nov i moderno opremljen kozmetički salon.Prostor je spreman za rad, na atraktivnoj lokaciji i uređen ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!157",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263222808",
+      "name": "Vladan Rovčanin",
+      "email": null,
+      "source": "workbook:Not homes!157"
+    },
+    {
+      "phone_e164": "+38263222808",
+      "name": "Vladan Rovčanin",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263222808"
+  ],
+  "phone_e164": "+38263222808",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

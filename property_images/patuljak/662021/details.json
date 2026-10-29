@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "662021",
+  "listing_url": "https://patuljak.me/oglas/plac-2600m2-dobra-voda-bar-prodaja--662021",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-2600m2-dobra-voda-bar-prodaja--662021"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 124,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_662021",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!124:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Dobra Voda",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "2600 m2",
+    "Urbanistička dozvola": true,
+    "Komunalni priključak": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/12/662021_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/12/662021_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/12/662021_1.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prostran plac sa prekrasnim pogledom u Dobroj Vodi, Bar\nPovrsina zemljista je 2600m2.\nPogodno za izgradnju kuća, vila, bungalova...\nPrilazni put, struja.\nPanoramski pogled na more i planine.\nUdaljenost od mora 3500 metara.\nTiho, živopisno, usamljeno mesto.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:38.253519+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.968102+00:00",
+  "source_html_sha256": "98c93fd86c5f513ed60a6259f78438722c8cc2199b24cfc6be6bbf667dd6f356",
+  "title": "Plac, 2600m2, Dobra Voda, Bar, Prodaja",
+  "description_language": "en",
+  "price_raw": "100.00€",
+  "price_amount": 100,
+  "price_currency": "EUR",
+  "advertiser_name": "Emina",
+  "property_type": "land",
+  "city": "Bar",
+  "district": "Dobra Voda",
+  "area_m2": null,
+  "amenities": [
+    "Urbanistička dozvola",
+    "Komunalni priključak"
+  ],
+  "metadata_summary": "Prostran plac sa prekrasnim pogledom u Dobroj Vodi, BarPovrsina zemljista je 2600m2.Pogodno za izgradnju kuća, vila, bungalova...Prilazni put, struja.Panoramski pogled na more i planine.Udaljenost od mora 3500 metara.Tiho, živopisno, usamljeno mesto.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!124",
+      "notes": "check deal: sale at 100 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267828343",
+      "name": "Emina",
+      "email": null,
+      "source": "workbook:Not homes!124"
+    }
+  ],
+  "contact_phones": [
+    "+38267828343"
+  ],
+  "phone_e164": "+38267828343",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2600,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

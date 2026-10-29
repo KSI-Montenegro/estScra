@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "607247",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-607247",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-607247"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 387,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_607247",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dc2ffb24-8411-4518-b011-757cbff39f13-lg.webp",
+    "https://content.estitor.com/c120f4e0-4f29-4fe1-a269-e6dbf56c0f3f-lg.webp",
+    "https://content.estitor.com/985b7c22-1a88-4e61-ae92-260522255f10-lg.webp",
+    "https://content.estitor.com/09f9087e-5aa6-4531-ae98-6beb151de628-lg.webp",
+    "https://content.estitor.com/ec1d3a0c-5d24-49bd-b1fc-48455cee3a46-lg.webp",
+    "https://content.estitor.com/f67fd8b9-5ad5-4b56-84c7-557aed99a1a0-lg.webp",
+    "https://content.estitor.com/16b4bacd-a26e-437e-8612-150a2faa148d-lg.webp",
+    "https://content.estitor.com/96635906-f0b3-4b1a-93a4-b381390e60da-lg.webp",
+    "https://content.estitor.com/1dffd5f6-7503-4f9a-a47c-67d5c4fae168-lg.webp",
+    "https://content.estitor.com/b11b171e-650f-45ab-81b4-f4725cf26bad-lg.webp",
+    "https://content.estitor.com/438cea4f-02a4-4eaa-bb65-dec1b313058e-lg.webp",
+    "https://content.estitor.com/dc91ad57-76df-4872-95e2-c1f620ab1aab-lg.webp",
+    "https://content.estitor.com/817df084-edf0-49b1-81a5-536c77170605-lg.webp",
+    "https://content.estitor.com/09bc1cac-7f03-4239-b002-33e1072fceb3-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan za izdavanje u mirnom naselju Mažina II, Tivat.\nOvaj moderni stan površine 40 m² nalazi se u novogradnji i smješten je na prizemlju, što omogućava direktan pristup prostranoj privatnoj bašti od 70 m² – idealno za opuštanje i uživanje na otvorenom. Stan je kompletno opremljen i spreman za useljenje.\nSastoji se od jedne udobne spavaće sobe, kupatila, te funkcionalno dizajnirane kuhinje i trpezarije. Za Vaš komfor obezbijeđena je klimatizacija, kao i priključci za kablovsku televiziju i internet.\nDodatne pogodnosti uključuju parking mjesto ispred objekta. Stanari zgrade imaju privilegiju korišćenja zajedničkog bazena tokom ljetnjih mjeseci, uz podjelu troškova održavanja.\nNalazi se u osunčanom dijelu Mažine, blizu škole, pružajući idealno okruženje za miran život. Odmah useljiv. Cijena po dogovoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:54.987859+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.183184+00:00",
+  "source_html_sha256": "f7f4493e78aaf09d85f020c01486a235bfe44170360f5f0a52a53985f4926c47",
+  "title": "Izdavanje, jednosoban stan, 40m², Mažina, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-03",
+  "updated_date": "2026-09-10",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Marija Bojovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan za izdavanje u mirnom naselju Mažina II, Tivat.Ovaj moderni stan površine 40 m² nalazi se u novogradnji i smješten je na prizemlju, što omogućava direktan pristup prostranoj privatnoj b...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!387",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267244741",
+      "name": "Marija Bojovic",
+      "email": null,
+      "source": "workbook:Outreach list!387"
+    },
+    {
+      "phone_e164": "+38267244741",
+      "name": "Marija Bojovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267244741"
+  ],
+  "phone_e164": "+38267244741",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

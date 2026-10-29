@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "30709",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-36m2-izdavanje--30709",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-36m2-izdavanje--30709"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 118,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_30709",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ljubović",
+    "Broj prostorija": "3",
+    "Sprat": "Suteren",
+    "Broj spratova": "4",
+    "Namješten": "Polunamješten",
+    "Godina izgradnje": "2010-2019",
+    "Vrsta poda": "Ostalo",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Jug",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "36 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/30709_5.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor 36m² u Podgorici, kod klinike Lajf u naselju Ljubović. Južno orijentisan ka Bulevaru, odvojen zelenilom koje pruža privatnost. Prostor se sastoji od velike kancelarije, čajne kuhinje i toaleta. Klimatizovan, vrata i prozori sa zaštitnim rešetkama. Izdaje se na duži period uz obavezan depozit.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:35.040982+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.929395+00:00",
+  "source_html_sha256": "e148ea45a5b645781f214bee3bce34e5f5c58a0a0b64c72078a8c7ccbaf7a4c4",
+  "title": "Poslovni prostor 36m2 izdavanje",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Marko",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Ljubović",
+  "floor_raw": "Suteren",
+  "building_floors_raw": "4",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 36,
+  "year_built": 2010,
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor 36m² u Podgorici, kod klinike Lajf u naselju Ljubović. Južno orijentisan ka Bulevaru, odvojen zelenilom koje pruža privatnost. Prostor se sastoji od velike kancelarije, čajne kuhinje i toaleta. Klimatizovan, vrata i prozori sa zaštitnim rešetkama. Izdaje se na duži period uz obavezan depozit. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!118",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268896708",
+      "name": "Marko Bešović",
+      "email": null,
+      "source": "workbook:Not homes!118"
+    }
+  ],
+  "contact_phones": [
+    "+38268896708"
+  ],
+  "phone_e164": "+38268896708",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "73094",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-danilovgrad--73094",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-danilovgrad--73094"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 99,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73094",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!99:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Gruda",
+    "Adresa": "bb",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "600 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73094_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Idealan plac za gradnju porodične kuće ili hale , UTU, 1/1, struja i voda u blizini, P+1+PK, može noviji auto + keš,\nCijena za keš 26000e u komp. 30000e\n\nBr tel: 069999634 viber, whats app",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:22.147155+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.794698+00:00",
+  "source_html_sha256": "171dc602d615cb38011f62d17546bb702b9c61eaaa86b9bfaf3fc441f38441b7",
+  "title": "Prodajem plac, Danilovgrad",
+  "description_language": "en",
+  "price_raw": "26000.00€",
+  "price_amount": 26000,
+  "price_currency": "EUR",
+  "advertiser_name": "bb",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Gruda",
+  "street_address": "bb",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Idealan plac za gradnju porodične kuće ili hale , UTU, 1/1, struja i voda u blizini, P+1+PK, može noviji auto + keš,Cijena za keš 26000e u komp. 30000eBr tel: 069999634 viber, whats app ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!99",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267833936",
+      "name": "bb",
+      "email": null,
+      "source": "workbook:Not homes!99"
+    }
+  ],
+  "contact_phones": [
+    "+38267833936"
+  ],
+  "phone_e164": "+38267833936",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 600,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

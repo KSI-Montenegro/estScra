@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "605154",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-605154",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-605154"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 725,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_605154",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5f4cfb13-2512-4f1f-8e10-2e007f1cd090-lg.webp",
+    "https://content.estitor.com/0eb7e97c-17bd-48b0-adff-aacd727ddb86-lg.webp",
+    "https://content.estitor.com/927e781a-2d45-49fe-a82b-20bda406d4bf-lg.webp",
+    "https://content.estitor.com/0701a764-79d4-438d-9ee8-2251162239b9-lg.webp",
+    "https://content.estitor.com/d3a1b0dd-3b68-4f1c-8207-af5692945e49-lg.webp",
+    "https://content.estitor.com/a296500b-6189-4a5f-bdad-a47f86d5ded3-lg.webp",
+    "https://content.estitor.com/eb34b4a2-48ba-41e0-8e62-dc7547196eae-lg.webp",
+    "https://content.estitor.com/988c1d90-d7a6-49f1-a963-9493b9214020-lg.webp",
+    "https://content.estitor.com/5e17d459-48f3-40fc-9361-59f0f9240786-lg.webp",
+    "https://content.estitor.com/01206af4-f7b7-468e-94ff-5d6ddf08191f-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "dozvoljene zivotinje",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:45.188607+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.037073+00:00",
+  "source_html_sha256": "563c4df69f5088617f8768c6414048e30df6a59e5cd6c5bbbf5ccecdd40d8c39",
+  "title": "Izdavanje, garsonjera, 69m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-31",
+  "updated_date": "2026-08-31",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 69,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "42 Vojvode Maša Đurovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Lovcenestate Me",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "dozvoljene zivotinje",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!725",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267496079",
+      "name": "Lovcenestate Me",
+      "email": null,
+      "source": "workbook:Outreach list!725"
+    },
+    {
+      "phone_e164": "+38267496079",
+      "name": "Lovcenestate Me",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267496079"
+  ],
+  "phone_e164": "+38267496079",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

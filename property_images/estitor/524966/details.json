@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "524966",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524966",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524966"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 87,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_524966",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Garaža",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/be06642e-6b79-4688-a459-caa3593d8b7a-lg.webp",
+    "https://content.estitor.com/8f1e05b9-0f37-45fa-8f51-089de5f9e0e3-lg.webp",
+    "https://content.estitor.com/1eeacbe0-109c-4ff8-98da-bc0a279c6d4d-lg.webp",
+    "https://content.estitor.com/b5c49006-4ae9-4d61-a6cb-10bf536f312c-lg.webp",
+    "https://content.estitor.com/e25b071d-9af4-4290-998b-7c89d344c09b-lg.webp",
+    "https://content.estitor.com/26cc85d9-5a14-419f-a3ed-df8dd03da9bb-lg.webp",
+    "https://content.estitor.com/c0c6feaf-b5f1-461f-8a28-b1da0c766d4d-lg.webp",
+    "https://content.estitor.com/0d92fbe1-5851-4dae-8c99-11b48004000d-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE | Zgrada Linea | 61m² | Garaža\n\nJednosoban dizajnerski stan od 61m² sa garažnim mjestom, luksuzno opremljen do posljednjeg detalja.\nEnterijer rađen pažljivo: brendirani namještaj, medijapan, mermerni detalji i lux rasvjeta.\n\nFunkcionalan raspored, kvalitetni materijali i moderan stil.\n\nStan je potpuno namješten i spreman za useljenje odmah.\nIdealan za ozbiljnog zakupca koji traži kvalitet, mir i dugoročno.\n\n✔ Garaža uključena\n✔ Dizajnerski / brendirani namještaj\n✔ Mermer + medijapan (premium završna obrada)\n✔ Savremena kuhinja\n✔ Lux rasvjeta\n✔ Dugoročni zakup",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:42.448773+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.502032+00:00",
+  "source_html_sha256": "e039f9f66e2852c55e8f8377e614aba60615d02fd895b63cb7a02542c3c97582",
+  "title": "Izdavanje, jednosoban stan, 61m², Kod Capital Plaze, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-19",
+  "updated_date": "2026-09-03",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 61,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dante Mne",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "IZDAJE SE | Zgrada Linea | 61m² | Garaža Jednosoban dizajnerski stan od 61m² sa garažnim mjestom, luksuzno opremljen do posljednjeg detalja. Enterijer rađen pažljivo: brendirani namještaj, medijapan, mermerni detalji ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!87",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268143007",
+      "name": "Dante Mne",
+      "email": null,
+      "source": "workbook:Likely agents!87"
+    },
+    {
+      "phone_e164": "+38268143007",
+      "name": "Dante Mne",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268143007"
+  ],
+  "phone_e164": "+38268143007",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

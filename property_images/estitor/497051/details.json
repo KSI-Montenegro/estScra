@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "497051",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-tivat/id-497051",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-tivat/id-497051"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 115,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_497051",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "2",
+    "Godina izgradnje": "2021",
+    "Parking": "Javni",
+    "Površina placa": "100",
+    "Udaljenost od mora": "30",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "100",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f6ca83cf-30c1-4894-9cf1-c01bff28ff69-lg.webp",
+    "https://content.estitor.com/5c5e4ce9-c843-4388-9345-a8a76c60c5d4-lg.webp",
+    "https://content.estitor.com/9c2ca67a-9d8b-4c50-b290-441e49d239e6-lg.webp",
+    "https://content.estitor.com/62d257d4-ec74-48f1-9f16-29f0c6f330b0-lg.webp",
+    "https://content.estitor.com/9b2630c0-51a6-4345-8470-5b004b754bcf-lg.webp",
+    "https://content.estitor.com/4d299cd4-bf42-4ea7-a705-178a5e0b9b39-lg.webp",
+    "https://content.estitor.com/087436de-4091-4205-be64-594d41296187-lg.webp",
+    "https://content.estitor.com/611f035e-8e26-4b01-a139-e4f3b75df526-lg.webp",
+    "https://content.estitor.com/accaa587-9bda-4a14-b7ee-c2164baceda5-lg.webp",
+    "https://content.estitor.com/7e76d4ed-bc18-4aed-8f5a-053e9353086e-lg.webp",
+    "https://content.estitor.com/81846408-98ab-42a6-b670-c6119c0c6654-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Lokacija Lepetane na svega 5min do centra Tivta. Zasebna dvoetazna Villa sa dvoristem i pogledom na more. Druga linija do mora. Lokalni parking u blizini objekta. Potpuno opremljena kuhinja, prostrana dnevna soba i wc su smjesteni u prizemlju Ville dok je spavaca soba sa kupatilom smjestena na spratu.\nProstrano ogradjeno dvoriste pogodno za goste sa kucnim ljubimcima. Prekrasan pogled na zaliv, trajekte, kruzere... Villa dostupna za mjesece od decembra - maja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:02.683634+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.798980+00:00",
+  "source_html_sha256": "66be15567d98c5e22fb7ee931969535df3f1c4dd040f38e817fc26b5489eef61",
+  "title": "Izdavanje, kuća, 70m², Lepetani, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-29",
+  "updated_date": "2026-09-30",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 70,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Jelena Serventi",
+  "deal_type": "rent",
+  "property_type": "house",
+  "parking_raw": "Javni",
+  "lot_area_m2": 100,
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "Lokacija Lepetane na svega 5min do centra Tivta. Zasebna dvoetazna Villa sa dvoristem i pogledom na more. Druga linija do mora. Lokalni parking u blizini objekta. Potpuno opremljena kuhinja, prostrana dnevna soba i wc...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!115",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269681931",
+      "name": "Jelena Serventi",
+      "email": null,
+      "source": "workbook:Likely agents!115"
+    },
+    {
+      "phone_e164": "+38269681931",
+      "name": "Jelena Serventi",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269681931"
+  ],
+  "phone_e164": "+38269681931",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

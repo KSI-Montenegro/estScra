@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "564320",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-564320",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-564320"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 411,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_564320",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "7. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/40702258-9e5d-4909-b3d6-67807ed4d42c-lg.webp",
+    "https://content.estitor.com/193aefb9-0da0-4ddd-8e17-985079ae9ba6-lg.webp",
+    "https://content.estitor.com/23116991-32a9-47c3-b7cd-1ce942ad2978-lg.webp",
+    "https://content.estitor.com/9200307e-a0d6-49db-a421-9e04c876ab27-lg.webp",
+    "https://content.estitor.com/c731ba19-1e38-4c83-8410-0b23f0f96fa0-lg.webp",
+    "https://content.estitor.com/1533602d-de7a-45aa-92a6-3c0261e291fd-lg.webp",
+    "https://content.estitor.com/5e99c561-c8fb-4215-b6ce-404b026f1572-lg.webp",
+    "https://content.estitor.com/f268d174-6459-4c5b-8058-e47ac06c9789-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Budva, Maslinjak – Vaš idealan dom čeka! Predstavljamo Vam izvanredan jednosoban stan od 43.0 m² za izdavanje, dugorocno dostupan od septembra 2026 sa parkinog, smješten u mirnom dijelu Maslinjaka, Budva. Ovaj opremljen stan u novogradnji nalazi se u kompleksu zgrada čija je pozicija idealna za udoban i miran život ili opuštajući odmor, na samo 7-8 minuta laganog hoda do mora. Stan nudi sve što Vam je potrebno za ugodan boravak:\n- Dnevna soba: Prostrana, sa udobnom ugaonom garniturom na mehanizam (pogodnom za 2 osobe).\n- Spavaća soba: Odvojena, opremljena prostranim bračnim krevetom (za 2 osobe).\n- Terasa: S pogledom na zeleni pojas, opremljena garniturom za sjedenje – idealna za jutarnju kafu ili večernje opuštanje.\n- Kompletno opremljena kuhinja: Sa svim potrebnim tehničkim uređajima.\n- Kupatilo: Moderno i funkcionalno.\nDodatne pogodnosti uključuju Klimatizaciju, brz Internet (Wi-Fi), Kablovsku TV sa dva televizora, Interfon i Lift za lak pristup. Stan ima i prostrano predsoblje i hodnik. Javni parking je dostupan u okolini zgrade, obezbjeđujući lako parkiranje. Ovaj komforan stan je savršen izbor za dugoročni najam ili kratkotrajni odmor u Budvi. Dobrodošli!, Novogradnja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:06.658773+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.327416+00:00",
+  "source_html_sha256": "d342e9f248bf9a7012ec203bd51418c7b85673c4205e032e907ad27eb5412415",
+  "title": "Izdavanje, jednosoban stan, 43m², Maslinjak, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-31",
+  "updated_date": "2026-08-31",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Marko Markovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "7. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Budva, Maslinjak – Vaš idealan dom čeka! Predstavljamo Vam izvanredan jednosoban stan od 43.0 m² za izdavanje, dugorocno dostupan od septembra 2026 sa parkinog, smješten u mirnom dijelu Maslinjaka, Budva. Ovaj opremlj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!411",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267399819",
+      "name": "Marko Markovic",
+      "email": null,
+      "source": "workbook:Outreach list!411"
+    },
+    {
+      "phone_e164": "+38267399819",
+      "name": "Marko Markovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267399819"
+  ],
+  "phone_e164": "+38267399819",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

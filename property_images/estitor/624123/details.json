@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "624123",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-624123",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-624123"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 351,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_624123",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Podrum",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2005",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/99fc24d0-00c6-4781-bed5-6e0d47dcd2dd-lg.webp",
+    "https://content.estitor.com/1e7de239-996e-4bfb-89a9-6bed1a5c3ac7-lg.webp",
+    "https://content.estitor.com/49a6aa5f-0007-422e-90c2-393ea48bcc8d-lg.webp",
+    "https://content.estitor.com/4063745e-026c-42d6-90c8-43ec02e091e4-lg.webp",
+    "https://content.estitor.com/a045fa5c-9d8c-40a9-87a8-32e7f5b64ca6-lg.webp",
+    "https://content.estitor.com/e96245b3-76da-4678-a956-c1089a5b1fa1-lg.webp",
+    "https://content.estitor.com/5ff4a78d-3b1f-43ca-a052-2ff72727db2e-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Mirno mjesto, okruzeno zelenilom, do centra grada 10 minuta, parking ispred stana, stan je u privatnoj kući, izdaje se za jednu ili dvije osobe.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:37.044791+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.959820+00:00",
+  "source_html_sha256": "024da1168404a797bd013d793dd7200c77f924da5ec8fae201cd7596355dba72",
+  "title": "Izdavanje, jednosoban stan, 45m², Stari Grad, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-26",
+  "updated_date": "2026-09-26",
+  "price_amount": 280,
+  "price_currency": "EUR",
+  "price_raw": "280 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "Spasića I mašare bb herceg novi ",
+  "country": "ME",
+  "advertiser_name": "Miki Ivanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Podrum",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2005,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Mirno mjesto, okruzeno zelenilom, do centra grada 10 minuta, parking ispred stana, stan je u privatnoj kući, izdaje se za jednu ili dvije osobe.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!351",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267224485",
+      "name": "Miki Ivanovic",
+      "email": null,
+      "source": "workbook:Outreach list!351"
+    },
+    {
+      "phone_e164": "+38267224485",
+      "name": "Miki Ivanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267224485"
+  ],
+  "phone_e164": "+38267224485",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

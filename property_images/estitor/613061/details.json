@@ -1,0 +1,147 @@
+{
+  "source": "estitor",
+  "listing_id": "613061",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-613061",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-613061"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 751,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613061",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Parking": "Ispred objekta",
+    "Površina placa": "300",
+    "Površina placa m2": "300"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a2b0abc7-fa8a-4812-ab2e-798863507659-lg.webp",
+    "https://content.estitor.com/46e5d513-ea9e-4ca0-a0f7-23eb95c1fc29-lg.webp",
+    "https://content.estitor.com/951bfa66-212c-4f97-bf46-592e3cddbf33-lg.webp",
+    "https://content.estitor.com/8e61ea8b-7bf4-4dd5-89b8-30659a0e9ed0-lg.webp",
+    "https://content.estitor.com/b44d6726-7039-4d6d-95dd-c36186c27f77-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Novogradnja, Miran kraj, Pogled na more. Za više informacija pozvati",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:59.360992+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.236274+00:00",
+  "source_html_sha256": "cae66b8e02897948e678dcc5481ccb2d7b25eca09af7388bbce3867e0a51e15b",
+  "title": "Izdavanje, kuća, 60m², Haj-Nehaj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-09",
+  "updated_date": "2026-09-09",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 60,
+  "rooms": 4,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "E80, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nemanja Mrvaljevic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "lot_area_m2": 300,
+  "balconies": 1,
+  "year_built": 2020,
+  "property_type_raw": "Kuća",
+  "amenities": [],
+  "metadata_summary": "Novogradnja, Miran kraj, Pogled na more. Za više informacija pozvati",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!751",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381642055403",
+      "name": "Nemanja Mrvaljevic",
+      "email": null,
+      "source": "workbook:Outreach list!751"
+    },
+    {
+      "phone_e164": "+381642055403",
+      "name": "Nemanja Mrvaljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381642055403"
+  ],
+  "phone_e164": "+381642055403",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,147 @@
+{
+  "source": "estitor",
+  "listing_id": "531630",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-531630",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-531630"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 189,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_531630",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b9930436-7451-4e5a-b73e-611b72842584-lg.webp",
+    "https://content.estitor.com/b14a484f-bcd0-4bff-9c0f-5c641655c6ea-lg.webp",
+    "https://content.estitor.com/516328fe-0c87-495e-af07-bf217364ca38-lg.webp",
+    "https://content.estitor.com/dcac8def-ae7d-40b6-b30a-bb0ba72617c2-lg.webp",
+    "https://content.estitor.com/78f683ca-ccf1-4a8f-9cc1-f9904ed8617a-lg.webp",
+    "https://content.estitor.com/fcada4b8-6193-4ccc-91b5-bac6f6611c4b-lg.webp",
+    "https://content.estitor.com/5d0ba438-7164-4fc1-8aad-cc685a16d7c4-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se odličan poslovni prostor u Podgorici, smješten u mirnom kraju, idealnom za fokus i produktivnost. Ovaj multifunkcionalni prostor od 60.0 m² nudi izuzetnu priliku za razvoj vašeg poslovanja.\n\nProstor je neopremljen, što vam omogućava potpunu slobodu u kreiranju enterijera po vašim potrebama i brend identitetu. Sastoji se od dvije prostrane sobe koje mogu služiti kao odvojene kancelarije ili radni prostori, te jednog kupatila. Udobnost tokom cijele godine obezbijeđena je modernom klimatizacijom.\n\nIdealno za advokatske kancelarije, IT firme, konsultantske agencije, kozmetičke salone, ordinacije ili bilo koju djelatnost koja zahtijeva profesionalno i prijatno okruženje. Nalazi se u pristupačnom dijelu grada, sa lakim pristupom glavnim saobraćajnicama.\n\nNe propustite ovu jedinstvenu priliku! Cijena najma je povoljnih 500.0 EUR. Za više informacija i zakazivanje obilaska, kontaktirajte nas odmah. Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:12.769646+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.421206+00:00",
+  "source_html_sha256": "0470183fd8550c3e1f5104bb115270e1099c814ccdd2805917dc909ccc89e6e8",
+  "title": "Izdavanje, poslovni prostor, 60m², Stara Varoš, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-03-09",
+  "updated_date": "2026-09-11",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Crnogorskih Serdara, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vladana Vukčević",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se odličan poslovni prostor u Podgorici, smješten u mirnom kraju, idealnom za fokus i produktivnost. Ovaj multifunkcionalni prostor od 60.0 m² nudi izuzetnu priliku za razvoj vašeg poslovanja. Prostor je neopre...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!189",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267021255",
+      "name": "Vladana Vukčević",
+      "email": null,
+      "source": "workbook:Not homes!189"
+    },
+    {
+      "phone_e164": "+38267021255",
+      "name": "Vladana Vukčević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267021255"
+  ],
+  "phone_e164": "+38267021255",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "84220",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-kolasin-40m-kvadratnih--84220",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-kolasin-40m-kvadratnih--84220"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 20,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84220",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!20:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Centar",
+    "Broj prostorija": "3",
+    "Stambena kvadratura": "40 m2",
+    "Sprat": "1",
+    "Broj spratova": "1",
+    "Namješten": "Polunamješten",
+    "Godina izgradnje": "2010-2019",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Drva",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "1",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84220_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:33.873971+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.212376+00:00",
+  "source_html_sha256": "10bbc9b4ac432cd0ebfdf10db7fb057e13e811b63fbb7c0a75a6dcd3e90a8cf5",
+  "title": "Izdaje se poslovni prostor - Kolašin 40m kvadratnih - strogi centar Kolašina",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Dejan",
+  "property_type": "commercial",
+  "city": "Kolašin",
+  "district": "Centar",
+  "floor_raw": "1",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Drva",
+  "parking_raw": "1",
+  "area_m2": 40,
+  "year_built": 2010,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor - Kolašin 40m kvadratnih - strogi centar Kolašina",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!20",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268670980",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Not homes!20"
+    }
+  ],
+  "contact_phones": [
+    "+38268670980"
+  ],
+  "phone_e164": "+38268670980",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

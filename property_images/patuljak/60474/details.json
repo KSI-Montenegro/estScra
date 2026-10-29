@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "60474",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-zemljiste-sa-kristalno-cistom-rijekom-k--60474",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-zemljiste-sa-kristalno-cistom-rijekom-k--60474"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 104,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_60474",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!104:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Crkvine",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "4900 m2",
+    "Građevinska dozvola": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_2.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Горная река, протекающая через участок — настоящая редкость в Черногории!\n\nУникальный участок в горной части Черногории, покрытый реликтовым лесом, расположенный по обеим сторонам кристально чистого горного ручья (река Бистрица).\n• Река берет начало всего в нескольких сотнях метров выше участка — из пещерного водопада, питаемого подземной рекой.\n• Кристально чистая питьевая вода течет по участку круглый год.\n• Старый буковый лес и река создают свежий и приятный микроклимат даже летом.\n• Возможна покупка для иностранных граждан.\n• Район известен туристическими маршрутами, национальными парками, заповедниками, турами на внедорожниках и т. д. Знаменитый горнолыжный центр Колашин с отелями, ресторанами и супермаркетами находится всего в 10 минутах езды.\n⸻\nЧто уже есть на участке + потенциал для строительства\n• 4 существующих законно построенных здания — допускается реконструкция в тех же размерах без дополнительных разрешений\n• Градостроительный участок: разрешенное строительство до 200 м² на каждые 1000 м²\n• Несколько естественных террас, идеально подходящих для строительства\n• Прекрасный вид со всех сторон\n• Возможность покупки иностранными гражданами\n⸻\n⚡️ Инфраструктура\n• Подключение к электросети подведено непосредственно к главному зданию\n• Дополнительный природный источник воды всего в 100 метрах\n• Надежные источники воды: река + родник\n⸻\n???? Вот такие места в Черногории:\n• имеют ограниченный тираж и не могут быть повторены\n• подлежат все более строгим строительным нормам\n• пользуются все большим спросом среди иностранных покупателей\n⸻\nЭто не просто сюжет.\nЭто уникальная природная ценность, которую невозможно воспроизвести.\n⸻\n\nМестоположение : горный район недалеко от Колашина — в 10 минутах от горнолыжного центра.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:25.646257+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.823078+00:00",
+  "source_html_sha256": "e38f2788e41ef73e08bc059fd5c425aa9a3222c5e469f5d5df3777a2a1cd5470",
+  "title": "Prodaje se zemljište sa kristalno čistom rijekom koja protiče kroz njega",
+  "description_language": "en",
+  "price_raw": "149000.00€",
+  "price_amount": 149000,
+  "price_currency": "EUR",
+  "advertiser_name": "Alexander",
+  "property_type": "land",
+  "city": "Kolašin",
+  "district": "Crkvine",
+  "area_m2": null,
+  "amenities": [
+    "Građevinska dozvola"
+  ],
+  "metadata_summary": "Горная река, протекающая через участок — настоящая редкость в Черногории! Уникальный участок в горной части Черногории, покрытый реликтовым лесом, расположенный по обеим сторонам кристально чистого горного ручья (река Бистрица).• Река берет начало всего в нескольких сотнях метров выше участка — из пещерного водопада, питаемого подземной рекой. • Кристально чистая питьевая вода течет по участку круглый год. • Старый буковый лес и река создают свежий и приятный микроклимат даже летом. • Возможна покупка для иностранных граждан. • Район известен туристическими маршрутами, национальными парками, заповедниками, турами на внедорожниках и т. д. Знаменитый горнолыжный центр Колашин с отелями, ресторанами и супермаркетами находится всего в 10 минутах езды.⸻Что уже есть на участке + потенциал для строительства• 4 существующих законно построенных здания — допускается реконструкция в тех же размерах без дополнительных разрешений • Градостроительный участок: разрешенное строительство до 200 м² на каждые 1000 м² • Несколько естественных террас, идеально подходящих для строительства • Прекрасный вид со всех сторон • Возможность покупки иностранными гражданами⸻⚡️ Инфраструктура• Подключение к электросети подведено непосредственно к главному зданию • Дополнительный природный источник воды всего в 100 метрах • Надежные источники воды: река + родник⸻???? Вот такие места в Черногории:• имеют ограниченный тираж и не могут быть повторены • подлежат все более строгим строительным нормам • пользуются все большим спросом среди иностранных покупателей⸻Это не просто сюжет. Это уникальная природная ценность, которую невозможно воспроизвести.⸻Местоположение :  горный район недалеко от Колашина — в 10 минутах от горнолыжного центра.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!104",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268701275",
+      "name": "Alexander",
+      "email": null,
+      "source": "workbook:Not homes!104"
+    }
+  ],
+  "contact_phones": [
+    "+38268701275"
+  ],
+  "phone_e164": "+38268701275",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4900,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

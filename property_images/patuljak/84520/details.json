@@ -1,0 +1,159 @@
+{
+  "source": "patuljak",
+  "listing_id": "84520",
+  "listing_url": "https://patuljak.me/oglas/prostran-i-namjesten-jednoiposoban-stan-preko-mora--84520",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prostran-i-namjesten-jednoiposoban-stan-preko-mora--84520"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 430,
+      "column": "ad_url"
+    },
+    {
+      "sheet": "Rejected",
+      "row": 68,
+      "column": "url"
+    }
+  ],
+  "property_key": "patuljak_84520",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Jednoiposoban",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Kvadratura": "61 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "description_mentions_both_sale_and_rent"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84520_2.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Prodaje se komforan jednosoban stan, ukupne stvarne površine od 63 m², smješten na jednoj od najatraktivnijih lokacija u Podgorici – u prestižnom kvartu Preko Morače. Nalazi se u zgradi kod Alpe bara, poznatoj po kvalitetu i centralnoj poziciji.\nStan je pozicioniran na prvom spratu zgrade koja je opremljena liftom, nudeći lakoću pristupa. Kompletno je opremljen i spreman za useljenje, što ga čini idealnim za odmah useljiv dom ili kao unosnu investiciju za izdavanje.\nRaspored prostorija je izuzetno funkcionalan i prostran za jednosoban stan: sastoji se od svijetlog dnevnog boravka, odvojene kuhinje sa trpezarijom, komforne spavaće sobe, kupatila, hodnika i praktične ostave (špajza). Stan je južno orijentisan, osiguravajući obilje prirodne svjetlosti tokom cijelog dana, što ga čini toplim i veoma prijatnim za boravak. Udobnost tokom cijele godine garantuje ugrađena klimatizacija.\nUz stan dolazi i korisna podrumska prostorija, koja pruža dodatni skladišni prostor. U okolini zgrade dostupan je i javni parking, što je velika prednost u ovom urbanom dijelu grada.\nLokacija je neponovljiva: u neposrednoj blizini su fakulteti, škole, restorani, kafići i poslovne zone, što omogućava lagodan život bez potrebe za dugim putovanjima. Renoviran, uknjižen i odmah useljiv, ovaj stan predstavlja odličnu investiciju i savršen izbor za one koji traže kvalitetan životni prostor na vrhunskoj lokaciji.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:15.056181+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.433385+00:00",
+  "source_html_sha256": "3d38bc67cf5c6a066e696f4783db625bff0a663005d497aba912c06c92148873",
+  "title": "Prostran i namješten jednoiposoban stan Preko Morače -zgrada Alpe bar",
+  "description_language": "en",
+  "price_raw": "210000.00€",
+  "price_amount": 210000,
+  "price_currency": "EUR",
+  "advertiser_name": "Nikola",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednoiposoban",
+  "furnishing_raw": "Da",
+  "area_m2": 61,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodaje se komforan jednosoban stan, ukupne stvarne površine od 63 m², smješten na jednoj od najatraktivnijih lokacija u Podgorici – u prestižnom kvartu Preko Morače. Nalazi se u zgradi kod Alpe bara, poznatoj po kvalitetu i centralnoj poziciji.Stan je pozicioniran na prvom spratu zgrade koja je opremljena liftom, nudeći lakoću pristupa. Kompletno je opremljen i spreman za useljenje, što ga čini idealnim za odmah useljiv dom ili kao unosnu investiciju za izdavanje.Raspored prostorija je izuzetno funkcionalan i prostran za jednosoban stan: sastoji se od svijetlog dnevnog boravka, odvojene kuhinje sa trpezarijom, komforne spavaće sobe, kupatila, hodnika i praktične ostave (špajza). Stan je južno orijentisan, osiguravajući obilje prirodne svjetlosti tokom cijelog dana, što ga čini toplim i veoma prijatnim za boravak. Udobnost tokom cijele godine garantuje ugrađena klimatizacija.Uz stan dolazi i korisna podrumska prostorija, koja pruža dodatni skladišni prostor. U okolini zgrade dostupan je i javni parking, što je velika prednost u ovom urbanom dijelu grada.Lokacija je neponovljiva: u neposrednoj blizini su fakulteti, škole, restorani, kafići i poslovne zone, što omogućava lagodan život bez potrebe za dugim putovanjima. Renoviran, uknjižen i odmah useljiv, ovaj stan predstavlja odličnu investiciju i savršen izbor za one koji traže kvalitetan životni prostor na vrhunskoj lokaciji.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!430",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267214554",
+      "name": "Nikola",
+      "email": null,
+      "source": "workbook:Outreach list!430"
+    }
+  ],
+  "contact_phones": [
+    "+38267214554"
+  ],
+  "phone_e164": "+38267214554",
+  "lead_categories": [
+    "Outreach list",
+    "Rejected"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

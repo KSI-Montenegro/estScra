@@ -1,0 +1,56 @@
+# Izdavanje, dvosoban stan, 65m², Zabjelo, Podgorica
+
+Source: https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617176
+
+- Deal: rent
+- Property type: apartment
+- Published price: 400 EUR
+- Price amount: 400
+- Currency: EUR
+- City: Podgorica
+- Address: AVNOJ-a, Podgorica, Montenegro
+- Area (m²): 65
+- Bedrooms: 2
+- Bathrooms: 1
+- Floor: 2. sprat
+- Furnishing: Da
+- Parking: Ispred objekta
+
+## Original listing description
+
+Idealan dvosoban stan za život i rad od kuće – Zabjelo
+Na odličnoj i veoma praktičnoj lokaciji na Zabjelu, u blizini La Colline, izdaje se funkcionalan i prijatan dvosoban stan, smješten u mirnom naselju idealnom za svakodnevni život.
+Lokacija: Zabjelo – kod La Colline
+U neposrednoj blizini nalaze se osnovna škola, Hard Diskont Laković i Đumbo, što lokaciju čini izuzetno praktičnom za svakodnevne potrebe.
+Stan je posebno pogodan za parove, zaposlene osobe i sve koji žele da spoje kvalitetan životni prostor sa mogućnošću rada od kuće.
+U cijenu su uključene sve komunalije, internet i kablovska televizija, dok se električna energija plaća posebno, prema potrošnji.
+
+Zabjelo'da yaam ve home office için ideal 2 odal daire
+La Colline yaknlarnda, Zabjelo'da çok iyi ve oldukça pratik bir konumda, sakin bir mahallede bulunan kullanl ve konforlu 2 odal daire kiralktr.
+Konum: Zabjelo – La Colline yaknlar
+Dairenin yaknnda ilkokul, Hard Diskont Laković ve Đumbo bulunmaktadr.
+Daire özellikle çiftler, çalan kiiler ve yaam alann home office ile birletirmek isteyenler için uygundur.
+Fiyata tüm ortak giderler, internet ve kablolu TV dahildir. Elektrik faturas ise tüketime göre ayrca ödenmektedir.
+
+Идеальная двухкомнатная квартира для жизни и работы из дома — Забьело
+Сдаётся уютная и функциональная двухкомнатная квартира в отличном районе Забьело, недалеко от La Colline.
+Расположение: Забьело — район La Colline
+Квартира расположена в тихом и спокойном жилом районе. В непосредственной близости находятся начальная школа, Hard Diskont Laković и Đumbo.
+Квартира особенно подходит для пары, работающих специалистов и тех, кто хочет совмещать комфортное проживание с возможностью работать из дома.
+В стоимость включены все коммунальные расходы, интернет и кабельное телевидение. Электроэнергия оплачивается отдельно в соответствии с фактическим потреблением.
+
+## Published amenities
+
+- Opremljen
+- Klimatizacija
+- Internet
+- Dvorište
+- Kablovska
+- Predsoblje
+- Kuhinja
+- Hodnik
+- Trpezarija
+- Novogradnja
+- Lux
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

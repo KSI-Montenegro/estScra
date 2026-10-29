@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "638579",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638579",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638579"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 114,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_638579",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "0",
+    "Broj etaža": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c1aff219-b971-46cb-b2ad-03fb2b2ec9e9-lg.webp",
+    "https://content.estitor.com/6d2b292f-0a71-4880-8b9b-09fe0ee143e0-lg.webp",
+    "https://content.estitor.com/60ef5337-c987-4fed-b1d4-85c0cd796871-lg.webp",
+    "https://content.estitor.com/b6a756b6-edc7-4b1e-8fc5-b3621b529768-lg.webp",
+    "https://content.estitor.com/bfd8b034-1f39-492e-9e12-b21036af5130-lg.webp",
+    "https://content.estitor.com/155127aa-fed3-4596-ab90-5247ee41cf3f-lg.webp",
+    "https://content.estitor.com/5bbf6a25-3670-405e-8061-7ecc30057ea1-lg.webp",
+    "https://content.estitor.com/5b25a403-0b72-421c-9c3a-997396fabadb-lg.webp",
+    "https://content.estitor.com/987af763-5508-465e-bd8f-d952ded702e2-lg.webp",
+    "https://content.estitor.com/33810809-3a93-4166-8c56-9d156d2d5eab-lg.webp",
+    "https://content.estitor.com/7378b523-07f7-4a04-b842-4297e4444a6b-lg.webp",
+    "https://content.estitor.com/b26d68bd-4d49-40e6-9079-d9a17c6dd344-lg.webp",
+    "https://content.estitor.com/db061dcb-da57-468d-8e48-e34fbf109b44-lg.webp",
+    "https://content.estitor.com/f137f019-6fd6-46d9-ba85-864300ee110e-lg.webp",
+    "https://content.estitor.com/5682bea4-87a1-4d98-b062-de0ff3184eff-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostrani dvosobni stan površine 98.0 m², smješten u prizemlju porodične kuće u naselju Čeluga u Baru.\nStan je potpuno opremljen, posjeduje klimatizaciju (u dnevnoj i spavaćoj sobi), brzi internet, kablovsku televiziju i videonadzor za dodatnu sigurnost.\nRaspored prostorija obuhvata predsoblje, hodnik, trpezariju, kuhinju, dvije spavaće sobe, prostranu dnevnu sobu u kojoj se može reorganizovati i jedan dio za radni prostor, vešeraj i kupatilo, kao i zasebnu terasu, dok se parking nalazi ispred objekta u dvorištu.\nLokacija je idealna – objekat se nalazi uz magistralu, okružen zelenilom, što obezbjeđuje mir i izolovanost od gradske buke. U neposrednoj blizini su pekara, supermarket i poslovnica pošte, pružajući sve neophodne sadržaje na dohvat ruke. Odlično pozicioniran za komforan život u Baru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:02.377320+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.794069+00:00",
+  "source_html_sha256": "de56a7c371a4c8a36f0a3d452d07972aa8593323f9e2af32da9dadf2d3b94f07",
+  "title": "Izdavanje, kuća, 98m², Čeluga, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 98,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Staša",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se prostrani dvosobni stan površine 98.0 m², smješten u prizemlju porodične kuće u naselju Čeluga u Baru.Stan je potpuno opremljen, posjeduje klimatizaciju (u dnevnoj i spavaćoj sobi), brzi internet, kablovsku ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!114",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269544414",
+      "name": "Staša",
+      "email": null,
+      "source": "workbook:Likely agents!114"
+    },
+    {
+      "phone_e164": "+38269544414",
+      "name": "Staša",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269544414"
+  ],
+  "phone_e164": "+38269544414",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,137 @@
+{
+  "source": "patuljak",
+  "listing_id": "78423",
+  "listing_url": "https://patuljak.me/oglas/dvije-kuce-i-dva-bungalova-zabljak--78423",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvije-kuce-i-dva-bungalova-zabljak--78423"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 764,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78423",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Ostalo",
+    "Broj soba": "7",
+    "Broj spratova": "5+",
+    "Namještena": "Polunamješten",
+    "Stambena kvadratura": "150 m2",
+    "Kvadratura placa": "1000 m2"
+  },
+  "quality_flags": [
+    "description_mentions_both_sale_and_rent"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78423_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78423_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78423_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78423_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78423_4.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Prodajem dvije kuce i dva bungalova na placu od 1000m2.\nNavedeni objekti se nalaze u Podgori u prelijepom ambijentu,okruzeni borovom sumom.Od centra Zabljaka su udaljeni oko 6km,sa druge strane je kanjon Tare koji je udaljen 2-3km.Do kuca su dovedeni struja i voda,placene komunalije,bungalovi se izdaju u toku ljetne sezone.\nMoguca je kompenzacija za manji stan u Pg ili automobil do\n15000e,uz vasu doplatu.\nOmogucena je legalizacija,objekti su uknjizeni u katastar i papiri su predati za legalizaciju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:07.397054+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.366584+00:00",
+  "source_html_sha256": "f9069f3543b07402120dfec3b882276899871e3012fc59370a55fe95e5f5cd21",
+  "title": "Dvije kuće i dva bungalova, Žabljak",
+  "description_language": "en",
+  "price_raw": "173000.00€",
+  "price_amount": 173000,
+  "price_currency": "EUR",
+  "advertiser_name": "Zoran",
+  "property_type": "house",
+  "city": "Žabljak",
+  "district": "Ostalo",
+  "building_floors_raw": "5+",
+  "room_layout_raw": "7",
+  "area_m2": 150,
+  "amenities": [],
+  "metadata_summary": "Prodajem dvije kuce i dva bungalova na placu od 1000m2.Navedeni objekti se nalaze u Podgori u prelijepom ambijentu,okruzeni borovom sumom.Od centra Zabljaka su udaljeni oko 6km,sa druge strane je kanjon Tare koji je udaljen 2-3km.Do kuca su dovedeni struja i voda,placene komunalije,bungalovi se izdaju u toku ljetne sezone.Moguca je kompenzacija za manji stan u Pg ili automobil do15000e,uz vasu doplatu.Omogucena je legalizacija,objekti su uknjizeni u katastar i papiri su predati za legalizaciju.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!764",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267528505",
+      "name": "Zoran",
+      "email": null,
+      "source": "workbook:Outreach list!764"
+    }
+  ],
+  "contact_phones": [
+    "+38267528505"
+  ],
+  "phone_e164": "+38267528505",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,137 @@
+{
+  "source": "patuljak",
+  "listing_id": "80144",
+  "listing_url": "https://patuljak.me/oglas/povoljno-atraktivno-zemljiste--80144",
+  "listing_urls": [
+    "https://patuljak.me/oglas/povoljno-atraktivno-zemljiste--80144"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 43,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80144",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Međuriječje",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "4350 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_2.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju atraktivan plac/zemljište u Međuriječju, direktno uz magistralni put M-2 Podgorica–Kolašin i u neposrednoj blizini rijeke Morače.\n\nPlac se nalazi na izlazu iz čuvenog kanjona Platije, jednog od najupečatljivijih djelova puta kroz kanjon Morače, poznatog po dramatičnim liticama i kamenim tunelima..\n\nPlac pruža odličan potencijal za razvoj autentičnog \"Camping & Nature Stop\" koncepta – mjesta za odmor putnika i ljubitelja prirode, sa prostorom za kampere i kampovanje, bistro restoranom sa terasom i pogledom na prirodu, kao i pratećim sadržajima za outdoor turizam kao river rafting avanturama na Morači, pješačkim i planinskim turama ka poznatom kanjonu Mrtvice. Mjesto na kojem se putnici ne bi samo usput zaustavljali, već koje bi planirali da posjete.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:48.527453+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.391609+00:00",
+  "source_html_sha256": "04fc360f9236fd6c013fed1ea3a57ac8a0915a5b5889585e72e9c9b481cc57c5",
+  "title": "POVOLJNO atraktivno zemljište",
+  "description_language": "en",
+  "price_raw": "100000.00€",
+  "price_amount": 100000,
+  "price_currency": "EUR",
+  "advertiser_name": "Ivana",
+  "property_type": "land",
+  "city": "Kolašin",
+  "district": "Međuriječje",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Na prodaju atraktivan plac/zemljište u Međuriječju, direktno uz magistralni put M-2 Podgorica–Kolašin i u neposrednoj blizini rijeke Morače.Plac se nalazi na izlazu iz čuvenog kanjona Platije, jednog od najupečatljivijih djelova puta kroz kanjon Morače, poznatog po dramatičnim liticama i kamenim tunelima..Plac pruža odličan potencijal za razvoj autentičnog Camping & Nature Stop koncepta – mjesta za odmor putnika i ljubitelja prirode, sa prostorom za kampere i kampovanje, bistro restoranom sa terasom i pogledom na prirodu, kao i pratećim sadržajima za outdoor turizam kao river rafting avanturama na Morači, pješačkim i planinskim turama ka poznatom kanjonu Mrtvice. Mjesto na kojem se putnici ne bi samo usput zaustavljali, već koje bi planirali da posjete.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!43",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269949938",
+      "name": "Ivana",
+      "email": null,
+      "source": "workbook:Not homes!43"
+    }
+  ],
+  "contact_phones": [
+    "+38269949938"
+  ],
+  "phone_e164": "+38269949938",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4350,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

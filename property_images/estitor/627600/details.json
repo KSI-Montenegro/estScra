@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "627600",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627600",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627600"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 104,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_627600",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/be0828de-a14e-4b2b-b195-d76f372a5490-lg.webp",
+    "https://content.estitor.com/9ac02acc-c2fa-4885-ba25-beb90fb5c29c-lg.webp",
+    "https://content.estitor.com/65ccb2b6-6c35-49c3-b2c9-33f36eaf3b06-lg.webp",
+    "https://content.estitor.com/5e8d84f4-9a6e-4037-be83-755f1f9444b5-lg.webp",
+    "https://content.estitor.com/841a15c9-7686-45c8-94c1-80ea17a00669-lg.webp",
+    "https://content.estitor.com/b7d42591-4563-4a42-9651-f11c262a6202-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duži period (godinu dana i duže) nov, moderan i izuzetno komforan dvosoban stan smješten u novoj stambenoj zgradi u Meljinama.\nStan se nalazi na odličnoj lokaciji, u neposrednoj blizini svih potrebnih sadržaja i na svega par minuta hoda od mora i šetališta.\nProstran i svetao dnevni boravak u sklopu kojeg se nalaze trpezarija i potpuno opremljena moderna kuhinja sa ugradnim elementima i pratećom tehnikom.\nIzlaz iz dnevnog boravka na terasu sa prelijepim pogledom na more.\nDvije udobne spavaće sobe (glavna spavaća soba sa francuskim ležajem i dodatna spavaća soba).\nModerno kupatilo sa tuš kabinom i veš mašinom.\nStan je kompletno nov, klimatizovan i uređen sa stilom radi pružanja maksimalne udobnosti.\nZa ozbiljne i pouzdane klijente postoji mogućnost otvorenog dogovora.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:54.164455+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.686900+00:00",
+  "source_html_sha256": "9b14a905b9885418de019d1bca08258495a4520e673d81c8276ae381d9602153",
+  "title": "Izdavanje, dvosoban stan, 63m², Meljine, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-17",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 63,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Stefan Šiljegović",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se na duži period (godinu dana i duže) nov, moderan i izuzetno komforan dvosoban stan smješten u novoj stambenoj zgradi u Meljinama. Stan se nalazi na odličnoj lokaciji, u neposrednoj blizini svih potrebnih sad...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!104",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269772793",
+      "name": "Stefan Šiljegović",
+      "email": null,
+      "source": "workbook:Likely agents!104"
+    },
+    {
+      "phone_e164": "+38269772793",
+      "name": "Stefan Šiljegović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269772793"
+  ],
+  "phone_e164": "+38269772793",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

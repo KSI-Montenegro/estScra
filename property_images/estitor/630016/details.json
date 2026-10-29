@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "630016",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-630016",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-630016"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 102,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630016",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "6. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 300,
+      "workbook_value": 350,
+      "source": "workbook:Likely agents!102"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/6515536a-1d72-46b3-8b2c-708ff38df485-lg.webp",
+    "https://content.estitor.com/c3fd03bd-0769-4b5b-80c4-d6d770511ad4-lg.webp",
+    "https://content.estitor.com/b516c2bc-6d1f-4cde-98d2-1fa8d60e02df-lg.webp",
+    "https://content.estitor.com/7be60acb-d342-4ed5-a71f-e81901b3c025-lg.webp",
+    "https://content.estitor.com/4ade9966-6a33-4714-9e25-e844c937853a-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "🏡 Izdavanje garsonjere – Šušanj / Ilino\nNa duži period izdaje se garsonjera na mirnoj i praktičnoj lokaciji u – Ilino.\nPosebna pogodnost je HDL market koji se nalazi u prizemlju objekta, što omogućava jednostavnu i brzu svakodnevnu kupovinu.\n📍 Lokacija: Šušanj – Ilino, Bar\n🏠 Struktura: Garsonjera\n📅 Izdavanje: Na duži period\n🛒 HDL market: u prizemlju objekta",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:51.884290+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.658199+00:00",
+  "source_html_sha256": "dc65d6fb7978291a53fb24b702ed38eeeca5983261018a6d911159a5dcda2052",
+  "title": "Izdavanje, garsonjera, 28m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-06",
+  "updated_date": "2026-10-26",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 28,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "9 Ulica Alekse Šantića, Bar 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Kvadratlux Nekretnine",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "6. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "🏡 Izdavanje garsonjere – Šušanj / IlinoNa duži period izdaje se garsonjera na mirnoj i praktičnoj lokaciji u – Ilino.Posebna pogodnost je HDL market koji se nalazi u prizemlju objekta, što omogućava jednostavnu i brz...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!102",
+      "agent_reasons": "3 ads with this number; business name (Kvadratlux Nekretnine)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269743992",
+      "name": "Kvadratlux Nekretnine",
+      "email": null,
+      "source": "workbook:Likely agents!102"
+    },
+    {
+      "phone_e164": "+38269743992",
+      "name": "Kvadratlux Nekretnine",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269743992"
+  ],
+  "phone_e164": "+38269743992",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

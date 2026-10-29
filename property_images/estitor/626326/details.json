@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "626326",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-626326",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-626326"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 89,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_626326",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2479867f-d91c-40c2-88d5-94ac11d2cb73-lg.webp",
+    "https://content.estitor.com/0f4c4ca0-cbfe-441c-add0-da8a938f54a8-lg.webp",
+    "https://content.estitor.com/011a65a0-fd9d-42dd-ac31-5343dcddfc37-lg.webp",
+    "https://content.estitor.com/03c6b4f8-ee42-4907-97b5-533a5bcfc566-lg.webp",
+    "https://content.estitor.com/01a82859-dc83-478c-8dbb-90b91cb8321a-lg.webp",
+    "https://content.estitor.com/bae9386f-9757-44a5-aae0-57200bd908bd-lg.webp",
+    "https://content.estitor.com/a118b5fe-b62d-4035-9087-5bc65c16f8c7-lg.webp",
+    "https://content.estitor.com/8038df47-7d59-424f-aa96-94ae274fbf51-lg.webp",
+    "https://content.estitor.com/f9335b6d-30b0-40a4-b0df-ed22ee289006-lg.webp",
+    "https://content.estitor.com/b61d1a87-9bff-42cd-8d81-ffd198ac0d98-lg.webp",
+    "https://content.estitor.com/a8348180-2f97-47dc-aa0c-004b54847217-lg.webp",
+    "https://content.estitor.com/f651979a-1884-4ae6-97b2-3477df04da75-lg.webp",
+    "https://content.estitor.com/f6646d02-aa17-43d6-97ff-f954e7f3e880-lg.webp",
+    "https://content.estitor.com/1335b3f7-bdd6-4981-a2b5-02eebf94426f-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdajem na duže, prostran jednosoban stan od 49m2. Stan se sastoji od hodnika, otvorenog prostora kuhinje, trpezarije i dnevne sobe za balkonom, spavaće sobe sa lođom i kupatila. Stan je opremljen potpuno i ima privatno parking mjesto ispred zgrade.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:44.216582+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.526224+00:00",
+  "source_html_sha256": "79c5b3ee682cfb11ef1a816129c011fbc91b9ebc601eb55207d821417b4ebbaf",
+  "title": "Izdavanje, jednosoban stan, 49m², Radanovići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-30",
+  "updated_date": "2026-10-28",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "street_address": "2, Радановићи, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Jelena Petkovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 2,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajem na duže, prostran jednosoban stan od 49m2. Stan se sastoji od hodnika, otvorenog prostora kuhinje, trpezarije i dnevne sobe za balkonom, spavaće sobe sa lođom i kupatila. Stan je opremljen potpuno i ima privat...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!89",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269833640",
+      "name": "Jelena Petkovic",
+      "email": null,
+      "source": "workbook:Likely agents!89"
+    },
+    {
+      "phone_e164": "+38269833640",
+      "name": "Jelena Petkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269833640"
+  ],
+  "phone_e164": "+38269833640",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

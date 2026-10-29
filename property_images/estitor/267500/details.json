@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "267500",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bijelo-polje/id-267500",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bijelo-polje/id-267500"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 966,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_267500",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2008",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Starogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9309d2e6-7025-4f03-af22-4540dec0dcc7-lg.webp",
+    "https://content.estitor.com/ae9b50aa-a66f-47a4-8d22-cb4f8a5427a3-lg.webp",
+    "https://content.estitor.com/a79766b3-162e-46b8-bfe6-ad39fca112d8-lg.webp",
+    "https://content.estitor.com/b7b3a426-0247-4d4f-9ab0-e9c4cbc220e4-lg.webp",
+    "https://content.estitor.com/3e6fd05a-a6c2-4e1b-8e67-9d5d9688e595-lg.webp",
+    "https://content.estitor.com/f692cede-aec9-404d-bd60-4bacfee4ee81-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdajem sobu u sklopu kuće ženskoj osobi koja radi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:25.823099+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.361063+00:00",
+  "source_html_sha256": "416002f775c510bfb236aa695276d70fc0b88bc1931818836d90f9f0fddb22a0",
+  "title": "Izdavanje, jednosoban stan, 20m², Rakonje, Bijelo Polje",
+  "description_language": "sr-ME",
+  "published_date": "2024-07-29",
+  "updated_date": "2026-10-29",
+  "price_amount": 150,
+  "price_currency": "EUR",
+  "price_raw": "150 EUR",
+  "area_m2": 20,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Bijelo Polje",
+  "country": "ME",
+  "advertiser_name": "Danijela Sebek",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2008,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Starogradnja"
+  ],
+  "metadata_summary": "Izdajem sobu u sklopu kuće ženskoj osobi koja radi.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!966",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267579425",
+      "name": "Danijela Sebek",
+      "email": null,
+      "source": "workbook:Outreach list!966"
+    },
+    {
+      "phone_e164": "+38267579425",
+      "name": "Danijela Sebek",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267579425"
+  ],
+  "phone_e164": "+38267579425",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

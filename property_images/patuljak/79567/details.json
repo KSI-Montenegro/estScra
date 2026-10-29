@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "79567",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-kancelarija-37m2-centar-zgrada-burger--79567",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-kancelarija-37m2-centar-zgrada-burger--79567"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 54,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79567",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!54:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj prostorija": "5",
+    "Stambena kvadratura": "40 m2",
+    "Sprat": "2",
+    "Namješten": "Da",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 40,
+      "workbook_value": 37,
+      "source": "workbook:Not homes!54"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_0.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Namještena kancelarija u strogom centru grada na adresi Ulica Slobode 37 (ulaz pored novootvorenog Burger King-a).\nProstor ima 40m2 i sastoji se od hodnika, dvije kancelarije od kojih jedna ima izlaz na zastakljeni balkon, u drugoj kancelariji ima ostava, a takođe prostor ima i kupatilo.\nU prostoru se sada nalaze po 2 stola i po 2 radne stolice u obije kancelarije, komoda, kao i kauč u jednom, a čajna kuhinja u drugoj. Namještaj je nov, korišten svega par mjeseci. Zakupac može sam po svojim potrebama mijenjati raspored namještaja ili sam namještaj.\nKancelarija ima lijep pogled na glavni trg Podgorice.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:56.242988+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.472868+00:00",
+  "source_html_sha256": "163a50cd077ffc9961317be5794e438797ef430a47a7d59b7d1c7c4e7eb3f9c6",
+  "title": "Za izdavanje kancelarija 37m2, Centar, zgrada Burger King-a, Podgorica",
+  "description_language": "en",
+  "price_raw": "400.00€",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "advertiser_name": "Nina",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "2",
+  "furnishing_raw": "Da",
+  "area_m2": 40,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Namještena kancelarija u strogom centru grada na adresi Ulica Slobode 37 (ulaz pored novootvorenog Burger King-a).Prostor ima 40m2 i sastoji se od hodnika, dvije kancelarije od kojih jedna ima izlaz na zastakljeni balkon, u drugoj kancelariji ima ostava, a takođe prostor ima i kupatilo. U prostoru se sada nalaze po 2 stola i po 2 radne stolice u obije kancelarije, komoda, kao i kauč u jednom, a čajna kuhinja u drugoj. Namještaj je nov, korišten svega par mjeseci. Zakupac može sam po svojim potrebama mijenjati raspored namještaja ili sam namještaj.Kancelarija ima lijep pogled na glavni trg Podgorice. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!54",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267505520",
+      "name": "Nina",
+      "email": null,
+      "source": "workbook:Not homes!54"
+    }
+  ],
+  "contact_phones": [
+    "+38267505520"
+  ],
+  "phone_e164": "+38267505520",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "595862",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595862",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595862"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 94,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_595862",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "8. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a9ec18ad-f03d-44f2-8da0-42f58d3ad62e-lg.webp",
+    "https://content.estitor.com/c9591f14-a2a6-4fc8-9f2d-8d1753cae013-lg.webp",
+    "https://content.estitor.com/829a6f9e-9a06-46fa-ae4a-d462f4f1bbc3-lg.webp",
+    "https://content.estitor.com/4d33e855-9aac-4742-bf0f-deab93f3a4f1-lg.webp",
+    "https://content.estitor.com/ccc9a8b6-07e9-4224-97e8-cbd59eabc038-lg.webp",
+    "https://content.estitor.com/5c8bf15d-914d-412e-bb1a-3102ff454e91-lg.webp",
+    "https://content.estitor.com/9b815ff8-93ad-4bb7-8679-d53a2677fc59-lg.webp",
+    "https://content.estitor.com/d7156cb5-1d68-4c8f-8c56-3cc6d4137589-lg.webp",
+    "https://content.estitor.com/218a5d26-e7fd-4b3a-b8e9-09e1d2bffc07-lg.webp",
+    "https://content.estitor.com/9c4272c4-d6c9-4e9c-9b1e-9cdb0235b5d5-lg.webp",
+    "https://content.estitor.com/4cfdc0a3-1bc2-4a08-8c80-de8f2465ab2b-lg.webp",
+    "https://content.estitor.com/a9bab863-1499-40e3-9bdf-c9d072608fc9-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duži period moderno i potpuno opremljen jednosoban stan u Central Pointu, na jednoj od najtraženijih lokacija u Podgorici.\nStan je pažljivo uređen, funkcionalan i potpuno opremljen za svakodnevni život. Sastoji se od dnevnog boravka sa kuhinjom i trpezarijom, odvojene spavaće sobe, kupatila i terase.\nStan posjeduje:\npotpuno opremljenu kuhinju\n\nostavu\n\nklima uređaj\n\nbrzi Wi-Fi\n\nSmart TV\n\nveš mašinu\n\nmašinu za sudje\n\nradni sto i prostor pogodan za rad od kuće\n\nkompletno opremljen i namješten enterijer\n\nprivatno garažno mjesto u zgradi\n\nOdlična lokacija, u neposrednoj blizini Big Fashion-a, City Kvarta, restorana, kafića, marketa i svih sadržaja potrebnih za svakodnevni život.\nCijena: 700 € mjesečno, garažno mjesto uključeno.\nIzdaje se isključivo na duži period.\nZa više informacija i dogovor oko gledanja stana, pošaljite poruku ili pozovite.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:48.073288+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.580355+00:00",
+  "source_html_sha256": "c381b01b638bbe9644bd706b9a7c6c6a7fb10ad577e73bca6e9aa84390aec338",
+  "title": "Izdavanje, jednosoban stan, 51m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-08-25",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 51,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Marka Radovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vasilije Kusovac",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "8. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se na duži period moderno i potpuno opremljen jednosoban stan u Central Pointu, na jednoj od najtraženijih lokacija u Podgorici.Stan je pažljivo uređen, funkcionalan i potpuno opremljen za svakodnevni život. Sa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!94",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267638034",
+      "name": "Vasilije Kusovac",
+      "email": null,
+      "source": "workbook:Likely agents!94"
+    },
+    {
+      "phone_e164": "+38267638034",
+      "name": "Vasilije Kusovac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267638034"
+  ],
+  "phone_e164": "+38267638034",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

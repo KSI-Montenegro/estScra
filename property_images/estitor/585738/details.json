@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "585738",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-585738",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-585738"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 349,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_585738",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bb16bd16-2646-4c52-9757-7ef9293f07c7-lg.webp",
+    "https://content.estitor.com/8ac4e1fa-ec0e-45c0-a6ca-c93a30bac223-lg.webp",
+    "https://content.estitor.com/281bc806-b28f-4b7a-aa46-9cf72dc4bb6a-lg.webp",
+    "https://content.estitor.com/a0054cd1-c681-495a-bf98-44ebd0ce18b0-lg.webp",
+    "https://content.estitor.com/7f6f5af1-4a0a-4af3-b81b-22ebbc531127-lg.webp",
+    "https://content.estitor.com/244e8cc8-0be9-4581-a917-9354da361f34-lg.webp",
+    "https://content.estitor.com/6630a299-af84-493c-8fdc-054879cb6902-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetan jednosoban stan (43.0 m²) u srcu Budve, idealan za dugoročni najam. Smješten u prestižnom centru grada, ovaj moderno opremljen stan nalazi se u novogradnji, pružajući udobnost i kvalitet života. Stan se sastoji od prostranog hodnika, jedne spavaće sobe, kupatila, te kompletno opremljene kuhinje i trpezarije. Potpuno je namješten i spreman za useljenje, nudeći sve što je potrebno za udoban boravak. Dostupni sadržaji uključuju klimatizaciju, lift, internet, interfon i kablovsku televiziju. Dodatna pogodnost je obezbijeđen parking ispred objekta. Traži se zakup na godinu dana i duže, uz obavezan depozit. Napominjemo da kućni ljubimci nisu dozvoljeni. Stan je dostupan za useljenje od 01.10.2026.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:35.708622+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.948718+00:00",
+  "source_html_sha256": "77c22c32972b0d44901cd05b9a61b049bb7b761d952f00df7075c1a41c127b49",
+  "title": "Izdavanje, jednosoban stan, 43m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-30",
+  "updated_date": "2026-09-27",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Maslinjak, Budva, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Branka Pejovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se izuzetan jednosoban stan (43.0 m²) u srcu Budve, idealan za dugoročni najam. Smješten u prestižnom centru grada, ovaj moderno opremljen stan nalazi se u novogradnji, pružajući udobnost i kvalitet života. Sta...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!349",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269447283",
+      "name": "Branka Pejovic",
+      "email": null,
+      "source": "workbook:Outreach list!349"
+    },
+    {
+      "phone_e164": "+38269447283",
+      "name": "Branka Pejovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269447283"
+  ],
+  "phone_e164": "+38269447283",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

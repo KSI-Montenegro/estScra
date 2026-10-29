@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "638119",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-638119",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-638119"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 801,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638119",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "10. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 500,
+      "workbook_value": 550,
+      "source": "workbook:Outreach list!801"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/a568cf8b-029a-4140-9d13-1214658c83c2-lg.webp",
+    "https://content.estitor.com/b070ab18-34ff-4198-9335-2190daf05833-lg.webp",
+    "https://content.estitor.com/88795d81-22b8-4901-b3d7-5201a8b20105-lg.webp",
+    "https://content.estitor.com/56df7f2a-fa21-4285-b385-d57148fe2417-lg.webp",
+    "https://content.estitor.com/1eb501e7-4fbf-4272-b9e1-6d48cb57811c-lg.webp",
+    "https://content.estitor.com/c0fa3a4f-a79d-453d-9150-7356ea3a64dd-lg.webp",
+    "https://content.estitor.com/f7e5830b-d5fc-49dd-b1db-cb7342001f18-lg.webp",
+    "https://content.estitor.com/838733c0-abe1-46ca-aab2-92a9f3e25426-lg.webp",
+    "https://content.estitor.com/b4a323c4-0d40-46e4-80c2-cac5f2ce8b56-lg.webp",
+    "https://content.estitor.com/1620eafe-98a8-413b-9b10-23e05920b193-lg.webp",
+    "https://content.estitor.com/2bbe6316-f4e2-4404-a81f-9ccc55e5b586-lg.webp",
+    "https://content.estitor.com/a3c82128-2185-40ba-810e-044c5e0ff691-lg.webp",
+    "https://content.estitor.com/1c8d508f-284a-46c7-949f-6b245ec4b522-lg.webp",
+    "https://content.estitor.com/f469470e-c7c1-4f39-b5a3-62c931f6fd76-lg.webp",
+    "https://content.estitor.com/f82f0853-fefa-4264-ad9f-0b82a2c54c5d-lg.webp",
+    "https://content.estitor.com/b1ac11af-0eba-4e64-be91-e6eb1868e394-lg.webp",
+    "https://content.estitor.com/32913cb3-8102-433c-88fa-4b9725ea9f78-lg.webp",
+    "https://content.estitor.com/8f4769f5-677d-4acc-bc08-c7b8105e568f-lg.webp",
+    "https://content.estitor.com/1843401d-81b7-4e06-991d-c42a867746b5-lg.webp",
+    "https://content.estitor.com/0441fe6c-53bb-4428-854b-eac80a1ae8c7-lg.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Budva centar – luksuzan jednosoban stan u rezidenciji Tre Canne\nBudva\nLokacija: Tre Canne Residence, centar Budve\nPeriod najma: 01.11.2026. – 01.05.2027.\nPovršina: 64 m² + prostrana terasa\nSprat: 10. sprat\nLift: Da\nOrijentacija i pogled: Sjeverna i zapadna orijentacija, panoramski pogled na grad i planine\nOprema stana:\nMašina za pranje posuđa\nMašina za veš\nNo Frost frižider\nUgradna rerna i mikrotalasna\nAparat za kafu\nElektrična ploča sa 4 ringle i aspirator\nLED Smart TV + TV komoda\nL garnitura na razvlačenje + fotelja na razvlačenje\n2 klima uređaja\nBračni krevet + garderober\nBaštenski/balkonski namještaj\n\nUslovi plaćanja: zakupnina za prvi mjesec + zakupnina za posljednji mjesec + depozit.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:32.923295+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.768384+00:00",
+  "source_html_sha256": "de8ac123135bc995bcc883db2fd38f3d17dec7947f7eacf5fadd52c6ca456241",
+  "title": "Izdavanje, jednosoban stan, 64m², Tre Canne, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-28",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 64,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Mehveş Yamanyılmaz",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "10. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Budva centar – luksuzan jednosoban stan u rezidenciji Tre CanneBudvaLokacija: Tre Canne Residence, centar BudvePeriod najma: 01.11.2026. – 01.05.2027.Površina: 64 m² + prostrana terasaSprat: 10. spratLift: DaOrijentac...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!801",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269135223",
+      "name": "Mehveş Yamanyılmaz",
+      "email": null,
+      "source": "workbook:Outreach list!801"
+    },
+    {
+      "phone_e164": "+38269135223",
+      "name": "Mehveş Yamanyılmaz",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269135223"
+  ],
+  "phone_e164": "+38269135223",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

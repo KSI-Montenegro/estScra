@@ -1,0 +1,146 @@
+{
+  "source": "estitor",
+  "listing_id": "624148",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624148",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624148"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 92,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_624148",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Magacinski"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/02394e7f-fb53-4b5d-a5ef-8830b86d6091-lg.webp",
+    "https://content.estitor.com/1bb46635-563d-413b-8805-127d5fb8ee6d-lg.webp",
+    "https://content.estitor.com/e12566ec-720a-447a-b629-a3baee52ab9f-lg.webp",
+    "https://content.estitor.com/3b1bc504-bacc-4c32-8d37-00d6cd06cd27-lg.webp",
+    "https://content.estitor.com/40944450-f616-4ac1-8e02-f7a2ec9f7a0a-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Novogradnja",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:46.117762+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.559629+00:00",
+  "source_html_sha256": "946187f868c2439b9beb31429c1758d7e64829b9c903449e0066a052851d41fc",
+  "title": "Izdavanje, poslovni prostor, 150m², Bioče, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-26",
+  "updated_date": "2026-09-26",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 150,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Jovan Vujacic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 0,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Novogradnja",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!92",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267002224",
+      "name": "Jovan",
+      "email": null,
+      "source": "workbook:Likely agents!92"
+    },
+    {
+      "phone_e164": "+38267002224",
+      "name": "Jovan Vujacic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267002224"
+  ],
+  "phone_e164": "+38267002224",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

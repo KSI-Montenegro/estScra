@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "620152",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-620152",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-620152"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 181,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620152",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5078aea9-6206-4351-9ef7-5972020f4cd9-lg.webp",
+    "https://content.estitor.com/8162417f-50f8-412d-8a86-2403dddadcca-lg.webp",
+    "https://content.estitor.com/672e4ea1-f808-4e40-91f0-421ed858ddd4-lg.webp",
+    "https://content.estitor.com/7e80ac7c-96e5-4e36-8a55-95f79c8b2480-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderna, potpuno opremljena kancelarija u novom coworking prostoru AdriaHub. Poseban ulaz, mirno naselje sa razvijenom infrastrukturom.\n\nUključeno u cijenu:\n— Parking mjesto\n— Brzi internet\n— Obezbjeđenje i video nadzor\n— Komunalne usluge\n— Čišćenje prostora\n— Poseban ulaz\n\nKompletno opremljeno: radni sto, stolice, klima uređaj, prostor za odmor. Useljivo odmah.\n\nMoguć dugoročni i kratkoročni ugovor o zakupu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:07.855907+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.368208+00:00",
+  "source_html_sha256": "29a257831e2b63b618597a6f560151199d2d2d1c69c15cab494110d6d9eda33d",
+  "title": "Izdavanje, poslovni prostor, 12m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-20",
+  "updated_date": "2026-09-20",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 12,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Rztrade Adriahub",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Izdaje se moderna, potpuno opremljena kancelarija u novom coworking prostoru AdriaHub. Poseban ulaz, mirno naselje sa razvijenom infrastrukturom.Uključeno u cijenu:— Parking mjesto— Brzi internet— Obezbjeđenje i video...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!181",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267157618",
+      "name": "Rztrade Adriahub",
+      "email": null,
+      "source": "workbook:Not homes!181"
+    },
+    {
+      "phone_e164": "+38267157618",
+      "name": "Rztrade Adriahub",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267157618"
+  ],
+  "phone_e164": "+38267157618",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

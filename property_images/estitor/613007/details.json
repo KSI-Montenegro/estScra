@@ -1,0 +1,141 @@
+{
+  "source": "estitor",
+  "listing_id": "613007",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-613007",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-613007"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 62,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613007",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Opremljen": "Djelimično",
+    "Vrsta poslovnog prostora": "Kancelarijski"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1fd8f481-5c5b-44c6-b2bc-078b88729bb0-lg.webp",
+    "https://content.estitor.com/fe067f61-1ece-42dc-9298-ceef8c3ec5b2-lg.webp",
+    "https://content.estitor.com/d43d9c9d-068f-4d6a-b7ce-1f38e5555be5-lg.webp",
+    "https://content.estitor.com/4f57a512-13aa-4558-9654-b95a3c3e7b59-lg.webp",
+    "https://content.estitor.com/5a9413d8-7966-4968-a5ce-8e20ed7523cd-lg.webp",
+    "https://content.estitor.com/ec63b3a5-d939-468c-a4e2-f671cd66d3c5-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran poslovni prostor površine m², smješten u veoma traženom dijelu Podgorice, Gornja Gorica.\nProstor je djelimično namješten (polunamješten), što novim zakupcima omogućava brže useljenje i značajno smanjuje inicijalna ulaganja u opremanje. Jednako je pogodan i za veleprodaju, sa dovoljno prostora za skladištenje robe.\nStrateška lokacija u Gornjoj Gorici obezbjeđuje lagan pristup glavnim saobraćajnicama i blizinu ključnih poslovnih zona, što doprinosi efikasnoj logistici i povećava protok potencijalnih klijenata. Ovo je izuzetna prilika za pozicioniranje Vašeg poslovanja u dinamičnom okruženju sa velikim razvojnim potencijalom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:00.977103+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.529563+00:00",
+  "source_html_sha256": "ea219de21864d8f75435cbd57359fde7dce468ac70cbd0e1b00bd07c8fcfa2ee",
+  "title": "Izdavanje, poslovni prostor, 110m², Gornja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-09",
+  "updated_date": "2026-09-09",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 110,
+  "city": "Podgorica",
+  "street_address": "Kosmajska, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Janko Gudelj",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Djelimično",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "Izdaje se prostran poslovni prostor površine m², smješten u veoma traženom dijelu Podgorice, Gornja Gorica.Prostor je djelimično namješten (polunamješten), što novim zakupcima omogućava brže useljenje i značajno smanj...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!62",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268818959",
+      "name": "Janko Gudelj",
+      "email": null,
+      "source": "workbook:Not homes!62"
+    },
+    {
+      "phone_e164": "+38268818959",
+      "name": "Janko Gudelj",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268818959"
+  ],
+  "phone_e164": "+38268818959",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

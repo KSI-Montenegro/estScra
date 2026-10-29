@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "550099",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-550099",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-550099"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 261,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_550099",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "4",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Javni parking",
+    "Površina placa": "7000",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "7000"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a8598ad9-aec7-41a3-900d-1396a782d420-lg.webp",
+    "https://content.estitor.com/50af8fdf-8619-4040-a2d3-bd5e296b6740-lg.webp",
+    "https://content.estitor.com/ed5a7a19-0823-4703-a41a-abacca0bf0f1-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Discover modern comfort in Bar's sought-after Šušanj neighborhood! We are delighted to present a pristine new construction kuća for izdavanje, an exceptional opportunity for contemporary living.\nThis thoughtfully designed residence offers 65.0 m² of bright and airy living space, perfectly crafted for convenience and style. It features one spacious bedroom and one elegant bathroom, both finished to a high standard, making it ideal for singles or couples seeking a sophisticated home.\nAs a new build, you'll benefit from top-quality materials and modern amenities throughout, ensuring a fresh and inviting atmosphere. Enjoy the ease of ready-to-move-in perfection in a vibrant coastal setting.\nNestled in Šušanj, the property boasts excellent connectivity, offering quick access to beautiful local beaches, charming cafes, and essential services. Bar's bustling city center is just a short drive away. Convenient public parking is available, enhancing daily living.\nExperience the best of Montenegrin coastal life in this exquisite new home. Inquire today to arrange your private viewing!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:51.944689+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.417708+00:00",
+  "source_html_sha256": "fc9361148b9c14af277a492ce9bbcf413beb1df4051b3f5a9f2f81a04fece59d",
+  "title": "Izdavanje, kuća, 65m², Šušanj, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-26",
+  "updated_date": "2026-10-20",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 65,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Neimenovani Put, Šušanj, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Moqbel Nazary",
+  "deal_type": "rent",
+  "property_type": "house",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugozapad",
+  "lot_area_m2": 7000,
+  "balconies": 4,
+  "year_built": 2,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Discover modern comfort in Bar's sought-after Šušanj neighborhood! We are delighted to present a pristine new construction kuća for izdavanje, an exceptional opportunity for contemporary living. This thoughtfully desi...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!261",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+31617173438",
+      "name": "Moqbel Nazary",
+      "email": null,
+      "source": "workbook:Outreach list!261"
+    },
+    {
+      "phone_e164": "+31617173438",
+      "name": "Moqbel Nazary",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+31617173438"
+  ],
+  "phone_e164": "+31617173438",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

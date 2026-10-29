@@ -1,0 +1,140 @@
+{
+  "source": "patuljak",
+  "listing_id": "76484",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-155m2-zabjelo-podgorica--76484",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-155m2-zabjelo-podgorica--76484"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 178,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76484",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!178:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Parking mjesto": "1",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "155 m2",
+    "Kvadratura balkona": "15 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76484_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i moderno opremljen dupleks stan površine 155 m², smješten u sklopu kuće na trećem spratu, sa zasebnim ulazom, što pruža potpunu privatnost i komfor.\nPrva etaža sastoji se od ulaznog hodnika sa ugradnim cipelarnikom, kupatila, prostrane trpezarije, kuhinje opremljene kvalitetnim uređajima i veoma komforne dnevne sobe sa savremenim uređajima i klima-uređajem. Iz dnevne sobe se izlazi na prostranu, zastakljenu terasu površine 15 m², koja predstavlja idealan prostor za odmor i uživanje.\nNa drugoj etaži nalaze se hodnik, master spavaća soba sa ugradnim ormarom, klima-uređajem i vlastitom terasom, druga spavaća soba sa manjim bračnim krevetom, kao i treća soba namijenjena za jednu osobu. Na ovoj etaži se nalazi i drugo kupatilo, opremljeno velikim bojlerom, veš mašinom i mašinom za sušenje veša.\nU sklopu cijene zakupnine od 1.150 € mjesečno uračunate su sve režije, kao i jedno parking mjesto ispred kuće.\nStan odlikuju velika kvadratura, funkcionalan raspored, kvalitetna opremljenost i visok nivo komfora, te predstavlja odličan izbor za porodicu ili zakupce kojima je potreban prostran i kompletno opremljen dom.\nZa više informacija i dogovor oko gledanja stana, kontakt putem poruke ili telefona.\n+38267060330",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:10.554221+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.901744+00:00",
+  "source_html_sha256": "61a8099fe2382946bf5a98be82890b2eb22f13c7e1f6e0b4241931e2ec2343a4",
+  "title": "Izdavanje, stan, 155m2, Zabjelo, Podgorica",
+  "description_language": "en",
+  "price_raw": "1500.00€",
+  "price_amount": 1500,
+  "price_currency": "EUR",
+  "advertiser_name": "Katarina",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "3",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 155,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se prostran i moderno opremljen dupleks stan površine 155 m², smješten u sklopu kuće na trećem spratu, sa zasebnim ulazom, što pruža potpunu privatnost i komfor.Prva etaža sastoji se od ulaznog hodnika sa ugradnim cipelarnikom, kupatila, prostrane trpezarije, kuhinje opremljene kvalitetnim uređajima i veoma komforne dnevne sobe sa savremenim uređajima i klima-uređajem. Iz dnevne sobe se izlazi na prostranu, zastakljenu terasu površine 15 m², koja predstavlja idealan prostor za odmor i uživanje.Na drugoj etaži nalaze se hodnik, master spavaća soba sa ugradnim ormarom, klima-uređajem i vlastitom terasom, druga spavaća soba sa manjim bračnim krevetom, kao i treća soba namijenjena za jednu osobu. Na ovoj etaži se nalazi i drugo kupatilo, opremljeno velikim bojlerom, veš mašinom i mašinom za sušenje veša.U sklopu cijene zakupnine od 1.150 € mjesečno uračunate su sve režije, kao i jedno parking mjesto ispred kuće.Stan odlikuju velika kvadratura, funkcionalan raspored, kvalitetna opremljenost i visok nivo komfora, te predstavlja odličan izbor za porodicu ili zakupce kojima je potreban prostran i kompletno opremljen dom.Za više informacija i dogovor oko gledanja stana, kontakt putem poruke ili telefona.+38267060330",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!178",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268888040",
+      "name": "Katarina",
+      "email": null,
+      "source": "workbook:Outreach list!178"
+    }
+  ],
+  "contact_phones": [
+    "+38268888040"
+  ],
+  "phone_e164": "+38268888040",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

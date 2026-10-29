@@ -1,0 +1,150 @@
+{
+  "source": "estitor",
+  "listing_id": "478434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-478434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-478434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 124,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_478434",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/932fc594-03bc-4440-acd6-c24e6b0b2bf7-lg.webp",
+    "https://content.estitor.com/27502418-48c1-4c92-8a0b-c212aa6c6869-lg.webp",
+    "https://content.estitor.com/ba87d8fe-6542-41fb-b83a-b3e2a4105570-lg.webp",
+    "https://content.estitor.com/2c86c327-0e2b-4eed-b2a2-a9108be97bf3-lg.webp",
+    "https://content.estitor.com/6f624571-2e2f-4ae5-825b-378dccf053cc-lg.webp",
+    "https://content.estitor.com/bf1c7139-3e59-4d50-998f-0d5ed35fc6e6-lg.webp",
+    "https://content.estitor.com/6a3a6643-b658-4f91-b8a4-8b788ce2a5c8-lg.webp",
+    "https://content.estitor.com/69dbd7fb-a973-49a3-bcea-b8dced630568-lg.webp",
+    "https://content.estitor.com/d11ec721-d710-488a-a6ea-187721816b14-lg.webp",
+    "https://content.estitor.com/9e66132e-a2b4-4efd-872b-98e38b629d8f-lg.webp",
+    "https://content.estitor.com/3e8f8152-7d32-43fd-aacc-28e20d6a8b4e-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban stan površine 47m2 u centru Podgorice, u blizini Gimnazije (kod hotela Ambasador, zgrada Eurozox). Stan je orjentisan jugozapadno, te je veoma prozračan i obiluje prirodnom svjetlošću tokom cijelog dana.\nLuksuzno je opremljen i posjeduje 2 klime, kao i video nadzor. U cijenu je uračunato 1 privatno parking mjesto u garaži i dodatno ključ od rampe za zajednički parking za stanare zgrade. Takođe, u cijenu je uračunato i generalno čišćenje stana jednom mjesečno.\nUgovor na minimum 12 mjeseci.\nStan je slobodan od 5.11.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:12.182906+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.899135+00:00",
+  "source_html_sha256": "62c910d2a67ebbd44993305c705c201c8eb832296f4b8ae4c9062454f5a80e5f",
+  "title": "Izdavanje, jednosoban stan, 47m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-10-08",
+  "updated_date": "2026-09-04",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Olga Babic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "furnishing_raw": "true",
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan površine 47m2 u centru Podgorice, u blizini Gimnazije (kod hotela Ambasador, zgrada Eurozox). Stan je orjentisan jugozapadno, te je veoma prozračan i obiluje prirodnom svjetlošću tokom cijelog ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!124",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268414465",
+      "name": "Olga Babic",
+      "email": null,
+      "source": "workbook:Likely agents!124"
+    },
+    {
+      "phone_e164": "+38268414465",
+      "name": "Olga Babic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268414465"
+  ],
+  "phone_e164": "+38268414465",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

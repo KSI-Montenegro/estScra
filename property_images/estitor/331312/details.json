@@ -1,0 +1,135 @@
+{
+  "source": "estitor",
+  "listing_id": "331312",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-331312",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-331312"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 394,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_331312",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b7bfb132-b1a4-49ae-92f5-03d6cb232f94-lg.webp",
+    "https://content.estitor.com/4e3a7403-64c6-4e2a-827e-59e0aef91fcf-lg.webp",
+    "https://content.estitor.com/72f90293-1542-4add-bba0-3e3a9be34108-lg.webp",
+    "https://content.estitor.com/2a20b838-37ff-4a54-bf34-b17f5d8b4623-lg.webp",
+    "https://content.estitor.com/17391d91-5321-4ed1-94da-9a87ec6f6c34-lg.webp",
+    "https://content.estitor.com/7fd6ea03-2fac-4040-81c8-6f165f541b44-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "U blizini hotela Bela Vista i Idea marketa na oko 5-6 minuta hoda do mora se izdaje apartman na duži vremenski period,, koji ima terasu,na prvom spratu. Mjesečno plaćanje 250€ + depozit",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:58.475670+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.226162+00:00",
+  "source_html_sha256": "09a688b6ebc961c888a7b08fb27211ccac9b25f31feb833521efd8309a775f6b",
+  "title": "Izdavanje, garsonjera, 18m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-01-26",
+  "updated_date": "2026-09-07",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 18,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Nenad Lojpur",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "U blizini hotela Bela Vista i Idea marketa na oko 5-6 minuta hoda do mora se izdaje apartman na duži vremenski period,, koji ima terasu,na prvom spratu. Mjesečno plaćanje 250€ + depozit",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!394",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269052388",
+      "name": "Nenad Lojpur",
+      "email": null,
+      "source": "workbook:Outreach list!394"
+    },
+    {
+      "phone_e164": "+38269052388",
+      "name": "Nenad Lojpur",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269052388"
+  ],
+  "phone_e164": "+38269052388",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

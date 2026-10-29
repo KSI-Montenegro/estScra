@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "289092",
+  "listing_url": "https://patuljak.me/oglas/plac-podgorica-pricelje--289092",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-podgorica-pricelje--289092"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 129,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_289092",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Pričelje",
+    "Adresa": "Pričelje",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1450 m2",
+    "Započeta gradnja": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_3.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Plac 1450 m2 , Pricelje (10 km od centra Podgorice)\n- Voda , Struja , Put\n- Temelji za kucu osnove 60 m2\n- Pomocni objekat\n- Vocnjak\nMoguca zamjena za garsonjeru\n\n069501573",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:41.148576+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.007684+00:00",
+  "source_html_sha256": "01968833233c752efa5d22936de07ff43529a0f365d8741415d543bcd3b43a76",
+  "title": "Plac - Podgorica (Pričelje)",
+  "description_language": "en",
+  "price_raw": "59000.00€",
+  "price_amount": 59000,
+  "price_currency": "EUR",
+  "advertiser_name": "danijel",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Pričelje",
+  "street_address": "Pričelje",
+  "area_m2": null,
+  "amenities": [
+    "Započeta gradnja"
+  ],
+  "metadata_summary": "Plac 1450 m2 , Pricelje (10 km od centra Podgorice)- Voda , Struja , Put- Temelji za kucu osnove 60 m2- Pomocni objekat- VocnjakMoguca zamjena za garsonjeru 069501573",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!129",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269501573",
+      "name": "danijel",
+      "email": null,
+      "source": "workbook:Not homes!129"
+    }
+  ],
+  "contact_phones": [
+    "+38269501573"
+  ],
+  "phone_e164": "+38269501573",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "lot_area_m2": 1450,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

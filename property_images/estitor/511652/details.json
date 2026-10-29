@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "511652",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-511652",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-511652"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 166,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_511652",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Univerzalno",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1f4f3c44-fc64-4697-92c1-a0ca83983998-lg.webp",
+    "https://content.estitor.com/0b62ab2e-ea2e-4a61-bd6a-d13ae9351fae-lg.webp",
+    "https://content.estitor.com/eed76155-0f0f-4b18-b90b-23191d681597-lg.webp",
+    "https://content.estitor.com/5b52625d-f020-47f9-97cf-baf8a7663cc2-lg.webp",
+    "https://content.estitor.com/a05505ce-ca80-43e1-8b81-3eb2561121e4-lg.webp",
+    "https://content.estitor.com/be4d5ad3-a514-448e-89ae-d8dbf6e6bc72-lg.webp",
+    "https://content.estitor.com/9fe22f1c-d01a-4084-b612-0450ed678273-lg.webp",
+    "https://content.estitor.com/b2a463f0-0031-4f42-8802-f0af81fc1407-lg.webp",
+    "https://content.estitor.com/a74fa450-a81d-4915-874f-be3452b0d285-lg.webp",
+    "https://content.estitor.com/ae73ae18-636c-4c8a-8c55-a77e50b1fec6-lg.webp",
+    "https://content.estitor.com/7d16fe38-ed1b-4476-852a-5153c794db2f-lg.webp",
+    "https://content.estitor.com/54aac032-f5ab-497a-93fd-8e8290421909-lg.webp",
+    "https://content.estitor.com/d1d71288-81e6-4959-929a-18f456436442-lg.webp",
+    "https://content.estitor.com/60c0d172-3a60-40f4-9cd4-bbc2ef3a6cb3-lg.webp",
+    "https://content.estitor.com/5e28bbe5-5a74-4259-b257-eb76e44734b8-lg.webp",
+    "https://content.estitor.com/1b6f622e-525e-44fa-b3f0-7bfb14064caf-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Izdajem poslovni prostor u Centru Bara – 140m², potpuno renoviran i nov. Atraktivna lokacija, Dugoročni najam.\n\nZa vise informacija pozvati:\n+382 68 021 979 | +382 68 810 535 | +382 68 030 520",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:00.115992+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.272152+00:00",
+  "source_html_sha256": "c14ce95e6f43ef4f3f5434bee67d3707fec3c4c7aa41a9591f46cb286c8d3cb9",
+  "title": "Izdavanje, poslovni prostor, 140m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-01-15",
+  "updated_date": "2026-10-03",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 140,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Sergej Masanovic",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 2,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Telefon",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdajem poslovni prostor u Centru Bara – 140m², potpuno renoviran i nov. Atraktivna lokacija, Dugoročni najam. Za vise informacija pozvati: +382 68 021 979 | +382 68 810 535 | +382 68 030 520",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!166",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268021979",
+      "name": "Sergej Masanovic",
+      "email": null,
+      "source": "workbook:Not homes!166"
+    }
+  ],
+  "contact_phones": [
+    "+38268021979"
+  ],
+  "phone_e164": "+38268021979",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

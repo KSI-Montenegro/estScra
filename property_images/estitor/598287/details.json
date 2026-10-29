@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "598287",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-598287",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-598287"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 336,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_598287",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/509dddf1-a9ab-44e4-ae66-464a91b9131e-lg.webp",
+    "https://content.estitor.com/69a62069-02ed-4894-ad24-b8c9f58adea4-lg.webp",
+    "https://content.estitor.com/12018a7b-7fb3-41a0-8079-336a58dcecd9-lg.webp",
+    "https://content.estitor.com/a1df2501-dd6c-441b-85a7-3cb909f25ad9-lg.webp",
+    "https://content.estitor.com/f8701f0d-ad7f-45a0-82a3-7f04c3b885e8-lg.webp",
+    "https://content.estitor.com/c6eee9b0-52c3-4a16-ae32-293b6e43e0b9-lg.webp",
+    "https://content.estitor.com/b500c900-7ed5-4433-aebe-4190119200db-lg.webp",
+    "https://content.estitor.com/9b4352ea-4afb-4efc-9fc0-db5aa8e470ee-lg.webp",
+    "https://content.estitor.com/e6867ebb-6019-451b-a5d9-dd151f0ee503-lg.webp",
+    "https://content.estitor.com/cc2eb0c1-c485-4ee9-a616-7fdb4db57d0a-lg.webp",
+    "https://content.estitor.com/739267bc-0ac2-4325-a427-fb6d37086bca-lg.webp",
+    "https://content.estitor.com/74d34dd1-667d-44b7-9057-5f27acf4341e-lg.webp",
+    "https://content.estitor.com/18e3db92-8a46-429b-8b2f-d6266b520d05-lg.webp",
+    "https://content.estitor.com/b6650739-0d30-4514-9d09-435c5420acf3-lg.webp",
+    "https://content.estitor.com/a10d15a9-2e38-401a-98b0-1a8221d093a9-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Dobrodošli u ekskluzivni stan u prestižnom naselju Centrale, Luštica Bay u Tivtu! Predstavljamo vam izuzetan novogradnja apartman od 56.0 m², idealan za one koji traže spoj luksuza, mira i prirodnih ljepota. Ovaj osunčani jednosobni apartman nudi fantastičan pogled na more sa prostrane terase, smješten u mirnom kraju.\nEnterijer je opremljen s pažnjom do detalja, pružajući udobnost i funkcionalnost. Sastoji se od jedne spavaće sobe i jednog kupatila, a opremljen je svim modernim pogodnostima: podno grijanje, klimatizacija, internet, kuhinja i praktična ostava. Kao dio Luštica Bay resorta, uživaćete u savršenoj infrastrukturi tokom cijele godine. More, predivne plaže, vrhunski restorani i marina nalaze se na samo nekoliko koraka od vašeg doma.\nDodatnu pogodnost pruža i parking.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:29.788023+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.873309+00:00",
+  "source_html_sha256": "11f1993239d182bc8ec3734721404ea95cf69dc77ef4f3537bfb2a36aed9b611",
+  "title": "Izdavanje, jednosoban stan, 56m², Luštica Bay, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-21",
+  "updated_date": "2026-10-02",
+  "price_amount": 1300,
+  "price_currency": "EUR",
+  "price_raw": "1300 EUR",
+  "area_m2": 56,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Oблатно, Черногория",
+  "country": "ME",
+  "advertiser_name": "Natalia Avdeeva",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kuhinja",
+    "Ostava"
+  ],
+  "metadata_summary": "Dobrodošli u ekskluzivni stan u prestižnom naselju Centrale, Luštica Bay u Tivtu! Predstavljamo vam izuzetan novogradnja apartman od 56.0 m², idealan za one koji traže spoj luksuza, mira i prirodnih ljepota. Ovaj osun...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!336",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268372797",
+      "name": "Natalia Avdeeva",
+      "email": null,
+      "source": "workbook:Outreach list!336"
+    },
+    {
+      "phone_e164": "+38268372797",
+      "name": "Natalia Avdeeva",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268372797"
+  ],
+  "phone_e164": "+38268372797",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

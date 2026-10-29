@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "624771",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624771",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624771"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 343,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_624771",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/91ae6bed-33eb-4823-97db-2a1ac3f8dd73-lg.webp",
+    "https://content.estitor.com/586368ac-5a0b-4f8b-ab9d-eb05b349dbcb-lg.webp",
+    "https://content.estitor.com/ff683de3-6284-41fb-aa17-0c98006e9c92-lg.webp",
+    "https://content.estitor.com/c5bb15cf-2034-4ef8-8dd9-f07b2da29679-lg.webp",
+    "https://content.estitor.com/9f2d9a34-abc5-4b1c-bb6f-f58a30b14fe7-lg.webp",
+    "https://content.estitor.com/720c2a94-337b-4c12-8b95-491676f72441-lg.webp",
+    "https://content.estitor.com/6a225b07-8c8f-44e3-930e-004ae8b3b2c0-lg.webp",
+    "https://content.estitor.com/6945b90f-527e-4952-b735-56e73339c7a1-lg.webp",
+    "https://content.estitor.com/70d95807-4e4b-4ae7-9aa5-22e9d47f7555-lg.webp",
+    "https://content.estitor.com/ca15654b-25ff-48a1-bd39-3e3ee9c410e5-lg.webp",
+    "https://content.estitor.com/55f6dffb-09f3-4f2b-b8e4-19891dc96a6b-lg.webp",
+    "https://content.estitor.com/1fbad530-7fe3-47ea-8cfe-3ef216a3aab3-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izvanredan dvosoban stan za izdavanje u mirnom dijelu Škaljara, Kotor. Sa površinom od 72 m², ovaj stan se nalazi na prvom zgradu manje zgrade koja ima ukupno 6 stanova. Mirno porodicno okrizenje.\nStan se sastoji od dvije prostrane spavaće sobe, prostranog kupatila i zasebnog toaleta, što osigurava maksimalnu funkcionalnost za sve stanare. U potpunosti je opremljen modernim namještajem i svim neophodnim uređajima, spreman za useljenje bez dodatnih ulaganja.\nJedna od ključnih prednosti je dostupan parking direktno ispred objekta, što značajno olakšava svakodnevni život. Lokacija u Škaljarima pruža idealan spoj mirnog okruženja i blizine svih važnih sadržaja koje nudi grad Kotor.\nOvaj stan se izdaje na duži vremenski period, idealan je za porodični život ili za profesionalce koji traže kvalitetan i komforan dom u srcu Boke Kotorske.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:32.992329+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.914765+00:00",
+  "source_html_sha256": "e171bfc114f84e1305064bfcd63e0b3ac805da2f9ee2f99ffa6b279e95766c31",
+  "title": "Izdavanje, dvosoban stan, 72m², Škaljari, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-28",
+  "updated_date": "2026-09-28",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 72,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Kotor",
+  "street_address": "P22, Škaljari, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Dejan Basorovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Predstavljamo Vam izvanredan dvosoban stan za izdavanje u mirnom dijelu Škaljara, Kotor. Sa površinom od 72 m², ovaj stan se nalazi na prvom zgradu manje zgrade koja ima ukupno 6 stanova. Mirno porodicno okrizenje.Sta...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!343",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269976345",
+      "name": "Dejan Basorovic",
+      "email": null,
+      "source": "workbook:Outreach list!343"
+    },
+    {
+      "phone_e164": "+38269976345",
+      "name": "Dejan Basorovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269976345"
+  ],
+  "phone_e164": "+38269976345",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

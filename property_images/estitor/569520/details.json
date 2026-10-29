@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "569520",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-569520",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-569520"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 669,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_569520",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2015",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Tavan": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/98051c84-88ac-41fc-afa1-804bf33c786f-lg.webp",
+    "https://content.estitor.com/215dc6ec-3f44-4e31-8ab8-d8e871a1d8b5-lg.webp",
+    "https://content.estitor.com/fd578e03-7b20-4e23-8e81-387f445acb7f-lg.webp",
+    "https://content.estitor.com/c85cdc2d-130f-4cf7-9418-9ec69c53bbb5-lg.webp",
+    "https://content.estitor.com/3a38e5c6-27c7-4e6f-80e5-39b0278a7e52-lg.webp",
+    "https://content.estitor.com/c41336a1-21c8-4ef4-a980-f2fc0337b492-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno namješten jednosoban stan površine u naselju Gornja Gorica (Vencor), na odličnoj lokaciji, svega 10 minuta pješke od Delta City-ja / City Mall-a. Stan je funkcionalnog rasporeda, uredan i.\nPosjeduje:\nDnevni boravak sa kuhinjom i trpezarijom\nSpavaću sobu\nKupatilo\nTerasu\nParking mjesto\n\nPogodan za jednu osobu ili par.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:17.137009+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.735148+00:00",
+  "source_html_sha256": "d7107213803da330d248085d84f20076b3734d1193b2e2eb0a2d51f4efe0d419",
+  "title": "Izdavanje, jednosoban stan, 35m², Gornja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-13",
+  "updated_date": "2026-09-23",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 35,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Miloja Pavlovića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milica M",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2015,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Tavan",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se potpuno namješten jednosoban stan površine u naselju Gornja Gorica (Vencor), na odličnoj lokaciji, svega 10 minuta pješke od Delta City-ja / City Mall-a. Stan je funkcionalnog rasporeda, uredan i. Posjeduje:...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!669",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267896684",
+      "name": "Milica M",
+      "email": null,
+      "source": "workbook:Outreach list!669"
+    },
+    {
+      "phone_e164": "+38267896684",
+      "name": "Milica M",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267896684"
+  ],
+  "phone_e164": "+38267896684",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

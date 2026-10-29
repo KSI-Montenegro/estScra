@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "49988",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-49988",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-49988"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 328,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_49988",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2017",
+    "Orijentacija": "Jug",
+    "Parking": "Da",
+    "Udaljenost od mora": "20",
+    "Lift": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8126a9da-c74d-4c07-91a8-f39be7f5cfc8-lg.webp",
+    "https://content.estitor.com/6643da23-6607-4646-b5df-71afa4db2287-lg.webp",
+    "https://content.estitor.com/f505f407-52cc-43a3-8752-0eb339f9c8fe-lg.webp",
+    "https://content.estitor.com/5b59bf93-dd3f-4e2e-9319-594833f4b71b-lg.webp",
+    "https://content.estitor.com/299d48ba-54ea-456a-af81-c42803c3b0b1-lg.webp",
+    "https://content.estitor.com/25ec47ef-5abe-416e-83ad-2559b6e17bad-lg.webp",
+    "https://content.estitor.com/733a8e40-183a-4330-96b8-212c68be70ae-lg.webp",
+    "https://content.estitor.com/cc7a1255-3ea5-4fbc-9032-1053d015720e-lg.webp",
+    "https://content.estitor.com/8f38b78e-3449-4a3c-9250-d5ab841fbebf-lg.webp",
+    "https://content.estitor.com/2c52fc9e-603f-4007-878b-b1ced1cc0481-lg.webp",
+    "https://content.estitor.com/88f4e890-f079-4c84-96a5-f00849a87d55-lg.webp",
+    "https://content.estitor.com/2be3bf8e-430e-4e34-9da3-1963cd7822e3-lg.webp",
+    "https://content.estitor.com/78aaa7d3-2e97-4b42-9504-44cc8f8ad1bf-lg.webp",
+    "https://content.estitor.com/2735fe72-8742-46cb-9f3d-48caa7fe83f7-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "-",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:25.539180+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.827206+00:00",
+  "source_html_sha256": "161b636c05959f9533d155734b7b55cf938809c2e5e8f7bf8804e9bf5730ea57",
+  "title": "Izdavanje, dvosoban stan, 93m², Sutomore, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2022-05-11",
+  "updated_date": "2026-10-04",
+  "price_amount": 2000,
+  "price_currency": "EUR",
+  "price_raw": "2000 EUR",
+  "area_m2": 93,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "Obala Iva Novakovica",
+  "country": "ME",
+  "advertiser_name": "Tamara Popovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "parking_raw": "Da",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2017,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Parking",
+    "Lift",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "-",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!328",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267444047",
+      "name": "Tamara Popovic",
+      "email": null,
+      "source": "workbook:Outreach list!328"
+    },
+    {
+      "phone_e164": "+38267444047",
+      "name": "Tamara Popovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267444047"
+  ],
+  "phone_e164": "+38267444047",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

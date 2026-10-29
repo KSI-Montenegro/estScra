@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "80597",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-humci--80597",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-humci--80597"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 39,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80597",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Nikšić",
+    "Naselje": "Ostalo",
+    "Broj prostorija": "3",
+    "Stambena kvadratura": "75 m2",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "1",
+    "Parking mjesto": "3 i više",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se kompletno adaptiran poslovni prostor površine 75 m2. Pogodan za razne poslovne djelatnosti (prodavnica, pekara, diskont pića i slično). Nalazi se u ulici 18. Septembra, u Humcima. Cijena zakupa iznosi 500€ mjesečno.\n\nTel: 067/227-457",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:45.750522+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.359731+00:00",
+  "source_html_sha256": "5a381d8f19d9fbd95d1ebb632f7f8e9069daa2284e62c45735dbe92e0635d180",
+  "title": "Poslovni prostor (Humci)",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Marko",
+  "property_type": "commercial",
+  "city": "Nikšić",
+  "district": "Ostalo",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "1",
+  "parking_raw": "3 i više",
+  "area_m2": 75,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Izdaje se kompletno adaptiran poslovni prostor površine 75 m2. Pogodan za razne poslovne djelatnosti (prodavnica, pekara, diskont pića i slično). Nalazi se u ulici 18. Septembra, u Humcima. Cijena zakupa iznosi 500€ mjesečno.Tel: 067/227-457",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!39",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267227457",
+      "name": "Marko",
+      "email": null,
+      "source": "workbook:Not homes!39"
+    }
+  ],
+  "contact_phones": [
+    "+38267227457"
+  ],
+  "phone_e164": "+38267227457",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

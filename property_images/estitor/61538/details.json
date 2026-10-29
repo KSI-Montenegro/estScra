@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "61538",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-61538",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-61538"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 110,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_61538",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Orijentacija": "Jugo, Zapad",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "300 m",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a3e77f88-7bab-4d97-a64b-d987b04a8d1f-lg.webp",
+    "https://content.estitor.com/d060e468-0e9c-48ec-acf4-fa8546319af0-lg.webp",
+    "https://content.estitor.com/c176896b-612c-4043-aca7-c978c883b63c-lg.webp",
+    "https://content.estitor.com/86b1898c-51d4-4d7a-ae97-bf7491c4bc7a-lg.webp",
+    "https://content.estitor.com/156c1183-9048-4e41-9aca-d285dc5a99b5-lg.webp",
+    "https://content.estitor.com/22893e8e-ec52-4ebc-b66b-fc6f5b593c12-lg.webp",
+    "https://content.estitor.com/a4d091a5-c2bb-4e26-a0d7-2c5f1a62f90b-lg.webp",
+    "https://content.estitor.com/84d58a8a-904c-465c-895e-509270d3e9ec-lg.webp",
+    "https://content.estitor.com/1f3df18b-6003-464a-808b-2fdc6dfdae3c-lg.webp",
+    "https://content.estitor.com/63fbedaa-3929-4f6b-92cb-38dd3771fbb7-lg.webp",
+    "https://content.estitor.com/af23faba-26c5-46ec-93fc-c07bf74c289d-lg.webp",
+    "https://content.estitor.com/966ff841-19d6-49a2-b29c-0df8c48df067-lg.webp",
+    "https://content.estitor.com/5e225fcb-2002-401a-9fe8-6d133354c842-lg.webp",
+    "https://content.estitor.com/d5fb6ed3-ea15-46f8-9677-00f11c5e2012-lg.webp",
+    "https://content.estitor.com/dbf6389f-2aea-48e6-804d-435e218d8bee-lg.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban stan u Bečićima, preko puta hotela Mediteran, 300m od plaže, na 100m od zgrade je pošta i market. Stan ima dva trosjeda na razvlacenje i dva singl kreveta, opremljena kuhinja, Tv, internet, veliki balkon. Zgrada ima svoj parking, sa rampom, moguć dogovor za izdavanje na godišnjem nivou.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:58.163792+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.750562+00:00",
+  "source_html_sha256": "f97c3ab9a9b919bc7127e83387aa18b27512b7b7cad3bbb9fa2c834e6ac06087",
+  "title": "Izdavanje, jednosoban stan, 44m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2022-07-04",
+  "updated_date": "2026-10-28",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "7 Omladinskih brigada, Budva 85310, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Petar Petrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugo, Zapad",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdajem jednosoban stan u Bečićima, preko puta hotela Mediteran, 300m od plaže, na 100m od zgrade je pošta i market. Stan ima dva trosjeda na razvlacenje i dva singl kreveta, opremljena kuhinja, Tv, internet, veliki b...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!110",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267600478",
+      "name": "Petar Petrovic",
+      "email": null,
+      "source": "workbook:Likely agents!110"
+    },
+    {
+      "phone_e164": "+38267600478",
+      "name": "Petar Petrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267600478"
+  ],
+  "phone_e164": "+38267600478",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

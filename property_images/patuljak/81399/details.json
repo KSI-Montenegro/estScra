@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "81399",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garosnjeru-na-pobrezju-preko-puta-kidsland--81399",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garosnjeru-na-pobrezju-preko-puta-kidsland--81399"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 36,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81399",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!36:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Pobrežje",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Laminat",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "36 m2",
+    "Kvadratura balkona": "3 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81399_7.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem veću garosnjeru u sivim soliterima u blizini Pobrežja, garosnjera je komplet namještena i sređena, zgrada posjeduje lift i veliki parking ispred zgrade.\n\nStruktura: Hodnik, veliki dnevni boravak sa ugradnim plakarom, odvojena kuhinja i trpezarija, kupatilo i terasa.\n\nMjesečna kirija 300e + režije i depozit u iznosu kirije.\n\nTel. 067204038\n067820000",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:43.891181+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.330585+00:00",
+  "source_html_sha256": "3bab70753c038ff5ae5b2da1eb290d8805450ff87199dd685fd7794360f54d6f",
+  "title": "Izdajem garosnjeru na Pobrežju, preko puta KidsLand",
+  "description_language": "en",
+  "price_raw": "300.00€",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "advertiser_name": "Vukota",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Pobrežje",
+  "floor_raw": "3",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 36,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem veću garosnjeru u sivim soliterima u blizini Pobrežja, garosnjera je komplet namještena i sređena, zgrada posjeduje lift i veliki parking ispred zgrade.Struktura: Hodnik, veliki dnevni boravak sa ugradnim plakarom, odvojena kuhinja i trpezarija, kupatilo i terasa.Mjesečna kirija 300e + režije i depozit u iznosu kirije.Tel. 067204038       067820000",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!36",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267204038",
+      "name": "Vukota",
+      "email": null,
+      "source": "workbook:Not homes!36"
+    }
+  ],
+  "contact_phones": [
+    "+38267204038"
+  ],
+  "phone_e164": "+38267204038",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

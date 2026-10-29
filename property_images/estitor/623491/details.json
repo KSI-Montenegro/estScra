@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "623491",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-623491",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-623491"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 55,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_623491",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "3",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6454bbd1-0f75-4db1-9fed-7b5b19c22e64-lg.webp",
+    "https://content.estitor.com/512f8115-ccd0-4319-8229-5b9df691e227-lg.webp",
+    "https://content.estitor.com/f08c9b9e-d6f0-4041-acab-b5493931fbaa-lg.webp",
+    "https://content.estitor.com/cbd13f5d-a986-4d91-ae88-79949a39af0b-lg.webp",
+    "https://content.estitor.com/43e20bea-78d5-4ef8-a381-20353d087bd5-lg.webp",
+    "https://content.estitor.com/baa0340f-7fd3-47cd-9166-9232c00e46cc-lg.webp",
+    "https://content.estitor.com/79591451-b671-4826-80f1-bf17441a2bfe-lg.webp",
+    "https://content.estitor.com/854733d5-e0c1-42cb-b676-4e422431f9c9-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan za izdavanje – centar Tivta\nPredstavljamo atraktivan jednosoban stan za izdavanje u samom centru Tivta, idealan za ugodan i kvalitetan život.\nStan površine 40 m² nalazi se na 4. spratu stambene zgrade. Izgradnja lifta je u toku. Stan je potpuno opremljen i spreman za useljenje, a sastoji se od jedne spavaće sobe, kupatila, prostranog hodnika, kuhinje i trpezarije.\nOpremljen je svim neophodnim sadržajima za savremen način života, uključujući internet, kablovsku televiziju i klimatizaciju. Stanu pripada i podrum, dok je javni parking dostupan u neposrednoj blizini zgrade.\nOdlična lokacija u samom srcu Tivta omogućava brz i jednostavan pristup svim važnim sadržajima – prodavnicama, restoranima, kafićima, šetalištu i moru.\nStan je slobodan od 21. oktobra\nZa više informacija i dogovor oko gledanja stana, kontaktirajte nas.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:18.885700+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.173352+00:00",
+  "source_html_sha256": "60630d40e83e597aaf5b0fadcde3f5ea0bfbce5d476ee3fd27f3a5c7467f6332",
+  "title": "Izdavanje, jednosoban stan, 40m², Centar, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-25",
+  "updated_date": "2026-10-06",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "22 Palih Boraca, Tivat, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Zarko Kraljevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 3,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Jednosoban stan za izdavanje – centar TivtaPredstavljamo atraktivan jednosoban stan za izdavanje u samom centru Tivta, idealan za ugodan i kvalitetan život.Stan površine 40 m² nalazi se na 4. spratu stambene zgrade. I...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!55",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269508549",
+      "name": "Zarko Kraljevic",
+      "email": null,
+      "source": "workbook:Likely agents!55"
+    },
+    {
+      "phone_e164": "+38269508549",
+      "name": "Zarko Kraljevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269508549"
+  ],
+  "phone_e164": "+38269508549",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

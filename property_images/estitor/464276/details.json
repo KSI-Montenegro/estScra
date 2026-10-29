@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "464276",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464276",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464276"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 787,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_464276",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Javni",
+    "Udaljenost od mora": "800 metara",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/10cef177-4ac2-408a-8b3a-008fd7e93297-lg.webp",
+    "https://content.estitor.com/36ce7950-fa83-4de2-b3b4-ac3a6d76d3fc-lg.webp",
+    "https://content.estitor.com/70ae9c61-4c62-4c1d-85e3-c1c598e4d051-lg.webp",
+    "https://content.estitor.com/7f6750c7-bde5-418c-8556-58b0b5fa666c-lg.webp",
+    "https://content.estitor.com/a3b9668a-5cbc-4a7f-abe2-89e105b5c0fc-lg.webp",
+    "https://content.estitor.com/a0d31bf0-ed5c-4fbb-a5e6-01f7f88459f0-lg.webp",
+    "https://content.estitor.com/546c38d9-0f99-46d5-981c-074eb7c5b895-lg.webp",
+    "https://content.estitor.com/eaf2d4cf-c3e6-4b3c-83e3-e24ac7c090c3-lg.webp",
+    "https://content.estitor.com/48130d31-65cd-4dbb-9d6b-8111c07a7255-lg.webp",
+    "https://content.estitor.com/021a1194-f3b4-4e73-a9bd-3cf4a04250db-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se šarmantan, renoviran stan u Budvi, naselje Golubovina, udaljen svega 800m od mora. Stan se nalazi na 4. spratu zgrade i idealan je za dugoročni najam (minimum 12 mjeseci).\n\nStruktura stana:\n\nprostrana dnevna soba\n\nspavaća soba\n\nkompletno opremljena kuhinja\n\nkupatilo\n\nbalkon\n\nStan je uređen sa pažnjom, funkcionalan i vrlo prijatan za život. Posjeduje dva velika plakara koji pružaju dovoljno prostora za odlaganje stvari.\n\nRenoviran i moderno sređen\nUseljiv od 01.10.\nLokacija mirna, a blizu svih sadržaja\n\nUslovi najma: dugoročni zakup na 12 mjeseci ili zakup do 01 juna.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:22.299845+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.609813+00:00",
+  "source_html_sha256": "96d24a3892e7003583d80590488ce9908f62708a7dbfbb3134fcf151dc4bc120",
+  "title": "Izdavanje, dvosoban stan, 40m², Dubovica, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-01",
+  "updated_date": "2026-08-31",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 40,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "21 Obilaznica, Budva 85310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Rakocevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Javni",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se šarmantan, renoviran stan u Budvi, naselje Golubovina, udaljen svega 800m od mora. Stan se nalazi na 4. spratu zgrade i idealan je za dugoročni najam (minimum 12 mjeseci).Struktura stana:prostrana dnevna sob...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!787",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267281000",
+      "name": "Ivan Rakocevic",
+      "email": null,
+      "source": "workbook:Outreach list!787"
+    },
+    {
+      "phone_e164": "+38267281000",
+      "name": "Ivan Rakocevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267281000"
+  ],
+  "phone_e164": "+38267281000",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,61 @@
+# Izdajem poslovni prostor, Centar, Podgorica / Office for rent in the City Center
+
+Source: https://patuljak.me/oglas/izdajem-poslovni-prostor-centar-podgorica-office-f--79566
+
+- Deal: rent
+- Property type: commercial
+- Published price: 800.00€
+- Price amount: 800
+- Currency: EUR
+- City: Podgorica
+- District: Centar
+- Area (m²): 70
+- Floor: Prizemlje
+
+## Original listing description
+
+IZDAJE SE LUKSUZAN POSLOVNI PROSTOR - PRIZEMLJE - ULICA SLOBODE – 70 m²
+
+Rijetka prilika da vaše poslovanje smjestite u vrhunski opremljen i reprezentativan prostor od 70 kvadratnih metara, idealan za sve vrste kancelarija, predstavništava i poslovnih djelatnosti kojima je važan prestiž i besprijekorna funkcionalnost.
+
+Karakteristike koje izdvajaju ovaj prostor:
+
+• Potpuno renoviran uz upotrebu materijala i instalacija najvišeg kvaliteta
+
+• Blindirana ulazna vrata, potpuno novi prozori u boji oraha i unutrašnja drvena vrata sa završnom obradom od furnira
+
+• Moderna kuhinja sa ugradnim elementima i plakarom za odlaganje dokumenata/registratora
+
+• DAIKIN premium multi-split toplotna pumpa – energetski efikasno grijanje i hlađenje cijelog prostora
+
+• REK ormar sa potpunom instalacijom jake i slabe struje u svim prostorijama, višestruke utičnice povezane na REK – spremno za IT opremu i naprednu mrežnu infrastrukturu
+
+• Napredan sigurnosni sistem:
+
+▪ Spoljašnji i unutrašnji video nadzor DAHUA (7 kamera, 5MP)
+
+▪ Alarm i senzori u svakoj prostoriji, sa mogućnošću direktnog obavještavanja putem mobilnog telefona
+
+FOR RENT – LUXURY OFFICE SPACE - GROUND-FLOOR – ULICA SLOBODE 70 m²
+
+A rare opportunity to position your business in a fully equipped, high-end, and representative office space of 70 square meters – ideal for all types of offices, corporate branches, and professional services seeking prestige and flawless functionality.
+
+• Key features that make this property stand out:
+
+• Fully renovated with top-quality materials and installations
+
+• High-security armored entrance door, Brand-new walnut-colored windows and interior wooden doors with a veneer finish
+
+• Modern kitchen with built-in elements and storage cabinet for documents/files
+
+• DAIKIN premium multi-split heat pump – energy-efficient heating and cooling throughout the premises
+
+• REK cabinet with complete strong and weak current installation in all rooms, multiple sockets connected to the REK – ready for IT equipment and advanced network infrastructure
+
+• Advanced security system:
+
+▪ Indoor and outdoor DAHUA video surveillance (7 cameras, 5MP)
+
+▪ Alarm and sensors in every room with direct mobile phone notifications
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

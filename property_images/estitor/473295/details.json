@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "473295",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-473295",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-473295"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 128,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_473295",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "6",
+    "Godina izgradnje": "2024",
+    "Parking": "2",
+    "Površina placa": "2000",
+    "Udaljenost od mora": "400",
+    "Klimatizacija": "6",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true",
+    "Površina placa m2": "2000"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/aeaab247-c2a1-4403-b1d4-eb090de19648-lg.webp",
+    "https://content.estitor.com/9902684b-9f5e-4d4f-a683-13256ee4b5f7-lg.webp",
+    "https://content.estitor.com/961f9c8f-09fa-440e-aa53-666dba35579b-lg.webp",
+    "https://content.estitor.com/9ddd2869-f693-4e12-8a24-19cd7be75ec4-lg.webp",
+    "https://content.estitor.com/49f8d624-5b81-4c2a-af87-174ee0b576dc-lg.webp",
+    "https://content.estitor.com/d7c34e38-ba3e-4948-bcb0-9e8c30536232-lg.webp",
+    "https://content.estitor.com/d5cbc88b-450a-402c-a611-926aa5f95536-lg.webp",
+    "https://content.estitor.com/0fe10e1c-5dd7-4ec0-85d7-fec3b10163b5-lg.webp",
+    "https://content.estitor.com/3f5368c2-1639-4f14-b109-e1c06132e2e1-lg.webp",
+    "https://content.estitor.com/4691ddc8-be89-4f03-8645-2fcc76e6b770-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "-",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:15.698192+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.934165+00:00",
+  "source_html_sha256": "5e13530e438b769acba67f28d34cc86832622ea36a3393a23aba115962929498",
+  "title": "Izdavanje, kuća, 300m², Pržno, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-25",
+  "updated_date": "2026-09-06",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 300,
+  "rooms": 4,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Zora Mitrovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "parking_raw": "2",
+  "lot_area_m2": 2000,
+  "balconies": 6,
+  "year_built": 2024,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "-",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!128",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269482600",
+      "name": "Zora Mitrovic",
+      "email": null,
+      "source": "workbook:Likely agents!128"
+    },
+    {
+      "phone_e164": "+38269482600",
+      "name": "Zora Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269482600"
+  ],
+  "phone_e164": "+38269482600",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

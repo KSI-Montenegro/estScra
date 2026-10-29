@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "68650",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-76m2-podgorica--68650",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-76m2-podgorica--68650"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 201,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_68650",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Pobrežje",
+    "Adresa": "Bracana Bracanovica",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Ne",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Stambena kvadratura": "76 m2",
+    "Kvadratura balkona": "8 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_2.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Двособан стан 76м2(ЛН 66м2), налази се на другом спрату у згради пословног и стамбеног простора., ул. Браана Брачановића. Зграда има лифт, видео надзор, интернет, редовно се одржава. Јавни паркинг се налази у дворишној strani зградe.. Стан је на одличној локацији, која је повезана са осталим деловима града пешачком удаљеношћу и неопходном инfraструктуром.\nLokacija je u neposrednoj blizini Дома здравља, игралишта за децу, двijе основне школе, двije средње школе, вртићa, Малл оф Монтенегро схопинг, Гинтас пијаца, hipermarketa, rесторанa i svega sto je neophodno za конфоан живот.\nСтан је веома функционалан, tipicno за староградњу, djelimicno renoviran dvosmjerno orjentisan sjever-jug sa изобиљем светлости током целог дана. Састоји се од дневне собе, кухиње са трепезаријом, 2 spavace собе, ходника, предсобља, купатила, тоалета и 2 lodje.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:23.008872+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.047801+00:00",
+  "source_html_sha256": "e098a0973ff38a7b0ba0727235a7251a9810ad4da082ca324b382a7ed7c1a30d",
+  "title": "Dvosoban 76m2, Podgorica",
+  "description_language": "en",
+  "price_raw": "185000.00€",
+  "price_amount": 185000,
+  "price_currency": "EUR",
+  "advertiser_name": "Vera",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Pobrežje",
+  "street_address": "Bracana Bracanovica",
+  "floor_raw": "2",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "area_m2": 76,
+  "amenities": [],
+  "metadata_summary": "Двособан стан 76м2(ЛН 66м2), налази се на другом спрату у згради пословног и стамбеног простора., ул. Браана Брачановића. Зграда има лифт, видео надзор, интернет, редовно се одржава. Јавни паркинг се налази у дворишној strani зградe.. Стан је на одличној локацији, која је повезана са осталим деловима града пешачком удаљеношћу и неопходном инfraструктуром.Lokacija  je u neposrednoj blizini  Дома здравља, игралишта за децу,  двijе основне школе, двije средње школе, вртићa, Малл оф Монтенегро схопинг, Гинтас пијаца,  hipermarketa, rесторанa i svega sto je neophodno za конфоан живот.Стан је веома функционалан,  tipicno за староградњу, djelimicno renoviran dvosmjerno orjentisan sjever-jug sa изобиљем светлости током целог дана. Састоји се од дневне собе, кухиње са трепезаријом, 2 spavace собе, ходника, предсобља, купатила, тоалета и 2 lodje.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!201",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267561462",
+      "name": "Vera",
+      "email": null,
+      "source": "workbook:Outreach list!201"
+    }
+  ],
+  "contact_phones": [
+    "+38267561462"
+  ],
+  "phone_e164": "+38267561462",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": false,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "273796",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-273796",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-273796"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 746,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_273796",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2008",
+    "Orijentacija": "Istok",
+    "Parking": "Javni",
+    "Udaljenost od mora": "1 km",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6ffbfe26-8605-42c6-821a-5c7cf4006efb-lg.webp",
+    "https://content.estitor.com/ce09fe2c-33b3-4e26-bd95-a31115e7fbe4-lg.webp",
+    "https://content.estitor.com/c94a7b87-0a3c-40ed-b9bf-c2b564a5686d-lg.webp",
+    "https://content.estitor.com/146cccb5-0bbf-4a9f-a236-6c4ec95d0709-lg.webp",
+    "https://content.estitor.com/d7c75891-1175-4605-acca-85de49d1ef4b-lg.webp",
+    "https://content.estitor.com/5f03c38c-ac28-4abd-8e85-c188a4a13ff4-lg.webp",
+    "https://content.estitor.com/85bdbd11-72cb-47f7-a539-8a1a6e21b281-lg.webp",
+    "https://content.estitor.com/19ae9610-520e-49e6-8aa4-5bc4cd5d9589-lg.webp",
+    "https://content.estitor.com/9ec7d0e6-6623-44f9-a369-c76d41631f1c-lg.webp",
+    "https://content.estitor.com/70321c9c-9361-40b3-a07e-2f48fcf21dfa-lg.webp",
+    "https://content.estitor.com/5ce167c2-8d04-4ec6-9fa1-5241db017063-lg.webp",
+    "https://content.estitor.com/b8531eb8-b493-4a5a-be12-e6db4ab1b8e3-lg.webp",
+    "https://content.estitor.com/90228b53-630d-4e36-a796-ee848b6e2cd2-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Studio 30 kvadrara Kod gvozdenog mosta i nove osnovne skole Sve lijepo namjesteno Svi sadrzaji zastupljeni Na duzi period iznajmljujem Trazim ozbiljnu osobu",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:55.916000+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.188600+00:00",
+  "source_html_sha256": "a4dc9ea7d09c3e5864fbcdbac8c33989256b2f9e4cde2cfd10b27bddf3f07bfc",
+  "title": "Izdavanje, garsonjera, 30m², Babilonija, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2024-08-16",
+  "updated_date": "2026-10-02",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 30,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Dragan Tomasevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "true",
+  "parking_raw": "Javni",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2008,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Studio 30 kvadrara Kod gvozdenog mosta i nove osnovne skole Sve lijepo namjesteno Svi sadrzaji zastupljeni Na duzi period iznajmljujem Trazim ozbiljnu osobu",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!746",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267500140",
+      "name": "Dragan Tomasevic",
+      "email": null,
+      "source": "workbook:Outreach list!746"
+    },
+    {
+      "phone_e164": "+38267500140",
+      "name": "Dragan Tomasevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267500140"
+  ],
+  "phone_e164": "+38267500140",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

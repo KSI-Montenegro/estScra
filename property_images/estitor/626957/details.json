@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "626957",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-626957",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-626957"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 170,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_626957",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2025",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/18844cdd-9988-48ab-922f-3c93ad4a819d-lg.webp",
+    "https://content.estitor.com/edf77481-8809-4779-8d8b-4400011ea01e-lg.webp",
+    "https://content.estitor.com/f3c0f643-fe13-4385-9510-3339f677c9c9-lg.webp",
+    "https://content.estitor.com/214b9f05-4d60-4a4a-83eb-ac8e43eeec55-lg.webp",
+    "https://content.estitor.com/ec440d4d-f891-4ea2-9f69-3a95f719dfca-lg.webp",
+    "https://content.estitor.com/51102135-c324-4397-a38c-e215ae476855-lg.webp",
+    "https://content.estitor.com/f808e18a-060e-4987-8bfd-7fce9bc3cf54-lg.webp",
+    "https://content.estitor.com/1cae6d11-4179-4387-a0ef-319d6c5874e2-lg.webp",
+    "https://content.estitor.com/e11fab2d-c49b-4b27-a3cc-cf2a202bc9b0-lg.webp",
+    "https://content.estitor.com/f3d52c0d-5052-400b-8a75-0de6a871332a-lg.webp",
+    "https://content.estitor.com/4ba17a38-f6d9-423c-867d-289a03f0152c-lg.webp",
+    "https://content.estitor.com/a858284e-45fd-450a-8da3-57ea9c5ae551-lg.webp",
+    "https://content.estitor.com/1b720437-513f-4602-b78b-35f1c2cbbe20-lg.webp",
+    "https://content.estitor.com/c860298b-649f-487d-b986-9e5a43252702-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni objekat površine 1.200 m², smješten na atraktivnoj lokaciji u Hladnoj Uvali, Crna Gora.\nKarakteristike objekta:\nUkupna površina: 1.200 m²\n\nStruktura: podrum + prizemlje + sprat\n\nPutnički lift\n\nPotpuno klimatizovan\n\nUknjižen, bez tereta i ograničenja\n\nPogodan za različite vrste poslovnih djelatnosti\n\nObjekat pruža odlične mogućnosti za različite poslovne namjene i predstavlja odličan izbor za razvoj vašeg biznisa.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:02.263612+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.296636+00:00",
+  "source_html_sha256": "74eeef6c1cd87db8c62c53857b44ea8bf1abf1ff56c75db0da273e9e79cc4abf",
+  "title": "Izdavanje, poslovni prostor, 1200m², Utjeha, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 1200,
+  "rooms": 5,
+  "bathrooms": 2,
+  "city": "Bar",
+  "street_address": "E851, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Axioma Property",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 2,
+  "year_built": 2025,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se poslovni objekat površine 1.200 m², smješten na atraktivnoj lokaciji u Hladnoj Uvali, Crna Gora.Karakteristike objekta:Ukupna površina: 1.200 m²Struktura: podrum + prizemlje + spratPutnički liftPotpuno klima...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!170",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269284673",
+      "name": "Axioma Property",
+      "email": null,
+      "source": "workbook:Not homes!170"
+    },
+    {
+      "phone_e164": "+38269284673",
+      "name": "Axioma Property",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269284673"
+  ],
+  "phone_e164": "+38269284673",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

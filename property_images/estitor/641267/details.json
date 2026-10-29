@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "641267",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-641267",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-641267"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 12,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_641267",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b1c5fb98-552f-4cb5-aa76-f01be85d15ae-lg.webp",
+    "https://content.estitor.com/84a82340-f1cb-490a-a401-303c9f657c01-lg.webp",
+    "https://content.estitor.com/dc6991c8-eff1-466b-8d0a-efad953f14e9-lg.webp",
+    "https://content.estitor.com/64ae44f9-055a-47fb-bd3a-51987a4f7065-lg.webp",
+    "https://content.estitor.com/cfb90a40-7ada-4a1c-8013-5a58e3a77270-lg.webp",
+    "https://content.estitor.com/355c12c6-a542-44a5-b631-341a8a95c283-lg.webp",
+    "https://content.estitor.com/bd2a2271-c7a8-4fb2-9ee9-31cdfcffe18b-lg.webp",
+    "https://content.estitor.com/8e35cd18-51cc-42f7-b350-7f2cf15895a3-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Igalo / Odličan jednosoban stan 40 m² – Ravna zona, blizu mora (Dugoročno izdavanje)\nIzdaje se, funkcionalan i potpuno opremljen jednosoban stan površine 40 m², smješten na jednoj od najtraženijih i najpraktičnijih lokacija, u razvnoj zoni u Igalu.\nStan je u potpunosti namješten i opremljen svim potrebnim uređajima\n\nStan se nalazi u mirnom i ugodnom okruženju, ispod magistrale, na svega par minuta lagane šetnje od mora, šetališta Pet Danica i svih svakodnevnih sadržaja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:45.966867+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.698519+00:00",
+  "source_html_sha256": "d3f7ccd4d6f6dd9cd8ba25d9b0e53d252e581f2e36895f01c07601747e36d0d4",
+  "title": "Izdavanje, jednosoban stan, 40m², Igalo, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Vukašin Lutovac",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Igalo / Odličan jednosoban stan 40 m² – Ravna zona, blizu mora (Dugoročno izdavanje)Izdaje se, funkcionalan i potpuno opremljen jednosoban stan površine 40 m², smješten na jednoj od najtraženijih i najpraktičnijih lok...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!12",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269278706",
+      "name": "Vukasin",
+      "email": null,
+      "source": "workbook:Likely agents!12"
+    },
+    {
+      "phone_e164": "+38269278706",
+      "name": "Vukašin Lutovac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269278706"
+  ],
+  "phone_e164": "+38269278706",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

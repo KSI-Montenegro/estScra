@@ -1,0 +1,140 @@
+{
+  "source": "estitor",
+  "listing_id": "621521",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-621521",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-621521"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 15,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_621521",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Broj terasa": "0",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6ee8fd1d-7ec4-4420-9d12-b3047b34a582-lg.webp",
+    "https://content.estitor.com/5b91785d-6f9a-416b-9232-f6575bbc7709-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Poslovni prostor 35m2, Budva, IZDAJEM-PRODAJEM. Do sada bila prodavnica i servis kompjutera i srodbe opreme.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:30.995838+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.177136+00:00",
+  "source_html_sha256": "a6cb8027652de9025f5a97b4abefcf961cc5512678a4ae5ea4e7c8ca1fb1877f",
+  "title": "Izdavanje, poslovni prostor, 35m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-10-20",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 35,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Milorad Zvicer",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Poslovni prostor 35m2, Budva, IZDAJEM-PRODAJEM. Do sada bila prodavnica i servis kompjutera i srodbe opreme.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!15",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268072022",
+      "name": "Milorad Zvicer",
+      "email": null,
+      "source": "workbook:Not homes!15"
+    },
+    {
+      "phone_e164": "+38268072022",
+      "name": "Milorad Zvicer",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268072022"
+  ],
+  "phone_e164": "+38268072022",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

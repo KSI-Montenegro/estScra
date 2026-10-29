@@ -1,0 +1,55 @@
+# Prodaja poslovnog prostora 80m², Bulevar Džordža Vašingtona, Podgorica
+
+Source: https://patuljak.me/oglas/prodaja-poslovnog-prostora-80m-bulevar-dzordza-v--26819
+
+- Deal: sale
+- Property type: commercial
+- Published price: 320000.00€
+- Price amount: 320000
+- Currency: EUR
+- City: Podgorica
+- District: Preko Morače
+- Area (m²): 80
+- Floor: 1
+- Furnishing: Ne
+
+## Original listing description
+
+Za PRODAJU poslovni prostor na prestižnoj lokaciji – Bulevar Džordža Vašingtona, Podgorica!
+
+Površine 80 m², smješten na mezaninu (etaža sa poslovnim prostorima), ovaj lokal predstavlja idealan izbor za širok spektar djelatnosti –kancelarijsko poslovanje, IT kompanije, advokatske i notarske kancelarije,dizajn studije, studije ljepote, konsultantske agencije i druge srodne djelatnosti.
+Orijentisan je prema istoku i gleda na mirnu dvorišnu stranu ka Hramu, što osigurava rad u tišini i bez gradske buke. Cijela fasadna strana je u staklu, što prostoru daje obilje prirodne svjetlosti iprijatnu radnu atmosferu.
+
+Kvalitet gradnje i opreme:
+- Prostor se nalazi na kvalitetno izgrađenoj i dostupnoj lokaciji, u blizini više javnih parking mjesta.
+- Zidne pregrade su renomiranog austrijskog brenda Bene,poznatog po timeless dizajnu i vrhunskom kvalitetu.
+- U prostoru se nalazi čajna kuhinja.
+- Sistem grijanja i hlađenja je vrhunske marke Daikin, što dodatno garantuje komfor tokom cijele godine.
+- Tehnička opremljenost uključuje razvedene utičnice jake islabe struje, kao i rek ormar – idealno za firme sa povećanim infrastrukturnim zahtjevima.
+
+Dodatna pogodnost: Mogućnost kupovine garažnog mjesta uz doplatu,praktično za zaposlene i klijente.
+
+Okružen bankama, restoranima,modernim poslovnim objektima i svim ključnim sadržajima, ovaj prostor nudi prestiž, komfor i funkcionalnost u samom poslovnom centru grada.
+
+Osnovne informacije:
+- Površina: 80 m²
+- Lokacija: Bulevar Džordža Vašingtona (kvalitetna gradnja,dostupna lokacija, blizina parkinga)
+- Etaža: Mezanin (etaža sa poslovnim prostorima)
+- Orijentacija: Istok – dvorišna strana ka Hramu (mir itišina)
+- Fasadna strana u staklu – obilje prirodne svjetlosti
+- Zidne pregrade: Bene (Austrija) – dizajn i kvalitet bez kompromisa
+- Sistem grijanja i hlađenja: Daikin
+- Oprema: Čajna kuhinja, rek ormar, razvedena jaka i slaba struja
+
+GARAŽA - moguča kupovina / cijena po dogovoru
+
+Prostor je useljiv odmah, bez dodatnih ulaganja.
+Za više informacija i zakazivanje pregleda – stojimo vam na raspolaganju
+
+Kontakt+38267474770 (Viber, Whats up)
+
+## Published amenities
+
+- Garaža
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

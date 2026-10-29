@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "76953",
+  "listing_url": "https://patuljak.me/oglas/kuca-na-prodaju--76953",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-na-prodaju--76953"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 69,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76953",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!69:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "5",
+    "Broj spratova": "2",
+    "Godina izgradnje": "1990-1999",
+    "Namještena": "Ne",
+    "Vrsta poda": "Parket",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "270 m2",
+    "Kvadratura placa": "500 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76953_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Informacije ostale na broj 067 880 334",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:08.122697+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.211902+00:00",
+  "source_html_sha256": "795e9329e05a0fa8ec79d2676ae495d878cfb2dca82a7bece2d5d33d3ce100e3",
+  "title": "Kuca na prodaju",
+  "description_language": "en",
+  "price_raw": "350000.00€",
+  "price_amount": 350000,
+  "price_currency": "EUR",
+  "advertiser_name": "Seka",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "building_floors_raw": "2",
+  "room_layout_raw": "5",
+  "heating_raw": "Struja",
+  "area_m2": 270,
+  "year_built": 1990,
+  "amenities": [],
+  "metadata_summary": "Informacije ostale na broj 067 880 334",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!69",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267268140",
+      "name": "Seka",
+      "email": null,
+      "source": "workbook:Outreach list!69"
+    }
+  ],
+  "contact_phones": [
+    "+38267268140"
+  ],
+  "phone_e164": "+38267268140",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

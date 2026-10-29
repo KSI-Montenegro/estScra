@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "81284",
+  "listing_url": "https://patuljak.me/oglas/prodajem-imanje--81284",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-imanje--81284"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 749,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81284",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!749:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Manastir Morača",
+    "Adresa": "Selo Mioska",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "5732 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81284_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81284_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "PRODAJA IMANJA – U BLIZINI KOLASINA IDEALNO ZA ETNO SELO, VIKENDICE\n\nNa prodaju prelijepo imanje u mjestu Mijoska, na raskrsnici puta Kolašin – Šavnik, u mirnom prirodnom okruženju.\n\n???? Lokacija:\n\n18 km od Kolašina\n55 km od Podgorice (putem kroz kanjon Morače)\nSamo 30 m od asfaltnog puta, do parcele vodi uređen makadamski put koji treba urediti.\n???? Površina:\n\nLivada: 848 m²\nŠuma: 4.884 m²\nUkupno: 5.732 m²\nParcele: L.N. 549 i 550/1\n???? Prirodni resursi:\nImanje se nalazi između dva potoka:\n\njedan sa izvorskom (pijaćom) vodom, koji povremeno može presušiti u periodu od kraja juna do kraja septembra (postoji mogućnost alternativnog priključenja na pijaću vodu),\ndrugi potok sa tehničkom vodom, koji protiče tokom cijele godine.\n⚡ Infrastruktura:\n\nMoguć priključak na električnu energiju, jer se elektro mreža nalazi u neposrednoj blizini.\n???? Zašto je ovo imanje posebna prilika?\n\nPredivan pogled i netaknuta priroda.\nMir i privatnost, daleko od gradske gužve.\nOdlična povezanost sa glavnim putem.\nIdealno za izgradnju porodične vikendice, brvnare, etno sela, turističkog kompleksa ili kao dugoročnu investiciju.\nPogodno za ljubitelje planine, odmora u prirodi i seoskog turizma.\nOvo je odlična prilika za sve koji žele da investiraju u nekretninu na području koje iz godine u godinu postaje sve atraktivnije zbog razvoja turizma u okolini Kolašina.\n\n???? Cijena: 20 € / m².",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:57.403476+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.218462+00:00",
+  "source_html_sha256": "2c5dc45b9c5e194387b7438b406b3fef22f215c9d6e8c05a895fc2590a855981",
+  "title": "Prodajem imanje",
+  "description_language": "en",
+  "price_raw": "20.00€",
+  "price_amount": 20,
+  "price_currency": "EUR",
+  "advertiser_name": "Dragan",
+  "property_type": "land",
+  "city": "Kolašin",
+  "district": "Manastir Morača",
+  "street_address": "Selo Mioska",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "PRODAJA IMANJA – U BLIZINI KOLASINA  IDEALNO ZA ETNO SELO, VIKENDICE Na prodaju prelijepo imanje u mjestu Mijoska, na raskrsnici puta Kolašin – Šavnik, u mirnom prirodnom okruženju.???? Lokacija:18 km od Kolašina55 km od Podgorice (putem kroz kanjon Morače)Samo 30 m od asfaltnog puta, do parcele vodi uređen makadamski put koji treba urediti.???? Površina:Livada: 848 m²Šuma: 4.884 m²Ukupno: 5.732 m²Parcele: L.N. 549 i 550/1???? Prirodni resursi:Imanje se nalazi između dva potoka:jedan sa izvorskom (pijaćom) vodom, koji povremeno može presušiti u periodu od kraja juna do kraja septembra (postoji mogućnost alternativnog priključenja na pijaću vodu),drugi potok sa tehničkom vodom, koji protiče tokom cijele godine.⚡ Infrastruktura:Moguć priključak na električnu energiju, jer se elektro mreža nalazi u neposrednoj blizini.???? Zašto je ovo imanje posebna prilika?Predivan pogled i netaknuta priroda.Mir i privatnost, daleko od gradske gužve.Odlična povezanost sa glavnim putem.Idealno za izgradnju porodične vikendice, brvnare, etno sela, turističkog kompleksa ili kao dugoročnu investiciju.Pogodno za ljubitelje planine, odmora u prirodi i seoskog turizma.Ovo je odlična prilika za sve koji žele da investiraju u nekretninu na području koje iz godine u godinu postaje sve atraktivnije zbog razvoja turizma u okolini Kolašina.???? Cijena: 20 € / m².",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!749",
+      "notes": "check deal: sale at 20 EUR looks like a rent",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269493493",
+      "name": "Dragan",
+      "email": null,
+      "source": "workbook:Outreach list!749"
+    }
+  ],
+  "contact_phones": [
+    "+38269493493"
+  ],
+  "phone_e164": "+38269493493",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 5732,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "79566",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-centar-podgorica-office-f--79566",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-centar-podgorica-office-f--79566"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 54,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_79566",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj prostorija": "3",
+    "Sprat": "Prizemlje",
+    "Stambena kvadratura": "70 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_8.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "IZDAJE SE LUKSUZAN POSLOVNI PROSTOR - PRIZEMLJE - ULICA SLOBODE – 70 m²\n\nRijetka prilika da vaše poslovanje smjestite u vrhunski opremljen i reprezentativan prostor od 70 kvadratnih metara, idealan za sve vrste kancelarija, predstavništava i poslovnih djelatnosti kojima je važan prestiž i besprijekorna funkcionalnost.\n\nKarakteristike koje izdvajaju ovaj prostor:\n\n• Potpuno renoviran uz upotrebu materijala i instalacija najvišeg kvaliteta\n\n• Blindirana ulazna vrata, potpuno novi prozori u boji oraha i unutrašnja drvena vrata sa završnom obradom od furnira\n\n• Moderna kuhinja sa ugradnim elementima i plakarom za odlaganje dokumenata/registratora\n\n• DAIKIN premium multi-split toplotna pumpa – energetski efikasno grijanje i hlađenje cijelog prostora\n\n• REK ormar sa potpunom instalacijom jake i slabe struje u svim prostorijama, višestruke utičnice povezane na REK – spremno za IT opremu i naprednu mrežnu infrastrukturu\n\n• Napredan sigurnosni sistem:\n\n▪ Spoljašnji i unutrašnji video nadzor DAHUA (7 kamera, 5MP)\n\n▪ Alarm i senzori u svakoj prostoriji, sa mogućnošću direktnog obavještavanja putem mobilnog telefona\n\nFOR RENT – LUXURY OFFICE SPACE - GROUND-FLOOR – ULICA SLOBODE 70 m²\n\nA rare opportunity to position your business in a fully equipped, high-end, and representative office space of 70 square meters – ideal for all types of offices, corporate branches, and professional services seeking prestige and flawless functionality.\n\n• Key features that make this property stand out:\n\n• Fully renovated with top-quality materials and installations\n\n• High-security armored entrance door, Brand-new walnut-colored windows and interior wooden doors with a veneer finish\n\n• Modern kitchen with built-in elements and storage cabinet for documents/files\n\n• DAIKIN premium multi-split heat pump – energy-efficient heating and cooling throughout the premises\n\n• REK cabinet with complete strong and weak current installation in all rooms, multiple sockets connected to the REK – ready for IT equipment and advanced network infrastructure\n\n• Advanced security system:\n\n▪ Indoor and outdoor DAHUA video surveillance (7 cameras, 5MP)\n\n▪ Alarm and sensors in every room with direct mobile phone notifications",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:56.502991+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.478703+00:00",
+  "source_html_sha256": "b5b9f3ab8bd0c549bfaf0c034a9978fa4a141ea85779e732b7504e71b8212a92",
+  "title": "Izdajem poslovni prostor, Centar, Podgorica / Office for rent in the City Center",
+  "description_language": "en",
+  "price_raw": "800.00€",
+  "price_amount": 800,
+  "price_currency": "EUR",
+  "advertiser_name": "Nina",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "Prizemlje",
+  "area_m2": 70,
+  "amenities": [],
+  "metadata_summary": "IZDAJE SE LUKSUZAN POSLOVNI PROSTOR - PRIZEMLJE - ULICA SLOBODE – 70 m²Rijetka prilika da vaše poslovanje smjestite u vrhunski opremljen i reprezentativan prostor od 70 kvadratnih metara, idealan za sve vrste kancelarija, predstavništava i poslovnih djelatnosti kojima je važan prestiž i besprijekorna funkcionalnost.Karakteristike koje izdvajaju ovaj prostor:• Potpuno renoviran uz upotrebu materijala i instalacija najvišeg kvaliteta• Blindirana ulazna vrata, potpuno novi prozori u boji oraha i unutrašnja drvena vrata sa završnom obradom od furnira• Moderna kuhinja sa ugradnim elementima i plakarom za odlaganje dokumenata/registratora• DAIKIN premium multi-split toplotna pumpa – energetski efikasno grijanje i hlađenje cijelog prostora• REK ormar sa potpunom instalacijom jake i slabe struje u svim prostorijama, višestruke utičnice povezane na REK – spremno za IT opremu i naprednu mrežnu infrastrukturu• Napredan sigurnosni sistem:▪ Spoljašnji i unutrašnji video nadzor DAHUA (7 kamera, 5MP)▪ Alarm i senzori u svakoj prostoriji, sa mogućnošću direktnog obavještavanja putem mobilnog telefonaFOR RENT – LUXURY OFFICE SPACE - GROUND-FLOOR  – ULICA SLOBODE 70 m²A rare opportunity to position your business in a fully equipped, high-end, and representative office space of 70 square meters – ideal for all types of offices, corporate branches, and professional services seeking prestige and flawless functionality.• Key features that make this property stand out:• Fully renovated with top-quality materials and installations• High-security armored entrance door, Brand-new walnut-colored windows and interior wooden doors with a veneer finish• Modern kitchen with built-in elements and storage cabinet for documents/files• DAIKIN premium multi-split heat pump – energy-efficient heating and cooling throughout the premises• REK cabinet with complete strong and weak current installation in all rooms, multiple sockets connected to the REK – ready for IT equipment and advanced network infrastructure• Advanced security system:▪ Indoor and outdoor DAHUA video surveillance (7 cameras, 5MP)▪ Alarm and sensors in every room with direct mobile phone notifications",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!54",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267505520",
+      "name": "Nina",
+      "email": null,
+      "source": "workbook:Not homes!54"
+    }
+  ],
+  "contact_phones": [
+    "+38267505520"
+  ],
+  "phone_e164": "+38267505520",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

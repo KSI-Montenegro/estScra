@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "588401",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-588401",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-588401"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 699,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_588401",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2002",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a9f818cc-4a31-47e7-96f8-c17efd370059-lg.webp",
+    "https://content.estitor.com/4f85be8e-25fd-49e3-9016-9fa0038afc2a-lg.webp",
+    "https://content.estitor.com/79d92fef-40e7-4b83-99e0-bf2b17c9b686-lg.webp",
+    "https://content.estitor.com/de036be5-2f76-46e5-86d6-63466d1f15ae-lg.webp",
+    "https://content.estitor.com/59faa8ba-37a4-468f-b692-c8619e9c5092-lg.webp",
+    "https://content.estitor.com/7bd741a7-3def-49ae-88e0-080adda98197-lg.webp",
+    "https://content.estitor.com/0089e28b-fe9a-41f0-b4e6-2ffef59a21d2-lg.webp",
+    "https://content.estitor.com/6e570e0f-6053-4037-8568-e7d611148863-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Odličan stan u najljepšoj ulici u Podgorici, na prestižnoj lokaciji Kruševac. Na samo par koraka od svih potrebnih sadržaja, ovaj stan nudi savršenu kombinaciju udobnosti i urbanog života.\n\nOvaj šarmantni stan, površine 39.0 m², sastoji se od jedne prostrane spavaće sobe i jednog modernog kupatila. U potpunosti je opremljen kvalitetnim namještajem, što ga čini spremnim za useljenje bez dodatnih ulaganja.\n\nIdealno je rješenje za samce ili parove koji traže dom u srcu grada, a opet u mirnom i zelenom okruženju. Dostupan je javni parking u okolini, što dodatno olakšava svakodnevni život.\n\nNe propustite priliku da živite u jednom od najpoželjnijih djelova Podgorice.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:31.681519+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.897294+00:00",
+  "source_html_sha256": "58a48b1fe2ca0ed47c4fb3012d736f95c82951a1b6d92dd99396e1866cc3a6cf",
+  "title": "Izdavanje, jednosoban stan, 39m², Kruševac, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-05",
+  "updated_date": "2026-09-10",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 39,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "57 Bulevar Džordža Vašingtona, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vladimir Rogac",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2002,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Odličan stan u najljepšoj ulici u Podgorici, na prestižnoj lokaciji Kruševac. Na samo par koraka od svih potrebnih sadržaja, ovaj stan nudi savršenu kombinaciju udobnosti i urbanog života. Ovaj šarmantni stan, površin...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!699",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269438851",
+      "name": "Vladimir Rogac",
+      "email": null,
+      "source": "workbook:Outreach list!699"
+    },
+    {
+      "phone_e164": "+38269438851",
+      "name": "Vladimir Rogac",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269438851"
+  ],
+  "phone_e164": "+38269438851",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

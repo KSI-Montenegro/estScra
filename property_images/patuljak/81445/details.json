@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "81445",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dugorocno-stan-49-m2-ljubovic-podgorica--81445",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dugorocno-stan-49-m2-ljubovic-podgorica--81445"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 153,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_81445",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!153:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ljubović",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "6",
+    "Kvadratura": "49 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_4.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Stan je potpuno namješten i opremljen svim potrebnim uređajima, spreman za useljenje.\n\nOrijentacija: istočna\n\nZa više informacija i dogovor oko razgledanja kontaktirajte me putem WhatsAppa ili Vibera na broj: +385 97 606 9155",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:57.602151+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.756039+00:00",
+  "source_html_sha256": "2e58937c2e795cfb44b266ad7fa82ce6b4f837c216f2137552aa56b6282ac6eb",
+  "title": "Izdajem dugoročno stan 49 m2, Ljubović, Podgorica",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Ana",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Ljubović",
+  "floor_raw": "6",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 49,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Stan je potpuno namješten i opremljen svim potrebnim uređajima, spreman za useljenje. Orijentacija: istočnaZa više informacija i dogovor oko razgledanja kontaktirajte me putem WhatsAppa ili Vibera na broj: +385 97 606 9155",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!153",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269061843",
+      "name": "Ana",
+      "email": null,
+      "source": "workbook:Outreach list!153"
+    }
+  ],
+  "contact_phones": [
+    "+38269061843"
+  ],
+  "phone_e164": "+38269061843",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

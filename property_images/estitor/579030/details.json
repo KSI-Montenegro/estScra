@@ -1,0 +1,138 @@
+{
+  "source": "estitor",
+  "listing_id": "579030",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-579030",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-579030"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 107,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_579030",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/83f87ec7-f513-4fd8-97bf-092fcbfd166d-lg.webp",
+    "https://content.estitor.com/e92924f8-cd93-4adc-a446-b0a39c189782-lg.webp",
+    "https://content.estitor.com/2bcff386-a335-4e17-a9f1-ce2099def1d3-lg.webp",
+    "https://content.estitor.com/d080f33c-3eb9-4351-b6b4-3845f0100583-lg.webp",
+    "https://content.estitor.com/65624419-b77c-4f30-bdae-999ac495091f-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem urbanizovan i ograđen plac od 900 m2, udaljen 30 metara od Nikšićkog puta i oko 1 km od \"Delte\". Plac se nalazi na dobroj lokaciji, između Fitnes studija \"Prometej\" i prodavnice \"Idea\" - Nikšićki put, prekoputa \"7. avgusta\". Plac je pogodan za različite poslovne namjene. Moguć svaki dogovor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:56.752236+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.720759+00:00",
+  "source_html_sha256": "f50929b26f5ac422a35f6e8b97af51de802dd292ee6c453c5dca3b90d801213a",
+  "title": "Izdavanje, plac, 900m², Gornja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-12",
+  "updated_date": "2026-10-25",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Irena Stevović",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izdajem urbanizovan i ograđen plac od 900 m2, udaljen 30 metara od Nikšićkog puta i oko 1 km od \"Delte\". Plac se nalazi na dobroj lokaciji, između Fitnes studija \"Prometej\" i prodavnice \"Idea\" - Nikšićki put, prekoput...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!107",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268041063",
+      "name": "Irena Stevović",
+      "email": null,
+      "source": "workbook:Likely agents!107"
+    },
+    {
+      "phone_e164": "+38268041063",
+      "name": "Irena Stevović",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268041063"
+  ],
+  "phone_e164": "+38268041063",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

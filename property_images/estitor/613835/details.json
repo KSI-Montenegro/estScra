@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "613835",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-613835",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-613835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 635,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_613835",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeverozapad",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/cd8a46c2-4e92-4b39-902a-5cd3e9353702-lg.webp",
+    "https://content.estitor.com/cb2a7e4b-c237-4206-ab1b-25e8ac5f2441-lg.webp",
+    "https://content.estitor.com/b3e7cd92-507c-4528-aa7f-1bf94d43b1bd-lg.webp",
+    "https://content.estitor.com/ec8d567b-e1e3-49e2-9c00-72d61db2fe7b-lg.webp",
+    "https://content.estitor.com/20e89373-b385-46ae-895f-4c06e4f85ef0-lg.webp",
+    "https://content.estitor.com/d190cd79-b7ea-4cf3-88d8-a9536a44aeae-lg.webp",
+    "https://content.estitor.com/c9fc9ae3-f84e-4319-a553-3e1fda07845e-lg.webp",
+    "https://content.estitor.com/78226ed3-1c44-4b12-b22c-88e8cc88735a-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban stan za poslovni prostor – I sprat\nIdealna lokacija za notara, advokata, zubara ili sličnu djelatnost.\nPrvi sprat\n\nGaražno mjesto uključeno\n\nOdličan raspored za kancelarije ili ordinaciju\n\nDostupan od februara.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:59.658432+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.547641+00:00",
+  "source_html_sha256": "b2096df04d97137cffa3b324138ab34efe1657ab47de3370fef1740b32a493e9",
+  "title": "Izdavanje, dvosoban stan, 70m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-10",
+  "updated_date": "2026-10-04",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "103 Marka Radovića, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Janko Rakocevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Sjeverozapad",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Izdaje se dvosoban stan za poslovni prostor – I spratIdealna lokacija za notara, advokata, zubara ili sličnu djelatnost.Prvi spratGaražno mjesto uključenoOdličan raspored za kancelarije ili ordinacijuDostupan od febru...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!635",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269233892",
+      "name": "Janko Rakocevic",
+      "email": null,
+      "source": "workbook:Outreach list!635"
+    },
+    {
+      "phone_e164": "+38269233892",
+      "name": "Janko Rakocevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269233892"
+  ],
+  "phone_e164": "+38269233892",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

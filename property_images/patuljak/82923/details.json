@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "82923",
+  "listing_url": "https://patuljak.me/oglas/prodajajednosoban-stan48m2vezirov-mostpodgorica--82923",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajajednosoban-stan48m2vezirov-mostpodgorica--82923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 137,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82923",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!137:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Vezirov most",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Kvadratura": "48 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Primarna orijentacija": "Jugoistok",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82923_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "???? PRODAJA | Jednosoban stan 48 m² – Vezirov most, Podgorica\nNa prodaju lijepo opremljen jednosoban stan površine 48 m², smješten u kvalitetnoj zgradi Zeta Gradnje, u neposrednoj blizini Vezirovog mosta.\n???? Lokacija: Vezirov most, Zagorič – Podgorica\n???? Površina: 48 m²\n????️ Struktura: Jednosoban stan\n???? Sprat: 1. sprat\n????️ Investitor: Zeta Gradnja\n????️ Kompletno namješten i opremljen\n????️ Ugradna kuhinja izrađena od medijapana\n???? Ugradni plakari u spavaćoj sobi, hodniku i kupatilu\n❄️ Klimatizovan\n???? Terasa\n???? Lift\n???? Odlična zvučna i termoizolacija\n???? Javni parking\n???? Prvi vlasnik\n???? Odmah useljiv\n???? Cijena: 129.500 €\nStan se odlikuje funkcionalnim rasporedom, kvalitetnim namještajem i pažljivo uređenim enterijerom. Nekretnina je izuzetno očuvana i prodaje se kompletno namještena, bez potrebe za dodatnim ulaganjima u opremanje.\nPosebna prednost je kvalitet gradnje, sa odličnom zvučnom i termoizolacijom, što doprinosi udobnosti stanovanja i energetskoj efikasnosti.\nU prizemlju zgrade nalazi se apoteka, dok su centar Podgorice, Ekonomski i Pravni fakultet udaljeni približno 2 km.\nZahvaljujući lokaciji, kvalitetu gradnje i opremljenosti, stan predstavlja odličnu priliku kako za stanovanje, tako i za investiciju kroz dugoročno izdavanje.\nZa više informacija i zakazivanje razgledanja:\n???? 069 486 013 – Viber / WhatsApp",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:22.236795+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.010733+00:00",
+  "source_html_sha256": "81c27118a29396e54a351639d7752c39bc9d4e5d22a31342ae74917b12fcc8ff",
+  "title": "Prodaja,jednosoban stan,48m2,Vezirov most,Podgorica.",
+  "description_language": "en",
+  "price_raw": "129500.00€",
+  "price_amount": 129500,
+  "price_currency": "EUR",
+  "advertiser_name": "NOVA LUX INVEST",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Vezirov most",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 48,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "???? PRODAJA | Jednosoban stan 48 m² – Vezirov most, PodgoricaNa prodaju lijepo opremljen jednosoban stan površine 48 m², smješten u kvalitetnoj zgradi Zeta Gradnje, u neposrednoj blizini Vezirovog mosta.???? Lokacija: Vezirov most, Zagorič – Podgorica???? Površina: 48 m²????️ Struktura: Jednosoban stan???? Sprat: 1. sprat????️ Investitor: Zeta Gradnja????️ Kompletno namješten i opremljen????️ Ugradna kuhinja izrađena od medijapana???? Ugradni plakari u spavaćoj sobi, hodniku i kupatilu❄️ Klimatizovan???? Terasa???? Lift???? Odlična zvučna i termoizolacija???? Javni parking???? Prvi vlasnik???? Odmah useljiv???? Cijena: 129.500 €Stan se odlikuje funkcionalnim rasporedom, kvalitetnim namještajem i pažljivo uređenim enterijerom. Nekretnina je izuzetno očuvana i prodaje se kompletno namještena, bez potrebe za dodatnim ulaganjima u opremanje.Posebna prednost je kvalitet gradnje, sa odličnom zvučnom i termoizolacijom, što doprinosi udobnosti stanovanja i energetskoj efikasnosti.U prizemlju zgrade nalazi se apoteka, dok su centar Podgorice, Ekonomski i Pravni fakultet udaljeni približno 2 km.Zahvaljujući lokaciji, kvalitetu gradnje i opremljenosti, stan predstavlja odličnu priliku kako za stanovanje, tako i za investiciju kroz dugoročno izdavanje.Za više informacija i zakazivanje razgledanja:???? 069 486 013 – Viber / WhatsApp",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!137",
+      "agent_reasons": "business name (NOVA LUX INVEST)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269486013",
+      "name": "NOVA LUX INVEST",
+      "email": null,
+      "source": "workbook:Likely agents!137"
+    }
+  ],
+  "contact_phones": [
+    "+38269486013"
+  ],
+  "phone_e164": "+38269486013",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

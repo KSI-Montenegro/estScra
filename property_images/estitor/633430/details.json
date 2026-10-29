@@ -1,0 +1,181 @@
+{
+  "source": "estitor",
+  "listing_id": "633430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 238,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_633430",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "8. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 500,
+      "workbook_value": 550,
+      "source": "workbook:Outreach list!238"
+    }
+  ],
+  "image_urls": [
+    "https://content.estitor.com/22415acf-89d8-4210-b834-03797baf528e-lg.webp",
+    "https://content.estitor.com/7e7ffc19-5ff9-4c7e-852d-3f1fe48f334e-lg.webp",
+    "https://content.estitor.com/8a26b7ec-544b-48aa-8777-cde7262c152f-lg.webp",
+    "https://content.estitor.com/bd64ffa8-ef5b-4523-9c03-433173419c77-lg.webp",
+    "https://content.estitor.com/8e92eb50-0c33-432f-acdd-56f3d82a4c37-lg.webp",
+    "https://content.estitor.com/32e38483-d93a-4eca-ac36-5cd4b12f30ac-lg.webp",
+    "https://content.estitor.com/7dea0c0d-5cf2-4bc8-ad28-968ecb76c6d8-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban, nov, namješten stan u Baru. Luksuzna nova zgrada, preko puta tržnog centra i HDL Laković.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:41.509458+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.273164+00:00",
+  "source_html_sha256": "1d44236ec1dae3479d59333b3976139f3407f7e2d3ef56b43bde66b6209011db",
+  "title": "Izdavanje, jednosoban stan, 45m², Bjeliši, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-11",
+  "updated_date": "2026-10-28",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "country": "ME",
+  "advertiser_name": "Marija Boskovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "8. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se jednosoban, nov, namješten stan u Baru. Luksuzna nova zgrada, preko puta tržnog centra i HDL Laković.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!238",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267808321",
+      "name": "Marija Boskovic",
+      "email": null,
+      "source": "workbook:Outreach list!238"
+    },
+    {
+      "phone_e164": "+38267808321",
+      "name": "Marija Boskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267808321"
+  ],
+  "phone_e164": "+38267808321",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

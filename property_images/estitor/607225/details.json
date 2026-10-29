@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "607225",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607225",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607225"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 926,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_607225",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/99e5f4c5-5e45-441a-b1a4-a0639a273a00-lg.webp",
+    "https://content.estitor.com/1f7e7fff-88c7-412b-9479-b5f741a770a3-lg.webp",
+    "https://content.estitor.com/15f114a7-abc2-4919-b419-b118ac9d3950-lg.webp",
+    "https://content.estitor.com/10931e6a-14fc-4b90-a9e1-344f12c1d8f2-lg.webp",
+    "https://content.estitor.com/3c5844fd-4735-428d-8b48-ef80911a7953-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se udobna i moderno uređena garsonjera u mirnom naselju Momišići, Podgorica.\nSmještena na visokom prizemlju novogradnje, ova garsonjera površine 32.0 m² nudi savršen spoj komfora i funkcionalnosti. Prostrano predsoblje vodi u dnevni boravak sa trpezarijom, dok je kupatilo zasebno.\nStan je potpuno opremljen i spreman za useljenje. Dostupne su sve pogodnosti za ugodan život: Internet, interfon i klimatizacija. Obezbijeđen je parking ispred objekta.\nLokacija je izuzetno povoljna, pruža mirno okruženje uz blizinu svih neophodnih sadržaja. Idealna je za samce ili poslovne ljude koji traže moderan i udoban dom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:04.418782+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.117815+00:00",
+  "source_html_sha256": "a53b994784ad28c6a30e2a494f82f6cc63e4660072aea1f422ed37f3000bcf46",
+  "title": "Izdavanje, garsonjera, 32m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-03",
+  "updated_date": "2026-09-07",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 32,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Irina",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Predsoblje",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se udobna i moderno uređena garsonjera u mirnom naselju Momišići, Podgorica.Smještena na visokom prizemlju novogradnje, ova garsonjera površine 32.0 m² nudi savršen spoj komfora i funkcionalnosti. Prostrano pre...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!926",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267579940",
+      "name": "Irina",
+      "email": null,
+      "source": "workbook:Outreach list!926"
+    },
+    {
+      "phone_e164": "+38267579940",
+      "name": "Irina",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267579940"
+  ],
+  "phone_e164": "+38267579940",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

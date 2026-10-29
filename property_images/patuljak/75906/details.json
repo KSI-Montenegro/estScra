@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "75906",
+  "listing_url": "https://patuljak.me/oglas/prodajem-mijenjam-kucu-podgorica-murtovina--75906",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-mijenjam-kucu-podgorica-murtovina--75906"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 71,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75906",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!71:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Murtovina",
+    "Broj soba": "6",
+    "Stambena kvadratura": "410 m2",
+    "Broj spratova": "1",
+    "Godina izgradnje": "2010-2019",
+    "Namještena": "Polunamješten",
+    "Vrsta poda": "Laminat",
+    "Kvadratura placa": "850 m2",
+    "Vrsta grijanja": "Drva",
+    "Kvadratura balkona": "100 m2",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Standardna",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_12.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "PRODAJE SE PORODIČNO IMANJE – MURTOVINA, PODGORICA\nRadosava Popovića 11 (iza policijskog kampa i pumpe na Zlatici)\nNa prodaju prostrano porodično imanje na odličnoj i mirnoj lokaciji u naselju Murtovina, svega nekoliko minuta od centra Podgorice.\nU sklopu imanja nalaze se:\n???? Glavna porodična kuća 180 m²\nPrizemlje 135 m² (useljivo)\nSprat 103 m² (u izgradnji – mogućnost uređenja po želji)\n???? Druga porodična kuća 83 m²\n???? Garaža 12 m²\n???? Pomoćni objekat 18 m²\n???? Dvorište 500 m²\n???? Vinograd 134 m²\n???? Zemljište pod objektima 180 m²\n\nPrednosti:\n✅ Mirna porodična zona\n✅ Asfaltni prilaz\n✅ Dvije kuće na jednom imanju\n✅ Garaža i pomoćni objekat\n✅ Vinograd i veliko dvorište\n✅ Uredno vlasništvo i čista dokumentacija\n✅ Odlična lokacija za porodični život ili investiciju\n\n???? Kontakt: 069 567 342 (Viber / WhatsApp)\nCijena 260000€",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:09.258890+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.225252+00:00",
+  "source_html_sha256": "ff3ea3f57d02db3a8293905650bfe719d1495dadafa9924d780a1a68d0052e3c",
+  "title": "Prodajem mijenjam kuću Podgorica-Murtovina",
+  "description_language": "en",
+  "price_raw": "260000.00€",
+  "price_amount": 260000,
+  "price_currency": "EUR",
+  "advertiser_name": "Mladen",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Murtovina",
+  "building_floors_raw": "1",
+  "room_layout_raw": "6",
+  "heating_raw": "Drva",
+  "parking_raw": "3 i više",
+  "area_m2": 410,
+  "year_built": 2010,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "PRODAJE SE PORODIČNO IMANJE – MURTOVINA, PODGORICARadosava Popovića 11 (iza policijskog kampa i pumpe na Zlatici)Na prodaju prostrano porodično imanje na odličnoj i mirnoj lokaciji u naselju Murtovina, svega nekoliko minuta od centra Podgorice.U sklopu imanja nalaze se:???? Glavna porodična kuća 180 m²Prizemlje 135 m² (useljivo)Sprat 103 m² (u izgradnji – mogućnost uređenja po želji)???? Druga porodična kuća 83 m²???? Garaža 12 m²???? Pomoćni objekat 18 m²???? Dvorište 500 m²???? Vinograd 134 m²???? Zemljište pod objektima 180 m²Prednosti:✅ Mirna porodična zona✅ Asfaltni prilaz✅ Dvije kuće na jednom imanju✅ Garaža i pomoćni objekat✅ Vinograd i veliko dvorište✅ Uredno vlasništvo i čista dokumentacija✅ Odlična lokacija za porodični život ili investiciju???? Kontakt: 069 567 342 (Viber / WhatsApp)Cijena 260000€",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!71",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269567342",
+      "name": "Mladen",
+      "email": null,
+      "source": "workbook:Outreach list!71"
+    }
+  ],
+  "contact_phones": [
+    "+38269567342"
+  ],
+  "phone_e164": "+38269567342",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

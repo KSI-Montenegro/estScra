@@ -1,0 +1,129 @@
+{
+  "source": "patuljak",
+  "listing_id": "83292",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-2900m2-ko-bijelo-poljezeta-plac-ur--83292",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-2900m2-ko-bijelo-poljezeta-plac-ur--83292"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 25,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83292",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!25:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zeta",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "2900 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83292_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Plac povrsine 2900m2 KO Bijelo polje(Zeta) redovno odrzavan i ciscen dugi niz godina koriscen za poljoprivredu kuce u blizini\nDva puta ima do placa\n\n068070725",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:37.567566+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.249463+00:00",
+  "source_html_sha256": "e1b752eba63245efba4544c30976b739611945072e9020fd03a9631580e91e96",
+  "title": "Prodajem plac 2900m2 KO Bijelo Polje(Zeta), plac uredno odrzavan",
+  "description_language": "en",
+  "price_raw": "8.00€",
+  "price_amount": 8,
+  "price_currency": "EUR",
+  "advertiser_name": "Filip",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Zeta",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Plac povrsine 2900m2 KO Bijelo polje(Zeta) redovno odrzavan i ciscen dugi niz godina koriscen za poljoprivredu kuce u blizini Dva puta ima do placa 068070725",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!25",
+      "notes": "check deal: sale at 8 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268070725",
+      "name": "Filip",
+      "email": null,
+      "source": "workbook:Not homes!25"
+    }
+  ],
+  "contact_phones": [
+    "+38268070725"
+  ],
+  "phone_e164": "+38268070725",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2900,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "578695",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-578695",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-578695"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 678,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_578695",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/90f17a9c-4f68-4fe3-b8ae-df2a6e1b088f-lg.webp",
+    "https://content.estitor.com/2eca2f5f-0c4f-45c3-9d4f-fed8b0b6946f-lg.webp",
+    "https://content.estitor.com/d4847d8d-6b28-44b5-8e19-4463d7b8713d-lg.webp",
+    "https://content.estitor.com/efb26031-33a4-4703-bbc7-45c155d33105-lg.webp",
+    "https://content.estitor.com/999d67b0-5b9d-43bc-adc8-e8b3de19e853-lg.webp",
+    "https://content.estitor.com/6d292bac-65a1-4222-823c-ee456562a954-lg.webp",
+    "https://content.estitor.com/2d2459ba-e56f-4da3-aa31-7c090cd3951a-lg.webp",
+    "https://content.estitor.com/a816ca2e-6d61-4642-84fc-25f80b9efabe-lg.webp",
+    "https://content.estitor.com/0c7ae962-fb2a-41da-99e5-b230e97ec482-lg.webp",
+    "https://content.estitor.com/50574bf7-56dd-42b1-9439-8a1725b210ec-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Novogradnja, blizu osnovnih i srednjih škola, u blizini se nalazi dom zdravlja i bolnica, u blizini se nalaze razni parkovi za djecu, miran kraj idealan za porodice, stan je odmah useljiv, izdaje se na duži vremenski period. Osunčan, Blizu škole, Renoviran",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:21.495139+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.781945+00:00",
+  "source_html_sha256": "ff25cebb8ca5e2081bbdc187d620d9e99904086d61bd812608468b378cdc19d6",
+  "title": "Izdavanje, jednosoban stan, 41m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-11",
+  "updated_date": "2026-09-18",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 41,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "12 Aleksandra Divajna, Podgorica 81000, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Martin /",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Novogradnja, blizu osnovnih i srednjih škola, u blizini se nalazi dom zdravlja i bolnica, u blizini se nalaze razni parkovi za djecu, miran kraj idealan za porodice, stan je odmah useljiv, izdaje se na duži vremenski ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!678",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267745367",
+      "name": "Martin /",
+      "email": null,
+      "source": "workbook:Outreach list!678"
+    },
+    {
+      "phone_e164": "+38267745367",
+      "name": "Martin /",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267745367"
+  ],
+  "phone_e164": "+38267745367",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "541033",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-541033",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-541033"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 822,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_541033",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/60d4e587-478d-4699-b6f9-948a10e24b1a-lg.webp",
+    "https://content.estitor.com/17cff6f9-3e37-40e7-8f29-87e334de31fc-lg.webp",
+    "https://content.estitor.com/0dd32f05-f773-4ae9-9c47-cf6da141fad0-lg.webp",
+    "https://content.estitor.com/fca86673-0479-46ef-8028-469d15c51f43-lg.webp",
+    "https://content.estitor.com/2c1c1d81-4919-4155-b958-4d3bd8de7894-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izvanrednu priliku za najam – atraktivan stan u srcu predivnog Risna, idealan za udoban život u Boki Kotorskoj.\nOvaj šarmantan stan površine 46.0 m² nudi sve što je potrebno za savremen život. Funkcionalno je organizovan i sastoji se od jedne prostrane spavaće sobe i jednog elegantnog kupatila.\nSmješten na 1. spratu, stan je potpuno opremljen i spreman za useljenje bez dodatnih briga. Unutrašnjost obuhvata modernu kuhinju, prostranu trpezariju, dnevni boravak i praktičan hodnik. Za vašu udobnost, obezbeđena je klimatizacija, koja garantuje prijatnu temperaturu tokom cijele godine.\nJedna od posebnih prednosti je privatno dvorište, koje pruža idealan prostor za opuštanje i uživanje na otvorenom. Stan je osunčan, a poseban bonus je i pogled na more, koji dodatno doprinosi njegovoj privlačnosti.\nRadi se o novogradnji smještenoj u mirnom kraju, što osigurava kvalitetan život. Javni parking je dostupan u neposrednoj blizini, značajno olakšavajući svakodnevne potrebe. Stan je odmah useljiv, čekajući svoje nove stanare.\nOva nekretnina predstavlja izvrsnu priliku za dugoročni najam u jednom od najljepših i najtraženijih gradova Crne Gore. Ne propustite!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:50.457486+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.041760+00:00",
+  "source_html_sha256": "9624d664ac4160d099512064723c6a0c37716d5a0cac98f1ab19be58caf5da08",
+  "title": "Izdavanje, jednosoban stan, 46m², Risan, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-03",
+  "updated_date": "2026-09-28",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 46,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Tatjana Micovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izvanrednu priliku za najam – atraktivan stan u srcu predivnog Risna, idealan za udoban život u Boki Kotorskoj.Ovaj šarmantan stan površine 46.0 m² nudi sve što je potrebno za savremen život. Funkcio...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!822",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267216016",
+      "name": "Tatjana Micovic",
+      "email": null,
+      "source": "workbook:Outreach list!822"
+    },
+    {
+      "phone_e164": "+38267216016",
+      "name": "Tatjana Micovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267216016"
+  ],
+  "phone_e164": "+38267216016",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

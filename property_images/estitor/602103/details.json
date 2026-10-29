@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "602103",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-602103",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-602103"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 344,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_602103",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/81b89567-030e-4fb5-851d-05314667f210-lg.webp",
+    "https://content.estitor.com/323e6b61-73e0-41e4-97e8-811e243a3062-lg.webp",
+    "https://content.estitor.com/78d49788-3069-40ca-8e88-77b5f0e1d96d-lg.webp",
+    "https://content.estitor.com/e2f98f33-4979-4338-9001-a0030524595e-lg.webp",
+    "https://content.estitor.com/3a5d5681-9d75-4bd0-a957-a760db8b02e6-lg.webp",
+    "https://content.estitor.com/95b8c5e9-4627-4bad-af08-a080b392c2b4-lg.webp",
+    "https://content.estitor.com/b7330a18-7278-431f-b561-bcf258f851a5-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u Budvi, na lokaciji Podkošljun, idealan za ugodan život. Ovaj kompletno opremljen stan površine 37.0 m² nalazi se na I spratu i spreman je za useljenje.\nStan se sastoji od jedne spavaće sobe, dnevnog boravka, trpezarije, kuhinje i jednog kupatila. Uživajte u svim pogodnostima savremenog stanovanja, uključujući klimatizaciju, brz internet i kablovsku televiziju.\nLokacija nudi miran kraj, daleko od gradske gužve, a opet blizu svih bitnih sadržaja. Stan je odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:33.422424+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.920827+00:00",
+  "source_html_sha256": "a609bc659f9390a0ab989e45bb607b2ce8c0a49708d5a2cbf6ef7786a8d00555",
+  "title": "Izdavanje, jednosoban stan, 37m², Podkošljun, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-26",
+  "updated_date": "2026-09-28",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 37,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Drazen Vujosevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u Budvi, na lokaciji Podkošljun, idealan za ugodan život. Ovaj kompletno opremljen stan površine 37.0 m² nalazi se na I spratu i spreman je za useljenje.Stan se sastoji od jedne spavaće sobe,...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!344",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268806146",
+      "name": "Drazen Vujosevic",
+      "email": null,
+      "source": "workbook:Outreach list!344"
+    },
+    {
+      "phone_e164": "+38268806146",
+      "name": "Drazen Vujosevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268806146"
+  ],
+  "phone_e164": "+38268806146",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

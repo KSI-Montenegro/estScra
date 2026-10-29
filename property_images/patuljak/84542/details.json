@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "84542",
+  "listing_url": "https://patuljak.me/oglas/budva-poslovni-prostor-35-m2--84542",
+  "listing_urls": [
+    "https://patuljak.me/oglas/budva-poslovni-prostor-35-m2--84542"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 15,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84542",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Centar",
+    "Broj prostorija": "1",
+    "Stambena kvadratura": "35 m2",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "Vrsta poda": "Pločice",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "description_mentions_both_sale_and_rent",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84542_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84542_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Poslovni prostor 35 godina koristila firma Zvis , prodaja i servis racunara i srodne opreme.\nIZDAJEM ili PRODAJEM\n068 072 022 - Viber, whatsapp",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:31.178049+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.181658+00:00",
+  "source_html_sha256": "1ed6cf90532ce926179eb3294487333273830bd928987d8966ac643ca91553a1",
+  "title": "Budva , poslovni prostor 35 m2",
+  "description_language": "en",
+  "price_raw": "699.99€",
+  "price_amount": 699.99,
+  "price_currency": "EUR",
+  "advertiser_name": "Milorad",
+  "property_type": "commercial",
+  "city": "Budva",
+  "district": "Centar",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 35,
+  "amenities": [],
+  "metadata_summary": "Poslovni prostor 35 godina koristila firma Zvis , prodaja i servis racunara i srodne opreme.IZDAJEM ili PRODAJEM068 072 022 - Viber, whatsapp",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!15",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268072022",
+      "name": "Milorad Zvicer",
+      "email": null,
+      "source": "workbook:Not homes!15"
+    }
+  ],
+  "contact_phones": [
+    "+38268072022"
+  ],
+  "phone_e164": "+38268072022",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

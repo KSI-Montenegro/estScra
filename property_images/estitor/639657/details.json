@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "639657",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-639657",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-639657"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 858,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639657",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "1998",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/658fda4a-1b82-426d-b94f-444b81cf6db0-lg.webp",
+    "https://content.estitor.com/e2ce19de-6c74-43e6-88d2-7b6bee97af24-lg.webp",
+    "https://content.estitor.com/64118bad-88bd-4a5f-adbf-bf12ab85c0cf-lg.webp",
+    "https://content.estitor.com/052026bb-89aa-4b20-a94f-fac02a65f421-lg.webp",
+    "https://content.estitor.com/3884705a-7ad4-4639-a5b6-9d3d683e3dea-lg.webp",
+    "https://content.estitor.com/11757000-9d2b-4b4f-8e4c-7375626ff9b4-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban stan, površine 72.0 m², Blok 6, Podgorica. Stan ima odličan raspored i sastoji se od prostranog predsoblja, hodnika, dnevnog boravka, kuhinje, dvije komforne spavaće sobe, kupatila i dodatnog manjeg toaleta. Stan ima dvije terase – jedna veća i jedna manja, ukupne kvadrature od 7 m².\nBlindirana vrata, klima uredjaj, termo-izolaciona fasada.\nLokacija je izuzetno pogodna za porodice, s obzirom na to da su u blizini smještene dvije osnovne škole.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:14.452621+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.414765+00:00",
+  "source_html_sha256": "36d501ed3f5f937d3445b20f41733e869daf1349a341e9de4ea844698f5ba8a9",
+  "title": "Izdavanje, dvosoban stan, 72m², Blok 6, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 72,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "25 Đoka Miraševića, Podgorica 81000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Blok 6",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 2,
+  "year_built": 1998,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se dvosoban stan, površine 72.0 m², Blok 6, Podgorica. Stan ima odličan raspored i sastoji se od prostranog predsoblja, hodnika, dnevnog boravka, kuhinje, dvije komforne spavaće sobe, kupatila i dodatnog manjeg...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!858",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268670692",
+      "name": "Blok 6",
+      "email": null,
+      "source": "workbook:Outreach list!858"
+    },
+    {
+      "phone_e164": "+38268670692",
+      "name": "Blok 6",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268670692"
+  ],
+  "phone_e164": "+38268670692",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

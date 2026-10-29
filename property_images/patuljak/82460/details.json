@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "82460",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-u-jastrebu-5554m2-vlasnik--82460",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-u-jastrebu-5554m2-vlasnik--82460"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 32,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82460",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!32:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Jastreb",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "5554 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82460_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82460_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:41.365816+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.304189+00:00",
+  "source_html_sha256": "fbe7fc5858c5e5480c3d5814f202cd3cc4fcb947f417a0626bc1665edc102f01",
+  "title": "Prodajem plac u Jastrebu, 5554m2, vlasnik",
+  "description_language": "en",
+  "price_raw": "76000.00€",
+  "price_amount": 76000,
+  "price_currency": "EUR",
+  "advertiser_name": "Katerina",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Jastreb",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem plac u Jastrebu, 5554m2, vlasnik",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!32",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267869702",
+      "name": "Katerina",
+      "email": null,
+      "source": "workbook:Not homes!32"
+    }
+  ],
+  "contact_phones": [
+    "+38267869702"
+  ],
+  "phone_e164": "+38267869702",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 5554,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,151 @@
+{
+  "source": "patuljak",
+  "listing_id": "31981",
+  "listing_url": "https://patuljak.me/oglas/malo-brdo-trosoban--31981",
+  "listing_urls": [
+    "https://patuljak.me/oglas/malo-brdo-trosoban--31981"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 553,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_31981",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Malo brdo",
+    "Adresa": "Malo Brdo S",
+    "Broj soba": "Trosoban",
+    "Namješten": "Ne",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "108 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:21.254818+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.126752+00:00",
+  "source_html_sha256": "67a04d67a23596dde53c45886a8628bcb83b2787d419b255b7d5ad37cfab1a5f",
+  "title": "Malo brdo trosoban",
+  "description_language": "en",
+  "price_raw": "203000.00€",
+  "price_amount": 203000,
+  "price_currency": "EUR",
+  "advertiser_name": "Branka",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Malo brdo",
+  "street_address": "Malo Brdo S",
+  "floor_raw": "3",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 108,
+  "amenities": [],
+  "metadata_summary": "Malo brdo trosoban",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!553",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269380185",
+      "name": "Branka",
+      "email": null,
+      "source": "workbook:Outreach list!553"
+    }
+  ],
+  "contact_phones": [
+    "+38269380185"
+  ],
+  "phone_e164": "+38269380185",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": false,
+  "missing_core_fields": [
+    "description_original",
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "deal_type": null,
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

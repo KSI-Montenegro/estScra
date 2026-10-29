@@ -1,0 +1,145 @@
+{
+  "source": "estitor",
+  "listing_id": "576570",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-576570",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-576570"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 923,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_576570",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e40b1c64-345d-4f88-9a50-26d85d8c0bf3-lg.webp",
+    "https://content.estitor.com/5bf999bc-661b-4ed3-a83f-c0261abc1670-lg.webp",
+    "https://content.estitor.com/86bdc152-c660-4521-ac37-e6cea9c43908-lg.webp",
+    "https://content.estitor.com/8c661883-ff5f-495c-b182-9788a5ccadb9-lg.webp",
+    "https://content.estitor.com/a4c8120b-7069-4fb6-b757-5cb368161f62-lg.webp",
+    "https://content.estitor.com/a53c03cb-cc35-4c5c-af17-77453a73af48-lg.webp",
+    "https://content.estitor.com/27d0f6fc-8a3f-412a-afda-981c4007ee70-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Krivi most, zgrada Benetonka, jednosoban kompletno namješten stan površine 43m2 na III spratu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:00.582429+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.071583+00:00",
+  "source_html_sha256": "eb7ffa54091bb00ba16a8f73f1bf3316faedd1edf625624f69d9ed62af8a079c",
+  "title": "Izdavanje, jednosoban stan, 43m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-05",
+  "updated_date": "2026-09-15",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Mira Radovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Krivi most, zgrada Benetonka, jednosoban kompletno namješten stan površine 43m2 na III spratu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!923",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267247476",
+      "name": "Mira Radovic",
+      "email": null,
+      "source": "workbook:Outreach list!923"
+    },
+    {
+      "phone_e164": "+38267247476",
+      "name": "Mira Radovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267247476"
+  ],
+  "phone_e164": "+38267247476",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

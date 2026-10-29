@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "610763",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-610763",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-610763"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 843,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_610763",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bb4dfeb9-d86b-434c-b81a-b5ded100a8bd-lg.webp",
+    "https://content.estitor.com/c3c621d1-d402-4ca9-8350-af7c1eff621d-lg.webp",
+    "https://content.estitor.com/522386a1-0571-4c86-bddb-6a4c5a7ffa1c-lg.webp",
+    "https://content.estitor.com/4a3c3bb0-bfc6-475a-9ab5-5459902d2424-lg.webp",
+    "https://content.estitor.com/549143dc-8995-410c-9a87-14ce6752b6e6-lg.webp",
+    "https://content.estitor.com/cf622f83-d90e-4d1c-b00d-09337752a6ea-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i funkcionalan dvosoban stan u samom srcu Cetinja, u dijelu Centar, idealan za ugodan studentski život.\nOvaj udoban stan, površine 60.0 m², smješten je na prizemlju i nudi sve što je potrebno za komforan boravak. Posebno je pogodan za studente, s obzirom na to da se nalazi u neposrednoj blizini Likovne akademije, čime se štedi vrijeme na putu do fakulteta i omogućava brz pristup svim gradskim sadržajima.\nStan je potpuno opremljen i spreman za useljenje. Sastoji se od dvije spavaće sobe, jednog kupatila, prostranog hodnika, funkcionalne kuhinje sa trpezarijom i praktične ostave. Dodatne pogodnosti uključuju klimatizaciju za ugodnu temperaturu tokom cijele godine, kao i obezbijeđen Internet priključak.\nVelika prednost je i dostupnost parkinga direktno ispred objekta, što olakšava svakodnevnicu. Živjeti u Centru Cetinja znači imati pristup prodavnicama, kafićima, kulturnim institucijama i zelenim površinama na dohvat ruke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:04.962711+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.261844+00:00",
+  "source_html_sha256": "14555fc8ef77fb7f9b8aef73fe6d033244add7cee50734a39a0c1b4fdd12a256",
+  "title": "Izdavanje, dvosoban stan, 60m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-05",
+  "updated_date": "2026-09-05",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "22 Bulevar Crnogorskih Junaka, Cetinje 81250, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Danka Markovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se prostran i funkcionalan dvosoban stan u samom srcu Cetinja, u dijelu Centar, idealan za ugodan studentski život.Ovaj udoban stan, površine 60.0 m², smješten je na prizemlju i nudi sve što je potrebno za komf...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!843",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269010763",
+      "name": "Danka Markovic",
+      "email": null,
+      "source": "workbook:Outreach list!843"
+    },
+    {
+      "phone_e164": "+38269010763",
+      "name": "Danka Markovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269010763"
+  ],
+  "phone_e164": "+38269010763",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

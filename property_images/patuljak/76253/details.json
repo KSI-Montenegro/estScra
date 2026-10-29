@@ -1,0 +1,143 @@
+{
+  "source": "patuljak",
+  "listing_id": "76253",
+  "listing_url": "https://patuljak.me/oglas/kupujem-zavrsen-stan-u-podgorici--76253",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-zavrsen-stan-u-podgorici--76253"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 508,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76253",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Broj soba": "Garsonjera",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "29 m2",
+    "Kvadratura balkona": "4 m2",
+    "Balkon": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Klima": true,
+    "Kablovska TV": true,
+    "Internet": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76253_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76253_5.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Uslovi za kupovinu stana: uredni papiri, 1/1\nobavezno terasa, da nije suteren\nda nije posljednji/najgornji sprat\n\nDolazi u obzir i starogradnja, pod istim uslovima, ukoliko je stan očuvan, useljiv i spreman za stanovanje.\nPrednost imaju lokacije: Pobrezje, Zabjelo, Ljubovic, Baston, Drac, Tuski put, Centar, Preko Morace i Blok 5.\nZvati od 13h do 19h.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:57.025344+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.868425+00:00",
+  "source_html_sha256": "d21c747c0dcff9b01f544b943c6e3745e89e8fb83f60329326d09fddba1da4a6",
+  "title": "Kupujem zavrsen stan u Podgorici",
+  "description_language": "en",
+  "price_raw": "55000.00€",
+  "price_amount": 55000,
+  "price_currency": "EUR",
+  "advertiser_name": "Zeljka",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "room_layout_raw": "Garsonjera",
+  "heating_raw": "Struja",
+  "area_m2": 29,
+  "amenities": [
+    "Balkon",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Klima",
+    "Kablovska TV",
+    "Internet"
+  ],
+  "metadata_summary": "Uslovi za kupovinu stana: uredni papiri, 1/1obavezno terasa, da nije suterenda nije posljednji/najgornji spratDolazi u obzir i starogradnja, pod istim uslovima, ukoliko je stan očuvan, useljiv i spreman za stanovanje.Prednost imaju lokacije: Pobrezje, Zabjelo, Ljubovic, Baston, Drac, Tuski put, Centar, Preko Morace i Blok 5.Zvati od 13h do 19h.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!508",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267811722",
+      "name": "Zeljka",
+      "email": null,
+      "source": "workbook:Outreach list!508"
+    }
+  ],
+  "contact_phones": [
+    "+38267811722"
+  ],
+  "phone_e164": "+38267811722",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

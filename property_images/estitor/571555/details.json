@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "571555",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-571555",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-571555"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 671,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_571555",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Podrum",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2012",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/74d47f02-f2e5-400c-b4a6-73bb6b68b2ec-lg.webp",
+    "https://content.estitor.com/faf83b8b-b81c-4552-bf44-996ad53c15c0-lg.webp",
+    "https://content.estitor.com/b10541b4-3e1a-40da-a733-ae9d096052f5-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban stan – 60 m², iza Delta City, Podgorica\nIzdaje se potpuno namješten dvosoban stan površine 60 m², na odličnoj lokaciji iza Delta City-ja u Podgorici.\nStan se sastoji od:\nDnevnog boravka\nKuhinja\nDvije spavaće sobe\nKupatila\nStan je svijetao, funkcionalnog rasporeda i opremljen svim neophodnim uređajima za ugodan život. Nalazi se u mirnom dijelu grada, u neposrednoj blizini tržnih centara, marketa, restorana, škola i svih važnih sadržaja.\nParking obezbjedjen za jedno ili vise vozila iza zgrade.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:18.481685+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.746354+00:00",
+  "source_html_sha256": "e7f258cbfbf875554a5a254a89523dd8a0f30b638d766ab3478afce21bf133b7",
+  "title": "Izdavanje, dvosoban stan, 60m², Kruševac, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-19",
+  "updated_date": "2026-09-21",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "br. 10 Marka Radovića, Podgorica 81000, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Vasilije Radonjic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Podrum",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Zapad",
+  "balconies": 0,
+  "year_built": 2012,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Predsoblje",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se dvosoban stan – 60 m², iza Delta City, PodgoricaIzdaje se potpuno namješten dvosoban stan površine 60 m², na odličnoj lokaciji iza Delta City-ja u Podgorici.Stan se sastoji od:Dnevnog boravka KuhinjaDvije sp...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!671",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263200152",
+      "name": "Vasilije Radonjic",
+      "email": null,
+      "source": "workbook:Outreach list!671"
+    },
+    {
+      "phone_e164": "+38263200152",
+      "name": "Vasilije Radonjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263200152"
+  ],
+  "phone_e164": "+38263200152",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

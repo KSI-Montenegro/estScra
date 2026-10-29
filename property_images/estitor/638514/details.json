@@ -1,0 +1,115 @@
+{
+  "source": "estitor",
+  "listing_id": "638514",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638514",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 81,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_638514",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a0582aa3-3e20-43bc-a723-80798ac7895a-lg.webp",
+    "https://content.estitor.com/f792045d-275d-41b1-8e3d-82018e495d94-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Atraktivna lokacija uz Moraču – zemljište s potencijalom buduće urbanizacije.\n\nNa prodaju zemljište površine 3.302 m², katastarska parcela 282/1, KO Donji Kokoti, na atraktivnoj lokaciji u neposrednoj blizini Podgorice, svega oko 280 metara od mosta Luča i približno 150 metara od rijeke Morače.\nZemljište se nalazi u području koje karakterizira razvoj okolne infrastrukture i prisutnost zemljišta različitih planskih namjena. U neposrednom širem okruženju nalaze se područja građevinske i mješovite namjene, što ovu lokaciju čini zanimljivom za kupce koji razmišljaju dugoročno.\nZašto je ova parcela zanimljiva investitorima?\nPovršina od 3.302 m² – značajna zemljišna cjelina s potencijalom dugoročnog ulaganja.\n\nBlizina grada i prometne infrastrukture – dobra pozicija u odnosu na Podgoricu i okolna naselja.\n\nBlizina Morače – prepoznatljiva lokacijska prednost.\n\nOkruženje različitih planskih namjena – mogućnost budućih promjena u prostornom razvoju područja.\n\nRazvojni investicijski potencijal – prilika za kupca koji je spreman danas uložiti u zemljište i dugoročno pratiti razvoj prostorno-planske dokumentacije.\n\nPrema trenutačno dostupnim planskim podacima, parcela se vodi kao poljoprivredno zemljište i nema potvrđenu namjenu koja bi omogućavala stambenu gradnju. Buduća promjena namjene ovisi o izmjenama i donošenju odgovarajuće planske dokumentacije, pretpostavljeno 2028. godine.\nUpravo je ta neizvjesnost dio investicijskog potencijala: kupac ulazi u ulaganje prije eventualne buduće urbanizacije, uz mogućnost povećanja vrijednosti kada se planski status zemljišta promijeni.\nOzbiljnim zainteresiranim kupcima dostupni su katastarski podaci i informacije o lokaciji radi vlastite provjere planskog statusa i investicijskih mogućnosti.\n\nLink na parcelu 282/1 Donji Kokoti:\nhttps://emapa.me/?s=MTkyNjl8NDI0MDQ3NTZ8MTkyMTUyMDV8MTh8MjgyLzE\nZemljište namijenjeno kupcima koji razmišljaju dugoročno i prepoznaju važnost lokacije, površine i mogućeg budućeg razvoja prostora.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:53.605600+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.935191+00:00",
+  "source_html_sha256": "0ab940f4f2982ea7b161fa39e0b0cb8b1ff0461e755c4cb3a973d5117a510f5e",
+  "title": "Prodaja, plac, 3302m², Donji Kokoti, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 195000,
+  "price_currency": "EUR",
+  "price_raw": "195000 EUR",
+  "city": "Podgorica",
+  "street_address": "Neimenovani Put, Podgorica, Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Radmila Fintić",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Atraktivna lokacija uz Moraču – zemljište s potencijalom buduće urbanizacije.Na prodaju zemljište površine 3.302 m², katastarska parcela 282/1, KO Donji Kokoti, na atraktivnoj lokaciji u neposrednoj blizini Podgorice,...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

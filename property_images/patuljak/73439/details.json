@@ -1,0 +1,167 @@
+{
+  "source": "patuljak",
+  "listing_id": "73439",
+  "listing_url": "https://patuljak.me/oglas/herceg-novi-igalo-centar-stan-64m2-i-terasa-12m2-i--73439",
+  "listing_urls": [
+    "https://patuljak.me/oglas/herceg-novi-igalo-centar-stan-64m2-i-terasa-12m2-i--73439"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 109,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_73439",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!109:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Herceg Novi",
+    "Naselje": "Igalo",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Kratkoročno",
+    "Sprat": "3",
+    "Kvadratura": "65 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Kvadratura balkona": "12 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Ima",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 65,
+      "workbook_value": 64,
+      "source": "workbook:Outreach list!109"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73439_17.webp"
+  ],
+  "image_count": 18,
+  "image_status": "ok",
+  "description_original": "Izdajem fantastican stan u Centru Igala na 3.spratu u lameli bez lifta,velika terasa,pogled na more,150M od plaze,sve moguce u blizini,mirna zgrada,pravo mjesto za odmor,stan je skoro nov,moguce izdavanje i na duže a moguca i prodaja.CIJENA PO DANU 70 EURA.\nSVE INFORMACIJE NA BROJ 0038761775345 MOZE I VIBER",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:31.756818+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.485823+00:00",
+  "source_html_sha256": "9020a52d8e6cdeaf3e35562a98f319d937f559fe692a8ebdf5e2d76d4ed1f6db",
+  "title": "HERCEG NOVI-IGALO CENTAR STAN 64m2 i TERASA 12m2 IZDAVANJE SEZONSKI ILI MJESEČNO 150M OD PLAŽE",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Ines",
+  "property_type": "apartment",
+  "city": "Herceg Novi",
+  "district": "Igalo",
+  "floor_raw": "3",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 65,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Izdajem fantastican stan u Centru Igala na 3.spratu u lameli bez lifta,velika terasa,pogled na more,150M od plaze,sve moguce u blizini,mirna zgrada,pravo mjesto za odmor,stan je skoro nov,moguce izdavanje i na duže a moguca i prodaja.CIJENA PO DANU 70 EURA.SVE INFORMACIJE NA BROJ 0038761775345 MOZE I VIBER",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!109",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269903399",
+      "name": "Ines",
+      "email": null,
+      "source": "workbook:Outreach list!109"
+    }
+  ],
+  "contact_phones": [
+    "+38269903399"
+  ],
+  "phone_e164": "+38269903399",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

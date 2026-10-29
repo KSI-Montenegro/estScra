@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "616419",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-616419",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-616419"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 686,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_616419",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3a33ab14-2c32-42dd-a7e5-b05fe01c537d-lg.webp",
+    "https://content.estitor.com/7e4b3820-7e53-49c6-9473-8946bcbde0e4-lg.webp",
+    "https://content.estitor.com/fca8a442-677c-4603-8448-4c28a5092df5-lg.webp",
+    "https://content.estitor.com/98662240-d4df-4c87-bbd6-89b3292b6254-lg.webp",
+    "https://content.estitor.com/486df2cc-29b9-4480-bd4e-c9c4f44c0ec3-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se garsonjera u City Kvartu površine 36 m². Stan je lijepo uređen, funkcionalan i veoma prijatan za život.\nSastoji se od prostranog dnevnog boravka sa prostorom za spavanje, kuhinje, kupatila. Nema terase. Stan je svijetao, uredan i moderno opremljen, sa svim potrebnim za udoban svakodnevni boravak.\nNalazi se na dobroj lokaciji u City Kvartu, u neposrednoj blizini brojnih kafića, restorana, marketa i drugih sadržaja. Odličan izbor za jednu ali dve osobi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:25.659784+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.824472+00:00",
+  "source_html_sha256": "842769e461e74f553bd9daf6b418bfd8e4c265a652c94b820675c440c9354315",
+  "title": "Izdavanje, garsonjera, 36m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-14",
+  "updated_date": "2026-09-14",
+  "price_amount": 420,
+  "price_currency": "EUR",
+  "price_raw": "420 EUR",
+  "area_m2": 36,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "11 Studentska, Podgorica 81000, Черногория",
+  "country": "ME",
+  "advertiser_name": "Evgenii Ivanov",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se garsonjera u City Kvartu površine 36 m². Stan je lijepo uređen, funkcionalan i veoma prijatan za život.Sastoji se od prostranog dnevnog boravka sa prostorom za spavanje, kuhinje, kupatila. Nema terase. Stan ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!686",
+      "priority": 75,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+37065970677",
+      "name": "Evgenii Ivanov",
+      "email": null,
+      "source": "workbook:Outreach list!686"
+    },
+    {
+      "phone_e164": "+37065970677",
+      "name": "Evgenii Ivanov",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+37065970677"
+  ],
+  "phone_e164": "+37065970677",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

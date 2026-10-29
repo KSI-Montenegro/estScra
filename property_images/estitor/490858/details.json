@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "490858",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-490858",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-490858"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 150,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_490858",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a11a97f7-e354-468b-9604-a9f6b93de0d7-lg.webp",
+    "https://content.estitor.com/fe54211a-0fee-49a1-807c-af7a1aa2ea94-lg.webp",
+    "https://content.estitor.com/8a55ec94-66f7-4395-8112-28595bf86332-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Plac ima pristup sa glavne ulice Partizanski put i ima dozvolu za halu od 800m2.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:49.825971+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.149222+00:00",
+  "source_html_sha256": "aa0e8abae4a91a941150f358ec24733b406ad12f6b1ab2f646592f1b1e6e809c",
+  "title": "Izdavanje, plac, 1627m², Tološi, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-10",
+  "updated_date": "2026-10-13",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Dusan Mandic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Plac ima pristup sa glavne ulice Partizanski put i ima dozvolu za halu od 800m2.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!150",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268226622",
+      "name": "Dusan Mandic",
+      "email": null,
+      "source": "workbook:Not homes!150"
+    },
+    {
+      "phone_e164": "+38268226622",
+      "name": "Dusan Mandic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268226622"
+  ],
+  "phone_e164": "+38268226622",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

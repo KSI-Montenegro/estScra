@@ -1,0 +1,157 @@
+{
+  "source": "patuljak",
+  "listing_id": "85178",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-69-m2-master-kvart-podgorica--85178",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-69-m2-master-kvart-podgorica--85178"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 65,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85178",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!65:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Master kvart",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "4",
+    "Vrsta grijanja": "Ostalo",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "69 m2",
+    "Kvadratura balkona": "10 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85178_0.webp"
+  ],
+  "image_count": 19,
+  "image_status": "ok",
+  "description_original": "Izdajem stan Master kvart\n\n068826388",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:26.938965+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.274774+00:00",
+  "source_html_sha256": "ab2a7744b00866d39d07725ffa7ecc3cde3dd6ae98f58e78e642b9ee1018e2be",
+  "title": "Izdajem dvosoban stan 69 m2, Master Kvart, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Danilo",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Master kvart",
+  "floor_raw": "4",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Ostalo",
+  "parking_raw": "1",
+  "area_m2": 69,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem stan Master kvart068826388",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!65",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268036481",
+      "name": "Danilo",
+      "email": null,
+      "source": "workbook:Likely agents!65"
+    }
+  ],
+  "contact_phones": [
+    "+38268036481"
+  ],
+  "phone_e164": "+38268036481",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

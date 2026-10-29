@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "679307",
+  "listing_url": "https://patuljak.me/oglas/izdajem-sobe-za-radnike--679307",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-sobe-za-radnike--679307"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 985,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_679307",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!985:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Spuž",
+    "Broj kreveta": "8+",
+    "Sprat": "Prizemlje",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Vrsta grijanja": "Struja",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "60 m2",
+    "Renoviran": true,
+    "Parking": true,
+    "Namještena": true,
+    "Kablovska TV": true,
+    "Internet": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_6.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem smjestaj za radnike koncipiran kao 3 spavace sobe. Dvije spavace sobe su kao jedna, dijeli ih jedan prolaz. Ukupno posjeduju 7 kreveta. Jedno kupatilo. Teca soba ima 3kreveta i jedno kupatilo. Sve tri sobe imaju internet. Postoji mogucnost koriscenja i kuhinje kao i jos jedne prostorije u kojoj se nalazi vise stolova sa stolicama koja sluzi kao prostorija za rucavanje. U toj prostoriji je i Tv.\n\nParking je dostupan za vise vozila",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:35.247958+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.498107+00:00",
+  "source_html_sha256": "4970457013b2c4485e6c28912ad69ebf8ddfe2498751b34d32bc7373e22dac53",
+  "title": "Izdajem sobe za radnike",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Vasilije",
+  "city": "Danilovgrad",
+  "district": "Spuž",
+  "floor_raw": "Prizemlje",
+  "heating_raw": "Struja",
+  "parking_raw": true,
+  "area_m2": 60,
+  "parking_spaces": 3,
+  "amenities": [
+    "Renoviran",
+    "Parking",
+    "Namještena",
+    "Kablovska TV",
+    "Internet"
+  ],
+  "metadata_summary": "Izdajem smjestaj za radnike koncipiran kao 3 spavace sobe. Dvije spavace sobe su kao jedna, dijeli ih jedan prolaz. Ukupno posjeduju 7 kreveta. Jedno kupatilo. Teca soba ima 3kreveta i jedno kupatilo. Sve tri sobe imaju internet. Postoji mogucnost koriscenja i kuhinje kao i jos jedne prostorije u kojoj se nalazi vise stolova sa stolicama koja sluzi kao prostorija za rucavanje. U toj prostoriji je i Tv.Parking je dostupan za vise vozila",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!985",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269436935",
+      "name": "Vasilije",
+      "email": null,
+      "source": "workbook:Outreach list!985"
+    }
+  ],
+  "contact_phones": [
+    "+38269436935"
+  ],
+  "phone_e164": "+38269436935",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "462310",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-462310",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-462310"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 268,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_462310",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Visoko prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "400",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d5d52235-fc77-43d3-adcc-0d9c05ed38fa-lg.webp",
+    "https://content.estitor.com/d67002f9-ff43-436a-9ecf-9ce64354fe38-lg.webp",
+    "https://content.estitor.com/d21cd363-ec1b-4275-aedd-099d6a10c032-lg.webp",
+    "https://content.estitor.com/b89fd853-490d-4725-8921-589646af2e4c-lg.webp",
+    "https://content.estitor.com/2443d4ce-75ef-4b5a-9889-f4acd25f88a0-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Studio apartman u novoj zgradi na svega 400m od Portomontenegra.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:55.562868+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.460289+00:00",
+  "source_html_sha256": "8cbb8c324a5c68fbd443091b8edb8386d2ff5db702c8bfa216e8ae8881874bb2",
+  "title": "Izdavanje, garsonjera, 25m², Mažina, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-27",
+  "updated_date": "2026-10-19",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 25,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Petar Vujovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Visoko prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Studio apartman u novoj zgradi na svega 400m od Portomontenegra.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!268",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263216200",
+      "name": "Petar Vujovic",
+      "email": null,
+      "source": "workbook:Outreach list!268"
+    },
+    {
+      "phone_e164": "+38263216200",
+      "name": "Petar Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263216200"
+  ],
+  "phone_e164": "+38263216200",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

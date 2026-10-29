@@ -1,0 +1,147 @@
+{
+  "source": "patuljak",
+  "listing_id": "65933",
+  "listing_url": "https://patuljak.me/oglas/izdajem-lux-nov-jednosoban-stan-na-starom-aerodrom--65933",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-lux-nov-jednosoban-stan-na-starom-aerodrom--65933"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 548,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_65933",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!548:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Adresa": "Bulevar Veljka Vlahovica 15A",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "36 m2",
+    "Kvadratura balkona": "0 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65933_1.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Luksuzno opremljen jednosoban stan kod Fudbalskog saveza na Starom aerodromu, na drugom spratu. Stan posjeduje garazno mjesto od 15m2 koje se dodatno placa , parking je pod video nadzorom i rampom. Ulaz ima video nadzor i 2 lifta. Stan je opremljen i pokućstvom do najsitnijih detalja potrebnih za prijatan zivot u njemu.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:18.413567+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.098215+00:00",
+  "source_html_sha256": "4a72cf3c00758ae2c0174a68c3a01887c313dd0da64aacb2bf31b804986bd489",
+  "title": "Izdajem lux nov jednosoban stan na Starom Aerodromu",
+  "description_language": "en",
+  "price_raw": "430.00€",
+  "price_amount": 430,
+  "price_currency": "EUR",
+  "advertiser_name": "Slavko",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "street_address": "Bulevar Veljka Vlahovica 15A",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "1",
+  "area_m2": 36,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Luksuzno opremljen jednosoban stan kod Fudbalskog saveza na Starom aerodromu, na drugom spratu. Stan posjeduje garazno mjesto od 15m2 koje se dodatno placa ,   parking je  pod video nadzorom i rampom. Ulaz ima video nadzor i 2 lifta. Stan je opremljen i pokućstvom do najsitnijih detalja potrebnih za prijatan zivot u njemu.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!548",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267525770",
+      "name": "Slavko",
+      "email": null,
+      "source": "workbook:Outreach list!548"
+    }
+  ],
+  "contact_phones": [
+    "+38267525770"
+  ],
+  "phone_e164": "+38267525770",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

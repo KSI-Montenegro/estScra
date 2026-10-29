@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "84994",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru--84994",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru--84994"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 426,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84994",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!426:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Momišići",
+    "Adresa": "Belvederska87",
+    "Broj soba": "1",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "15 m2",
+    "Kvadratura placa": "200 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se mala namjestena garsonjera za jednu žensku osobu(student) u kuci iza ekonomskog fakulteta, sve namjesteno, zasebno",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:14.272116+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.410412+00:00",
+  "source_html_sha256": "64644dda2bc83ebe227fa9df067fae70293c582ca127fc48c81b07c4a0f31941",
+  "title": "Izdajem garsonjeru",
+  "description_language": "en",
+  "price_raw": "200.00€",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "advertiser_name": "Danijela",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Momišići",
+  "street_address": "Belvederska87",
+  "building_floors_raw": "1",
+  "room_layout_raw": "1",
+  "heating_raw": "Struja",
+  "area_m2": 15,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdaje se mala namjestena garsonjera za jednu žensku osobu(student) u kuci iza ekonomskog fakulteta, sve namjesteno, zasebno",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!426",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267371166",
+      "name": "Danijela",
+      "email": null,
+      "source": "workbook:Outreach list!426"
+    }
+  ],
+  "contact_phones": [
+    "+38267371166"
+  ],
+  "phone_e164": "+38267371166",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

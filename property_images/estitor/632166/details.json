@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "632166",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-632166",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-632166"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 794,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_632166",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/fa22d09a-267f-4494-b266-a4d46f6010e5-lg.webp",
+    "https://content.estitor.com/6be38cd1-56fe-4d02-a70f-83a3d6d6fae5-lg.webp",
+    "https://content.estitor.com/1a757d20-09ee-4b43-b48a-57fc4f5003c6-lg.webp",
+    "https://content.estitor.com/13d872e3-1252-4353-8cd5-c5f55073a8b3-lg.webp",
+    "https://content.estitor.com/ad4ec0d4-fa7d-4199-bfc4-1d1f5707d494-lg.webp",
+    "https://content.estitor.com/fd374815-4843-4617-9405-74de64ecc2d8-lg.webp",
+    "https://content.estitor.com/b6f5c076-6f49-4e91-8c31-1684cc4d31d4-lg.webp",
+    "https://content.estitor.com/f35373a4-0d28-4f6b-b26b-a56b1970bed7-lg.webp",
+    "https://content.estitor.com/1a3eaaf5-4061-408d-918a-4cc999b99a41-lg.webp",
+    "https://content.estitor.com/7d304f74-7d55-46ee-860c-85e4d6d233d3-lg.webp",
+    "https://content.estitor.com/763de968-2dae-4485-8674-9e4e2eca6704-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Moderni apartman u PMTR Residence — centar Bara\nIzdaje se moderan apartman od 36 m² u novom savremenom kompleksu PMTR Residence — na jednoj od najpraktičnijih lokacija u Baru.\nCentar grada\npark, sportski centar i stadion u blizini\nšetalište i plaža — oko 10 minuta pješke\nrestorani, prodavnice, kafići i dom zdravlja u neposrednoj blizini\nO kompleksu\nNovi moderan stambeni kompleks sa prostranim holovima, liftovima, recepcijom i otvorenim bazenom. Kompleks je osmišljen kao koncept udobnog gradskog života sa infrastrukturom hotelskog nivoa.\nApartman\nUprkos kompaktnoj kvadraturi, prostor je veoma funkcionalno organizovan i djeluje prostrano.\nmoderan enterijer\nkvalitetan i udoban namještaj\nsva neophodna bijela tehnika\ndnevni boravak sa trpezarijskim dijelom\nodvojena spavaća zona sa velikim krevetom\npotpuno opremljena kuhinja\nprostrano kupatilo\nbalkon\nPosebna prednost apartmana su panoramski prozori, zahvaljujući kojima je stan veoma svijetao i pruža osjećaj velikog prostora.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:28.369009+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.704629+00:00",
+  "source_html_sha256": "326e39ec4602bc35b5af2c8dcd69098dfd63f3c93c777f9069444b542b022ac7",
+  "title": "Izdavanje, garsonjera, 36m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-09",
+  "updated_date": "2026-10-19",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 36,
+  "bathrooms": 2,
+  "city": "Bar",
+  "street_address": "10 Bulevar 24. Novembra, Bar 85000, Черногория",
+  "country": "ME",
+  "advertiser_name": "Elena Parshina",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Moderni apartman u PMTR Residence — centar BaraIzdaje se moderan apartman od 36 m² u novom savremenom kompleksu PMTR Residence — na jednoj od najpraktičnijih lokacija u Baru.Centar gradapark, sportski centar i stadion...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!794",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267350646",
+      "name": "Elena Parshina",
+      "email": null,
+      "source": "workbook:Outreach list!794"
+    },
+    {
+      "phone_e164": "+38267350646",
+      "name": "Elena Parshina",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267350646"
+  ],
+  "phone_e164": "+38267350646",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

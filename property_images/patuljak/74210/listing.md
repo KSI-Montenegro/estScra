@@ -1,0 +1,39 @@
+# Stan sa terasom, novogradnja, kod škole i parka Gorica
+
+Source: https://patuljak.me/oglas/stan-sa-terasom-novogradnja-kod-skole-i-parka-gori--74210
+
+- Deal: rent
+- Property type: apartment
+- Published price: 124000.00€
+- Price amount: 124000
+- Currency: EUR
+- City: Podgorica
+- District: Zagorič
+- Area (m²): 44
+- Bedrooms: 1
+- Floor: 1
+- Furnishing: Da
+- Parking: 3 i više
+
+## Original listing description
+
+Jednosoban namjesten stan sa terasom – Zagorič, Family Place
+44 m² | 1. sprat
+Zgrada Family Place (2024. godina izgradnje), lift, ulaz sa video-nadzorom.
+Stan se nalazi na odličnoj lokaciji u mirnom porodičnom naselju Zagorič, u neposrednoj blizini parka Gorica, na svega 2 km od centra grada.
+U zgradi se nalazi vrtić, preko puta je osnovna škola, a u blizini su i međunarodni vrtić i francuska škola. Marketi su takođe na par koraka.
+Stan je u odličnom stanju, korišćen svega godinu i po dana. Moderan namještaj i Gorenje tehnika, grijanje u kupatilu, mašina za pranje i sušenje veša, veliki ugradni ormar i klima uređaj.
+Besplatan parking kod zgrade, sa više slobodnih mjesta. Moguća je i kupovina garažnog mjesta po cijeni od 7.000 do 10.000 €.
+
+Za nenamješten ili polunamješten stan,
+kao i za direktnog kupca, moguć je dogovor oko cijene.
+
+Moguća kupovina putem stambenog kredita.
+
+Odlična prilika kako za život, tako i za izdavanje. Stan je spreman za useljenje, bez dodatnih ulaganja.
+
+## Published amenities
+
+- Namješten
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

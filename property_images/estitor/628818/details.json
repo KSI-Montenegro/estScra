@@ -1,0 +1,174 @@
+{
+  "source": "estitor",
+  "listing_id": "628818",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-628818",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-628818"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 326,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_628818",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/43477633-9e20-471b-934d-f7ff90c15bcc-lg.webp",
+    "https://content.estitor.com/f068c8f6-1807-4fa9-bf32-fbc6f3c57d0d-lg.webp",
+    "https://content.estitor.com/b70c4e81-cdfc-427e-a08a-fd6c9b56fc4b-lg.webp",
+    "https://content.estitor.com/b5f27b91-0bc5-46ac-9f07-dc106adb4028-lg.webp",
+    "https://content.estitor.com/3c3e43de-80e9-4c0c-9206-7ba5573a9a5c-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se nov, još neuseljivan stan površine 45 m² u naselju Čeluga u Baru, smješten na 4. spratu nove lux zgrade sa terasom, uz obezbeđeno parking mjesto. Stan se nalazi na odličnoj lokaciji u neposrednoj blizini osnovne škole, pošte, apoteke, bolnice, prodavnica i pekara. Izdaje se na duzi vremenski period.\nZa vise informacija kontaktirati.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:24.200990+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.814625+00:00",
+  "source_html_sha256": "76190db394f40cfb8481d5ad7313724a1fe04aa9b3cfa969ef04feb22011cd85",
+  "title": "Izdavanje, jednosoban stan, 45m², Čeluga, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-04",
+  "updated_date": "2026-10-04",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "E851, Tomba, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Lazar Bajic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se nov, još neuseljivan stan površine 45 m² u naselju Čeluga u Baru, smješten na 4. spratu nove lux zgrade sa terasom, uz obezbeđeno parking mjesto. Stan se nalazi na odličnoj lokaciji u neposrednoj blizini osn...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!326",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267454878",
+      "name": "Lazar Bajic",
+      "email": null,
+      "source": "workbook:Outreach list!326"
+    },
+    {
+      "phone_e164": "+38267454878",
+      "name": "Lazar Bajic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267454878"
+  ],
+  "phone_e164": "+38267454878",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

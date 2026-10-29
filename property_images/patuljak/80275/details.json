@@ -1,0 +1,151 @@
+{
+  "source": "patuljak",
+  "listing_id": "80275",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-40-m-seljanovo-tiv--80275",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-40-m-seljanovo-tiv--80275"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 44,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_80275",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Tivat",
+    "Naselje": "Seljanovo",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Vrsta poda": "Pločice",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "40 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_5.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijepo i moderno opremljen jednosoban stan površine 40 m², smješten u mirnom dijelu Seljanova, a na samo 900 m od plaže i Porto Montenegra.\n\nStan je renoviran i opremljen novim namještajem, te je spreman za useljenje.\n\nOsnovne informacije:\n* Lokacija: Seljanovo, Tivat\n* Površina: 40 m²\n* Struktura: jednosoban stan\n* Nov namještaj\n* Lijepo opremljen\n* Oko 900 m od plaže i Porto Montenegra\n\nCijena:\n900 € mjesečno – zakup na godinu dana\n550 € mjesečno – zakup do juna 2027.\n???? Obavezan depozit.\n\nParking:\nParking prostori nalaze se na udaljenosti od oko 100–200 m od objekta. U okolini postoje i besplatni i plaćeni parking prostori.\n\n???? 068 707 995 (Viber | WhatsApp)\nZa više informacija i dogovor oko razgledanja, slobodno nas kontaktirajte.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:11.512485+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.053824+00:00",
+  "source_html_sha256": "77706c7c003bc77d02565ffc719dfda2427b1f2d24f6ff6a1248121baedad1d4",
+  "title": "Izdaje se nov jednosoban stan 40 m²,, Seljanovo, Tivat",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Infinite",
+  "property_type": "apartment",
+  "city": "Tivat",
+  "district": "Seljanovo",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 40,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se lijepo i moderno opremljen jednosoban stan površine 40 m², smješten u mirnom dijelu Seljanova, a na samo 900 m od plaže i Porto Montenegra.Stan je renoviran i opremljen novim namještajem, te je spreman za useljenje.Osnovne informacije:* Lokacija: Seljanovo, Tivat* Površina: 40 m²* Struktura: jednosoban stan* Nov namještaj* Lijepo opremljen* Oko 900 m od plaže i Porto MontenegraCijena:900 € mjesečno – zakup na godinu dana550 € mjesečno – zakup do juna 2027.???? Obavezan depozit.Parking:Parking prostori nalaze se na udaljenosti od oko 100–200 m od objekta. U okolini postoje i besplatni i plaćeni parking prostori.???? 068 707 995 (Viber | WhatsApp)Za više informacija i dogovor oko razgledanja, slobodno nas kontaktirajte.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!44",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268707995",
+      "name": "Infinite",
+      "email": null,
+      "source": "workbook:Likely agents!44"
+    }
+  ],
+  "contact_phones": [
+    "+38268707995"
+  ],
+  "phone_e164": "+38268707995",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

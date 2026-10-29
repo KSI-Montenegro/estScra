@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "610178",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610178",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610178"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 881,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_610178",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4af3bb1e-34e5-41d1-9b80-3addd8d1eddc-lg.webp",
+    "https://content.estitor.com/ea7448d8-1861-4bb6-a540-dec75205cbac-lg.webp",
+    "https://content.estitor.com/daadf8fb-db3e-4685-9d2c-a667ce3098df-lg.webp",
+    "https://content.estitor.com/61f80c34-40a5-4b5d-88e4-2bde5a6ec6e4-lg.webp",
+    "https://content.estitor.com/7691efe7-f40f-4365-a257-6f8726e05ec2-lg.webp",
+    "https://content.estitor.com/97f714a9-df96-44e5-8e20-c4272dc3aa7b-lg.webp",
+    "https://content.estitor.com/687cdc96-fb09-4c2d-b95c-3a7a6465ac76-lg.webp",
+    "https://content.estitor.com/61a6c48a-8afa-441e-b642-db38212b47c7-lg.webp",
+    "https://content.estitor.com/5f6a188e-d152-452f-9346-85d00c30c863-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se nov, neuseljavan stan – Zagorič\nPovršina: 30 m²\nStanje: Novogradnja, nikad useljavan\nDodatno: Privatno parking mjesto + prostrana terasa\nSupermarketi: Voli (800m), HDL Laković (1.2km), lokalni market (500m)\nApoteka i zdravlje: Apoteka (500m), Poliklinika Filipović (1.2km)\nZa najmlađe: Vrtić \"Mali Princ\" (1km), OŠ \"Branko Božović\" (1km)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:30.658565+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.621815+00:00",
+  "source_html_sha256": "c7ae42182adc0bc232fcc2fc7f8ff444429099270de73facee56a44b6e33f4b5",
+  "title": "Izdavanje, garsonjera, 30m², Zagorič, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-04",
+  "updated_date": "2026-09-04",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 30,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "bb Beogradska, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Nikola Perišić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se nov, neuseljavan stan – ZagoričPovršina: 30 m²Stanje: Novogradnja, nikad useljavanDodatno: Privatno parking mjesto + prostrana terasaSupermarketi: Voli (800m), HDL Laković (1.2km), lokalni market (500m)Apote...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!881",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268077406",
+      "name": "Nikola Perišić",
+      "email": null,
+      "source": "workbook:Outreach list!881"
+    },
+    {
+      "phone_e164": "+38268077406",
+      "name": "Nikola Perišić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268077406"
+  ],
+  "phone_e164": "+38268077406",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

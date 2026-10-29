@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "642815",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642815",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642815"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 567,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_642815",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "8. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/dd3370d0-beb2-432e-8ebd-54d1385929b4-lg.webp",
+    "https://content.estitor.com/da8b23ae-5f8e-48d7-86ae-42321cadc2d7-lg.webp",
+    "https://content.estitor.com/bab64008-17f9-4e40-9f60-b22633510456-lg.webp",
+    "https://content.estitor.com/abfa63d0-0681-4953-82fa-e8c02421e3e6-lg.webp",
+    "https://content.estitor.com/6c9d7547-1622-46a4-bdd7-e9817dea137e-lg.webp",
+    "https://content.estitor.com/a7f6989b-6261-4e4e-937d-2056a765a224-lg.webp",
+    "https://content.estitor.com/d73429fb-5d8c-4b35-b5af-06d3477a58b7-lg.webp",
+    "https://content.estitor.com/0a53c6a3-4bcd-469e-bbbb-1048385d5e40-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u srcu Podgorice, u prestižnom naselju Central Point.\nOvaj moderno dizajniran stan, ukupne površine 47.0 m², nalazi se na 8. spratu i predstavlja savršen izbor za komforan život. Stan je u potpunosti opremljen i namješten sa pažnjom, nudeći luksuzan ambijent i visoku funkcionalnost.\nUnutrašnjost stana obuhvata elegantan hodnik, prostranu i potpuno opremljenu kuhinju, trpezariju, udobnu spavaću sobu i moderno kupatilo. Svaki detalj je pažljivo biran da pruži maksimalan užitak stanarima.\nStan je opremljen svim savremenim pogodnostima: klimatizacija za idealnu temperaturu, interfon za dodatnu sigurnost, te lift u zgradi za jednostavan pristup. Lokacija u Central Pointu garantuje laku dostupnost svim urbanim sadržajima, restoranima, prodavnicama i poslovnim centrima.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:27.724697+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.194130+00:00",
+  "source_html_sha256": "9e797f09cc643acce8c321038ba5c4e7cbcda38f14cbbeee0dc8a93ee879a6d5",
+  "title": "Izdavanje, jednosoban stan, 47m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-24",
+  "updated_date": "2026-10-24",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Veljko V",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "8. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u srcu Podgorice, u prestižnom naselju Central Point.Ovaj moderno dizajniran stan, ukupne površine 47.0 m², nalazi se na 8. spratu i predstavlja savršen izbor za komforan život. Stan je u pot...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!567",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267211117",
+      "name": "Veljko V",
+      "email": null,
+      "source": "workbook:Outreach list!567"
+    },
+    {
+      "phone_e164": "+38267211117",
+      "name": "Veljko V",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267211117"
+  ],
+  "phone_e164": "+38267211117",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

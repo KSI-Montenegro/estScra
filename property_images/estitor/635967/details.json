@@ -1,0 +1,161 @@
+{
+  "source": "estitor",
+  "listing_id": "635967",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635967",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635967"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 913,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_635967",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Dvorište": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9cd989a2-687a-48d7-80a6-5cf71f964a02-lg.webp",
+    "https://content.estitor.com/3c713839-fbae-4823-98a6-5c8df0ff348b-lg.webp",
+    "https://content.estitor.com/efbc05ba-d559-4ee5-8b39-fe670d20033b-lg.webp",
+    "https://content.estitor.com/ed671f0e-03ba-417b-952b-1e6fe8533361-lg.webp",
+    "https://content.estitor.com/90e85867-5083-4320-8dad-7ffe6eefb29b-lg.webp",
+    "https://content.estitor.com/e12ec5f2-319b-4466-8c3c-75e2d68b5905-lg.webp",
+    "https://content.estitor.com/6d70cea7-bf01-438f-8bc8-d7060f6f3f5f-lg.webp",
+    "https://content.estitor.com/e71f0e1c-29c4-445f-8016-d8f2e3535b6a-lg.webp",
+    "https://content.estitor.com/b9cf6db6-51d6-40e2-b3b4-c9ccbf2672c4-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se nov, neuseljavan i potpuno opremljen dvosoban stan (62 m²) u novogradnji u Donjoj Gorici.\nStan je odmah useljiv i izdaje se na duži period.\nOsnovne karakteristike:\nPovršina: 62 m² (terasa, prostrani dnevni boravak)\nSpavaće sobe: 2 (jedna sa bračnim, druga sa pojedinačnim krevetom)\nOpremljenost: Potpuna kuhinja (mašina za sudove, rerna, frižider), Smart TV, Wi-Fi, klima u svakoj prostoriji, veš-mašina\nDvorište, parking i bezbjednost:\nSmall-building koncept (ukupno 3 stana u objektu)\n2 privatna parking mjesta\nOgrađeno dvorište (700 m²) sa kapijom na daljinsko otvaranje\nVideo-nadzor, pametna kontrola pristupa i interfon\nLokacija:\nDonja Gorica – mirno okruženje, samo 800 m od Univerziteta Donja Gorica (UDG).\nUslovi zakupa:\nDepozit: U visini jedne kirije\nUgovor: Minimalno na 1 godinu",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:51.813996+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.968500+00:00",
+  "source_html_sha256": "d4f9450ebb8a64358a505e8f9954e5a089325165754cd46e82d6d3a4314cd056",
+  "title": "Izdavanje, dvosoban stan, 62m², Donja Gorica, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-15",
+  "updated_date": "2026-10-15",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 62,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marko Jovićevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Dvorište",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se nov, neuseljavan i potpuno opremljen dvosoban stan (62 m²) u novogradnji u Donjoj Gorici. Stan je odmah useljiv i izdaje se na duži period.Osnovne karakteristike: Površina: 62 m² (terasa, prostrani dnevni bo...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!913",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268183193",
+      "name": "Marko Jovićevic",
+      "email": null,
+      "source": "workbook:Outreach list!913"
+    },
+    {
+      "phone_e164": "+38268183193",
+      "name": "Marko Jovićevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268183193"
+  ],
+  "phone_e164": "+38268183193",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

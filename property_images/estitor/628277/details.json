@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "628277",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-628277",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-628277"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 915,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_628277",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "1965",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d7137765-9805-4591-81d9-f46c9da2dd3a-lg.webp",
+    "https://content.estitor.com/f999e9c1-4162-4eb0-a05a-3144d077fcb2-lg.webp",
+    "https://content.estitor.com/919d3452-6b1d-49fe-8ac8-994cbd09167d-lg.webp",
+    "https://content.estitor.com/a2155831-3bbf-4976-bf53-6aece9f546fc-lg.webp",
+    "https://content.estitor.com/ebdd136f-d7b8-4ce0-b1e5-b03ef0cfbca3-lg.webp",
+    "https://content.estitor.com/ce35635e-aeda-49cc-b63c-3eb37e8261e5-lg.webp",
+    "https://content.estitor.com/3a31a211-fbdc-4dcb-ba05-3234b36612c5-lg.webp",
+    "https://content.estitor.com/28034b9f-6afc-484d-a365-a96ba1184593-lg.webp",
+    "https://content.estitor.com/6d22d848-e0cb-40cd-916a-0227e1531b1e-lg.webp",
+    "https://content.estitor.com/9e5be194-fb63-49b7-8e79-b06a6d29026c-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Osunčan,, iza Mase, Blizu škole, Miran kraj, juzna i sjeverna strana, blizu vrtica, skoro da automobil nije ni potreban, ima slobodno parkiranje na 150m od stana, okruzen parkom sa jedne strane i borovima sa juzne strane, nove klime Tesla sa malom potrosnjom struje sa obije strane, ima i TA pec u dnevnoj sobi, kuhinja kompletna sa novim friziderom i sporetom, Pravi utisak i ugodan dozivljaj dobija se uzivo obilaskom stana .",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:53.428690+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.986898+00:00",
+  "source_html_sha256": "ab1f4c91237bb182d671e0de72560f279fd835551cb8951bce97dd0b8d900822",
+  "title": "Izdavanje, trosoban stan, 102m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-03",
+  "updated_date": "2026-10-17",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 102,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Ivana Vujosevica32",
+  "country": "ME",
+  "advertiser_name": "Milan Maras",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 2,
+  "year_built": 1965,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan,, iza Mase, Blizu škole, Miran kraj, juzna i sjeverna strana, blizu vrtica, skoro da automobil nije ni potreban, ima slobodno parkiranje na 150m od stana, okruzen parkom sa jedne strane i borovima sa juzne str...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!915",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269184145",
+      "name": "Milan Maras",
+      "email": null,
+      "source": "workbook:Outreach list!915"
+    },
+    {
+      "phone_e164": "+38269184145",
+      "name": "Milan Maras",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269184145"
+  ],
+  "phone_e164": "+38269184145",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

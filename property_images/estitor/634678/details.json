@@ -1,0 +1,152 @@
+{
+  "source": "estitor",
+  "listing_id": "634678",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-634678",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-634678"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 17,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_634678",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Šumsko"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d73f8d60-511b-4914-aeae-7d56c9bd43c8-lg.webp",
+    "https://content.estitor.com/9cc020bf-25a5-4cff-84fc-06966b57dea8-lg.webp",
+    "https://content.estitor.com/10573f31-c8d2-41ac-b5dd-d568061490f0-lg.webp",
+    "https://content.estitor.com/bdfd3d28-53f4-4834-8dad-fb8bc65a5688-lg.webp",
+    "https://content.estitor.com/e137250a-93fc-4b17-93f5-8b8759b3d571-lg.webp",
+    "https://content.estitor.com/b0eb91c1-c009-4b68-ace0-5c73d2780bd2-lg.webp",
+    "https://content.estitor.com/ab50ae8c-aec8-4e41-8f8e-058291d58e06-lg.webp",
+    "https://content.estitor.com/9c654122-8dee-487b-9184-e14f60bc1866-lg.webp",
+    "https://content.estitor.com/5966df36-47b8-48ba-8798-1ef80566fb51-lg.webp",
+    "https://content.estitor.com/36a827da-0c17-4436-a2b5-252473701f50-lg.webp",
+    "https://content.estitor.com/f16b9ce6-75cd-4587-9dc1-0cb6909cadbd-lg.webp",
+    "https://content.estitor.com/b146c394-7a59-430f-8dc2-d763f0723b89-lg.webp",
+    "https://content.estitor.com/6f84f665-7702-4162-8539-d2f167d0c53e-lg.webp",
+    "https://content.estitor.com/68db5781-1731-458d-bbda-798729ab1cf9-lg.webp",
+    "https://content.estitor.com/6f1b65f1-4bd8-4e54-88de-b82afe05795c-lg.webp",
+    "https://content.estitor.com/4965d80d-34cf-4f63-835a-f97c8d85307e-lg.webp",
+    "https://content.estitor.com/193dd3c5-fe40-4f15-af03-c738ee0095bd-lg.webp",
+    "https://content.estitor.com/fdd0d3ef-0757-4021-a222-60f6531cd4f9-lg.webp"
+  ],
+  "image_count": 18,
+  "image_status": "ok",
+  "description_original": "Izdaje se plac površine oko 1.000 m², pored magistralong puta Bar - Ulcinj između Velikog Pjeska i Utjehe sa pogledom na more.\nZa različite namjene, u skladu sa potrebama zakupca.\nPlac nema priključak za vodu i struju.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:31.860140+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.191109+00:00",
+  "source_html_sha256": "6d559aad0398100e07a86ffcacdf6cbd6cd26b6cfca23328ba69deb259ff770c",
+  "title": "Izdavanje, plac, 1000m², Utjeha, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-13",
+  "updated_date": "2026-10-13",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Bar",
+  "street_address": "E851, Dobra Voda, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "David Pljakić",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izdaje se plac površine oko 1.000 m², pored magistralong puta Bar - Ulcinj između Velikog Pjeska i Utjehe sa pogledom na more. Za različite namjene, u skladu sa potrebama zakupca. Plac nema priključak za vodu i struju.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!17",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269249002",
+      "name": "David Pljakić",
+      "email": null,
+      "source": "workbook:Not homes!17"
+    },
+    {
+      "phone_e164": "+38269249002",
+      "name": "David Pljakić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269249002"
+  ],
+  "phone_e164": "+38269249002",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

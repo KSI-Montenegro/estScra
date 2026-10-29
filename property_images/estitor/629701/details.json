@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "629701",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-629701",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-629701"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 813,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_629701",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c86b86ea-d47d-47b5-aad9-f115da4f1789-lg.webp",
+    "https://content.estitor.com/4ec4c2e8-d450-499d-b29a-cc46c3004398-lg.webp",
+    "https://content.estitor.com/85fc59d5-d78d-469d-ad5b-8a757f5e8dac-lg.webp",
+    "https://content.estitor.com/3b815fd6-8ff5-4aca-ac9e-1f0cf8dc89ca-lg.webp",
+    "https://content.estitor.com/8cf898ca-489b-44e1-8d80-4ba3f1faba66-lg.webp",
+    "https://content.estitor.com/7cdc9c27-b3f1-4504-bbf3-8c1d7270ad5f-lg.webp",
+    "https://content.estitor.com/a9398bda-67a3-43c1-ad14-3a308a5c436a-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se kompletno namješten studio apartman površine 25 m² na Cetinju, idealan za jednu osobu odnosno studenta. Apartman je uredan, funkcionalan i izdaje se do 20. juna 2027. godine. U cijenu su uračunati voda i internet, dok stanar plaća utrošenu električnu energiju. Apartman posjeduje klimu i grijanje na struju. Za više informacija i dogovor oko gledanja apartmana možete se javiti putem poruke ili telefona.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:43.155566+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.946606+00:00",
+  "source_html_sha256": "64d5257d5af63861cf04910b7e7d332894d97da970439e56eef1698db772f930",
+  "title": "Izdavanje, garsonjera, 25m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-06",
+  "updated_date": "2026-10-06",
+  "price_amount": 180,
+  "price_currency": "EUR",
+  "price_raw": "180 EUR",
+  "area_m2": 25,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "7 Novice Cerovića, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Marko Bokan",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjever",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se kompletno namješten studio apartman površine 25 m² na Cetinju, idealan za jednu osobu odnosno studenta. Apartman je uredan, funkcionalan i izdaje se do 20. juna 2027. godine. U cijenu su uračunati voda i int...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!813",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269018597",
+      "name": "Marko Bokan",
+      "email": null,
+      "source": "workbook:Outreach list!813"
+    },
+    {
+      "phone_e164": "+38269018597",
+      "name": "Marko Bokan",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269018597"
+  ],
+  "phone_e164": "+38269018597",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

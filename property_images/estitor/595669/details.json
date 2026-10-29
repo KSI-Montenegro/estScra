@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "595669",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595669",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595669"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 839,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_595669",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/d349fbb8-3383-4b9d-979c-facf79ff2106-lg.webp",
+    "https://content.estitor.com/6c658334-5c00-4f6b-921a-8ad7969d9d36-lg.webp",
+    "https://content.estitor.com/10cb33ee-c246-424e-9768-74e2ae53b597-lg.webp",
+    "https://content.estitor.com/0f9e4d9b-cdc4-460f-956d-c8789363b56a-lg.webp",
+    "https://content.estitor.com/78708bac-9337-4f54-bca7-5dc31110f91f-lg.webp",
+    "https://content.estitor.com/8576ea8a-0916-48c7-a911-42e2be6ff609-lg.webp",
+    "https://content.estitor.com/bb54a8b1-5ec4-4f8b-9749-918c8b482741-lg.webp",
+    "https://content.estitor.com/2335b892-c95c-4bdb-8f43-2a5ee7df8480-lg.webp",
+    "https://content.estitor.com/1671faf6-67f1-4d27-bd1b-a4e2d168f7ca-lg.webp",
+    "https://content.estitor.com/eba57c8c-d6f0-410c-97ef-6522e7644569-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajemo jednosoban stan od 01.10.2026. do 01.05.2027. u centru Budve. Jednosoban stan ima površinu od 50 m2 u zgradi sa liftom i nalazi se na 2. spratu. Stanovi su opremljeni modernim nameštajem i kvalitetnim aparatima. Struktura jednosobnog stana: kuhinja, trpezarija, dnevna soba, spavaća soba, kupatilo i terasa.\n\nCena zakupa do sezone (01.05.2027.) je",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:02.019694+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.226629+00:00",
+  "source_html_sha256": "1de8f9386cc66f0ad68f2c8f93430cf7bb4ad9c270d4d34959c34f84caab5cbc",
+  "title": "Izdavanje, jednosoban stan, 50m², Budva okolina, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-18",
+  "updated_date": "2026-09-10",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "3 22. Novembra, Budva 85310, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Kornelija Kovačević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdajemo jednosoban stan od 01.10.2026. do 01.05.2027. u centru Budve. Jednosoban stan ima površinu od 50 m2 u zgradi sa liftom i nalazi se na 2. spratu. Stanovi su opremljeni modernim nameštajem i kvalitetnim aparati...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!839",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268339900",
+      "name": "Kornelija Kovačević",
+      "email": null,
+      "source": "workbook:Outreach list!839"
+    },
+    {
+      "phone_e164": "+38268339900",
+      "name": "Kornelija Kovačević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268339900"
+  ],
+  "phone_e164": "+38268339900",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

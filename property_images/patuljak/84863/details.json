@@ -1,0 +1,173 @@
+{
+  "source": "patuljak",
+  "listing_id": "84863",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-200-m2-allure-budva--84863",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-poslovni-prostor-200-m2-allure-budva--84863"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 2,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_84863",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Centar",
+    "Adresa": "22 Novembar - 3, Budva Centar",
+    "Broj prostorija": "2",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "1",
+    "Namješten": "Da",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Sjeverozapad",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "Nema",
+    "Stambena kvadratura": "200 m2",
+    "Uknjiženo": true,
+    "Novogradnja": true,
+    "Voda": true,
+    "Struja": true,
+    "Kanalizacija": true,
+    "Klima": true,
+    "Telefonski priključak": true,
+    "Kablovska TV": true,
+    "Internet": true,
+    "Video nadzor": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84863_0.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se atraktivan, uređen poslovni prostor na ekskluzivnoj lokaciji u centru Budve, usklopu kondo hotela Allure.\nProstorima fornt sirine 9m sa 3 ulaza/izloga i pripadajucom terasom, visoke plafone,centralnu termotehniku, mokri cvor na oba nivoa...\nPoslovniprostor dostupan za dugorocnu rentu, odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:23.993765+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.056816+00:00",
+  "source_html_sha256": "e3271643a1c7dfd562cb2fb37025edc26d8101d8c15750619365e9d67c2b4057",
+  "title": "Izdaje se poslovni prostor 200 m2, Allure, Budva",
+  "description_language": "en",
+  "price_raw": "6500.00€",
+  "price_amount": 6500,
+  "price_currency": "EUR",
+  "advertiser_name": "Drasko",
+  "property_type": "commercial",
+  "city": "Budva",
+  "district": "Centar",
+  "street_address": "22 Novembar - 3, Budva Centar",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "1",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 200,
+  "amenities": [
+    "Namješten",
+    "Uknjiženo",
+    "Novogradnja",
+    "Voda",
+    "Struja",
+    "Kanalizacija",
+    "Klima",
+    "Telefonski priključak",
+    "Kablovska TV",
+    "Internet",
+    "Video nadzor"
+  ],
+  "metadata_summary": "Izdaje se atraktivan, uređen poslovni prostor na ekskluzivnoj lokaciji u centru Budve, usklopu kondo hotela Allure.Prostorima fornt sirine 9m sa 3 ulaza/izloga i pripadajucom terasom, visoke plafone,centralnu termotehniku, mokri cvor na oba nivoa...Poslovniprostor dostupan za dugorocnu rentu, odmah useljiv.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!2",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267610132",
+      "name": "Drasko Draskovic",
+      "email": null,
+      "source": "workbook:Not homes!2"
+    }
+  ],
+  "contact_phones": [
+    "+38267610132"
+  ],
+  "phone_e164": "+38267610132",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

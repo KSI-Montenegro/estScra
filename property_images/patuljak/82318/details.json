@@ -1,0 +1,150 @@
+{
+  "source": "patuljak",
+  "listing_id": "82318",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-kuca-120-m2-velje-brdo-podgorica--82318",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-kuca-120-m2-velje-brdo-podgorica--82318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 974,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_82318",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Velje brdo",
+    "Broj soba": "2",
+    "Broj spratova": "1",
+    "Godina izgradnje": "2020",
+    "Namještena": "Da",
+    "Vrsta poda": "Pločice",
+    "Vrsta grijanja": "Struja",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "120 m2",
+    "Kvadratura placa": "1000 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_1.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:29.717840+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.414528+00:00",
+  "source_html_sha256": "7ad5c1ef9dbd0902dd40779345f8b40b37919c649299d01e9f8cbaccf3b6a936",
+  "title": "Izdaje se kuća 120 m2, Velje Brdo, Podgorica",
+  "description_language": "en",
+  "price_raw": "1400.00€",
+  "price_amount": 1400,
+  "price_currency": "EUR",
+  "advertiser_name": "Srdjan",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Velje brdo",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 120,
+  "year_built": 2020,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Izdaje se kuća 120 m2, Velje Brdo, Podgorica",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!974",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269036133",
+      "name": "Srdjan",
+      "email": null,
+      "source": "workbook:Outreach list!974"
+    }
+  ],
+  "contact_phones": [
+    "+38269036133"
+  ],
+  "phone_e164": "+38269036133",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

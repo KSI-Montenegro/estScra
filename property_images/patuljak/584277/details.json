@@ -1,0 +1,145 @@
+{
+  "source": "patuljak",
+  "listing_id": "584277",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-garsonjera-24m2-bijeli-do-budva--584277",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-garsonjera-24m2-bijeli-do-budva--584277"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 11,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_584277",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!11:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Bijeli Do",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "Prizemlje",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "24 m2",
+    "Ostava": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_1.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Za prodaju garsonjera 24m2, Bijeli Do, Budva",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:18.952826+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.854202+00:00",
+  "source_html_sha256": "6a6a9423707893812eb503a422aa90c4a4ae3d200f9b4440401d926b0fcc90e5",
+  "title": "Za prodaju garsonjera 24m2, Bijeli Do, Budva",
+  "description_language": "en",
+  "price_raw": "63000.00€",
+  "price_amount": 63000,
+  "price_currency": "EUR",
+  "advertiser_name": "Alen",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Bijeli Do",
+  "floor_raw": "Prizemlje",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema",
+  "area_m2": 24,
+  "amenities": [
+    "Namješten",
+    "Ostava"
+  ],
+  "metadata_summary": "Za prodaju garsonjera 24m2, Bijeli Do, Budva",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!11",
+      "priority": 100
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267030090",
+      "name": "Alen",
+      "email": null,
+      "source": "workbook:Outreach list!11"
+    }
+  ],
+  "contact_phones": [
+    "+38267030090"
+  ],
+  "phone_e164": "+38267030090",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

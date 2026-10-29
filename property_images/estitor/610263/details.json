@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "610263",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-610263",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-610263"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 372,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_610263",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e0fd319a-3ad0-4941-b14e-3b0236fc9166-lg.webp",
+    "https://content.estitor.com/2ac71563-abf9-4df3-a015-71af06295075-lg.webp",
+    "https://content.estitor.com/3b5512f9-6f95-4382-b49d-eb2acaf4e2ee-lg.webp",
+    "https://content.estitor.com/ed47ebf6-81ca-4b1a-81e9-9f2f32966d06-lg.webp",
+    "https://content.estitor.com/010cfde9-84a8-4af3-8b5d-cf1a53dcb0ba-lg.webp",
+    "https://content.estitor.com/24e979eb-6f78-47d0-b0e4-0bed043029e1-lg.webp",
+    "https://content.estitor.com/17b3f608-edd5-4b3d-83c3-989d44b0a227-lg.webp",
+    "https://content.estitor.com/73e9af8c-cbd8-4154-9886-0b626e300d2d-lg.webp",
+    "https://content.estitor.com/8982576f-43b8-41c1-a13e-263158b2574d-lg.webp",
+    "https://content.estitor.com/778c7d07-8994-4eff-8c11-f5512853eaa5-lg.webp",
+    "https://content.estitor.com/c9d9fffa-94db-43fd-8a1e-3ac69cac835a-lg.webp",
+    "https://content.estitor.com/bcb95e83-3de1-43c7-b1db-e959e0213ab6-lg.webp",
+    "https://content.estitor.com/5c2545f8-2a7e-4252-9c68-77506a98a3a5-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Whatsapp +38169703165\nIzdaje se moderan i udoban stan u srcu Bara, na izuzetnoj lokaciji u Centru.\nOvaj renoviran jednosoban stan površine 40.0 m² nudi sve što vam je potrebno za ugodan život. Stan je u potpunosti opremljen i sastoji se od jedne spavaće sobe, kupatila, te udobnog dnevnog prostora.\nSmješten na 2.spratu, stan je osunčan i svijetao, obezbjeđujući prijatan ambijent tokom cijelog dana. Za vašu udobnost, stan je opremljen klimatizacijom i ima obezbijeđen internet. Javni parking je dostupan u neposrednoj blizini.\nSa svojom idealnom pozicijom, stan pruža lagan pristup svim gradskim sadržajima. Useljiv je od 1. oktobra.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:47.617361+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.098615+00:00",
+  "source_html_sha256": "cbc88f60f172c1591454d072f24b361bdc4201faceb89f4a86176955d16cf463",
+  "title": "Izdavanje, jednosoban stan, 40m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-04",
+  "updated_date": "2026-09-18",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "5A Maršala Tita, Bar 85000, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Amir Papazi",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet"
+  ],
+  "metadata_summary": "Whatsapp +38169703165Izdaje se moderan i udoban stan u srcu Bara, na izuzetnoj lokaciji u Centru.Ovaj renoviran jednosoban stan površine 40.0 m² nudi sve što vam je potrebno za ugodan život. Stan je u potpunosti oprem...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!372",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381603066689",
+      "name": "Amir Papazi",
+      "email": null,
+      "source": "workbook:Outreach list!372"
+    },
+    {
+      "phone_e164": "+381603066689",
+      "name": "Amir Papazi",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381603066689"
+  ],
+  "phone_e164": "+381603066689",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

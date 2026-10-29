@@ -1,0 +1,156 @@
+{
+  "source": "estitor",
+  "listing_id": "637463",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-637463",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-637463"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 572,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_637463",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "23. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2182ec4b-0a5b-4d50-b32c-f28f896256db-lg.webp",
+    "https://content.estitor.com/a4dfe4d1-c7a0-44ca-a5d4-a7fd764ed170-lg.webp",
+    "https://content.estitor.com/f0ee04e3-931f-4403-878b-4489ca44ab43-lg.webp",
+    "https://content.estitor.com/12d9f284-72b5-432d-acee-d33c1fe12093-lg.webp",
+    "https://content.estitor.com/bb2dd8ab-e977-4c1b-b962-c49a182debb3-lg.webp",
+    "https://content.estitor.com/6042b10d-bc18-451c-bf46-46e2a5450fcf-lg.webp",
+    "https://content.estitor.com/30c9bdb1-e459-4361-86b1-6e00ae8ee5ae-lg.webp",
+    "https://content.estitor.com/50cb9d79-fdb1-4828-837d-be5a262b7aa8-lg.webp",
+    "https://content.estitor.com/aef570b1-2ba8-4514-af96-1c58c8a794e6-lg.webp",
+    "https://content.estitor.com/1300021d-146b-4d7e-981a-f09d55dd2e66-lg.webp",
+    "https://content.estitor.com/94688177-98d0-442b-a5c1-81e6a06dd8fc-lg.webp",
+    "https://content.estitor.com/95b4e4e2-4e06-4687-b7c1-71f80690b8a2-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Blizu škole, Lux, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:29.944085+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.221052+00:00",
+  "source_html_sha256": "9c872f3ec6aa5e9bac5c9b7969d8ab6cd76f678121f7e70f14bc1e7df89aee68",
+  "title": "Izdavanje, dvosoban stan, 85m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-16",
+  "updated_date": "2026-10-23",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 85,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Sladjana Mitrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "23. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Blizu škole, Lux, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!572",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268010202",
+      "name": "Sladjana Mitrovic",
+      "email": null,
+      "source": "workbook:Outreach list!572"
+    },
+    {
+      "phone_e164": "+38268010202",
+      "name": "Sladjana Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268010202"
+  ],
+  "phone_e164": "+38268010202",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

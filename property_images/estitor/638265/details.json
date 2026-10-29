@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "638265",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638265",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638265"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 135,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638265",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Hodnik": "true",
+    "Ostava": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b733154b-7929-4e57-a81d-c70f1c6594f2-lg.webp",
+    "https://content.estitor.com/e5db5df1-27e1-4418-b4c4-aff3862c1b70-lg.webp",
+    "https://content.estitor.com/62ba67b6-954e-45fb-8017-95721ab63359-lg.webp",
+    "https://content.estitor.com/1750fa4d-49e6-41da-a558-1c03e58adbf3-lg.webp",
+    "https://content.estitor.com/554eeb55-e997-4bf9-9ba2-b4499a5611bd-lg.webp",
+    "https://content.estitor.com/6cf58241-b018-4358-9701-83dc4a68e90c-lg.webp",
+    "https://content.estitor.com/53d2c291-5c83-41c4-86ab-0c50fed94b2e-lg.webp",
+    "https://content.estitor.com/c7b37d36-db52-4663-b3a9-8e422e7c4817-lg.webp",
+    "https://content.estitor.com/fc95c3ec-22e8-4a21-be3d-66bb5a0c39cc-lg.webp",
+    "https://content.estitor.com/e97231cb-b5ec-4440-8627-f699ed1d06ee-lg.webp",
+    "https://content.estitor.com/1b409b41-a00f-45f8-a388-43611ab742d8-lg.webp",
+    "https://content.estitor.com/76999a60-42d9-48cf-b12b-95fbb6dbead6-lg.webp",
+    "https://content.estitor.com/3ca36b32-341f-4b30-91f6-e73b2c273c46-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdavanje stana – Gorica C, Podgorica | 75 m²\nIzdaje se stan površine 75 m² na atraktivnoj lokaciji Gorica C u Podgorici.\nStan nudi prostran i udoban prostor za život, idealan za one koji traže prijatan i miran dom u Podgorici.\nLokacija: Gorica C, Podgorica\nPovršina: 75 m²\nTip nekretnine: Stan za izdavanje\nZa više informacija i dogovor oko razgledanja stana, kontaktirajte nas.\nKiralk daire – Gorica C, Podgorica | 75 m²\nPodgorica'nn tercih edilen bölgelerinden Gorica C'de, 75 m² geniliinde kiralk daire.\nGeni kullanm alan ve konforlu yaam imkân sunan bu daire, ehirde rahat ve huzurlu bir yaam arayanlar için ideal bir seçenektir.\nKonum: Gorica C, Podgorica\nAlan: 75 m²\nlem: Kiralk daire\nDetayl bilgi ve daireyi görmek için iletiime geçebilirsiniz.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:21.351846+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.987671+00:00",
+  "source_html_sha256": "627c98d65ab6e9fc832295f0eac9926c5efdca68965d003de75050cc8a879d26",
+  "title": "Izdavanje, dvosoban stan, 75m², Gorica C, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-18",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 75,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "32 Beogradska, Podgorica 81000, Karadağ",
+  "country": "ME",
+  "advertiser_name": "Lux Agency",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Jug",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Hodnik",
+    "Ostava",
+    "Lux"
+  ],
+  "metadata_summary": "Izdavanje stana – Gorica C, Podgorica | 75 m²Izdaje se stan površine 75 m² na atraktivnoj lokaciji Gorica C u Podgorici.Stan nudi prostran i udoban prostor za život, idealan za one koji traže prijatan i miran dom u Po...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!135",
+      "agent_reasons": "business name (Lux Agency)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268178576",
+      "name": "Lux Agency",
+      "email": null,
+      "source": "workbook:Likely agents!135"
+    },
+    {
+      "phone_e164": "+38268178576",
+      "name": "Lux Agency",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268178576"
+  ],
+  "phone_e164": "+38268178576",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

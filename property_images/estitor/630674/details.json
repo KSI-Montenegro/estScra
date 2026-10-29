@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "630674",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-630674",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-630674"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 283,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630674",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Broj terasa": "1",
+    "Broj etaža": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Površina placa": "300",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Površina placa m2": "300"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7db078a1-5809-4642-816c-63a828514bd5-lg.webp",
+    "https://content.estitor.com/f87c8ba7-8e93-4b1f-a7c7-19d2da944c88-lg.webp",
+    "https://content.estitor.com/f57f7d9e-2081-4819-93b4-c950d63fa561-lg.webp",
+    "https://content.estitor.com/8b8877a2-fbf3-4f98-bf59-0ee5b2431124-lg.webp",
+    "https://content.estitor.com/dc2feb95-01f4-46b9-9da6-1795769968d8-lg.webp",
+    "https://content.estitor.com/917868d3-c1fb-4205-85fb-d7d8853184d8-lg.webp",
+    "https://content.estitor.com/a82872eb-45df-4cfc-9f78-f45fd7ed59bf-lg.webp",
+    "https://content.estitor.com/bebd7661-6192-44e2-ae95-80ebbb33826c-lg.webp",
+    "https://content.estitor.com/ebf43125-50e3-44db-9538-582303dfa5d3-lg.webp",
+    "https://content.estitor.com/571eacc5-eb63-4191-a916-c2945fe49231-lg.webp",
+    "https://content.estitor.com/7c304100-109d-402a-b0c5-569dc6571858-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Osunčan, Novogradnja.\nIzdajem 4 nova apartmana za radnike – Bar (kod KIPS-a / nadvožnjak), odmah useljivo\nTekst oglasa:\nLokacija: Bar, kod KIPS-a (nadvožnjak), novogradnja (zgrada stara 2 godine).\nKapacitet:\n3 studio apartmana: svaki po 4 ležaja (2 kreveta na sprat) – ukupno 12 osoba\n1 apartman sa odvojenom sobom: ukupno 7 osoba\nOprema u svakom apartmanu: klima, zasebna kuhinja, kupatilo, internet, kablovska TV.\nZajednički vešeraj: veš mašina i sušilica.\nUslovi:\nSve komunalije uključene (struja, voda, internet, kablovska).\nPlaćanje unaprijed.\nVeći apartman (7 osoba) – .\nPogodno za radnike / firme / sezonce; moguć dogovor za duži period. Broj tel: +38269710092",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:02.675904+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.558796+00:00",
+  "source_html_sha256": "292c0c4f3dc4c465f121c7109d61ec2af873777501758d4d79468aefc0a9f7a4",
+  "title": "Izdavanje, kuća, 35m², Bjeliši, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-29",
+  "price_amount": 360,
+  "price_currency": "EUR",
+  "price_raw": "360 EUR",
+  "area_m2": 35,
+  "rooms": 4,
+  "bathrooms": 4,
+  "city": "Bar",
+  "street_address": "E851, Bar, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Dejan Rocenovic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "lot_area_m2": 300,
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan, Novogradnja.Izdajem 4 nova apartmana za radnike – Bar (kod KIPS-a / nadvožnjak), odmah useljivoTekst oglasa:Lokacija: Bar, kod KIPS-a (nadvožnjak), novogradnja (zgrada stara 2 godine).Kapacitet:3 studio apart...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!283",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269710092",
+      "name": "Dejan Rocenovic",
+      "email": null,
+      "source": "workbook:Outreach list!283"
+    },
+    {
+      "phone_e164": "+38269710092",
+      "name": "Dejan Rocenovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269710092"
+  ],
+  "phone_e164": "+38269710092",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

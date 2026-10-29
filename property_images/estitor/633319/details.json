@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "633319",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633319",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633319"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 118,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_633319",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/524d8adc-23b6-4c43-ac36-8b874803efcb-lg.webp",
+    "https://content.estitor.com/995f529e-2638-4ba6-919a-d901443d9c57-lg.webp",
+    "https://content.estitor.com/1b9583fd-40ef-4b20-8cc2-028b9d3ec9e0-lg.webp",
+    "https://content.estitor.com/da364ae3-e122-41a4-b847-03b105713cc2-lg.webp",
+    "https://content.estitor.com/a4f9a147-0f47-4bc0-bd8c-8b15ae3e1bd1-lg.webp",
+    "https://content.estitor.com/407a563d-4484-4553-9a7f-6a74e2811ef0-lg.webp",
+    "https://content.estitor.com/a3915829-513b-4cc0-a05b-b7aee923288c-lg.webp",
+    "https://content.estitor.com/66e40bef-d120-448e-bc66-c8d2eac2cb39-lg.webp",
+    "https://content.estitor.com/a3f131d5-b632-4d45-99b5-184b845104a3-lg.webp",
+    "https://content.estitor.com/43ee745c-5e8d-4167-89c6-abbaad47bf6a-lg.webp",
+    "https://content.estitor.com/342232f1-80ac-4162-b9d5-1931ff4eb5ec-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se namješten jednosoban stan u Budvi na duži period.\n\nStan je na 3. spratu, površine oko 50 m². Ima spavaću sobu, dnevnu sobu sa sofa ležajem, potpuno opremljenu kuhinju sa mašinom za suđe, trpezarijski sto, kupatilo i terasu. U stanu je klima.\n\nGaražno mjesto u zgradi je uključeno.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:06.522530+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.836171+00:00",
+  "source_html_sha256": "b4f98490d04b9a7f63f73bf2b74409e6b1992f78b7e862eb6d1419d0ce451d8a",
+  "title": "Izdavanje, jednosoban stan, 50m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-11",
+  "updated_date": "2026-10-11",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Jelena Milanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se namješten jednosoban stan u Budvi na duži period.Stan je na 3. spratu, površine oko 50 m². Ima spavaću sobu, dnevnu sobu sa sofa ležajem, potpuno opremljenu kuhinju sa mašinom za suđe, trpezarijski sto, kupa...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!118",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269338164",
+      "name": "Jelena Milanovic",
+      "email": null,
+      "source": "workbook:Likely agents!118"
+    },
+    {
+      "phone_e164": "+38269338164",
+      "name": "Jelena Milanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269338164"
+  ],
+  "phone_e164": "+38269338164",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

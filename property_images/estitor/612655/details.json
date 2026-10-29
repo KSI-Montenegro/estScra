@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "612655",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-612655",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-612655"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 317,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_612655",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugozapad",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/4dc55f55-edbf-49d8-bf8f-c4ae5bb8790c-lg.webp",
+    "https://content.estitor.com/3378ebaf-a42d-45be-8e46-4c51a7468f98-lg.webp",
+    "https://content.estitor.com/4e93e591-3c7d-4265-ae5c-68031d2dadb4-lg.webp",
+    "https://content.estitor.com/233e3a0b-3c86-40a7-9ed6-40c3e666f162-lg.webp",
+    "https://content.estitor.com/87d8ff09-428d-419f-9c25-dd16f8ac0f2a-lg.webp",
+    "https://content.estitor.com/66fd366b-066e-4491-96f4-0ae469afe2a2-lg.webp",
+    "https://content.estitor.com/4a4c122f-fe2f-45a7-9112-affaec80e7f2-lg.webp",
+    "https://content.estitor.com/f74de689-f1a2-441b-aee8-f7cd0bbf8e74-lg.webp",
+    "https://content.estitor.com/77152069-aa49-43d8-a597-e264df36116e-lg.webp",
+    "https://content.estitor.com/be02ac50-6db5-483a-a25f-9911526f9c33-lg.webp",
+    "https://content.estitor.com/2d197d4c-9c11-4b3e-b833-6d8c1930e434-lg.webp",
+    "https://content.estitor.com/7b0c736b-9a26-4ec9-be36-9595620b67c9-lg.webp",
+    "https://content.estitor.com/71aade08-60fa-4312-a5ec-0a955b8284ae-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u Bečićima.\n\nOvaj moderan i potpuno opremljen apartman nalazi se na drugom spratu zgrade IDEA, svega 150 metara od plaže. Stan je površine 54 m² i ima predivan pogled na more.\nSastoji se od dnevnog boravka sa balkonom, spavaće sobe sa balkonom, kupatila i potpuno opremljene kuhinje. IDEA market se nalazi u prizemlju zgrade.\nIzdaje se na dnevnom nivou.\nMinimum 4 dana\nUslovi: Depozit 35% od ukupne cijene rezervacije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:20.283317+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.763236+00:00",
+  "source_html_sha256": "ca338a39ed281eae485730c235e9ff95484d9b32b385923643b9d451f9fbac86",
+  "title": "Izdavanje, jednosoban stan, 54m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-08",
+  "updated_date": "2026-10-07",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 54,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "E80, Bečići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milos Saranovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jugozapad",
+  "balconies": 2,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u Bečićima.Ovaj moderan i potpuno opremljen apartman nalazi se na drugom spratu zgrade IDEA, svega 150 metara od plaže. Stan je površine 54 m² i ima predivan pogled na more.Sastoji se od dnev...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!317",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267646487",
+      "name": "Milos Saranovic",
+      "email": null,
+      "source": "workbook:Outreach list!317"
+    },
+    {
+      "phone_e164": "+38267646487",
+      "name": "Milos Saranovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267646487"
+  ],
+  "phone_e164": "+38267646487",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

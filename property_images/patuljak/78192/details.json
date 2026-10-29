@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "78192",
+  "listing_url": "https://patuljak.me/oglas/prodajem-3-apartmana-susanj-bar--78192",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-3-apartmana-susanj-bar--78192"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 28,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_78192",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!28:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Šušanj",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Pločice",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "3 i više",
+    "Pogled na more": "Ima",
+    "Stambena kvadratura": "90 m2",
+    "Kvadratura balkona": "15 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78192_0.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Na prodaju kompletno opremljen sprat kuće u Šušanju, na svega 350 metara od mora.\nSprat je organizovan kao 3 zasebna apartmana, ukupnog kapaciteta za smještaj do 10 osoba, što ovu nekretninu čini odličnom kako za porodično korišćenje, tako i kao investiciju za turističko izdavanje.\nSvaki apartman posjeduje:\nsopstveno kupatilo\n\nkuhinju\n\nterasu\n\npogled na more\n\nkompletan namještaj rađen po mjeri\n\nObjekat je renoviran 2026. godine, a apartmani se prodaju opremljeni, tako da novi vlasnik može odmah da ih koristi ili nastavi sa turističkim izdavanjem bez dodatnih ulaganja.\nUz sprat kuće pripadaju i 3 parking mjesta u ograđenom dvorištu, koje je dodatno obezbijeđeno video-nadzorom.\nU objektu je uveden optički internet, a posebna pogodnost za budućeg vlasnika je što nema troškova plaćanja interneta.\nGlavne prednosti nekretnine\n✓ 350 m od mora\n✓ Pogled na more\n✓ 3 potpuno opremljena apartmana\n✓ Kapacitet do 10 osoba\n✓ Svaki apartman ima kuhinju, kupatilo i terasu\n✓ Renovirano 2026. godine\n✓ Namještaj rađen po mjeri\n✓ 3 parking mjesta\n✓ Ograđeno dvorište\n✓ Video-nadzor\n✓ Optički internet bez dodatnih mjesečnih troškova\n✓ Pogodno za turističko izdavanje\nOdlična prilika za kupovinu nekretnine na primorju koja može istovremeno služiti za odmor i donositi prihod od izdavanja.\nZa više informacija, fotografije i dogovor oko obilaska nekretnine, kontaktirajte me. 067 289 280",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:00.599983+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.862915+00:00",
+  "source_html_sha256": "f85a9f3cd4efb44639816417e9fd20507888c1d48236c4e7edc91385ea7acf76",
+  "title": "Prodajem 3 apartmana, Šušanj, Bar",
+  "description_language": "en",
+  "price_raw": "210000.00€",
+  "price_amount": 210000,
+  "price_currency": "EUR",
+  "advertiser_name": "Stefan",
+  "property_type": "apartment",
+  "city": "Bar",
+  "district": "Šušanj",
+  "floor_raw": "2",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 90,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namješten",
+    "Pogled na more"
+  ],
+  "metadata_summary": "Na prodaju kompletno opremljen sprat kuće u Šušanju, na svega 350 metara od mora.Sprat je organizovan kao 3 zasebna apartmana, ukupnog kapaciteta za smještaj do 10 osoba, što ovu nekretninu čini odličnom kako za porodično korišćenje, tako i kao investiciju za turističko izdavanje.Svaki apartman posjeduje:sopstveno kupatilokuhinjuterasupogled na morekompletan namještaj rađen po mjeriObjekat je renoviran 2026. godine, a apartmani se prodaju opremljeni, tako da novi vlasnik može odmah da ih koristi ili nastavi sa turističkim izdavanjem bez dodatnih ulaganja.Uz sprat kuće pripadaju i 3 parking mjesta u ograđenom dvorištu, koje je dodatno obezbijeđeno video-nadzorom.U objektu je uveden optički internet, a posebna pogodnost za budućeg vlasnika je što nema troškova plaćanja interneta.Glavne prednosti nekretnine✓ 350 m od mora✓ Pogled na more✓ 3 potpuno opremljena apartmana✓ Kapacitet do 10 osoba✓ Svaki apartman ima kuhinju, kupatilo i terasu✓ Renovirano 2026. godine✓ Namještaj rađen po mjeri✓ 3 parking mjesta✓ Ograđeno dvorište✓ Video-nadzor✓ Optički internet bez dodatnih mjesečnih troškova✓ Pogodno za turističko izdavanjeOdlična prilika za kupovinu nekretnine na primorju koja može istovremeno služiti za odmor i donositi prihod od izdavanja.Za više informacija, fotografije i dogovor oko obilaska nekretnine, kontaktirajte me. 067 289 280",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!28",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267289280",
+      "name": "Stefan",
+      "email": null,
+      "source": "workbook:Likely agents!28"
+    }
+  ],
+  "contact_phones": [
+    "+38267289280"
+  ],
+  "phone_e164": "+38267289280",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "624150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-624150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-624150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 824,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_624150",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Nema parkinga",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f0ba8ca7-9746-4740-89d1-65f4159c816b-lg.webp",
+    "https://content.estitor.com/f2a86bfa-bd78-4d1c-a160-71270a51de42-lg.webp",
+    "https://content.estitor.com/963bb167-26ee-4cd4-b546-38333182dbb0-lg.webp",
+    "https://content.estitor.com/b31b2457-b488-49bf-9937-2330a23d24be-lg.webp",
+    "https://content.estitor.com/c76fef68-e3d0-439b-8763-c295982c95c0-lg.webp",
+    "https://content.estitor.com/2270dc85-8920-4206-a8e6-f469f7824a20-lg.webp",
+    "https://content.estitor.com/307bdd70-f11e-4dae-a165-3a1295950289-lg.webp",
+    "https://content.estitor.com/efca347d-88d7-4782-9117-5dfbcfef0693-lg.webp",
+    "https://content.estitor.com/82705788-c413-47dc-8760-c5f749c78596-lg.webp",
+    "https://content.estitor.com/ce933130-e707-4a9e-a35a-2c253fc86b71-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Osunčan, Renoviran, Lux, Miran kraj, Odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:52.475350+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.074225+00:00",
+  "source_html_sha256": "a4d8460387c0ba7f43e472815db2633b6951b817b96f04419512fa2920131c40",
+  "title": "Izdavanje, jednosoban stan, 43m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-26",
+  "updated_date": "2026-10-27",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 43,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "12 Omladinskih brigada, Budva, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Dijana Odale",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Lux"
+  ],
+  "metadata_summary": "Osunčan, Renoviran, Lux, Miran kraj, Odmah useljiv.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!824",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268242202",
+      "name": "Dijana Odale",
+      "email": null,
+      "source": "workbook:Outreach list!824"
+    },
+    {
+      "phone_e164": "+38268242202",
+      "name": "Dijana Odale",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268242202"
+  ],
+  "phone_e164": "+38268242202",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

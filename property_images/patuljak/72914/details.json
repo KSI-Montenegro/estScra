@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "72914",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stan-112m2-preko-morace-podgorica--72914",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stan-112m2-preko-morace-podgorica--72914"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 110,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_72914",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Trosoban",
+    "Namješten": "Da",
+    "Sprat": "3",
+    "Vrsta grijanja": "Centralno (gradsko)",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "112 m2",
+    "Kvadratura balkona": "12 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72914_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72914_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72914_1.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodajem stan preko puta Masinske skole u Podgorici\nTakodje u blizini skole vrtici prodavnice\nStan po papirima ima 104m2\nA u realnosti kvadratura je 112m2\nKontakt tel 067 515302",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:32.507636+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.498103+00:00",
+  "source_html_sha256": "fef174c080cfb91709094b98887c55e541ba70277d9dc9d406dade336021e508",
+  "title": "Prodajem stan 112m2, Preko Morače, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Ivan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "3",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Centralno (gradsko)",
+  "area_m2": 112,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodajem stan preko puta Masinske skole u Podgorici Takodje u blizini skole vrtici prodavnice Stan po papirima ima 104m2 A u realnosti kvadratura je 112m2Kontakt tel 067 515302 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!110",
+      "notes": "check deal: sale at 150 EUR looks like a rent",
+      "priority": 85
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269477378",
+      "name": "Ivan",
+      "email": null,
+      "source": "workbook:Outreach list!110"
+    }
+  ],
+  "contact_phones": [
+    "+38269477378"
+  ],
+  "phone_e164": "+38269477378",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

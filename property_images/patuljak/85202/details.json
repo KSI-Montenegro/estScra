@@ -1,0 +1,136 @@
+{
+  "source": "patuljak",
+  "listing_id": "85202",
+  "listing_url": "https://patuljak.me/oglas/50-ari-zemlje-10km-od-pljevalja--85202",
+  "listing_urls": [
+    "https://patuljak.me/oglas/50-ari-zemlje-10km-od-pljevalja--85202"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 995,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85202",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Pljevlja",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "5100 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 2.5,
+      "workbook_value": 2,
+      "source": "workbook:Outreach list!995"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85202_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodajem 50 ari zemlje, 10-tak km od Pljevalja, asvalt, voda, struja.\nCijena 2,5€/m2.\nProdaje se komplet parcela.\nTel 067 112 138",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:40.237685+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.582908+00:00",
+  "source_html_sha256": "826479911e6894d91086c6a08f0ea747942cdb1e7041fcf1dbd0043d1ca7b137",
+  "title": "50 ari zemlje 10km od Pljevalja",
+  "description_language": "en",
+  "price_raw": "2.50€",
+  "price_amount": 2.5,
+  "price_currency": "EUR",
+  "advertiser_name": "Zarko",
+  "property_type": "land",
+  "city": "Pljevlja",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem 50 ari zemlje, 10-tak km od Pljevalja, asvalt, voda, struja.Cijena 2,5€/m2. Prodaje se komplet parcela.Tel 067 112 138",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!995",
+      "priority": 45
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267112138",
+      "name": "Zarko",
+      "email": null,
+      "source": "workbook:Outreach list!995"
+    }
+  ],
+  "contact_phones": [
+    "+38267112138"
+  ],
+  "phone_e164": "+38267112138",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 5100,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

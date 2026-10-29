@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "139236",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-139236",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-139236"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 795,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_139236",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Udaljenost od mora": "600",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7be87dee-7f08-4714-ab49-433fa95ce64a-lg.webp",
+    "https://content.estitor.com/b812dca6-51e5-4031-a026-e24054351c09-lg.webp",
+    "https://content.estitor.com/99463698-af49-4ab1-b1bb-176326b12a0b-lg.webp",
+    "https://content.estitor.com/b68f7062-ca48-452b-a3dd-159887a9ecb0-lg.webp",
+    "https://content.estitor.com/25d02d8f-1d00-4943-99a8-7f00e130e7bb-lg.webp",
+    "https://content.estitor.com/5f3114b5-748d-41e4-8569-1e60f10ea4cb-lg.webp",
+    "https://content.estitor.com/d6fd00d9-3c63-4f2f-b76d-f0e2a6b23aae-lg.webp",
+    "https://content.estitor.com/39597ac5-35a2-4347-bb17-9cf7b12318e8-lg.webp",
+    "https://content.estitor.com/14c1df91-ffad-4664-96dd-d9a55f46520c-lg.webp",
+    "https://content.estitor.com/e3e30efc-4248-449b-b061-f228c602d971-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem odlican, svetao, prostoran stan, 44m2, Rozino, pored autobuske stanice. Stan se izdaje prvi put od septembra 2023, namestaj je nov, kompletan. Sprat je 4-ti, izlaz na terasu i iz spavace sobe, zgrada izgradjena 2022. godine, 3 lifta. Izdaje se na godinu dana, prva kirija + 1 poslednja + depozit. Bez kucnih ljubimaca. Stan je slobodan tek od 01.09.2025.\nСдам на годовую аренду отличную, просторную, светлую квартиру с одной спальней в центре Будвы (автобусная станция). Олата: 1 месяц + 1 последних + депозит. Квартира свободна только от 01.09.2025. Без животних ...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:28.905494+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.710474+00:00",
+  "source_html_sha256": "79802c26aeb295e7ecdde7f085657ff75d4cc21200817e9627dc02de9818aec1",
+  "title": "Izdavanje, jednosoban stan, 44m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2023-05-31",
+  "updated_date": "2026-09-23",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Autobuska stanica, Popa Jola Zeca, Budva, Черногория",
+  "country": "ME",
+  "advertiser_name": "Branko Vuksanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Iznajmljujem odlican, svetao, prostoran stan, 44m2, Rozino, pored autobuske stanice. Stan se izdaje prvi put od septembra 2023, namestaj je nov, kompletan. Sprat je 4-ti, izlaz na terasu i iz spavace sobe, zgrada izgr...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!795",
+      "priority": 70,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+79256779024",
+      "name": "Branko Vuksanovic",
+      "email": null,
+      "source": "workbook:Outreach list!795"
+    },
+    {
+      "phone_e164": "+79256779024",
+      "name": "Branko Vuksanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+79256779024"
+  ],
+  "phone_e164": "+79256779024",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,147 @@
+{
+  "source": "estitor",
+  "listing_id": "615991",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-615991",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-615991"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 690,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_615991",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Opremljen": "Da",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b61ab89b-efc0-4f55-92e5-4897c7da461a-lg.webp",
+    "https://content.estitor.com/82338c4a-6570-4aa7-9314-3a163dc72bab-lg.webp",
+    "https://content.estitor.com/564dae3a-b117-45b6-b68b-3946abea967f-lg.webp",
+    "https://content.estitor.com/29072c66-d694-4edc-bbf2-cf1d42f324b6-lg.webp",
+    "https://content.estitor.com/0055b070-ff1b-4023-977e-b84c0dbbf586-lg.webp",
+    "https://content.estitor.com/5f56e45f-7e2e-40b0-a96d-6a737f504f9d-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan na drugom spratu, u zgradi u blizini Palade. Pogodan za studente.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:27.559153+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.846107+00:00",
+  "source_html_sha256": "b07e762d2515bc92e8144808cbf8f19bebee6982616439ddcfc1f7e4c6cd8adb",
+  "title": "Izdavanje, dvosoban stan, 46m², Momišići, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-13",
+  "updated_date": "2026-09-13",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 46,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marko Dzudovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan na drugom spratu, u zgradi u blizini Palade. Pogodan za studente.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!690",
+      "priority": 75,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381653421983",
+      "name": "Marko Dzudovic",
+      "email": null,
+      "source": "workbook:Outreach list!690"
+    },
+    {
+      "phone_e164": "+381653421983",
+      "name": "Marko Dzudovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381653421983"
+  ],
+  "phone_e164": "+381653421983",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

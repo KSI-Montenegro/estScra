@@ -1,0 +1,155 @@
+{
+  "source": "patuljak",
+  "listing_id": "80057",
+  "listing_url": "https://patuljak.me/oglas/stan-na-dan-u-podgorici-predsjednicki-apartman-ap--80057",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-na-dan-u-podgorici-predsjednicki-apartman-ap--80057"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 465,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80057",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "1",
+    "Sprat": "3",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Ostalo",
+    "Vrsta grijanja": "Struja",
+    "Namješten": "Da",
+    "Parking mjesto": "2",
+    "Broj kreveta": "2",
+    "WC-Kupatilo": "Zasebno/a",
+    "Kuhinja": "Zasebno/a",
+    "Stambena kvadratura": "41 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80057_8.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Apollo 11 nije običan stan na dan – to je iskustvo boravka u futurističkom predsjedničkom svemirskom apartmanu u srcu Podgorice.\nNezaboravan \"space-inspired\" prostor u koji dolazite da se isključite iz realnosti i uđete u potpuno drugi svijet.\n\nPredsjednicki apartman Apollo 11 je idealno mjesto za romantičan boravak, posebne prilike ili potpuno opuštanje.\nSPA Đakuzi za dvoje\nLebdeći krevet & anti-gravitacioni dušek\n4D masažna fotelja (zero gravity)\nVIP garaža (2 parking mjesta blizu lifta)\nNetflix & Brz WiFi & Tiha klima & PS4\nElektrični roštilj na terasi\nVisoko-efikasni prečišćivač vazduha\nBesplatna teretana od 1800m2 u zgradi\nGratis piće dobrodošlice\nSelf check-in uz pametnu bravu\nRomantični setup: latice, baloni, svijeće (Dodatno se naplacuje)\n\nCijena: 99 eura nocenje, a nudimo i dnevnu varijatnu boravka od 3 sata - 69 eura.\nRezervacije: 068/807-395 (Poziv/WhatsApp/Viber/Telegram)\nRecenzije/ocjene apartmana: https://share.google/Hzc7PjGZ6IyHLSfLC",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:35.144331+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.620437+00:00",
+  "source_html_sha256": "1f6caa66753672f06befed72cb53e8de83a781e8e574409ee000cd63da3b4262",
+  "title": "Stan na dan u Podgorici - Predsjednicki apartman Apollo 11",
+  "description_language": "en",
+  "price_raw": "99.00€",
+  "price_amount": 99,
+  "price_currency": "EUR",
+  "advertiser_name": "Marko",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "3",
+  "room_layout_raw": "1",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "2",
+  "area_m2": 41,
+  "parking_spaces": 2,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Apollo 11 nije običan stan na dan – to je iskustvo boravka u futurističkom predsjedničkom svemirskom apartmanu u srcu Podgorice. Nezaboravan space-inspired prostor u koji dolazite da se isključite iz realnosti i uđete u potpuno drugi svijet. Predsjednicki apartman Apollo 11 je idealno mjesto za romantičan boravak, posebne prilike ili potpuno opuštanje.SPA Đakuzi za dvojeLebdeći krevet & anti-gravitacioni dušek4D masažna fotelja (zero gravity)VIP garaža (2 parking mjesta blizu lifta)Netflix & Brz WiFi & Tiha klima & PS4Električni roštilj na terasiVisoko-efikasni prečišćivač vazduhaBesplatna teretana od 1800m2 u zgradiGratis piće dobrodošliceSelf check-in uz pametnu bravuRomantični setup: latice, baloni, svijeće (Dodatno se naplacuje) Cijena: 99 eura nocenje, a nudimo i dnevnu varijatnu boravka od 3 sata - 69 eura.Rezervacije: 068/807-395 (Poziv/WhatsApp/Viber/Telegram)Recenzije/ocjene apartmana: https://share.google/Hzc7PjGZ6IyHLSfLC",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!465",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268807395",
+      "name": "Marko",
+      "email": null,
+      "source": "workbook:Outreach list!465"
+    }
+  ],
+  "contact_phones": [
+    "+38268807395"
+  ],
+  "phone_e164": "+38268807395",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "634110",
+  "listing_url": "https://patuljak.me/oglas/plac-masline-podgorica-prodaja--634110",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-masline-podgorica-prodaja--634110"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 133,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_634110",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Masline",
+    "Adresa": "Iveze Vukova",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "4036.99 m2",
+    "Urbanistička dozvola": true,
+    "Građevinska dozvola": true
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/634110_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Parcela posjeduje urbanistički plan i uslove za izgradnju.\nMoguća parcelacija na više placeva od po 500 m².\nOdlična prilika za porodičnu gradnju ili investiciju.\nCijena: 95 € po m².\nLokacija: ul. Iveze Vukova, Masline\n\nZa više informacija pozvati na br. 068145590 ili 067145590.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:44.431320+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.639515+00:00",
+  "source_html_sha256": "b5b6bdaccd0e9fbfbcbe19df884c2a5a6def0534193c3ee9b5e35e6528af03ed",
+  "title": "Plac, Masline, Podgorica, Prodaja",
+  "description_language": "en",
+  "price_raw": "95.00€",
+  "price_amount": 95,
+  "price_currency": "EUR",
+  "advertiser_name": "Anja",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Masline",
+  "street_address": "Iveze Vukova",
+  "area_m2": null,
+  "amenities": [
+    "Urbanistička dozvola",
+    "Građevinska dozvola"
+  ],
+  "metadata_summary": "Parcela posjeduje urbanistički plan i uslove za izgradnju.Moguća parcelacija na više placeva od po 500 m².Odlična prilika za porodičnu gradnju ili investiciju.Cijena: 95 € po m².Lokacija: ul. Iveze Vukova, MaslineZa više informacija pozvati na br. 068145590 ili 067145590.  ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!133",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268145590",
+      "name": "Anja",
+      "email": null,
+      "source": "workbook:Outreach list!133"
+    }
+  ],
+  "contact_phones": [
+    "+38268145590"
+  ],
+  "phone_e164": "+38268145590",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4036.99,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

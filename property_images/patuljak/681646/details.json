@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "681646",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-stoj-ulcinj-prodaja--681646",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-stoj-ulcinj-prodaja--681646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 96,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_681646",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!96:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Ulcinj",
+    "Naselje": "Štoj",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Ostalo",
+    "Kvadratura": "43000 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_1.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Prodajemo veliki plac u darzi blizu solane. Mogućnost podjele na manje parcele",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:49.101871+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.595436+00:00",
+  "source_html_sha256": "4abcc47ccaecdc9837e1d423c35e8f8dd8b725f9a32db1118c768d00686f8856",
+  "title": "Zemljiste, Štoj, Ulcinj, Prodaja",
+  "description_language": "en",
+  "price_raw": "25.00€",
+  "price_amount": 25,
+  "price_currency": "EUR",
+  "advertiser_name": "Vasilije",
+  "property_type": "land",
+  "city": "Ulcinj",
+  "district": "Štoj",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajemo veliki plac u darzi blizu solane. Mogućnost podjele na manje parcele",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!96",
+      "notes": "check deal: sale at 25 EUR looks like a rent",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268067676",
+      "name": "Vasilije",
+      "email": null,
+      "source": "workbook:Likely agents!96"
+    }
+  ],
+  "contact_phones": [
+    "+38268067676"
+  ],
+  "phone_e164": "+38268067676",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 43000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

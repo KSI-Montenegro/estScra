@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "640314",
+  "listing_url": "https://patuljak.me/oglas/sobe-za-studentkinje-donja-gorica-podgorica-izdava--640314",
+  "listing_urls": [
+    "https://patuljak.me/oglas/sobe-za-studentkinje-donja-gorica-podgorica-izdava--640314"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 959,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_640314",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!959:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donja Gorica",
+    "Broj kreveta": "6",
+    "Sprat": "Prizemlje",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Stambena kvadratura": "100 m2",
+    "Namještena": true,
+    "Kablovska TV": true,
+    "Internet": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_2.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem sobe za studentkinje u blizini UDG-a. Sa komplet opremljenom kuhinjom. Kablovska TV, WiFi i voda uračunati u cijenu.\n069/253-453",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:22.065031+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.317983+00:00",
+  "source_html_sha256": "d8da760d9e44d6b87f2351f8f85eafd79f1b0ff04e10057ceb8f9b2f40bcadf1",
+  "title": "Sobe za studentkinje, Donja Gorica, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Vasiljka",
+  "city": "Podgorica",
+  "district": "Donja Gorica",
+  "floor_raw": "Prizemlje",
+  "area_m2": 100,
+  "amenities": [
+    "Namještena",
+    "Kablovska TV",
+    "Internet"
+  ],
+  "metadata_summary": "Izdajem sobe za studentkinje u blizini UDG-a. Sa komplet opremljenom kuhinjom. Kablovska TV, WiFi i voda uračunati u cijenu.069/253-453",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!959",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269253453",
+      "name": "Vasiljka",
+      "email": null,
+      "source": "workbook:Outreach list!959"
+    }
+  ],
+  "contact_phones": [
+    "+38269253453"
+  ],
+  "phone_e164": "+38269253453",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

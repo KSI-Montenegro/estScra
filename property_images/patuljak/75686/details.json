@@ -1,0 +1,137 @@
+{
+  "source": "patuljak",
+  "listing_id": "75686",
+  "listing_url": "https://patuljak.me/oglas/prodaja-placeva-klikovace--75686",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-placeva-klikovace--75686"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 82,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_75686",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Novo Selo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "2993 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_9.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju 4 placa, ukupne površine 2.993m². Struja, voda i telekomunikacije na placu. Prilaz sa 2 strane.\nPlacevi se nalaze u mirnom dijelu naselja Klikovače, savršenog oblika i tla.\n068415000",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:13.154482+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.686701+00:00",
+  "source_html_sha256": "c9741cb2a77d92a975e8d3f6e3608416f8dec5a58fb4a21fb13c70a3412812fd",
+  "title": "Prodaja placeva - Klikovače",
+  "description_language": "en",
+  "price_raw": "30.00€",
+  "price_amount": 30,
+  "price_currency": "EUR",
+  "advertiser_name": "David",
+  "property_type": "land",
+  "city": "Danilovgrad",
+  "district": "Novo Selo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Na prodaju 4 placa, ukupne površine 2.993m². Struja, voda i telekomunikacije na placu. Prilaz sa 2 strane.Placevi se nalaze u mirnom dijelu naselja Klikovače, savršenog oblika i tla.068415000",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!82",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268415000",
+      "name": "David",
+      "email": null,
+      "source": "workbook:Not homes!82"
+    }
+  ],
+  "contact_phones": [
+    "+38268415000"
+  ],
+  "phone_e164": "+38268415000",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 2993,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

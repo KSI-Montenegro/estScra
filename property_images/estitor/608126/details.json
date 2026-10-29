@@ -1,0 +1,162 @@
+{
+  "source": "estitor",
+  "listing_id": "608126",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-608126",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-608126"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 384,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_608126",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9681c821-0eb7-4479-9d6d-852799e5a6a7-lg.webp",
+    "https://content.estitor.com/dd3a49b4-be21-4f69-938d-374bafad6d70-lg.webp",
+    "https://content.estitor.com/603cb882-e286-4c55-9c86-fee65c359eb6-lg.webp",
+    "https://content.estitor.com/181f64a0-772d-45a9-923a-b6bf872f864d-lg.webp",
+    "https://content.estitor.com/e2206abd-3dbf-4493-8f3d-89f1388f998e-lg.webp",
+    "https://content.estitor.com/c9676863-d5c3-450c-8d85-fbeb73249dde-lg.webp",
+    "https://content.estitor.com/47d0181f-ed68-4058-8efd-b2da5dc2eed6-lg.webp",
+    "https://content.estitor.com/67f04a11-4c21-400b-bdf4-d63e18101c15-lg.webp",
+    "https://content.estitor.com/9009e905-4022-46f9-8327-8e3b34b327f5-lg.webp",
+    "https://content.estitor.com/556a72f7-520d-4ccb-814f-abaf66d74086-lg.webp",
+    "https://content.estitor.com/377a555b-52e3-4a0e-b3d5-6308efab3398-lg.webp",
+    "https://content.estitor.com/08c08172-2834-4d8f-b94d-98bda99d8ef2-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se stan u Budvi – zimski period\nIzdaje se stan površine 35 m² u Budvi, u blizini pekare Cani 2.\nPeriod izdavanja: od 1. oktobra do 1. maja\nStan je pogodan za jednu osobu, par ili zaposlene koji traže smještaj tokom zimskog perioda.\nOdlična lokacija, mirno naselje i blizina svih potrebnih sadržaja.\nZa više informacija i dogovor oko gledanja stana, javite se putem poruke.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:53.568987+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.167921+00:00",
+  "source_html_sha256": "3e7cdcd4ebf245ec8410421e22dc91335f0ee536ea319703ee1f40cdf42f813d",
+  "title": "Izdavanje, jednosoban stan, 35m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-03",
+  "updated_date": "2026-09-11",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 35,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "10 Obilaznica, Budva, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Boris Vlahovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska"
+  ],
+  "metadata_summary": "Izdaje se stan u Budvi – zimski periodIzdaje se stan površine 35 m² u Budvi, u blizini pekare Cani 2.Period izdavanja: od 1. oktobra do 1. majaStan je pogodan za jednu osobu, par ili zaposlene koji traže smještaj toko...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!384",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269242069",
+      "name": "Boris Vlahovic",
+      "email": null,
+      "source": "workbook:Outreach list!384"
+    },
+    {
+      "phone_e164": "+38269242069",
+      "name": "Boris Vlahovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269242069"
+  ],
+  "phone_e164": "+38269242069",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

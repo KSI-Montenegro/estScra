@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "76833",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--76833",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--76833"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 73,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76833",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!73:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Cetinje",
+    "Naselje": "Donji kraj",
+    "Broj prostorija": "4",
+    "Stambena kvadratura": "180 m2",
+    "Sprat": "Prizemlje",
+    "Broj spratova": "2",
+    "Namješten": "Polunamješten",
+    "Godina izgradnje": "2000-2009",
+    "Vrsta poda": "Beton",
+    "Vrsta grijanja": "Ostalo",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Kuhinja": "Ostalo",
+    "WC-Kupatilo": "Zasebno/a",
+    "Parking mjesto": "3 i više",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76833_5.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran prostor na adresi Mojkovacka 130/1, br. 2196, Cetinje.\nPogodan je za magacin, prodavnicu, poslovni prostor, radionicu, manju proizvodnju ili neku drugu djelatnost.\nKarakteristike:\nGlavni prostor - 150 m?\nDva dodatna objekta - 10 m? i 20 m?\n﻿﻿• Ukupna povrsina - 180 m?\n﻿你1toalet\nPosebna prazna prostorija predvidena za\nsudoperu/tehnicku zonu\nDodatni objekti mogu sluziti za skladistenje\nili druge namjene\nSve sto se trenutno nalazi unutra moze se\nukloniti i prostor predati potpuno prazan\n\n●\nPoseban ulaz\nIzdaje se na mjesecnom nivou",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:07.771716+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.619171+00:00",
+  "source_html_sha256": "f42755b01f29b7fc3163477cbeae748d992abf1478691ab5da2b909a54daeb00",
+  "title": "Izdajem poslovni prostor",
+  "description_language": "en",
+  "price_raw": "1500.00€",
+  "price_amount": 1500,
+  "price_currency": "EUR",
+  "advertiser_name": "Maja",
+  "property_type": "commercial",
+  "city": "Cetinje",
+  "district": "Donji kraj",
+  "floor_raw": "Prizemlje",
+  "building_floors_raw": "2",
+  "furnishing_raw": "Polunamješten",
+  "heating_raw": "Ostalo",
+  "parking_raw": "3 i više",
+  "area_m2": 180,
+  "year_built": 2000,
+  "parking_spaces": 3,
+  "amenities": [],
+  "metadata_summary": "Izdaje se prostran prostor na adresi Mojkovacka 130/1, br. 2196, Cetinje.Pogodan je za magacin, prodavnicu, poslovni prostor, radionicu, manju proizvodnju ili neku drugu djelatnost.Karakteristike:Glavni prostor - 150 m?Dva dodatna objekta - 10 m? i 20 m?﻿﻿• Ukupna povrsina - 180 m?﻿你1toaletPosebna prazna prostorija predvidena zasudoperu/tehnicku zonuDodatni objekti mogu sluziti za skladistenjeili druge namjeneSve sto se trenutno nalazi unutra moze seukloniti i prostor predati potpuno prazan●Poseban ulazIzdaje se na mjesecnom nivou",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!73",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267405957",
+      "name": "Maja",
+      "email": null,
+      "source": "workbook:Not homes!73"
+    }
+  ],
+  "contact_phones": [
+    "+38267405957"
+  ],
+  "phone_e164": "+38267405957",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

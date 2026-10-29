@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "580409",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-580409",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-580409"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 402,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_580409",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2008",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/22ed2396-0a40-4891-af66-1868435ab45a-lg.webp",
+    "https://content.estitor.com/4c7245a3-98e7-438b-b781-ad645c3e84ed-lg.webp",
+    "https://content.estitor.com/2e458fd8-8a37-46c4-bb0b-ac5fe424ab3a-lg.webp",
+    "https://content.estitor.com/19b4de06-1296-461a-abe8-59547830a1bd-lg.webp",
+    "https://content.estitor.com/19b364e9-6bcf-47d1-8e77-b9ddc253eb9a-lg.webp",
+    "https://content.estitor.com/63045862-cfb6-4526-802e-81f1423732c5-lg.webp",
+    "https://content.estitor.com/92917b93-b242-494e-9cb6-1131224be7e2-lg.webp",
+    "https://content.estitor.com/c182b5dc-088c-4deb-85d1-8263f72181f0-lg.webp",
+    "https://content.estitor.com/fd3a26fd-a688-46b7-a319-1bf1b34b67a0-lg.webp",
+    "https://content.estitor.com/72f0dd4e-323d-47f3-a4e7-0c6851709f09-lg.webp",
+    "https://content.estitor.com/89a2a61c-133a-475c-8cad-f88a94321cff-lg.webp",
+    "https://content.estitor.com/242de2d0-32c9-4b70-909e-e055674a1193-lg.webp",
+    "https://content.estitor.com/c533c0b3-d315-4743-9249-fa0f33581af5-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan u kući plus terasa. Selo Mardari udaljeno 5km od Luštice Bay. Prvo selo od Luštice Bay u smeru Žanjica. Stan idealan za stalno zaposlenog u Luštici Bay, ili par pošto ima bračni krevet. Stan se izdaje na 12 meseci sa mogućim produženjem ugovora. Obavezan ugovor kod notara i depozit u vrednosti jedne kirije. Od dodatnih troškova plaća se Internet, ukoliko ga stanar želi. Ima ruter 4G pa stanar sam može stavljati karticu Mtel od 12 za 30 dana. Tako će dobiti i Kablovsku. Takođe, plaća se struja koliko potroši. Nema dnevnog a ni sezonskog izdavanja, isključivo stalno zaposleni koji će živeti u stanu minimum godinu dana.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:16:02.200737+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.273257+00:00",
+  "source_html_sha256": "2ccb35f6934b00316af1da5c214e0467d265ca25a94e54592f6009d2146cec70",
+  "title": "Izdavanje, jednosoban stan, 30m², Luštica, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-17",
+  "updated_date": "2026-09-05",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 30,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "street_address": "Unnamed Road, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Dragana Petrusevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2008,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Jednosoban stan u kući plus terasa. Selo Mardari udaljeno 5km od Luštice Bay. Prvo selo od Luštice Bay u smeru Žanjica. Stan idealan za stalno zaposlenog u Luštici Bay, ili par pošto ima bračni krevet. Stan se izdaje ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!402",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268465161",
+      "name": "Dragana Petrusevic",
+      "email": null,
+      "source": "workbook:Outreach list!402"
+    },
+    {
+      "phone_e164": "+38268465161",
+      "name": "Dragana Petrusevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268465161"
+  ],
+  "phone_e164": "+38268465161",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

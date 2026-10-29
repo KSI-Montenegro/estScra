@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "85127",
+  "listing_url": "https://patuljak.me/oglas/stari-bar--85127",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stari-bar--85127"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 849,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_85127",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Stari Bar",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "1550m2 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85127_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85127_1.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "U blizini Starog grada plac 1550m2 sa starom kućom 76m2",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:09.382536+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.314306+00:00",
+  "source_html_sha256": "11c42635315369488a4d5713f168a971db6279dcd6fc69306d2e85537c1b13a0",
+  "title": "Stari Bar",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milena",
+  "property_type": "land",
+  "city": "Bar",
+  "district": "Stari Bar",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "U blizini Starog grada plac 1550m2 sa starom kućom 76m2",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!849",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267019649",
+      "name": "Milena",
+      "email": null,
+      "source": "workbook:Outreach list!849"
+    }
+  ],
+  "contact_phones": [
+    "+38267019649"
+  ],
+  "phone_e164": "+38267019649",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "lot_area_m2": 1550,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

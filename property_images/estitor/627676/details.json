@@ -1,0 +1,173 @@
+{
+  "source": "estitor",
+  "listing_id": "627676",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627676",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627676"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 639,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627676",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2012",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Garaža",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3cc7723b-fddf-4a74-835f-8776e17080cd-lg.webp",
+    "https://content.estitor.com/dacad725-fdd8-4359-a0bd-bfe7f057ad82-lg.webp",
+    "https://content.estitor.com/9f3fc3b0-c545-402e-b0e2-11f350f51b59-lg.webp",
+    "https://content.estitor.com/603f636a-f805-498b-9e8d-1173a1914035-lg.webp",
+    "https://content.estitor.com/7fcfdc1c-7fd8-4353-9321-ff4c13a4d3fb-lg.webp",
+    "https://content.estitor.com/351b618c-f9bb-4c05-ac38-cf0ec8d31fb5-lg.webp",
+    "https://content.estitor.com/240b3383-e3a1-4740-bb13-508c872a8e50-lg.webp",
+    "https://content.estitor.com/71c9dcfc-afa2-4670-9cee-21fede293c84-lg.webp",
+    "https://content.estitor.com/0564d63a-404c-4d60-8c7c-31189f61c5d1-lg.webp",
+    "https://content.estitor.com/ce7ae55e-bd54-4f0e-a792-26a35b8ac0de-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se moderan dvosoban stan površine 64.0 m² u srcu Podgorice, u podnozju brdu Gorica, u naselju Centar. Smješten u mirnom kraju, ovaj stan nudi idealnu kombinaciju urbanog života i opuštenosti.\nStan se nalazi na prvom spratu i kompletno je opremljen, spreman za useljenje. Raspored obuhvata prostrano predsoblje, hodnik, funkcionalnu kuhinju sa trpezarijom, dvije spavaće sobe i jedno kupatilo.\nDodatne pogodnosti uključuju klimatizaciju, lift, internet, kablovsku televiziju i interfon, pružajući udoban i povezan životni prostor. Poseban plus je obezbijeđeno garažno mjesto, što je izuzetna prednost u centru grada. Stan je odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:01.933457+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.576562+00:00",
+  "source_html_sha256": "e0e5c2fc2d174d489340adbda618f95112a098c65ef86a04217ac0879cacbdc4",
+  "title": "Izdavanje, dvosoban stan, 64m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-02",
+  "updated_date": "2026-10-02",
+  "price_amount": 1000,
+  "price_currency": "EUR",
+  "price_raw": "1000 EUR",
+  "area_m2": 64,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "Ivana crnojevica 54/2",
+  "country": "ME",
+  "advertiser_name": "Anja Pejovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 2,
+  "year_built": 2012,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se moderan dvosoban stan površine 64.0 m² u srcu Podgorice, u podnozju brdu Gorica, u naselju Centar. Smješten u mirnom kraju, ovaj stan nudi idealnu kombinaciju urbanog života i opuštenosti.Stan se nalazi na p...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!639",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267258006",
+      "name": "Anja Pejovic",
+      "email": null,
+      "source": "workbook:Outreach list!639"
+    },
+    {
+      "phone_e164": "+38267258006",
+      "name": "Anja Pejovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267258006"
+  ],
+  "phone_e164": "+38267258006",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

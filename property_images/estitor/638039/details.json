@@ -1,0 +1,114 @@
+{
+  "source": "estitor",
+  "listing_id": "638039",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-638039",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-638039"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 88,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_638039",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/20c515a8-09dd-490a-a96b-9cde6b7d7426-lg.webp",
+    "https://content.estitor.com/7a1575f1-1b34-4f49-8e5f-f63a10d9ceb5-lg.webp"
+  ],
+  "image_count": 2,
+  "image_status": "ok",
+  "description_original": "Parcela je udaljena na svega dva kilometra od centra grada, cijela jedna strana parcele se granici sa putem, ima izlaz na elekroenergetsku mrezu, vlasnistvo je 1/1.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:57.071973+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.979277+00:00",
+  "source_html_sha256": "2c38853d8fed5f40cf9bd65f11dfa0d326114c01c46aa4c1a6cdf9bf99e1a054",
+  "title": "Prodaja, plac, 10000m², Centar, Kolašin",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-17",
+  "updated_date": "2026-10-23",
+  "price_amount": 300000,
+  "price_currency": "EUR",
+  "price_raw": "300000 EUR",
+  "city": "Kolašin",
+  "country": "ME",
+  "advertiser_name": "Aleksandar Scepanivic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Parcela je udaljena na svega dva kilometra od centra grada, cijela jedna strana parcele se granici sa putem, ima izlaz na elekroenergetsku mrezu, vlasnistvo je 1/1.",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

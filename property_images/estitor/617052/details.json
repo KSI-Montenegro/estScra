@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "617052",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-617052",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-617052"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 834,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617052",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/bf9c9ba8-e8d8-40fa-8767-60ffd281ade1-lg.webp",
+    "https://content.estitor.com/a8cee2e1-889e-4003-a3d3-b502688e373c-lg.webp",
+    "https://content.estitor.com/ae16fbfc-ec81-4365-9593-2d51d37f84d0-lg.webp",
+    "https://content.estitor.com/002999fe-f5da-48da-aa0e-a83815fad591-lg.webp",
+    "https://content.estitor.com/21975585-91c1-4277-88db-b9a2c34af09d-lg.webp",
+    "https://content.estitor.com/2dadaf3a-8551-4d1d-83e6-6c5bec0bdff9-lg.webp",
+    "https://content.estitor.com/9e9f4126-b96d-4c47-a771-f2bfc597e8bb-lg.webp",
+    "https://content.estitor.com/367e1e39-bfba-43af-ae71-e4a0e7a9e394-lg.webp",
+    "https://content.estitor.com/9f5513e1-f69b-4bfc-93aa-d8da6c8ae74d-lg.webp",
+    "https://content.estitor.com/8437b0a9-e67d-4b9e-8e24-309eb1eef7c8-lg.webp",
+    "https://content.estitor.com/eec31acb-7b28-41e6-846b-6ddb40e0c8c3-lg.webp",
+    "https://content.estitor.com/6eacca7f-c35b-47d6-949c-7e17d2995f4b-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijepo i funkcionalno uređena garsonjera u srcu Cetinja, idealna za udoban život i boravak.\nOvaj praktičan prostor od 34.0 m² nalazi se na 1. spratu i predstavlja savršen izbor za pojedince ili studente. Garsonjera je pažljivo uređena i spremna za useljenje.\nStan je potpuno namješten i opremljen za ugodan boravak, što vam omogućava da se uselite bez dodatnih briga. Sadrži prostranu kuhinju i trpezariju, jedno kupatilo, te sve neophodne elemente za funkcionalan život.\nUživajte u komforu uz klimatizaciju, ostanite povezani zahvaljujući obezbijeđenom internetu. Locirana u mirnom kraju, garsonjera nudi opuštenu atmosferu, dok je istovremeno u blizini svih važnih gradskih sadržaja.\nZbog svoje funkcionalnosti, opremljenosti i lokacije, ova garsonjera je izuzetno pogodna za studente, ali i za sve koji traže kompaktan, uređen dom u mirnom okruženju Cetinja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:58.862469+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.173371+00:00",
+  "source_html_sha256": "3d36d2a114527bd6b9df224330bf67e7f098eafd900772a298120e39adccc3e3",
+  "title": "Izdavanje, garsonjera, 34m², Gruda, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-15",
+  "updated_date": "2026-09-15",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 34,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "Mila Milunovića, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sanja O",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se lijepo i funkcionalno uređena garsonjera u srcu Cetinja, idealna za udoban život i boravak.Ovaj praktičan prostor od 34.0 m² nalazi se na 1. spratu i predstavlja savršen izbor za pojedince ili studente. Gars...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!834",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267734447",
+      "name": "Sanja O",
+      "email": null,
+      "source": "workbook:Outreach list!834"
+    },
+    {
+      "phone_e164": "+38267734447",
+      "name": "Sanja O",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267734447"
+  ],
+  "phone_e164": "+38267734447",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

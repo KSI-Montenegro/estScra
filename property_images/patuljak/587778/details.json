@@ -1,0 +1,140 @@
+{
+  "source": "patuljak",
+  "listing_id": "587778",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-soba-gornja-gorica-podgorica--587778",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-soba-gornja-gorica-podgorica--587778"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 986,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_587778",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "property_type": "normalization:explicit_title_type_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Gornja Gorica",
+    "Sprat": "Prizemlje",
+    "Kuhinja": "Zasebno/a",
+    "WC-Kupatilo": "Zasebno/a",
+    "Vrsta grijanja": "Centralno (kotlarnica)",
+    "Primarna orijentacija": "Zasebno/a",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "20 m2",
+    "Balkon": true,
+    "Parking": true,
+    "Namještena": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587778_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587778_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587778_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587778_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587778_3.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem sobu u Gornjoj Gorici za studentkinje, u ulici Miloja Pavlovića 155. Soba je sa zasebnim ulazom, svojom terasom. U cijenu je uključeno centralno grijanje, posebno kupatilo, wc, čajna kuhinja, dvorište, parking. Takođe u cijenu je uključena i struja, voda, komunalije i ostalo.\n\nZa više informacija pozovite na broj telefona 068775807\nDragica Marković",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:35.828728+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.507896+00:00",
+  "source_html_sha256": "6f471179221b44d34f78a33e71689dab834806170a0dfe89769811dde3c840d7",
+  "title": "Za izdavanje soba, Gornja Gorica, Podgorica",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Milica",
+  "city": "Podgorica",
+  "district": "Gornja Gorica",
+  "floor_raw": "Prizemlje",
+  "heating_raw": "Centralno (kotlarnica)",
+  "parking_raw": true,
+  "area_m2": 20,
+  "parking_spaces": 3,
+  "amenities": [
+    "Balkon",
+    "Parking",
+    "Namještena"
+  ],
+  "metadata_summary": "Izdajem sobu u Gornjoj Gorici za studentkinje, u ulici Miloja Pavlovića 155. Soba je sa zasebnim ulazom, svojom terasom. U cijenu je uključeno centralno grijanje, posebno kupatilo, wc, čajna kuhinja, dvorište, parking. Takođe u cijenu je uključena i struja, voda, komunalije i ostalo.  Za više informacija pozovite na broj telefona 068775807Dragica Marković",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!986",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268745528",
+      "name": "Milica",
+      "email": null,
+      "source": "workbook:Outreach list!986"
+    }
+  ],
+  "contact_phones": [
+    "+38268745528"
+  ],
+  "phone_e164": "+38268745528",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "property_type": "room",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

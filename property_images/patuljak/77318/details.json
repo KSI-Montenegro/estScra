@@ -1,0 +1,130 @@
+{
+  "source": "patuljak",
+  "listing_id": "77318",
+  "listing_url": "https://patuljak.me/oglas/garazno-mjesto--77318",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garazno-mjesto--77318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 939,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77318",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:source_attributes",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Vrsta": "U sklopu veće garaže",
+    "Kvadrata": "17",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77318_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Garazno mjesto povrsine 17m2, u sklopu boksa. Podzemna garaza u zgradi gdje je Sicilija, ulaz/izlaz sa rampom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:09.517894+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.196753+00:00",
+  "source_html_sha256": "2ab2916abbdd15aeb2a4f430601b912c87ced7e7888ef5ab70b5f00ff27f973d",
+  "title": "Garazno mjesto",
+  "description_language": "en",
+  "price_raw": "14000.00€",
+  "price_amount": 14000,
+  "price_currency": "EUR",
+  "advertiser_name": "Fedja",
+  "property_type": "garage",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "property_type_raw": "U sklopu veće garaže",
+  "amenities": [],
+  "metadata_summary": "Garazno mjesto povrsine 17m2, u sklopu boksa. Podzemna garaza u zgradi gdje je Sicilija, ulaz/izlaz sa rampom.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!939",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267211800",
+      "name": "Fedja",
+      "email": null,
+      "source": "workbook:Outreach list!939"
+    }
+  ],
+  "contact_phones": [
+    "+38267211800"
+  ],
+  "phone_e164": "+38267211800",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "deal_type",
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

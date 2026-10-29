@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "455914",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-455914",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-455914"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 122,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_455914",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2001",
+    "Orijentacija": "Istok, Zapad",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a94da6a9-8b18-4a93-95ec-13e021ad9134-lg.webp",
+    "https://content.estitor.com/27b90cd5-c3a7-4015-972e-69cd7dbca363-lg.webp",
+    "https://content.estitor.com/8c6499fe-3899-43e4-b87d-be44c16d0fc2-lg.webp",
+    "https://content.estitor.com/135391df-63fa-49e0-8735-242f122415c6-lg.webp",
+    "https://content.estitor.com/4d51affa-cb26-404a-9cab-d86eaea8f0a8-lg.webp",
+    "https://content.estitor.com/2d7fab90-dbed-49df-b836-3badd6ea8d56-lg.webp",
+    "https://content.estitor.com/d568815b-e83a-4214-9c0a-75896a84029c-lg.webp",
+    "https://content.estitor.com/1426eab8-6478-4453-a0b4-163bd345fac1-lg.webp",
+    "https://content.estitor.com/228e21ec-b02c-41ed-bf48-e75e8d788de6-lg.webp",
+    "https://content.estitor.com/08378804-8b7c-4735-8100-10410c69657a-lg.webp",
+    "https://content.estitor.com/ab5f81aa-b06a-4682-b074-fe141372f1d5-lg.webp",
+    "https://content.estitor.com/a6cf832c-1927-497f-a33c-06204524aa07-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban lux stan, kompletno namješten na Rimskom Trgu. Prozračna i velika dnevna soba opremljena sa vrhunskim italijanskim namještajem, kao i trpezarija sa velikim mermernim stolom pružaju pravi užitak za porodične trenutke. U sklopu stana se nalazi i radni studio sa velikom bibliotekom.\nIzvrsna lokacija stana omogućava pristup znacajnim institucijama setnjom (banke, osnovne skole, supermarketi, restorani i parkovi).\nStan je pozicioniran istočno-zapadno i nalazi se na drugom spratu. Istočna strana stana sa prostranom lodjom pruža pogled na fontanu, dok zapadna strana stana ima veliki balkon prema parkingu.\nSve prostorije su klimatizovane. Izdaje se na duzi period, minimum godinu dana.\n\nLokacija: Rimski Trg (sa pogledom na fontanu), Preko Morače\nPovršina: 85 m2\nSprat: II\nBroj soba: 2\nKupatilo: 1\nWC: 2\nLodja: 1\nBalkon: 1\nOpremljen: da\nGrijanje: električno\nKlimatizovano: da (3 klime)\nDepozit:\nRok izdavanja: minimum 12 mjeseci",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:09.362270+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.874192+00:00",
+  "source_html_sha256": "c39ae011f25f893108b2e90dea15dcf04cb6a0b109f13de3bd22f8f74e0b4544",
+  "title": "Izdavanje, dvosoban stan, 85m², Kruševac, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-08-11",
+  "updated_date": "2026-10-03",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 85,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Boris Djurovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "true",
+  "orientation_raw": "Istok, Zapad",
+  "balconies": 2,
+  "year_built": 2001,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se dvosoban lux stan, kompletno namješten na Rimskom Trgu. Prozračna i velika dnevna soba opremljena sa vrhunskim italijanskim namještajem, kao i trpezarija sa velikim mermernim stolom pružaju pravi užitak za p...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!122",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267810718",
+      "name": "Boris Djurovic",
+      "email": null,
+      "source": "workbook:Likely agents!122"
+    },
+    {
+      "phone_e164": "+38267810718",
+      "name": "Boris Djurovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267810718"
+  ],
+  "phone_e164": "+38267810718",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

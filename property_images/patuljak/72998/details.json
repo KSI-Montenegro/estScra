@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "72998",
+  "listing_url": "https://patuljak.me/oglas/plac-na-prodaju-9569-m2-moze-u-parcelama--72998",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-na-prodaju-9569-m2-moze-u-parcelama--72998"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 100,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72998",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!100:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Botun",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "9569 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Na prodaju je prostrano zemljište ukupne površine 9569 m², idealno pozicionirano u mirnom dijelu Botuna, sa odličnom povezanošću sa centrom Podgorice.\n\nOva parcela nudi izvanredan potencijal za različite namjene – od izgradnje porodičnih kuća ili vila, do razvoja stambenih jedinica ili pametnog ulaganja. Velika prednost je mogućnost kupovine u manjim parcelama, što vam omogućava fleksibilnost prilagođenu vašim potrebama i budžetu.\n\nTrenutno se radi na kompletnom infrastrukturnom opremanju lokacije, što garantuje visoke standarde i brzu spremnost za gradnju.\n\nPametna investicija u budućnost na lokaciji sa rastućim potencijalom.\n067 548 455",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:22.799899+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.800170+00:00",
+  "source_html_sha256": "02d1ecb53102e0c66cab32720f152e678ec477b6dffd72aba0626baa1bfc85d7",
+  "title": "Plac na prodaju 9569 m2 (moze u parcelama)",
+  "description_language": "en",
+  "price_raw": "45.00€",
+  "price_amount": 45,
+  "price_currency": "EUR",
+  "advertiser_name": "Boban",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Botun",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Na prodaju je prostrano zemljište ukupne površine 9569 m², idealno pozicionirano u mirnom dijelu Botuna, sa odličnom povezanošću sa centrom Podgorice.Ova parcela nudi izvanredan potencijal za različite namjene – od izgradnje porodičnih kuća ili vila, do razvoja stambenih jedinica ili pametnog ulaganja. Velika prednost je mogućnost kupovine u manjim parcelama, što vam omogućava fleksibilnost prilagođenu vašim potrebama i budžetu.Trenutno se radi na kompletnom infrastrukturnom opremanju lokacije, što garantuje visoke standarde i brzu spremnost za gradnju.Pametna investicija u budućnost na lokaciji sa rastućim potencijalom.067 548 455 ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!100",
+      "notes": "check deal: sale at 45 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267548455",
+      "name": "Boban",
+      "email": null,
+      "source": "workbook:Not homes!100"
+    }
+  ],
+  "contact_phones": [
+    "+38267548455"
+  ],
+  "phone_e164": "+38267548455",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 9569,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

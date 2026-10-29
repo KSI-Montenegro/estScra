@@ -1,0 +1,139 @@
+{
+  "source": "patuljak",
+  "listing_id": "493860",
+  "listing_url": "https://patuljak.me/oglas/prodaja-3-placa-povrsine-od-500550-i-600m2-u-tolos--493860",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-3-placa-povrsine-od-500550-i-600m2-u-tolos--493860"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 127,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_493860",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!127:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tološi",
+    "Adresa": "Kotorska bb",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Makadam",
+    "Kvadratura": "550 m2"
+  },
+  "quality_flags": [
+    "not_a_home",
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "area_m2",
+      "page_value": 550,
+      "workbook_value": 600,
+      "source": "workbook:Not homes!127"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_5.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodaja 3 placa u Tološe, površine 500,550 i 600m2, na kraju Kotorske ulice ispod Veljeg Brda. Prilazni put, struja i voda do placa.\nIma više placeva veličine od 500 do 600m2.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:39.790461+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.989789+00:00",
+  "source_html_sha256": "4a10a16f301f9756824ae0feab1dd80408ceb1c2af1ee84c1b5c86cb270066ca",
+  "title": "Prodaja 3 placa površine od 500,550 i 600m2 u Tološima",
+  "description_language": "en",
+  "price_raw": "120.00€",
+  "price_amount": 120,
+  "price_currency": "EUR",
+  "advertiser_name": "Zoran",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Tološi",
+  "street_address": "Kotorska bb",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaja 3 placa u Tološe, površine 500,550 i 600m2, na kraju Kotorske ulice ispod Veljeg Brda. Prilazni put, struja i voda do placa.Ima više placeva veličine od 500 do 600m2.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!127",
+      "notes": "check deal: sale at 120 EUR looks like a rent",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267242160",
+      "name": "Zoran",
+      "email": null,
+      "source": "workbook:Not homes!127"
+    }
+  ],
+  "contact_phones": [
+    "+38267242160"
+  ],
+  "phone_e164": "+38267242160",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 550,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

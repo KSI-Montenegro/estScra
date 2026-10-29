@@ -1,0 +1,133 @@
+{
+  "source": "patuljak",
+  "listing_id": "518352",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-zemljiste-40000m2-zirci-kolasin--518352",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-zemljiste-40000m2-zirci-kolasin--518352"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 963,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_518352",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "40000 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/10/518352_3.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Prodaje se zemljište površine 40 000 m2, dijelom pod šumom, u mjestu Žirci, udaljeno oko 5 kilometara od Kolašina. Pogodno za razvoj etno turizma i za odmor.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:24.534577+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.346520+00:00",
+  "source_html_sha256": "4b17d84acd963de3fc83403aa229a21e973b7ba3ef3f702f7853e118c6bd4046",
+  "title": "Za prodaju zemljište 40000m2, Žirci, Kolašin.",
+  "description_language": "en",
+  "price_raw": "5.00€",
+  "price_amount": 5,
+  "price_currency": "EUR",
+  "advertiser_name": "Svetozar",
+  "property_type": "land",
+  "city": "Kolašin",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se zemljište površine 40 000 m2, dijelom pod šumom, u mjestu Žirci, udaljeno oko 5 kilometara od Kolašina. Pogodno za razvoj etno turizma i za odmor.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!963",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267593875",
+      "name": "Svetozar",
+      "email": null,
+      "source": "workbook:Outreach list!963"
+    }
+  ],
+  "contact_phones": [
+    "+38267593875"
+  ],
+  "phone_e164": "+38267593875",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 40000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

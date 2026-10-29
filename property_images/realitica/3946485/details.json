@@ -1,0 +1,149 @@
+{
+  "source": "realitica",
+  "listing_id": "3946485",
+  "listing_url": "https://www.realitica.com/hr/listing/3946485",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946485"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 85,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3946485",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Lokacija": "Bar Centar",
+    "Adresa": "Centar, Bar",
+    "Cijena": "€255.000",
+    "Spavaćih Soba": "2",
+    "Kupatila": "2",
+    "Stambena Površina": "76 m2",
+    "Od Mora (m)": "200",
+    "Klima Uređaj": true,
+    "Oglas Broj": "3946485",
+    "Postavljeno": "17 Oct, 2026",
+    "Zadnja Promjena": "17 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3946485_0ad5ee31-3afe-40fe-8b0f-abe8b57b25a3.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_edc54349-7735-41c2-9c4c-1a63e199ed6c.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_cdac91fe-bbbc-42c5-9f38-92cc364ce95f.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_c693c189-d4bd-4f83-88eb-ef476c3ec86c.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_b3bbf0ab-4c97-47d5-935f-1bca6750b512.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_5060cc81-42a5-4be6-8452-85a43fa7e8e5.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_4627bcd0-0ce9-4103-93e5-39460ece2eda.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_3860d163-676d-4e47-8756-e4703e801b44.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_0dd0e590-dcac-43cc-91b0-60c64907350c.jpg"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "? **PRODAJA STANA U SAMOM CENTRU GRADA – POGLED NA MORE**\n\nNa prodaju prelijep, kompletno renoviran i moderno opremljen stan, smješten na jednoj od najboljih lokacija u gradu, u samom centru, sa predivnim pogledom na more.\n\nStan se nalazi na 6. spratu stambene zgrade sa liftom i odlikuje se funkcionalnim rasporedom, savremenim uređenjem i visokim nivoom komfora.\n\n✨ **Karakteristike stana:**\n\n- Dvije prostrane spavaće sobe\n\n- Dva moderno uređena kupatila\n\n- Dvije terase sa pogledom na more\n\n- Kompletno renoviran stan\n\n- Potpuno opremljen kvalitetnim namještajem i bijelom tehnikom\n\n- Kuhinja sa trpezarijom\n\n- 6. sprat – zgrada sa liftom\n\n- Atraktivna lokacija u samom centru grada\n\n? **Lokacija koja pruža sve na dohvat ruke** – u neposrednoj blizini mora, šetališta, restorana, kafića, prodavnica i svih važnih gradskih sadržaja.\n\nOva nekretnina predstavlja odličan izbor kako za udoban život, tako i kao investiciju za turističko izdavanje, zahvaljujući izuzetnoj lokaciji, pogledu na more i kompletnom renoviranju.\n\n? **Za više informacija i dogovor oko obilaska, kontaktirajte nas!**",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:18.061370+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.314533+00:00",
+  "source_html_sha256": "73c7c0939c35995cba6778b6a30bf8839c2dd9488a6cd581fb35f868251036da",
+  "title": "Prodajem Stan-Apartman, Bar Centar",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Bar Centar",
+  "street_address": "Centar, Bar",
+  "published_date_raw": "17 Oct, 2026",
+  "updated_date_raw": "17 Oct, 2026",
+  "area_m2": 76,
+  "bathrooms": 2,
+  "bedrooms": 2,
+  "distance_to_sea_m": 200,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€255.000",
+  "price_amount": 255000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "? **PRODAJA STANA U SAMOM CENTRU GRADA – POGLED NA MORE**\n\nNa prodaju prelijep, kompletno renoviran i moderno opremljen stan, smješten na jednoj od najboljih lokacija u gradu, u samom centru, sa predivnim pogledom na more.\n\nStan se nalazi na 6. spratu stambene zgrade sa liftom i odlikuje se funkcionalnim rasporedom, savremenim uređenjem i visokim nivoom komfora.\n\n✨ **Karakteristike stana:**\n- Dvije prostrane spavaće sobe\n- Dva moderno uređena kupatila\n- Dvije terase sa pogledom na more\n- Kompletno renoviran stan\n- Potpuno opremljen kvalitetnim namještajem i bijelom tehnikom\n- Kuhinja sa trpezarijom\n- 6. sprat – zgrada sa liftom\n- Atraktivna lokacija u samom centru grada\n\n? **Lokacija koja pruža sve na dohvat ruke** – u neposrednoj blizini mora, šetališta, restorana, kafića,",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!85",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268543664",
+      "name": "Veselin",
+      "email": null,
+      "source": "workbook:Outreach list!85"
+    }
+  ],
+  "contact_phones": [
+    "+38268543664"
+  ],
+  "phone_e164": "+38268543664",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

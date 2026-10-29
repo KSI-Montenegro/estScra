@@ -1,0 +1,147 @@
+{
+  "source": "patuljak",
+  "listing_id": "72910",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-57m2-city-kvart-podgorica--72910",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-57m2-city-kvart-podgorica--72910"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 195,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72910",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!195:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "57 m2",
+    "Kvadratura balkona": "7 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72910_6.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan u City kvartu\n\nIzdaje se moderno opremljen jednosoban stan na jednoj od najboljih lokacija u City kvartu, u neposrednoj blizini Univerzitetskog centra. Stan je funkcionalnog rasporeda, svijetao i idealan za studente, zaposlene ili par. U blizini se nalaze fakulteti, marketi, restorani, kafići i svi sadržaji potrebni za ugodan život.\n\nUz stan dolazi i obezbijeđeno parking mjesto pod rampom, što pruža dodatnu sigurnost i komfor.\n\nStan je dostupan odmah.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:19.265395+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.000142+00:00",
+  "source_html_sha256": "3f5e8d260554da02536ca975957da382ed4b7099c1cb3483f9308542dfd80728",
+  "title": "Izdajem jednosoban stan 57m2, City Kvart, Podgorica",
+  "description_language": "en",
+  "price_raw": "580.00€",
+  "price_amount": 580,
+  "price_currency": "EUR",
+  "advertiser_name": "Lazar",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "floor_raw": "1",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 57,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stan u City kvartuIzdaje se moderno opremljen jednosoban stan na jednoj od najboljih lokacija u City kvartu, u neposrednoj blizini Univerzitetskog centra. Stan je funkcionalnog rasporeda, svijetao i idealan za studente, zaposlene ili par. U blizini se nalaze fakulteti, marketi, restorani, kafići i svi sadržaji potrebni za ugodan život.Uz stan dolazi i obezbijeđeno parking mjesto pod rampom, što pruža dodatnu sigurnost i komfor.Stan je dostupan odmah.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!195",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269365974",
+      "name": "Lazar",
+      "email": null,
+      "source": "workbook:Outreach list!195"
+    }
+  ],
+  "contact_phones": [
+    "+38269365974"
+  ],
+  "phone_e164": "+38269365974",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,149 @@
+{
+  "source": "estitor",
+  "listing_id": "635194",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-635194",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-635194"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 24,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_635194",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2015",
+    "Stanje": "Novo / nekorišćeno",
+    "Parking": "Javni parking",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5390a6a2-cc0d-42fc-9dfc-a33a47aaf655-lg.webp",
+    "https://content.estitor.com/93fd7aec-87b9-432a-9f77-d4f06a621ebe-lg.webp",
+    "https://content.estitor.com/dcb99147-e06b-474c-97d7-54e2a1f3aca1-lg.webp",
+    "https://content.estitor.com/1cc9e62c-e2b2-4870-b8e5-7b991097ac58-lg.webp",
+    "https://content.estitor.com/31dec21f-5ea9-4999-be9d-abeeab89e622-lg.webp",
+    "https://content.estitor.com/c64bcab3-df1e-4dc9-bf6e-09756a970e75-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno nov i sređen poslovni prostor , 46m2 , Blok 9, Zgrada Kroling\nPogodan za kancelarije, predstavništva, salone i ordinacije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:37.398579+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.243412+00:00",
+  "source_html_sha256": "25301c65231b169771905eec1958c337df8a4465732561d070836b1129de8591",
+  "title": "Izdavanje, poslovni prostor, 46m², Blok 9, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-14",
+  "updated_date": "2026-10-14",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 46,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Danilo Jevrić",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "year_built": 2015,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se potpuno nov i sređen poslovni prostor , 46m2 , Blok 9, Zgrada KrolingPogodan za kancelarije, predstavništva, salone i ordinacije.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!24",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267166322",
+      "name": "Danilo Jevrić",
+      "email": null,
+      "source": "workbook:Not homes!24"
+    },
+    {
+      "phone_e164": "+38267166322",
+      "name": "Danilo Jevrić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267166322"
+  ],
+  "phone_e164": "+38267166322",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

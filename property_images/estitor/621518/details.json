@@ -1,0 +1,142 @@
+{
+  "source": "estitor",
+  "listing_id": "621518",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-621518",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-621518"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 142,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_621518",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "5. sprat",
+    "Broj terasa": "1"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/379734ce-e3eb-48df-bb2c-b9c16cc305aa-lg.webp",
+    "https://content.estitor.com/1a5302b0-bdbc-4cb3-b111-4b037c304d72-lg.webp",
+    "https://content.estitor.com/3140a8a2-1119-43e5-bf6b-b87323a74be8-lg.webp",
+    "https://content.estitor.com/59003c80-805a-491c-ab94-7fcb912c47ac-lg.webp",
+    "https://content.estitor.com/b8135d63-27c5-4de1-be80-f15325d2d589-lg.webp",
+    "https://content.estitor.com/06783b29-17e5-43bf-9812-769a91462663-lg.webp",
+    "https://content.estitor.com/a2e229c6-4b22-4659-9ae2-547049b23b50-lg.webp",
+    "https://content.estitor.com/9e26d2d0-5010-4734-9dc5-eea7fedf3831-lg.webp",
+    "https://content.estitor.com/87e44ff0-b747-4210-8a02-dfd87bb24398-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Mediteranska ulica. Odmah iz Hotela Avala, blizu Hotela Merit i veoma blizu Starig Grada Budva\n\nStan se nalazi na petom spratu u novijoj zgradi iza Hotela Avala, u velikoj blizini Starog Grada i marine. U blizini zgrade je Supermarket Voli, Budva.\n\nSastoji se od prostrane dnevne sobe sa trpezarijom, potpuno opremljene kuhinje, spavaće sobe, savremenog kupatila i terase za uživanje sa djelimičnim pogledom na more.\n\nDva klima uređaja, smart TV, WiFi, mašina za veš, internet, roletne na prozorima, sofa koja se razvlači, kompletno posuđe, kompletna posteljina, zidne grijalice, blind vrata…",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:23.125900+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.039382+00:00",
+  "source_html_sha256": "a30b5ec14ccd2046feb6ebadbbe1bf7c13044bca0f57904c33ef5d22b4d7c2bc",
+  "title": "Izdavanje, jednosoban stan, 40m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-22",
+  "updated_date": "2026-09-22",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "https://maps.app.goo.gl/7Dj1QWyP24T4x6pc9?g_st=ic",
+  "country": "ME",
+  "advertiser_name": "Relproperty Me",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "5. sprat",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [],
+  "metadata_summary": "Mediteranska ulica. Odmah iz Hotela Avala, blizu Hotela Merit i veoma blizu Starig Grada BudvaStan se nalazi na petom spratu u novijoj zgradi iza Hotela Avala, u velikoj blizini Starog Grada i marine. U blizini zgrade...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!142",
+      "agent_reasons": "business name (Relproperty Me)"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263256860",
+      "name": "Relproperty Me",
+      "email": null,
+      "source": "workbook:Likely agents!142"
+    },
+    {
+      "phone_e164": "+38263256860",
+      "name": "Relproperty Me",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38263256860"
+  ],
+  "phone_e164": "+38263256860",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

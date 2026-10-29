@@ -1,0 +1,155 @@
+{
+  "source": "patuljak",
+  "listing_id": "79612",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-na-duze--79612",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-na-duze--79612"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 756,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79612",
+  "field_sources": {
+    "title": "page:h1",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!756:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Babilonija",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Kvadratura": "59 m2",
+    "Godina izgradnje": "Starogradnja",
+    "Kvadratura balkona": "11 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Sjeveroistok",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_13.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:02.584013+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.288666+00:00",
+  "source_html_sha256": "b353815810d3d73d553190040f9d2986acb75d2dcc3b0a21ac08c2c0f2b8bccc",
+  "title": "Izdajem stan na duze",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Andrija",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Babilonija",
+  "floor_raw": "3",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "parking_raw": "Nema",
+  "area_m2": 59,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem stan na duze",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!756",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269773883",
+      "name": "Andrija",
+      "email": null,
+      "source": "workbook:Outreach list!756"
+    }
+  ],
+  "contact_phones": [
+    "+38269773883"
+  ],
+  "phone_e164": "+38269773883",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [
+    "description_original"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "no_published_description",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

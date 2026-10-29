@@ -1,0 +1,138 @@
+{
+  "source": "estitor",
+  "listing_id": "631534",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-631534",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-631534"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 967,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_631534",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a4cde5cd-f1e6-4504-9ce3-e5ae87f10798-lg.webp",
+    "https://content.estitor.com/aaa2621c-8380-4bfe-9436-2d406790ad90-lg.webp",
+    "https://content.estitor.com/c414cae7-2919-4354-9267-c4c804c4e300-lg.webp",
+    "https://content.estitor.com/ceeedeba-9cc7-4768-be7b-43ed3c44b500-lg.webp",
+    "https://content.estitor.com/42c22c3e-fc2a-4103-908f-0f4fe4fc844c-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "dva garazna parking mjesta",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:26.958318+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.371200+00:00",
+  "source_html_sha256": "3476851b84327b5b1adc8b0b7c27534f02dd98d3b18296f7be150cc31fc98554",
+  "title": "Izdavanje, parking/garaža, 15m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Djordje Marković",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "dva garazna parking mjesta",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!967",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268300215",
+      "name": "Djordje Marković",
+      "email": null,
+      "source": "workbook:Outreach list!967"
+    },
+    {
+      "phone_e164": "+38268300215",
+      "name": "Djordje Marković",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268300215"
+  ],
+  "phone_e164": "+38268300215",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

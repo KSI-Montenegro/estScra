@@ -1,0 +1,31 @@
+# Kuća 10km od Pljevalja
+
+Source: https://patuljak.me/oglas/kuca-10km-od-pljevalja--73437
+
+- Property type: house
+- Published price: 22000.00€
+- Price amount: 22000
+- Currency: EUR
+- City: Pljevlja
+- District: Ostalo
+- Area (m²): 70
+- Parking: 3 i više
+
+## Original listing description
+
+Kuća tvrda gradnja od duple cigle.
+Potrebno je ulaganje oko 8 hiljada €( zato je ta cijena u oglasu).
+Ima 3 spavaće sobe i dnevna sa nišom.
+Ispod veliki podrum (garaža), wc i ostava.
+Unutrašnje stepenice.
+Kuća pored asvalta, struja, voda, voćnjak,
+3 pomoćna objekta.
+Za 22 hiljade i da se uloži oko 8 hiljada, dobijete ogromnu kuću sa 25 ari zemlje pored asvalta, sa pomoćnim objektima i svim priključcima.
+Uz kuću 2500m2 zemlje (25ari).
+Moguće dodatno kupiti još 50 ili 100 ari zemlje po cijeni od 2€ po kvadratu.
+
+## Missing core data
+
+deal_type
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

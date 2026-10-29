@@ -1,0 +1,138 @@
+{
+  "source": "estitor",
+  "listing_id": "631629",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-631629",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-631629"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 965,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_631629",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ecfc37ba-821f-49f3-b5cb-6f0d08a86f90-lg.webp",
+    "https://content.estitor.com/b391172d-acea-4447-991e-6b17681fa511-lg.webp",
+    "https://content.estitor.com/c4ef16d1-dfb0-4ee0-bab8-3f8f04ea2ccc-lg.webp",
+    "https://content.estitor.com/0810a83f-6065-45d9-9593-458680f365a4-lg.webp",
+    "https://content.estitor.com/fd13e957-987e-415e-8f95-189aac00b525-lg.webp",
+    "https://content.estitor.com/b0b763d4-f892-479e-a0c4-027c3db1c487-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Novogradnja, prostrano garazno mjesto, cijena na godisnjem nivou - za mjesecno placanje cijena 15% veca.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:25.716642+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.355752+00:00",
+  "source_html_sha256": "ef0de229c0e9a16ad09abaa86cb0a0ef7120f386a89965bd16f3f3c53d333d12",
+  "title": "Izdavanje, parking/garaža, 14m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-22",
+  "price_amount": 65,
+  "price_currency": "EUR",
+  "price_raw": "65 EUR",
+  "city": "Podgorica",
+  "street_address": "7 M2, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "David Knezevic",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Novogradnja, prostrano garazno mjesto, cijena na godisnjem nivou - za mjesecno placanje cijena 15% veca.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!965",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267357377",
+      "name": "David Knezevic",
+      "email": null,
+      "source": "workbook:Outreach list!965"
+    },
+    {
+      "phone_e164": "+38267357377",
+      "name": "David Knezevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267357377"
+  ],
+  "phone_e164": "+38267357377",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

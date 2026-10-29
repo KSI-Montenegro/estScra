@@ -1,0 +1,148 @@
+{
+  "source": "estitor",
+  "listing_id": "610756",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-danilovgrad/id-610756",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-danilovgrad/id-610756"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 192,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_610756",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "0",
+    "Opremljen": "Ne",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7a7b3de2-9ff3-49db-9957-7a6af5697a2b-lg.webp",
+    "https://content.estitor.com/5d766a3c-9cc9-43be-a29e-90998674cfe9-lg.webp",
+    "https://content.estitor.com/aaee6f97-ac1f-45a3-baed-d3d6195d4c19-lg.webp",
+    "https://content.estitor.com/fb5ddfda-77ff-44f0-afc3-e5132cc931c7-lg.webp",
+    "https://content.estitor.com/ef59d276-49be-401d-a7c7-cd7fef803b3f-lg.webp",
+    "https://content.estitor.com/207c6ebf-a7df-4c2b-90a6-663a78e872bc-lg.webp",
+    "https://content.estitor.com/37df78c0-3dfd-488b-956e-42cfcf9ca626-lg.webp",
+    "https://content.estitor.com/1ef61db3-b313-4626-9255-3011753a9123-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "poslovni prostor 24 m2 gleda na igraliste dvorisna strana",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:13.913178+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.438419+00:00",
+  "source_html_sha256": "e34a52a0f46c1b27046360fc271a64167a0bb7e3369e61a94940859d6a11233e",
+  "title": "Izdavanje, poslovni prostor, 24m², Pažići, Danilovgrad",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-05",
+  "updated_date": "2026-09-05",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 24,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Danilovgrad",
+  "street_address": "Neimenovani Put, Danilovgrad, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Željko Knežević",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [],
+  "metadata_summary": "poslovni prostor 24 m2 gleda na igraliste dvorisna strana",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!192",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267242318",
+      "name": "Željko Knežević",
+      "email": null,
+      "source": "workbook:Not homes!192"
+    },
+    {
+      "phone_e164": "+38267242318",
+      "name": "Željko Knežević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267242318"
+  ],
+  "phone_e164": "+38267242318",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

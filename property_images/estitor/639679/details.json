@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "639679",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639679",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639679"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 259,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_639679",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Podrum",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/430c4d1d-a962-409e-aa76-b0dd3aaf5d24-lg.webp",
+    "https://content.estitor.com/288aeaf1-bf97-4777-8ebe-b3ee771287fb-lg.webp",
+    "https://content.estitor.com/7de702e8-60ee-45a3-8a67-e97ef059f6de-lg.webp",
+    "https://content.estitor.com/5fcfdca1-5471-4b42-a89b-5faf84e0949c-lg.webp",
+    "https://content.estitor.com/ebbe452f-dcfc-45da-9419-0dc63352e400-lg.webp",
+    "https://content.estitor.com/0a7eee25-9409-4438-ae04-74254a02bfcd-lg.webp",
+    "https://content.estitor.com/3eb5c202-466b-41ef-8395-e577bf2822c0-lg.webp",
+    "https://content.estitor.com/f2340f2b-9221-44d5-96bb-7660cb4405ef-lg.webp",
+    "https://content.estitor.com/58962359-90b4-465d-8374-61b69632993c-lg.webp",
+    "https://content.estitor.com/79277090-88b4-4cf4-b7bd-bea0bdaaf0d4-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdaje se nova garsonjera sa pogledom na more u Bečićima | Dugoročni zakup\nBečići, 650 m od mora\nPotpuno nova garsonjera u kojoj niko do sada nije živio. Budite prvi stanari!\nStan je kompletno namješten i opremljen svim što je potrebno za udoban život.\nNamještaj i oprema:\nKauč na razvlačenje sa zasebnim dušekom pune veličine\n\nDva prostrana garderobera\n\nTrpezarijski sto i udobne tapacirane stolice\n\nKlima-uređaj\n\nWi-Fi\n\nPegla i daska za peglanje\n\nPotpuno opremljena kuhinja:\nFrižider sa zamrzivačem\n\nPloča za kuvanje\n\nMikrotalasna pećnica\n\nElektrično kuvalo za vodu\n\nŠerpe i tiganji\n\nTanjiri, šolje i ostalo posuđe\n\nPribor za jelo i kuhinjski pribor\n\nKupatilo:\nTuš-kabina\n\nMašina za pranje veša\n\nBojler\n\nOgledalo sa osvjetljenjem\n\nOrmarići za odlaganje stvari\n\nDodatne pogodnosti:\nTerasa sa pogledom na more, dvije udobne stolice i stočić\n\nZgrada sa liftom\n\nJavni parking preko puta zgrade (slobodna mjesta se uglavnom mogu naći čak i tokom ljetnje sezone)\n\nStan je potpuno namješten i spreman za useljenje.\nKućni ljubimci nijesu dozvoljeni.\nUslovi plaćanja: Prva i posljednja kirija + depozit\nZa više informacija ili dogovor oko razgledanja stana, pošaljite privatnu poruku.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:50.687124+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.405372+00:00",
+  "source_html_sha256": "0a409cbc5b5801cac0070046bdec74ab0615fc3c67642a319cde7705474b0713",
+  "title": "Izdavanje, garsonjera, 29m², Bečići, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-20",
+  "updated_date": "2026-10-20",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 29,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "46 Ive Lole Ribara, Бечићи 85316, Черногория",
+  "country": "ME",
+  "advertiser_name": "Rent Apartment",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Podrum",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kuhinja",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se nova garsonjera sa pogledom na more u Bečićima | Dugoročni zakupBečići, 650 m od moraPotpuno nova garsonjera u kojoj niko do sada nije živio. Budite prvi stanari!Stan je kompletno namješten i opremljen svim ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!259",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38260057725",
+      "name": "Rent Apartment",
+      "email": null,
+      "source": "workbook:Outreach list!259"
+    },
+    {
+      "phone_e164": "+38260057725",
+      "name": "Rent Apartment",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38260057725"
+  ],
+  "phone_e164": "+38260057725",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

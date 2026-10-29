@@ -1,0 +1,142 @@
+{
+  "source": "patuljak",
+  "listing_id": "667895",
+  "listing_url": "https://patuljak.me/oglas/soba-podgorica-izdavanje--667895",
+  "listing_urls": [
+    "https://patuljak.me/oglas/soba-podgorica-izdavanje--667895"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 990,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "patuljak_667895",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_title_deal_words",
+    "property_type": "normalization:explicit_title_type_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Blok 9",
+    "Broj kreveta": "1",
+    "Sprat": "2",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Struja",
+    "Stambena kvadratura": "12 m2",
+    "Novogradnja": true,
+    "Parking": true,
+    "Klima": true,
+    "Namještena": true,
+    "Internet": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdajem sobu stidentkinji. Dijelimo kupatilo i kuhinju. Blizina Tehnickih fakulteta, Blok 9, Podgorica.\nZa vise inf pisati na Viber.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:37.726823+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.538700+00:00",
+  "source_html_sha256": "7b9f0e93ccceba2d77626d3573ff310daf17de952cfc3117d4d954cfdd4f7072",
+  "title": "Soba, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "250.00€",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "advertiser_name": "Tamara",
+  "city": "Podgorica",
+  "district": "Blok 9",
+  "floor_raw": "2",
+  "heating_raw": "Struja",
+  "parking_raw": true,
+  "area_m2": 12,
+  "amenities": [
+    "Novogradnja",
+    "Parking",
+    "Klima",
+    "Namještena",
+    "Internet"
+  ],
+  "metadata_summary": "Izdajem sobu stidentkinji. Dijelimo kupatilo i kuhinju. Blizina Tehnickih fakulteta, Blok 9, Podgorica.Za vise inf pisati na Viber.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!990",
+      "priority": 50
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269820585",
+      "name": "Tamara",
+      "email": null,
+      "source": "workbook:Outreach list!990"
+    }
+  ],
+  "contact_phones": [
+    "+38269820585"
+  ],
+  "phone_e164": "+38269820585",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "property_type": "room",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

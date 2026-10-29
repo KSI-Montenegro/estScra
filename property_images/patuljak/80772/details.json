@@ -1,0 +1,144 @@
+{
+  "source": "patuljak",
+  "listing_id": "80772",
+  "listing_url": "https://patuljak.me/oglas/prodajem-jednosoban-stan-48-m2-beogradska-ulica-10--80772",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-jednosoban-stan-48-m2-beogradska-ulica-10--80772"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 23,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_80772",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!23:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ispod Gorice",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Sprat": "2",
+    "Primarna orijentacija": "Istok",
+    "Stambena kvadratura": "48 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Prodajem jednosoban namješten stan u Beopgradskoj ulici, ispod brda Gorica.\nStan ima 48m2, II sprat - visoko potkrovlje.\nOrijentacija: istok.\n\nCijena: 103.000e\n\nPostoji mogućnost kupovine 1-2 garažna mjesta.\nCijena sa jednim garažnim mjestom 118.000eura, a sa dva 134.000e\n\n069/051-360",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:44.310282+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.908459+00:00",
+  "source_html_sha256": "db9e0135cd3abd0e5c4bb25029819f930b6015f6c47040087687c7f8f9d21379",
+  "title": "Prodajem jednosoban stan 48 m2, Beogradska ulica, 103.000",
+  "description_language": "en",
+  "price_raw": "103000.00€",
+  "price_amount": 103000,
+  "price_currency": "EUR",
+  "advertiser_name": "tanja",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Ispod Gorice",
+  "floor_raw": "2",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "area_m2": 48,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Prodajem jednosoban namješten  stan u Beopgradskoj ulici, ispod brda Gorica.Stan ima 48m2, II sprat - visoko potkrovlje.Orijentacija: istok.Cijena: 103.000ePostoji mogućnost kupovine 1-2 garažna mjesta. Cijena sa jednim garažnim mjestom 118.000eura, a sa dva 134.000e069/051-360",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!23",
+      "priority": 95
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268566804",
+      "name": "tanja",
+      "email": null,
+      "source": "workbook:Outreach list!23"
+    }
+  ],
+  "contact_phones": [
+    "+38268566804"
+  ],
+  "phone_e164": "+38268566804",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

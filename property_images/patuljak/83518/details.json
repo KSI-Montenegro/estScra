@@ -1,0 +1,152 @@
+{
+  "source": "patuljak",
+  "listing_id": "83518",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-55-m2-centar-podgorica--83518",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-55-m2-centar-podgorica--83518"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 139,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83518",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!139:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Centar",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "3",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jugoistok",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "55 m2",
+    "Kvadratura balkona": "15 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83518_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Izdajem sunčan dvosoban stan u Centru, ul.Miljana Vukova 23 (ulica Zlatara), treći sprat. 067431230",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:47.835239+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.673141+00:00",
+  "source_html_sha256": "e38046368ef48bae4babbf9f5540a6c3238626e7724450c2ab22ca61d8c49853",
+  "title": "Izdavanje, Dvosoban stan 55 m2, Centar, Podgorica",
+  "description_language": "en",
+  "price_raw": "550.00€",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "advertiser_name": "Filip",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Centar",
+  "floor_raw": "3",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 55,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdajem sunčan dvosoban stan u Centru, ul.Miljana Vukova 23 (ulica Zlatara), treći sprat. 067431230  ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!139",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267431230",
+      "name": "Filip",
+      "email": null,
+      "source": "workbook:Outreach list!139"
+    }
+  ],
+  "contact_phones": [
+    "+38267431230"
+  ],
+  "phone_e164": "+38267431230",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "603339",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603339",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603339"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 766,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_603339",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e63a8337-3503-4943-b7c3-2671b9fd6915-lg.webp",
+    "https://content.estitor.com/bbe491ac-7b50-4801-979d-9ae5339032af-lg.webp",
+    "https://content.estitor.com/b376100d-6832-4a69-87f7-0cf99bdfa4ef-lg.webp",
+    "https://content.estitor.com/c405d19b-26c3-4c15-b791-3d6a9bbaf44d-lg.webp",
+    "https://content.estitor.com/649d936b-ad40-4667-bdae-8442262d5959-lg.webp",
+    "https://content.estitor.com/80c6f074-04fd-401d-9803-9e718757b06f-lg.webp",
+    "https://content.estitor.com/9cba450e-615b-4b0f-997e-d951dd61361a-lg.webp",
+    "https://content.estitor.com/d86d60e3-fc7b-443f-a72a-983f0cfdeec7-lg.webp",
+    "https://content.estitor.com/00870458-1d45-4178-9fa1-6c23dd48f8d6-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Pogled na more, Novogradnja, Miran kraj\nZa sve dodatne informacije kontaktirati br.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:08.044698+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.376816+00:00",
+  "source_html_sha256": "c54b1deff0d655a30e0dae99beb31a92a17df474480e718e2c4b710dd918e065",
+  "title": "Izdavanje, dvosoban stan, 50m², Sveti Stasije, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-27",
+  "updated_date": "2026-08-28",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 50,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Tina Đerić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Pogled na more, Novogradnja, Miran krajZa sve dodatne informacije kontaktirati br.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!766",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269480325",
+      "name": "Tina Đerić",
+      "email": null,
+      "source": "workbook:Outreach list!766"
+    },
+    {
+      "phone_e164": "+38269480325",
+      "name": "Tina Đerić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269480325"
+  ],
+  "phone_e164": "+38269480325",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

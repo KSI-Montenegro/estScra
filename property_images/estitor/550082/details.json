@@ -1,0 +1,153 @@
+{
+  "source": "estitor",
+  "listing_id": "550082",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-550082",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-550082"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 619,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_550082",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f486c472-0709-4fb4-bb1b-66371652244d-lg.webp",
+    "https://content.estitor.com/50226b9d-bdc0-44d6-9a8a-b09ea7cba584-lg.webp",
+    "https://content.estitor.com/85b7dfff-6910-413c-a1cc-1baebc97a93a-lg.webp",
+    "https://content.estitor.com/85b4d1b1-3c11-462d-ada2-1252c2704403-lg.webp",
+    "https://content.estitor.com/afab5e7e-db6f-48cf-9be2-2e3c8684aa07-lg.webp",
+    "https://content.estitor.com/d341a93b-1f8d-4a5b-b67e-aa05d0eb4f71-lg.webp",
+    "https://content.estitor.com/9b9b0c69-7298-435d-a739-021d917c5c4c-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan dvosoban stan za izdavanje, smješten u srcu jednog od najprestižnijih dijelova Podgorice – Preko Morače. Ovaj osunčan i funkcionalan stan, ukupne površine 61.0 m², idealan je izbor za udoban porodični život ili mlade profesionalce. Sastoji se od prostranog dnevnog boravka, dvije komforne spavaće sobe, moderne kuhinje sa trpezarijom i elegantno uređenog kupatila. Uživajte u svim pogodnostima savremenog života uz klimatizaciju za idealnu temperaturu tokom cijele godine i sigurnosni interfon. Lokacija nudi savršen spoj urbanog ritma i mirnog okruženja, sa javnim parkingom u okolini zgrade. Blizina škole i svih potrebnih sadržaja čini ovu nekretninu izuzetno praktičnom. Stan je odmah useljiv i dostupan po atraktivnoj cijeni od 450.0 EUR mjesečno. Ne propustite priliku da postanete stanar ove atraktivne adrese!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:51.623507+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.457856+00:00",
+  "source_html_sha256": "b733e9663dfd73ab3c70b962b28bdf638128198378dfb713c3ddd50f2df062a2",
+  "title": "Izdavanje, dvosoban stan, 61m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-11",
+  "updated_date": "2026-10-12",
+  "price_amount": 450,
+  "price_currency": "EUR",
+  "price_raw": "450 EUR",
+  "area_m2": 61,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "28 Bulevar Svetog Petra Cetinjskog, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vuk Gilic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan dvosoban stan za izdavanje, smješten u srcu jednog od najprestižnijih dijelova Podgorice – Preko Morače. Ovaj osunčan i funkcionalan stan, ukupne površine 61.0 m², idealan je izbor za udoban...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!619",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267016170",
+      "name": "Vuk Gilic",
+      "email": null,
+      "source": "workbook:Outreach list!619"
+    },
+    {
+      "phone_e164": "+38267016170",
+      "name": "Vuk Gilic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267016170"
+  ],
+  "phone_e164": "+38267016170",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,174 @@
+{
+  "source": "estitor",
+  "listing_id": "627005",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627005",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627005"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 644,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627005",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/86e7e0a4-5e99-48f4-b904-3b67b1e6c1df-lg.webp",
+    "https://content.estitor.com/96c3ff97-43b1-4311-a44d-caf82dbb4f34-lg.webp",
+    "https://content.estitor.com/bc671d71-655d-4526-9f9c-6ffaabc7f82c-lg.webp",
+    "https://content.estitor.com/d82ecf57-5af8-43e8-b585-811a585d74d4-lg.webp",
+    "https://content.estitor.com/5d847b02-010b-42ef-aa8f-7784dd60697c-lg.webp",
+    "https://content.estitor.com/3a5d8ed1-b3fb-42f9-81f0-d7c96e1eb5da-lg.webp",
+    "https://content.estitor.com/a5477bb8-0537-4ad5-967b-2555b82ed81f-lg.webp",
+    "https://content.estitor.com/4b83ff18-3566-40f4-9996-4d94275be28f-lg.webp",
+    "https://content.estitor.com/7bc2ebf1-3034-4e4a-aa78-14853d83a955-lg.webp",
+    "https://content.estitor.com/511c0b92-795a-4a66-817e-a8342bde425c-lg.webp",
+    "https://content.estitor.com/bfbefc1c-1cff-4c51-b0e5-94ffeb9c4eba-lg.webp",
+    "https://content.estitor.com/9cbf0acd-da8b-472e-936f-a9948acafab4-lg.webp",
+    "https://content.estitor.com/698200fb-5111-4acc-a610-d8fe6a541dc0-lg.webp",
+    "https://content.estitor.com/e9bc26e3-55bd-4bd3-b72e-4c164217ab96-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Izdajem renoviran moderno namješten dvosoban stan površine 58m2, na prvom spratu u naselju Momišići, Preko Morače, blizu tržnog centra Palada.\nPotpuno je opremljen, posjeduje skladnu kuhinju, prostranu dnevnu sobu i zastakljenu lodžu. Stan ima osvijetljenu spavaću sobu sa velikim bračnim krevetom i kupatilo gdje se nalaze mašine za sušenje i pranje veša.\nIzdavanje na duži vremenski period isključivo ženskim osobama.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:04.169455+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.604103+00:00",
+  "source_html_sha256": "ed665c19fdcf30bd26703297dad8aed13395675a8ddc168f963ee9b2a5b1ccd4",
+  "title": "Izdavanje, jednosoban stan, 58m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 58,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "55 Nikca od Rovina, Podgorica, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Miodrag Boskovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdajem renoviran moderno namješten dvosoban stan površine 58m2, na prvom spratu u naselju Momišići, Preko Morače, blizu tržnog centra Palada.Potpuno je opremljen, posjeduje skladnu kuhinju, prostranu dnevnu sobu i za...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!644",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267681007",
+      "name": "Miodrag Boskovic",
+      "email": null,
+      "source": "workbook:Outreach list!644"
+    },
+    {
+      "phone_e164": "+38267681007",
+      "name": "Miodrag Boskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267681007"
+  ],
+  "phone_e164": "+38267681007",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

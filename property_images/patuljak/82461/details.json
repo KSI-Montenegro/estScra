@@ -1,0 +1,135 @@
+{
+  "source": "patuljak",
+  "listing_id": "82461",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-bjelisi-bar--82461",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-bjelisi-bar--82461"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 31,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82461",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Not homes!31:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Bar",
+    "Naselje": "Bjeliši",
+    "Broj prostorija": "4",
+    "Stambena kvadratura": "100 m2",
+    "Sprat": "Prizemlje",
+    "Namješten": "Ne",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82461_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82461_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82461_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82461_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82461_4.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se poslovni prostor površine 100 m², na placu površine 1.000 m².\n\nObjekat se nalazi u blizini starog nadvožnjaka u Baru, na pristupačnoj lokaciji, sa dobrim prilazom i velikim parking prostorom.\n\nProstor je pogodan za različite poslovne namjene – trgovinu, magacin, servis, salon, kancelarije, predstavništvo, distribuciju i druge djelatnosti.\n\nZa više informacija i dogovor oko obilaska, kontakt putem poruke ili telefona.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:41.021183+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.299460+00:00",
+  "source_html_sha256": "5717677d2c2e9596171121d612dec048ef0a97e57ad6f19a460023c0ddee5558",
+  "title": "Izdajem poslovni prostor, Bjeliši, Bar",
+  "description_language": "en",
+  "price_raw": "700.00€",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "advertiser_name": "Snezana",
+  "property_type": "commercial",
+  "city": "Bar",
+  "district": "Bjeliši",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Ne",
+  "area_m2": 100,
+  "amenities": [],
+  "metadata_summary": "Izdaje se poslovni prostor površine 100 m², na placu površine 1.000 m².Objekat se nalazi u blizini starog nadvožnjaka u Baru, na pristupačnoj lokaciji, sa dobrim prilazom i velikim parking prostorom.Prostor je pogodan za različite poslovne namjene – trgovinu, magacin, servis, salon, kancelarije, predstavništvo, distribuciju i druge djelatnosti.Za više informacija i dogovor oko obilaska, kontakt putem poruke ili telefona.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!31",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267393506",
+      "name": "Snezana",
+      "email": null,
+      "source": "workbook:Not homes!31"
+    }
+  ],
+  "contact_phones": [
+    "+38267393506"
+  ],
+  "phone_e164": "+38267393506",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "rent",
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

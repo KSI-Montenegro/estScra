@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "630700",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630700",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630700"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 299,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630700",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/2f8049c5-7f67-4511-9393-0be5fbb09bdf-lg.webp",
+    "https://content.estitor.com/7dd0d1a7-ba1b-4e0d-9afb-a48764a69272-lg.webp",
+    "https://content.estitor.com/daa369f6-09a1-4cf6-81d4-e7e9aef9a1ca-lg.webp",
+    "https://content.estitor.com/fe2e8b2e-15c2-4e8a-a508-fdbb486070e8-lg.webp",
+    "https://content.estitor.com/b850ca2f-2651-4ebb-9178-c86e8c71e820-lg.webp",
+    "https://content.estitor.com/a60135fc-5056-4f2c-ad3d-bc076bf8a70a-lg.webp",
+    "https://content.estitor.com/c9fdd070-2d4e-454a-9514-17d4d6bfd2b0-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "🏡 IZDAJE SE JEDNOSOBAN STAN – SELJANOVO, TIVAT\nIzdaje se jednosoban stan na Seljanovu, u jednom od najljepših i najtraženijih djelova Tivta, na duži vremenski period.\nStan je pažljivo uređen i opremljen kvalitetnim namještajem i ugradnom tehnikom, pružajući udoban i prijatan prostor za život.\n✨ Stan posjeduje:\n• jednosobnu strukturu\n• balkon\n• kvalitetan namještaj\n• ugradnu tehniku\n• interfon\n• mala, mirna zgrada\n• uređeno privatno dvorište zgrade\n📍 Lokacija: Seljanovo, Tivat\n🗓️ Izdavanje na duži vremenski period",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:11.073112+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.658863+00:00",
+  "source_html_sha256": "a5d876e74efc48f6d10794094dccc5272003c95175ca4b23117fdfa23ae2839c",
+  "title": "Izdavanje, jednosoban stan, 47m², Seljanovo, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-28",
+  "price_amount": 850,
+  "price_currency": "EUR",
+  "price_raw": "850 EUR",
+  "area_m2": 47,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Nikoleta Vujovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Hodnik",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "🏡 IZDAJE SE JEDNOSOBAN STAN – SELJANOVO, TIVATIzdaje se jednosoban stan na Seljanovu, u jednom od najljepših i najtraženijih djelova Tivta, na duži vremenski period.Stan je pažljivo uređen i opremljen kvalitetnim nam...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!299",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267675295",
+      "name": "Nikoleta Vujovic",
+      "email": null,
+      "source": "workbook:Outreach list!299"
+    },
+    {
+      "phone_e164": "+38267675295",
+      "name": "Nikoleta Vujovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267675295"
+  ],
+  "phone_e164": "+38267675295",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

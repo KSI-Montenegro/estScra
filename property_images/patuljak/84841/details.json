@@ -1,0 +1,113 @@
+{
+  "source": "patuljak",
+  "listing_id": "84841",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-na-starom-aerodromu-izdavanje--84841",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-na-starom-aerodromu-izdavanje--84841"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 10,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84841",
+  "field_sources": {
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "title": "workbook:Not homes!10:primary_url_fields",
+    "deal_type": "workbook:Not homes!10:primary_url_fields",
+    "property_type": "workbook:Not homes!10:primary_url_fields",
+    "city": "workbook:Not homes!10:primary_url_fields",
+    "price_amount": "workbook:Not homes!10:primary_url_fields",
+    "price_currency": "workbook:Not homes!10:primary_url_fields"
+  },
+  "source_attributes": {},
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "unavailable_redirect",
+  "description_original": null,
+  "price_on_request": false,
+  "source_page_available": false,
+  "source_page_captured_at": "2026-10-29T19:23:26.973819+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.143997+00:00",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!10",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267319235",
+      "name": "Aleksandra",
+      "email": null,
+      "source": "workbook:Not homes!10"
+    }
+  ],
+  "contact_phones": [
+    "+38267319235"
+  ],
+  "phone_e164": "+38267319235",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "title": "Poslovni prostor na Starom aerodromu IZDAVANJE",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "city": "Podgorica",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "missing_core_fields": [
+    "description_original",
+    "area",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "source_unavailable",
+  "price_raw": null,
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "country": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "advertiser_name": null,
+  "amenities": null
+}

@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "499709",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-499709",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-499709"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 54,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_499709",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/eea0d9e2-d9a0-4aee-8372-1653c88c140c-lg.webp",
+    "https://content.estitor.com/4dfb2fa6-6ae1-4acd-885b-2fbe396b4ddd-lg.webp",
+    "https://content.estitor.com/d45eae83-45d9-45b8-abad-9a74b2edf2e3-lg.webp",
+    "https://content.estitor.com/1b957928-9ee3-40c0-8e21-dbf2be290bd4-lg.webp"
+  ],
+  "image_count": 4,
+  "image_status": "ok",
+  "description_original": "Garažno mijesto nlazi se na etaži -1 kod izlaza na centralni plato.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:18.396543+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.162901+00:00",
+  "source_html_sha256": "0804ce3cd5fc562c95df0351c3599b4959b0b119fb156d415e60a9df9f80abdd",
+  "title": "Izdavanje, parking/garaža, 13m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-15",
+  "updated_date": "2026-10-13",
+  "price_amount": 70,
+  "price_currency": "EUR",
+  "price_raw": "70 EUR",
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Vladimir Suster",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Garažno mijesto nlazi se na etaži -1 kod izlaza na centralni plato.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!54",
+      "agent_reasons": "4 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267071100",
+      "name": "Vladimir Suster",
+      "email": null,
+      "source": "workbook:Likely agents!54"
+    },
+    {
+      "phone_e164": "+38267071100",
+      "name": "Vladimir Suster",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267071100"
+  ],
+  "phone_e164": "+38267071100",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "618411",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618411",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618411"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 627,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_618411",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/66483b9e-23c9-4c7b-8428-14144b7ad085-lg.webp",
+    "https://content.estitor.com/378db1ee-910f-4ae1-8285-816560386e2f-lg.webp",
+    "https://content.estitor.com/091edbb2-9e67-46d6-b74b-01020697b1cb-lg.webp",
+    "https://content.estitor.com/bc66e4c9-3ca2-4e74-b756-e206cc05d72b-lg.webp",
+    "https://content.estitor.com/eb2e8854-34d9-4703-a5e0-b0fdde003d2a-lg.webp",
+    "https://content.estitor.com/5846684e-1389-4175-8355-d8349c110046-lg.webp",
+    "https://content.estitor.com/3429e842-b7a6-4761-975e-8ce1b86a2207-lg.webp",
+    "https://content.estitor.com/ce0ebc04-03db-472d-b2cc-70a33bb8fba5-lg.webp",
+    "https://content.estitor.com/ebba8f8e-f06c-4049-999b-ee27a13374e7-lg.webp",
+    "https://content.estitor.com/ed9e6843-8b81-4968-8f4c-b3bb80cb8109-lg.webp",
+    "https://content.estitor.com/54dbdac9-175e-41a0-86d2-652b52a1a2cd-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se svijetao i osunčan stan smješten u kući sa ukupno 3 stana, sa posebnim, odvojenim prilazom i zasebnim strujomjerom. Stan je odmah useljiv i idealan za samca ili par koji traži miran kraj, a opet blizu svega neophodnog za svakodnevni život.\nKuća je smještena u mirnoj, tihoj ulici, pogodnoj za sve koji cijene mir bez odricanja od blizine gradskih sadržaja.\nLokacija nudi laku povezanost sa centrom grada, prodavnicama i javnim prevozom. Stan je uredan, svijetao i spreman za useljenje bez dodatnih ulaganja.\nIzdaje se bez kućnih ljubimaca.\nZa sve dodatne informacije i dogovor oko pregleda stana, slobodno nas kontaktirajte\nBlizu škole, Miran kraj, Odmah useljiv, Osunčan",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:56.124030+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.502135+00:00",
+  "source_html_sha256": "5057e93354360e4b6e69bf05bc424db5b9b936989730105439f0a34e2433f79c",
+  "title": "Izdavanje, jednosoban stan, 63m², Preko Morače, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-17",
+  "updated_date": "2026-10-08",
+  "price_amount": 350,
+  "price_currency": "EUR",
+  "price_raw": "350 EUR",
+  "area_m2": 63,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "22 Ulica Gornji Milješ 1, Milješ, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivan Zivkovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se svijetao i osunčan stan smješten u kući sa ukupno 3 stana, sa posebnim, odvojenim prilazom i zasebnim strujomjerom. Stan je odmah useljiv i idealan za samca ili par koji traži miran kraj, a opet blizu svega ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!627",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267463126",
+      "name": "Ivan Zivkovic",
+      "email": null,
+      "source": "workbook:Outreach list!627"
+    },
+    {
+      "phone_e164": "+38267463126",
+      "name": "Ivan Zivkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267463126"
+  ],
+  "phone_e164": "+38267463126",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "473672",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-473672",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-473672"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 81,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_473672",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2017",
+    "Lift": "true",
+    "Klimatizacija": "2",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Novogradnja": "true",
+    "Opremljen": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/ed725bbf-5c72-4b68-af23-ba79d0f8ecee-lg.webp",
+    "https://content.estitor.com/472d72e9-14e8-47b0-9c1d-aec8ea184213-lg.webp",
+    "https://content.estitor.com/bc4c3cd7-9c9b-4e6e-a280-e6a1c6221297-lg.webp",
+    "https://content.estitor.com/efc34e9d-54a4-4d63-8389-bed6fb0e1395-lg.webp",
+    "https://content.estitor.com/0ce7343d-cb2a-489a-8694-7db6f3fdbb30-lg.webp",
+    "https://content.estitor.com/a75798bd-117a-441c-abd6-a4554d93710e-lg.webp",
+    "https://content.estitor.com/dc1e649b-6020-43a3-9c7f-f9ccdfb8c2fd-lg.webp",
+    "https://content.estitor.com/afdde1c0-a2be-4d36-9693-08c48747da20-lg.webp",
+    "https://content.estitor.com/7a38fc76-1a95-44ce-9e55-d7356bdee79f-lg.webp",
+    "https://content.estitor.com/6657189f-5516-4465-8769-6d45ec80df11-lg.webp",
+    "https://content.estitor.com/6df84c0a-6ea3-4a5c-bb70-1565f20d2b42-lg.webp",
+    "https://content.estitor.com/2676abf2-f09d-4477-bbf4-c5c45b4e6fd3-lg.webp",
+    "https://content.estitor.com/cc1ccdb2-8510-4999-af4b-f6b009d8482f-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Za izdavanje u potpunosti optemljen, prostran stan na atraktivnoj lokaciji- City kvartu preko pita supermarketa Voli. Stan posjeduje sve neophodno za ugodan boravak, sa dvije terase i veoma prostran. Preko agencije 600e, direktno 550e",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:37.957374+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.443950+00:00",
+  "source_html_sha256": "1cc018cb579f2dce01d3b749703e3b1554186e40b9fb27f159ecf79d14879831",
+  "title": "Izdavanje, jednosoban stan, 54m², City Kvart, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-26",
+  "updated_date": "2026-09-24",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 54,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Ana Mijatovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "true",
+  "balconies": 2,
+  "year_built": 2017,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Novogradnja",
+    "Opremljen",
+    "Lux"
+  ],
+  "metadata_summary": "Za izdavanje u potpunosti optemljen, prostran stan na atraktivnoj lokaciji- City kvartu preko pita supermarketa Voli. Stan posjeduje sve neophodno za ugodan boravak, sa dvije terase i veoma prostran. Preko agencije 60...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!81",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267628289",
+      "name": "Ana Mijatovic",
+      "email": null,
+      "source": "workbook:Likely agents!81"
+    },
+    {
+      "phone_e164": "+38267628289",
+      "name": "Ana Mijatovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267628289"
+  ],
+  "phone_e164": "+38267628289",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

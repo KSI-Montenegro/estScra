@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "624546",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-624546",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-624546"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 655,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_624546",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "6. sprat",
+    "Broj terasa": "0",
+    "Godina izgradnje": "2022",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/312b5ac1-3dbe-4f36-a367-a942990976b2-lg.webp",
+    "https://content.estitor.com/ab1061df-ec8b-4acc-98a5-b61988cac636-lg.webp",
+    "https://content.estitor.com/45e6a3e0-2540-43c9-9e60-6850a935e887-lg.webp",
+    "https://content.estitor.com/2a172ef8-6ad5-4b48-b858-a1d266a51665-lg.webp",
+    "https://content.estitor.com/ef35cd6d-e4d8-4f69-aea8-20a90d3e4b40-lg.webp",
+    "https://content.estitor.com/4d0055f7-e9fd-40bf-82ae-fcd64d569c01-lg.webp",
+    "https://content.estitor.com/87ac8208-4c7e-4a1a-97c6-1cde308e43cf-lg.webp",
+    "https://content.estitor.com/d7deff2f-ad0b-4f73-b6f5-ee4820681a27-lg.webp",
+    "https://content.estitor.com/27e9741f-8cf5-44e7-a09b-27648d0d6583-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se jednosoban stan\nPodgorica • Stari Aerodrom\n\nOsnovne Informacije\nDetalji\nLokacija\nStari Aerodrom, Podgorica\nPovršina\n40 m²\nStanje\nKompletno opremljen / Spreman za useljenje\n\nOpis nekretnine\nSuper opremljen, moderan i funkcionalan jednosoban stan površine 40 m² u srcu Starog Aerodroma. Stan je kompletno opremljen kvalitetnim namještajem i uređajima, te pruža sve uslove za udoban život.\n\nKarakteristike i opremljenost\nSpavaća soba – udoban krevet i prostrani ormari\n\nOpremljena kuhinja – moderni elementi i svi potrebni uređaji\n\nKlima uređaj – grijanje i hlađenje\n\nTV – savremeni uređaj\n\nOdlična lokacija – u neposrednoj blizini svih potrebnih sadržaja (prodavnice, apoteke, prevoz)\n\nRaspored prostorija\nHodnik\n\nDnevna soba\n\nKuhinja\n\nSpavaća soba\n\nUdoban, moderan i funkcionalan prostor za Vaš savršen dom!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:09.840699+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.660160+00:00",
+  "source_html_sha256": "deb9b2c38ab2ab8c47d100fbdac5aad4c53c8d979fef07e4c7a8ada3fb731589",
+  "title": "Izdavanje, jednosoban stan, 40m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-27",
+  "updated_date": "2026-09-27",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Sara Gredic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "6. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Izdaje se jednosoban stanPodgorica • Stari AerodromOsnovne InformacijeDetaljiLokacijaStari Aerodrom, PodgoricaPovršina40 m²StanjeKompletno opremljen / Spreman za useljenjeOpis nekretnineSuper opremljen, moderan i funk...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!655",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268050174",
+      "name": "Sara Gredic",
+      "email": null,
+      "source": "workbook:Outreach list!655"
+    },
+    {
+      "phone_e164": "+38268050174",
+      "name": "Sara Gredic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268050174"
+  ],
+  "phone_e164": "+38268050174",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

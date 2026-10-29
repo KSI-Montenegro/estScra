@@ -1,0 +1,137 @@
+{
+  "source": "estitor",
+  "listing_id": "537260",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-cetinje/id-537260",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-cetinje/id-537260"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 193,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_537260",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Poljoprivredno"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation",
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/917210ae-6f65-45d6-a370-ac2a3ca13513-lg.webp",
+    "https://content.estitor.com/af061d82-b3a3-4b7e-a44e-3538ed5a79f7-lg.webp",
+    "https://content.estitor.com/images/22627__0e7294b3-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem zemljiste pogodno za solarni park – 500.000 m²Lokacija: Kosača, Cetinje (KO Prediš), Crna Gora. Blizina Montechevo 400MW projekta. Osnovne informacije: Površina za zakup: 500.000 m² (50 ha) ,Nadmorska visina: 980 – 1100 m, Blaga dolinska konfiguracija terena, južne i sjeverne padineViše od 2.000 sunčanih sati godišnje, Povezano sa glavnim putem Cetinje–Čevo preko 5,5 km makadamskog puta. Vlasništvo 1/1, bez tereta.\nModel saradnje: Dugoročni zakup zemljišta (20–30 godina). Mogućnost zajedničkog ulaganja kroz tiho partnerstvo (zemljište + kapital, tehnologija i upravljanje od strane investitora)Prodaja nije primarna opcija, ali može biti razmotrena uz fer ponudu.Za više informacija i satelitske snimke lokacije, kontaktirajte vlasnika.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:14.609532+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.443546+00:00",
+  "source_html_sha256": "bbc4bf7e13ce614a91897c5130446ed36c81f75fc6f7ee22b41307d8d9b0a217",
+  "title": "Izdavanje, plac, 500000m², Cetinje, Crna Gora",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-29",
+  "updated_date": "2026-09-05",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "city": "Crna Gora",
+  "country": "ME",
+  "advertiser_name": "Danijela Vujosevic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Iznajmljujem zemljiste pogodno za solarni park – 500.000 m²Lokacija: Kosača, Cetinje (KO Prediš), Crna Gora. Blizina Montechevo 400MW projekta. Osnovne informacije: Površina za zakup: 500.000 m² (50 ha) ,Nadmorska vis...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!193",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267820086",
+      "name": "Danijela Vujosevic",
+      "email": null,
+      "source": "workbook:Not homes!193"
+    },
+    {
+      "phone_e164": "+38267820086",
+      "name": "Danijela Vujosevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267820086"
+  ],
+  "phone_e164": "+38267820086",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

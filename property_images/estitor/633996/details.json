@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "633996",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633996",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633996"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 855,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_633996",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjeveroistok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/a1660bbc-7065-4031-a0d3-3fc702e2b2df-lg.webp",
+    "https://content.estitor.com/a092fad7-f0ca-4931-ada1-eeb44fd4d59c-lg.webp",
+    "https://content.estitor.com/6b636634-7112-4b6b-baff-cd3efc39bcd6-lg.webp",
+    "https://content.estitor.com/1312c16b-f729-438b-bb19-418fb5332660-lg.webp",
+    "https://content.estitor.com/f8d2ca80-eba0-425b-8847-fe9738389d69-lg.webp",
+    "https://content.estitor.com/b12a1f6b-7f3e-49c7-8b24-3921e5aed5e1-lg.webp",
+    "https://content.estitor.com/74630777-8b4d-4094-9b65-ee69cec79194-lg.webp",
+    "https://content.estitor.com/fe04b62e-8d48-40ac-bc89-ca7c9ad74435-lg.webp",
+    "https://content.estitor.com/45ae0345-a33b-466a-9c4c-62c562352b07-lg.webp",
+    "https://content.estitor.com/ba82276c-adb5-48ea-ad5f-3bfb3848756a-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban stan površine 65 m² na prvom spratu, u Bulevaru Save Kovačevića, jednoj od najpraktičnijih lokacija u Podgorici. Stan ima dnevnu sobu, kuhinju, kupatilo i dvije spavaće sobe.\nU neposrednoj blizini su Tržni centar Gintaš, vrtić, autobuska i željeznička stanica, prodavnice i apoteke. Za porodice sa djecom lokacija je idealna: tu su OŠ „Milorad Musa Burzan\", Gimnazija „Mirko Vešović\" i Srednja stručna škola „Sergije Stanić\", pa djeca do škole stižu pješice.\nCentar grada je na kratkoj udaljenosti, a gradski prevoz je na korak od zgrade. Prvi sprat je pogodan za porodice sa djecom, starije osobe i sve koji žele lak pristup stanu.\nStan se izdaje na duži period. Neophodno je potpisivanje ugovora i polaganje depozita. Kućni ljubimci nisu dozvoljeni.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:12.633260+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.379498+00:00",
+  "source_html_sha256": "f11a6309582e92fe16a655b9b2aa7448e979aa0c555ada1c03e6ff35d1dc6f70",
+  "title": "Izdavanje, dvosoban stan, 65m², Gintaš, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-12",
+  "updated_date": "2026-10-12",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 65,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "56 Bulevar Save Kovačevića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vuk Vujičić",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Sjeveroistok",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdajem dvosoban stan površine 65 m² na prvom spratu, u Bulevaru Save Kovačevića, jednoj od najpraktičnijih lokacija u Podgorici. Stan ima dnevnu sobu, kuhinju, kupatilo i dvije spavaće sobe.U neposrednoj blizini su T...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!855",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269188240",
+      "name": "Vuk Vujičić",
+      "email": null,
+      "source": "workbook:Outreach list!855"
+    },
+    {
+      "phone_e164": "+38269188240",
+      "name": "Vuk Vujičić",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269188240"
+  ],
+  "phone_e164": "+38269188240",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

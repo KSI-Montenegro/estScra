@@ -1,0 +1,146 @@
+{
+  "source": "patuljak",
+  "listing_id": "74732",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjesten-stan-40-kvadrata-u-zgradi-splica--74732",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjesten-stan-40-kvadrata-u-zgradi-splica--74732"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 524,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74732",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!524:primary_url_fields",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Zabjelo",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "4",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "36 m2",
+    "Kvadratura balkona": "3 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74732_5.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno namješten, funkcionalan stan površine 36 m², smješten na 4. spratu stambene zgrade, u mirnom naselju.\nStan se sastoji od:\nprostranog dnevnog boravka sa ugaonom garniturom koja se razvlači i može služiti za spavanje\nodvojene trpezarije\nkuhinje\nhodnika/predsoblja\nterase\nStan je prijatan, funkcionalan i spreman za useljenje.\n???? Lokacija: mirno naselje, Zabjelo,zgrada Splićanka,na svega 15 minuta hoda od tehničkih fakulteta.\n???? Za više informacija i dogovor oko gledanja stana, javiti se na tel.069/517 083",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:05.038027+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.958485+00:00",
+  "source_html_sha256": "d9c48a2195021ffe293766ca5e782bf65361924088e8bfde6ffb3cb9409c9f40",
+  "title": "Izdajem namješten stan, 40 kvadrata u zgradi Splićanka na Zabjelu.",
+  "description_language": "en",
+  "price_raw": "250.00€",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "advertiser_name": "Nikola",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Zabjelo",
+  "floor_raw": "4",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "1",
+  "area_m2": 36,
+  "parking_spaces": 1,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se potpuno namješten, funkcionalan stan površine 36 m², smješten na 4. spratu stambene zgrade, u mirnom naselju.Stan se sastoji od:prostranog dnevnog boravka sa ugaonom garniturom koja se razvlači i može služiti za spavanjeodvojene trpezarijekuhinjehodnika/predsobljateraseStan je prijatan, funkcionalan i spreman za useljenje.???? Lokacija: mirno naselje, Zabjelo,zgrada Splićanka,na svega 15 minuta hoda od tehničkih fakulteta.???? Za više informacija i dogovor oko gledanja stana, javiti se na tel.069/517 083",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!524",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269092725",
+      "name": "Nikola",
+      "email": null,
+      "source": "workbook:Outreach list!524"
+    }
+  ],
+  "contact_phones": [
+    "+38269092725"
+  ],
+  "phone_e164": "+38269092725",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

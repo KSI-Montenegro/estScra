@@ -1,0 +1,138 @@
+{
+  "source": "patuljak",
+  "listing_id": "75299",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-lipovo--75299",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-lipovo--75299"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 84,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75299",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Kolašin",
+    "Naselje": "Gornje Lipovo",
+    "Tip žemljišta": "Poljoprivredno",
+    "Prilaz": "Makadam",
+    "Kvadratura": "45000 m2"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_11.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Prodajem zemljište kvadrature 45 000 m2, na atraktivnoj itrenutno jednoj od najpopularnijih investicionih lokacija u Kolašinu - lokalitetLipovo. Lipovo je prelijepo selo i ruralno naselje smješteno u opštini Kolašinu Crnoj Gori, poznato po netaknutoj prirodi, planinskim pejzažima i mirnomambijentu. Dijeli se na Donje i Gornje Lipovo, a nalazi se u blizini planinskihstaza pogodnih za planinarenje i seoski turizam. Nalazi se u podnožiju planineSinjajevine koja je ujedno i najveći pašnjak u Evropi, popularno nazvanecrnogorski Alpi.\nZemljište je orjentisano nestvarnim pogledom prema najvećimvrhovima Sinjajevine, sa pejzažima koji ostavljaju bez daha. Kada je u pitanjusamo zemljište, ono se sastoji od 25 000m2 šumskog prostora prekrivenogodraslim drvećem, pogodnim za industrijsku eksploataciju. Preostalih 20 000 m2čine livade, prirodne kaskade smještene jedna iznad druge, idealne za razvoj ekoturizma.\nUdaljenost je ukupno 14km od centra Kolašina, od čega je 12km asfaltnog puta, dok je 2 km pristupni put makadamskog tipa koji je uprilično dobrom stanju svojim većim dijelom. Posjeduje 2 privatna izvorištavode, što je rijetkost na navedenom lokalitetu. Priključak za električnuenergiju se nalazi u neposrednoj blizini.\nCijena za navedeno zemljište iznosi 9eura/m2, hitna prodajai mogućnost dogovora oko cijene.\n\nInformacije: dekibojic91@gmail.com;+38268105011 (Viber, WhatsAPP)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:14.373226+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.697003+00:00",
+  "source_html_sha256": "ff36a4a0c6124713746e721ca32319c534600b93ff04da14d915d8f0e25beb45",
+  "title": "Zemljište Lipovo",
+  "description_language": "en",
+  "price_raw": "8.00€",
+  "price_amount": 8,
+  "price_currency": "EUR",
+  "advertiser_name": "Dejan",
+  "property_type": "land",
+  "city": "Kolašin",
+  "district": "Gornje Lipovo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem zemljište kvadrature 45 000 m2, na atraktivnoj itrenutno jednoj od najpopularnijih investicionih lokacija u Kolašinu - lokalitetLipovo. Lipovo je prelijepo selo i ruralno naselje smješteno u opštini Kolašinu Crnoj Gori, poznato po netaknutoj prirodi, planinskim pejzažima i mirnomambijentu. Dijeli se na Donje i Gornje Lipovo, a nalazi se u blizini planinskihstaza pogodnih za planinarenje i seoski turizam. Nalazi se u podnožiju planineSinjajevine koja je ujedno i najveći pašnjak u Evropi, popularno nazvanecrnogorski Alpi.Zemljište je orjentisano nestvarnim pogledom prema najvećimvrhovima Sinjajevine, sa pejzažima koji ostavljaju bez daha. Kada je u pitanjusamo zemljište, ono se sastoji od 25 000m2 šumskog prostora prekrivenogodraslim drvećem, pogodnim za industrijsku eksploataciju. Preostalih 20 000 m2čine livade, prirodne kaskade smještene jedna iznad druge, idealne za razvoj ekoturizma.Udaljenost je ukupno 14km od centra Kolašina, od čega je 12km asfaltnog puta, dok je 2 km pristupni put makadamskog tipa koji je uprilično dobrom stanju svojim većim dijelom. Posjeduje 2 privatna izvorištavode, što je rijetkost na navedenom lokalitetu. Priključak za električnuenergiju se nalazi u neposrednoj blizini. Cijena za navedeno zemljište iznosi 9eura/m2, hitna prodajai mogućnost dogovora oko cijene. Informacije: dekibojic91@gmail.com;+38268105011 (Viber, WhatsAPP) ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!84",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268105011",
+      "name": "Dejan",
+      "email": null,
+      "source": "workbook:Not homes!84"
+    }
+  ],
+  "contact_phones": [
+    "+38268105011"
+  ],
+  "phone_e164": "+38268105011",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 45000,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

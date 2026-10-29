@@ -1,0 +1,148 @@
+{
+  "source": "patuljak",
+  "listing_id": "84524",
+  "listing_url": "https://patuljak.me/oglas/prodajem-kucu-u-tolosima--84524",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-kucu-u-tolosima--84524"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 133,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84524",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!133:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Tološi",
+    "Broj soba": "5",
+    "Stambena kvadratura": "152 m2",
+    "Broj spratova": "2",
+    "Godina izgradnje": "2020",
+    "Namještena": "Ne",
+    "Vrsta poda": "Beton",
+    "Kvadratura placa": "728 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84524_12.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Na prodaju kuća u naselju Tološi, u Ulici Boška Buhe u Podgorici, smještena na parceli površine 728 m².\nKuća je izgrađena 2020. godine i obuhvata prizemlje, prvi sprat i potkrovlje. Uz kuću se nalazi i garaža, a prostrana parcela i uređeno zelenilo pružaju prijatan ambijent i dodatni prostor za uživanje.\nOsnovne karakteristike nekretnine:\nLokacija: Ulica Boška Buhe, Tološi, Podgorica\n\nPovršina parcele: 728 m²\n\nPrizemlje: 47 m² u osnovi\n\nPrvi sprat: 50 m²\n\nPotkrovlje: 55 m²\n\nGaraža: 20 m²\n\nGodina izgradnje: 2020.\n\nCijena: 400.000 €\n\nZa više informacija, dodatne detalje i dogovor oko obilaska nekretnine, kontaktirajte nas. 067145590, 068145590",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:43.929077+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.633654+00:00",
+  "source_html_sha256": "90ca420d203101bcec8a8bcda912f1f37b0d24434ccfa4b4b69c94b465eeb20e",
+  "title": "Prodajem kuću u Tološima",
+  "description_language": "en",
+  "price_raw": "400000.00€",
+  "price_amount": 400000,
+  "price_currency": "EUR",
+  "advertiser_name": "Anja",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Tološi",
+  "building_floors_raw": "2",
+  "room_layout_raw": "5",
+  "area_m2": 152,
+  "year_built": 2020,
+  "amenities": [],
+  "metadata_summary": "Na prodaju kuća u naselju Tološi, u Ulici Boška Buhe u Podgorici, smještena na parceli površine 728 m².Kuća je izgrađena 2020. godine i obuhvata prizemlje, prvi sprat i potkrovlje. Uz kuću se nalazi i garaža, a prostrana parcela i uređeno zelenilo pružaju prijatan ambijent i dodatni prostor za uživanje.Osnovne karakteristike nekretnine:Lokacija: Ulica Boška Buhe, Tološi, PodgoricaPovršina parcele: 728 m²Prizemlje: 47 m² u osnoviPrvi sprat: 50 m²Potkrovlje: 55 m²Garaža: 20 m²Godina izgradnje: 2020.Cijena: 400.000 €Za više informacija, dodatne detalje i dogovor oko obilaska nekretnine, kontaktirajte nas. 067145590, 068145590",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!133",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268145590",
+      "name": "Anja",
+      "email": null,
+      "source": "workbook:Outreach list!133"
+    }
+  ],
+  "contact_phones": [
+    "+38268145590"
+  ],
+  "phone_e164": "+38268145590",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

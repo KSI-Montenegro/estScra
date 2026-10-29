@@ -1,0 +1,136 @@
+{
+  "source": "estitor",
+  "listing_id": "581341",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-niksic/id-581341",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-niksic/id-581341"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 175,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_581341",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9c65392d-b7bb-439f-be41-16ac962cc2e7-lg.webp",
+    "https://content.estitor.com/0ae0fe2a-dd1a-4719-89a9-9538f488ddae-lg.webp",
+    "https://content.estitor.com/341a1eb9-25f7-4b3a-9f7f-809810b46924-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Izdaje se izuzetno prostrano zemljište od . m² u Nikšiću, smješteno na traženoj i mirnoj lokaciji u Rastovcu. Ovo zemljište pruža savršen bijeg od gradske gužve, nudeći idealno okruženje za opuštanje, rad ili specifične projekte. Zahvaljujući svojoj impresivnoj veličini i povoljnom položaju, ova parcela je izuzetno prilagodljiva za različite namjene. Bilo da razmišljate o poljoprivrednoj djelatnosti, uspostavljanju privatnog vrta ili voćnjaka, ili pak o sigurnom prostoru za skladištenje opreme i materijala koji ne narušavaju okolni mir, ovo zemljište nudi rješenje. Kombinacija odlične pristupačnosti i potpune privatnosti čini ovu parcelu jedinstvenom prilikom za dugoročni najam u jednom od najpoželjnijih dijelova Nikšića.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:04.846499+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.331624+00:00",
+  "source_html_sha256": "e31ec7396231a00eac3d1894c3927cf3a252c7e83b47afebdc6a0edbb1580a36",
+  "title": "Izdavanje, plac, 1443m², Rastovac, Nikšić",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-20",
+  "updated_date": "2026-09-28",
+  "price_amount": 1400,
+  "price_currency": "EUR",
+  "price_raw": "1400 EUR",
+  "city": "Nikšić",
+  "street_address": "Unnamed Road, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Slobodanka Vilotijevic",
+  "deal_type": "rent",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "Izdaje se izuzetno prostrano zemljište od . m² u Nikšiću, smješteno na traženoj i mirnoj lokaciji u Rastovcu. Ovo zemljište pruža savršen bijeg od gradske gužve, nudeći idealno okruženje za opuštanje, rad ili specifič...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!175",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269620729",
+      "name": "Slobodanka Vilotijevic",
+      "email": null,
+      "source": "workbook:Not homes!175"
+    },
+    {
+      "phone_e164": "+38269620729",
+      "name": "Slobodanka Vilotijevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269620729"
+  ],
+  "phone_e164": "+38269620729",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

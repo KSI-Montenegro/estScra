@@ -1,0 +1,142 @@
+{
+  "source": "realitica",
+  "listing_id": "3947840",
+  "listing_url": "https://www.realitica.com/hr/listing/3947840",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947840"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 80,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3947840",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Kuću",
+    "Područje": "Tivat",
+    "Lokacija": "Mrčevac",
+    "Spavaćih Soba": "3",
+    "Kupatila": "4",
+    "Stambena Površina": "250 m2",
+    "Zemljište": "474 m2",
+    "Oglas Broj": "3947840",
+    "Postavljeno": "20 Oct, 2026",
+    "Zadnja Promjena": "20 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947840_img_7565.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7569.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7572.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7568.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7571.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7567.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7566.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7570.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7573.webp",
+    "https://www.realitica.com/images/listing_photos/3947840_img_7564.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Na prodaju je moderna vila sa prelepim panoramskim pogledom na more u selu Mrčivac.\n\nOgromna udobna dnevna soba, kuhinja, trpezarija, 4 spavaće sobe, 4 kupatila. Ogroman bazen. Garaža za dva automobila.\n\nVila je napravljena od visokokvalitetnih materijala. Podno grejanje, centralno grejanje i bojler.\n\nIdealno mesto za život ili opuštanje sa porodicom ili prijateljima!\n\nDetalji\n\nLokacija: Tivat\n\nSpavaće sobe: 4\n\nKvadratura: 250 м²\n\nKvadratura zemlje: 474 м²\n\nSprat: 2\n\nKupatila: 4\n\nPRODAJNA CIJENA\n\n€ 747 500\n\n+38269784788 Whatsapp/Viber/Telegram",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:14.218505+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.283602+00:00",
+  "source_html_sha256": "08a4444fc3d474d3fb54bf0a1327dfa31737ebd7d49cd3680ca42a6ffe22d3f2",
+  "title": "Prodajem Kuću, Mrčevac",
+  "description_language": "hr",
+  "city": "Tivat",
+  "district": "Mrčevac",
+  "published_date_raw": "20 Oct, 2026",
+  "updated_date_raw": "20 Oct, 2026",
+  "area_m2": 250,
+  "bathrooms": 4,
+  "bedrooms": 3,
+  "property_type_raw": "Prodajem Kuću",
+  "property_type": "house",
+  "deal_type": "sale",
+  "amenities": [],
+  "metadata_summary": "Na prodaju je moderna vila sa prelepim panoramskim pogledom na more u selu Mrčivac.\n\nOgromna udobna dnevna soba, kuhinja, trpezarija, 4 spavaće sobe, 4 kupatila. Ogroman bazen. Garaža za dva automobila.\n\nVila je napravljena od visokokvalitetnih materijala. Podno grejanje, centralno grejanje i bojler.\n\nIdealno mesto za život ili opuštanje sa porodicom ili prijateljima!\nDetalji\nLokacija: Tivat\nSpavaće sobe: 4\nKvadratura: 250 м²\nKvadratura zemlje: 474 м²\nSprat: 2\nKupatila: 4\n\nPRODAJNA CIJENA\n€ 747 500\n\n+38269784788 Whatsapp/Viber/Telegram ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!80",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269784788",
+      "name": "Filip",
+      "email": null,
+      "source": "workbook:Outreach list!80"
+    }
+  ],
+  "contact_phones": [
+    "+38269784788"
+  ],
+  "phone_e164": "+38269784788",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "price"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "price_raw": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

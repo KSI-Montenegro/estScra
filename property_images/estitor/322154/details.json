@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "322154",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-322154",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-322154"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 303,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_322154",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "700m",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b27bd751-3c9e-48a8-b012-febdee1dadba-lg.webp",
+    "https://content.estitor.com/d53d0ae1-72f0-4f89-9149-2364d7f28381-lg.webp",
+    "https://content.estitor.com/05d18c11-0463-45ec-bf65-e23a6b9a9a65-lg.webp",
+    "https://content.estitor.com/3daa9a44-8af8-4711-9881-623753ddcad4-lg.webp",
+    "https://content.estitor.com/12ae6382-181d-4b9b-899b-8b3a85796960-lg.webp",
+    "https://content.estitor.com/c890c5f6-666e-4502-9a44-f5ed84d5089c-lg.webp",
+    "https://content.estitor.com/1234481d-f85b-4c66-9f0d-c3715b3595e6-lg.webp",
+    "https://content.estitor.com/2d299cd5-7221-4789-88c2-33831e6d24b6-lg.webp",
+    "https://content.estitor.com/94d3fec3-c17a-48f1-b403-e00055bb249c-lg.webp",
+    "https://content.estitor.com/0b93390f-1ea4-410d-9eed-a6fceaecc8a7-lg.webp",
+    "https://content.estitor.com/3fb5f259-ad5e-4774-9c1c-2501bd8f0bce-lg.webp",
+    "https://content.estitor.com/60f48a11-e2a2-469e-b9ed-5f41d7c32432-lg.webp",
+    "https://content.estitor.com/453d13fe-0a3d-4d59-9302-66f2d4ecc963-lg.webp"
+  ],
+  "image_count": 13,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Tivta.\n\nOvaj moderni dvosobni stan, površine 55.0 m², smješten je u prizemlju novogradnje i nudi savršen spoj udobnosti i funkcionalnosti. Nedavno je renoviran, pružajući svjež i prijatan ambijent.\n\nRaspored uključuje dvije prostrane spavaće sobe i jedno elegantno kupatilo, idealno za parove ili manju porodicu. Poseban kvalitet stana je njegova osunčanost tokom cijelog dana, što doprinosi prijatnoj atmosferi.\n\nLociran je u mirnom kraju Tivta, garantujući tišinu i opuštanje od gradske vreve. Stan je opremljen svim neophodnim sadržajima za savremen život, uključujući brzi Internet, Kablovsku televiziju i potpuno funkcionalnu Kuhinju.\n\nSpreman je za odmah useljenje, čekajući svoje prve stanare da uživaju u svim pogodnostima koje nudi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:12.809576+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.681988+00:00",
+  "source_html_sha256": "a2b5b3c6d19cc177921a5090f76162caff4d0eb78d368ccb22ac97bb0f4d4447",
+  "title": "Izdavanje, dvosoban stan, 55m², Mrčevac, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2024-12-20",
+  "updated_date": "2026-10-28",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 55,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Djordje Dasic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Tivta. Ovaj moderni dvosobni stan, površine 55.0 m², smješten je u prizemlju novogradnje i nudi savršen spoj udobnosti i funkcionalnosti. Nedavno je renoviran, pruža...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!303",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268811171",
+      "name": "Djordje Dasic",
+      "email": null,
+      "source": "workbook:Outreach list!303"
+    },
+    {
+      "phone_e164": "+38268811171",
+      "name": "Djordje Dasic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268811171"
+  ],
+  "phone_e164": "+38268811171",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

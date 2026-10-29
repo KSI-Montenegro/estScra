@@ -1,0 +1,63 @@
+# Moderan i lijepo opremljen jednosoban stan New City / City kvart 48 m 550
+
+Source: https://patuljak.me/oglas/moderan-i-lijepo-opremljen-jednosoban-stan-new-cit--77985
+
+- Deal: rent
+- Property type: apartment
+- Published price: 520.00€
+- Price amount: 520
+- Currency: EUR
+- City: Podgorica
+- District: City kvart
+- Area (m²): 48
+- Bedrooms: 1
+- Floor: 2
+- Furnishing: True
+- Parking: Nema
+
+## Original listing description
+
+Izdaje se moderno i lijepo opremljen jednosoban stan površine 48 m² u New City kompleksu, City kvart, Podgorica.
+Stan se nalazi na 2. spratu i sastoji se od dnevnog boravka sa kuhinjom i trpezarijom, odvojene spavaće sobe, kupatila i terase. Kompletno je i pažljivo opremljen, prijatan za život i spreman za useljenje od 1. oktobra.
+Stan je namijenjen za dugoročni najam i idealan je za jednu osobu ili par koji traže lijep i udoban dom i koji će se prema stanu odnositi pažljivo.
+• Površina: 48 m²
+• Sprat: 2.
+• Jedna spavaća soba
+• Terasa
+• Kompletno namješten
+• Dugoročni najam
+• Kućni ljubimci nisu dozvoljeni
+• Garažno mjesto nije uključeno
+• Useljiv od 1. oktobra
+Mjesečna kirija: 520 €
+Depozit: dvije mjesečne kirije
+Za više informacija i dogovor oko razgledanja, pošaljite kratku poruku sa nekoliko osnovnih informacija o sebi i planiranom periodu najma.
+Kontakt (WhatsApp / Viber): +43 660 666 3942 ili +381 60 5152111
+ENGLISH:
+
+Modern and beautifully furnished one-bedroom apartment for long-term rent in the New City complex, City Kvart, Podgorica.
+The apartment is 48 m² and located on the 2nd floor. It consists of a living room with kitchen and dining area, a separate bedroom, bathroom and terrace. It is fully and carefully furnished, comfortable and available from 1 October.
+The apartment is ideal for a single professional or a couple looking for a comfortable and well-maintained home and who will treat the apartment with care.
+• Size: 48 m²
+• 2nd floor
+• One separate bedroom
+• Terrace
+• Fully furnished
+• Long-term rental
+• No pets
+• Garage/parking space not included
+• Available from 1 October
+Monthly rent: €520
+Security deposit: 2 months’ rent
+For further information or to arrange a viewing, please send a short message with some basic information about yourself and your intended rental period.
+Contact (WhatsApp / Viber): +43 660 666 3942 or +381 60 5152111
+
+## Published amenities
+
+- Namješten
+- Balkon
+- Lift
+- Interfon
+- Klima
+
+This is a source-based draft. Missing facts have not been invented. Field provenance and conflicts are recorded in details.json.

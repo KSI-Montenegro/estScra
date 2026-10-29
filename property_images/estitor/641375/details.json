@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "641375",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-641375",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-641375"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 576,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_641375",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8f9fe1f8-872b-4e31-a4e6-8da38188ba8a-lg.webp",
+    "https://content.estitor.com/d1dc8f1c-e54a-4a1c-921f-41e2d2c37808-lg.webp",
+    "https://content.estitor.com/c9ff1b01-9e18-4b3d-bc26-131d21dbd278-lg.webp",
+    "https://content.estitor.com/2b07cef3-703a-4a89-bd7b-e45ab14d0209-lg.webp",
+    "https://content.estitor.com/137cdc85-3e1b-428a-9f94-89b1ea7cbc37-lg.webp",
+    "https://content.estitor.com/9e715864-1cf1-479a-be05-49c6a2fec44e-lg.webp",
+    "https://content.estitor.com/e9efb44e-ac5e-4e38-9636-1a2268894ed2-lg.webp",
+    "https://content.estitor.com/74931450-e59c-40e5-8184-5c6db9857fdc-lg.webp",
+    "https://content.estitor.com/05a0b2e1-2464-44d7-82a4-e078f45a781d-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Novogradnja. Veći jednosoban stan u luksuznom kompleksu Ljubovic Hill ispod brda Ljubovic. Stan je kompletno opremljen i spreman za useljenje\nIzdaje se na duži period",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:31.402261+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.244137+00:00",
+  "source_html_sha256": "4a4cf65b35f7cb802f8ea70b522db5f44cfbf544fa987aaf51cc55698f912681",
+  "title": "Izdavanje, jednosoban stan, 50m², Ljubović, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-22",
+  "updated_date": "2026-10-22",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "19 Crnogorskih Serdara, Podgorica 81000, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Ivan Gojnic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Novogradnja. Veći jednosoban stan u luksuznom kompleksu Ljubovic Hill ispod brda Ljubovic. Stan je kompletno opremljen i spreman za useljenjeIzdaje se na duži period",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!576",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267565706",
+      "name": "Ivan Gojnic",
+      "email": null,
+      "source": "workbook:Outreach list!576"
+    },
+    {
+      "phone_e164": "+38267565706",
+      "name": "Ivan Gojnic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267565706"
+  ],
+  "phone_e164": "+38267565706",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

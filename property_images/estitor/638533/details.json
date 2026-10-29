@@ -1,0 +1,116 @@
+{
+  "source": "estitor",
+  "listing_id": "638533",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638533",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638533"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 80,
+      "column": "url"
+    }
+  ],
+  "property_key": "estitor_638533",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Plac",
+    "Vrsta zemljišta": "Građevinsko"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/8e6218d2-8dc2-43fc-83e7-ce78ef97befb-lg.webp",
+    "https://content.estitor.com/d4adc464-d0e5-4381-8d89-7862d045eeb5-lg.webp",
+    "https://content.estitor.com/350f6196-e7f4-47ca-a719-f7e472a5d3c3-lg.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "IMANJE NA PRODAJU – LIJEVA RIJEKA, SELO KAMI\nLokacija: Lijeva Rijeka, selo Kami, opština Podgorica\nPovršina: 4.500 m²\nNadmorska visina: oko 1.100 m\nImanje se nalazi u selu Kami, u Lijevoj Rijeci, na oko 1.100 metara nadmorske visine, na veoma atraktivnoj lokaciji u neposrednoj blizini autoputa.\nOd ulaza na autoput iz pravca Podgorice do samog imanja ima približno 15 minuta vožnje, dok je imanje udaljeno svega oko 150 metara od rampe za uključenje i isključenje sa autoputa, praktično u neposrednoj blizini same petlje.\nImanje ima direktan pristup sa glavnog puta, odnosno do samog imanja se dolazi direktno sa puta.\nZemljište je okruženo prirodom i obiluje šumom i pašnjacima. Na imanju se nalazi velika, uređena i održavana centralna livada, dok se u okolnom šumskom dijelu nalazi još nekoliko pašnjaka koji se mogu dodatno urediti i iskoristiti.\nPosebna vrijednost imanja je izuzetno atraktivan pogled sa najvišeg dijela imanja. Sa te pozicije pruža se širok pogled na Verušu, Lijevu Rijeku i autoput, što se jasno može vidjeti i na video-snimku imanja.\nZbog svoje lokacije, neposredne blizine autoputa, direktnog pristupa sa glavnog puta, velike površine, prirodnog okruženja i atraktivnog pogleda, imanje predstavlja interesantnu priliku za odmor, turizam, planinsku kuću, etno/selački turizam ili drugo ulaganje u skladu sa urbanističkim i zakonskim uslovima.\nPovršina: 4.500 m²\nLokacija: Lijeva Rijeka – Kami\nNadmorska visina: 1.100 m\nOko 15 minuta vožnje od ulaza na autoput iz pravca Podgorice\n150 m od rampe za uključenje/isključenje sa autoputa\nDirektan pristup sa glavnog puta\nUređena velika livada + dodatni pašnjaci i šuma\nPanoramski pogled na Verušu, Lijevu Rijeku i autoput",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:52.975949+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.929118+00:00",
+  "source_html_sha256": "14d8f267fe31e23828f0625e7ddf78861aec4445859e9428922662e55fd0ff21",
+  "title": "Prodaja, plac, 4500m², Lijeva Rijeka, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 148500,
+  "price_currency": "EUR",
+  "price_raw": "148500 EUR",
+  "city": "Podgorica",
+  "street_address": "Bar-Boljare Mtwy, Црна Гора",
+  "country": "ME",
+  "advertiser_name": "Predrag Bozovic",
+  "deal_type": "sale",
+  "property_type": "land",
+  "property_type_raw": "Plac",
+  "amenities": [],
+  "metadata_summary": "IMANJE NA PRODAJU – LIJEVA RIJEKA, SELO KAMILokacija: Lijeva Rijeka, selo Kami, opština PodgoricaPovršina: 4.500 m²Nadmorska visina: oko 1.100 mImanje se nalazi u selu Kami, u Lijevoj Rijeci, na oko 1.100 metara nadmo...",
+  "contact_candidates": [],
+  "contact_phones": [],
+  "lead_categories": [
+    "Rejected"
+  ],
+  "missing_core_fields": [
+    "area",
+    "contact_phone"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null,
+  "phone_e164": null
+}

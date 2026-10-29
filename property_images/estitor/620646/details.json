@@ -1,0 +1,137 @@
+{
+  "source": "estitor",
+  "listing_id": "620646",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-budva/id-620646",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-budva/id-620646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 983,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620646",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Parking/Garaža"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7304e7ab-7d5b-41ef-9845-7fd96b1e75d1-lg.webp",
+    "https://content.estitor.com/93137f1b-80c9-4f79-8fd2-f2826fda5944-lg.webp",
+    "https://content.estitor.com/ab1050de-e664-4ac9-adba-8affbc5b1384-lg.webp",
+    "https://content.estitor.com/e39581b9-b69e-4155-9ed1-93f0738160c5-lg.webp",
+    "https://content.estitor.com/31e38c9f-d361-43bc-bf4a-37ac0d4c3ca2-lg.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdajem garažno mjesto u Budvi (Rozino, kod Okova). Garažno mjesto je na gornjoj platformi sistema makazica/lifta. Maksimalna visina vozila mora biti 160cm (parkiranje u rikverc može i 170cm)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:34.245340+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.480645+00:00",
+  "source_html_sha256": "c650b503b010045950c5ae2c754300a8e2c23f8416789bb3eb463ec6829061fd",
+  "title": "Izdavanje, parking/garaža, 14m², Rozino, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-21",
+  "updated_date": "2026-09-21",
+  "price_amount": 70,
+  "price_currency": "EUR",
+  "price_raw": "70 EUR",
+  "city": "Budva",
+  "street_address": "5 XVIII Ulica, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milan Đorđijević",
+  "deal_type": "rent",
+  "property_type": "garage",
+  "property_type_raw": "Parking/Garaža",
+  "amenities": [],
+  "metadata_summary": "Izdajem garažno mjesto u Budvi (Rozino, kod Okova). Garažno mjesto je na gornjoj platformi sistema makazica/lifta. Maksimalna visina vozila mora biti 160cm (parkiranje u rikverc može i 170cm)",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!983",
+      "priority": 55
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267503371",
+      "name": "Milan Đorđijević",
+      "email": null,
+      "source": "workbook:Outreach list!983"
+    },
+    {
+      "phone_e164": "+38267503371",
+      "name": "Milan Đorđijević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267503371"
+  ],
+  "phone_e164": "+38267503371",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [
+    "area"
+  ],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "area_m2": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

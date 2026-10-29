@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "630812",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630812",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630812"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 298,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630812",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2007",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/99e80d35-0b17-4eb4-959b-e11d26969bc5-lg.webp",
+    "https://content.estitor.com/4049858e-15e1-4e52-8eb8-5edbe061453d-lg.webp",
+    "https://content.estitor.com/83451e96-d5c3-4509-8783-63f832787426-lg.webp",
+    "https://content.estitor.com/3bb572d4-1369-4cc1-8da9-81ac3945e654-lg.webp",
+    "https://content.estitor.com/0b7d87aa-35fe-424d-8f3b-8c878050461a-lg.webp",
+    "https://content.estitor.com/6d4b2076-44d8-47a7-ba45-284ff0879090-lg.webp",
+    "https://content.estitor.com/f9aaa7f6-47a0-4ed0-8d03-20228e1080c6-lg.webp",
+    "https://content.estitor.com/45ae3e80-74fd-4567-bd35-a93b6f2c1fab-lg.webp",
+    "https://content.estitor.com/7770928b-322c-4904-8aa6-f78fb4b27b6b-lg.webp",
+    "https://content.estitor.com/f4b6d0b4-94e5-4bdb-ae2b-e94eff9a8d29-lg.webp",
+    "https://content.estitor.com/bab33bba-d775-4bcb-a9e2-02e72caefd1a-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se renoviran dvosoban stan na Mainskom putu u Budvi, površine 60 m², sa prostranom terasom.\nStan se nalazi u mirnom i prijatnom dijelu grada, a zahvaljujući dobroj orijentaciji stan je svijetao i osunčan tokom dana.\nSastoji se od dnevnog boravka sa trpezarijom, kuhinje, dvije odvojene spavaće sobe, hodnika, kupatila i prostrane terase. Renoviran je ove godine, potpuno je namješten i opremljen za svakodnevni život.\nNalazi se na dobroj lokaciji, u blizini prodavnica, restorana, škola i ostalih sadržaja potrebnih za svakodnevni život, dok istovremeno pruža mir i privatnost.\nUslovi izdavanja: depozit u visini jedne mjesečne kirije, računi se plaćaju posebno, minimum zakupa 12 mjeseci. Stan se izdaje bez parking mjesta.\nStan je pogodan za porodicu, par ili osobe koje traže komforan, svijetao i miran stan za dugoročni boravak u Budvi.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:10.193956+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.653585+00:00",
+  "source_html_sha256": "7594b0d55f0b9ecb20058fdc3198aeef5665d03d59b2d523d4e354fd0a4e9e45",
+  "title": "Izdavanje, dvosoban stan, 60m², Mainski Put, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-07",
+  "updated_date": "2026-10-11",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Budva",
+  "country": "ME",
+  "advertiser_name": "Nikola Petkovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se renoviran dvosoban stan na Mainskom putu u Budvi, površine 60 m², sa prostranom terasom.Stan se nalazi u mirnom i prijatnom dijelu grada, a zahvaljujući dobroj orijentaciji stan je svijetao i osunčan tokom d...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!298",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268613075",
+      "name": "Nikola Petkovic",
+      "email": null,
+      "source": "workbook:Outreach list!298"
+    },
+    {
+      "phone_e164": "+38268613075",
+      "name": "Nikola Petkovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268613075"
+  ],
+  "phone_e164": "+38268613075",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

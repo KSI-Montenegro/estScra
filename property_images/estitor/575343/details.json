@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "575343",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-575343",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-575343"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 321,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_575343",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2022",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Zapad",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1a5b2b11-bd39-4f81-b0f1-eaee2b070da4-lg.webp",
+    "https://content.estitor.com/3567eb51-1e89-4643-91fb-56caf031f96c-lg.webp",
+    "https://content.estitor.com/7a6056a2-49e9-4c35-aec6-adf76093dc7b-lg.webp",
+    "https://content.estitor.com/7889c4b0-5581-45e5-afc4-e2b72e1111ee-lg.webp",
+    "https://content.estitor.com/fecb7677-3485-42ea-acea-bba6e5b95227-lg.webp",
+    "https://content.estitor.com/e348eb90-c83d-46b6-9cb6-f77f60172981-lg.webp",
+    "https://content.estitor.com/67298782-5193-4524-8373-fa6be5a7251c-lg.webp",
+    "https://content.estitor.com/d4563687-1dff-49e6-b079-32dbb027e15d-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Osunčan, Odmah useljiv, Miran kraj ... 600m od mora, 50m od autobuske stanice, otvoren pogled s 4 sprata, blizina opstine, skole, policije, doma zdravlja, nekoliko javnih parkinga, samousluga...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:21.793085+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.786095+00:00",
+  "source_html_sha256": "6e89891f6602a1b054752c8254738d2e8c65716752b41de1e481ecded4e6d7a1",
+  "title": "Izdavanje, jednosoban stan, 44m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-01",
+  "updated_date": "2026-10-06",
+  "price_amount": 750,
+  "price_currency": "EUR",
+  "price_raw": "750 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "23 I ulica, Budva, Черногория",
+  "country": "ME",
+  "advertiser_name": "Branko Vuksanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Zapad",
+  "balconies": 1,
+  "year_built": 2022,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Osunčan, Odmah useljiv, Miran kraj ... 600m od mora, 50m od autobuske stanice, otvoren pogled s 4 sprata, blizina opstine, skole, policije, doma zdravlja, nekoliko javnih parkinga, samousluga...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!321",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381654477913",
+      "name": "Branko Vuksanovic",
+      "email": null,
+      "source": "workbook:Outreach list!321"
+    },
+    {
+      "phone_e164": "+381654477913",
+      "name": "Branko Vuksanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381654477913"
+  ],
+  "phone_e164": "+381654477913",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

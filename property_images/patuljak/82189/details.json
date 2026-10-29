@@ -1,0 +1,158 @@
+{
+  "source": "patuljak",
+  "listing_id": "82189",
+  "listing_url": "https://patuljak.me/oglas/vila-300m2-600m2-dvorista-gorica-c-podgorica--82189",
+  "listing_urls": [
+    "https://patuljak.me/oglas/vila-300m2-600m2-dvorista-gorica-c-podgorica--82189"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 147,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_82189",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ispod Gorice",
+    "Broj soba": "6",
+    "Stambena kvadratura": "300 m2",
+    "Broj spratova": "2",
+    "Namještena": "Da",
+    "Vrsta poda": "Parket",
+    "Kvadratura placa": "600 m2",
+    "Vrsta grijanja": "Centralno (gradsko)",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Standardna",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82189_19.webp"
+  ],
+  "image_count": 20,
+  "image_status": "ok",
+  "description_original": "Vila za izdavanje / Villa For rent\n\nU mirnom rezidencijalnom dijelu Gorice C, ova vila spaja prostor, privatnost i udobnost u prijatnom okruženju.\n\n300 m² stambenog prostora organizovano je kroz dvije zasebne stambene jedinice, na privatnom imanju površine 680 m².\n\nMasline i mandarine u prostranom, kultivisanom dvorištu daju cijelom imanju suptilan mediteranski karakter, stvarajući prijatan prostor za odmor i rekreaciju. Dvorište posjeduje sistem navodnjavanja.\n\nVila se izdaje potpuno opremljena biranim namještajem, uz klimatizaciju i grijanje u svim prostorijama.\n\nVideo-nadzor i alarmni sistem integrisani su u objekat, a u okviru imanja obezbijeđena su tri parking mjesta.\n\nGorica C pruža mir i privatnost rezidencijalnog naselja, dok su sadržaji potrebni za svakodnevni život lako dostupni.\n\nProstor za život, uređen sa mjerom.\n\n3.000 € mjesečno / monthly\n\nZa više informacija i detalje o nekretnini / more info:\npuertanekretnine@gmail.com\n+382 67 969690",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:53.580248+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.722282+00:00",
+  "source_html_sha256": "09a7abc0cec32cb59bb36ffaab0cf05045eb62fdab914cc9273791f6c02a80db",
+  "title": "Vila, 300m2 + 600m2 dvorišta, Gorica C, Podgorica",
+  "description_language": "en",
+  "price_raw": "3000.00€",
+  "price_amount": 3000,
+  "price_currency": "EUR",
+  "advertiser_name": "Petar",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Ispod Gorice",
+  "building_floors_raw": "2",
+  "room_layout_raw": "6",
+  "heating_raw": "Centralno (gradsko)",
+  "parking_raw": "3 i više",
+  "area_m2": 300,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "Vila za izdavanje / Villa For rentU mirnom rezidencijalnom dijelu Gorice C, ova vila spaja prostor, privatnost i udobnost u prijatnom okruženju.300 m² stambenog prostora organizovano je kroz dvije zasebne stambene jedinice, na privatnom imanju površine 680 m².Masline i mandarine u prostranom, kultivisanom dvorištu daju cijelom imanju suptilan mediteranski karakter, stvarajući prijatan prostor za odmor i rekreaciju. Dvorište posjeduje sistem navodnjavanja.Vila se izdaje potpuno opremljena biranim namještajem, uz klimatizaciju i grijanje u svim prostorijama.Video-nadzor i alarmni sistem integrisani su u objekat, a u okviru imanja obezbijeđena su tri parking mjesta.Gorica C pruža mir i privatnost rezidencijalnog naselja, dok su sadržaji potrebni za svakodnevni život lako dostupni.Prostor za život, uređen sa mjerom.3.000 € mjesečno / monthlyZa više informacija i detalje o nekretnini / more info: puertanekretnine@gmail.com +382 67 969690",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!147",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38263492844",
+      "name": "Petar",
+      "email": null,
+      "source": "workbook:Outreach list!147"
+    }
+  ],
+  "contact_phones": [
+    "+38263492844"
+  ],
+  "phone_e164": "+38263492844",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

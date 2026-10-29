@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "638523",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-638523",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-638523"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 797,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_638523",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "1980",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Sjever",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6a5e5bd2-8de5-4cde-91d6-4c390e5c6422-lg.webp",
+    "https://content.estitor.com/7437c625-1b07-4ec7-be59-e602c53b95a0-lg.webp",
+    "https://content.estitor.com/8c7fb28f-a97f-4ebd-bc21-92c502c99efa-lg.webp",
+    "https://content.estitor.com/5432f30f-5be9-4324-bf10-70e2645e6e36-lg.webp",
+    "https://content.estitor.com/985f06a4-b70f-415b-bce1-24cee9afd44c-lg.webp",
+    "https://content.estitor.com/e84b759c-25cc-4e85-9386-218d6c8aea7f-lg.webp",
+    "https://content.estitor.com/cd2c115b-74ab-4a64-8a86-ae14cbb98654-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se prostran i opremljen stan u srcu Cetinja, idealan za ugodan život u mirnom okruženju, a nadomak svih gradskih sadržaja.\nOvaj jednosoban stan od 70 m² se nalazi u kući sa zasebnim ulazom, što garantuje privatnost. Smješten je na prvom spratu i nudi komforan raspored prostorija.\nStan se sastoji od prostranog dnevnog boravka i velike spavaće sobe, obe sa direktnim izlazom na jednu od dvije terase. Tu su još i opremljena kuhinja, kupatilo sa kadom, hodnik i ostava.\nNekretnina je namještena i spremna za useljenje. Opremljena je klima uređajem u dnevnoj sobi i radijatorom u spavaćoj, obezbjeđujući optimalnu temperaturu tokom cijele godine. Dostupan je i internet.\nPrednost je i parking mjesto ispred objekta, kao i lokacija u mirnoj ulici koja omogućava miran život, dok je Centar grada lako dostupan. Ne propustite priliku za kvalitetan dom na Cetinju!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:31.018869+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.736551+00:00",
+  "source_html_sha256": "502eea1e9a2dd52a156591b5e6074300cc86e751a244e8fa435cd163301a2ed2",
+  "title": "Izdavanje, jednosoban stan, 70m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-18",
+  "updated_date": "2026-10-18",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 70,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "6 Hercegovačka, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Blazo Jovanovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Sjever",
+  "balconies": 2,
+  "year_built": 1980,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava"
+  ],
+  "metadata_summary": "Izdaje se prostran i opremljen stan u srcu Cetinja, idealan za ugodan život u mirnom okruženju, a nadomak svih gradskih sadržaja.Ovaj jednosoban stan od 70 m² se nalazi u kući sa zasebnim ulazom, što garantuje privatn...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!797",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268052898",
+      "name": "Blazo Jovanovic",
+      "email": null,
+      "source": "workbook:Outreach list!797"
+    },
+    {
+      "phone_e164": "+38268052898",
+      "name": "Blazo Jovanovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268052898"
+  ],
+  "phone_e164": "+38268052898",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,155 @@
+{
+  "source": "estitor",
+  "listing_id": "631487",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631487",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631487"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 809,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_631487",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/41d8bfb1-643f-4f8c-8f55-ab5837a7ffc5-lg.webp",
+    "https://content.estitor.com/aaca4d3f-5ce1-4d11-bbdc-c4faec85bf19-lg.webp",
+    "https://content.estitor.com/270caf44-a254-4351-aa70-12a034e5e18a-lg.webp",
+    "https://content.estitor.com/3c5ee045-98e1-437c-8d96-d66074ce569b-lg.webp",
+    "https://content.estitor.com/05f93ade-118b-4f3b-93ba-79166aeab8b9-lg.webp",
+    "https://content.estitor.com/98d3a918-92ea-4292-a394-c4bf3749415d-lg.webp",
+    "https://content.estitor.com/77b87ce6-f7cd-44a3-ab23-2f6fdcdc473f-lg.webp",
+    "https://content.estitor.com/06b504a0-5413-4b0e-8703-ca1ca538cae0-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaju se dvokrevetne sobe i studio apartmani u Baru, u blizini Sportske dvorane Topolica, na svega 500 metara od centra grada, gradskih plaža i šetališta.\nDvokrevetna soba\nSoba je namijenjena za dvije osobe, sa sopstvenim kupatilom i kuhinjom koja se nalazi ispred sobe.\nStudio apartman\nStudio posjeduje sopstveno kupatilo i kuhinju u sklopu apartmana.\nU cijene zakupa uključeni su internet i kablovska televizija. Parking je dostupan u blizini objekta.\nSmještaj se izdaje do 1. jula 2027. godine.\nUslovi zakupa: prva i posljednja kirija plaćaju se unaprijed. Posljednja kirija ujedno služi kao depozit i garancija da će zakupac ostati do dogovorenog roka. U slučaju ranijeg prekida zakupa, depozit se zadržava, a može biti iskorišćen i za pokriće eventualne štete nastale u smještaju.\nZa više informacija i rezervacije, kontakt putem telefona",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:40.224051+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.891109+00:00",
+  "source_html_sha256": "cf2a96e750c15a44fa60e114848a7f334231edeeea3daab3a2f576184f3ddba8",
+  "title": "Izdavanje, garsonjera, 17m², Centar, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-08",
+  "updated_date": "2026-10-08",
+  "price_amount": 250,
+  "price_currency": "EUR",
+  "price_raw": "250 EUR",
+  "area_m2": 17,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "14 M1, Bar, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Villa Kovacevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaju se dvokrevetne sobe i studio apartmani u Baru, u blizini Sportske dvorane Topolica, na svega 500 metara od centra grada, gradskih plaža i šetališta.Dvokrevetna sobaSoba je namijenjena za dvije osobe, sa sopstve...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!809",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268429627",
+      "name": "Villa Kovacevic",
+      "email": null,
+      "source": "workbook:Outreach list!809"
+    },
+    {
+      "phone_e164": "+38268429627",
+      "name": "Villa Kovacevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268429627"
+  ],
+  "phone_e164": "+38268429627",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

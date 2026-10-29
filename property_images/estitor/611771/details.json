@@ -1,0 +1,158 @@
+{
+  "source": "estitor",
+  "listing_id": "611771",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-611771",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-611771"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 161,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_611771",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "1. sprat",
+    "Broj terasa": "3",
+    "Godina izgradnje": "2026",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Nema parkinga",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/b4a30b18-6250-4a35-9e7f-66075da5abe8-lg.webp",
+    "https://content.estitor.com/19505223-4bbe-4dc0-b135-d18d0543572a-lg.webp",
+    "https://content.estitor.com/75f7e1f4-d29b-4061-818f-859464d08995-lg.webp",
+    "https://content.estitor.com/4d790bed-af74-4589-8f6e-d307c3d2c76f-lg.webp",
+    "https://content.estitor.com/cdd5a764-ac29-408b-acae-2f27f2f0eda8-lg.webp",
+    "https://content.estitor.com/566df569-f0f2-4f49-8e80-561c2c4ac0fc-lg.webp",
+    "https://content.estitor.com/09d7008b-265e-4dac-bf88-4dcc481ca688-lg.webp",
+    "https://content.estitor.com/45b5a77b-ddea-4f5b-998d-2f2cb83a24ea-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se komforan, moderan i tehnički opremljen kancelarijski prostor površine 120 m², u novogradnji, u samom centru Podgorice.\nPoslovni prostor se nalazi na 1. spratu novosagrađene zgrade, na reprezentativnoj lokaciji u strogom centru grada.\n3 kancelarije, od kojih je jedna uređena kao sala za sastanke sa instaliranim konferencijskim stolom\n\ndugačak i prostran hodnik koji omogućava organizovanje dodatnog prijemnog prostora sa stolom i čekaonicom\n\ntoalet\n\nčajna kuhinja\n\n3 balkona\n\ninstaliran rack orman\n\nLAN i Wi-Fi priključci u svakoj prostoriji\n\npokrivenost mrežom dva operatera\n\nsvaka prostorija je klimatizovana\n\nProstor je naročito pogodan za advokatske i IT kompanije, call centre, agencije, ordinacije, edukativne centre, predstavništva i druge djelatnosti kojima je potreban kvalitetan i reprezentativan poslovni ambijent u centru Podgorice.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:56.642038+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.231227+00:00",
+  "source_html_sha256": "2da92011d0c0d28e8a7dfb8f8c7921b3e47ae86d2c7fffaca13d669fdf3d373e",
+  "title": "Izdavanje, poslovni prostor, 120m², Centar, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-07",
+  "updated_date": "2026-09-07",
+  "price_amount": 1650,
+  "price_currency": "EUR",
+  "price_raw": "1650 EUR",
+  "area_m2": 120,
+  "rooms": 3,
+  "city": "Podgorica",
+  "street_address": " Bokeška, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vuk Ja.",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "orientation_raw": "Jug",
+  "balconies": 3,
+  "year_built": 2026,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se komforan, moderan i tehnički opremljen kancelarijski prostor površine 120 m², u novogradnji, u samom centru Podgorice.Poslovni prostor se nalazi na 1. spratu novosagrađene zgrade, na reprezentativnoj lokacij...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!161",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268189501",
+      "name": "Vuk Ja.",
+      "email": null,
+      "source": "workbook:Not homes!161"
+    },
+    {
+      "phone_e164": "+38268189501",
+      "name": "Vuk Ja.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268189501"
+  ],
+  "phone_e164": "+38268189501",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

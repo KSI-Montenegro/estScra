@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "84540",
+  "listing_url": "https://patuljak.me/oglas/placevi-na-zabljaku--84540",
+  "listing_urls": [
+    "https://patuljak.me/oglas/placevi-na-zabljaku--84540"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 16,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84540",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Žabljak",
+    "Naselje": "Borje",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "4500 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84540_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "PRODAJA PLACEVA NA ŽABLJAKU PREKO PUTA HOTELA POLAR STAR ,250M OD GLAVNOG PUTA ŽABLJAK-PLJEVLJA,1/1 VLASNISTVO, POVRSINE PLACEVA SU OD 200-400M2. MOGUCA KOMPENZACIJA ZA STAN U PODGORICI.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:31.531319+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.186536+00:00",
+  "source_html_sha256": "fb6926282d579be72de8d8da62cb852300fec9e81ab5ae68945d62d72361261f",
+  "title": "PLACEVI NA ŽABLJAKU",
+  "description_language": "en",
+  "price_raw": "45.00€",
+  "price_amount": 45,
+  "price_currency": "EUR",
+  "advertiser_name": "Kristina",
+  "property_type": "land",
+  "city": "Žabljak",
+  "district": "Borje",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "PRODAJA PLACEVA NA ŽABLJAKU PREKO PUTA HOTELA POLAR STAR ,250M OD GLAVNOG PUTA ŽABLJAK-PLJEVLJA,1/1 VLASNISTVO, POVRSINE PLACEVA SU OD 200-400M2. MOGUCA KOMPENZACIJA ZA STAN U PODGORICI.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!16",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268509845",
+      "name": "Kristina",
+      "email": null,
+      "source": "workbook:Not homes!16"
+    }
+  ],
+  "contact_phones": [
+    "+38268509845"
+  ],
+  "phone_e164": "+38268509845",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 4500,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

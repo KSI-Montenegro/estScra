@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "617138",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-617138",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-617138"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 757,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_617138",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2011",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7fd145d6-dd79-4050-b3de-f7021cc34668-lg.webp",
+    "https://content.estitor.com/09f41d33-a58c-4d74-be09-dbf187161bc5-lg.webp",
+    "https://content.estitor.com/932ab597-385e-48e4-94c1-ff62706f886d-lg.webp",
+    "https://content.estitor.com/563db922-f6f3-4ca0-a9bd-402ab318a4ee-lg.webp",
+    "https://content.estitor.com/c603365d-1314-4bcd-be1e-66b3bde22b71-lg.webp",
+    "https://content.estitor.com/37eefbd4-2962-449d-ad45-09a4f1c98b76-lg.webp"
+  ],
+  "image_count": 6,
+  "image_status": "ok",
+  "description_original": "Izdaje se lijepo uređen i kompletno namješten dvosoban stan od 54 m² u Tivtu, naselje Kalimanj, na svega 1 minut hoda od plaže.\nStan se sastoji od dvije spavaće sobe, dnevnog boravka, kuhinje sa trpezarijom, kupatila i terase. Svijetao je, funkcionalan i potpuno opremljen za udoban boravak.\nPosebna prednost stana je obezbijeđeno parking mjesto, kao i odlična lokacija u mirnom dijelu Tivta, u neposrednoj blizini mora. Centar Tivta je udaljen oko 10 minuta laganog hoda, a u blizini se nalaze prodavnice, restorani, kafići i svi potrebni sadržaji.\nLokacija: Kalimanj, Tivat\nPovršina: 54 m²\nStruktura: dvosoban\nPlaža: 1 minut pješke\nCentar Tivta: oko 10 minuta pješke\nParking: obezbijeđen",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:03.563673+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.300261+00:00",
+  "source_html_sha256": "1c7858c19ff8f3f33d44c72626aca959bd6e3e8108fc7f90972b31a5764aa007",
+  "title": "Izdavanje, dvosoban stan, 54m², Kalimanj, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-15",
+  "updated_date": "2026-09-15",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 54,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "country": "ME",
+  "advertiser_name": "Sanja Pek",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2011,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Izdaje se lijepo uređen i kompletno namješten dvosoban stan od 54 m² u Tivtu, naselje Kalimanj, na svega 1 minut hoda od plaže.Stan se sastoji od dvije spavaće sobe, dnevnog boravka, kuhinje sa trpezarijom, kupatila i...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!757",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269640699",
+      "name": "Sanja Pek",
+      "email": null,
+      "source": "workbook:Outreach list!757"
+    },
+    {
+      "phone_e164": "+38269640699",
+      "name": "Sanja Pek",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269640699"
+  ],
+  "phone_e164": "+38269640699",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

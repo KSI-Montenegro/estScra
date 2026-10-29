@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "627153",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627153",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627153"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 641,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_627153",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/1b5d6e20-0461-459c-be8c-c3295cbf95d1-lg.webp",
+    "https://content.estitor.com/27dce501-546d-4d69-b346-ab001b00a057-lg.webp",
+    "https://content.estitor.com/17ef923b-8a4a-401c-a701-9e841decf398-lg.webp",
+    "https://content.estitor.com/49ae229e-c736-4779-b700-14ad09dcb362-lg.webp",
+    "https://content.estitor.com/cb997e4f-5f44-4110-9d97-790828f3c7a1-lg.webp",
+    "https://content.estitor.com/2f1f5a88-696f-405d-9d8f-0dad67dec105-lg.webp",
+    "https://content.estitor.com/eb7b9b7d-03b4-4f26-8174-df602b4fbc63-lg.webp",
+    "https://content.estitor.com/e1605f1c-87cc-4498-8ec3-d356ac96b7a8-lg.webp",
+    "https://content.estitor.com/d7fbb82b-0522-40cc-a2e9-3c0c8b15f889-lg.webp",
+    "https://content.estitor.com/ce73e42d-e13c-4c2f-affc-e80184100562-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Novogradnja, Osunčan, Odmah useljiv, Lux, Miran kraj",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:02.957039+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.587828+00:00",
+  "source_html_sha256": "8440cee20ab14894f4d82874071a49d208d41e1e3d898f7d25b4ffeb005f8a00",
+  "title": "Izdavanje, jednosoban stan, 40m², Stari Aerodrom, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-01",
+  "updated_date": "2026-10-01",
+  "price_amount": 520,
+  "price_currency": "EUR",
+  "price_raw": "520 EUR",
+  "area_m2": 40,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "93 M2, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivana Bokun",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Istok",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Novogradnja, Osunčan, Odmah useljiv, Lux, Miran kraj",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!641",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269141401",
+      "name": "Ivana Bokun",
+      "email": null,
+      "source": "workbook:Outreach list!641"
+    },
+    {
+      "phone_e164": "+38269141401",
+      "name": "Ivana Bokun",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269141401"
+  ],
+  "phone_e164": "+38269141401",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "77174",
+  "listing_url": "https://patuljak.me/oglas/izdajem-sobu-za-2-studentkinje-iza-delte--77174",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-sobu-za-2-studentkinje-iza-delte--77174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 940,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_77174",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!940:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "1. Maj (iza Delte)",
+    "Stambena kvadratura": "20 m2",
+    "Sprat": "Visoko prizemlje",
+    "Kuhinja": "Zajedničko/a",
+    "WC-Kupatilo": "Zajedničko/a",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "2010-2019",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77174_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Zenska osoba izdaje sobu za 2 studentkinje.\nLokacija iza Delte (1 minut pjeske).\nKontakt 067 034 250",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:09.549970+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.201183+00:00",
+  "source_html_sha256": "8bb423005930411ac8417a70ed6735040a9aba70b8e76fa150940383a3946349",
+  "title": "IZDAJEM SOBU ZA 2 STUDENTKINJE - iza Delte",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Vanja",
+  "city": "Podgorica",
+  "district": "1. Maj (iza Delte)",
+  "floor_raw": "Visoko prizemlje",
+  "heating_raw": "Struja",
+  "area_m2": 20,
+  "year_built": 2010,
+  "amenities": [],
+  "metadata_summary": "Zenska osoba izdaje sobu za 2 studentkinje.Lokacija iza Delte (1 minut pjeske).Kontakt 067 034 250",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!940",
+      "priority": 60
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267000455",
+      "name": "Vanja",
+      "email": null,
+      "source": "workbook:Outreach list!940"
+    }
+  ],
+  "contact_phones": [
+    "+38267000455"
+  ],
+  "phone_e164": "+38267000455",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [
+    "property_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "property_type": null,
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

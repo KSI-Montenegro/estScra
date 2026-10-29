@@ -1,0 +1,157 @@
+{
+  "source": "estitor",
+  "listing_id": "597492",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-597492",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-597492"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 271,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_597492",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Ne",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/e9b0dc5d-f05c-4f10-92cc-f3622ae04b48-lg.webp",
+    "https://content.estitor.com/accedad7-b5b7-4925-97e7-a0d2ef535928-lg.webp",
+    "https://content.estitor.com/a97c72ae-33b5-457f-90ef-a4364a74c877-lg.webp",
+    "https://content.estitor.com/aaa0a9c6-a809-4567-80be-1466eec3cccb-lg.webp",
+    "https://content.estitor.com/d2affedb-3498-4544-86ea-6093aa9af7b1-lg.webp",
+    "https://content.estitor.com/8f98987b-a511-4a8a-b1b9-69f15f888204-lg.webp",
+    "https://content.estitor.com/8bb662cc-04eb-484b-9b14-9115c724bcad-lg.webp",
+    "https://content.estitor.com/10f24c03-76c1-4adb-9fe0-4a620a566018-lg.webp",
+    "https://content.estitor.com/1524f970-d09e-4b6e-91f9-5d4d778805e2-lg.webp",
+    "https://content.estitor.com/27d8803e-91b9-4580-9863-fc10dba68524-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan u slikovitom Kotoru, naselje Radanovići. Ovaj prostran jednosoban stan, površine 53.0 m², nudi pogled na more i smješten je u mirnom kraju, idealnom za opušten život. Stan se sastoji od predsoblja, hodnika, dnevnog boravka sa kuhinjom, jedna spavaća soba i jednog kupatila, koje je u potpunosti opremljeno. Ostatak stana je neopremljen, pružajući Vam mogućnost da ga uredite po sopstvenom ukusu. Riječ je o novogradnji visokog kvaliteta. Izuzetna pažnja posvećena je detaljima: sva vrata su puno drvo, ugrađena je sedmokomorna PVC spoljna stolarija sa troslojnim staklom, AL elektro rolo i fasada debljine 10 cm stiropora za vrhunsku termo i zvučnu izolaciju. Dodatne pogodnosti uključuju klimatizaciju i obezbijeđen parking ispred objekta. Ovaj stan je odmah useljiv i predstavlja idealnu priliku za one koji traže moderan dom.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:56.990138+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.480365+00:00",
+  "source_html_sha256": "9d2f83c0227209773555a6737e6ac011fbdf0c4e9efdbd73330e4bc9754bea47",
+  "title": "Izdavanje, dvosoban stan, 53m², Radanovići, Kotor",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-20",
+  "updated_date": "2026-10-18",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 53,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Kotor",
+  "country": "ME",
+  "advertiser_name": "Jovo Fonjga",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan u slikovitom Kotoru, naselje Radanovići. Ovaj prostran jednosoban stan, površine 53.0 m², nudi pogled na more i smješten je u mirnom kraju, idealnom za opušten život. Stan se sastoji od...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!271",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+436641967772",
+      "name": "Jovo Fonjga",
+      "email": null,
+      "source": "workbook:Outreach list!271"
+    },
+    {
+      "phone_e164": "+436641967772",
+      "name": "Jovo Fonjga",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+436641967772"
+  ],
+  "phone_e164": "+436641967772",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

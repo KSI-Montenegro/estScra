@@ -1,0 +1,163 @@
+{
+  "source": "estitor",
+  "listing_id": "625624",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-625624",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-625624"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 340,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_625624",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2007",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Dvorište": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/02b55532-474a-4ebd-ae62-245db2416120-lg.webp",
+    "https://content.estitor.com/e8b0b62f-786d-4d6f-8df3-41429240dfe3-lg.webp",
+    "https://content.estitor.com/2e82a1c2-0257-4750-9ead-f561c542b399-lg.webp",
+    "https://content.estitor.com/206af8cd-a883-4abb-adc9-9997aab16f38-lg.webp",
+    "https://content.estitor.com/aef9a5d3-276b-45de-bac7-20d7538a0f01-lg.webp",
+    "https://content.estitor.com/46dd12e2-517a-4b73-baa7-03bd02f2c049-lg.webp",
+    "https://content.estitor.com/403d24c2-1c70-4121-b332-8bdfb6fa8b24-lg.webp",
+    "https://content.estitor.com/7d295ccc-43a8-4569-a491-85b2e6466f64-lg.webp",
+    "https://content.estitor.com/2381058f-f5f6-4039-8e66-375191de5210-lg.webp",
+    "https://content.estitor.com/0eb19c90-cc68-4a80-90c4-874ffa1a47f4-lg.webp",
+    "https://content.estitor.com/ab044cd4-2a48-47b7-a999-c84f6647928e-lg.webp",
+    "https://content.estitor.com/7f555e7f-860b-4d3d-a135-19769a4d71aa-lg.webp",
+    "https://content.estitor.com/3bf1da32-cf7e-4be5-9c49-5a1793b12ab1-lg.webp",
+    "https://content.estitor.com/f5c5ab10-f7b7-44d5-99b8-15f487566906-lg.webp"
+  ],
+  "image_count": 14,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetnu priliku za dugoročni najam – stan u Petrovcu, u prvom redu do šetališta.\nSa površinom od 65.0 m², ovaj stan je pažljivo dizajniran za maksimalan komfor i udoban život. Nalazi se na 1. spratu i raspolaže sa jednom prostranom spavaćom sobom i jednim modernim kupatilom.\nStan je kompletno opremljen i spreman za useljenje, što Vam omogućava da se odmah osjećate kao kod kuće. Funkcionalno uređena kuhinja pruža sve što je potrebno za svakodnevne potrebe.\nPosebna pogodnost su dvije terase i obezbijeđeno parking mjesto ispred objekta.\nU cijenu je uključeno parking mjesto, kao i računi vode i komunalija.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:31.598190+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.896593+00:00",
+  "source_html_sha256": "b32489ee4302158c33068fca945e55a371ca825b1f259dd9bb72f3bd9dcfa530",
+  "title": "Izdavanje, jednosoban stan, 65m², Petrovac, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-29",
+  "updated_date": "2026-09-29",
+  "price_amount": 640,
+  "price_currency": "EUR",
+  "price_raw": "640 EUR",
+  "area_m2": 65,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "20 Nika Anđusa, Petrovac 85300, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Dijana Mitrovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 2,
+  "year_built": 2007,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Dvorište",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetnu priliku za dugoročni najam – stan u Petrovcu, u prvom redu do šetališta.Sa površinom od 65.0 m², ovaj stan je pažljivo dizajniran za maksimalan komfor i udoban život. Nalazi se na 1. spratu ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!340",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267999319",
+      "name": "Dijana Mitrovic",
+      "email": null,
+      "source": "workbook:Outreach list!340"
+    },
+    {
+      "phone_e164": "+38267999319",
+      "name": "Dijana Mitrovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267999319"
+  ],
+  "phone_e164": "+38267999319",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

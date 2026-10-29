@@ -1,0 +1,166 @@
+{
+  "source": "estitor",
+  "listing_id": "577355",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-577355",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-577355"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 159,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_577355",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "Prizemlje",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/7061ff1e-d3e4-40f1-ac89-c16560a10419-lg.webp",
+    "https://content.estitor.com/0db6fdab-126a-4eeb-8bbc-716ac5659df5-lg.webp",
+    "https://content.estitor.com/986d0b94-6b95-41a7-8106-61c2347a3bc2-lg.webp",
+    "https://content.estitor.com/0cb868df-629a-4279-a824-f8218fdbf999-lg.webp",
+    "https://content.estitor.com/ce38f145-6995-47ff-98ff-481d134a45fe-lg.webp",
+    "https://content.estitor.com/2674d48c-3901-494a-ad2f-d2f847aaf67b-lg.webp",
+    "https://content.estitor.com/0090a8de-1a61-43db-a105-85b8bd0df00f-lg.webp",
+    "https://content.estitor.com/15e5c431-9dff-4158-a66b-7ae14157257a-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdaje se na duži period poslovni prostor u stambenom kompleksu Old Bakery.\nPoslovni prostor se nalazi u prizemlju kompleksa, u centralnom dijelu. Ukupna površina iznosi 44 m². Funkcionalan raspored obuhvata dvije odvojene kancelarije, kuhinjski dio i kupatilo.\nProstor je potpuno namješten i opremljen svim potrebnim sadržajima. Ima mnogo prostora za odlaganje, velike panoramske prozore i mogućnost postavljanja reklamne table.\nUz prostor dolazi i privatno parking mjesto.\nIzdaje se isključivo na duži period, najmanje godinu dana. Prostor je slobodan i odmah useljiv. Ugovor se ovjerava kod notara.\nZa razgledanje i dodatne informacije",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:24:55.641509+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.220883+00:00",
+  "source_html_sha256": "c22b4473364f3d95ccb745f1ba0bf1a55b2ccbc49cfa9119f9836573309a335d",
+  "title": "Izdavanje, poslovni prostor, 44m², Centar, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-07-08",
+  "updated_date": "2026-10-09",
+  "price_amount": 900,
+  "price_currency": "EUR",
+  "price_raw": "900 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "city": "Budva",
+  "street_address": "30 Maslinski put, Budva, Черногория",
+  "country": "ME",
+  "advertiser_name": "Natalya Bykova",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "year_built": 2020,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja"
+  ],
+  "metadata_summary": "Izdaje se na duži period poslovni prostor u stambenom kompleksu Old Bakery.Poslovni prostor se nalazi u prizemlju kompleksa, u centralnom dijelu. Ukupna površina iznosi 44 m². Funkcionalan raspored obuhvata dvije odvo...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!159",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269917879",
+      "name": "Natalya Bykova",
+      "email": null,
+      "source": "workbook:Not homes!159"
+    },
+    {
+      "phone_e164": "+38269917879",
+      "name": "Natalya Bykova",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269917879"
+  ],
+  "phone_e164": "+38269917879",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

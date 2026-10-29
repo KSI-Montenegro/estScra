@@ -1,0 +1,157 @@
+{
+  "source": "patuljak",
+  "listing_id": "75358",
+  "listing_url": "https://patuljak.me/oglas/prodajemo-kultivisano-imanje-kucu-konobu-i-ljetnik--75358",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajemo-kultivisano-imanje-kucu-konobu-i-ljetnik--75358"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 15,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_75358",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Likely agents!15:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Danilovgrad",
+    "Naselje": "Kosić",
+    "Broj soba": "2",
+    "Broj spratova": "1",
+    "Namještena": "Da",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "3 i više",
+    "Stambena kvadratura": "300 m2",
+    "Kvadratura placa": "9000 m2",
+    "Kvadratura balkona": "15 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75358_2.webp"
+  ],
+  "image_count": 21,
+  "image_status": "ok",
+  "description_original": "PRODAJA/ FOR SALE!!!\n\n( ID: 791 ) Na samo 15 minuta od glavnog grada prodajemo kultivisano imanje savršeno za bijeg od gradske buke.\n\nKOSIĆ - 12km Podgorica /8km Danilovgrad\n\nDvorište od 9.000 m² , kuću sa garažom od 300 m², autentičnu konobu za druženja 80 m² ( ognjište/roštilj ) i ljetnikovac od 16 m².\nPlac je ravan i kultivisan I nudi puno prostora za dodatni sadržaj.\n\nDom nije samo adresa, dom je osjećaj mira kojem težite na kraju dana.\n\nCIJENA: 550 000€\nZA VIŠE INFORMACIJA POZOVITE\nKontakt: 069459300\n067502085",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:46.849196+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.729157+00:00",
+  "source_html_sha256": "3e062a92ccbcd84a075c2d0c65c68d13d918bff1b0f7a7f933805947b3b9b199",
+  "title": "Prodajemo kultivisano imanje ,kuću, konobu i ljetnikovac",
+  "description_language": "en",
+  "price_raw": "550000.00€",
+  "price_amount": 550000,
+  "price_currency": "EUR",
+  "advertiser_name": "Millennium",
+  "property_type": "house",
+  "city": "Danilovgrad",
+  "district": "Kosić",
+  "building_floors_raw": "1",
+  "room_layout_raw": "2",
+  "parking_raw": "3 i više",
+  "area_m2": 300,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "PRODAJA/ FOR SALE!!!    ( ID: 791 ) Na samo 15 minuta od glavnog grada  prodajemo kultivisano imanje  savršeno za bijeg od gradske buke.             KOSIĆ - 12km Podgorica /8km DanilovgradDvorište od  9.000 m² ,  kuću sa garažom  od 300 m², autentičnu konobu za druženja 80 m² ( ognjište/roštilj ) i ljetnikovac  od 16 m².Plac je ravan i kultivisan  I nudi puno prostora za dodatni sadržaj.  Dom nije samo adresa, dom je osjećaj mira kojem težite na kraju dana.  CIJENA: 550 000€  ZA VIŠE INFORMACIJA POZOVITE     Kontakt: 069459300                  067502085",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!15",
+      "agent_reasons": "5 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269459300",
+      "name": "Millennium",
+      "email": null,
+      "source": "workbook:Likely agents!15"
+    }
+  ],
+  "contact_phones": [
+    "+38269459300"
+  ],
+  "phone_e164": "+38269459300",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "deal_type": "sale",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

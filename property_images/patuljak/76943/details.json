@@ -1,0 +1,141 @@
+{
+  "source": "patuljak",
+  "listing_id": "76943",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-43m-central-point-p--76943",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-43m-central-point-p--76943"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 885,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_76943",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!885:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Central Point",
+    "Broj soba": "Jednosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "5",
+    "Kvadratura": "43 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76943_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76943_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76943_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76943_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76943_4.webp"
+  ],
+  "image_count": 5,
+  "image_status": "ok",
+  "description_original": "Izdaje se potpuno nov i moderno opremljen jednosoban stan površine 43 m², u naselju Central Point, u trećoj zgradi od Big Fashion-a.\n\nStan se nalazi na 5. spratu i kompletno je opremljen za udoban život. Sastoji se od dnevne sobe sa kuhinjom i trpezarijom, jedne spavaće sobe, kupatila i terase.\n\nEnterijer je svijetao, uredan i moderno namješten. Stan posjeduje klima uređaj, TV, potpuno opremljenu kuhinju, trpezarijski sto, udoban dnevni boravak, bračni krevet i dovoljno prostora za odlaganje stvari.\n\nLokacija je jedna od najtraženijih u Podgorici. U neposrednoj blizini se nalaze Big Fashion, City kvart, restorani, kafići, marketi, banke i svi potrebni sadržaji za svakodnevni život.\n\nStan je idealan za jednu osobu ili par koji traže nov, funkcionalan i moderno opremljen stan na odličnoj lokaciji.\n\nCijena: 500 € mjesečno. Kontakt: +382 68 533 227.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:32.885748+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.666721+00:00",
+  "source_html_sha256": "104f69095a68eecddd55ba711c039a90664031408ee26fa3600025715da4d9f9",
+  "title": "Izdaje se nov jednosoban stan 43m - Central Point, Podgorica",
+  "description_language": "en",
+  "price_raw": "500.00€",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "advertiser_name": "Sergej",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Central Point",
+  "floor_raw": "5",
+  "room_layout_raw": "Jednosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "area_m2": 43,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Izdaje se potpuno nov i moderno opremljen jednosoban stan površine 43 m², u naselju Central Point, u trećoj zgradi od Big Fashion-a.Stan se nalazi na 5. spratu i kompletno je opremljen za udoban život. Sastoji se od dnevne sobe sa kuhinjom i trpezarijom, jedne spavaće sobe, kupatila i terase.Enterijer je svijetao, uredan i moderno namješten. Stan posjeduje klima uređaj, TV, potpuno opremljenu kuhinju, trpezarijski sto, udoban dnevni boravak, bračni krevet i dovoljno prostora za odlaganje stvari.Lokacija je jedna od najtraženijih u Podgorici. U neposrednoj blizini se nalaze Big Fashion, City kvart, restorani, kafići, marketi, banke i svi potrebni sadržaji za svakodnevni život.Stan je idealan za jednu osobu ili par koji traže nov, funkcionalan i moderno opremljen stan na odličnoj lokaciji.Cijena: 500 € mjesečno. Kontakt: +382 68 533 227.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!885",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268533227",
+      "name": "Sergej",
+      "email": null,
+      "source": "workbook:Outreach list!885"
+    }
+  ],
+  "contact_phones": [
+    "+38268533227"
+  ],
+  "phone_e164": "+38268533227",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

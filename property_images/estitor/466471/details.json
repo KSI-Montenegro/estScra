@@ -1,0 +1,170 @@
+{
+  "source": "estitor",
+  "listing_id": "466471",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-466471",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-466471"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 375,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_466471",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Starogradnja": "true",
+    "Opremljen": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/abe19ee3-529a-4b39-8a49-f924de94593f-lg.webp",
+    "https://content.estitor.com/d69ad7bf-7e6f-42e8-bc32-7d14db4f440b-lg.webp",
+    "https://content.estitor.com/801203bc-d5e0-4586-9f1b-fc1676cc768f-lg.webp",
+    "https://content.estitor.com/04b6e792-df1e-4287-8247-b107780f9fd7-lg.webp",
+    "https://content.estitor.com/2cff5bd1-cd1a-4d15-a7ff-841394b3a967-lg.webp",
+    "https://content.estitor.com/767cfdf2-1e4f-4ce3-9489-697fb069e89a-lg.webp",
+    "https://content.estitor.com/972408b0-1dc3-4119-a872-1eb7e95545d2-lg.webp",
+    "https://content.estitor.com/6187d10e-b78e-4173-b143-23c493d15de3-lg.webp",
+    "https://content.estitor.com/5abfb510-7b01-4fae-b585-794a4a7def56-lg.webp",
+    "https://content.estitor.com/2f04dece-9c00-4699-a9f8-8da78a5217ba-lg.webp",
+    "https://content.estitor.com/50f7206c-a013-4c2b-bb38-754fd19fcb4a-lg.webp",
+    "https://content.estitor.com/0bcfb884-37d3-4ce4-a6c4-27619835373d-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Jednosoban stan u centru Bara, u periodu od 1.Oktobra do 1.Juna.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:48.739729+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.117493+00:00",
+  "source_html_sha256": "9cf90500351f9f4591a59cf7a828f2462831d50e9e515faf3947bdf489d6e7c3",
+  "title": "Izdavanje, jednosoban stan, 50m², Topolica, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2025-09-06",
+  "updated_date": "2026-09-17",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 50,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "6 Popa Dukljainina, Bar, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Milan S.",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "true",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Starogradnja",
+    "Opremljen"
+  ],
+  "metadata_summary": "Jednosoban stan u centru Bara, u periodu od 1.Oktobra do 1.Juna.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!375",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269699346",
+      "name": "Milan S.",
+      "email": null,
+      "source": "workbook:Outreach list!375"
+    },
+    {
+      "phone_e164": "+38269699346",
+      "name": "Milan S.",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269699346"
+  ],
+  "phone_e164": "+38269699346",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

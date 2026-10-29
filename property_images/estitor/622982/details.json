@@ -1,0 +1,172 @@
+{
+  "source": "estitor",
+  "listing_id": "622982",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622982",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622982"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 276,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_622982",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "9. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2024",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Ostava": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/86a83e0e-47c3-4dad-b936-a662a2b0033d-lg.webp",
+    "https://content.estitor.com/fbe6b58d-ac79-4c7d-a0ec-09f29c8b5262-lg.webp",
+    "https://content.estitor.com/fe3e858d-7d16-44c2-ae6a-11bfd54ae0ce-lg.webp",
+    "https://content.estitor.com/f8ef430f-41f2-4913-9e27-f72fd58c4538-lg.webp",
+    "https://content.estitor.com/b9bf03cd-c87d-4b1b-8ecd-480b1b336ad2-lg.webp",
+    "https://content.estitor.com/c5b38bde-65a3-4cd0-b89c-ed983bcb2046-lg.webp",
+    "https://content.estitor.com/4f7cd6b9-efa8-4eba-8a62-3dcdc8a8b838-lg.webp",
+    "https://content.estitor.com/7658ad9d-d07b-41ad-8971-d625718e5a98-lg.webp",
+    "https://content.estitor.com/05470a4d-c18e-4e29-9e1d-f1fd5a6db68a-lg.webp",
+    "https://content.estitor.com/6396239f-db06-4148-bf60-a8bc086c3ffc-lg.webp",
+    "https://content.estitor.com/28279c3c-f439-40dc-b295-17dfae397a1c-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Nudimo vam priliku za zakup izvanrednog luksuznog stana u baru, idealnog za udoban život. Smješten u novogradnji, ovaj elegantan jednosoban stan idealan za dvije osobe, površine 59.0 m² nudi sve što je potrebno za moderan dom.\nStan se nalazi na 9 tom spratu i odlikuje se pažljivo osmišljenim prostorom. Sastoji se od veoma prostranog i osvetljenog dnevnog boravka, lijepe i udobne spavaće sobe, lijepo opremljenog kupatila, hodnika i kompletno opremljene moderne kuhinje. Poseban benefit je i ostava, pružajući dodatni prostor za odlaganje stvari. Za vaš maksimalan komfor, stan je klimatizovan, a zgrada posjeduje dva lifta i interfon.\nUživajte u predivnom pogledu na more koji se pruža iz stana sa udobnog balkona. Lokacija je izuzetna – u mirnom kraju, a opet blizu škole, što ga čini savršenim za porodice ili pojedince koji cijene mir i dostupnost gradskih sadržaja. Ovaj izuzetan stan je odmah useljiv, spreman da vas dočeka.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:59.191112+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.510754+00:00",
+  "source_html_sha256": "2e9bb9862bfb7173886739a77a547ba94de0a8d65a180008ff24920311a51963",
+  "title": "Izdavanje, jednosoban stan, 59m², Makedonsko naselje, Bar",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-24",
+  "updated_date": "2026-10-17",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "price_raw": "650 EUR",
+  "area_m2": 59,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Bar",
+  "street_address": "18a Makedonska, Bjeliši 85000, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sevdija Krco",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "9. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2024,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Ostava",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Nudimo vam priliku za zakup izvanrednog luksuznog stana u baru, idealnog za udoban život. Smješten u novogradnji, ovaj elegantan jednosoban stan idealan za dvije osobe, površine 59.0 m² nudi sve što je potrebno za mod...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!276",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268113310",
+      "name": "Sevdija Krco",
+      "email": null,
+      "source": "workbook:Outreach list!276"
+    },
+    {
+      "phone_e164": "+38268113310",
+      "name": "Sevdija Krco",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268113310"
+  ],
+  "phone_e164": "+38268113310",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

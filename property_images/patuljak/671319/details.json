@@ -1,0 +1,157 @@
+{
+  "source": "patuljak",
+  "listing_id": "671319",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-74m2-city-kvart-podgorica-izdavanje--671319",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-74m2-city-kvart-podgorica-izdavanje--671319"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 214,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_671319",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!214:primary_url_fields",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "City kvart",
+    "Adresa": "Pera Soca",
+    "Broj soba": "Dvosoban",
+    "Namješten": "Da",
+    "Tip izdavanja": "Dugoročno",
+    "Sprat": "1",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Novogradnja",
+    "Vrsta poda": "Parket",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "Stambena kvadratura": "74 m2",
+    "Kvadratura balkona": "13 m2",
+    "Balkon": true
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/671319_1.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Izdaje se dvosoban moderno opremljen stan na početku City kvarta.\nBlaga korekcija cijene moguca za zakup duzi od godinu dana.\nInteresovati se na broj telefona 067 364 783.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:29.406180+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.130722+00:00",
+  "source_html_sha256": "0e1138ec2922313c818578c66a4a55581c2a5a73b2fede64e2bff0145d739254",
+  "title": "Dvosoban stan, 74m2, City Kvart, Podgorica, Izdavanje",
+  "description_language": "en",
+  "price_raw": "650.00€",
+  "price_amount": 650,
+  "price_currency": "EUR",
+  "advertiser_name": "Beba",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "City kvart",
+  "street_address": "Pera Soca",
+  "floor_raw": "1",
+  "room_layout_raw": "Dvosoban",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 74,
+  "amenities": [
+    "Namješten",
+    "Balkon"
+  ],
+  "metadata_summary": "Izdaje se dvosoban moderno opremljen stan na početku City kvarta.Blaga korekcija cijene moguca za zakup duzi od godinu dana. Interesovati se na broj telefona 067 364 783.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!214",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267329843",
+      "name": "Beba",
+      "email": null,
+      "source": "workbook:Outreach list!214"
+    }
+  ],
+  "contact_phones": [
+    "+38267329843"
+  ],
+  "phone_e164": "+38267329843",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

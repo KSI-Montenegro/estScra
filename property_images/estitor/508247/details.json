@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "508247",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-508247",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-508247"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 708,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_508247",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Lift": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9a7a6ae1-8a30-4d1e-9c8f-0a072a0d2fb8-lg.webp",
+    "https://content.estitor.com/0bf35eeb-2d43-4c53-8e9b-35692c226f26-lg.webp",
+    "https://content.estitor.com/3a011e7d-34f5-4f73-a46a-f15480cbfd7c-lg.webp",
+    "https://content.estitor.com/8512fda5-13f8-4c83-bf6c-39ef5f9cafc7-lg.webp",
+    "https://content.estitor.com/20113bd6-77c8-4518-af83-8c6832ca4be9-lg.webp",
+    "https://content.estitor.com/853f4f73-777b-4430-bff9-987765bc8854-lg.webp",
+    "https://content.estitor.com/12fe88b6-f7ab-48f4-b462-fdd02cf27128-lg.webp",
+    "https://content.estitor.com/089df7a1-7822-4bb9-a287-10c8dde73232-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Izdajem jednosoban namjesten stan,56 m2. ,naspram Central Point-a.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:36.498466+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.945893+00:00",
+  "source_html_sha256": "145045936c214a75030a17e1bcca8e3de8ab3f58eff947f3712fcb19dac4edd8",
+  "title": "Izdavanje, jednosoban stan, 56m², Kod Big Fashion-a, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-14",
+  "updated_date": "2026-09-05",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 56,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Marija D.boskovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Internet",
+    "Dvorište",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdajem jednosoban namjesten stan,56 m2. ,naspram Central Point-a.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!708",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267063693",
+      "name": "Marija D.boskovic",
+      "email": null,
+      "source": "workbook:Outreach list!708"
+    },
+    {
+      "phone_e164": "+38267063693",
+      "name": "Marija D.boskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267063693"
+  ],
+  "phone_e164": "+38267063693",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

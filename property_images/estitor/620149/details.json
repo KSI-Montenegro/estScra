@@ -1,0 +1,179 @@
+{
+  "source": "estitor",
+  "listing_id": "620149",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-620149",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-620149"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 368,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_620149",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2026",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/090391b6-0417-4ecf-825c-6da5b204ebef-lg.webp",
+    "https://content.estitor.com/e2fd40db-aa6a-4aec-a8c9-597f0c99832d-lg.webp",
+    "https://content.estitor.com/f1d612ed-1d10-44cc-bf8c-2a35926c26f7-lg.webp",
+    "https://content.estitor.com/5073613f-419d-4f06-82ec-e4cb5f10c81e-lg.webp",
+    "https://content.estitor.com/13537d89-0e03-454a-bc1a-8be03541ae7d-lg.webp",
+    "https://content.estitor.com/61ab7a6b-0745-4c36-b8e8-949c52a373b6-lg.webp",
+    "https://content.estitor.com/319c80f6-fa8a-4f73-8056-8cae7b0a701a-lg.webp",
+    "https://content.estitor.com/6aa8d629-6d0e-4fc6-ab34-50d5bb660727-lg.webp",
+    "https://content.estitor.com/6e749fad-8cd5-454f-a395-f4c052c95c09-lg.webp",
+    "https://content.estitor.com/e9b90a53-122c-436a-a4ca-7b498bdc9a85-lg.webp",
+    "https://content.estitor.com/8608b634-8b47-464f-91b6-41b4b394cd0b-lg.webp",
+    "https://content.estitor.com/ec52949d-c481-4403-bab2-20c914cab321-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Osunčan, Novogradnja, Odmah useljiv, Miran kraj\nStan je nov, opremljen apsolutno svime sto vam je potrebno za lagodan zivot.\nDuzi najam.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:45.781127+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.073702+00:00",
+  "source_html_sha256": "f7c8c0b1038b53e15e4c3be5321d0aa85079579bf98b6f1723354e8559c8a4eb",
+  "title": "Izdavanje, jednosoban stan, 44m², Kava, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-20",
+  "updated_date": "2026-09-20",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 44,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "1, 47 Kava, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Anita Bulajic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2026,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Osunčan, Novogradnja, Odmah useljiv, Miran krajStan je nov, opremljen apsolutno svime sto vam je potrebno za lagodan zivot.Duzi najam.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!368",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267526195",
+      "name": "Anita Bulajic",
+      "email": null,
+      "source": "workbook:Outreach list!368"
+    },
+    {
+      "phone_e164": "+38267526195",
+      "name": "Anita Bulajic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267526195"
+  ],
+  "phone_e164": "+38267526195",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

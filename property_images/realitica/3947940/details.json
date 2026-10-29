@@ -1,0 +1,150 @@
+{
+  "source": "realitica",
+  "listing_id": "3947940",
+  "listing_url": "https://www.realitica.com/hr/listing/3947940",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947940"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 84,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3947940",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Tivat",
+    "Lokacija": "Tivat",
+    "Energetski Razred": "A+",
+    "Cijena": "€242.000",
+    "Godina Gradnje": "2026",
+    "Spavaćih Soba": "2",
+    "Kupatila": "1",
+    "Stambena Površina": "62 m2",
+    "Novogradnja": true,
+    "Klima Uređaj": true,
+    "Oglas Broj": "3947940",
+    "Postavljeno": "20 Oct, 2026",
+    "Zadnja Promjena": "20 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-1.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-2.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-3.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-4.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-7.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-8.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-11.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-15.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-12.jpg",
+    "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-13.jpg"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Nov, dvosoban stan 62m2 u zgradi zavrsenoj 2026 godine, prvi sprat, zatvorena terasa i lift. Potpuno nova kuhinja i ugradni plakari u obje spavace sobe. Direktno od investitora. cijena 242,000 eura.Garazno mjesto se placa dodatnih 15.000 eura.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:13:17.025634+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.308167+00:00",
+  "source_html_sha256": "436461b252ce8ff1ef26da0fb60aec6b71458eec1d9365b55f412e677e264494",
+  "title": "Prodajem Dvosoban Stan-Apartman, Dumidran, Tivat",
+  "description_language": "hr",
+  "city": "Tivat",
+  "district": "Tivat",
+  "published_date_raw": "20 Oct, 2026",
+  "updated_date_raw": "20 Oct, 2026",
+  "area_m2": 62,
+  "bathrooms": 1,
+  "bedrooms": 2,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€242.000",
+  "price_amount": 242000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Novogradnja",
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Nov, dvosoban stan 62m2 u zgradi zavrsenoj 2026 godine, prvi sprat, zatvorena terasa i lift. Potpuno nova kuhinja i ugradni plakari u obje spavace sobe. Direktno od investitora. cijena 242,000 eura.Garazno mjesto se placa dodatnih 15.000 eura.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!84",
+      "notes": "Medium - Heuristic: no agency name/website/company no.; Medium - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269373731",
+      "name": "Martina",
+      "email": null,
+      "source": "workbook:Outreach list!84"
+    }
+  ],
+  "contact_phones": [
+    "+38269373731"
+  ],
+  "phone_e164": "+38269373731",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

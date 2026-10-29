@@ -1,0 +1,169 @@
+{
+  "source": "estitor",
+  "listing_id": "630059",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630059",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630059"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 319,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_630059",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "Prizemlje",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/9fc280e2-ff6d-444e-92a5-29a92f36da6a-lg.webp",
+    "https://content.estitor.com/fc3ccc85-941d-4fb4-8fb1-0ca11b586c4a-lg.webp",
+    "https://content.estitor.com/ea5594dc-2306-4c7c-b0f7-36679a809a8e-lg.webp",
+    "https://content.estitor.com/4f0d02a2-8699-429b-ab10-b622d22b7e6a-lg.webp",
+    "https://content.estitor.com/e5a81db5-1d3b-4b64-8046-fc3e31752f75-lg.webp",
+    "https://content.estitor.com/38db70dd-e696-4e4d-943a-39bde520b8d4-lg.webp",
+    "https://content.estitor.com/09f7414b-aacb-45d4-96cc-4eb25b9ea262-lg.webp",
+    "https://content.estitor.com/4cf1f09f-da9f-4704-8cc4-57cd5a7595fa-lg.webp",
+    "https://content.estitor.com/7f02d67f-f9b2-40d5-8ca2-e11d121f9d82-lg.webp",
+    "https://content.estitor.com/c4a775d9-707b-4223-8907-9d4f5f0b9eff-lg.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Pogled na more, Miran kraj, Odmah useljiv",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:20.635573+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.774733+00:00",
+  "source_html_sha256": "e7d8fbe1b412ea068705e7cffafa5fde9d6db54229034aa67f4158b994b8d567",
+  "title": "Izdavanje, jednosoban stan, 60m², Bonići, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-10-06",
+  "updated_date": "2026-10-06",
+  "price_amount": 700,
+  "price_currency": "EUR",
+  "price_raw": "700 EUR",
+  "area_m2": 60,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Boniči II, Tivat, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ivona Ercegovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "Prizemlje",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija"
+  ],
+  "metadata_summary": "Pogled na more, Miran kraj, Odmah useljiv",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!319",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269555614",
+      "name": "Ivona Ercegovic",
+      "email": null,
+      "source": "workbook:Outreach list!319"
+    },
+    {
+      "phone_e164": "+38269555614",
+      "name": "Ivona Ercegovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269555614"
+  ],
+  "phone_e164": "+38269555614",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "550105",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-550105",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-550105"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 662,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_550105",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "lot_area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Kuća",
+    "Godina izgradnje": "1995",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok",
+    "Parking": "Ispred objekta",
+    "Površina placa": "400",
+    "Grijanje podno": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Dvorište": "true",
+    "Podrum": "true",
+    "Kablovska": "true",
+    "Hodnik": "true",
+    "Površina placa m2": "400"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/3bced679-64ce-4036-900a-da8e4e090465-lg.webp",
+    "https://content.estitor.com/868decd5-91d7-4c18-bb44-1ae98a266fb9-lg.webp",
+    "https://content.estitor.com/51683954-7034-4cd5-9fe6-63a263b3f3e6-lg.webp",
+    "https://content.estitor.com/59fd65c8-ec14-4f7c-a096-80d0c560a3bf-lg.webp",
+    "https://content.estitor.com/83b93543-c4dd-4945-ac25-5138c5db89c6-lg.webp",
+    "https://content.estitor.com/fa854ad6-fe80-4a3f-bde6-27fd3e5e4510-lg.webp",
+    "https://content.estitor.com/963320b6-1bcd-4535-8928-0e1516ea896f-lg.webp",
+    "https://content.estitor.com/cc71855b-957c-4b35-92b6-0f1919a46d1e-lg.webp",
+    "https://content.estitor.com/40392f25-5316-4aa4-94c2-1705ca2a33df-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdaje se udoban i kompletno opremljen jednosoban stan (deo kuće sa zasebnim ulazom) površine 45m² u mirnom dijelu Tološa, Podgorica, u neposrednoj blizini Voli marketa. Stan se sastoji od prostranog dnevnog boravka, kuhinje, spavaće sobe, kupatila i praktičnog hodnika. Nekretnina je potpuno opremljena modernim namještajem i spremna za useljenje. Za vaš komfor tokom cijele godine, obezbijeđeni su klimatizacija i podno grijanje. Pored toga, dostupni su internet i kablovska televizija. Posebna pogodnost je zasebno brojilo za struju. Dodatne pogodnosti uključuju parking mjesto direktno ispred objekta, prostrano dvorište idealno za opuštanje na otvorenom, te podrum za dodatno skladištenje. Ova nekretnina je idealan izbor za samce ili parove koji traže kvalitetan i funkcionalan životni prostor u Tološima. Mjesečni zakup iznosi 300 EUR.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:18:13.485242+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.694877+00:00",
+  "source_html_sha256": "3cdbac91a86661c02917a8c405f0babcefd5e45bd7f2df941232f9339fb8416c",
+  "title": "Izdavanje, kuća, 45m², Tološi, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-04-26",
+  "updated_date": "2026-09-25",
+  "price_amount": 300,
+  "price_currency": "EUR",
+  "price_raw": "300 EUR",
+  "area_m2": 45,
+  "rooms": 1,
+  "bathrooms": 1,
+  "city": "Podgorica",
+  "street_address": "12 Kninska, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Luka Radonjic",
+  "deal_type": "rent",
+  "property_type": "house",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok",
+  "lot_area_m2": 400,
+  "year_built": 1995,
+  "property_type_raw": "Kuća",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Klimatizacija",
+    "Internet",
+    "Dvorište",
+    "Podrum",
+    "Kablovska",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se udoban i kompletno opremljen jednosoban stan (deo kuće sa zasebnim ulazom) površine 45m² u mirnom dijelu Tološa, Podgorica, u neposrednoj blizini Voli marketa. Stan se sastoji od prostranog dnevnog boravka, ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!662",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267462584",
+      "name": "Luka Radonjic",
+      "email": null,
+      "source": "workbook:Outreach list!662"
+    },
+    {
+      "phone_e164": "+38267462584",
+      "name": "Luka Radonjic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267462584"
+  ],
+  "phone_e164": "+38267462584",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "floor_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

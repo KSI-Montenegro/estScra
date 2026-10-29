@@ -1,0 +1,159 @@
+{
+  "source": "estitor",
+  "listing_id": "562726",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562726",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562726"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 611,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_562726",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "3. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Parking": "Ispred objekta",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/23a28def-f63c-4e71-9a1c-e5be66e12a70-lg.webp",
+    "https://content.estitor.com/00d8d5a7-bd09-4ac6-ba50-72cf8992bcd3-lg.webp",
+    "https://content.estitor.com/70000abf-55f2-4f73-8164-480e972cc1ed-lg.webp",
+    "https://content.estitor.com/df2078df-3d45-4797-96fe-d56a324572d7-lg.webp",
+    "https://content.estitor.com/af8c4b49-987f-453a-8c74-75b55f18b172-lg.webp",
+    "https://content.estitor.com/51f0fdd7-95f2-4d3e-b5a0-1bfc36ae56dd-lg.webp",
+    "https://content.estitor.com/9217f767-0774-4226-b592-e086dfc1fbc1-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se garsonjera u sklopu kuce sa zasebnim ulazom.\nUlica Iveze Vukova br.15, Doljani.\nCijena je 200e i tu su uračunati troskovi interneta,\nkablovske i vode.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:47.946343+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.414403+00:00",
+  "source_html_sha256": "ec1fbc8388211d2cc7b2c62fbdcb981723eb7bcf3e1f99d96dd1ea9c103dde0f",
+  "title": "Izdavanje, jednosoban stan, 25m², Doljani, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-05-26",
+  "updated_date": "2026-10-13",
+  "price_amount": 200,
+  "price_currency": "EUR",
+  "price_raw": "200 EUR",
+  "area_m2": 25,
+  "rooms": 1,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "Ulica Iveze Vukova, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Drago Boskovic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "3. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "parking_raw": "Ispred objekta",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Kuhinja",
+    "Hodnik"
+  ],
+  "metadata_summary": "Izdaje se garsonjera u sklopu kuce sa zasebnim ulazom.Ulica Iveze Vukova br.15, Doljani.Cijena je 200e i tu su uračunati troskovi interneta,kablovske i vode.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!611",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268459146",
+      "name": "Drago Boskovic",
+      "email": null,
+      "source": "workbook:Outreach list!611"
+    },
+    {
+      "phone_e164": "+38268459146",
+      "name": "Drago Boskovic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268459146"
+  ],
+  "phone_e164": "+38268459146",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 1,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

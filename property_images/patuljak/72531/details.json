@@ -1,0 +1,149 @@
+{
+  "source": "patuljak",
+  "listing_id": "72531",
+  "listing_url": "https://patuljak.me/oglas/mijenjam-stan--72531",
+  "listing_urls": [
+    "https://patuljak.me/oglas/mijenjam-stan--72531"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 546,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_72531",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Stari Aerodrom",
+    "Broj soba": "Jednoiposoban",
+    "Namješten": "Ne",
+    "Sprat": "6",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Stambena kvadratura": "61 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72531_14.webp"
+  ],
+  "image_count": 15,
+  "image_status": "ok",
+  "description_original": "Na zamjenu, funkcionalan jednosoban stan površine 61.0 m² u Podgorici, na Starom Aerodromu. U pitanju je starogradnja. Ukupna površina stana je 56m2 i podrumski dio 5m2. Ova nekretnina je idealna za parove, samce ili kao odlična investiciona prilika. Stan se sastoji od prostrane dnevne, kao i spavaće sobe, modernog kupatila, udobnog predsoblja, funkcionalne kuhinje i komforne trpezarije, koja je u sklopu dnevne sobe, što daje još veći prostor. Udobnost tokom cijele godine obezbijeđena je zahvaljujući orjentaciji stana i ugrađenoj klimatizaciji. Zgrada ima lift, a stanu pripada i praktičan podrum, pružajući dodatni prostor za odlaganje stvari. Stan se nudi na zamjenu kao neopremljen, što vam omogućava da ga uredite po sopstvenom ukusu i stilu. Trenutno nije prazan. Dostupan je javni parking u neposrednoj blizini, što olakšava svakodnevni život. Vlasnik nudi ovu nekretninu na zamjenu za dvosoban stan u Podgorici, okolina Gintaša, Pejtona, Ljubovića, Mitra Bakića. Bez posredovanja agencije.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:17:17.476728+00:00",
+  "details_extracted_at": "2026-10-29T19:49:54.086586+00:00",
+  "source_html_sha256": "f112d4fd8bb704ef2f64e4436892488ab3504c4d0ee30ef74653f156dbfcd96f",
+  "title": "MIJENJAM STAN",
+  "description_language": "en",
+  "price_raw": "150000.00€",
+  "price_amount": 150000,
+  "price_currency": "EUR",
+  "advertiser_name": "Vesna",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Stari Aerodrom",
+  "floor_raw": "6",
+  "room_layout_raw": "Jednoiposoban",
+  "furnishing_raw": "Ne",
+  "heating_raw": "Struja",
+  "area_m2": 61,
+  "amenities": [],
+  "metadata_summary": "Na zamjenu, funkcionalan jednosoban stan površine 61.0 m² u Podgorici, na Starom Aerodromu. U pitanju je starogradnja. Ukupna površina stana je 56m2 i podrumski dio 5m2. Ova nekretnina je idealna za parove, samce ili kao odlična investiciona prilika. Stan se sastoji od prostrane dnevne, kao i spavaće sobe, modernog kupatila, udobnog predsoblja, funkcionalne kuhinje i komforne trpezarije, koja je u sklopu dnevne sobe, što daje još veći prostor. Udobnost tokom cijele godine obezbijeđena je zahvaljujući orjentaciji stana i ugrađenoj klimatizaciji. Zgrada ima lift, a stanu pripada i praktičan podrum, pružajući dodatni prostor za odlaganje stvari. Stan se nudi na zamjenu kao neopremljen, što vam omogućava da ga uredite po sopstvenom ukusu i stilu. Trenutno nije prazan. Dostupan je javni parking u neposrednoj blizini, što olakšava svakodnevni život. Vlasnik nudi ovu nekretninu na zamjenu za dvosoban stan u Podgorici, okolina Gintaša, Pejtona, Ljubovića, Mitra Bakića. Bez posredovanja agencije. ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!546",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267457222",
+      "name": "Vesna",
+      "email": null,
+      "source": "workbook:Outreach list!546"
+    }
+  ],
+  "contact_phones": [
+    "+38267457222"
+  ],
+  "phone_e164": "+38267457222",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": false,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

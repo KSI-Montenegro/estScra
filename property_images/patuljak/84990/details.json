@@ -1,0 +1,128 @@
+{
+  "source": "patuljak",
+  "listing_id": "84990",
+  "listing_url": "https://patuljak.me/oglas/plac-470m-podgorica-doljani--84990",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-470m-podgorica-doljani--84990"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 8,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_84990",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "normalization:explicit_original_description_deal_words",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Asfalt",
+    "Kvadratura": "470 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84990_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84990_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84990_2.webp"
+  ],
+  "image_count": 3,
+  "image_status": "ok",
+  "description_original": "Prodaje se plac površine 470m², u Podgorici, Doljani. Asfaltni prilaz placu, sprovedena struja i voda do placa, u ulici sa rasvjetom.\nPosjeduje izdate UTU uslove za gradnju na placu.\nNalazi se blizu tranzitnog puta kroz Zlaticu i svih bitnijih lokacija u naselju (škola, marketi, eko pumpe, tranzit, pristupna petlja auto-putu itd.).\nCijena na upit.\nZa više informacija pozvati na broj:\n069 570 641.",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:23:25.843120+00:00",
+  "details_extracted_at": "2026-10-29T19:49:59.121349+00:00",
+  "source_html_sha256": "871aff6267612f56a4465a1277b25b182a493dff25ed44a1c6c550c3e335591c",
+  "title": "Plac 470m, Podgorica, Doljani",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Aleksandar",
+  "property_type": "land",
+  "city": "Podgorica",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodaje se plac površine 470m², u Podgorici, Doljani. Asfaltni prilaz placu, sprovedena struja i voda do placa, u ulici sa rasvjetom. Posjeduje izdate UTU uslove za gradnju na placu. Nalazi se blizu tranzitnog puta kroz Zlaticu i svih bitnijih lokacija u naselju (škola, marketi, eko pumpe, tranzit, pristupna petlja auto-putu itd.).Cijena na upit. Za više informacija pozvati na broj: 069 570 641.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!8",
+      "agent_reasons": "not a home (land); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268220431",
+      "name": "Aleksandar",
+      "email": null,
+      "source": "workbook:Not homes!8"
+    }
+  ],
+  "contact_phones": [
+    "+38268220431"
+  ],
+  "phone_e164": "+38268220431",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 470,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

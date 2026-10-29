@@ -1,0 +1,165 @@
+{
+  "source": "estitor",
+  "listing_id": "593298",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-593298",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-593298"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 266,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_593298",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2021",
+    "Stanje": "Novo / nekorišćeno",
+    "Opremljen": "Da",
+    "Orijentacija": "Jugoistok",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Telefon": "true",
+    "Kablovska": "true",
+    "Interfon": "true",
+    "Kuhinja": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/41a68242-dc69-4285-aa5a-93595ee1182a-lg.webp",
+    "https://content.estitor.com/9d1751aa-87f6-4cbe-88f3-533268deb65f-lg.webp",
+    "https://content.estitor.com/8be22244-8e2c-4f9c-a57b-701c7e2b131b-lg.webp",
+    "https://content.estitor.com/d0ea7bb1-f065-4c90-9c41-579aa6b8042d-lg.webp",
+    "https://content.estitor.com/3fe5ffc7-b1a1-4f41-be52-901867356632-lg.webp",
+    "https://content.estitor.com/67df9592-d3dd-4726-98ae-0c4d183ad73c-lg.webp",
+    "https://content.estitor.com/d59216b9-d84a-46be-bd16-9bd099d808d3-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Predstavljamo atraktivan studio apartman za izdavanje, smješten u stambenom bloku Stara Pekara - Old Bakery, u dužem vremenskom trajanju u Budvi. Ovaj moderni apartman, ukupne površine 30.0 m², idealan je za udoban život. Nalazi se na prvom spratu, što omogućava lak pristup. Potpuno je opremljen svim neophodnim stvarima i spreman za useljenje. Poseduje jedno kupatilo i kompletno opremljenu kuhinju. Stan je novogradnja i nudi niz pogodnosti: Klimatizacija, Internet, Telefon, Kablovska i Interfon. Zgrada je opremljena liftom, a obezbijeđeno je i stalno snabdijevanje vodom. Parking postoji oko zgrade, uz mogućnost dogovora za najam garaže. Apartman je slobodan za useljenje od 1. septembra 2026. godine. Cijena po dogovoru., Odmah useljiv.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:14:54.450890+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.446868+00:00",
+  "source_html_sha256": "8af5546632599b07e290361c9e1c37cf721462ec8aa0b6e3682c2e6bfe7f33a4",
+  "title": "Izdavanje, garsonjera, 30m², Babin Do, Budva",
+  "description_language": "sr-ME",
+  "published_date": "2026-08-14",
+  "updated_date": "2026-10-19",
+  "price_amount": 400,
+  "price_currency": "EUR",
+  "price_raw": "400 EUR",
+  "area_m2": 30,
+  "bathrooms": 1,
+  "city": "Budva",
+  "street_address": "Golootočkih žrtava, Budva, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Vujica Radević",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Novo / nekorišćeno",
+  "orientation_raw": "Jugoistok",
+  "balconies": 1,
+  "year_built": 2021,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Telefon",
+    "Kablovska",
+    "Interfon",
+    "Kuhinja",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Predstavljamo atraktivan studio apartman za izdavanje, smješten u stambenom bloku Stara Pekara - Old Bakery, u dužem vremenskom trajanju u Budvi. Ovaj moderni apartman, ukupne površine 30.0 m², idealan je za udoban ži...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!266",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269103901",
+      "name": "Vujica Radević",
+      "email": null,
+      "source": "workbook:Outreach list!266"
+    },
+    {
+      "phone_e164": "+38269103901",
+      "name": "Vujica Radević",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269103901"
+  ],
+  "phone_e164": "+38269103901",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

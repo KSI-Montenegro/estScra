@@ -1,0 +1,167 @@
+{
+  "source": "estitor",
+  "listing_id": "626380",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626380",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626380"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 88,
+      "column": "second_ad_url"
+    }
+  ],
+  "property_key": "estitor_626380",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2018",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Djelimično",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Interfon": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c0c08d0d-f122-4fe4-acc7-34ff035b9d37-lg.webp",
+    "https://content.estitor.com/85c53d0c-692e-4cb8-b89d-23a2bb93bd2a-lg.webp",
+    "https://content.estitor.com/89cb62b6-6b96-4e17-bdb9-8cf5d0590795-lg.webp",
+    "https://content.estitor.com/ed9b8317-021d-457c-9d2e-29ac8bfa00ab-lg.webp",
+    "https://content.estitor.com/9b771e68-fbd7-44eb-b3ea-80d25ce7c695-lg.webp",
+    "https://content.estitor.com/b09f6c9c-fff7-486a-a421-4116f929a71c-lg.webp",
+    "https://content.estitor.com/43bc4274-93a8-49b8-8d64-6ce6e16dabfa-lg.webp"
+  ],
+  "image_count": 7,
+  "image_status": "ok",
+  "description_original": "Izdaje se prazan dvosoban stan u mirnom ozelenjenom okruzenju. U blizini se nalaze marketi, vrtici, skole i sve ostalo potrebno za odvijanje svakodnevnog zivota. Stan se sastoji od: hodnika, dnevne-kuhinje-trpezarije, balkona, predsoblja, 2 spavace sobe, kupatila i toaleta. Posjeduje invertni multisplit sistem klimatizacije. Nalazi se na IV spratu zgrade koja posjeduje lift. Sa balkona se pruza prekrasan pogled na park i okolna brda.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:22:43.643309+00:00",
+  "details_extracted_at": "2026-10-29T19:49:58.518949+00:00",
+  "source_html_sha256": "d199a0ee531341b9299ed3313f32e07347c445e001b9ed5a1d61a5d5face2e61",
+  "title": "Izdavanje, dvosoban stan, 56m², Blok 9, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-30",
+  "updated_date": "2026-09-30",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 56,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "street_address": "108 Đoka Miraševića, Podgorica, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Sladjana Aleksic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Djelimično",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2018,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Lift",
+    "Klimatizacija",
+    "Interfon",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Izdaje se prazan dvosoban stan u mirnom ozelenjenom okruzenju. U blizini se nalaze marketi, vrtici, skole i sve ostalo potrebno za odvijanje svakodnevnog zivota. Stan se sastoji od: hodnika, dnevne-kuhinje-trpezarije,...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Likely agents!88",
+      "agent_reasons": "3 ads with this number"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267723572",
+      "name": "Sladjana Aleksic",
+      "email": null,
+      "source": "workbook:Likely agents!88"
+    },
+    {
+      "phone_e164": "+38267723572",
+      "name": "Sladjana Aleksic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38267723572"
+  ],
+  "phone_e164": "+38267723572",
+  "lead_categories": [
+    "Likely agents"
+  ],
+  "bedrooms": 2,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

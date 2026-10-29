@@ -1,0 +1,167 @@
+{
+  "source": "patuljak",
+  "listing_id": "83800",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-kuca-260-kvadrata-donji-kokoti--83800",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-kuca-260-kvadrata-donji-kokoti--83800"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 854,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_83800",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "building_floors_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!854:primary_url_fields"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Donji Kokoti",
+    "Broj soba": "5",
+    "Broj spratova": "2",
+    "Godina izgradnje": "2000-2009",
+    "Namještena": "Da",
+    "Vrsta poda": "Laminat",
+    "Vrsta grijanja": "Struja",
+    "Primarna orijentacija": "Istok",
+    "Parking mjesto": "3 i više",
+    "Kanalizacija": "Septička jama",
+    "Stambena kvadratura": "200 + 60 terase m2",
+    "Kvadratura placa": "700 m2",
+    "Kvadratura balkona": "60 m2"
+  },
+  "quality_flags": [
+    "page_and_workbook_values_differ"
+  ],
+  "workbook_conflicts": [
+    {
+      "field": "price_amount",
+      "page_value": 1100,
+      "workbook_value": 1300,
+      "source": "workbook:Outreach list!854"
+    }
+  ],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83800_16.webp"
+  ],
+  "image_count": 18,
+  "image_status": "ok",
+  "description_original": "260 kvadrata kuca na 700 kvadrata placa. Gore 130 i dolje 130. 90 kvadrata dolje, dvije spavace sobe vece, veliko kupatilo, hodnik, dnevna, trpezarija i kuhinja. 40 kvadrata na G natkrivene terase i gore i dolje. Gore tri spavace sobe, kupatilo, hodnik, dnevna, trpezarija i kuhinja izjedna, 40 kvadrata natkrivene terase na g. Ogradjena betonskom ogradom, zivom ogradom ispred, drveće, metalnom kapijom kliznom, svijetla u citavoj ogradi, boks za pse sa dvije betonske kucice, kuća pokrivena kamerama. Internet, kablovska...Parking ispred kuce za 3, 4 auta.\nTel: 068 81 81 81",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:20:11.781709+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.364683+00:00",
+  "source_html_sha256": "e61acb719c6afd3ae428ef6fabeb178417f8ce44809c8395e762ec82ae431af9",
+  "title": "Izdavanje kuća 260 kvadrata, Donji Kokoti",
+  "description_language": "en",
+  "price_raw": "1100.00€",
+  "price_amount": 1100,
+  "price_currency": "EUR",
+  "advertiser_name": "Sasa",
+  "property_type": "house",
+  "city": "Podgorica",
+  "district": "Donji Kokoti",
+  "building_floors_raw": "2",
+  "room_layout_raw": "5",
+  "heating_raw": "Struja",
+  "parking_raw": "3 i više",
+  "area_m2": 200,
+  "year_built": 2000,
+  "parking_spaces": 3,
+  "amenities": [
+    "Namještena"
+  ],
+  "metadata_summary": "260 kvadrata kuca na 700 kvadrata placa. Gore 130 i dolje 130. 90 kvadrata dolje, dvije spavace sobe vece, veliko kupatilo, hodnik, dnevna, trpezarija i kuhinja. 40 kvadrata na G natkrivene terase i gore i dolje. Gore tri spavace sobe, kupatilo, hodnik, dnevna, trpezarija i kuhinja izjedna, 40 kvadrata natkrivene terase na g. Ogradjena betonskom ogradom, zivom ogradom ispred, drveće, metalnom kapijom kliznom,  svijetla u citavoj ogradi, boks za pse sa dvije betonske kucice, kuća pokrivena kamerama. Internet, kablovska...Parking ispred kuce za 3, 4 auta.Tel: 068 81 81 81",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!854",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268818181",
+      "name": "Sasa",
+      "email": null,
+      "source": "workbook:Outreach list!854"
+    }
+  ],
+  "contact_phones": [
+    "+38268818181"
+  ],
+  "phone_e164": "+38268818181",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "rent",
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "floor_raw",
+    "furnishing_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "furnishing_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

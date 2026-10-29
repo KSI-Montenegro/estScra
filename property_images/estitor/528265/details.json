@@ -1,0 +1,164 @@
+{
+  "source": "estitor",
+  "listing_id": "528265",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-528265",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-528265"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 924,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_528265",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Garaža",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Novogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/c7b427f4-37bf-4c95-a7b2-43908191d94d-lg.webp",
+    "https://content.estitor.com/8fcee438-fc82-4cc6-afe7-05d66a10e5d4-lg.webp",
+    "https://content.estitor.com/b3f6e994-20d8-4344-a88d-a2296104fc3e-lg.webp",
+    "https://content.estitor.com/26e48483-cc2c-44f7-ac9f-46e102fffd18-lg.webp",
+    "https://content.estitor.com/4df1ee7a-ba79-4c63-9738-d2aa487357ea-lg.webp",
+    "https://content.estitor.com/1eb4080a-37e6-4bfe-a9c4-07621e7761f1-lg.webp",
+    "https://content.estitor.com/9f5612a6-1a73-4e55-af03-a7ce2e1dfafa-lg.webp",
+    "https://content.estitor.com/0e51d08e-c2bf-4a11-adeb-489a399e39c5-lg.webp",
+    "https://content.estitor.com/451cd4d2-a069-4ef6-bbe1-cc7073a3143e-lg.webp",
+    "https://content.estitor.com/2c5f3a9e-8295-42cc-892d-3b39ccd6fcb7-lg.webp",
+    "https://content.estitor.com/f074fdaf-f7a6-47f4-8737-510a331451d2-lg.webp",
+    "https://content.estitor.com/a2744ab8-cbe7-40e2-b203-eb7c14156fab-lg.webp",
+    "https://content.estitor.com/4553398a-c98c-406c-9bda-8e46b39a12f0-lg.webp",
+    "https://content.estitor.com/acfc1169-83ca-47ef-80b9-c58b15573bdd-lg.webp",
+    "https://content.estitor.com/da2dc0ab-573e-418d-83d3-fece4724f57a-lg.webp",
+    "https://content.estitor.com/a67c9fb8-0567-4c4c-aeed-925e11c1d0fa-lg.webp"
+  ],
+  "image_count": 16,
+  "image_status": "ok",
+  "description_original": "Iskusite vrhunski gradski život u Podgorici! Otkrijte ovaj izuzetan, potpuno namješten dvosoban stan dostupan za iznajmljivanje u prestižnom Family kvartu. Ova novogradnja nudi 70m² udobnosti i praktičnosti, idealno smještena ispod The Towera i na par trenutaka od svih bitnih gradskih sadržaja.\n\nNalazi se na drugom spratu (napomena, bez lifta), ovaj privlačan dom ima prostrani dnevni boravak sa besprekorno integrisanom modernom kuhinjom i trpezarijom. Uključuje dvije udobne spavaće sobe, dobro opremljeno glavno kupatilo i odvojeni toalet, nudeći dva puna kupatila. Uživajte na otvorenom na dva privatna balkona.\n\nStan je opremljen modernim potrepštinama, uključujući Internet i Kablovsku TV. Značajna gradska prednost je uključeno podzemno garažno parking mjesto, obezbjeđujući sigurnost i lakoću. Ova poželjna nekretnina nudi se po cijeni od 600 EUR mjesečno.\n\nNe propustite priliku da živite na jednoj od najtraženijih lokacija u Podgorici. Kontaktirajte nas danas za više informacija i zakazivanje pregleda!",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:21:01.856533+00:00",
+  "details_extracted_at": "2026-10-29T19:49:57.081769+00:00",
+  "source_html_sha256": "e4a18477dfde97e19fb51ad56f02b4dafc633433e40f4414f6241f3fd3fa5fc1",
+  "title": "Izdavanje, dvosoban stan, 70m², Zabjelo, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-02-28",
+  "updated_date": "2026-09-12",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 70,
+  "rooms": 2,
+  "bathrooms": 2,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Milan R",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Garaža",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Internet",
+    "Kablovska",
+    "Novogradnja"
+  ],
+  "metadata_summary": "Iskusite vrhunski gradski život u Podgorici! Otkrijte ovaj izuzetan, potpuno namješten dvosoban stan dostupan za iznajmljivanje u prestižnom Family kvartu. Ova novogradnja nudi 70m² udobnosti i praktičnosti, idealno s...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!924",
+      "priority": 65
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269439712",
+      "name": "Milan R",
+      "email": null,
+      "source": "workbook:Outreach list!924"
+    },
+    {
+      "phone_e164": "+38269439712",
+      "name": "Milan R",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269439712"
+  ],
+  "phone_e164": "+38269439712",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

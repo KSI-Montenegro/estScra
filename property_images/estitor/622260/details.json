@@ -1,0 +1,151 @@
+{
+  "source": "estitor",
+  "listing_id": "622260",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-622260",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-622260"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 828,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_622260",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "2. sprat",
+    "Broj terasa": "0",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Parking": "Javni parking"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/650721f1-4f03-44bd-bdd5-1a9211f521b3-lg.webp",
+    "https://content.estitor.com/82d4ca59-5841-4eca-9cd5-e3be1abf50f1-lg.webp",
+    "https://content.estitor.com/83e7970e-7554-4831-92cb-4e8868f696a9-lg.webp",
+    "https://content.estitor.com/1b862312-6fd9-4be4-b6b3-332b80fa1004-lg.webp",
+    "https://content.estitor.com/e50947ff-cf85-426b-92de-ed9258633028-lg.webp",
+    "https://content.estitor.com/222ce149-0470-4d9c-86f0-eb783a81214b-lg.webp",
+    "https://content.estitor.com/e2a937a0-27b7-41d7-b577-ef9e8879fd29-lg.webp",
+    "https://content.estitor.com/8664d887-a050-4afa-89d9-223fbfc536ac-lg.webp",
+    "https://content.estitor.com/9e247b64-a162-4383-b51d-4a37c4a49365-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Izdajem dvosoban stan 67 kvadrata ,na duzi vremenski period,centralno grijanje ,grijanje na klimu,nalazi se na lijepom mirnom dijelu grada,suncan stan,u ulici preko puta Plavenkape...",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:54.801460+00:00",
+  "details_extracted_at": "2026-10-29T19:49:56.121583+00:00",
+  "source_html_sha256": "1b4c9d6efaefac7b8faf081236a2a9cbcaea44381fd4803fb964a342872a932d",
+  "title": "Izdavanje, dvosoban stan, 67m², Centar, Cetinje",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-23",
+  "updated_date": "2026-09-23",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 67,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Cetinje",
+  "street_address": "26 Obilića, Cetinje, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Drasko L",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "2. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "balconies": 0,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen"
+  ],
+  "metadata_summary": "Izdajem dvosoban stan 67 kvadrata ,na duzi vremenski period,centralno grijanje ,grijanje na klimu,nalazi se na lijepom mirnom dijelu grada,suncan stan,u ulici preko puta Plavenkape...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!828",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269646534",
+      "name": "Drasko L",
+      "email": null,
+      "source": "workbook:Outreach list!828"
+    },
+    {
+      "phone_e164": "+38269646534",
+      "name": "Drasko L",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269646534"
+  ],
+  "phone_e164": "+38269646534",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

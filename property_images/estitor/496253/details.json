@@ -1,0 +1,171 @@
+{
+  "source": "estitor",
+  "listing_id": "496253",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-496253",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-496253"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 378,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_496253",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "2",
+    "Godina izgradnje": "2020",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Istok, Zapad",
+    "Parking": "Ispred objekta",
+    "Udaljenost od mora": "3 km",
+    "Klimatizacija": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/5ddf2c09-abe3-451b-8ae6-e134b4c082f4-lg.webp",
+    "https://content.estitor.com/e2e27419-f15e-407d-910d-8c1c386a05cd-lg.webp",
+    "https://content.estitor.com/a639d263-f12c-476f-a654-f1570d44aecf-lg.webp",
+    "https://content.estitor.com/7ea005ca-c5bf-4fa8-8e3f-de24a3aac21a-lg.webp",
+    "https://content.estitor.com/4273b418-9d22-434d-9f1c-c864019ce52f-lg.webp",
+    "https://content.estitor.com/33b99123-e3c2-4a91-a446-987396d6b539-lg.webp",
+    "https://content.estitor.com/641abf78-85ca-415c-9b23-61fc4374fda3-lg.webp",
+    "https://content.estitor.com/07e08e3c-0358-4a76-bb76-e84192051d44-lg.webp",
+    "https://content.estitor.com/630a6c60-e589-40ff-bceb-222c4bf232da-lg.webp",
+    "https://content.estitor.com/96c6bf90-7197-474b-92c6-5a4d058422b2-lg.webp",
+    "https://content.estitor.com/635c5fd1-dbb2-448c-86d6-e07c6aa4ef7b-lg.webp",
+    "https://content.estitor.com/727e8c03-84ee-4e98-8930-294bc775d803-lg.webp"
+  ],
+  "image_count": 12,
+  "image_status": "ok",
+  "description_original": "Iznajmljujem trosoban stan, dnevni boravak i dvije spavace sobe,sa dvije terase, privatnim parking mjestom i bastom.\nOstvarite svoj san o stanu na moru, probudite se u sredini prirode sa cistim zrakom blizu Titove vile, ali ipak prosetajte i urbanom sredinom u kojoj je Ivo Andric zivio i trazio svoje nadahnuce.\n\nSvoj san da zivite u nekretnini sa pogledom na more mozete ostvariti ovaj put za samo mjesecno i dobijate stan u odlicnom stanju sa novim namjestajem, privatnim terasama, komadom baste, privatnim parkingom te pogledom na more.\nU sparnim ljetnim mjesecima, kao i u jeku sezone u Herceg Novom, u Suscepanu cete naci svoj potpuni mir kao i najsvjeziji zrak, iako ste udaljeni samo 3 km od centra grada i od mora.\n\nOvaj stan vam pruza sve udobnosti nekretnine na moru na pragu EU u kojoj slicne nekretnine iznajmljuju po duploj cijeni. Dva aerodroma se nalaze u blizini, u Dubrovniku i Tivtu.\n\nStan se nalazi na prvom spratu male zgrade u kojoj se nalazi samo 5 stanova, gdje je ulaz u svaki stan odvojen i sa potpunom privatnosti.Ulaz u stan direktno sa parkinga i nema nikakvih stepenica.\n\nUseljenje u stan potrebuje samo vasu putnu torbu jer se sve ostale potrepstine, do najmanjih sitnica nalaze vec u stanu.\n\nPreferiram parove bez djece a kucni ljubmci su zabranjeni.\nIzdavanje na duzi period, minimalno 6 mjeseci.\nSlobodan od 1. 10. 2026. god.\n\nStan ne zahtijeva nikakva dodatna ulaganja.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:50.335318+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.133958+00:00",
+  "source_html_sha256": "e211fd8eedf48bf5bd91bbea38f16121f3ea229c0fdfe5100cb08ee71230f637",
+  "title": "Izdavanje, trosoban stan, 65m², Sušćepan, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-26",
+  "updated_date": "2026-09-15",
+  "price_amount": 600,
+  "price_currency": "EUR",
+  "price_raw": "600 EUR",
+  "area_m2": 65,
+  "rooms": 3,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "A M",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Istok, Zapad",
+  "balconies": 2,
+  "year_built": 2020,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Iznajmljujem trosoban stan, dnevni boravak i dvije spavace sobe,sa dvije terase, privatnim parking mjestom i bastom.Ostvarite svoj san o stanu na moru, probudite se u sredini prirode sa cistim zrakom blizu Titove vile...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!378",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38761224538",
+      "name": "A M",
+      "email": null,
+      "source": "workbook:Outreach list!378"
+    },
+    {
+      "phone_e164": "+38761224538",
+      "name": "A M",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38761224538"
+  ],
+  "phone_e164": "+38761224538",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

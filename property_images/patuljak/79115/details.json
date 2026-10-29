@@ -1,0 +1,126 @@
+{
+  "source": "patuljak",
+  "listing_id": "79115",
+  "listing_url": "https://patuljak.me/oglas/prodajem-zemlljiste-bijelo-polje--79115",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-zemlljiste-bijelo-polje--79115"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 758,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_79115",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "deal_type": "workbook:Outreach list!758:primary_url_fields",
+    "lot_area_m2": "normalization:published_land_area; page:source_attributes"
+  },
+  "source_attributes": {
+    "Grad": "Bijelo Polje",
+    "Naselje": "Ostalo",
+    "Tip žemljišta": "Građevinsko",
+    "Prilaz": "Beton",
+    "Kvadratura": "34279 m2",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79115_0.webp"
+  ],
+  "image_count": 1,
+  "image_status": "ok",
+  "description_original": "Prodajem porodicno imanje sa rusevinom kuce 56 kvadrata u mjestu Sela opstina Bjelo Polje. Imanje se sastoji od sume 8471 m2, pasnjak 5783 m2, livada 12885 m2, njiva 4316m2, vocnjak 2768 m2. Cjena po dogovoru. Kontakt tel: 068-082-010 Moze kompenzacija za kucu ili stan u Baru\nHITNO I Povoljno",
+  "price_on_request": true,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:19:05.102259+00:00",
+  "details_extracted_at": "2026-10-29T19:49:55.312378+00:00",
+  "source_html_sha256": "6222005b9fc8ab08d4b46d82969244c1a2322545b0b484bb6df2ff18ef04c152",
+  "title": "Prodajem zemlljiste Bijelo Polje",
+  "description_language": "en",
+  "price_raw": "Cijena na upit",
+  "advertiser_name": "Davor",
+  "property_type": "land",
+  "city": "Bijelo Polje",
+  "district": "Ostalo",
+  "area_m2": null,
+  "amenities": [],
+  "metadata_summary": "Prodajem porodicno imanje sa rusevinom kuce 56 kvadrata u mjestu Sela opstina Bjelo Polje. Imanje se sastoji od sume 8471 m2, pasnjak 5783 m2, livada 12885 m2, njiva 4316m2, vocnjak 2768 m2. Cjena po dogovoru. Kontakt tel: 068-082-010 Moze kompenzacija za kucu ili stan u BaruHITNO I Povoljno ",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!758",
+      "priority": 70
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267805690",
+      "name": "Davor",
+      "email": null,
+      "source": "workbook:Outreach list!758"
+    }
+  ],
+  "contact_phones": [
+    "+38267805690"
+  ],
+  "phone_e164": "+38267805690",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "deal_type": "sale",
+  "lot_area_m2": 34279,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "price_amount": null,
+  "price_currency": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

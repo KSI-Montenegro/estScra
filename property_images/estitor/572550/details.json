@@ -1,0 +1,160 @@
+{
+  "source": "estitor",
+  "listing_id": "572550",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-572550",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-572550"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 185,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_572550",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Poslovni prostor",
+    "Sprat": "4. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2025",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Ne",
+    "Parking": "Nema parkinga",
+    "Vrsta poslovnog prostora": "Kancelarijski",
+    "Lift": "true",
+    "Klimatizacija": "true"
+  },
+  "quality_flags": [
+    "not_a_home"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/6154b1cd-a66c-4d6c-8cec-6dfc21bbda68-lg.webp",
+    "https://content.estitor.com/b8ae09a2-4ca0-44a6-9581-b372f1767c68-lg.webp",
+    "https://content.estitor.com/9959b9de-dbb2-4c3e-9b86-da99752cd9a5-lg.webp",
+    "https://content.estitor.com/a62e0424-5cb1-4daf-97c2-1a934a1d8d2a-lg.webp",
+    "https://content.estitor.com/6938c326-a177-4322-bfe4-2e6968bc3497-lg.webp",
+    "https://content.estitor.com/d420e924-a957-41cd-83f2-771716f420a6-lg.webp",
+    "https://content.estitor.com/f3b974b7-83ad-4a92-a9e6-6c13194d0579-lg.webp",
+    "https://content.estitor.com/4a96df55-b3ed-4c00-8d82-7b8bcf050f22-lg.webp",
+    "https://content.estitor.com/2278caf7-00f9-4775-967f-087844610d40-lg.webp",
+    "https://content.estitor.com/10ff2206-6124-4d23-8461-32001c2e8e5d-lg.webp",
+    "https://content.estitor.com/6872dbcd-e789-47fe-b53f-e991bfb22e40-lg.webp"
+  ],
+  "image_count": 11,
+  "image_status": "ok",
+  "description_original": "Izdaje se nov jednosoban stan površine 49 m² u jednom od najatraktivnijih poslovno-stambenih kompleksa u Podgorici – Central Point.\nStan je nov, neuseljavan i nalazi se u savremenoj zgradi visokog kvaliteta gradnje. Odlikuju ga funkcionalan raspored, kvalitetna završna obrada, hrastov parket, moderno uređeno kupatilo i terasa sa pogledom na centralni plato kompleksa.\nStan je nenamješten, što budućem zakupcu pruža mogućnost da ga uredi i prilagodi sopstvenim potrebama i djelatnosti.\nZahvaljujući odličnoj lokaciji i frekventnom okruženju, prostor je pogodan za kancelariju, predstavništvo firme, agenciju, salon, ordinaciju ili druge uslužne djelatnosti.\nU neposrednoj blizini nalaze se Big Fashion centar, marketi, restorani, kafići, poslovni objekti i svi sadržaji neophodni za uspješno poslovanje.\nZa dugoročan zakup, po dogovoru.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:25:09.879963+00:00",
+  "details_extracted_at": "2026-10-29T19:50:00.392809+00:00",
+  "source_html_sha256": "cb25a8a9c493e000a9bb3e6f61e82222d664e5f823cf8f2022bb8212e06034a6",
+  "title": "Izdavanje, poslovni prostor, 49m², Central Point, Podgorica",
+  "description_language": "sr-ME",
+  "published_date": "2026-06-23",
+  "updated_date": "2026-09-16",
+  "price_amount": 500,
+  "price_currency": "EUR",
+  "price_raw": "500 EUR",
+  "area_m2": 49,
+  "rooms": 1,
+  "city": "Podgorica",
+  "country": "ME",
+  "advertiser_name": "Slađana I",
+  "deal_type": "rent",
+  "property_type": "commercial",
+  "floor_raw": "4. sprat",
+  "furnishing_raw": "Ne",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Nema parkinga",
+  "balconies": 1,
+  "year_built": 2025,
+  "property_type_raw": "Poslovni prostor",
+  "amenities": [
+    "Lift",
+    "Klimatizacija"
+  ],
+  "metadata_summary": "Izdaje se nov jednosoban stan površine 49 m² u jednom od najatraktivnijih poslovno-stambenih kompleksa u Podgorici – Central Point.Stan je nov, neuseljavan i nalazi se u savremenoj zgradi visokog kvaliteta gradnje. Od...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Not homes!185",
+      "agent_reasons": "not a home (commercial); GRADEN lists homes only"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269241158",
+      "name": "Slađana I",
+      "email": null,
+      "source": "workbook:Not homes!185"
+    },
+    {
+      "phone_e164": "+38269241158",
+      "name": "Slađana I",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38269241158"
+  ],
+  "phone_e164": "+38269241158",
+  "lead_categories": [
+    "Not homes"
+  ],
+  "furnished": false,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": false,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

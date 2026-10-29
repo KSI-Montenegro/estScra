@@ -1,0 +1,151 @@
+{
+  "source": "realitica",
+  "listing_id": "3947346",
+  "listing_url": "https://www.realitica.com/hr/listing/3947346",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947346"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 14,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3947346",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "bedrooms": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Bar",
+    "Lokacija": "Bar Centar",
+    "Adresa": "Bar,bulevar revolucije  c1",
+    "Energetski Razred": "A+",
+    "Cijena": "€140.000",
+    "Godina Gradnje": "2008",
+    "Spavaćih Soba": "1",
+    "Kupatila": "1",
+    "Stambena Površina": "39 m2",
+    "Od Mora (m)": "300",
+    "Klima Uređaj": true,
+    "Oglas Broj": "3947346",
+    "Postavljeno": "19 Oct, 2026",
+    "Zadnja Promjena": "19 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947346_fb_img_1780738647175.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261011_111018.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261014_104849.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_fb_img_1790874821640.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261011_123737.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261014_104903.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261014_104830.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261011_123751.jpg",
+    "https://www.realitica.com/images/listing_photos/3947346_img_20261014_105003.jpg"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Prodajem stan studio 39 m kv kod sportskog centra u Baru\n\nTreci sprat,blizu mora,cetntar\n\nVlasnik",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:43.198240+00:00",
+  "details_extracted_at": "2026-10-29T19:49:50.867401+00:00",
+  "source_html_sha256": "d7d8f388c0cd0b9199c4c1518dc8641b9ae9d246658d93ba82f29214c5411f26",
+  "title": "Prodajem Stan-Apartman, Bar Centar",
+  "description_language": "hr",
+  "city": "Bar",
+  "district": "Bar Centar",
+  "street_address": "Bar,bulevar revolucije  c1",
+  "published_date_raw": "19 Oct, 2026",
+  "updated_date_raw": "19 Oct, 2026",
+  "area_m2": 39,
+  "bathrooms": 1,
+  "bedrooms": 1,
+  "distance_to_sea_m": 300,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€140.000",
+  "price_amount": 140000,
+  "price_currency": "EUR",
+  "amenities": [
+    "Klima Uređaj"
+  ],
+  "metadata_summary": "Prodajem stan studio 39 m kv kod sportskog centra u Baru \nTreci sprat,blizu mora,cetntar \nVlasnik",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!14",
+      "notes": "High - Heuristic: no agency name/website/company no.; has vanity profile",
+      "priority": 100
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267590089",
+      "name": "Irena",
+      "email": null,
+      "source": "workbook:Outreach list!14"
+    }
+  ],
+  "contact_phones": [
+    "+38267590089"
+  ],
+  "phone_e164": "+38267590089",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "parking_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}

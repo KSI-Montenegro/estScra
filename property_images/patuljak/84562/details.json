@@ -1,0 +1,160 @@
+{
+  "source": "patuljak",
+  "listing_id": "84562",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-u-budvi-na-odlicnoj-lokaciji--84562",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-u-budvi-na-odlicnoj-lokaciji--84562"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 54,
+      "column": "second_ad_url"
+    },
+    {
+      "sheet": "Rejected",
+      "row": 67,
+      "column": "url"
+    }
+  ],
+  "property_key": "patuljak_84562",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "heating_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Grad": "Budva",
+    "Naselje": "Velji Vinogradi",
+    "Broj soba": "Garsonjera",
+    "Namješten": "Da",
+    "Sprat": "1",
+    "Kvadratura": "35 m2",
+    "Vrsta grijanja": "Struja",
+    "Godina izgradnje": "Starogradnja",
+    "Kvadratura balkona": "4 m2",
+    "Vrsta poda": "Parket",
+    "Primarna orijentacija": "Jug",
+    "Parking mjesto": "Nema",
+    "Pogled na more": "Nema",
+    "undefined": "http://"
+  },
+  "quality_flags": [
+    "description_mentions_both_sale_and_rent"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84562_8.webp"
+  ],
+  "image_count": 10,
+  "image_status": "ok",
+  "description_original": "Garsonjera u Budvi, u ul.Veljka Vlahovića, na 100m od teniskih terena i 300m od plaže (7 min hoda). Prodavnice, pekare i ostali sadržaji u neposrednoj blizini.Garsonjera je na 1.spratu manje stambene zgrade u mirnom dijelu grada.\nStruktura obuhvata hodnik iz kojeg se pristupa kupatilu i kuhinji. Dnevna soba i trpezarija su prostrane i prozračne ispunjene prorodnom svjetlošću.\nKuhinjska prostorija ima mogućnost adaptacije zida i dodatnog otvaranja prostora ka dnevnoj sobi i trpezarijij, stvarajući moderniji koncept.\nGarsonjera je potpuno opremljena u klasičnom stilu.\nNekretnini npripada i prostrana podrumska ostava od 4 kvadrata sa zasebnim vratima na zaključavanje.\nZgrada ima šifrarnik na ulaznim vratima a javni parking postoji ispred zgrade na ulici kao i iza zgrade.\nSVA DOKUMENTACIJA JE UREDNA, SPREMNA ZA PRODAJU, BEZ TERETA I OGRANIČENJA. Moguća svaka provjera regularnosti.\nProdaje se u izvornom stanju i ima visok potencijal za iznajmljivanje i u sezoni i van sezone kao i za udoban život.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:59.954289+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.102198+00:00",
+  "source_html_sha256": "a3b94ae7c536c230c3fb2753a2143c750ead0bfc9cef4ba5c8ba85d6b8e69afd",
+  "title": "Garsonjera u Budvi na odličnoj lokaciji",
+  "description_language": "en",
+  "price_raw": "105000.00€",
+  "price_amount": 105000,
+  "price_currency": "EUR",
+  "advertiser_name": "mitar",
+  "property_type": "apartment",
+  "city": "Budva",
+  "district": "Velji Vinogradi",
+  "floor_raw": "1",
+  "room_layout_raw": "Garsonjera",
+  "furnishing_raw": "Da",
+  "heating_raw": "Struja",
+  "parking_raw": "Nema",
+  "area_m2": 35,
+  "amenities": [
+    "Namješten"
+  ],
+  "metadata_summary": "Garsonjera u Budvi, u ul.Veljka Vlahovića, na 100m od teniskih terena i 300m od plaže (7 min hoda). Prodavnice, pekare i ostali sadržaji u neposrednoj blizini.Garsonjera je na 1.spratu manje stambene zgrade u mirnom dijelu grada.Struktura obuhvata hodnik iz kojeg se pristupa kupatilu i kuhinji. Dnevna soba i trpezarija su prostrane i prozračne ispunjene prorodnom svjetlošću.Kuhinjska prostorija ima mogućnost adaptacije zida  i dodatnog otvaranja prostora ka dnevnoj sobi i trpezarijij, stvarajući moderniji koncept.Garsonjera je potpuno opremljena u klasičnom stilu.Nekretnini npripada i prostrana podrumska ostava od 4 kvadrata sa zasebnim vratima na zaključavanje.Zgrada ima šifrarnik na ulaznim vratima a javni parking postoji ispred zgrade na ulici kao i iza zgrade.SVA DOKUMENTACIJA JE UREDNA, SPREMNA ZA PRODAJU, BEZ TERETA I OGRANIČENJA. Moguća svaka provjera regularnosti.Prodaje se u izvornom stanju i ima visok potencijal za iznajmljivanje i u sezoni i van sezone kao i za udoban život.",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!54",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267448991",
+      "name": "ALEKSANDAR",
+      "email": null,
+      "source": "workbook:Outreach list!54"
+    }
+  ],
+  "contact_phones": [
+    "+38267448991"
+  ],
+  "phone_e164": "+38267448991",
+  "lead_categories": [
+    "Outreach list",
+    "Rejected"
+  ],
+  "furnished": true,
+  "missing_core_fields": [
+    "deal_type"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "bathrooms",
+    "year_built",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "condition_raw": null,
+  "parking_spaces": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

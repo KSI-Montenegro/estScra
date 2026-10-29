@@ -1,0 +1,131 @@
+{
+  "source": "patuljak",
+  "listing_id": "74365",
+  "listing_url": "https://patuljak.me/oglas/kupujem-trosoban-stan-centar-blok-preko-morace--74365",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-trosoban-stan-centar-blok-preko-morace--74365"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 527,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "patuljak_74365",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:Detaljan opis",
+    "description_language": "page:html.lang",
+    "price_raw": "page:itemprop.price",
+    "price_amount": "page:itemprop.price",
+    "price_currency": "page:itemprop.price",
+    "advertiser_name": "page:seller.name",
+    "property_type": "page:property_category_breadcrumb",
+    "city": "page:source_attributes",
+    "district": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "room_layout_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout"
+  },
+  "source_attributes": {
+    "Grad": "Podgorica",
+    "Naselje": "Preko Morače",
+    "Broj soba": "Trosoban",
+    "Namješten": "Polunamješten",
+    "Sprat": "2",
+    "Parking mjesto": "1",
+    "Stambena kvadratura": "100 m2"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [],
+  "image_count": 0,
+  "image_status": "no_gallery_images",
+  "description_original": "Kupujemo trosoban stan\n\nBlok, Centar, Preko Morace\n\nObavezna garaza u zgradi ili pored zgrade.\n\nKvadratura 100-130 m2\n\nCijena po dogovoru.\n\nSaljite ponude na: 069317992 (viber/whatsapp)",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:27:16.956378+00:00",
+  "details_extracted_at": "2026-10-29T19:49:53.969957+00:00",
+  "source_html_sha256": "13221fdc94c9d35b2078e350e8d4067c0f96d631534ab3f8dc89fc5b6a7e7fae",
+  "title": "Kupujem trosoban stan - Centar, Blok, Preko Morace",
+  "description_language": "en",
+  "price_raw": "230000.00€",
+  "price_amount": 230000,
+  "price_currency": "EUR",
+  "advertiser_name": "Jovan",
+  "property_type": "apartment",
+  "city": "Podgorica",
+  "district": "Preko Morače",
+  "floor_raw": "2",
+  "room_layout_raw": "Trosoban",
+  "furnishing_raw": "Polunamješten",
+  "parking_raw": "1",
+  "area_m2": 100,
+  "parking_spaces": 1,
+  "amenities": [],
+  "metadata_summary": "Kupujemo trosoban stan Blok, Centar, Preko MoraceObavezna garaza u zgradi ili pored zgrade. Kvadratura 100-130 m2 Cijena po dogovoru. Saljite ponude na: 069317992 (viber/whatsapp)",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!527",
+      "priority": 75
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38269317992",
+      "name": "Jovan",
+      "email": null,
+      "source": "workbook:Outreach list!527"
+    }
+  ],
+  "contact_phones": [
+    "+38269317992"
+  ],
+  "phone_e164": "+38269317992",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 3,
+  "missing_core_fields": [
+    "deal_type",
+    "images"
+  ],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "bathrooms",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": false,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "deal_type": null,
+  "rental_period": null,
+  "street_address": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bathrooms": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

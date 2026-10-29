@@ -1,0 +1,178 @@
+{
+  "source": "estitor",
+  "listing_id": "616362",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-616362",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-616362"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 316,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_616362",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "street_address": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "year_built": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Godina izgradnje": "2023",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Ispred objekta",
+    "Grijanje podno": "true",
+    "Lift": "true",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Novogradnja": "true",
+    "Lux": "true"
+  },
+  "quality_flags": [
+    "zero_price_requires_confirmation"
+  ],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/cf30d003-bba1-44c2-bda1-a894e1a16ba6-lg.webp",
+    "https://content.estitor.com/90c26544-fbdb-4d9e-8b1d-a1a1f494bf35-lg.webp",
+    "https://content.estitor.com/fc0e6f31-60d6-4d25-b119-c1cfd6dc2daa-lg.webp",
+    "https://content.estitor.com/1e7bfb0d-8de3-4f3c-b203-7ae8df3d61ae-lg.webp",
+    "https://content.estitor.com/a980593f-5f05-4d4b-a262-5927c72c653c-lg.webp",
+    "https://content.estitor.com/9db53827-386d-4544-bba0-cb9df772498c-lg.webp",
+    "https://content.estitor.com/01ae12c5-31e8-4491-9aaa-4edfa6a5ce5a-lg.webp",
+    "https://content.estitor.com/e1411c96-902a-4ab0-8c81-2e2e6cca1d26-lg.webp",
+    "https://content.estitor.com/2e081c85-fbf1-4b52-bd2e-18d7307ea208-lg.webp"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Luštice Bay-a, u Centrale, sa velikom terasom okruzenom bastom od ruzmarina sa svih strana, na prestižnom trgu Piazza. Smješten u mirnom okruženju novogradnje, ovaj luksuzni studio pruža savršen spoj elegancije i udobnosti, idealan za moderan život na crnogorskom primorju.\nOvaj prostrani studio od 37.5 m² je kompletno opremljen modernim namještajem i svim neophodnim uređajima, spreman za useljenje.\nSastoji se od funkcionalno dizajniranog predsoblja/hodnika, kuhinje sa trpezarijskim dijelom, udobnog dnevnog prostora, te elegantnog kupatila.\n\nTrosed se lako razvlaci u udoban krevet duzine 230cm, 155cm sirine.\nStan nudi brojne pogodnosti koje doprinose visokom kvalitetu življenja, uključujući podno grejanje, klimatizaciju, brzi internet i kablovsku televiziju. U zgradi je dostupan lift, a obezbijeđen je i parking ispred objekta za Vašu maksimalnu udobnost.\nIspod zgrade se nalazi City supermarket, veliki broj restorana j kafe, pored ulaza u zgradu je teretana, stan ima besplatan pristup Open Gym-u, takodje parking mesto u okviru kompleksa.\nUživajte u luksuznom životu u jednoj od najpoželjnijih lokacija. Stan se izdaje do juna.",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:19.590468+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.757432+00:00",
+  "source_html_sha256": "5f23e44d0479eff8ed91c5a36ed0040415b7522e9b23685c61735439f70444cd",
+  "title": "Izdavanje, garsonjera, 37m², Luštica Bay, Tivat",
+  "description_language": "sr-ME",
+  "published_date": "2026-09-14",
+  "updated_date": "2026-10-25",
+  "price_amount": 0,
+  "price_currency": "EUR",
+  "price_raw": "0 EUR",
+  "area_m2": 37,
+  "bathrooms": 1,
+  "city": "Tivat",
+  "street_address": "Radovići I, Radovići, Montenegro",
+  "country": "ME",
+  "advertiser_name": "Ms .",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Ispred objekta",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "year_built": 2023,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Grijanje podno",
+    "Lift",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Novogradnja",
+    "Lux"
+  ],
+  "metadata_summary": "Predstavljamo Vam izuzetan stan za izdavanje u srcu Luštice Bay-a, u Centrale, sa velikom terasom okruzenom bastom od ruzmarina sa svih strana, na prestižnom trgu Piazza. Smješten u mirnom okruženju novogradnje, ovaj ...",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!316",
+      "priority": 80,
+      "foreign_number": "yes"
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+381649268762",
+      "name": "Miodrag -",
+      "email": null,
+      "source": "workbook:Outreach list!316"
+    },
+    {
+      "phone_e164": "+381649268762",
+      "name": "Miodrag -",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+381649268762"
+  ],
+  "phone_e164": "+381649268762",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "building_floors_raw": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

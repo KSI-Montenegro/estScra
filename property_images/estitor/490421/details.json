@@ -1,0 +1,168 @@
+{
+  "source": "estitor",
+  "listing_id": "490421",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-490421",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-490421"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 288,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "estitor_490421",
+  "field_sources": {
+    "title": "page:h1",
+    "description_original": "page:description_section",
+    "description_language": "page:language",
+    "published_date": "page:structured_data",
+    "updated_date": "page:structured_data",
+    "price_amount": "page:Offer.price",
+    "price_currency": "page:Offer.priceCurrency",
+    "price_raw": "page:Offer",
+    "area_m2": "page:floorSize",
+    "rooms": "page:numberOfRooms",
+    "bathrooms": "page:numberOfBathroomsTotal",
+    "city": "page:PostalAddress",
+    "country": "page:PostalAddress",
+    "advertiser_name": "page:Offer.seller",
+    "deal_type": "page:breadcrumbs",
+    "property_type": "page:source_attributes",
+    "floor_raw": "page:source_attributes",
+    "furnishing_raw": "page:source_attributes",
+    "condition_raw": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "orientation_raw": "page:source_attributes",
+    "balconies": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates",
+    "bedrooms": "normalization:explicit_local_room_layout",
+    "furnished": "normalization:published_furnishing_value"
+  },
+  "source_attributes": {
+    "Tip nekretnine": "Stan",
+    "Sprat": "1. sprat",
+    "Broj terasa": "1",
+    "Stanje": "Odlično stanje",
+    "Opremljen": "Da",
+    "Orijentacija": "Jug",
+    "Parking": "Javni parking",
+    "Klimatizacija": "true",
+    "Internet": "true",
+    "Kablovska": "true",
+    "Predsoblje": "true",
+    "Kuhinja": "true",
+    "Hodnik": "true",
+    "Trpezarija": "true",
+    "Starogradnja": "true"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://content.estitor.com/f4bda5e4-a526-4d81-a16a-b1d19033e3c6-lg.webp",
+    "https://content.estitor.com/bce0688c-ae4c-4906-97e8-1498fb808a47-lg.webp",
+    "https://content.estitor.com/2cf2683d-d0d9-4cb3-9ff5-f2d2114a2a51-lg.webp",
+    "https://content.estitor.com/d45dc5fb-d674-4061-9bfb-5e57a0ab5e76-lg.webp",
+    "https://content.estitor.com/56d530fa-db9f-4ec4-b0f5-0fa2befe6583-lg.webp",
+    "https://content.estitor.com/197c9815-813c-4b21-87e4-1a769400db42-lg.webp",
+    "https://content.estitor.com/18862f90-ee18-4d96-b44c-9102477fe256-lg.webp",
+    "https://content.estitor.com/35a047f6-88a7-43cb-a8eb-43504a701b3c-lg.webp"
+  ],
+  "image_count": 8,
+  "image_status": "ok",
+  "description_original": "Osunčan, Pogled na more, Renoviran stan u Kumboru neposredna blizina kompleksa Portonovi, odlican wifi, poseduje radni sto I stolicu, komplet opremljena kuhinja, slobodan je za izdavanje od 1.novembra",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:15:05.435873+00:00",
+  "details_extracted_at": "2026-10-29T19:49:52.596361+00:00",
+  "source_html_sha256": "817d514cceb441e9542397033029ca3bc331ef5ca1cafa482f3947aa4309911b",
+  "title": "Izdavanje, dvosoban stan, 60m², Kumbor, Herceg Novi",
+  "description_language": "sr-ME",
+  "published_date": "2025-11-08",
+  "updated_date": "2026-10-29",
+  "price_amount": 550,
+  "price_currency": "EUR",
+  "price_raw": "550 EUR",
+  "area_m2": 60,
+  "rooms": 2,
+  "bathrooms": 1,
+  "city": "Herceg Novi",
+  "country": "ME",
+  "advertiser_name": "Spomenka Milivojevic",
+  "deal_type": "rent",
+  "property_type": "apartment",
+  "floor_raw": "1. sprat",
+  "furnishing_raw": "Da",
+  "condition_raw": "Odlično stanje",
+  "parking_raw": "Javni parking",
+  "orientation_raw": "Jug",
+  "balconies": 1,
+  "property_type_raw": "Stan",
+  "amenities": [
+    "Opremljen",
+    "Klimatizacija",
+    "Internet",
+    "Kablovska",
+    "Predsoblje",
+    "Kuhinja",
+    "Hodnik",
+    "Trpezarija",
+    "Starogradnja"
+  ],
+  "metadata_summary": "Osunčan, Pogled na more, Renoviran stan u Kumboru neposredna blizina kompleksa Portonovi, odlican wifi, poseduje radni sto I stolicu, komplet opremljena kuhinja, slobodan je za izdavanje od 1.novembra",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!288",
+      "priority": 80
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38268342237",
+      "name": "Spomenka Milivojevic",
+      "email": null,
+      "source": "workbook:Outreach list!288"
+    },
+    {
+      "phone_e164": "+38268342237",
+      "name": "Spomenka Milivojevic",
+      "source": "previous_verified_phone_csv_2026-10-25"
+    }
+  ],
+  "contact_phones": [
+    "+38268342237"
+  ],
+  "phone_e164": "+38268342237",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "bedrooms": 2,
+  "furnished": true,
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "street_address",
+    "latitude",
+    "longitude",
+    "year_built",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "street_address": null,
+  "lot_area_m2": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "heating_raw": null,
+  "parking_spaces": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date_raw": null,
+  "updated_date_raw": null
+}

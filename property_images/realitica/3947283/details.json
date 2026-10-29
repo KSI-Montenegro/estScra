@@ -1,0 +1,148 @@
+{
+  "source": "realitica",
+  "listing_id": "3947283",
+  "listing_url": "https://www.realitica.com/hr/listing/3947283",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947283"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 54,
+      "column": "ad_url"
+    }
+  ],
+  "property_key": "realitica_3947283",
+  "field_sources": {
+    "title": "page:listing_body.h2",
+    "description_original": "page:listing_body.Opis",
+    "description_language": "page:html.lang_or_url",
+    "city": "page:source_attributes",
+    "street_address": "page:source_attributes",
+    "parking_raw": "page:source_attributes",
+    "published_date_raw": "page:source_attributes",
+    "updated_date_raw": "page:source_attributes",
+    "area_m2": "page:source_attributes",
+    "bathrooms": "page:source_attributes",
+    "parking_spaces": "page:source_attributes",
+    "distance_to_sea_m": "page:source_attributes",
+    "property_type_raw": "page:source_attributes",
+    "property_type": "page:source_attributes",
+    "deal_type": "page:source_attributes",
+    "price_raw": "page:source_attributes",
+    "price_amount": "page:source_attributes",
+    "price_currency": "page:source_attributes",
+    "metadata_summary": "page:meta_description_summary_only",
+    "phone_e164": "provided_contacts:see_contact_candidates"
+  },
+  "source_attributes": {
+    "Vrsta": "Prodajem Stan-Apartman",
+    "Područje": "Budva",
+    "Adresa": "veljka vlahovića, Budva",
+    "Energetski Razred": "A",
+    "Cijena": "€105.000",
+    "Godina Gradnje": "1975",
+    "Kupatila": "1",
+    "Stambena Površina": "35 m2",
+    "Parking Mjesta": "1",
+    "Od Mora (m)": "300",
+    "Oglas Broj": "3947283",
+    "Postavljeno": "19 Oct, 2026",
+    "Zadnja Promjena": "19 Oct, 2026"
+  },
+  "quality_flags": [],
+  "workbook_conflicts": [],
+  "image_urls": [
+    "https://www.realitica.com/images/listing_photos/3947283_20261019_095633.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_091802.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085854.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085541.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085958.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090309.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090330.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090131.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090204.jpg"
+  ],
+  "image_count": 9,
+  "image_status": "ok",
+  "description_original": "Garsonjera 35 m2 na izuzetnoj lokaciji u Budvi, na 100m od teniskih terena, na 300m od plaže\n\nU blizini prodavnica, pekara, restorana i sportskih terena. plaža na 7 minuta pješke.\n\nNa prvom spratu kvalitetno građene zgrade koja se nalazi u mirnoj ulici bez buke.\n\nGarsonjera ima visok potencijal za iznajmljivanje, kao u sezoni tako i van sezone. Takođe, odlična je opcija za život. Potpuno namještena klasičnim namještajem.\n\nStruktura: Iz hodnika se desno ulazi u kupatilo a lijevo u kuhinju, hodnik i prostrana dnevna soba sa trpezarijom. Odvojeni kuhinjski prostor ima vrata ka trpezariji a kuhinjski zid je moguće srušiti i dodatno otvoriti prostor.\n\nTerasa 4 m2 sa pogledom na mirno dvorište. Stan je prozračan i ima dosta svjetlosti.\n\nVeliki podrumski prostor od 4kvadrata sa zasebnim vratima.\n\nSvi papiri spremni za prodaju. Bez terete i ograničenja. Moguća svaka provjera regularnosti.\n\nGarsonjera je u izvornom stanju u kojem je decenijama živjela starija osoba.\n\nCijena je 105.000 EUR",
+  "price_on_request": false,
+  "source_page_available": true,
+  "source_page_captured_at": "2026-10-29T19:12:59.785295+00:00",
+  "details_extracted_at": "2026-10-29T19:49:51.097802+00:00",
+  "source_html_sha256": "ab17044832630f7dc12ba16883feecce622140bb100781e8169edfbcc9e10ad2",
+  "title": "Prodajem Stan-Apartman, Budva",
+  "description_language": "hr",
+  "city": "Budva",
+  "street_address": "veljka vlahovića, Budva",
+  "parking_raw": "1",
+  "published_date_raw": "19 Oct, 2026",
+  "updated_date_raw": "19 Oct, 2026",
+  "area_m2": 35,
+  "bathrooms": 1,
+  "parking_spaces": 1,
+  "distance_to_sea_m": 300,
+  "property_type_raw": "Prodajem Stan-Apartman",
+  "property_type": "apartment",
+  "deal_type": "sale",
+  "price_raw": "€105.000",
+  "price_amount": 105000,
+  "price_currency": "EUR",
+  "amenities": [],
+  "metadata_summary": "Garsonjera 35 m2 na izuzetnoj lokaciji u Budvi, na 100m od teniskih terena, na 300m od plaže\n\nU blizini prodavnica, pekara, restorana i sportskih terena.  plaža na 7 minuta pješke.\n\nNa prvom spratu kvalitetno građene zgrade koja se nalazi u mirnoj ulici bez buke.\n\n Garsonjera ima visok potencijal za iznajmljivanje, kao u sezoni tako i van sezone. Takođe, odlična je opcija za život. Potpuno namještena klasičnim namještajem.\n\nStruktura: Iz hodnika se desno ulazi u kupatilo a lijevo u kuhinju, hodnik i prostrana dnevna soba sa trpezarijom. Odvojeni kuhinjski prostor ima vrata ka trpezariji a kuhinjski  zid je moguće srušiti i dodatno otvoriti prostor.\n\nTerasa 4 m2 sa pogledom na mirno dvorište. Stan je prozračan i ima dosta svjetlosti.\n\nVeliki podrumski prostor od 4kvadrata sa zas",
+  "workbook_annotations": [
+    {
+      "source": "workbook:Outreach list!54",
+      "notes": "High - Heuristic: no agency name/website/company no.",
+      "priority": 90
+    }
+  ],
+  "contact_candidates": [
+    {
+      "phone_e164": "+38267448991",
+      "name": "ALEKSANDAR",
+      "email": null,
+      "source": "workbook:Outreach list!54"
+    }
+  ],
+  "contact_phones": [
+    "+38267448991"
+  ],
+  "phone_e164": "+38267448991",
+  "lead_categories": [
+    "Outreach list"
+  ],
+  "missing_core_fields": [],
+  "optional_fields_not_published": [
+    "latitude",
+    "longitude",
+    "bedrooms",
+    "year_built",
+    "floor_raw",
+    "furnishing_raw",
+    "heating_raw",
+    "rental_period"
+  ],
+  "core_fields_complete": true,
+  "graden_outreach_candidate": true,
+  "description_status": "extracted",
+  "rental_period": null,
+  "district": null,
+  "country": null,
+  "lot_area_m2": null,
+  "rooms": null,
+  "bedrooms": null,
+  "floor_raw": null,
+  "building_floors_raw": null,
+  "year_built": null,
+  "furnishing_raw": null,
+  "heating_raw": null,
+  "condition_raw": null,
+  "balconies": null,
+  "orientation_raw": null,
+  "latitude": null,
+  "longitude": null,
+  "published_date": null,
+  "updated_date": null,
+  "advertiser_name": null
+}
