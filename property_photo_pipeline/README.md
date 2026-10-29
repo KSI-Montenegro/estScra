@@ -8,6 +8,16 @@ Install Pillow with WebP support for preparation and audit; install boto3 for ac
 python -m pip install -r property_photo_pipeline/requirements.txt
 ```
 
+## Free preparation while removal is deferred
+
+`stage_cached.py` can follow the full OCR scan and provisionally encode the downloaded originals locally. This costs no hosted OCR or editing API calls. It preserves any existing watermark and retains the OCR status; every result stays `publishable=false` pending a verified policy or successful removal QC. Files live under `staging/unverified/properties/<source>/<listing_id>/` and cannot be passed directly to the upload worker as a cleared manifest. Original bytes are unchanged. A watermarked photo must be removed and re-encoded later; an encoding from this stage does not substitute for that work.
+
+```sh
+python property_photo_pipeline/stage_cached.py --watch
+```
+
+Run OCR first. The staging worker follows its checkpoint, verifies the exact source hash, uses a bounded worker queue and reuses existing encodings on restart after verifying their hashes. `staging/progress.json` reports live counts; `summary.json` and `staging_inventory.csv` are written when it finishes. Without `--watch`, it processes the currently available checkpoint and exits. Unknown or unavailable photos remain flagged. Output files are private local work files and excluded from Git.
+
 Create a clearance CSV and, if using files outside the downloader cache, a local mapping CSV:
 
 * A local mapping CSV with columns `image_url,local_path`. `image_url` must match the URL in `property_images/all_image_urls.csv` exactly; each URL must occur once in the mapping. Paths can be absolute or relative to the mapping CSV. Originals are read only.
@@ -31,7 +41,7 @@ The last command is a dry run and requires no credentials. `prepare` emits `mani
 
 EXIF orientation is applied, metadata is stripped, and the image is encoded as WebP without upscaling. By default the target is 300,000 bytes, the hard maximum is 400,000 bytes, and the minimum encoding quality is 75. When the original dimensions fit the hard maximum, they are preserved even if the target cannot be reached. Otherwise the image is progressively resized until it fits; an image is skipped if the hard limit cannot be met at the quality floor. Adjust `--target-bytes`, `--max-bytes`, and `--quality-floor` for a specific run. WebP versions or optimization settings can produce different bytes for the same original; an existing key with different content is treated as a conflict, never silently overwritten.
 
-For an authorized upload, set `R2_ENDPOINT_URL`, `R2_BUCKET_NAME`, `R2_ACCESS_KEY_ID`, and `R2_SECRET_ACCESS_KEY` in the environment, then add `--execute` to the upload command. Do not place credentials in CSVs or command arguments. The tool rechecks all original hashes, clearance records and prepared hashes before uploading; it also rechecks each file immediately before its upload. It sets `Content-Type: image/webp`, immutable cache headers, and SHA-256 object metadata. Existing objects are skipped only when HEAD returns the expected SHA-256 metadata and byte count; a different object fails the run. Object creation is conditional so an object appearing after HEAD is not overwritten. The operation retries transient SDK errors and can be resumed. R2 bucket access and public delivery are configured separately; no ACL or public access is assumed. Optionally set `R2_PUBLIC_BASE_URL` or pass `--public-base-url` to print public URLs; use the public delivery URL, not the S3 endpoint.
+For an authorized upload, set `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` securely in the environment, then add `--execute` to the upload command. Nonsecret project settings in `r2_config.json` already specify the owner's endpoint, bucket and public delivery URL; `R2_ENDPOINT_URL`, `R2_BUCKET_NAME` and `R2_PUBLIC_BASE_URL` can override those defaults. Do not place credentials in CSVs or command arguments. The tool rechecks all original hashes, clearance records and prepared hashes before uploading; it also rechecks each file immediately before its upload. It sets `Content-Type: image/webp`, immutable cache headers, and SHA-256 object metadata. Existing objects are skipped only when HEAD returns the expected SHA-256 metadata and byte count; a different object fails the run. Object creation is conditional so an object appearing after HEAD is not overwritten. The operation retries transient SDK errors and can be resumed. R2 bucket access and public delivery are configured separately; no ACL or public access is assumed. Pass `--public-base-url` to override the delivery URL for a run.
 
 Run the local fixture tests with `python -m unittest discover -s property_photo_pipeline -v`. The tests use generated images and do not contact R2.
 
@@ -41,8 +51,10 @@ Uploads require permission to list the bucket. Before writing anything, the tool
 export R2_ENDPOINT_URL=https://56293bcae8874b5edecb11807ee67359.r2.cloudflarestorage.com
 export R2_BUCKET_NAME=graden-property-photos
 # Supply R2_ACCESS_KEY_ID and R2_SECRET_ACCESS_KEY securely in your environment.
-# Set R2_PUBLIC_BASE_URL only when a public delivery hostname is configured.
+export R2_PUBLIC_BASE_URL=https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev
 ```
+
+The public base URL was supplied by the bucket owner; object delivery will be verified after the first authorized upload. The worker reads credentials from process environment variables, not the example file. Credentials added to environment settings must be applied to the running workspace before an upload can use them.
 
 A completed upload produces `published.csv` and per-property `published.json` records. Public URLs are blank when no public base URL is configured.
 

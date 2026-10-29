@@ -16,6 +16,13 @@ from PIL import Image, ImageOps
 CACHE_CONTROL = 'public, max-age=31536000, immutable'
 
 
+def r2_settings():
+    config = json.loads(Path(__file__).with_name('r2_config.json').read_text())
+    return {key: os.environ.get(env) or config[key] for key, env in (
+        ('endpoint_url', 'R2_ENDPOINT_URL'), ('bucket_name', 'R2_BUCKET_NAME'),
+        ('public_base_url', 'R2_PUBLIC_BASE_URL'))}
+
+
 def sha(data):
     return hashlib.sha256(data).hexdigest()
 
@@ -196,13 +203,15 @@ def upload(args):
         return 0
     import boto3
     from botocore.exceptions import BotoCoreError, ClientError
-    names = ['R2_ENDPOINT_URL', 'R2_BUCKET_NAME', 'R2_ACCESS_KEY_ID', 'R2_SECRET_ACCESS_KEY']
+    names = ['R2_ACCESS_KEY_ID', 'R2_SECRET_ACCESS_KEY']
     if not all(os.environ.get(n) for n in names):
         raise ValueError('Set all required R2 environment variables')
-    client = boto3.client('s3', endpoint_url=os.environ['R2_ENDPOINT_URL'],
+    settings = r2_settings()
+    public_base_url = args.public_base_url if args.public_base_url is not None else settings['public_base_url']
+    client = boto3.client('s3', endpoint_url=settings['endpoint_url'],
                           aws_access_key_id=os.environ['R2_ACCESS_KEY_ID'],
                           aws_secret_access_key=os.environ['R2_SECRET_ACCESS_KEY'], region_name='auto')
-    bucket = os.environ['R2_BUCKET_NAME']
+    bucket = settings['bucket_name']
     if args.budget_bytes < 0:
         raise ValueError('Budget must be nonnegative')
     used = 0
@@ -251,7 +260,7 @@ def upload(args):
                     raise
                 time.sleep(2 ** attempt)
         print('Uploaded or already present: ' + entry['key'])
-        url = args.public_base_url.rstrip('/') + '/' + quote(entry['key'], safe='/') if args.public_base_url else ''
+        url = public_base_url.rstrip('/') + '/' + quote(entry['key'], safe='/') if public_base_url else ''
         if url:
             print(url)
         published.append({'property_key': entry['property_key'], 'image_number': entry['image_number'],
@@ -290,7 +299,7 @@ def main():
     p.add_argument('--clearances', required=True)
     p.add_argument('--execute', action='store_true')
     p.add_argument('--budget-bytes', type=int, default=8_000_000_000, help='Maximum total bucket bytes (default 8 GB)')
-    p.add_argument('--public-base-url', default=os.environ.get('R2_PUBLIC_BASE_URL', ''))
+    p.add_argument('--public-base-url', default=None)
     args = parser.parse_args()
     try:
         if args.command == 'prepare':
