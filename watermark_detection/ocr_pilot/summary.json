@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-10-29T20:34:44.453776+00:00",
+  "tesseract_version": "tesseract 5.5.0",
+  "method": "local_Tesseract_LSTM_OCR; no paid vision API",
+  "ocr_uses_recognition_models": true,
+  "manifest_images": 14522,
+  "selected_images": 60,
+  "full_manifest_scan": false,
+  "statuses": {
+    "known_brand_text_candidate": 4,
+    "other_text_detected": 39,
+    "no_text_detected": 17
+  },
+  "known_brands": [
+    "patuljak",
+    "estitor",
+    "realitica"
+  ],
+  "hosted_ocr_calls": 0,
+  "image_editing_calls": 0,
+  "images_automatically_approved_for_edit": 0,
+  "word_box_coordinates": "EXIF-oriented original pixels",
+  "interpretation": "known_brand_text_candidate is a text finding, not a verified watermark; no_text_detected does not mean clean",
+  "real_image_accuracy_measured": false
+}

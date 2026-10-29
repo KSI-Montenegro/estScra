@@ -1,5 +1,7 @@
 # Non-AI watermark detector
 
+For the new URL-based local OCR stage and the proposed unattended removal workflow, see [FULL_PIPELINE.md](FULL_PIPELINE.md). OCR uses a local trained recognition model; the original classical detector described below remains non-AI.
+
 A runnable classical-computer-vision script for the property image URLs already collected in this repository. No neural networks, image-analysis services, OCR, model weights, embeddings, or Bright Data API calls are used.
 
 ## What it can detect
