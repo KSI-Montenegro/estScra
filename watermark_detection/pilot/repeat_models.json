@@ -1,0 +1,352 @@
+[
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "bottom_right",
+    "box": [
+      420,
+      381,
+      635,
+      480
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 7729,
+    "mask_file": "repeat_masks/patuljak_1.3_0.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "center",
+    "box": [
+      306,
+      216,
+      398,
+      286
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 976,
+    "mask_file": "repeat_masks/patuljak_1.3_1.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "center",
+    "box": [
+      272,
+      225,
+      306,
+      244
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 50,
+    "mask_file": "repeat_masks/patuljak_1.3_2.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "center",
+    "box": [
+      265,
+      245,
+      285,
+      273
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 63,
+    "mask_file": "repeat_masks/patuljak_1.3_3.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "center",
+    "box": [
+      423,
+      246,
+      451,
+      281
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 113,
+    "mask_file": "repeat_masks/patuljak_1.3_4.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "1.3",
+    "region": "center",
+    "box": [
+      400,
+      275,
+      428,
+      299
+    ],
+    "support_properties": 9,
+    "stable_edge_pixels": 63,
+    "mask_file": "repeat_masks/patuljak_1.3_5.png"
+  },
+  {
+    "source": "estitor",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      262,
+      260,
+      329,
+      285
+    ],
+    "support_properties": 7,
+    "stable_edge_pixels": 203,
+    "mask_file": "repeat_masks/estitor_0.8_0.png"
+  },
+  {
+    "source": "estitor",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      345,
+      278,
+      392,
+      327
+    ],
+    "support_properties": 7,
+    "stable_edge_pixels": 214,
+    "mask_file": "repeat_masks/estitor_0.8_1.png"
+  },
+  {
+    "source": "estitor",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      457,
+      297,
+      480,
+      315
+    ],
+    "support_properties": 7,
+    "stable_edge_pixels": 75,
+    "mask_file": "repeat_masks/estitor_0.8_2.png"
+  },
+  {
+    "source": "estitor",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      275,
+      298,
+      311,
+      326
+    ],
+    "support_properties": 7,
+    "stable_edge_pixels": 128,
+    "mask_file": "repeat_masks/estitor_0.8_3.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "bottom_left",
+    "box": [
+      173,
+      429,
+      220,
+      470
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 570,
+    "mask_file": "repeat_masks/patuljak_0.8_0.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "bottom_left",
+    "box": [
+      124,
+      449,
+      154,
+      467
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 123,
+    "mask_file": "repeat_masks/patuljak_0.8_1.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "bottom_right",
+    "box": [
+      420,
+      360,
+      448,
+      370
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 60,
+    "mask_file": "repeat_masks/patuljak_0.8_2.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "bottom_right",
+    "box": [
+      420,
+      373,
+      629,
+      480
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 6225,
+    "mask_file": "repeat_masks/patuljak_0.8_3.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      204,
+      198,
+      292,
+      231
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 281,
+    "mask_file": "repeat_masks/patuljak_0.8_4.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      335,
+      201,
+      358,
+      240
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 115,
+    "mask_file": "repeat_masks/patuljak_0.8_5.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      312,
+      202,
+      334,
+      224
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 85,
+    "mask_file": "repeat_masks/patuljak_0.8_6.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      267,
+      224,
+      297,
+      252
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 111,
+    "mask_file": "repeat_masks/patuljak_0.8_7.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      160,
+      230,
+      310,
+      339
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 2184,
+    "mask_file": "repeat_masks/patuljak_0.8_8.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      305,
+      283,
+      462,
+      340
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 1605,
+    "mask_file": "repeat_masks/patuljak_0.8_9.png"
+  },
+  {
+    "source": "patuljak",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      210,
+      310,
+      236,
+      328
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 54,
+    "mask_file": "repeat_masks/patuljak_0.8_10.png"
+  },
+  {
+    "source": "realitica",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      236,
+      204,
+      260,
+      225
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 74,
+    "mask_file": "repeat_masks/realitica_0.8_0.png"
+  },
+  {
+    "source": "realitica",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      268,
+      218,
+      289,
+      236
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 67,
+    "mask_file": "repeat_masks/realitica_0.8_1.png"
+  },
+  {
+    "source": "realitica",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      426,
+      229,
+      447,
+      241
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 58,
+    "mask_file": "repeat_masks/realitica_0.8_2.png"
+  },
+  {
+    "source": "realitica",
+    "aspect_bucket": "0.8",
+    "region": "center",
+    "box": [
+      160,
+      321,
+      216,
+      340
+    ],
+    "support_properties": 6,
+    "stable_edge_pixels": 301,
+    "mask_file": "repeat_masks/realitica_0.8_3.png"
+  }
+]

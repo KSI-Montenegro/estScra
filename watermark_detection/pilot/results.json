@@ -1,0 +1,3070 @@
+[
+  {
+    "property_key": "patuljak_82084",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/82084_5.webp",
+    "source": "patuljak",
+    "image_id": "39b58f2434cf757cbad65ab7",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 497385354462614223,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.914061+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9981,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          265,
+          245,
+          285,
+          273
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9365,
+        "box_normalized_640x480": [
+          265,
+          245,
+          285,
+          273
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          423,
+          246,
+          451,
+          281
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 113,
+        "score": 0.9823,
+        "box_normalized_640x480": [
+          423,
+          246,
+          451,
+          281
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9683,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/39b58f2434cf757cbad65ab7.jpg"
+  },
+  {
+    "property_key": "realitica_3949789",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3949789_photo_3_2026-10-22_13-31-57.jpg",
+    "source": "realitica",
+    "image_id": "f81d35f9d19d063bbea0ce45",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.8",
+    "width": 1280,
+    "height": 720,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 3530623152799241237,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.913239+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_629345",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/1dd283f1-3d5e-4ca3-b2f4-fef96fde8541-lg.webp",
+    "source": "estitor",
+    "image_id": "2df37fef4fa48b15e398e3ce",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 9045205217499295869,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.934921+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          457,
+          297,
+          480,
+          315
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 75,
+        "score": 0.9733,
+        "box_normalized_640x480": [
+          457,
+          297,
+          480,
+          315
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9733,
+    "evidence_file": "evidence/2df37fef4fa48b15e398e3ce.jpg"
+  },
+  {
+    "property_key": "patuljak_81416",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_3.webp",
+    "source": "patuljak",
+    "image_id": "acdee8f2863b7718e7f389ae",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.0",
+    "width": 508,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 6898234807124310021,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.921657+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "realitica_3948822",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3948822_20261020_135518rr.jpg",
+    "source": "realitica",
+    "image_id": "d86211182b18abffbff69fab",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.8",
+    "width": 840,
+    "height": 472,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 7316999076534373481,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.924212+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_633965",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/402a5747-46d5-42ec-a565-ad0168c75e83-lg.webp",
+    "source": "estitor",
+    "image_id": "35bb94291d885f6f86621cdb",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 5276475376455989263,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.945768+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          262,
+          260,
+          329,
+          285
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 203,
+        "score": 0.9606,
+        "box_normalized_640x480": [
+          262,
+          260,
+          329,
+          285
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          345,
+          278,
+          392,
+          327
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 214,
+        "score": 0.972,
+        "box_normalized_640x480": [
+          345,
+          278,
+          392,
+          327
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          275,
+          298,
+          311,
+          326
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 128,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          275,
+          298,
+          311,
+          326
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/35bb94291d885f6f86621cdb.jpg"
+  },
+  {
+    "property_key": "patuljak_80160",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/80160_0.webp",
+    "source": "patuljak",
+    "image_id": "e3b65e8fc36f9198c1b3f862",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 2996624699672452076,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.953056+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9964,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          265,
+          245,
+          285,
+          273
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          265,
+          245,
+          285,
+          273
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          423,
+          246,
+          451,
+          281
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 113,
+        "score": 0.9115,
+        "box_normalized_640x480": [
+          423,
+          246,
+          451,
+          281
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9048,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/e3b65e8fc36f9198c1b3f862.jpg"
+  },
+  {
+    "property_key": "realitica_3947346",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3947346_fb_img_1780738647175.jpg",
+    "source": "realitica",
+    "image_id": "ef6ba166138876f65b7afc18",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.9",
+    "width": 1171,
+    "height": 1280,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 6208334773859723888,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.963315+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_595591",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/d76552e2-d8c8-46c0-8a6e-0973f7c4e38a-lg.webp",
+    "source": "estitor",
+    "image_id": "6ae2b50fae64659031eab34c",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1649841499299235942,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.968469+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          262,
+          260,
+          329,
+          285
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 203,
+        "score": 0.9507,
+        "box_normalized_640x480": [
+          262,
+          260,
+          329,
+          285
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          345,
+          278,
+          392,
+          327
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 214,
+        "score": 0.9953,
+        "box_normalized_640x480": [
+          345,
+          278,
+          392,
+          327
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          457,
+          297,
+          480,
+          315
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 75,
+        "score": 0.9867,
+        "box_normalized_640x480": [
+          457,
+          297,
+          480,
+          315
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9953,
+    "evidence_file": "evidence/6ae2b50fae64659031eab34c.jpg"
+  },
+  {
+    "property_key": "patuljak_79729",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/79729_0.webp",
+    "source": "patuljak",
+    "image_id": "8d62ada04ba927342aa8ce03",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.9",
+    "width": 454,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 8562069087810316585,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.961594+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "realitica_3946786",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3946786_20261016_131058-0-r.jpg",
+    "source": "realitica",
+    "image_id": "4863d1b8ba83feaeb9a8b231",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.0",
+    "width": 840,
+    "height": 840,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 2566622155325812305,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.979426+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_586959",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/d0a8a449-3b6b-4aaf-aa32-e1c53a32b29d-lg.webp",
+    "source": "estitor",
+    "image_id": "b40a1bcbb51ed78f1910f920",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.5",
+    "width": 1284,
+    "height": 859,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4744529392701871307,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.989361+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_79439",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_0.webp",
+    "source": "patuljak",
+    "image_id": "48066b8df863fef0e7a9d27f",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 375,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 3661823067342692615,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:08.980982+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_left",
+        "box": [
+          173,
+          429,
+          220,
+          470
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 570,
+        "score": 0.9842,
+        "box_normalized_640x480": [
+          173,
+          429,
+          220,
+          470
+        ]
+      },
+      {
+        "region": "bottom_left",
+        "box": [
+          124,
+          449,
+          154,
+          467
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 123,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          124,
+          449,
+          154,
+          467
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          373,
+          629,
+          480
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 6225,
+        "score": 0.9857,
+        "box_normalized_640x480": [
+          420,
+          373,
+          629,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          335,
+          201,
+          358,
+          240
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 115,
+        "score": 0.9826,
+        "box_normalized_640x480": [
+          335,
+          201,
+          358,
+          240
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          267,
+          224,
+          297,
+          252
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 111,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          267,
+          224,
+          297,
+          252
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          230,
+          310,
+          339
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 2184,
+        "score": 0.9821,
+        "box_normalized_640x480": [
+          160,
+          230,
+          310,
+          339
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          305,
+          283,
+          462,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 1605,
+        "score": 0.9583,
+        "box_normalized_640x480": [
+          305,
+          283,
+          462,
+          340
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          210,
+          310,
+          236,
+          328
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 54,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          210,
+          310,
+          236,
+          328
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/48066b8df863fef0e7a9d27f.jpg"
+  },
+  {
+    "property_key": "realitica_3946765",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3946765_img_9727.jpeg",
+    "source": "realitica",
+    "image_id": "d5eb2a6b07797905d141b30b",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 840,
+    "height": 1120,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 513531843913686167,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.002915+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          236,
+          204,
+          260,
+          225
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 74,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          236,
+          204,
+          260,
+          225
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          268,
+          218,
+          289,
+          236
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 67,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          268,
+          218,
+          289,
+          236
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          426,
+          229,
+          447,
+          241
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 58,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          426,
+          229,
+          447,
+          241
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/d5eb2a6b07797905d141b30b.jpg"
+  },
+  {
+    "property_key": "estitor_642869",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/00c4f6d7-a41f-4f75-9aed-bb58bbd1ebb6-lg.webp",
+    "source": "estitor",
+    "image_id": "3a3d2568bf7b314a2be98c13",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "2.2",
+    "width": 1920,
+    "height": 887,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 5604096950963977333,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.038046+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_79250",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/79250_0.webp",
+    "source": "patuljak",
+    "image_id": "7fbf624b7b472c370847498f",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1998060901277942839,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.009002+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9904,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          306,
+          216,
+          398,
+          286
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 976,
+        "score": 0.9693,
+        "box_normalized_640x480": [
+          306,
+          216,
+          398,
+          286
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          265,
+          245,
+          285,
+          273
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9683,
+        "box_normalized_640x480": [
+          265,
+          245,
+          285,
+          273
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/7fbf624b7b472c370847498f.jpg"
+  },
+  {
+    "property_key": "realitica_3948849",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3948849_img-20260930-wa0088.jpg",
+    "source": "realitica",
+    "image_id": "e1fa0270f336fefb3b369466",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 840,
+    "height": 1120,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 5015122559838755684,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.010350+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          268,
+          218,
+          289,
+          236
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 67,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          268,
+          218,
+          289,
+          236
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          321,
+          216,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 301,
+        "score": 0.9169,
+        "box_normalized_640x480": [
+          160,
+          321,
+          216,
+          340
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/e1fa0270f336fefb3b369466.jpg"
+  },
+  {
+    "property_key": "estitor_642832",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/c8af3b4e-bc83-4fe0-ac86-981f4110a1a8-lg.webp",
+    "source": "estitor",
+    "image_id": "c3a68e590c52d05b6be41263",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1440,
+    "height": 1080,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 3302850779566796232,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.059162+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_72769",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/07/72769_1.webp",
+    "source": "patuljak",
+    "image_id": "7c4ff1bb865d46daee54e22a",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 400,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 2209455964780282268,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.028230+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_left",
+        "box": [
+          124,
+          449,
+          154,
+          467
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 123,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          124,
+          449,
+          154,
+          467
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/7c4ff1bb865d46daee54e22a.jpg"
+  },
+  {
+    "property_key": "realitica_3948748",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3948748_4.jpeg",
+    "source": "realitica",
+    "image_id": "029565cf4147c30633bf51b5",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1600,
+    "height": 1200,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 7184035913360536452,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.051853+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_642828",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/1f69a581-a5e3-4f53-89cb-34eade48f565-lg.webp",
+    "source": "estitor",
+    "image_id": "599b1c7cebd4ee59a52d01e7",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 789018642567718805,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.055771+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          345,
+          278,
+          392,
+          327
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 214,
+        "score": 0.9112,
+        "box_normalized_640x480": [
+          345,
+          278,
+          392,
+          327
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9112,
+    "evidence_file": "evidence/599b1c7cebd4ee59a52d01e7.jpg"
+  },
+  {
+    "property_key": "patuljak_64201",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/06/64201_0.webp",
+    "source": "patuljak",
+    "image_id": "0ccca07e708a46a1e4d8751e",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.0",
+    "width": 516,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 1741527300845910902,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.062970+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "realitica_3947283",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3947283_20261019_095633.jpg",
+    "source": "realitica",
+    "image_id": "84456345ad364fc3a8127e9c",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.9",
+    "width": 840,
+    "height": 916,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 565017591086808785,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.069392+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_642825",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/cbd9f040-8ba7-4201-bba9-db9f94eb9700-lg.webp",
+    "source": "estitor",
+    "image_id": "3e9b894469333a8cf93bf432",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "2.2",
+    "width": 1024,
+    "height": 461,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4673802316137902956,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.070448+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_62355",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/05/62355_0.webp",
+    "source": "patuljak",
+    "image_id": "de07b5955a5650eb8042059c",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 3235363109006752226,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.085786+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9492,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9492,
+    "evidence_file": "evidence/de07b5955a5650eb8042059c.jpg"
+  },
+  {
+    "property_key": "realitica_3946776",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3946776_img_0917.jpeg",
+    "source": "realitica",
+    "image_id": "f95829a08fb812fbb051e182",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 840,
+    "height": 1120,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 3366107989212481160,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.091426+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          236,
+          204,
+          260,
+          225
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 74,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          236,
+          204,
+          260,
+          225
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          268,
+          218,
+          289,
+          236
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 67,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          268,
+          218,
+          289,
+          236
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          426,
+          229,
+          447,
+          241
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 58,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          426,
+          229,
+          447,
+          241
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/f95829a08fb812fbb051e182.jpg"
+  },
+  {
+    "property_key": "estitor_633430",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/22415acf-89d8-4210-b834-03797baf528e-lg.webp",
+    "source": "estitor",
+    "image_id": "572000c1586f1fe203fe8982",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1024,
+    "height": 768,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4367439178744906859,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.086731+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_584277",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2023/09/584277_0.webp",
+    "source": "patuljak",
+    "image_id": "f5b056108b084b01c87543d5",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 375,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1741634203896572055,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.084502+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_left",
+        "box": [
+          173,
+          429,
+          220,
+          470
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 570,
+        "score": 0.9719,
+        "box_normalized_640x480": [
+          173,
+          429,
+          220,
+          470
+        ]
+      },
+      {
+        "region": "bottom_left",
+        "box": [
+          124,
+          449,
+          154,
+          467
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 123,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          124,
+          449,
+          154,
+          467
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          360,
+          448,
+          370
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 60,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          420,
+          360,
+          448,
+          370
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          373,
+          629,
+          480
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 6225,
+        "score": 0.9889,
+        "box_normalized_640x480": [
+          420,
+          373,
+          629,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          204,
+          198,
+          292,
+          231
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 281,
+        "score": 0.9751,
+        "box_normalized_640x480": [
+          204,
+          198,
+          292,
+          231
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          267,
+          224,
+          297,
+          252
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 111,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          267,
+          224,
+          297,
+          252
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          230,
+          310,
+          339
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 2184,
+        "score": 0.9657,
+        "box_normalized_640x480": [
+          160,
+          230,
+          310,
+          339
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          305,
+          283,
+          462,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 1605,
+        "score": 0.9103,
+        "box_normalized_640x480": [
+          305,
+          283,
+          462,
+          340
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          210,
+          310,
+          236,
+          328
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 54,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          210,
+          310,
+          236,
+          328
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/f5b056108b084b01c87543d5.jpg"
+  },
+  {
+    "property_key": "realitica_3950448",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3950448_photo_2026-09-14_17-52-06.jpg",
+    "source": "realitica",
+    "image_id": "4cbcd47720c86f780fe802e5",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 4653519571968849437,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.114822+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          236,
+          204,
+          260,
+          225
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 74,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          236,
+          204,
+          260,
+          225
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          268,
+          218,
+          289,
+          236
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 67,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          268,
+          218,
+          289,
+          236
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          426,
+          229,
+          447,
+          241
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 58,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          426,
+          229,
+          447,
+          241
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          321,
+          216,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 301,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          160,
+          321,
+          216,
+          340
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/4cbcd47720c86f780fe802e5.jpg"
+  },
+  {
+    "property_key": "estitor_632862",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/72aa821b-ca6d-4f20-a36b-94b3ff13c0c6-lg.webp",
+    "source": "estitor",
+    "image_id": "110fb7f8a5ee51406619b113",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 7657585255040294436,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.126657+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          262,
+          260,
+          329,
+          285
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 203,
+        "score": 0.9409,
+        "box_normalized_640x480": [
+          262,
+          260,
+          329,
+          285
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          457,
+          297,
+          480,
+          315
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 75,
+        "score": 0.9867,
+        "box_normalized_640x480": [
+          457,
+          297,
+          480,
+          315
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          275,
+          298,
+          311,
+          326
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 128,
+        "score": 0.9453,
+        "box_normalized_640x480": [
+          275,
+          298,
+          311,
+          326
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9867,
+    "evidence_file": "evidence/110fb7f8a5ee51406619b113.jpg"
+  },
+  {
+    "property_key": "patuljak_85029",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/85029_0.webp",
+    "source": "patuljak",
+    "image_id": "c786c820607e3a370a8b898b",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 7285528167546381086,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.113467+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9933,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          265,
+          245,
+          285,
+          273
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9048,
+        "box_normalized_640x480": [
+          265,
+          245,
+          285,
+          273
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9524,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9933,
+    "evidence_file": "evidence/c786c820607e3a370a8b898b.jpg"
+  },
+  {
+    "property_key": "realitica_3950445",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3950445_full-webp--2-.webp",
+    "source": "realitica",
+    "image_id": "96a9a8dfda1fb98434a8c3a3",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.5",
+    "width": 840,
+    "height": 563,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 3068474608462694981,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.118547+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_642096",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/67dd0b42-ad72-4d10-9681-d466df37efb1-lg.webp",
+    "source": "estitor",
+    "image_id": "75461d5609b42784b92d27cc",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1195,
+    "height": 896,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 473274331939371372,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.142796+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_84730",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_7.webp",
+    "source": "patuljak",
+    "image_id": "40017edf4ce1ba9e1ef45be8",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.7",
+    "width": 373,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 8115431702553778760,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.136439+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "realitica_3947840",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3947840_img_7565.webp",
+    "source": "realitica",
+    "image_id": "006dc8aa7fb37b1a1225b841",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.5",
+    "width": 840,
+    "height": 559,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 1952830753559034191,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.154102+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_603794",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/f7b700cc-3213-4800-ab4b-8ebb36fc96cd-lg.webp",
+    "source": "estitor",
+    "image_id": "10dfb2cb79ebad8c28f6bd29",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1440,
+    "height": 1080,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 8406717842654061492,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.179810+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_83574",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/83574_0.webp",
+    "source": "patuljak",
+    "image_id": "eba87ff65d21544c1d589b7e",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 7553290515188585336,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.161456+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9467,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          306,
+          216,
+          398,
+          286
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 976,
+        "score": 0.9355,
+        "box_normalized_640x480": [
+          306,
+          216,
+          398,
+          286
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          423,
+          246,
+          451,
+          281
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 113,
+        "score": 0.9912,
+        "box_normalized_640x480": [
+          423,
+          246,
+          451,
+          281
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/eba87ff65d21544c1d589b7e.jpg"
+  },
+  {
+    "property_key": "realitica_3949881",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3949881_img_7639.webp",
+    "source": "realitica",
+    "image_id": "e000e19fe18f5503acb680d9",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.8",
+    "width": 839,
+    "height": 472,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 3573658352067367717,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.164106+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_472001",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/ba3da90e-b8a7-4fa6-bccb-786851e515e5-lg.webp",
+    "source": "estitor",
+    "image_id": "99abbabc142ca81193914af4",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1155,
+    "height": 866,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 466348480236204763,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.184661+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_83551",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/83551_0.webp",
+    "source": "patuljak",
+    "image_id": "54a45b8dd9332cdccf8a3eb4",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 850117545122489541,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.189732+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9732,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          306,
+          216,
+          398,
+          286
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 976,
+        "score": 0.959,
+        "box_normalized_640x480": [
+          306,
+          216,
+          398,
+          286
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 0.98,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          265,
+          245,
+          285,
+          273
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          265,
+          245,
+          285,
+          273
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          423,
+          246,
+          451,
+          281
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 113,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          423,
+          246,
+          451,
+          281
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9841,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/54a45b8dd9332cdccf8a3eb4.jpg"
+  },
+  {
+    "property_key": "realitica_3946469",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3946469_20261017_112859r.jpg",
+    "source": "realitica",
+    "image_id": "480d560de4004bee80f50ff0",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 630,
+    "height": 840,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1564333787607508342,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.172321+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          236,
+          204,
+          260,
+          225
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 74,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          236,
+          204,
+          260,
+          225
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          426,
+          229,
+          447,
+          241
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 58,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          426,
+          229,
+          447,
+          241
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          321,
+          216,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 301,
+        "score": 0.9435,
+        "box_normalized_640x480": [
+          160,
+          321,
+          216,
+          340
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/480d560de4004bee80f50ff0.jpg"
+  },
+  {
+    "property_key": "estitor_641489",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/407447e2-1d14-4802-9792-9b7a6b691f0e-lg.webp",
+    "source": "estitor",
+    "image_id": "633a8990f2f48fa248ec0926",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 864,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 5227491370981862520,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.197146+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          345,
+          278,
+          392,
+          327
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 214,
+        "score": 0.9579,
+        "box_normalized_640x480": [
+          345,
+          278,
+          392,
+          327
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          275,
+          298,
+          311,
+          326
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 128,
+        "score": 0.9844,
+        "box_normalized_640x480": [
+          275,
+          298,
+          311,
+          326
+        ]
+      }
+    ],
+    "repeated_overlay_score": 0.9844,
+    "evidence_file": "evidence/633a8990f2f48fa248ec0926.jpg"
+  },
+  {
+    "property_key": "patuljak_81937",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/81937_7.webp",
+    "source": "patuljak",
+    "image_id": "94d665e552e2262b881ee43c",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 418,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 5974752359271040041,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.198653+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          312,
+          202,
+          334,
+          224
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 85,
+        "score": 0.9529,
+        "box_normalized_640x480": [
+          312,
+          202,
+          334,
+          224
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          210,
+          310,
+          236,
+          328
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 54,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          210,
+          310,
+          236,
+          328
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/94d665e552e2262b881ee43c.jpg"
+  },
+  {
+    "property_key": "realitica_3949814",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3949814_img-1483f573788863f8d6c2462f3d6f22f6-v.jpg",
+    "source": "realitica",
+    "image_id": "1fcffed2b3ff388c3fbacc50",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 667,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 2730041873336196410,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.200598+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_641297",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/30a5f8cc-8e94-4078-82f3-a972adc9e8fa-lg.webp",
+    "source": "estitor",
+    "image_id": "9b9a4dd4af3bbecd5d36655e",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.7",
+    "width": 1080,
+    "height": 639,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4656613421728550284,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.217921+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_81927",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/81927_0.webp",
+    "source": "patuljak",
+    "image_id": "d30b18ae0ae3c78cd2af3d8f",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 414,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1495641313162979853,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.212053+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_left",
+        "box": [
+          173,
+          429,
+          220,
+          470
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 570,
+        "score": 0.9386,
+        "box_normalized_640x480": [
+          173,
+          429,
+          220,
+          470
+        ]
+      },
+      {
+        "region": "bottom_left",
+        "box": [
+          124,
+          449,
+          154,
+          467
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 123,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          124,
+          449,
+          154,
+          467
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          360,
+          448,
+          370
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 60,
+        "score": 0.9333,
+        "box_normalized_640x480": [
+          420,
+          360,
+          448,
+          370
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          373,
+          629,
+          480
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 6225,
+        "score": 0.9537,
+        "box_normalized_640x480": [
+          420,
+          373,
+          629,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          204,
+          198,
+          292,
+          231
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 281,
+        "score": 0.9644,
+        "box_normalized_640x480": [
+          204,
+          198,
+          292,
+          231
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          335,
+          201,
+          358,
+          240
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 115,
+        "score": 0.9826,
+        "box_normalized_640x480": [
+          335,
+          201,
+          358,
+          240
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          312,
+          202,
+          334,
+          224
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 85,
+        "score": 0.9529,
+        "box_normalized_640x480": [
+          312,
+          202,
+          334,
+          224
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          230,
+          310,
+          339
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 2184,
+        "score": 0.9116,
+        "box_normalized_640x480": [
+          160,
+          230,
+          310,
+          339
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          305,
+          283,
+          462,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 1605,
+        "score": 0.9128,
+        "box_normalized_640x480": [
+          305,
+          283,
+          462,
+          340
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          210,
+          310,
+          236,
+          328
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 54,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          210,
+          310,
+          236,
+          328
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/d30b18ae0ae3c78cd2af3d8f.jpg"
+  },
+  {
+    "property_key": "realitica_3949589",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3949589_img_2673.jpeg",
+    "source": "realitica",
+    "image_id": "08f88354ed4906df77afdb76",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 840,
+    "height": 1120,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 704874382177588767,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.228060+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          236,
+          204,
+          260,
+          225
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 74,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          236,
+          204,
+          260,
+          225
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          268,
+          218,
+          289,
+          236
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 67,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          268,
+          218,
+          289,
+          236
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          321,
+          216,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 301,
+        "score": 0.99,
+        "box_normalized_640x480": [
+          160,
+          321,
+          216,
+          340
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/08f88354ed4906df77afdb76.jpg"
+  },
+  {
+    "property_key": "estitor_641230",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/64a3e4d8-b5a8-417a-8113-5c0fb3530b8d-lg.webp",
+    "source": "estitor",
+    "image_id": "d5597c3aac0436841c12bfc4",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 810,
+    "height": 1080,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 1633312539860150995,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.238493+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          262,
+          260,
+          329,
+          285
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 203,
+        "score": 0.931,
+        "box_normalized_640x480": [
+          262,
+          260,
+          329,
+          285
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          457,
+          297,
+          480,
+          315
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 75,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          457,
+          297,
+          480,
+          315
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          275,
+          298,
+          311,
+          326
+        ],
+        "support_properties": 7,
+        "stable_edge_pixels": 128,
+        "score": 0.9531,
+        "box_normalized_640x480": [
+          275,
+          298,
+          311,
+          326
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/d5597c3aac0436841c12bfc4.jpg"
+  },
+  {
+    "property_key": "patuljak_80772",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_0.webp",
+    "source": "patuljak",
+    "image_id": "50b3eae70ef1f2679c301d18",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 587,
+    "height": 440,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 4600006366346893401,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.226538+00:00",
+    "repeated_matches": [
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9524,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/50b3eae70ef1f2679c301d18.jpg"
+  },
+  {
+    "property_key": "realitica_3949573",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3949573_img_0762.jpeg",
+    "source": "realitica",
+    "image_id": "98e3617f44dfb7d4243ca0bf",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.8",
+    "width": 840,
+    "height": 474,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 1241808417206781820,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.230554+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_640696",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/b1147f12-4f77-458d-bb2e-6ceeb97a41d6-lg.webp",
+    "source": "estitor",
+    "image_id": "b02b7065c534dbfc3c6a487e",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.8",
+    "width": 1024,
+    "height": 577,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 6164929176467084089,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.245659+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_80446",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/80446_0.webp",
+    "source": "patuljak",
+    "image_id": "a638dfe5d2defbbbe31df9c1",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.6",
+    "width": 280,
+    "height": 500,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 5957171475016189334,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.243510+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "realitica_3947954",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3947954_chatgpt-image-oct-20--2026--12_13_07-pm-1.jpg",
+    "source": "realitica",
+    "image_id": "e80c4813546d558dcd2ac01f",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 840,
+    "height": 630,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 7039579680608448924,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.246406+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_620886",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/eeaed0b3-fa3e-49d1-820f-a2637874e452-lg.webp",
+    "source": "estitor",
+    "image_id": "db724730f9945045910df5f1",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1024,
+    "height": 768,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4871864824478970565,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.273342+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_80438",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/80438_0.webp",
+    "source": "patuljak",
+    "image_id": "6914563d989aa8d2bf0a4e0d",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 666,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 2941637215211593260,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.283257+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          381,
+          635,
+          480
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 7729,
+        "score": 0.9644,
+        "box_normalized_640x480": [
+          420,
+          381,
+          635,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          272,
+          225,
+          306,
+          244
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 50,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          272,
+          225,
+          306,
+          244
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          400,
+          275,
+          428,
+          299
+        ],
+        "support_properties": 9,
+        "stable_edge_pixels": 63,
+        "score": 0.9365,
+        "box_normalized_640x480": [
+          400,
+          275,
+          428,
+          299
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/6914563d989aa8d2bf0a4e0d.jpg"
+  },
+  {
+    "property_key": "realitica_3948903",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3948903_img_1820.jpg",
+    "source": "realitica",
+    "image_id": "f1ac1758e59556263dd1f74b",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 840,
+    "height": 630,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 2579857491425085554,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.261645+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_564353",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/3909a59c-c975-4376-9073-3343da905ea6-lg.webp",
+    "source": "estitor",
+    "image_id": "963cf4100772ffb711ea5a87",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.7",
+    "width": 722,
+    "height": 1080,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 4995119355963807054,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.271208+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "patuljak_79254",
+    "image_number": "1",
+    "image_url": "https://patuljak.me/kes/slike/740xAuto/2026/09/79254_0.webp",
+    "source": "patuljak",
+    "image_id": "16b37b877ba94742fe46dc90",
+    "status": "repeated_overlay_candidate",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "0.8",
+    "width": 375,
+    "height": 500,
+    "notes": "Review marked region; classical matching can produce false positives.",
+    "image_hash": 6118613236801194206,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.277875+00:00",
+    "repeated_matches": [
+      {
+        "region": "bottom_left",
+        "box": [
+          173,
+          429,
+          220,
+          470
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 570,
+        "score": 0.9772,
+        "box_normalized_640x480": [
+          173,
+          429,
+          220,
+          470
+        ]
+      },
+      {
+        "region": "bottom_left",
+        "box": [
+          124,
+          449,
+          154,
+          467
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 123,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          124,
+          449,
+          154,
+          467
+        ]
+      },
+      {
+        "region": "bottom_right",
+        "box": [
+          420,
+          373,
+          629,
+          480
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 6225,
+        "score": 0.9518,
+        "box_normalized_640x480": [
+          420,
+          373,
+          629,
+          480
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          335,
+          201,
+          358,
+          240
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 115,
+        "score": 0.9913,
+        "box_normalized_640x480": [
+          335,
+          201,
+          358,
+          240
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          267,
+          224,
+          297,
+          252
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 111,
+        "score": 1.0,
+        "box_normalized_640x480": [
+          267,
+          224,
+          297,
+          252
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          160,
+          230,
+          310,
+          339
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 2184,
+        "score": 0.9625,
+        "box_normalized_640x480": [
+          160,
+          230,
+          310,
+          339
+        ]
+      },
+      {
+        "region": "center",
+        "box": [
+          305,
+          283,
+          462,
+          340
+        ],
+        "support_properties": 6,
+        "stable_edge_pixels": 1605,
+        "score": 0.9801,
+        "box_normalized_640x480": [
+          305,
+          283,
+          462,
+          340
+        ]
+      }
+    ],
+    "repeated_overlay_score": 1.0,
+    "evidence_file": "evidence/16b37b877ba94742fe46dc90.jpg"
+  },
+  {
+    "property_key": "realitica_3947940",
+    "image_number": "1",
+    "image_url": "https://www.realitica.com/images/listing_photos/3947940_trinity-nikola-dumidran-62m2-2026-1.jpg",
+    "source": "realitica",
+    "image_id": "627bb691b922e2ac6ad8d56d",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 840,
+    "height": 630,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 2056535337175082123,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.293414+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  },
+  {
+    "property_key": "estitor_640680",
+    "image_number": "1",
+    "image_url": "https://content.estitor.com/73263441-db79-4eb2-8075-7b46c67b8b8d-lg.webp",
+    "source": "estitor",
+    "image_id": "450abba77e65b8673ed71447",
+    "status": "insufficient_reference",
+    "template_matches": [],
+    "template_score": 0,
+    "ratio": "1.3",
+    "width": 1440,
+    "height": 1080,
+    "notes": "No reference shapes: insufficient distinct comparable properties or no stable repeated pattern. This is inconclusive.",
+    "image_hash": 5156753689342803214,
+    "scan_id": "2026-10-29T20:12:08.707286+00:00",
+    "analyzed_at": "2026-10-29T20:12:09.310001+00:00",
+    "repeated_matches": [],
+    "repeated_overlay_score": 0
+  }
+]

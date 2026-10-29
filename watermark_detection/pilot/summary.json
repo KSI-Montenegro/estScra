@@ -1,0 +1,22 @@
+{
+  "created_at": "2026-10-29T20:12:09.892079+00:00",
+  "scan_id": "2026-10-29T20:12:08.707286+00:00",
+  "method": "classical_computer_vision_no_AI_no_OCR",
+  "manifest_images": 14522,
+  "selected_images": 60,
+  "images_analyzed": 60,
+  "images_with_reference_comparisons": 28,
+  "full_manifest_scan": false,
+  "statuses": {
+    "repeated_overlay_candidate": 28,
+    "insufficient_reference": 32
+  },
+  "known_templates": 0,
+  "template_threshold": 0.72,
+  "repeat_min_distinct_properties": 6,
+  "repeat_frequency": 0.75,
+  "repeated_group_models": 25,
+  "interpretation": "template_match = supplied-pattern evidence; repeated_overlay_candidate = review; no_match does not prove no watermark",
+  "accuracy_measured_on_real_images": false,
+  "automated_removal_or_deletion": false
+}
