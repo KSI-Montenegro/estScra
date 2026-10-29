@@ -1,0 +1,31 @@
+{
+  "key": "estitor_642817",
+  "source": "estitor",
+  "listing_id": "642817",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-642817",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-642817"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 12,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:46.011064+00:00",
+  "images": [
+    "https://content.estitor.com/20cd7211-9785-4ca8-bc87-4750127520b0-lg.webp",
+    "https://content.estitor.com/b39206e5-e4ca-4449-ac38-0bf39a1813cd-lg.webp",
+    "https://content.estitor.com/7af83bc4-0235-4c8b-99b7-65a59d759c15-lg.webp",
+    "https://content.estitor.com/20ed5713-8d6f-40b8-aac2-029375e9ad88-lg.webp",
+    "https://content.estitor.com/bde42af7-617d-400b-9114-ad7a920e7306-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 33m², Topla, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642817"
+}

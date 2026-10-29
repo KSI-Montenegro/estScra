@@ -1,0 +1,32 @@
+{
+  "key": "estitor_610763",
+  "source": "estitor",
+  "listing_id": "610763",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-610763",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-610763"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 843,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:04.962711+00:00",
+  "images": [
+    "https://content.estitor.com/bb4dfeb9-d86b-434c-b81a-b5ded100a8bd-lg.webp",
+    "https://content.estitor.com/c3c621d1-d402-4ca9-8350-af7c1eff621d-lg.webp",
+    "https://content.estitor.com/522386a1-0571-4c86-bddb-6a4c5a7ffa1c-lg.webp",
+    "https://content.estitor.com/4a3c3bb0-bfc6-475a-9ab5-5459902d2424-lg.webp",
+    "https://content.estitor.com/549143dc-8995-410c-9a87-14ce6752b6e6-lg.webp",
+    "https://content.estitor.com/cf622f83-d90e-4d1c-b00d-09337752a6ea-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 60m², Centar, Cetinje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610763"
+}

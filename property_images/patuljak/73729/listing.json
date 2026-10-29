@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_73729",
+  "source": "patuljak",
+  "listing_id": "73729",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-dvosoban-stan--73729",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-dvosoban-stan--73729"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 532,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:09.474103+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73729_2.webp"
+  ],
+  "status": "ok",
+  "title": "Iznajmljujem dvosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73729"
+}

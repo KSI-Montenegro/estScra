@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_84743",
+  "source": "patuljak",
+  "listing_id": "84743",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-u-centru-kotora--84743",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-u-centru-kotora--84743"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 129,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:41.448802+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84743_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan u centru Kotora",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84743"
+}

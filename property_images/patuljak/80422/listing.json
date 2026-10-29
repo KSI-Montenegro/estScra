@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_80422",
+  "source": "patuljak",
+  "listing_id": "80422",
+  "listing_url": "https://patuljak.me/oglas/stan-u-kuci-murtovina-zlatica--80422",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-u-kuci-murtovina-zlatica--80422"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 457,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:30.411676+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/80422"
+}

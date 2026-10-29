@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_72786",
+  "source": "patuljak",
+  "listing_id": "72786",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-57m2-ulcinj-izdavanje--72786",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-57m2-ulcinj-izdavanje--72786"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 111,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:33.020696+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72786_0.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban stan 57m2, Ulcinj, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72786"
+}

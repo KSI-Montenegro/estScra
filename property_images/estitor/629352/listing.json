@@ -1,0 +1,33 @@
+{
+  "key": "estitor_629352",
+  "source": "estitor",
+  "listing_id": "629352",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-629352",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-629352"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 768,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:09.464938+00:00",
+  "images": [
+    "https://content.estitor.com/11e88305-2e38-425c-9781-883b9c809f9b-lg.webp",
+    "https://content.estitor.com/40689f5b-7070-43d5-872f-7a2b4373bef6-lg.webp",
+    "https://content.estitor.com/73149bb1-7921-438d-9bfc-cdf95fea6a3f-lg.webp",
+    "https://content.estitor.com/bc31a9ef-1088-4494-bb45-0598a52fb6bc-lg.webp",
+    "https://content.estitor.com/ecdda26e-4e08-4da9-8793-3cb3ef50847c-lg.webp",
+    "https://content.estitor.com/4234a415-00ab-4614-86a4-5ed59245c905-lg.webp",
+    "https://content.estitor.com/532e3a13-353f-4554-a376-6f7ab43434b1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 55m², Podmaine, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/629352"
+}

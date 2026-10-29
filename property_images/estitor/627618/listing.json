@@ -1,0 +1,32 @@
+{
+  "key": "estitor_627618",
+  "source": "estitor",
+  "listing_id": "627618",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627618",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-627618"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 334,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:28.476845+00:00",
+  "images": [
+    "https://content.estitor.com/e45e4869-a5e3-41d9-baac-c3ef1f03f2a1-lg.webp",
+    "https://content.estitor.com/c7374069-2f12-4a51-a669-f09ba291dd22-lg.webp",
+    "https://content.estitor.com/f04615d1-70f1-488e-976d-650f9be5ed15-lg.webp",
+    "https://content.estitor.com/5068eae3-a3df-4f1f-81c4-8ac171666a42-lg.webp",
+    "https://content.estitor.com/24cd8689-b3e3-43a8-b6d6-1a184b82338f-lg.webp",
+    "https://content.estitor.com/ee314743-3f5d-48d8-8160-2abd8bb1f25d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², Đenovići, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/627618"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_79460",
+  "source": "patuljak",
+  "listing_id": "79460",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-65-m2-zabjelo-podgorica--79460",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-65-m2-zabjelo-podgorica--79460"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 873,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:26.201167+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79460_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan 65 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79460"
+}

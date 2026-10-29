@@ -1,0 +1,34 @@
+{
+  "key": "realitica_3947850",
+  "source": "realitica",
+  "listing_id": "3947850",
+  "listing_url": "https://www.realitica.com/hr/listing/3947850",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947850"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 124,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:40.208817+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947850_6.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_8.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_1.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_9.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_11.jpg",
+    "https://www.realitica.com/images/listing_photos/3947850_capture-decran-du-2025-07-24-14-35-16.png",
+    "https://www.realitica.com/images/listing_photos/3947850_10.png",
+    "https://www.realitica.com/images/listing_photos/3947850_5.jpg"
+  ],
+  "status": "ok",
+  "title": "Apartman sa bazenom na samoj obali mora",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947850"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_576482",
+  "source": "estitor",
+  "listing_id": "576482",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-576482",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-576482"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 697,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:31.467323+00:00",
+  "images": [
+    "https://content.estitor.com/7cec849c-fc61-4586-b270-6647711fdf7f-lg.webp",
+    "https://content.estitor.com/a7ad3535-bf68-4898-828b-7a07612c46c6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 47m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/576482"
+}

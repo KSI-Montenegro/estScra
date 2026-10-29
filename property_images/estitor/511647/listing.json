@@ -1,0 +1,36 @@
+{
+  "key": "estitor_511647",
+  "source": "estitor",
+  "listing_id": "511647",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-511647",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-511647"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 9,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:22.311431+00:00",
+  "images": [
+    "https://content.estitor.com/149af074-5553-4e7a-857a-d0db9a7b5566-lg.webp",
+    "https://content.estitor.com/59c38de7-aa2c-4977-aa36-39260126a21a-lg.webp",
+    "https://content.estitor.com/7f2389f8-0c5e-4e96-b827-18ab0e82c0d5-lg.webp",
+    "https://content.estitor.com/5251a48f-f435-4698-8d76-ba821aad88fc-lg.webp",
+    "https://content.estitor.com/4cc519a6-6bdd-41af-8073-da25e527e596-lg.webp",
+    "https://content.estitor.com/23d8df3d-be9b-4e02-99e7-0081cec8cd58-lg.webp",
+    "https://content.estitor.com/710f270f-b8f5-4a3c-8bed-751d834ea1a2-lg.webp",
+    "https://content.estitor.com/cab2a73f-9744-42c3-93d6-9871f0d97dc2-lg.webp",
+    "https://content.estitor.com/cc83ae4e-8a09-4e44-963d-04ff35afca98-lg.webp",
+    "https://content.estitor.com/6391b177-42f1-4d1a-b5b8-b45d18e7b495-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 75m², Kod Big Fashion-a, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/511647"
+}

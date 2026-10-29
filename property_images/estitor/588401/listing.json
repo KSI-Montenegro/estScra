@@ -1,0 +1,34 @@
+{
+  "key": "estitor_588401",
+  "source": "estitor",
+  "listing_id": "588401",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-588401",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-588401"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 699,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:31.681519+00:00",
+  "images": [
+    "https://content.estitor.com/a9f818cc-4a31-47e7-96f8-c17efd370059-lg.webp",
+    "https://content.estitor.com/4f85be8e-25fd-49e3-9016-9fa0038afc2a-lg.webp",
+    "https://content.estitor.com/79d92fef-40e7-4b83-99e0-bf2b17c9b686-lg.webp",
+    "https://content.estitor.com/de036be5-2f76-46e5-86d6-63466d1f15ae-lg.webp",
+    "https://content.estitor.com/59faa8ba-37a4-468f-b692-c8619e9c5092-lg.webp",
+    "https://content.estitor.com/7bd741a7-3def-49ae-88e0-080adda98197-lg.webp",
+    "https://content.estitor.com/0089e28b-fe9a-41f0-b4e6-2ffef59a21d2-lg.webp",
+    "https://content.estitor.com/6e570e0f-6053-4037-8568-e7d611148863-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 39m², Kruševac, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/588401"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_77030",
+  "source": "patuljak",
+  "listing_id": "77030",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-16m2--77030",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-16m2--77030"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 70,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:07.047313+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77030_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77030_1.webp"
+  ],
+  "status": "ok",
+  "title": "Poslovni prostor 16m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77030"
+}

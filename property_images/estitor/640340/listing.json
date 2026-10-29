@@ -1,0 +1,28 @@
+{
+  "key": "estitor_640340",
+  "source": "estitor",
+  "listing_id": "640340",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-640340",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-640340"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 54,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:42.133190+00:00",
+  "images": [
+    "https://content.estitor.com/507ff82a-e6d3-429e-8128-3129746bcdb7-lg.webp",
+    "https://content.estitor.com/862dc6cd-90e4-4633-89ff-984927be93f5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 48535m², Kuči, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640340"
+}

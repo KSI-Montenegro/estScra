@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_75258",
+  "source": "patuljak",
+  "listing_id": "75258",
+  "listing_url": "https://patuljak.me/oglas/ozbiljan-bracni-par-trazi-garsonjerustan-u-baru-na--75258",
+  "listing_urls": [
+    "https://patuljak.me/oglas/ozbiljan-bracni-par-trazi-garsonjerustan-u-baru-na--75258"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 184,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:13.375830+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75258_0.webp"
+  ],
+  "status": "ok",
+  "title": "Ozbiljan bračni par traži garsonjeru/stan u Baru na 2-3 godine. Useljenje od 1, 2. ili 3. septembra.",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75258"
+}

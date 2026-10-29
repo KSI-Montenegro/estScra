@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_75384",
+  "source": "patuljak",
+  "listing_id": "75384",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-u-centru--75384",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-u-centru--75384"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 519,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:02.500677+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75384_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem dvosoban stan u centru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75384"
+}

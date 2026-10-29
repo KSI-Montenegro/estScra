@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79685",
+  "source": "patuljak",
+  "listing_id": "79685",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-41-m2-u-blizini-akademije--79685",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-41-m2-u-blizini-akademije--79685"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 99,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:25.743176+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79685_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79685_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79685_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 41 m2,  u blizini Akademije znanja, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79685"
+}

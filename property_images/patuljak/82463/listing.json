@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_82463",
+  "source": "patuljak",
+  "listing_id": "82463",
+  "listing_url": "https://patuljak.me/oglas/prodaja-dvosoban-stan-malo-brdo--82463",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-dvosoban-stan-malo-brdo--82463"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 77,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:34.722511+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82463_10.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja - dvosoban stan Malo brdo",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82463"
+}

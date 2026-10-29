@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_75908",
+  "source": "patuljak",
+  "listing_id": "75908",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-41m-sa-garazom--75908",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-41m-sa-garazom--75908"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 887,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:33.790121+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75908_11.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban Stan 41m sa garazom",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75908"
+}

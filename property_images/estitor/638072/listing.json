@@ -1,0 +1,31 @@
+{
+  "key": "estitor_638072",
+  "source": "estitor",
+  "listing_id": "638072",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638072",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638072"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 584,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:34.662386+00:00",
+  "images": [
+    "https://content.estitor.com/00eed564-89be-4cbb-897d-db4fee4130ae-lg.webp",
+    "https://content.estitor.com/eee9918c-5dea-4960-bab3-53a7bd84958b-lg.webp",
+    "https://content.estitor.com/60c8374b-4e46-4310-afa8-833a3c8970d6-lg.webp",
+    "https://content.estitor.com/1aa08027-b23b-4cda-9daa-4db5b5707b03-lg.webp",
+    "https://content.estitor.com/4995ddf2-a00b-45f7-9464-b6ef191f03f3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 41m², Tuški Put, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638072"
+}

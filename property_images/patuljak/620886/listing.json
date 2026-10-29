@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_620886",
+  "source": "patuljak",
+  "listing_id": "620886",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-50m2-stari-aerodorm-podgorica-izda--620886",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-50m2-stari-aerodorm-podgorica-izda--620886"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 892,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:39.582316+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/620886_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/620886_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/620886_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/620886_1.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 50m2, Stari Aerodorm, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/620886"
+}

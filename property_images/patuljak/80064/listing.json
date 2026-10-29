@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_80064",
+  "source": "patuljak",
+  "listing_id": "80064",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-80m2-na-starom-aerodromu--80064",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-80m2-na-starom-aerodromu--80064"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 45,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:12.057126+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/80064"
+}

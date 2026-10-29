@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_76654",
+  "source": "patuljak",
+  "listing_id": "76654",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjesten-stan-u-kuci--76654",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjesten-stan-u-kuci--76654"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 502,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:54.372832+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76654_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76654_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76654_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namjesten stan u kuci",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76654"
+}

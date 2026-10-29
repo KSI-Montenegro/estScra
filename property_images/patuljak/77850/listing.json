@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_77850",
+  "source": "patuljak",
+  "listing_id": "77850",
+  "listing_url": "https://patuljak.me/oglas/prodaja-dvosoban-stan-69m2-zabjelo-podgorica--77850",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-dvosoban-stan-69m2-zabjelo-podgorica--77850"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 30,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:03.624485+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77850_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 69m2, Zabjelo Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77850"
+}

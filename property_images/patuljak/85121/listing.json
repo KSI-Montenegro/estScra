@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_85121",
+  "source": "patuljak",
+  "listing_id": "85121",
+  "listing_url": "https://patuljak.me/oglas/izdajem-sobu-podgorica-kod-ekonomskog-fakulteta--85121",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-sobu-podgorica-kod-ekonomskog-fakulteta--85121"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 66,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:27.775370+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/85121"
+}

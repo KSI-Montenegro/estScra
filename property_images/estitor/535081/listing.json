@@ -1,0 +1,35 @@
+{
+  "key": "estitor_535081",
+  "source": "estitor",
+  "listing_id": "535081",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-535081",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-535081"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 262,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:52.408544+00:00",
+  "images": [
+    "https://content.estitor.com/d12c933f-abce-4a70-9a2f-635b4d97b204-lg.webp",
+    "https://content.estitor.com/2eddf2b6-73a3-49cd-ad80-a2c298965b37-lg.webp",
+    "https://content.estitor.com/47d0f347-4cb1-4206-ba71-e4849af31323-lg.webp",
+    "https://content.estitor.com/e0f9bc1e-94e0-4939-ba0f-fa398516d403-lg.webp",
+    "https://content.estitor.com/fea5705e-3c84-4ed5-9fdf-afc62db5ef58-lg.webp",
+    "https://content.estitor.com/da176edc-8117-45d2-baca-9a99b7719b30-lg.webp",
+    "https://content.estitor.com/528be991-d280-46b1-86da-eea7ebb34edf-lg.webp",
+    "https://content.estitor.com/4cb9f3f5-9ee0-4fba-9863-bae80e5e6565-lg.webp",
+    "https://content.estitor.com/27f4dc04-c35d-4878-b2b6-13f26c0d20f0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 110m², Radanovići, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/535081"
+}

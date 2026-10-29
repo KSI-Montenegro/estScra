@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_76484",
+  "source": "patuljak",
+  "listing_id": "76484",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-155m2-zabjelo-podgorica--76484",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-155m2-zabjelo-podgorica--76484"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 178,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:10.554221+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76484_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, stan, 155m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76484"
+}

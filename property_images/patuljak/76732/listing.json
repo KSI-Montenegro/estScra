@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_76732",
+  "source": "patuljak",
+  "listing_id": "76732",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-50m2-sv-stasije-kotor--76732",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-50m2-sv-stasije-kotor--76732"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 766,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:08.532592+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76732_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76732_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem dvosoban 50m2, Sv. Stasije, Kotor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76732"
+}

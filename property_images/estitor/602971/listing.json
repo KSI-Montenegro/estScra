@@ -1,0 +1,32 @@
+{
+  "key": "estitor_602971",
+  "source": "estitor",
+  "listing_id": "602971",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602971",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602971"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 884,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:32.426704+00:00",
+  "images": [
+    "https://content.estitor.com/e3dd8bad-ba6d-4966-9639-b75c5c281388-lg.webp",
+    "https://content.estitor.com/31292189-e26f-4a02-a883-33124b55f1da-lg.webp",
+    "https://content.estitor.com/5d03ac7e-1dd8-44d1-8df8-67bd32eb56ff-lg.webp",
+    "https://content.estitor.com/90bd3a72-02b4-4ff4-8c5a-02d1f81b56bb-lg.webp",
+    "https://content.estitor.com/4f69b2c1-ed01-4004-8a27-d495036426df-lg.webp",
+    "https://content.estitor.com/a4becd64-218f-437a-980b-c436d0c67324-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Pobrežje, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/602971"
+}

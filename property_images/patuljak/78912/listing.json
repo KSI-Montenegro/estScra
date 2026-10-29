@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_78912",
+  "source": "patuljak",
+  "listing_id": "78912",
+  "listing_url": "https://patuljak.me/oglas/kumbor-uz-put--78912",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kumbor-uz-put--78912"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 875,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:27.280241+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78912_0.webp"
+  ],
+  "status": "ok",
+  "title": "Kumbor uz put",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78912"
+}

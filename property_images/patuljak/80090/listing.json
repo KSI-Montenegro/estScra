@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80090",
+  "source": "patuljak",
+  "listing_id": "80090",
+  "listing_url": "https://patuljak.me/oglas/hitna-prodaja-imanja-grbi-do-lijeva-rijeka--80090",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hitna-prodaja-imanja-grbi-do-lijeva-rijeka--80090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 96,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:23.745837+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80090_0.webp"
+  ],
+  "status": "ok",
+  "title": "Hitna prodaja imanja, Grbi Do, Lijeva Rijeka",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80090"
+}

@@ -1,0 +1,35 @@
+{
+  "key": "estitor_639838",
+  "source": "estitor",
+  "listing_id": "639838",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-639838",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-639838"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 57,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:42.828423+00:00",
+  "images": [
+    "https://content.estitor.com/dc02d71e-4539-498b-bf32-109510b8dc31-lg.webp",
+    "https://content.estitor.com/a2c4672e-4c93-439f-91c2-e5f20d66a2de-lg.webp",
+    "https://content.estitor.com/5b5c6665-0a66-4218-adb8-c05d4e3096b1-lg.webp",
+    "https://content.estitor.com/6ce0389d-62d4-40eb-ad40-c3ff486205c7-lg.webp",
+    "https://content.estitor.com/fda14c60-26e1-4882-973a-00ec18344c0f-lg.webp",
+    "https://content.estitor.com/17e0121a-36ba-4786-8898-d2027d3e4647-lg.webp",
+    "https://content.estitor.com/27dd6587-bd97-42b4-947f-c1100c770211-lg.webp",
+    "https://content.estitor.com/7fba2ffc-15bd-4531-b9ba-3f29a73863fe-lg.webp",
+    "https://content.estitor.com/c423fd56-621d-401d-a817-6c7d83b777ad-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 71m², Tuški Put, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639838"
+}

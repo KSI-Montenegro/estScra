@@ -1,0 +1,33 @@
+{
+  "key": "estitor_546867",
+  "source": "estitor",
+  "listing_id": "546867",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-herceg-novi/id-546867",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-herceg-novi/id-546867"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 309,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:16.003491+00:00",
+  "images": [
+    "https://content.estitor.com/4b81268a-7b21-477c-b792-53c923bc2e61-lg.webp",
+    "https://content.estitor.com/2fa7b799-ff57-482a-b063-8373a2aedb15-lg.webp",
+    "https://content.estitor.com/c2297a72-d4a9-42f4-a603-225eb52a461e-lg.webp",
+    "https://content.estitor.com/b7dc1220-e376-49e4-bcf1-96f3bce0d29e-lg.webp",
+    "https://content.estitor.com/3329197d-3ffc-430b-a261-5277d2c72258-lg.webp",
+    "https://content.estitor.com/800ab2b1-71f5-4f89-8016-998d28f40e45-lg.webp",
+    "https://content.estitor.com/9c515085-7d16-410b-9b4c-c6ff68079110-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 35m², Topla, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/546867"
+}

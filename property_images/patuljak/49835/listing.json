@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_49835",
+  "source": "patuljak",
+  "listing_id": "49835",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stan-u-novogradnji-2-terase-sa-pogledom-n--49835",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stan-u-novogradnji-2-terase-sa-pogledom-n--49835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 48,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:58.843685+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/49835_14.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem stan u novogradnji,  2 terase sa pogledom na more,lift",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/49835"
+}

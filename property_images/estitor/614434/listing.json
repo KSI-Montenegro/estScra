@@ -1,0 +1,36 @@
+{
+  "key": "estitor_614434",
+  "source": "estitor",
+  "listing_id": "614434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-614434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-614434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 301,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:12.031049+00:00",
+  "images": [
+    "https://content.estitor.com/0ed09216-b6d8-4c52-8656-5e6a47ca9428-lg.webp",
+    "https://content.estitor.com/a16da9ae-849e-4e78-a8f3-793f837d9fc0-lg.webp",
+    "https://content.estitor.com/d09e4e5d-f27f-49cf-b241-7f6a7b9764ae-lg.webp",
+    "https://content.estitor.com/a4b9ea89-c6e8-4f0c-8eef-f48739117aab-lg.webp",
+    "https://content.estitor.com/95c80d5c-278e-46f9-895c-35dfdc784a5c-lg.webp",
+    "https://content.estitor.com/3ff75c67-6ca6-41c4-9ec7-93a270a342cc-lg.webp",
+    "https://content.estitor.com/e5d7ffb7-2a49-4655-a5e3-0374e3c4d266-lg.webp",
+    "https://content.estitor.com/757ad739-bb9a-49ed-84ea-47c5521c24a2-lg.webp",
+    "https://content.estitor.com/907f55eb-9504-4521-a0c0-62f50954728a-lg.webp",
+    "https://content.estitor.com/e599ce15-ad8a-476e-96eb-ffbdbcdd7072-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 26m², Topla, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/614434"
+}

@@ -1,0 +1,37 @@
+{
+  "key": "estitor_639711",
+  "source": "estitor",
+  "listing_id": "639711",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-639711",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-639711"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 59,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:43.831428+00:00",
+  "images": [
+    "https://content.estitor.com/c5223abc-e7e9-4704-bcdb-7a48643501b8-lg.webp",
+    "https://content.estitor.com/7c56e076-deb2-4a83-9832-af252887162a-lg.webp",
+    "https://content.estitor.com/5bc93c28-906f-43b5-b881-3ef7b7e16a80-lg.webp",
+    "https://content.estitor.com/f26643f5-096f-46eb-86f2-51cfa8eb85eb-lg.webp",
+    "https://content.estitor.com/67f6903e-d6b6-4175-b104-20bf4156720d-lg.webp",
+    "https://content.estitor.com/dbf64793-6fcf-4397-99d2-a99b08925565-lg.webp",
+    "https://content.estitor.com/f938444a-cbe0-404a-ac75-4124966f7d34-lg.webp",
+    "https://content.estitor.com/42ff0a61-906f-4e40-97b6-8a4c026d43fe-lg.webp",
+    "https://content.estitor.com/35e4e014-7986-4390-8e3b-58c9f0a21880-lg.webp",
+    "https://content.estitor.com/7a7057c2-fa80-4449-8ccf-a8edd4bc079d-lg.webp",
+    "https://content.estitor.com/fb2e59ce-8a82-43e0-a5c5-6319c0044e0a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, garsonjera, 35m², Velji Vinogradi, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639711"
+}

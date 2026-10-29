@@ -1,0 +1,30 @@
+{
+  "key": "estitor_639816",
+  "source": "estitor",
+  "listing_id": "639816",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-639816",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-639816"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 790,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:23.740895+00:00",
+  "images": [
+    "https://content.estitor.com/31740e4d-4355-466b-82d6-3297fcdc0c94-lg.webp",
+    "https://content.estitor.com/5e5be5f6-df21-46a2-b1d8-ce9c6fe77457-lg.webp",
+    "https://content.estitor.com/92dcf63f-c84a-41a6-805a-75f7c2a6451f-lg.webp",
+    "https://content.estitor.com/3d42db9e-0d9d-4aab-936c-4ebbe01b88d4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 60m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639816"
+}

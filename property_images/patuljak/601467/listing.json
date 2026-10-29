@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_601467",
+  "source": "patuljak",
+  "listing_id": "601467",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-garaza-22m2-stari-aerodrom-podgorica--601467",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-garaza-22m2-stari-aerodrom-podgorica--601467"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 980,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:32.718524+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/12/601467_0.webp"
+  ],
+  "status": "ok",
+  "title": "Za izdavanje garaza 22m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/601467"
+}

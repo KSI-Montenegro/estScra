@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80708",
+  "source": "patuljak",
+  "listing_id": "80708",
+  "listing_url": "https://patuljak.me/oglas/mijenjam-jednosoban-stan-za-dvosoban-new-city--80708",
+  "listing_urls": [
+    "https://patuljak.me/oglas/mijenjam-jednosoban-stan-za-dvosoban-new-city--80708"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 452,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:27.915197+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80708_0.webp"
+  ],
+  "status": "ok",
+  "title": "Mijenjam jednosoban stan za dvosoban New City",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80708"
+}

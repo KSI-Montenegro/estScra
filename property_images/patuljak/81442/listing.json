@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_81442",
+  "source": "patuljak",
+  "listing_id": "81442",
+  "listing_url": "https://patuljak.me/oglas/izdajem-kucu-u-donjoj-gorici-blizu-udg-fakulteta--81442",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-kucu-u-donjoj-gorici-blizu-udg-fakulteta--81442"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 448,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:26.536884+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81442_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem kuću u Donjoj Gorici  blizu UDG fakulteta",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81442"
+}

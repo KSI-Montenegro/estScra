@@ -1,0 +1,30 @@
+{
+  "key": "estitor_639859",
+  "source": "estitor",
+  "listing_id": "639859",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-639859",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-639859"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 852,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:10.898319+00:00",
+  "images": [
+    "https://content.estitor.com/6f62d019-43a6-4bf6-8fbc-f7401d636108-lg.webp",
+    "https://content.estitor.com/e141226a-cb17-4c60-bedb-71573ccae738-lg.webp",
+    "https://content.estitor.com/5989d4e8-e0da-419c-b475-0c3f67254c46-lg.webp",
+    "https://content.estitor.com/c2d85922-b5a2-45e6-9663-5e4b7021e96d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 22m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639859"
+}

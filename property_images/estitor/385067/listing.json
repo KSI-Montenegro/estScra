@@ -1,0 +1,36 @@
+{
+  "key": "estitor_385067",
+  "source": "estitor",
+  "listing_id": "385067",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-385067",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-385067"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 422,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:12.485979+00:00",
+  "images": [
+    "https://content.estitor.com/078f0631-d8de-4abc-9842-2025948192b6-lg.webp",
+    "https://content.estitor.com/7d6f7d68-e45d-4b62-bca8-35cc6eea0a01-lg.webp",
+    "https://content.estitor.com/a604d8f6-31fe-4fe2-b540-516fbea6b735-lg.webp",
+    "https://content.estitor.com/7b1839c5-e137-4d1f-ab5b-8231ab4ccbd3-lg.webp",
+    "https://content.estitor.com/a88c6a54-8814-449d-bd39-be50e2e2c4bd-lg.webp",
+    "https://content.estitor.com/bd0d2b6b-2ba2-4bd1-8934-9e910ca242ac-lg.webp",
+    "https://content.estitor.com/a7e9470c-c24e-423c-bd01-2268f0681bfd-lg.webp",
+    "https://content.estitor.com/f8315ebc-e0ac-483d-b1bf-524f43de4818-lg.webp",
+    "https://content.estitor.com/6eac8897-bcfd-4790-bdc1-dd1dad71ae7a-lg.webp",
+    "https://content.estitor.com/3d6d130c-5d8a-43e8-924c-8dfe2af26efc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 55m², Igalo-Petlja, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/385067"
+}

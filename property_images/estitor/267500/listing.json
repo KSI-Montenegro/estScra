@@ -1,0 +1,32 @@
+{
+  "key": "estitor_267500",
+  "source": "estitor",
+  "listing_id": "267500",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bijelo-polje/id-267500",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bijelo-polje/id-267500"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 966,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:25.823099+00:00",
+  "images": [
+    "https://content.estitor.com/9309d2e6-7025-4f03-af22-4540dec0dcc7-lg.webp",
+    "https://content.estitor.com/ae9b50aa-a66f-47a4-8d22-cb4f8a5427a3-lg.webp",
+    "https://content.estitor.com/a79766b3-162e-46b8-bfe6-ad39fca112d8-lg.webp",
+    "https://content.estitor.com/b7b3a426-0247-4d4f-9ab0-e9c4cbc220e4-lg.webp",
+    "https://content.estitor.com/3e6fd05a-a6c2-4e1b-8e67-9d5d9688e595-lg.webp",
+    "https://content.estitor.com/f692cede-aec9-404d-bd60-4bacfee4ee81-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 20m², Rakonje, Bijelo Polje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/267500"
+}

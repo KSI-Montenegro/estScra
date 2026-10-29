@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_72778",
+  "source": "patuljak",
+  "listing_id": "72778",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-u-city-kvartu-izdavanje--72778",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-u-city-kvartu-izdavanje--72778"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 112,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:33.964611+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72778_9.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban stan u City kvartu - izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72778"
+}

@@ -1,0 +1,32 @@
+{
+  "key": "estitor_639025",
+  "source": "estitor",
+  "listing_id": "639025",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-budva/id-639025",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-budva/id-639025"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 74,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:50.804912+00:00",
+  "images": [
+    "https://content.estitor.com/96e40afa-7d10-42c5-a6a1-ed762de91381-lg.webp",
+    "https://content.estitor.com/d044ee0e-5a12-4130-a424-6455164aeacf-lg.webp",
+    "https://content.estitor.com/ee4eef66-deea-417b-aa1c-8acb47d1b6b0-lg.webp",
+    "https://content.estitor.com/466ce9ee-858c-44e1-85e1-dbe67464238e-lg.webp",
+    "https://content.estitor.com/f85e0c60-815e-4a91-bd88-95ec997b42f4-lg.webp",
+    "https://content.estitor.com/c22253c0-54ae-4088-b180-b63ebb77475a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 6767m², Buljarica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639025"
+}

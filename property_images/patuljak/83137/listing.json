@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_83137",
+  "source": "patuljak",
+  "listing_id": "83137",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-na-zabjelu--83137",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-na-zabjelu--83137"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 436,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:16.936654+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83137_11.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem Stan na Zabjelu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83137"
+}

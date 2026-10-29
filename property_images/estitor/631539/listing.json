@@ -1,0 +1,35 @@
+{
+  "key": "estitor_631539",
+  "source": "estitor",
+  "listing_id": "631539",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631539",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631539"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 594,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:39.962302+00:00",
+  "images": [
+    "https://content.estitor.com/ecd3d5b2-c393-43bd-b5d2-0e422c46aad2-lg.webp",
+    "https://content.estitor.com/3f373ec7-4b06-4b31-90b2-efba7e358881-lg.webp",
+    "https://content.estitor.com/b5e3420d-13b2-4c10-b80b-df6a90a92ed5-lg.webp",
+    "https://content.estitor.com/b9dfbdbb-a780-405a-9d47-9529a6019800-lg.webp",
+    "https://content.estitor.com/33356d9a-bfb1-4d2a-9a11-010b94b53227-lg.webp",
+    "https://content.estitor.com/82634ac4-ce7f-47c8-83d6-c7e3c5323e4b-lg.webp",
+    "https://content.estitor.com/6b73048b-aaf4-4276-a6d0-d77bc1cfb1a0-lg.webp",
+    "https://content.estitor.com/e8efedc0-e270-430e-ac3d-9f8a8a55fd03-lg.webp",
+    "https://content.estitor.com/fe30aff9-5dc4-458b-9556-26dba4feb06f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 47m², Vezirov Most, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/631539"
+}

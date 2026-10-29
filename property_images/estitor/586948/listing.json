@@ -1,0 +1,28 @@
+{
+  "key": "estitor_586948",
+  "source": "estitor",
+  "listing_id": "586948",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-586948",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-586948"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 964,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:25.582991+00:00",
+  "images": [
+    "https://content.estitor.com/a541e40a-bd18-4f6b-88dc-10d5b2cd678c-lg.webp",
+    "https://content.estitor.com/34c617ba-7eb4-414f-93bd-9b4b31a1c4ca-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 13m², New City, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/586948"
+}

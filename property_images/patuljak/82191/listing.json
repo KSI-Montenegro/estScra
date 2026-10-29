@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_82191",
+  "source": "patuljak",
+  "listing_id": "82191",
+  "listing_url": "https://patuljak.me/oglas/hirno-prodajem-13500m2-zemljista-sa-starom-kamenom--82191",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hirno-prodajem-13500m2-zemljista-sa-starom-kamenom--82191"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 41,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:10.303071+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82191_0.webp"
+  ],
+  "status": "ok",
+  "title": "Hirno prodajem 13500m2 zemljišta sa starom kamenom kućom",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82191"
+}

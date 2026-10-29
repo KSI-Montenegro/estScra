@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_85213",
+  "source": "patuljak",
+  "listing_id": "85213",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-46-m2-zabjelo-podgorica--85213",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-46-m2-zabjelo-podgorica--85213"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 126,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:40.643972+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85213_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 46 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85213"
+}

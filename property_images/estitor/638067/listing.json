@@ -1,0 +1,40 @@
+{
+  "key": "estitor_638067",
+  "source": "estitor",
+  "listing_id": "638067",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-podgorica/id-638067",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-podgorica/id-638067"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 86,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:55.810912+00:00",
+  "images": [
+    "https://content.estitor.com/b687fe91-55d4-4918-834a-32729c253ebd-lg.webp",
+    "https://content.estitor.com/2aa6bc2a-a658-4722-a631-f2f878c8994a-lg.webp",
+    "https://content.estitor.com/cd2b5ace-a924-4ac7-8b0e-09c03a1e40d5-lg.webp",
+    "https://content.estitor.com/4a196f74-46fe-46fb-8ab3-be34609f352c-lg.webp",
+    "https://content.estitor.com/339fa9c7-b05d-49d2-a048-a95e4cd207c2-lg.webp",
+    "https://content.estitor.com/8f805728-e874-42a8-97b1-72f77acc273f-lg.webp",
+    "https://content.estitor.com/951bb377-aefd-413b-b025-a2128356d322-lg.webp",
+    "https://content.estitor.com/1af4bb19-6967-4946-abe7-e4422156c477-lg.webp",
+    "https://content.estitor.com/2e26af5f-2386-4711-ac29-89d5967e3e9e-lg.webp",
+    "https://content.estitor.com/973ac693-8e95-4786-943b-ae8272053322-lg.webp",
+    "https://content.estitor.com/5e58f326-8fab-4426-b95f-94413a39a9c8-lg.webp",
+    "https://content.estitor.com/002a57de-88f7-4bb1-aff2-ae62a0456858-lg.webp",
+    "https://content.estitor.com/5e2d2156-30ef-4379-b2b7-e4c0d8b78faa-lg.webp",
+    "https://content.estitor.com/5a1243e8-175e-471d-ac0d-73cc28f80154-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 95m², Pričelje, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638067"
+}

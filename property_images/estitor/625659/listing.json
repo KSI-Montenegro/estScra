@@ -1,0 +1,31 @@
+{
+  "key": "estitor_625659",
+  "source": "estitor",
+  "listing_id": "625659",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-625659",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-herceg-novi/id-625659"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 173,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:04.215718+00:00",
+  "images": [
+    "https://content.estitor.com/2cf504fe-6359-4857-a6b3-1813b9146277-lg.webp",
+    "https://content.estitor.com/382e8491-1cbf-420a-8f02-083153d5e863-lg.webp",
+    "https://content.estitor.com/6fb88cf0-19ce-494d-8dbb-52a9d10d962b-lg.webp",
+    "https://content.estitor.com/1ce479bc-ee5b-4fe8-af7a-ac90786371e2-lg.webp",
+    "https://content.estitor.com/67437ca8-1646-461a-a9a8-9642030ba1c2-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 30m², Sutorina, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/625659"
+}

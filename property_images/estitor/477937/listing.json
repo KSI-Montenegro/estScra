@@ -1,0 +1,32 @@
+{
+  "key": "estitor_477937",
+  "source": "estitor",
+  "listing_id": "477937",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-477937",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-477937"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 798,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:31.277779+00:00",
+  "images": [
+    "https://content.estitor.com/f85ded5f-801a-4a50-bcc1-235034a9fcc5-lg.webp",
+    "https://content.estitor.com/774b9e22-35e0-495d-a282-2571e1ad1b46-lg.webp",
+    "https://content.estitor.com/9d407c80-1cd1-40ad-98a7-d1bbdd0fdf61-lg.webp",
+    "https://content.estitor.com/3c3d4d7e-b614-4b53-956b-440360f88853-lg.webp",
+    "https://content.estitor.com/395c0277-61a2-4a70-9a5a-e6c016b8902a-lg.webp",
+    "https://content.estitor.com/32d561b2-5b1d-4a22-9544-98c2c92d746c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 32m², Seljanovo, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/477937"
+}

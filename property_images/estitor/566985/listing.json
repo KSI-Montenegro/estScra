@@ -1,0 +1,34 @@
+{
+  "key": "estitor_566985",
+  "source": "estitor",
+  "listing_id": "566985",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566985",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566985"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 80,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:37.333641+00:00",
+  "images": [
+    "https://content.estitor.com/6cb4abbf-6ed0-4761-af95-385caa824679-lg.webp",
+    "https://content.estitor.com/96cc480f-1e00-49d4-853c-6b1b081f8493-lg.webp",
+    "https://content.estitor.com/9bd2982f-c54a-414c-bea1-29d05084d916-lg.webp",
+    "https://content.estitor.com/9783bad2-a63f-4ef3-9409-c4481e8ae3de-lg.webp",
+    "https://content.estitor.com/d21ae350-6748-452e-bc87-9bab960a0ebc-lg.webp",
+    "https://content.estitor.com/14a09386-21ee-4575-8906-8d2221e23aeb-lg.webp",
+    "https://content.estitor.com/0e9a91a5-3c9d-4cba-b180-b097099ee90b-lg.webp",
+    "https://content.estitor.com/6a1533b2-3218-49da-a0cd-379272ebbe90-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 67m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/566985"
+}

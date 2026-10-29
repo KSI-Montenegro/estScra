@@ -1,0 +1,32 @@
+{
+  "key": "estitor_626381",
+  "source": "estitor",
+  "listing_id": "626381",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626381",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626381"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 122,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:09.910465+00:00",
+  "images": [
+    "https://content.estitor.com/bc4fcea7-8e79-420b-bb34-cb634d6f1aeb-lg.webp",
+    "https://content.estitor.com/bad19ca6-8aed-4759-84b6-8aea4e5352ca-lg.webp",
+    "https://content.estitor.com/3bc04ae9-ce15-48e1-8b24-bdb331f8a32d-lg.webp",
+    "https://content.estitor.com/e1241839-5d1b-4796-ad12-77b92cbc7ee2-lg.webp",
+    "https://content.estitor.com/eb6e81e7-c202-4d3f-a1a6-6eec8f316e78-lg.webp",
+    "https://content.estitor.com/e17a8f24-ae65-4ede-b12a-95609a8102ba-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 45m², Kruševac, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626381"
+}

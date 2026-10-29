@@ -1,0 +1,29 @@
+{
+  "key": "realitica_3949573",
+  "source": "realitica",
+  "listing_id": "3949573",
+  "listing_url": "https://www.realitica.com/hr/listing/3949573",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949573"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 82,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:15.481336+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3949573_img_0762.jpeg",
+    "https://www.realitica.com/images/listing_photos/3949573_b17a1855-164f-4cf3-97b7-5bde77b025b0.jpg",
+    "https://www.realitica.com/images/listing_photos/3949573_img_2654.jpeg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Građevinsko Zemljište, Utjeha",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3949573"
+}

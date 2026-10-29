@@ -1,0 +1,33 @@
+{
+  "key": "estitor_624123",
+  "source": "estitor",
+  "listing_id": "624123",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-624123",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-624123"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 351,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:37.044791+00:00",
+  "images": [
+    "https://content.estitor.com/99fc24d0-00c6-4781-bed5-6e0d47dcd2dd-lg.webp",
+    "https://content.estitor.com/1e7de239-996e-4bfb-89a9-6bed1a5c3ac7-lg.webp",
+    "https://content.estitor.com/49a6aa5f-0007-422e-90c2-393ea48bcc8d-lg.webp",
+    "https://content.estitor.com/4063745e-026c-42d6-90c8-43ec02e091e4-lg.webp",
+    "https://content.estitor.com/a045fa5c-9d8c-40a9-87a8-32e7f5b64ca6-lg.webp",
+    "https://content.estitor.com/e96245b3-76da-4678-a956-c1089a5b1fa1-lg.webp",
+    "https://content.estitor.com/5ff4a78d-3b1f-43ca-a052-2ff72727db2e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Stari Grad, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624123"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_561753",
+  "source": "patuljak",
+  "listing_id": "561753",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-zemljistedajbabe--561753",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-zemljistedajbabe--561753"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 126,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:39.174986+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/03/561753_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/03/561753_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/03/561753_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se zemljiste,Dajbabe",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/561753"
+}

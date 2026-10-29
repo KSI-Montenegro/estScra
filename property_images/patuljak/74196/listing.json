@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_74196",
+  "source": "patuljak",
+  "listing_id": "74196",
+  "listing_url": "https://patuljak.me/oglas/prodajem-urbanizovano-zemljiste--74196",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-urbanizovano-zemljiste--74196"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 948,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:27:16.955409+00:00",
+  "images": [],
+  "status": "no_gallery_images",
+  "title": "Prodajem urbanizovano zemljiste",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74196",
+  "no_images_reason": "Property gallery supplied no valid image-file URLs; media-directory links without a filename were excluded.",
+  "rejected_gallery_links": [
+    "/kes/slike/740xAuto/2026/08/"
+  ]
+}

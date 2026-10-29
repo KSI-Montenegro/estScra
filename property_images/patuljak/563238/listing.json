@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_563238",
+  "source": "patuljak",
+  "listing_id": "563238",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-garsonjera-23m2-centar-budva--563238",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-garsonjera-23m2-centar-budva--563238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 121,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:38.926136+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/563238_8.webp"
+  ],
+  "status": "ok",
+  "title": "Za izdavanje garsonjera 23m2, Centar, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/563238"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "estitor_642096",
+  "source": "estitor",
+  "listing_id": "642096",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-642096",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kotor/id-642096"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 240,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:42.498643+00:00",
+  "images": [
+    "https://content.estitor.com/67dd0b42-ad72-4d10-9681-d466df37efb1-lg.webp",
+    "https://content.estitor.com/75ea96f1-f33c-447d-8447-47466f0948fc-lg.webp",
+    "https://content.estitor.com/4d3dfc25-e006-4b83-8d3e-04f4d92b9f98-lg.webp",
+    "https://content.estitor.com/a09e6030-a0f6-4fb9-88ed-be0a19db5f58-lg.webp",
+    "https://content.estitor.com/dc781cea-df56-4fc9-a79f-9a95aa865d1f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 120m², Lješevići, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642096"
+}

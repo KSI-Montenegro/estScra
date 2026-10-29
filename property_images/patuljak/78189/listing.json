@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_78189",
+  "source": "patuljak",
+  "listing_id": "78189",
+  "listing_url": "https://patuljak.me/oglas/kupujem-stan-podgorica-100-000--78189",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-stan-podgorica-100-000--78189"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 58,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:59.252628+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78189_0.webp"
+  ],
+  "status": "ok",
+  "title": "Kupujem stan, Podgorica 100 000",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78189"
+}

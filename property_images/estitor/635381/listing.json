@@ -1,0 +1,32 @@
+{
+  "key": "estitor_635381",
+  "source": "estitor",
+  "listing_id": "635381",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-635381",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-635381"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 285,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:03.813395+00:00",
+  "images": [
+    "https://content.estitor.com/a72540a6-601f-4f11-bb04-9b4cd47031dd-lg.webp",
+    "https://content.estitor.com/86e71e0b-5a67-49b1-94c6-011c2611bee6-lg.webp",
+    "https://content.estitor.com/e5894747-8b6c-4bd7-9956-28019be2a607-lg.webp",
+    "https://content.estitor.com/fd23cead-73b3-48c3-aa7f-ad84a34a7aae-lg.webp",
+    "https://content.estitor.com/bdb5e128-18a3-41b6-a5d7-8e68728fb25e-lg.webp",
+    "https://content.estitor.com/25dd67e7-1b8d-47bf-8a17-ea49ad7dc375-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Donja Lastva, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/635381"
+}

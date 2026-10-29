@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_56433",
+  "source": "patuljak",
+  "listing_id": "56433",
+  "listing_url": "https://patuljak.me/oglas/plac-4214m2-bulevar-danilovgrad-podgorica--56433",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-4214m2-bulevar-danilovgrad-podgorica--56433"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 109,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:27.801559+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/56433"
+}

@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_73263",
+  "source": "patuljak",
+  "listing_id": "73263",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-48-m-stari-aerodrom-p--73263",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-jednosoban-stan-48-m-stari-aerodrom-p--73263"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 44,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:54.339399+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73263_7.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju, Jednosoban stan 48 m², Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73263"
+}

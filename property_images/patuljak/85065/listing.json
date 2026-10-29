@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_85065",
+  "source": "patuljak",
+  "listing_id": "85065",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-415m2-u-tolose-blizu-bjanke-ceka-se--85065",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-415m2-u-tolose-blizu-bjanke-ceka-se--85065"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 6,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:25.261904+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85065_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 415m2 u Tološe blizu Bjanke. Čeka se uskoro DUP Tološa da se završi. Cijena : 68.000 E",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85065"
+}

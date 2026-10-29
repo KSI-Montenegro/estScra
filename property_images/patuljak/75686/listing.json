@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_75686",
+  "source": "patuljak",
+  "listing_id": "75686",
+  "listing_url": "https://patuljak.me/oglas/prodaja-placeva-klikovace--75686",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-placeva-klikovace--75686"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 82,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:13.154482+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75686_9.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja placeva - Klikovače",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75686"
+}

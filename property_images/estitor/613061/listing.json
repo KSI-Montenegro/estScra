@@ -1,0 +1,31 @@
+{
+  "key": "estitor_613061",
+  "source": "estitor",
+  "listing_id": "613061",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-613061",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-613061"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 751,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:59.360992+00:00",
+  "images": [
+    "https://content.estitor.com/a2b0abc7-fa8a-4812-ab2e-798863507659-lg.webp",
+    "https://content.estitor.com/46e5d513-ea9e-4ca0-a0f7-23eb95c1fc29-lg.webp",
+    "https://content.estitor.com/951bfa66-212c-4f97-bf46-592e3cddbf33-lg.webp",
+    "https://content.estitor.com/8e61ea8b-7bf4-4dd5-89b8-30659a0e9ed0-lg.webp",
+    "https://content.estitor.com/b44d6726-7039-4d6d-95dd-c36186c27f77-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 60m², Haj-Nehaj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/613061"
+}

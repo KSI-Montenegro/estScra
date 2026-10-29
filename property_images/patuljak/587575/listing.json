@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_587575",
+  "source": "patuljak",
+  "listing_id": "587575",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-47m2-bar--587575",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-47m2-bar--587575"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 120,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:38.329454+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/09/587575_1.webp"
+  ],
+  "status": "ok",
+  "title": "Za izdavanje jednosoban stan 47m2, Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/587575"
+}

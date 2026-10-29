@@ -1,0 +1,33 @@
+{
+  "key": "estitor_496369",
+  "source": "estitor",
+  "listing_id": "496369",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-496369",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-496369"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 596,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:40.799340+00:00",
+  "images": [
+    "https://content.estitor.com/710c5583-0052-4954-a0fa-cacfcc3da2db-lg.webp",
+    "https://content.estitor.com/336d77b2-67b8-4368-8cfd-90788ca872f1-lg.webp",
+    "https://content.estitor.com/e13ff152-9cf8-4ba0-9d40-d7e019da9951-lg.webp",
+    "https://content.estitor.com/6e69111c-6a5a-4055-b39e-94c8309c7a6d-lg.webp",
+    "https://content.estitor.com/e91dc2ff-c6fc-4f94-9de4-0c20f07d9fdd-lg.webp",
+    "https://content.estitor.com/695d1ad6-7163-4b81-9b23-b7f0dee076fc-lg.webp",
+    "https://content.estitor.com/c0ba6282-8fcd-4dfd-b821-2cb52a875aa5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 33m², Drač, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/496369"
+}

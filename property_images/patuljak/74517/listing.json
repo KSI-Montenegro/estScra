@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_74517",
+  "source": "patuljak",
+  "listing_id": "74517",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosoban-stan-vezirov-most--74517",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosoban-stan-vezirov-most--74517"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 887,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:34.181074+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74517_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Jednosoban stan, Vezirov most",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74517"
+}

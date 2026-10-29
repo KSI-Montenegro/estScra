@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_77303",
+  "source": "patuljak",
+  "listing_id": "77303",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-garsonjeru--77303",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-garsonjeru--77303"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 498,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:27:16.955620+00:00",
+  "images": [],
+  "status": "no_gallery_images",
+  "title": "Izdajem stan- garsonjeru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77303",
+  "no_images_reason": "Property gallery supplied no valid image-file URLs; media-directory links without a filename were excluded.",
+  "rejected_gallery_links": [
+    "/kes/slike/740xAuto/2026/09/"
+  ]
+}

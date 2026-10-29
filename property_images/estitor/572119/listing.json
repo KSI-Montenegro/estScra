@@ -1,0 +1,33 @@
+{
+  "key": "estitor_572119",
+  "source": "estitor",
+  "listing_id": "572119",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572119",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572119"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 805,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:36.455283+00:00",
+  "images": [
+    "https://content.estitor.com/62608b6e-894e-41e9-9897-b7fd77171662-lg.webp",
+    "https://content.estitor.com/077023c6-fa6a-4172-ac10-920b9c5dba6d-lg.webp",
+    "https://content.estitor.com/5fa51706-d461-4b6b-8395-ab3cd32e867f-lg.webp",
+    "https://content.estitor.com/7692bd3c-c90e-4381-ab5a-7734ac2b0244-lg.webp",
+    "https://content.estitor.com/33fd2940-6c9f-4bd6-91c7-d735a657e8c5-lg.webp",
+    "https://content.estitor.com/350dbff2-7877-45f0-8ea3-cf306641d543-lg.webp",
+    "https://content.estitor.com/b25b33bc-36d5-421e-add1-65daf416e519-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 42m², Ulcinjsko Polje, Ulcinj | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/572119"
+}

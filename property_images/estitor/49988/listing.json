@@ -1,0 +1,40 @@
+{
+  "key": "estitor_49988",
+  "source": "estitor",
+  "listing_id": "49988",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-49988",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-49988"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 328,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:25.539180+00:00",
+  "images": [
+    "https://content.estitor.com/8126a9da-c74d-4c07-91a8-f39be7f5cfc8-lg.webp",
+    "https://content.estitor.com/6643da23-6607-4646-b5df-71afa4db2287-lg.webp",
+    "https://content.estitor.com/f505f407-52cc-43a3-8752-0eb339f9c8fe-lg.webp",
+    "https://content.estitor.com/5b59bf93-dd3f-4e2e-9319-594833f4b71b-lg.webp",
+    "https://content.estitor.com/299d48ba-54ea-456a-af81-c42803c3b0b1-lg.webp",
+    "https://content.estitor.com/25ec47ef-5abe-416e-83ad-2559b6e17bad-lg.webp",
+    "https://content.estitor.com/733a8e40-183a-4330-96b8-212c68be70ae-lg.webp",
+    "https://content.estitor.com/cc7a1255-3ea5-4fbc-9032-1053d015720e-lg.webp",
+    "https://content.estitor.com/8f38b78e-3449-4a3c-9250-d5ab841fbebf-lg.webp",
+    "https://content.estitor.com/2c52fc9e-603f-4007-878b-b1ced1cc0481-lg.webp",
+    "https://content.estitor.com/88f4e890-f079-4c84-96a5-f00849a87d55-lg.webp",
+    "https://content.estitor.com/2be3bf8e-430e-4e34-9da3-1963cd7822e3-lg.webp",
+    "https://content.estitor.com/78aaa7d3-2e97-4b42-9504-44cc8f8ad1bf-lg.webp",
+    "https://content.estitor.com/2735fe72-8742-46cb-9f3d-48caa7fe83f7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 93m², Sutomore, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/49988"
+}

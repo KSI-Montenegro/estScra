@@ -1,0 +1,29 @@
+{
+  "key": "estitor_641488",
+  "source": "estitor",
+  "listing_id": "641488",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-641488",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-641488"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 28,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:29.628434+00:00",
+  "images": [
+    "https://content.estitor.com/970ea5fd-1091-4d15-804c-62dfeeaa8c11-lg.webp",
+    "https://content.estitor.com/acc4af90-8fa0-4a9a-bb1d-53434270fb6f-lg.webp",
+    "https://content.estitor.com/e7d80e03-d690-492f-8adf-e76a11f91d7f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 108m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641488"
+}

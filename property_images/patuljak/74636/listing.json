@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_74636",
+  "source": "patuljak",
+  "listing_id": "74636",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-dovosoban-stan-na-cetinju-70-m2--74636",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-dovosoban-stan-na-cetinju-70-m2--74636"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 72,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:10.048427+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74636_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74636_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74636_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74636_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74636_4.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se dovosoban stan na Cetinju 70 m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74636"
+}

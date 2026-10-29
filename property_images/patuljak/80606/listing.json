@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_80606",
+  "source": "patuljak",
+  "listing_id": "80606",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-blizini-gintasa-podgoric--80606",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-blizini-gintasa-podgoric--80606"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 453,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:28.656529+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80606_9.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan u blizini Gintasa, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80606"
+}

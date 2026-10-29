@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_79432",
+  "source": "patuljak",
+  "listing_id": "79432",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-moderno-opremljen-jednosoban-stan-u-cent--79432",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-moderno-opremljen-jednosoban-stan-u-cent--79432"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 468,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:37.149569+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79432_9.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se moderno opremljen jednosoban stan u Central Point",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79432"
+}

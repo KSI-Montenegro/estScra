@@ -1,0 +1,31 @@
+{
+  "key": "estitor_600839",
+  "source": "estitor",
+  "listing_id": "600839",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-600839",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-600839"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 792,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:25.805946+00:00",
+  "images": [
+    "https://content.estitor.com/99b744af-5599-4d45-be87-36143fb64a46-lg.webp",
+    "https://content.estitor.com/5d89e31e-46ca-4d20-aed4-a66fd6fb1706-lg.webp",
+    "https://content.estitor.com/ae8a259f-444f-4f57-8def-203284de9323-lg.webp",
+    "https://content.estitor.com/43039358-94eb-4226-9cfc-5919765f4ee3-lg.webp",
+    "https://content.estitor.com/da8859c1-c2b3-4908-960f-c33fbb8d629d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/600839"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "estitor_572102",
+  "source": "estitor",
+  "listing_id": "572102",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572102",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-572102"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 805,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:37.454816+00:00",
+  "images": [
+    "https://content.estitor.com/c2731726-8438-442c-bba8-ccffd12bed8a-lg.webp",
+    "https://content.estitor.com/1f833818-63f6-4b72-b8b0-80ed7608d23b-lg.webp",
+    "https://content.estitor.com/251fd617-235e-41f4-8156-1f6fa9723bf9-lg.webp",
+    "https://content.estitor.com/a85fa36b-536c-4ce4-ad5a-0343dae36ec8-lg.webp",
+    "https://content.estitor.com/1960984a-9ea5-45aa-90cb-40e2b8b31e98-lg.webp",
+    "https://content.estitor.com/2fa3c019-ba77-42e9-83fc-dfec5ed47fc3-lg.webp",
+    "https://content.estitor.com/9fc57ca4-34ed-422f-a4eb-a01536ab7687-lg.webp",
+    "https://content.estitor.com/591e926b-6f6e-4b69-89b7-bd9b077c1b2a-lg.webp",
+    "https://content.estitor.com/91abc7b7-3b93-4cc1-a80e-9680cd7abc26-lg.webp",
+    "https://content.estitor.com/98a7e468-16e1-4bb9-b832-644a1c3adb7f-lg.webp",
+    "https://content.estitor.com/4f9f951b-ab92-434e-ae78-8ae263f6f315-lg.webp",
+    "https://content.estitor.com/3c56601c-2255-4331-8970-15547ce1329b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 120m², Ulcinjsko Polje, Ulcinj | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/572102"
+}

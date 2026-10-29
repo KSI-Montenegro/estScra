@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_73044",
+  "source": "patuljak",
+  "listing_id": "73044",
+  "listing_url": "https://patuljak.me/oglas/prodajem-jednosoban-stan-u-mup-ovoj-zgradi-na-srar--73044",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-jednosoban-stan-u-mup-ovoj-zgradi-na-srar--73044"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 73,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:10.180316+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73044_7.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem jednosoban stan u mup-ovoj zgradi na Srarom aerodromu,preko puta Doma zdravlja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73044"
+}

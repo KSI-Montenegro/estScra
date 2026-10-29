@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_84994",
+  "source": "patuljak",
+  "listing_id": "84994",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru--84994",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru--84994"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 426,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:14.272116+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84994_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem garsonjeru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84994"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_20282",
+  "source": "patuljak",
+  "listing_id": "20282",
+  "listing_url": "https://patuljak.me/oglas/udoban-stan-u-herceg-novom-je-vase-idealno-mjesto--20282",
+  "listing_urls": [
+    "https://patuljak.me/oglas/udoban-stan-u-herceg-novom-je-vase-idealno-mjesto--20282"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 778,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:16.584251+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20282_11.webp"
+  ],
+  "status": "ok",
+  "title": "Udoban stan u Herceg Novom je vaše idealno mjesto za život i opuštanje!",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/20282"
+}

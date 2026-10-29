@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_493860",
+  "source": "patuljak",
+  "listing_id": "493860",
+  "listing_url": "https://patuljak.me/oglas/prodaja-3-placa-povrsine-od-500550-i-600m2-u-tolos--493860",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-3-placa-povrsine-od-500550-i-600m2-u-tolos--493860"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 127,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:39.790461+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/06/493860_5.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja 3 placa površine od 500,550 i 600m2 u Tološima",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/493860"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_79452",
+  "source": "patuljak",
+  "listing_id": "79452",
+  "listing_url": "https://patuljak.me/oglas/zeta-gradnja-garazno-mjesto--79452",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zeta-gradnja-garazno-mjesto--79452"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 976,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:30.716253+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79452_0.webp"
+  ],
+  "status": "ok",
+  "title": "Zeta gradnja garazno mjesto",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79452"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_76865",
+  "source": "patuljak",
+  "listing_id": "76865",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-plac-spuz--76865",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-plac-spuz--76865"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 72,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:07.190854+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76865_1.webp"
+  ],
+  "status": "ok",
+  "title": "NA PRODAJU PLAC  SPUŽ",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76865"
+}

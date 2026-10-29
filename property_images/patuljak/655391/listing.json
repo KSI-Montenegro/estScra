@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_655391",
+  "source": "patuljak",
+  "listing_id": "655391",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-51m2-centar-podgorice-izdavanje--655391",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-51m2-centar-podgorice-izdavanje--655391"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 782,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:20.093262+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655391_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655391_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/655391_2.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan, 51m2, Centar, Podgorice, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/655391"
+}

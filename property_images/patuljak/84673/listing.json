@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_84673",
+  "source": "patuljak",
+  "listing_id": "84673",
+  "listing_url": "https://patuljak.me/oglas/izdajem-moderno-opremljen-jednosoban-stan-42-m2-za--84673",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-moderno-opremljen-jednosoban-stan-42-m2-za--84673"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 125,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:40.470610+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84673_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem moderno opremljen jednosoban stan 42 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84673"
+}

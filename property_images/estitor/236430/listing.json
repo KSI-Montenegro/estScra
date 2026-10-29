@@ -1,0 +1,37 @@
+{
+  "key": "estitor_236430",
+  "source": "estitor",
+  "listing_id": "236430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-236430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-236430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 800,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:32.581183+00:00",
+  "images": [
+    "https://content.estitor.com/5c8614ad-9cc9-4cc7-b403-4ab91b28b242-lg.webp",
+    "https://content.estitor.com/51ee0a40-2587-4512-a191-423cff66ceac-lg.webp",
+    "https://content.estitor.com/d398dc9f-3e7e-47a8-ac60-9def3f7cafbb-lg.webp",
+    "https://content.estitor.com/67c9e2f4-dd1c-491e-884c-e78d4709509c-lg.webp",
+    "https://content.estitor.com/2153ede4-0b9b-4c78-8a92-bb2b1e928d69-lg.webp",
+    "https://content.estitor.com/cc3d1826-2dc8-4f3c-b5cc-f6258bd34861-lg.webp",
+    "https://content.estitor.com/710baf53-f984-46c4-bb3e-e1ab10ce9c0f-lg.webp",
+    "https://content.estitor.com/6a1e44f9-ff92-4280-9184-fead44b4e5df-lg.webp",
+    "https://content.estitor.com/5b9e917e-a9c5-4a61-8395-e47111e06efc-lg.webp",
+    "https://content.estitor.com/42688329-85ce-45f7-a8a1-c65376334ff6-lg.webp",
+    "https://content.estitor.com/99dd9cc4-f8cf-452d-8367-8522ceb75a88-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 40m², Straševina, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/236430"
+}

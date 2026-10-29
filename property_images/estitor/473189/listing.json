@@ -1,0 +1,35 @@
+{
+  "key": "estitor_473189",
+  "source": "estitor",
+  "listing_id": "473189",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-473189",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-473189"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 840,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:02.463439+00:00",
+  "images": [
+    "https://content.estitor.com/408e8bd6-7648-4aa0-bb10-726c86aad889-lg.webp",
+    "https://content.estitor.com/9aa52ed4-da72-462e-92e3-5de561785ef1-lg.webp",
+    "https://content.estitor.com/e6689e61-dc27-4e52-98fe-c0bb41884aad-lg.webp",
+    "https://content.estitor.com/eede24a3-d580-4d6a-b633-2f1c05d0429e-lg.webp",
+    "https://content.estitor.com/6c18f9f7-9f38-4833-9dc4-37168b6e9e45-lg.webp",
+    "https://content.estitor.com/b58a95b4-b056-43c9-9410-0a9f9ee91d59-lg.webp",
+    "https://content.estitor.com/8378e659-8d87-4e57-b4d2-6250c595155b-lg.webp",
+    "https://content.estitor.com/f5f72948-9760-4345-8f82-d1453db5c5c9-lg.webp",
+    "https://content.estitor.com/3b54bb3f-2cbd-491e-9585-953aa829c2af-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/473189"
+}

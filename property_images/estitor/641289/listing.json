@@ -1,0 +1,38 @@
+{
+  "key": "estitor_641289",
+  "source": "estitor",
+  "listing_id": "641289",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-641289",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-641289"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 2,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:23.532944+00:00",
+  "images": [
+    "https://content.estitor.com/43030f61-7aab-4ac9-b073-ae402fb368ae-lg.webp",
+    "https://content.estitor.com/e6527f2e-36a5-4739-891e-0b484c51d8c6-lg.webp",
+    "https://content.estitor.com/7824ee99-1388-4b17-b8be-12599f04b3e0-lg.webp",
+    "https://content.estitor.com/99e37afc-eafa-4349-a204-2ce8e179958e-lg.webp",
+    "https://content.estitor.com/fa207a29-1801-403a-8bee-a771d9a7d52e-lg.webp",
+    "https://content.estitor.com/859a17e1-baad-4da4-bfa5-f29e36f22ff7-lg.webp",
+    "https://content.estitor.com/d8b5afa8-ec77-4726-8582-79ce1c567287-lg.webp",
+    "https://content.estitor.com/b77494c0-a076-420e-80d7-452ec468966d-lg.webp",
+    "https://content.estitor.com/2e526e39-0bdc-4d77-b2f1-200fa00bd1b9-lg.webp",
+    "https://content.estitor.com/13e48bd3-af5d-40f3-8042-d5f63911f345-lg.webp",
+    "https://content.estitor.com/4d374e85-52fd-4e33-b32f-08d91f5104cc-lg.webp",
+    "https://content.estitor.com/1f1f1e54-38d6-470d-aa8b-8400ddaa7e80-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 200m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641289"
+}

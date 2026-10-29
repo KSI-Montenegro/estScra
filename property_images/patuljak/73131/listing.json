@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_73131",
+  "source": "patuljak",
+  "listing_id": "73131",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garazno-mjesto-22m2--73131",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garazno-mjesto-22m2--73131"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 980,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:32.252192+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73131_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73131_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem garažno mjesto, 22m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73131"
+}

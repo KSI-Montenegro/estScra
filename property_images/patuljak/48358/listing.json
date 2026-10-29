@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_48358",
+  "source": "patuljak",
+  "listing_id": "48358",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-restoran-300-m2-sa-bazenom-140-m2-na-pl--48358",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-restoran-300-m2-sa-bazenom-140-m2-na-pl--48358"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 112,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:29.422563+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/02/48358_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se restoran 300 m2 sa bazenom 140 m2, na placu površine 14000 m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/48358"
+}

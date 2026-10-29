@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_5384",
+  "source": "patuljak",
+  "listing_id": "5384",
+  "listing_url": "https://patuljak.me/oglas/garazno-mjesto-zabjelo-podgorica-izdavanje--5384",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garazno-mjesto-zabjelo-podgorica-izdavanje--5384"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 957,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:21.201849+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5384_0.webp"
+  ],
+  "status": "ok",
+  "title": "Garazno mjesto, Zabjelo, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/5384"
+}

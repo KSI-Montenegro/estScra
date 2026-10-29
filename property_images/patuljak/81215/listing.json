@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_81215",
+  "source": "patuljak",
+  "listing_id": "81215",
+  "listing_url": "https://patuljak.me/oglas/lijepo-osvetljen-dvosoban-stan-sa-dobrim-rasporedo--81215",
+  "listing_urls": [
+    "https://patuljak.me/oglas/lijepo-osvetljen-dvosoban-stan-sa-dobrim-rasporedo--81215"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 750,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:58.238996+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81215_8.webp"
+  ],
+  "status": "ok",
+  "title": "Lijepo osvetljen dvosoban stan sa dobrim rasporedom; nalazi se na prvom spratu Cijena 2750m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81215"
+}

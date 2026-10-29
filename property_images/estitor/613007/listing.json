@@ -1,0 +1,32 @@
+{
+  "key": "estitor_613007",
+  "source": "estitor",
+  "listing_id": "613007",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-613007",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-613007"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 62,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:00.977103+00:00",
+  "images": [
+    "https://content.estitor.com/1fd8f481-5c5b-44c6-b2bc-078b88729bb0-lg.webp",
+    "https://content.estitor.com/fe067f61-1ece-42dc-9298-ceef8c3ec5b2-lg.webp",
+    "https://content.estitor.com/d43d9c9d-068f-4d6a-b7ce-1f38e5555be5-lg.webp",
+    "https://content.estitor.com/4f57a512-13aa-4558-9654-b95a3c3e7b59-lg.webp",
+    "https://content.estitor.com/5a9413d8-7966-4968-a5ce-8e20ed7523cd-lg.webp",
+    "https://content.estitor.com/ec63b3a5-d939-468c-a4e2-f671cd66d3c5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 110m², Gornja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/613007"
+}

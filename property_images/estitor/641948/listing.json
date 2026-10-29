@@ -1,0 +1,29 @@
+{
+  "key": "estitor_641948",
+  "source": "estitor",
+  "listing_id": "641948",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-641948",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-641948"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 137,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:44.315612+00:00",
+  "images": [
+    "https://content.estitor.com/36944bc3-c6cc-4c3a-a3ab-1ac19a7c548b-lg.webp",
+    "https://content.estitor.com/e59afae8-d77f-4674-92bc-7fc301c7ec31-lg.webp",
+    "https://content.estitor.com/f7c894a8-2d3d-4f13-8805-d4eeee3ba293-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 12m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641948"
+}

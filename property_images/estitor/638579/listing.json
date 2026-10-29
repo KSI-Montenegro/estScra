@@ -1,0 +1,41 @@
+{
+  "key": "estitor_638579",
+  "source": "estitor",
+  "listing_id": "638579",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638579",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-638579"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 114,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:02.377320+00:00",
+  "images": [
+    "https://content.estitor.com/c1aff219-b971-46cb-b2ad-03fb2b2ec9e9-lg.webp",
+    "https://content.estitor.com/6d2b292f-0a71-4880-8b9b-09fe0ee143e0-lg.webp",
+    "https://content.estitor.com/60ef5337-c987-4fed-b1d4-85c0cd796871-lg.webp",
+    "https://content.estitor.com/b6a756b6-edc7-4b1e-8fc5-b3621b529768-lg.webp",
+    "https://content.estitor.com/bfd8b034-1f39-492e-9e12-b21036af5130-lg.webp",
+    "https://content.estitor.com/155127aa-fed3-4596-ab90-5247ee41cf3f-lg.webp",
+    "https://content.estitor.com/5bbf6a25-3670-405e-8061-7ecc30057ea1-lg.webp",
+    "https://content.estitor.com/5b25a403-0b72-421c-9c3a-997396fabadb-lg.webp",
+    "https://content.estitor.com/987af763-5508-465e-bd8f-d952ded702e2-lg.webp",
+    "https://content.estitor.com/33810809-3a93-4166-8c56-9d156d2d5eab-lg.webp",
+    "https://content.estitor.com/7378b523-07f7-4a04-b842-4297e4444a6b-lg.webp",
+    "https://content.estitor.com/b26d68bd-4d49-40e6-9079-d9a17c6dd344-lg.webp",
+    "https://content.estitor.com/db061dcb-da57-468d-8e48-e34fbf109b44-lg.webp",
+    "https://content.estitor.com/f137f019-6fd6-46d9-ba85-864300ee110e-lg.webp",
+    "https://content.estitor.com/5682bea4-87a1-4d98-b062-de0ff3184eff-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 98m², Čeluga, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638579"
+}

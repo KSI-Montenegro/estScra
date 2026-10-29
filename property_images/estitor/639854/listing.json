@@ -1,0 +1,30 @@
+{
+  "key": "estitor_639854",
+  "source": "estitor",
+  "listing_id": "639854",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-639854",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-639854"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 55,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:42.371093+00:00",
+  "images": [
+    "https://content.estitor.com/119a328b-3882-498a-8369-dfb9c615e5fd-lg.webp",
+    "https://content.estitor.com/2166fa75-4cc1-454c-9c21-c00f61064f69-lg.webp",
+    "https://content.estitor.com/a108d1b6-cbd2-46ca-beb5-4363a6a17ddc-lg.webp",
+    "https://content.estitor.com/944b09e3-9fa4-492a-a0b8-a7da9bd25315-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, garsonjera, 24m², Pejton, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639854"
+}

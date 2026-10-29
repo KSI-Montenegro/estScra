@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_81098",
+  "source": "patuljak",
+  "listing_id": "81098",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-80-m2-zaljevo-bar--81098",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-80-m2-zaljevo-bar--81098"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 94,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:22.114178+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81098_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81098_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81098_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan 80 m2, Zaljevo, Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81098"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_633876",
+  "source": "patuljak",
+  "listing_id": "633876",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-26-m2-zabjelo-podgorica-izdavanje--633876",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-26-m2-zabjelo-podgorica-izdavanje--633876"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 216,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:30.515666+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633876_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633876_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633876_1.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera, 26 m2, Zabjelo, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/633876"
+}

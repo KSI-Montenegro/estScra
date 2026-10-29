@@ -1,0 +1,43 @@
+{
+  "key": "patuljak_83720",
+  "source": "patuljak",
+  "listing_id": "83720",
+  "listing_url": "https://patuljak.me/oglas/studio-apartmani--83720",
+  "listing_urls": [
+    "https://patuljak.me/oglas/studio-apartmani--83720"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 136,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:46.201532+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83720_16.webp"
+  ],
+  "status": "ok",
+  "title": "Studio apartmani",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83720"
+}

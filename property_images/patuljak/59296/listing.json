@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_59296",
+  "source": "patuljak",
+  "listing_id": "59296",
+  "listing_url": "https://patuljak.me/oglas/vikendice--59296",
+  "listing_urls": [
+    "https://patuljak.me/oglas/vikendice--59296"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 982,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:33.373443+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/59296_2.webp"
+  ],
+  "status": "ok",
+  "title": "Vikendice",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/59296"
+}

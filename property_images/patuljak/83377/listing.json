@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_83377",
+  "source": "patuljak",
+  "listing_id": "83377",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-city-kvart-550--83377",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-city-kvart-550--83377"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 435,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:16.585340+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/83377"
+}

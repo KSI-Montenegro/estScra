@@ -1,0 +1,35 @@
+{
+  "key": "estitor_601646",
+  "source": "estitor",
+  "listing_id": "601646",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-601646",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-601646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 55,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:18.804587+00:00",
+  "images": [
+    "https://content.estitor.com/1d7d6650-d4e0-412b-9db6-3e5d6aadb5b5-lg.webp",
+    "https://content.estitor.com/86425053-1c89-422c-95bf-e7c8915f9746-lg.webp",
+    "https://content.estitor.com/4c8ab221-3811-40bf-acba-6901c5742c5e-lg.webp",
+    "https://content.estitor.com/fd14c8e8-2296-43e0-b2b6-6e8957c04c2e-lg.webp",
+    "https://content.estitor.com/c8e9e5ae-24d2-46c9-b2c5-56a5821d5dcc-lg.webp",
+    "https://content.estitor.com/eb66e65b-a4b0-45e8-8ec2-2a3375f7d195-lg.webp",
+    "https://content.estitor.com/65c42c33-cbc2-4f11-83bb-a24780bde2e3-lg.webp",
+    "https://content.estitor.com/57c1c184-06b2-4df5-bec6-ffe9998300b6-lg.webp",
+    "https://content.estitor.com/742cdf62-d1ac-4277-ad7b-7b5bb8afa77f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Centar, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601646"
+}

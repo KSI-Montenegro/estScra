@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_83555",
+  "source": "patuljak",
+  "listing_id": "83555",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stariju-prizemnu-kucu-50m2-noviju-sprat--83555",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stariju-prizemnu-kucu-50m2-noviju-sprat--83555"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 55,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:00.506571+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83555_4.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem stariju prizemnu kuću 50m2 + noviju spratnu kuću od 120 m2, Ozrinići, Nikšić",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83555"
+}

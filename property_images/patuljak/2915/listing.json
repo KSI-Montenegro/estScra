@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_2915",
+  "source": "patuljak",
+  "listing_id": "2915",
+  "listing_url": "https://patuljak.me/oglas/garaza-new-city-podgorica-izdavanje--2915",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garaza-new-city-podgorica-izdavanje--2915"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 902,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:45.730196+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/04/2915_0.webp"
+  ],
+  "status": "ok",
+  "title": "Garaza, New City, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/2915"
+}

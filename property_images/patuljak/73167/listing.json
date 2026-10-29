@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_73167",
+  "source": "patuljak",
+  "listing_id": "73167",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-iizdaje-kuca-i-imanje-u-mojkovcu-tutic--73167",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-iizdaje-kuca-i-imanje-u-mojkovcu-tutic--73167"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 953,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:19.244074+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73167_3.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJE SE-IIZDAJE: Kuća i imanje u Mojkovcu (Tutići) Na prodaju je kompletno imanje sa kućom",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73167"
+}

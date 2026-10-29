@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_81714",
+  "source": "patuljak",
+  "listing_id": "81714",
+  "listing_url": "https://patuljak.me/oglas/stan-40m2-mrcevac-tivat--81714",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-40m2-mrcevac-tivat--81714"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 92,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:21.301069+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81714_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81714_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81714_2.webp"
+  ],
+  "status": "ok",
+  "title": "Stan 40m2, Mrčevac, Tivat",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81714"
+}

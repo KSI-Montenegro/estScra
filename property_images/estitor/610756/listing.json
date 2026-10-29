@@ -1,0 +1,34 @@
+{
+  "key": "estitor_610756",
+  "source": "estitor",
+  "listing_id": "610756",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-danilovgrad/id-610756",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-danilovgrad/id-610756"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 192,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:13.913178+00:00",
+  "images": [
+    "https://content.estitor.com/7a7b3de2-9ff3-49db-9957-7a6af5697a2b-lg.webp",
+    "https://content.estitor.com/5d766a3c-9cc9-43be-a29e-90998674cfe9-lg.webp",
+    "https://content.estitor.com/aaee6f97-ac1f-45a3-baed-d3d6195d4c19-lg.webp",
+    "https://content.estitor.com/fb5ddfda-77ff-44f0-afc3-e5132cc931c7-lg.webp",
+    "https://content.estitor.com/ef59d276-49be-401d-a7c7-cd7fef803b3f-lg.webp",
+    "https://content.estitor.com/207c6ebf-a7df-4c2b-90a6-663a78e872bc-lg.webp",
+    "https://content.estitor.com/37df78c0-3dfd-488b-956e-42cfcf9ca626-lg.webp",
+    "https://content.estitor.com/1ef61db3-b313-4626-9255-3011753a9123-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 24m², Pažići, Danilovgrad | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610756"
+}

@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_74226",
+  "source": "patuljak",
+  "listing_id": "74226",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-778m2-gornja-gorica--74226",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-778m2-gornja-gorica--74226"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 94,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:19.852081+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74226_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 778m2, Gornja Gorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74226"
+}

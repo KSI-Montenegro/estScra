@@ -1,0 +1,35 @@
+{
+  "key": "realitica_3947283",
+  "source": "realitica",
+  "listing_id": "3947283",
+  "listing_url": "https://www.realitica.com/hr/listing/3947283",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947283"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 54,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:59.785295+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947283_20261019_095633.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_091802.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085854.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085541.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_085958.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090309.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090330.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090131.jpg",
+    "https://www.realitica.com/images/listing_photos/3947283_psx_20261019_090204.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Budva",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947283"
+}

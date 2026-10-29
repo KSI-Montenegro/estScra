@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_617426",
+  "source": "patuljak",
+  "listing_id": "617426",
+  "listing_url": "https://patuljak.me/oglas/plac-1000m2podgorica-drac-prodaja--617426",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-1000m2podgorica-drac-prodaja--617426"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 126,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:39.042711+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/617426_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/617426_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/04/617426_1.webp"
+  ],
+  "status": "ok",
+  "title": "Plac 1000m2,Podgorica ,Drac - PRODAJA",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/617426"
+}

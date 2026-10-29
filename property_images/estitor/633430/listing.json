@@ -1,0 +1,33 @@
+{
+  "key": "estitor_633430",
+  "source": "estitor",
+  "listing_id": "633430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 238,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:41.509458+00:00",
+  "images": [
+    "https://content.estitor.com/22415acf-89d8-4210-b834-03797baf528e-lg.webp",
+    "https://content.estitor.com/7e7ffc19-5ff9-4c7e-852d-3f1fe48f334e-lg.webp",
+    "https://content.estitor.com/8a26b7ec-544b-48aa-8777-cde7262c152f-lg.webp",
+    "https://content.estitor.com/bd64ffa8-ef5b-4523-9c03-433173419c77-lg.webp",
+    "https://content.estitor.com/8e92eb50-0c33-432f-acdd-56f3d82a4c37-lg.webp",
+    "https://content.estitor.com/32e38483-d93a-4eca-ac36-5cd4b12f30ac-lg.webp",
+    "https://content.estitor.com/7dea0c0d-5cf2-4bc8-ad28-968ecb76c6d8-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Bjeliši, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633430"
+}

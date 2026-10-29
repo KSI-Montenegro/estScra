@@ -1,0 +1,36 @@
+{
+  "key": "estitor_625067",
+  "source": "estitor",
+  "listing_id": "625067",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-625067",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-625067"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 651,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:08.116574+00:00",
+  "images": [
+    "https://content.estitor.com/699212c1-b345-4746-b345-35baa73dfdc3-lg.webp",
+    "https://content.estitor.com/42daaaf0-75f0-4b32-a1b8-ea491adf59b6-lg.webp",
+    "https://content.estitor.com/52078273-c4ce-4ed3-9faa-b463f8db48b8-lg.webp",
+    "https://content.estitor.com/84093f95-49e0-4d88-8d1a-005f61ee7c50-lg.webp",
+    "https://content.estitor.com/791585e8-c43c-4707-9072-2c6b3045f1f5-lg.webp",
+    "https://content.estitor.com/ee9f0eb3-4928-4b70-94af-8436e76bf6b4-lg.webp",
+    "https://content.estitor.com/c88ea72f-cbea-4a16-afe7-517e3c046f87-lg.webp",
+    "https://content.estitor.com/40d5af75-c150-48f1-8f9e-6537179aed34-lg.webp",
+    "https://content.estitor.com/25dcdece-1ab2-4419-a14b-d8bcc7d0e6e2-lg.webp",
+    "https://content.estitor.com/58b7ea3e-1ac0-4bf0-b8e2-fff8053144ea-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Ljubović, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/625067"
+}

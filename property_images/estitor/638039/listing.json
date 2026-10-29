@@ -1,0 +1,28 @@
+{
+  "key": "estitor_638039",
+  "source": "estitor",
+  "listing_id": "638039",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-638039",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-638039"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 88,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:57.071973+00:00",
+  "images": [
+    "https://content.estitor.com/20c515a8-09dd-490a-a96b-9cde6b7d7426-lg.webp",
+    "https://content.estitor.com/7a1575f1-1b34-4f49-8e5f-f63a10d9ceb5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 10000m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638039"
+}

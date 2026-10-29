@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_79894",
+  "source": "patuljak",
+  "listing_id": "79894",
+  "listing_url": "https://patuljak.me/oglas/prodajasuterenblok-939m2--79894",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajasuterenblok-939m2--79894"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 46,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:12.766416+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79894_9.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja,Suteren,Blok 9,39m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79894"
+}

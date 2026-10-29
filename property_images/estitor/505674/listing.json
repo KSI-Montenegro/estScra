@@ -1,0 +1,35 @@
+{
+  "key": "estitor_505674",
+  "source": "estitor",
+  "listing_id": "505674",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-505674",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-505674"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 379,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:50.664278+00:00",
+  "images": [
+    "https://content.estitor.com/8786cb43-3246-445e-ad30-61e9ce95458d-lg.webp",
+    "https://content.estitor.com/2225f835-1959-4164-aca4-da5587a955d6-lg.webp",
+    "https://content.estitor.com/38b6de89-2310-4c01-9914-16124a27e091-lg.webp",
+    "https://content.estitor.com/e505d43e-a4b2-4e6b-86f0-753eb473d901-lg.webp",
+    "https://content.estitor.com/d249d644-1b26-4f99-be28-e5f93e54ee02-lg.webp",
+    "https://content.estitor.com/0b24af3b-a912-4a90-a119-615ed09f77f7-lg.webp",
+    "https://content.estitor.com/db658c35-fb37-4669-b2d8-e86ab3acce1b-lg.webp",
+    "https://content.estitor.com/cb99f059-9483-4699-908f-27518320caba-lg.webp",
+    "https://content.estitor.com/d6459621-62de-4e26-aa34-c5715d64e20b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 40m², Prijevor, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/505674"
+}

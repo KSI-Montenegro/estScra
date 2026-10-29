@@ -1,0 +1,40 @@
+{
+  "key": "estitor_620706",
+  "source": "estitor",
+  "listing_id": "620706",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-620706",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-620706"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 253,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:48.221309+00:00",
+  "images": [
+    "https://content.estitor.com/aeaf1cb5-9f73-45e5-b9e4-e65a4289c42b-lg.webp",
+    "https://content.estitor.com/8a484b5b-9aa7-4e09-96ac-193fb20526a9-lg.webp",
+    "https://content.estitor.com/d2f41a0a-86db-4d63-b655-a5ae5b91a8c6-lg.webp",
+    "https://content.estitor.com/2ddca171-d8ad-48de-b725-9c825479ef71-lg.webp",
+    "https://content.estitor.com/66f67762-31ca-463a-a07c-0b991e4bfc29-lg.webp",
+    "https://content.estitor.com/e7181766-bbc9-4255-8fcc-35dcb94e5336-lg.webp",
+    "https://content.estitor.com/98cbd997-fc90-4491-98ac-0dce28ddced3-lg.webp",
+    "https://content.estitor.com/6717c2e1-2a63-4256-a83b-a1de5070b160-lg.webp",
+    "https://content.estitor.com/1ea26c69-483c-471a-9c7a-4e98a9e5d177-lg.webp",
+    "https://content.estitor.com/7345b347-e21b-47bd-80c0-72112e376e1a-lg.webp",
+    "https://content.estitor.com/00863af2-6f87-4078-9a4b-86590a7ad8ba-lg.webp",
+    "https://content.estitor.com/2b1d96da-8c7a-44ab-a347-d86eccabc8ba-lg.webp",
+    "https://content.estitor.com/711dd64a-fc1f-47e2-aa81-16562ecebf30-lg.webp",
+    "https://content.estitor.com/89257e7b-e860-40f8-93cf-c3beb67e603a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 46m², Dubovica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/620706"
+}

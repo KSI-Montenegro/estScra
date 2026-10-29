@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_68650",
+  "source": "patuljak",
+  "listing_id": "68650",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-76m2-podgorica--68650",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-76m2-podgorica--68650"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 201,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:23.008872+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68650_2.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban 76m2, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/68650"
+}

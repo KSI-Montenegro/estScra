@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_76688",
+  "source": "patuljak",
+  "listing_id": "76688",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-65m2-kotor--76688",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-65m2-kotor--76688"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 767,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:09.168244+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76688_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 65m2, Kotor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76688"
+}

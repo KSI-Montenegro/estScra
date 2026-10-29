@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_83748",
+  "source": "patuljak",
+  "listing_id": "83748",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-54m2--83748",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-54m2--83748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 89,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:20.373569+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83748_0.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban stan 54m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83748"
+}

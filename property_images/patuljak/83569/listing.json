@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_83569",
+  "source": "patuljak",
+  "listing_id": "83569",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-namjestena-garsonjera-27-m2-stara-varos--83569",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-namjestena-garsonjera-27-m2-stara-varos--83569"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 742,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:54.034899+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83569_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje - Namjestena Garsonjera 27 m2, Stara Varos -Ljubovic, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83569"
+}

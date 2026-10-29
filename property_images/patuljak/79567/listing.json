@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79567",
+  "source": "patuljak",
+  "listing_id": "79567",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-kancelarija-37m2-centar-zgrada-burger--79567",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-kancelarija-37m2-centar-zgrada-burger--79567"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 54,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:56.242988+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79567_0.webp"
+  ],
+  "status": "ok",
+  "title": "Za izdavanje kancelarija 37m2, Centar, zgrada Burger King-a, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79567"
+}

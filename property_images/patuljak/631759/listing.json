@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_631759",
+  "source": "patuljak",
+  "listing_id": "631759",
+  "listing_url": "https://patuljak.me/oglas/iznajmljuje-se-trosoban-stan-85-kvadrata-pogled--631759",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljuje-se-trosoban-stan-85-kvadrata-pogled--631759"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 217,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:31.273188+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/631759"
+}

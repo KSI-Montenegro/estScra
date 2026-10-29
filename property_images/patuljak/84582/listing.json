@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_84582",
+  "source": "patuljak",
+  "listing_id": "84582",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-iza-delte-jednosoban--84582",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-iza-delte-jednosoban--84582"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 428,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:14.710507+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84582_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84582_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84582_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan iza Delte jednosoban",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84582"
+}

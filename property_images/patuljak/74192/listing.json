@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_74192",
+  "source": "patuljak",
+  "listing_id": "74192",
+  "listing_url": "https://patuljak.me/oglas/prodajem-namesten-stan-52-m-central-grijanje-names--74192",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-namesten-stan-52-m-central-grijanje-names--74192"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 948,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:14.553827+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74192_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem namešten stan 52 m central grijanje namešten setacka ulica centar Kolasina",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74192"
+}

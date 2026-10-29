@@ -1,0 +1,27 @@
+{
+  "key": "estitor_613103",
+  "source": "estitor",
+  "listing_id": "613103",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-613103",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-613103"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 968,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:27.101908+00:00",
+  "images": [
+    "https://content.estitor.com/c132b7c0-3754-4f54-bc26-3906128582f2-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 13m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/613103"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_84991",
+  "source": "patuljak",
+  "listing_id": "84991",
+  "listing_url": "https://patuljak.me/oglas/prodaja-zemljista-u-niksicu--84991",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-zemljista-u-niksicu--84991"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 7,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:25.733730+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84991_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja zemljišta u Nikšiću",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84991"
+}

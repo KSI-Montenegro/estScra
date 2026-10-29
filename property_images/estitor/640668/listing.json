@@ -1,0 +1,29 @@
+{
+  "key": "estitor_640668",
+  "source": "estitor",
+  "listing_id": "640668",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-herceg-novi/id-640668",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-herceg-novi/id-640668"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 45,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:37.885844+00:00",
+  "images": [
+    "https://content.estitor.com/0f4944f1-8138-406a-a3bd-6957aaedadde-lg.webp",
+    "https://content.estitor.com/12562ffd-9edf-4950-b03f-026848d559c1-lg.webp",
+    "https://content.estitor.com/654471a3-3279-4ec4-9ae7-a78c4bda6433-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 708m², Sušćepan, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640668"
+}

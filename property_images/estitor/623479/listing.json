@@ -1,0 +1,35 @@
+{
+  "key": "estitor_623479",
+  "source": "estitor",
+  "listing_id": "623479",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-623479",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-623479"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 81,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:38.220345+00:00",
+  "images": [
+    "https://content.estitor.com/4dfcef08-797d-4b9b-9577-a24b5b4c1791-lg.webp",
+    "https://content.estitor.com/e8c4e1fc-f1a8-42f6-bdde-ea0716ec3715-lg.webp",
+    "https://content.estitor.com/05e248ac-a4ca-44b3-9116-5a60c381fe43-lg.webp",
+    "https://content.estitor.com/1254a9de-53bf-4f3d-94bb-99b602d69494-lg.webp",
+    "https://content.estitor.com/2182c13f-df6e-4396-ac3f-3d0cf9b49777-lg.webp",
+    "https://content.estitor.com/d941e3b3-d9cb-4187-a453-95129ce0d58a-lg.webp",
+    "https://content.estitor.com/848f4f3d-8c6b-40a8-8d25-31a1b73bee03-lg.webp",
+    "https://content.estitor.com/100cbdb5-25a0-448b-86b9-c7c882ea8190-lg.webp",
+    "https://content.estitor.com/13c9784e-7c04-491c-8cc2-85c308177528-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 55m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/623479"
+}

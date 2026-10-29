@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_63665",
+  "source": "patuljak",
+  "listing_id": "63665",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-70m2--63665",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-70m2--63665"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 115,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:37.572066+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63665_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Dvosoban stan 70m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/63665"
+}

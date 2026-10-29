@@ -1,0 +1,38 @@
+{
+  "key": "estitor_633890",
+  "source": "estitor",
+  "listing_id": "633890",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633890",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-633890"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 293,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:08.111564+00:00",
+  "images": [
+    "https://content.estitor.com/eafb2333-2694-414c-8c39-d7a463212e61-lg.webp",
+    "https://content.estitor.com/37b8e8cc-f3be-4d89-ad2d-bb84f1706f89-lg.webp",
+    "https://content.estitor.com/5b2fa5d1-ec93-41f9-ba66-c4754018e75a-lg.webp",
+    "https://content.estitor.com/be805074-b486-49a8-9a57-c893ce1c35f2-lg.webp",
+    "https://content.estitor.com/a8cf0b8d-1230-47d5-a179-760bf7756f9b-lg.webp",
+    "https://content.estitor.com/a28e77e9-ae13-4eb8-9fc2-dfc951ba7b11-lg.webp",
+    "https://content.estitor.com/00e52907-db82-46c5-bfec-0d3c30aec254-lg.webp",
+    "https://content.estitor.com/8fc0df47-09d9-4f7b-b671-a2ef0c3035e3-lg.webp",
+    "https://content.estitor.com/d1e5d582-b3e8-4349-ac4f-bc87b715ef22-lg.webp",
+    "https://content.estitor.com/aa3e3d7e-3c22-4c34-a6ec-b981555f505b-lg.webp",
+    "https://content.estitor.com/4a45c17b-ff9b-44d5-819a-80780722b89a-lg.webp",
+    "https://content.estitor.com/a7f9b131-ecd2-489f-ae47-e4d97a3b2646-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 87m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633890"
+}

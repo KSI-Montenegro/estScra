@@ -1,0 +1,36 @@
+{
+  "key": "estitor_453614",
+  "source": "estitor",
+  "listing_id": "453614",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-453614",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-453614"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 101,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:51.196966+00:00",
+  "images": [
+    "https://content.estitor.com/65048184-936d-4518-ba11-166e31289f0c-lg.webp",
+    "https://content.estitor.com/98356eb4-47cb-46cb-9dbe-44035d1ca5ad-lg.webp",
+    "https://content.estitor.com/125582b6-61db-4679-a465-a735c088af84-lg.webp",
+    "https://content.estitor.com/1b8527c4-4ca0-41c2-bc9f-3808951526f1-lg.webp",
+    "https://content.estitor.com/b014b9ed-a088-4289-8a38-c12312c444e2-lg.webp",
+    "https://content.estitor.com/f786193a-8957-462b-a6d6-b5b7deccdf52-lg.webp",
+    "https://content.estitor.com/2ac91c0c-a8b4-4c67-83bd-828c6d9555b2-lg.webp",
+    "https://content.estitor.com/39d595ee-d123-4e1a-8c8f-6e47da6d7fe3-lg.webp",
+    "https://content.estitor.com/1ba67973-6021-47ce-8674-e01e4c907265-lg.webp",
+    "https://content.estitor.com/e931b5d4-393b-4532-89c0-791fc62cc7fa-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/453614"
+}

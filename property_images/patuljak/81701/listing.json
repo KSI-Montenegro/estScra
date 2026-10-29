@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_81701",
+  "source": "patuljak",
+  "listing_id": "81701",
+  "listing_url": "https://patuljak.me/oglas/jednosban-stan-radanovici--81701",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosban-stan-radanovici--81701"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 79,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:36.726779+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81701_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81701_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81701_2.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosban stan Radanovići",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81701"
+}

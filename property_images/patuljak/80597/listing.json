@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_80597",
+  "source": "patuljak",
+  "listing_id": "80597",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-humci--80597",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-humci--80597"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 39,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:45.750522+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80597_12.webp"
+  ],
+  "status": "ok",
+  "title": "Poslovni prostor (Humci)",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80597"
+}

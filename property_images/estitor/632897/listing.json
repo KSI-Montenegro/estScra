@@ -1,0 +1,32 @@
+{
+  "key": "estitor_632897",
+  "source": "estitor",
+  "listing_id": "632897",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-632897",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-632897"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 260,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:51.469800+00:00",
+  "images": [
+    "https://content.estitor.com/a5142609-b299-43e5-a647-75cff02501a2-lg.webp",
+    "https://content.estitor.com/17cac114-2bde-4ad5-967b-2b1f9eddad44-lg.webp",
+    "https://content.estitor.com/ce3ad820-5ddc-4129-82d0-f2893400ea87-lg.webp",
+    "https://content.estitor.com/6afd1e30-3d85-4de6-a65c-d50126adba7d-lg.webp",
+    "https://content.estitor.com/382338d6-a2c7-4ba3-91ea-f494978d6720-lg.webp",
+    "https://content.estitor.com/7f412594-9a90-40ec-85c0-93d7fe570598-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 25m², Podi, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/632897"
+}

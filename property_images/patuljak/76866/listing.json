@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_76866",
+  "source": "patuljak",
+  "listing_id": "76866",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor--76866",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor--76866"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 46,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:51.260809+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76866_0.webp"
+  ],
+  "status": "ok",
+  "title": "Poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76866"
+}

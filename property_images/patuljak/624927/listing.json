@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_624927",
+  "source": "patuljak",
+  "listing_id": "624927",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-52-m2-iza-delte-podgorica--624927",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-52-m2-iza-delte-podgorica--624927"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 219,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:32.306215+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/05/624927_1.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 52 m2, iza Delte, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/624927"
+}

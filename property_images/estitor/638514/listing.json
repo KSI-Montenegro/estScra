@@ -1,0 +1,28 @@
+{
+  "key": "estitor_638514",
+  "source": "estitor",
+  "listing_id": "638514",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638514",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 81,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:53.605600+00:00",
+  "images": [
+    "https://content.estitor.com/a0582aa3-3e20-43bc-a723-80798ac7895a-lg.webp",
+    "https://content.estitor.com/f792045d-275d-41b1-8e3d-82018e495d94-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 3302m², Donji Kokoti, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638514"
+}

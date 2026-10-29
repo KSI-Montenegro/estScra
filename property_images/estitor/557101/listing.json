@@ -1,0 +1,32 @@
+{
+  "key": "estitor_557101",
+  "source": "estitor",
+  "listing_id": "557101",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-557101",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-557101"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 128,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:16.452868+00:00",
+  "images": [
+    "https://content.estitor.com/92e694ac-9991-4ba6-987c-d4f2e0621777-lg.webp",
+    "https://content.estitor.com/d241f64d-b2cc-428b-ab2a-15d99407b0bd-lg.webp",
+    "https://content.estitor.com/16c5025f-0464-42e6-83f2-ca1c73e9ea18-lg.webp",
+    "https://content.estitor.com/4927d160-ee5e-4cd4-bef2-0e96913cd80c-lg.webp",
+    "https://content.estitor.com/95acaf86-41fb-4f72-b6ec-7c332b112d67-lg.webp",
+    "https://content.estitor.com/edcc0c5b-e4e7-4776-b995-dec10aa9c45f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 50m², Pržno, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/557101"
+}

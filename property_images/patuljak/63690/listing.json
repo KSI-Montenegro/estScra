@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_63690",
+  "source": "patuljak",
+  "listing_id": "63690",
+  "listing_url": "https://patuljak.me/oglas/izdajemprodajem-poslovni-prostor--63690",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajemprodajem-poslovni-prostor--63690"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 42,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:47.909397+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63690_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem/prodajem poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/63690"
+}

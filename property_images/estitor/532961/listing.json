@@ -1,0 +1,34 @@
+{
+  "key": "estitor_532961",
+  "source": "estitor",
+  "listing_id": "532961",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-532961",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-532961"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 637,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:00.683608+00:00",
+  "images": [
+    "https://content.estitor.com/a9c00007-ae19-48e3-b09a-5b3f624e2bad-lg.webp",
+    "https://content.estitor.com/16517f88-d38c-47d8-ab8e-fbe52816de12-lg.webp",
+    "https://content.estitor.com/6b876ec0-5120-4297-9b90-6cddc3cdcdc9-lg.webp",
+    "https://content.estitor.com/529ef3eb-f2a0-414f-9d98-6286da768ef1-lg.webp",
+    "https://content.estitor.com/f6259352-7c6b-4b21-a115-11f6ccc0de17-lg.webp",
+    "https://content.estitor.com/48c168f9-9322-4700-beca-29be866cb3a8-lg.webp",
+    "https://content.estitor.com/0dccc6ce-665e-4565-87c0-ade299d7e61f-lg.webp",
+    "https://content.estitor.com/a4e4c2ca-9774-4765-9e34-038f51247a47-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/532961"
+}

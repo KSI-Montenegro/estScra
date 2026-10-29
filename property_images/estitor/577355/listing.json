@@ -1,0 +1,34 @@
+{
+  "key": "estitor_577355",
+  "source": "estitor",
+  "listing_id": "577355",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-577355",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-577355"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 159,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:55.641509+00:00",
+  "images": [
+    "https://content.estitor.com/7061ff1e-d3e4-40f1-ac89-c16560a10419-lg.webp",
+    "https://content.estitor.com/0db6fdab-126a-4eeb-8bbc-716ac5659df5-lg.webp",
+    "https://content.estitor.com/986d0b94-6b95-41a7-8106-61c2347a3bc2-lg.webp",
+    "https://content.estitor.com/0cb868df-629a-4279-a824-f8218fdbf999-lg.webp",
+    "https://content.estitor.com/ce38f145-6995-47ff-98ff-481d134a45fe-lg.webp",
+    "https://content.estitor.com/2674d48c-3901-494a-ad2f-d2f847aaf67b-lg.webp",
+    "https://content.estitor.com/0090a8de-1a61-43db-a105-85b8bd0df00f-lg.webp",
+    "https://content.estitor.com/15e5c431-9dff-4158-a66b-7ae14157257a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 44m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/577355"
+}

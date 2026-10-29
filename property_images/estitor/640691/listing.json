@@ -1,0 +1,32 @@
+{
+  "key": "estitor_640691",
+  "source": "estitor",
+  "listing_id": "640691",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640691",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640691"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 910,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:50.060486+00:00",
+  "images": [
+    "https://content.estitor.com/d973e666-032a-4b70-9f1f-9845115a0cad-lg.webp",
+    "https://content.estitor.com/1f4aba3b-9f36-4cc8-8c72-82c106676b63-lg.webp",
+    "https://content.estitor.com/681272dd-a1ca-427a-aa1a-594dbd3a22da-lg.webp",
+    "https://content.estitor.com/1fbd878d-4705-4d4e-8803-af672b77693b-lg.webp",
+    "https://content.estitor.com/6ace542f-3de0-4d8a-94ce-72bc121fd5f7-lg.webp",
+    "https://content.estitor.com/7c66c4e9-7a10-426a-b17f-7eea5e330160-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640691"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "estitor_581748",
+  "source": "estitor",
+  "listing_id": "581748",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-581748",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-581748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 149,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:49.319628+00:00",
+  "images": [
+    "https://content.estitor.com/d4fa04e8-934c-4aea-a679-1caa8cc22a84-lg.webp",
+    "https://content.estitor.com/004c6c8e-f827-4d02-b572-815e46ec75fe-lg.webp",
+    "https://content.estitor.com/23582309-7069-43e3-84ae-c93cce329488-lg.webp",
+    "https://content.estitor.com/37b9b569-5973-406a-a5fd-a509513bc2a9-lg.webp",
+    "https://content.estitor.com/273ac1ef-4ac7-4d03-aa5b-d57a86c6a3cc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 100m², Kuće Rakića, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581748"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_78159",
+  "source": "patuljak",
+  "listing_id": "78159",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-40-m2-topla-2-herceg-novi--78159",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-40-m2-topla-2-herceg-novi--78159"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 75,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:33.201911+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78159_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78159_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78159_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78159_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78159_4.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 40 m2, Topla 2, Herceg Novi",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78159"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_527816",
+  "source": "estitor",
+  "listing_id": "527816",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-527816",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-527816"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 6,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:20.861807+00:00",
+  "images": [
+    "https://content.estitor.com/db010d22-8493-4bc8-b1d4-de99932934a3-lg.webp",
+    "https://content.estitor.com/6c81f25d-eddd-4128-bb7a-79e8a6a0ec88-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 28m², Bijeli Do, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/527816"
+}

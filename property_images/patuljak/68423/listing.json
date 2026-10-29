@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_68423",
+  "source": "patuljak",
+  "listing_id": "68423",
+  "listing_url": "https://patuljak.me/oglas/prodajem-podrumsku-prostoriju-2927m2-preko-morace--68423",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-podrumsku-prostoriju-2927m2-preko-morace--68423"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 775,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:14.041250+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/68423_2.webp"
+  ],
+  "status": "ok",
+  "title": "prodajem podrumsku prostoriju 29.27m2 Preko Morace",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/68423"
+}

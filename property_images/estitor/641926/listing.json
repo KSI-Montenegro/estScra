@@ -1,0 +1,39 @@
+{
+  "key": "estitor_641926",
+  "source": "estitor",
+  "listing_id": "641926",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641926",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641926"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 738,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:51.583204+00:00",
+  "images": [
+    "https://content.estitor.com/829c285d-c748-4a78-babd-b36b9bf40dc1-lg.webp",
+    "https://content.estitor.com/592d4ec1-da30-4f64-b5bc-02de9710704e-lg.webp",
+    "https://content.estitor.com/c24b3984-5e16-4623-90d9-5a88277d4823-lg.webp",
+    "https://content.estitor.com/c986db89-56df-4835-8d0a-c2dbd01238d6-lg.webp",
+    "https://content.estitor.com/528be233-5f73-46e0-9d3b-90c7d54562c5-lg.webp",
+    "https://content.estitor.com/b57704a1-f502-4836-957a-2a98617cd89e-lg.webp",
+    "https://content.estitor.com/99ae6ff2-df66-46cd-96bc-1477cb8a6bdd-lg.webp",
+    "https://content.estitor.com/634cecaa-bf61-4f46-a056-0b4cfc57cc2d-lg.webp",
+    "https://content.estitor.com/4884877c-632f-4c6a-ae95-f4e3fcf77abe-lg.webp",
+    "https://content.estitor.com/432c6631-86c2-4450-b8e2-226b5b996cac-lg.webp",
+    "https://content.estitor.com/4f77d131-1add-41cc-bbe5-32504e25ab20-lg.webp",
+    "https://content.estitor.com/b2ced9a1-ed27-4ade-985c-bcf0cb3768cd-lg.webp",
+    "https://content.estitor.com/24b27f19-575d-4ee9-a05b-bbacfbed336f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 29m², Dubovica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641926"
+}

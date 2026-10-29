@@ -1,0 +1,32 @@
+{
+  "key": "estitor_589591",
+  "source": "estitor",
+  "listing_id": "589591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-589591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-589591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 165,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:59.657371+00:00",
+  "images": [
+    "https://content.estitor.com/b7bf65ad-3e56-481d-a5ec-789e886c0fbb-lg.webp",
+    "https://content.estitor.com/0b55f750-32c2-416d-886d-8eec479b50e6-lg.webp",
+    "https://content.estitor.com/da1b681e-5672-46eb-a304-0be422d93659-lg.webp",
+    "https://content.estitor.com/095c0675-d07c-4062-ad95-70e39a84692c-lg.webp",
+    "https://content.estitor.com/edc7a0e5-a329-470d-97fe-f81c6a86efaa-lg.webp",
+    "https://content.estitor.com/5d39efd8-8917-4faa-81e2-894144882d7e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 72m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/589591"
+}

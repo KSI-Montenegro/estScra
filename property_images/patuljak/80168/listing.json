@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_80168",
+  "source": "patuljak",
+  "listing_id": "80168",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-35m2-krusevac--80168",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-35m2-krusevac--80168"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 752,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:59.732070+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80168_0.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 35m2, Kruševac",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80168"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_80161",
+  "source": "patuljak",
+  "listing_id": "80161",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stana--80161",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stana--80161"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 461,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:32.755876+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80161_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80161_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80161_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80161"
+}

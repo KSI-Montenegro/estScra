@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_75247",
+  "source": "patuljak",
+  "listing_id": "75247",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjesten-dvosoban-stan--75247",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjesten-dvosoban-stan--75247"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 893,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:40.795043+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75247_14.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namješten dvosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75247"
+}

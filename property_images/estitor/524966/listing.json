@@ -1,0 +1,34 @@
+{
+  "key": "estitor_524966",
+  "source": "estitor",
+  "listing_id": "524966",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524966",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524966"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 87,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:42.448773+00:00",
+  "images": [
+    "https://content.estitor.com/be06642e-6b79-4688-a459-caa3593d8b7a-lg.webp",
+    "https://content.estitor.com/8f1e05b9-0f37-45fa-8f51-089de5f9e0e3-lg.webp",
+    "https://content.estitor.com/1eeacbe0-109c-4ff8-98da-bc0a279c6d4d-lg.webp",
+    "https://content.estitor.com/b5c49006-4ae9-4d61-a6cb-10bf536f312c-lg.webp",
+    "https://content.estitor.com/e25b071d-9af4-4290-998b-7c89d344c09b-lg.webp",
+    "https://content.estitor.com/26cc85d9-5a14-419f-a3ed-df8dd03da9bb-lg.webp",
+    "https://content.estitor.com/c0c6feaf-b5f1-461f-8a28-b1da0c766d4d-lg.webp",
+    "https://content.estitor.com/0d92fbe1-5851-4dae-8c99-11b48004000d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 61m², Kod Capital Plaze, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/524966"
+}

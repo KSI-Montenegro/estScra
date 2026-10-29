@@ -1,0 +1,34 @@
+{
+  "key": "estitor_595689",
+  "source": "estitor",
+  "listing_id": "595689",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595689",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595689"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 839,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:01.851621+00:00",
+  "images": [
+    "https://content.estitor.com/2a3dfcac-3795-4124-8688-451e1f621242-lg.webp",
+    "https://content.estitor.com/b465ab12-65ec-49e2-9257-70a8a425c755-lg.webp",
+    "https://content.estitor.com/875e6400-9de5-4db2-b8e1-3fbb783f7fcd-lg.webp",
+    "https://content.estitor.com/a86c8e6c-0977-4ff3-b015-248ad3ad9345-lg.webp",
+    "https://content.estitor.com/3fd2bdaa-7f98-4a38-adcb-98c1bf5ad10d-lg.webp",
+    "https://content.estitor.com/5857a044-fa23-4bda-99ff-e15b7ba4795c-lg.webp",
+    "https://content.estitor.com/915f2cc6-6b32-45e8-8e6d-c8c4fff5ad53-lg.webp",
+    "https://content.estitor.com/ccb592f5-5768-48b4-90a2-06c07ee1417e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 32m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595689"
+}

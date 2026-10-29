@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_77991",
+  "source": "patuljak",
+  "listing_id": "77991",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor-64m2-lepa-kata-iza-gintas--77991",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor-64m2-lepa-kata-iza-gintas--77991"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 66,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:03.728571+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77991_11.webp"
+  ],
+  "status": "ok",
+  "title": "Poslovni prostor 64m2, Lepa Kata, iza Gintas",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77991"
+}

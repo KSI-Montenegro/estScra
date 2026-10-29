@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_76814",
+  "source": "patuljak",
+  "listing_id": "76814",
+  "listing_url": "https://patuljak.me/oglas/stan--76814",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan--76814"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 177,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:09.983304+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76814_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76814_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76814_2.webp"
+  ],
+  "status": "ok",
+  "title": "Stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76814"
+}

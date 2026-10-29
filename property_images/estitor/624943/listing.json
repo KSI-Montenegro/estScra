@@ -1,0 +1,28 @@
+{
+  "key": "estitor_624943",
+  "source": "estitor",
+  "listing_id": "624943",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-624943",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-624943"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 653,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:08.692101+00:00",
+  "images": [
+    "https://content.estitor.com/455a1ac1-25a8-445a-9b01-974b34e7462e-lg.webp",
+    "https://content.estitor.com/b41fd454-ded9-4137-8ee7-dd2c3654e239-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Vezirov Most, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624943"
+}

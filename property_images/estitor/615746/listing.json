@@ -1,0 +1,36 @@
+{
+  "key": "estitor_615746",
+  "source": "estitor",
+  "listing_id": "615746",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-615746",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-615746"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 348,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:35.615094+00:00",
+  "images": [
+    "https://content.estitor.com/7e41061c-6f43-4b34-897c-94c1e0dbf035-lg.webp",
+    "https://content.estitor.com/e5af802a-4807-4a4d-a251-c519eaf3ab97-lg.webp",
+    "https://content.estitor.com/6964035c-4c31-4912-95d7-2357df424957-lg.webp",
+    "https://content.estitor.com/b3ab288f-493a-4b4d-adcc-3e33dd75b82d-lg.webp",
+    "https://content.estitor.com/c913da9f-4846-4a7c-9337-2ef364aad271-lg.webp",
+    "https://content.estitor.com/6008c778-5baf-4f6e-8341-b006a774f588-lg.webp",
+    "https://content.estitor.com/46289fb1-2154-4508-be8c-40fc977733f5-lg.webp",
+    "https://content.estitor.com/21f25dfe-3a64-4410-a8b4-7cd1f7a7532f-lg.webp",
+    "https://content.estitor.com/aee77e1a-f779-462d-8070-311dd0cb3598-lg.webp",
+    "https://content.estitor.com/d8df01e8-bba6-41af-bc64-3ccf73e7a50c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Risan, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/615746"
+}

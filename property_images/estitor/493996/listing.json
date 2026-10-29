@@ -1,0 +1,37 @@
+{
+  "key": "estitor_493996",
+  "source": "estitor",
+  "listing_id": "493996",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-493996",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-493996"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 318,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:20.338496+00:00",
+  "images": [
+    "https://content.estitor.com/bb0995fa-ff74-4436-82ab-ac0e69dcea10-lg.webp",
+    "https://content.estitor.com/c10f1d5c-ec5e-47b3-ad00-04195f2f964f-lg.webp",
+    "https://content.estitor.com/77422d5a-544b-4c97-a826-b8dfa8f11d57-lg.webp",
+    "https://content.estitor.com/9a3345bc-237e-4e04-b5f6-dc573bad6af5-lg.webp",
+    "https://content.estitor.com/c4b95660-0614-43ab-ae3d-00564f11fc52-lg.webp",
+    "https://content.estitor.com/b88c5746-f674-4fb2-af6a-e18c2ec19019-lg.webp",
+    "https://content.estitor.com/7de640af-4f80-40af-839a-c867979fffe8-lg.webp",
+    "https://content.estitor.com/a7a10426-c7c8-407e-80fc-9027a6f3ae14-lg.webp",
+    "https://content.estitor.com/9713057c-c2d0-45e8-b664-b397657d008b-lg.webp",
+    "https://content.estitor.com/f19f8494-64d1-4d5c-b12c-f44a560f6a6f-lg.webp",
+    "https://content.estitor.com/2de7b9c8-111a-40f5-867f-7474fdae4353-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 81m², Bulevar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/493996"
+}

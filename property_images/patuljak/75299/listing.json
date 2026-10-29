@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_75299",
+  "source": "patuljak",
+  "listing_id": "75299",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-lipovo--75299",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-lipovo--75299"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 84,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:14.373226+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75299_11.webp"
+  ],
+  "status": "ok",
+  "title": "Zemljište Lipovo",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75299"
+}

@@ -1,0 +1,43 @@
+{
+  "key": "patuljak_64748",
+  "source": "patuljak",
+  "listing_id": "64748",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stan--64748",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stan--64748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 75,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:11.163719+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64748_15.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/64748"
+}

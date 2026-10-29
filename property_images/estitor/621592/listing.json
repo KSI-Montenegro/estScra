@@ -1,0 +1,32 @@
+{
+  "key": "estitor_621592",
+  "source": "estitor",
+  "listing_id": "621592",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-621592",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-621592"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 629,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:57.069733+00:00",
+  "images": [
+    "https://content.estitor.com/16e2c1c3-26a9-4085-bbad-f41817d994be-lg.webp",
+    "https://content.estitor.com/749f3ea0-42f6-4925-b41f-359d8b8a8f4f-lg.webp",
+    "https://content.estitor.com/b8fb2ec1-c91e-4cd5-97fc-28774cb94dbd-lg.webp",
+    "https://content.estitor.com/2f533c30-093e-40ec-a416-93ccf9879215-lg.webp",
+    "https://content.estitor.com/44885afc-249e-4cb5-9a79-44cf451245ec-lg.webp",
+    "https://content.estitor.com/a4d0155b-6a38-4fa8-8304-98776375eefe-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 55m², Kruševac, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/621592"
+}

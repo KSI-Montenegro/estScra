@@ -1,0 +1,27 @@
+{
+  "key": "realitica_3948096",
+  "source": "realitica",
+  "listing_id": "3948096",
+  "listing_url": "https://www.realitica.com/hr/listing/3948096",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948096"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 203,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:19.346249+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3948096_2636940_screenshot-2022-04-29-114901.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Zemljište, Beri",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3948096"
+}

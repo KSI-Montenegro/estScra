@@ -1,0 +1,37 @@
+{
+  "key": "estitor_642482",
+  "source": "estitor",
+  "listing_id": "642482",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642482",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-642482"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 571,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:29.630013+00:00",
+  "images": [
+    "https://content.estitor.com/8ce2bccd-da4a-42f3-8cc8-733ab2a42057-lg.webp",
+    "https://content.estitor.com/172b2f4c-c83a-43b3-8b78-d37bf04e8cf7-lg.webp",
+    "https://content.estitor.com/4bdada9d-c4fd-4269-af38-48c2d965af4e-lg.webp",
+    "https://content.estitor.com/05fa2b8f-52f8-4ec9-99de-f17336473b0c-lg.webp",
+    "https://content.estitor.com/798f2b01-28b1-4858-b05b-7dac072b1245-lg.webp",
+    "https://content.estitor.com/7c4ad117-3494-47ef-912c-5878644e2260-lg.webp",
+    "https://content.estitor.com/03054116-ead0-48ac-932c-541c8bb6b3de-lg.webp",
+    "https://content.estitor.com/a9b51817-3e00-4c62-b83f-39973336991b-lg.webp",
+    "https://content.estitor.com/e89c5a9d-e746-47eb-866e-ec204a7bae78-lg.webp",
+    "https://content.estitor.com/e852b52a-ac22-4daa-904f-616ada139583-lg.webp",
+    "https://content.estitor.com/630acff8-6219-48bc-b50e-a7d1ba3467a5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Master Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642482"
+}

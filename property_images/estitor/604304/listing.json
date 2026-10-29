@@ -1,0 +1,33 @@
+{
+  "key": "estitor_604304",
+  "source": "estitor",
+  "listing_id": "604304",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604304",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-604304"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 413,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:08.083615+00:00",
+  "images": [
+    "https://content.estitor.com/6da0717a-9653-4179-b389-24178696c2a6-lg.webp",
+    "https://content.estitor.com/a67b044b-a83d-4733-9ef0-230a04e4fa1f-lg.webp",
+    "https://content.estitor.com/ae1ea521-4032-4858-be8f-6c3b9bbf8af4-lg.webp",
+    "https://content.estitor.com/0516e8ad-f2c8-4bda-bd67-98e0ebbf4fd6-lg.webp",
+    "https://content.estitor.com/aa531217-6c84-4f91-ba79-a27894827de9-lg.webp",
+    "https://content.estitor.com/b840312f-85d0-41df-a8f1-4f0df6540c89-lg.webp",
+    "https://content.estitor.com/8e4e99ef-2774-449e-937e-d41fede10890-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 42m², Bijela, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604304"
+}

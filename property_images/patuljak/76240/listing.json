@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_76240",
+  "source": "patuljak",
+  "listing_id": "76240",
+  "listing_url": "https://patuljak.me/oglas/plac-u-tolosima-1793m2--76240",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-u-tolosima-1793m2--76240"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 78,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:10.286347+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76240_1.webp"
+  ],
+  "status": "ok",
+  "title": "PLAC U TOLOSIMA 1793M2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76240"
+}

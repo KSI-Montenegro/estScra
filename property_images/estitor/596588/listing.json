@@ -1,0 +1,35 @@
+{
+  "key": "estitor_596588",
+  "source": "estitor",
+  "listing_id": "596588",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596588",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-596588"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 121,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:08.415429+00:00",
+  "images": [
+    "https://content.estitor.com/a51e25ce-e8f3-4153-bd78-9f056450f236-lg.webp",
+    "https://content.estitor.com/d3782d94-c21e-468d-b604-724c6c9804c6-lg.webp",
+    "https://content.estitor.com/cc5814c8-3c26-4ad9-9455-74dca739dd17-lg.webp",
+    "https://content.estitor.com/435af1f2-c0bf-41e8-a823-136f40e977cc-lg.webp",
+    "https://content.estitor.com/5eceac11-93d5-4d33-8b92-18c472f6443b-lg.webp",
+    "https://content.estitor.com/51a2cd6c-664f-408e-95d6-4bce6c72db9c-lg.webp",
+    "https://content.estitor.com/b72e1f03-624b-45af-9c82-8e83719a5002-lg.webp",
+    "https://content.estitor.com/04fa0d7f-6178-461c-b0c5-f724e5ba959b-lg.webp",
+    "https://content.estitor.com/07cad705-41cc-4495-bd14-d60d415276df-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 65m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/596588"
+}

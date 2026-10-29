@@ -1,0 +1,38 @@
+{
+  "key": "estitor_357589",
+  "source": "estitor",
+  "listing_id": "357589",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-357589",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-357589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 419,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:10.725289+00:00",
+  "images": [
+    "https://content.estitor.com/d99aad90-db44-482c-a846-1aa0749c87aa-lg.webp",
+    "https://content.estitor.com/aeff01ec-206f-465d-b0ca-68b530e0c7b3-lg.webp",
+    "https://content.estitor.com/dd9ff01b-b43f-4518-8ce1-4d09579c39b5-lg.webp",
+    "https://content.estitor.com/ac82408d-4693-4f47-805e-a34dc2cfb4ad-lg.webp",
+    "https://content.estitor.com/8bccab09-5865-451e-b128-1c8d6c77f081-lg.webp",
+    "https://content.estitor.com/915bb634-1e34-449a-b1ae-dc03addab926-lg.webp",
+    "https://content.estitor.com/2d0d8150-ea71-4193-a80f-73a8ff66c6ac-lg.webp",
+    "https://content.estitor.com/92697213-eca4-440a-a935-469f38ff7c63-lg.webp",
+    "https://content.estitor.com/8951053d-4f7d-4a70-8816-c1946cb27a0e-lg.webp",
+    "https://content.estitor.com/e0cc3e79-f91f-4793-b061-a83573658937-lg.webp",
+    "https://content.estitor.com/d9057cea-b495-4674-ad43-f5081e91532f-lg.webp",
+    "https://content.estitor.com/0e3b0b52-c934-430e-a985-843cbcfaf602-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 39m², Sveti Stasije, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/357589"
+}

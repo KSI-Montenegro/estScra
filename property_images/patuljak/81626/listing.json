@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_81626",
+  "source": "patuljak",
+  "listing_id": "81626",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-namjesten-stan--81626",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-namjesten-stan--81626"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 866,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:19.542527+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81626_14.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban namjesten stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81626"
+}

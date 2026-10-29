@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_77925",
+  "source": "patuljak",
+  "listing_id": "77925",
+  "listing_url": "https://patuljak.me/oglas/novorenovirani-studio-apartman-u-blizini-studensko--77925",
+  "listing_urls": [
+    "https://patuljak.me/oglas/novorenovirani-studio-apartman-u-blizini-studensko--77925"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 487,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:46.378597+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77925_5.webp"
+  ],
+  "status": "ok",
+  "title": "Novorenovirani studio apartman u blizini studenskog doma",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77925"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "estitor_627740",
+  "source": "estitor",
+  "listing_id": "627740",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-627740",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-627740"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 167,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:00.650771+00:00",
+  "images": [
+    "https://content.estitor.com/b7b9a850-6cef-4b25-b7ed-065bc422eea3-lg.webp",
+    "https://content.estitor.com/81a08273-e3c9-4268-be6a-46d1353f2c16-lg.webp",
+    "https://content.estitor.com/5200b57f-63ae-48ac-ae67-6cee6b9bfc92-lg.webp",
+    "https://content.estitor.com/e08e8ef0-2bc4-4a22-8225-9efc20056b95-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 50m², Donja Lastva, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/627740"
+}

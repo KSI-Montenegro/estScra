@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_323287",
+  "source": "patuljak",
+  "listing_id": "323287",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-na-zabljakupodgora--323287",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-na-zabljakupodgora--323287"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 128,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:40.701882+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/323287_14.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac na Žabljaku,Podgora",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/323287"
+}

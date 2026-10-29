@@ -1,0 +1,34 @@
+{
+  "key": "estitor_631487",
+  "source": "estitor",
+  "listing_id": "631487",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631487",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-631487"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 809,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:40.224051+00:00",
+  "images": [
+    "https://content.estitor.com/41d8bfb1-643f-4f8c-8f55-ab5837a7ffc5-lg.webp",
+    "https://content.estitor.com/aaca4d3f-5ce1-4d11-bbdc-c4faec85bf19-lg.webp",
+    "https://content.estitor.com/270caf44-a254-4351-aa70-12a034e5e18a-lg.webp",
+    "https://content.estitor.com/3c5ee045-98e1-437c-8d96-d66074ce569b-lg.webp",
+    "https://content.estitor.com/05f93ade-118b-4f3b-93ba-79166aeab8b9-lg.webp",
+    "https://content.estitor.com/98d3a918-92ea-4292-a394-c4bf3749415d-lg.webp",
+    "https://content.estitor.com/77b87ce6-f7cd-44a3-ab23-2f6fdcdc473f-lg.webp",
+    "https://content.estitor.com/06b504a0-5413-4b0e-8703-ca1ca538cae0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 17m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/631487"
+}

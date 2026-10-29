@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_78361",
+  "source": "patuljak",
+  "listing_id": "78361",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-stan-na-tuskom-putu-47m2--78361",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-stan-na-tuskom-putu-47m2--78361"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 30,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:47.598836+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78361_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se stan na tuškom putu 47m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78361"
+}

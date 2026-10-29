@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_321346",
+  "source": "patuljak",
+  "listing_id": "321346",
+  "listing_url": "https://patuljak.me/oglas/prodajem-zemljiste-14400m2-obilaznica-blizu-centr--321346",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-zemljiste-14400m2-obilaznica-blizu-centr--321346"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 563,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:26.782787+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/321346_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/10/321346_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem zemljiste 14400m2 - obilaznica, blizu centra.",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/321346"
+}

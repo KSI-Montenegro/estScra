@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_22476",
+  "source": "patuljak",
+  "listing_id": "22476",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-zabjelo--22476",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-zabjelo--22476"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 555,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:22.152911+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/22476"
+}

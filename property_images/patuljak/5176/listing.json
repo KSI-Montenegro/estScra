@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_5176",
+  "source": "patuljak",
+  "listing_id": "5176",
+  "listing_url": "https://patuljak.me/oglas/kuca-240m2-momisici-podgorica-prodaja--5176",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-240m2-momisici-podgorica-prodaja--5176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 50,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:58.849563+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5176_2.webp"
+  ],
+  "status": "ok",
+  "title": "Kuca, 240m2, Momisici, Podgorica, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/5176"
+}

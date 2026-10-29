@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_79181",
+  "source": "patuljak",
+  "listing_id": "79181",
+  "listing_url": "https://patuljak.me/oglas/trosoban-stan-u-izgradnji-91m2--79181",
+  "listing_urls": [
+    "https://patuljak.me/oglas/trosoban-stan-u-izgradnji-91m2--79181"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 86,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:41.950057+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79181_7.webp"
+  ],
+  "status": "ok",
+  "title": "Trosoban stan u izgradnji 91m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79181"
+}

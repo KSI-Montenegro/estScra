@@ -1,0 +1,29 @@
+{
+  "key": "estitor_537260",
+  "source": "estitor",
+  "listing_id": "537260",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-cetinje/id-537260",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-cetinje/id-537260"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 193,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:14.609532+00:00",
+  "images": [
+    "https://content.estitor.com/917210ae-6f65-45d6-a370-ac2a3ca13513-lg.webp",
+    "https://content.estitor.com/af061d82-b3a3-4b7e-a44e-3538ed5a79f7-lg.webp",
+    "https://content.estitor.com/images/22627__0e7294b3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 500000m², Cetinje, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/537260"
+}

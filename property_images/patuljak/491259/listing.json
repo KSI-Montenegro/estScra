@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_491259",
+  "source": "patuljak",
+  "listing_id": "491259",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-stari-aerodrom--491259",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-stari-aerodrom--491259"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 562,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:25.971483+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/05/491259_2.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan Stari Aerodrom",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/491259"
+}

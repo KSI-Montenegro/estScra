@@ -1,0 +1,35 @@
+{
+  "key": "estitor_564424",
+  "source": "estitor",
+  "listing_id": "564424",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-564424",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-564424"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 365,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:43.964810+00:00",
+  "images": [
+    "https://content.estitor.com/c0ec02d0-3b72-417e-8660-d75a150485d3-lg.webp",
+    "https://content.estitor.com/f44f24c5-997f-4a38-bfc4-b55c1d5a8c64-lg.webp",
+    "https://content.estitor.com/b5f11cf3-8d04-4106-94e4-436cd4898c9a-lg.webp",
+    "https://content.estitor.com/59ddd161-bc2a-4c2b-8154-03bfe5d8cb70-lg.webp",
+    "https://content.estitor.com/141ad6c0-f88c-48ad-8236-56324425b2c9-lg.webp",
+    "https://content.estitor.com/7e532d77-cf87-4db4-862b-8cd7606439ed-lg.webp",
+    "https://content.estitor.com/ee0eccf9-687b-4ed1-8c7d-c735d11d8dab-lg.webp",
+    "https://content.estitor.com/c9e5bdf0-6688-46e0-97bd-25f6f54b016a-lg.webp",
+    "https://content.estitor.com/8d0388c1-89a2-425d-9223-e3cbb62cc0db-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 54m², Dobrota, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/564424"
+}

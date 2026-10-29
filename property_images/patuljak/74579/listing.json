@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_74579",
+  "source": "patuljak",
+  "listing_id": "74579",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-42m2-sa-parkingom-budva--74579",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-42m2-sa-parkingom-budva--74579"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 89,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:17.292142+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74579_14.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan 42m2 sa parkingom Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74579"
+}

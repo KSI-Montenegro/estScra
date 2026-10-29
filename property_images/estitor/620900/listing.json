@@ -1,0 +1,28 @@
+{
+  "key": "estitor_620900",
+  "source": "estitor",
+  "listing_id": "620900",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-620900",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-620900"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 163,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:58.598798+00:00",
+  "images": [
+    "https://content.estitor.com/0113c7a5-6fd2-4465-9ad6-98f49b13fb39-lg.webp",
+    "https://content.estitor.com/cbca5eb7-0cc7-4b5e-bf42-86ca95679b50-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 750m², Dahna, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/620900"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "realitica_3947174",
+  "source": "realitica",
+  "listing_id": "3947174",
+  "listing_url": "https://www.realitica.com/hr/listing/3947174",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 133,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:19.463134+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947174_img_0987.jpg",
+    "https://www.realitica.com/images/listing_photos/3947174_img_0988.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Velika Plaža",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947174"
+}

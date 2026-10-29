@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_58176",
+  "source": "patuljak",
+  "listing_id": "58176",
+  "listing_url": "https://patuljak.me/oglas/prodaja-kuca-65kv-cijevna--58176",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-kuca-65kv-cijevna--58176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 77,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:14.043217+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/58176_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuca 65kv, Cijevna",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/58176"
+}

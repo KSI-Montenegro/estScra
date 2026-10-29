@@ -1,0 +1,28 @@
+{
+  "key": "estitor_572147",
+  "source": "estitor",
+  "listing_id": "572147",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-572147",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-572147"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 841,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:03.773096+00:00",
+  "images": [
+    "https://content.estitor.com/00db3dcd-f88c-4a8b-986f-7fb12f69f944-lg.webp",
+    "https://content.estitor.com/d5958ccd-fbc4-46b1-b672-784d756ba460-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 88m², Gorica, Danilovgrad | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/572147"
+}

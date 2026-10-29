@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_79893",
+  "source": "patuljak",
+  "listing_id": "79893",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-42m2-podgorica-zabjelo-blazene-o--79893",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-42m2-podgorica-zabjelo-blazene-o--79893"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 46,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:12.802380+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79893_10.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 42m2 - Podgorica - Zabjelo Blažene Ozane",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79893"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_597492",
+  "source": "estitor",
+  "listing_id": "597492",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-597492",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-597492"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 271,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:56.990138+00:00",
+  "images": [
+    "https://content.estitor.com/e9b0dc5d-f05c-4f10-92cc-f3622ae04b48-lg.webp",
+    "https://content.estitor.com/accedad7-b5b7-4925-97e7-a0d2ef535928-lg.webp",
+    "https://content.estitor.com/a97c72ae-33b5-457f-90ef-a4364a74c877-lg.webp",
+    "https://content.estitor.com/aaa0a9c6-a809-4567-80be-1466eec3cccb-lg.webp",
+    "https://content.estitor.com/d2affedb-3498-4544-86ea-6093aa9af7b1-lg.webp",
+    "https://content.estitor.com/8f98987b-a511-4a8a-b1b9-69f15f888204-lg.webp",
+    "https://content.estitor.com/8bb662cc-04eb-484b-9b14-9115c724bcad-lg.webp",
+    "https://content.estitor.com/10f24c03-76c1-4adb-9fe0-4a620a566018-lg.webp",
+    "https://content.estitor.com/1524f970-d09e-4b6e-91f9-5d4d778805e2-lg.webp",
+    "https://content.estitor.com/27d8803e-91b9-4580-9863-fc10dba68524-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 53m², Radanovići, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/597492"
+}

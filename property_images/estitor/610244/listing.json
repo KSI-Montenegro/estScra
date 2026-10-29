@@ -1,0 +1,32 @@
+{
+  "key": "estitor_610244",
+  "source": "estitor",
+  "listing_id": "610244",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610244",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610244"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 88,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:43.076961+00:00",
+  "images": [
+    "https://content.estitor.com/fbf6dafb-fc23-445c-b20c-7605ea6f2dde-lg.webp",
+    "https://content.estitor.com/7929c193-95a6-4118-b21f-49e88fb661f7-lg.webp",
+    "https://content.estitor.com/cd6bb1f8-11e3-4b84-bb80-da57f09409d0-lg.webp",
+    "https://content.estitor.com/0408323a-75f9-4040-9f82-755f72f1e717-lg.webp",
+    "https://content.estitor.com/09782b52-232e-4a88-9d3f-627bcfc6149b-lg.webp",
+    "https://content.estitor.com/5afd0e2e-bc00-4287-be57-5fc6e1fb7c0d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 56m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610244"
+}

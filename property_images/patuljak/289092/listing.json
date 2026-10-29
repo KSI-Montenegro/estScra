@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_289092",
+  "source": "patuljak",
+  "listing_id": "289092",
+  "listing_url": "https://patuljak.me/oglas/plac-podgorica-pricelje--289092",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-podgorica-pricelje--289092"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 129,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:41.148576+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/04/289092_3.webp"
+  ],
+  "status": "ok",
+  "title": "Plac - Podgorica (Pričelje)",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/289092"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_569896",
+  "source": "patuljak",
+  "listing_id": "569896",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosoban-stan-zabjelo--569896",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosoban-stan-zabjelo--569896"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 874,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:27.212528+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/05/569896_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/05/569896_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/05/569896_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, Zabjelo",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/569896"
+}

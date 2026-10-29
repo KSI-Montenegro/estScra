@@ -1,0 +1,36 @@
+{
+  "key": "estitor_639846",
+  "source": "estitor",
+  "listing_id": "639846",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-639846",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-639846"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 56,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:42.656789+00:00",
+  "images": [
+    "https://content.estitor.com/d70ed134-7f70-4262-b500-29d26d66bf69-lg.webp",
+    "https://content.estitor.com/43b40d2b-ecda-4aa1-bf36-3ce7b185558b-lg.webp",
+    "https://content.estitor.com/7b7c1d94-fa9a-4989-81f9-dd18e2c54965-lg.webp",
+    "https://content.estitor.com/15838252-f22b-459f-a7f4-65489409de39-lg.webp",
+    "https://content.estitor.com/effa4c13-0f60-4c6d-80e0-1dd32fbb7643-lg.webp",
+    "https://content.estitor.com/092405da-c4d0-4ccc-a7f7-04dcdf5d99ac-lg.webp",
+    "https://content.estitor.com/27cc128b-3033-411b-b72b-c531a991910a-lg.webp",
+    "https://content.estitor.com/7d5a6283-3a15-4bb8-b187-57d0909f453f-lg.webp",
+    "https://content.estitor.com/476fb6ce-645e-4971-98c3-b3c929f2850e-lg.webp",
+    "https://content.estitor.com/2d778d55-da7a-46aa-9551-65eab0ec5dc5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 270m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639846"
+}

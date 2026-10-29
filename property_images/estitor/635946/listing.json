@@ -1,0 +1,33 @@
+{
+  "key": "estitor_635946",
+  "source": "estitor",
+  "listing_id": "635946",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-635946",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-635946"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 281,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:01.665556+00:00",
+  "images": [
+    "https://content.estitor.com/73540098-c9b2-454e-9f08-a0e6fa129b97-lg.webp",
+    "https://content.estitor.com/4d5b106b-779c-4983-8e27-dffbaf429650-lg.webp",
+    "https://content.estitor.com/3939cb9c-14d0-417d-8bed-99cb5069da30-lg.webp",
+    "https://content.estitor.com/8cfdb671-4665-466c-9259-4b929545000d-lg.webp",
+    "https://content.estitor.com/c82c123c-f743-4406-8607-0f94d7cb1338-lg.webp",
+    "https://content.estitor.com/acbe39ac-196b-4d1f-801d-924325bfb178-lg.webp",
+    "https://content.estitor.com/fa57de0a-e036-4758-b7de-f20773dd4e05-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 57m², Risan, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/635946"
+}

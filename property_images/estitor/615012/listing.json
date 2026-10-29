@@ -1,0 +1,30 @@
+{
+  "key": "estitor_615012",
+  "source": "estitor",
+  "listing_id": "615012",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bijelo-polje/id-615012",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bijelo-polje/id-615012"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 184,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:09.708775+00:00",
+  "images": [
+    "https://content.estitor.com/4f116870-d978-4222-9d2e-ba8d5204e7a0-lg.webp",
+    "https://content.estitor.com/034b3680-1b0c-421e-be6e-87d261a59893-lg.webp",
+    "https://content.estitor.com/ef61bb2c-2ecf-45e5-a476-25aae2fbaf5c-lg.webp",
+    "https://content.estitor.com/72d91f1b-1c3b-47a7-a6a2-3af1b37c2c36-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 26m², Centar, Bijelo Polje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/615012"
+}

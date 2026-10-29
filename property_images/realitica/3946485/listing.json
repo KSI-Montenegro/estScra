@@ -1,0 +1,35 @@
+{
+  "key": "realitica_3946485",
+  "source": "realitica",
+  "listing_id": "3946485",
+  "listing_url": "https://www.realitica.com/hr/listing/3946485",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946485"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 85,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:18.061370+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3946485_0ad5ee31-3afe-40fe-8b0f-abe8b57b25a3.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_edc54349-7735-41c2-9c4c-1a63e199ed6c.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_cdac91fe-bbbc-42c5-9f38-92cc364ce95f.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_c693c189-d4bd-4f83-88eb-ef476c3ec86c.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_b3bbf0ab-4c97-47d5-935f-1bca6750b512.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_5060cc81-42a5-4be6-8452-85a43fa7e8e5.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_4627bcd0-0ce9-4103-93e5-39460ece2eda.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_3860d163-676d-4e47-8756-e4703e801b44.jpg",
+    "https://www.realitica.com/images/listing_photos/3946485_0dd0e590-dcac-43cc-91b0-60c64907350c.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Bar Centar",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3946485"
+}

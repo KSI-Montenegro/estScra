@@ -1,0 +1,43 @@
+{
+  "key": "patuljak_21490",
+  "source": "patuljak",
+  "listing_id": "21490",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-stan-89m2-na-gorici-c--21490",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-stan-89m2-na-gorici-c--21490"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 112,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:33.489290+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/21490_16.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se stan 89m2 na Gorici C",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/21490"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_76546",
+  "source": "patuljak",
+  "listing_id": "76546",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-46m2-city-kvart--76546",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-46m2-city-kvart--76546"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 74,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:32.476857+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76546_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se jednosoban stan 46m2  City Kvart",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76546"
+}

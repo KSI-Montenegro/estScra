@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_80275",
+  "source": "patuljak",
+  "listing_id": "80275",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-40-m-seljanovo-tiv--80275",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-nov-jednosoban-stan-40-m-seljanovo-tiv--80275"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 44,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:11.512485+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80275_5.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se nov jednosoban stan 40 m²,, Seljanovo, Tivat",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80275"
+}

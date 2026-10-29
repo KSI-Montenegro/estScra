@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_73562",
+  "source": "patuljak",
+  "listing_id": "73562",
+  "listing_url": "https://patuljak.me/oglas/hitnona-prodaju-plac-5554-m-jastreb-danilovgrad--73562",
+  "listing_urls": [
+    "https://patuljak.me/oglas/hitnona-prodaju-plac-5554-m-jastreb-danilovgrad--73562"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 97,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:21.469112+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73562_0.webp"
+  ],
+  "status": "ok",
+  "title": "Hitno!Na prodaju plac 5.554 m², Jastreb, Danilovgrad",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73562"
+}

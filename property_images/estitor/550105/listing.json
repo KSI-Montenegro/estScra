@@ -1,0 +1,35 @@
+{
+  "key": "estitor_550105",
+  "source": "estitor",
+  "listing_id": "550105",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-550105",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-550105"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 662,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:13.485242+00:00",
+  "images": [
+    "https://content.estitor.com/3bced679-64ce-4036-900a-da8e4e090465-lg.webp",
+    "https://content.estitor.com/868decd5-91d7-4c18-bb44-1ae98a266fb9-lg.webp",
+    "https://content.estitor.com/51683954-7034-4cd5-9fe6-63a263b3f3e6-lg.webp",
+    "https://content.estitor.com/59fd65c8-ec14-4f7c-a096-80d0c560a3bf-lg.webp",
+    "https://content.estitor.com/83b93543-c4dd-4945-ac25-5138c5db89c6-lg.webp",
+    "https://content.estitor.com/fa854ad6-fe80-4a3f-bde6-27fd3e5e4510-lg.webp",
+    "https://content.estitor.com/963320b6-1bcd-4535-8928-0e1516ea896f-lg.webp",
+    "https://content.estitor.com/cc71855b-957c-4b35-92b6-0f1919a46d1e-lg.webp",
+    "https://content.estitor.com/40392f25-5316-4aa4-94c2-1705ca2a33df-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 45m², Tološi, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/550105"
+}

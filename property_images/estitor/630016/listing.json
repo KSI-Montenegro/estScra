@@ -1,0 +1,31 @@
+{
+  "key": "estitor_630016",
+  "source": "estitor",
+  "listing_id": "630016",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-630016",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-630016"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 102,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:51.884290+00:00",
+  "images": [
+    "https://content.estitor.com/6515536a-1d72-46b3-8b2c-708ff38df485-lg.webp",
+    "https://content.estitor.com/c3fd03bd-0769-4b5b-80c4-d6d770511ad4-lg.webp",
+    "https://content.estitor.com/b516c2bc-6d1f-4cde-98d2-1fa8d60e02df-lg.webp",
+    "https://content.estitor.com/7be60acb-d342-4ed5-a71f-e81901b3c025-lg.webp",
+    "https://content.estitor.com/4ade9966-6a33-4714-9e25-e844c937853a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 28m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/630016"
+}

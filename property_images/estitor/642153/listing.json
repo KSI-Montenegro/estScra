@@ -1,0 +1,33 @@
+{
+  "key": "estitor_642153",
+  "source": "estitor",
+  "listing_id": "642153",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-642153",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-642153"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 21,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:26.789368+00:00",
+  "images": [
+    "https://content.estitor.com/05c8848c-773d-4a53-818d-46f626f7c84f-lg.webp",
+    "https://content.estitor.com/05c80004-b60f-44a7-8bfc-d73b4278c48d-lg.webp",
+    "https://content.estitor.com/272d093d-3a44-4912-b987-48a04c3e9b10-lg.webp",
+    "https://content.estitor.com/c7df57bd-47e6-4a5b-9c23-3b89ebb1220e-lg.webp",
+    "https://content.estitor.com/35b32994-d4df-4a33-b7d2-5dcd4e0bb0b7-lg.webp",
+    "https://content.estitor.com/adeae66d-61bd-4f59-bf80-d1c1ea48a79b-lg.webp",
+    "https://content.estitor.com/272c6c9d-9442-47b2-ac80-dcc1b77aefd9-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, jednosoban stan, 50m², Rozino, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642153"
+}

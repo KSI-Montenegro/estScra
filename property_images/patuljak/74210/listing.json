@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_74210",
+  "source": "patuljak",
+  "listing_id": "74210",
+  "listing_url": "https://patuljak.me/oglas/stan-sa-terasom-novogradnja-kod-skole-i-parka-gori--74210",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-sa-terasom-novogradnja-kod-skole-i-parka-gori--74210"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 529,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:07.465036+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74210_0.webp"
+  ],
+  "status": "ok",
+  "title": "Stan sa terasom, novogradnja, kod škole i parka Gorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74210"
+}

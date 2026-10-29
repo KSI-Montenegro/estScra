@@ -1,0 +1,53 @@
+{
+  "updated_at": "2026-10-29T19:27:54.986806+00:00",
+  "total_properties": 1797,
+  "completed": 1797,
+  "statuses": {
+    "ok": 1715,
+    "unavailable_redirect": 30,
+    "unavailable": 44,
+    "no_gallery_images": 8
+  },
+  "total_image_urls": 14522,
+  "by_source": {
+    "estitor": {
+      "total": 906,
+      "completed": 906,
+      "with_images": 862,
+      "image_urls": 8289
+    },
+    "patuljak": {
+      "total": 845,
+      "completed": 845,
+      "with_images": 811,
+      "image_urls": 5922
+    },
+    "realitica": {
+      "total": 46,
+      "completed": 46,
+      "with_images": 42,
+      "image_urls": 311
+    }
+  },
+  "distinct_image_urls": 14522,
+  "validation": {
+    "properties_mapped_to_input": 1797,
+    "image_url_rows_verified": 14522,
+    "folder_files_and_url_order": "passed",
+    "property_scoped_gallery_extraction": "passed",
+    "sample_image_urls_checked": 9,
+    "sample_image_urls_verified": 9,
+    "all_image_urls_individually_requested": false
+  },
+  "workbook_sheet_property_counts": {
+    "Likely agents": 277,
+    "Not homes": 253,
+    "Outreach list": 1184,
+    "Rejected": 87
+  },
+  "transports": {
+    "saved_html_cache": 3,
+    "direct_https": 1720,
+    "no_html": 74
+  }
+}

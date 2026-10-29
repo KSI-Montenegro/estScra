@@ -1,0 +1,34 @@
+{
+  "key": "estitor_640371",
+  "source": "estitor",
+  "listing_id": "640371",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640371",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640371"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 853,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:11.271121+00:00",
+  "images": [
+    "https://content.estitor.com/06bd8c83-cdab-40d0-b4e5-1d631bb5e674-lg.webp",
+    "https://content.estitor.com/1a79c484-18e9-4fd2-9dfc-7dfe40afd27f-lg.webp",
+    "https://content.estitor.com/49b551af-3ca7-42a3-a5df-5d2684dba151-lg.webp",
+    "https://content.estitor.com/290a2cac-4a5f-4da4-916a-5bd71c578fbb-lg.webp",
+    "https://content.estitor.com/e5461d93-2f9c-4e24-8e9d-2a4dd57f438f-lg.webp",
+    "https://content.estitor.com/f013eaf1-8dab-492b-872d-2b8088056523-lg.webp",
+    "https://content.estitor.com/719651ff-adf7-4789-8024-ad71021952bd-lg.webp",
+    "https://content.estitor.com/26ea1f0f-5951-414c-98e9-78ba1c03de88-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 49m², Stara Varoš, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640371"
+}

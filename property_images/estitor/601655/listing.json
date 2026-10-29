@@ -1,0 +1,31 @@
+{
+  "key": "estitor_601655",
+  "source": "estitor",
+  "listing_id": "601655",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-601655",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-601655"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 735,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:49.840514+00:00",
+  "images": [
+    "https://content.estitor.com/436d9a7f-37c0-4cbf-baeb-10c0431c94c3-lg.webp",
+    "https://content.estitor.com/3e253cb3-3f39-4ffa-b935-8748f0399393-lg.webp",
+    "https://content.estitor.com/bde412c8-6be9-4180-9869-2897a4d351e5-lg.webp",
+    "https://content.estitor.com/9dd73155-f3f9-4c9c-85fb-867ffbc6326a-lg.webp",
+    "https://content.estitor.com/7fb8d47a-19e8-4976-9275-d49ebd9dc4aa-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 70m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601655"
+}

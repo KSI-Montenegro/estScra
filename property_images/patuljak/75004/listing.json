@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_75004",
+  "source": "patuljak",
+  "listing_id": "75004",
+  "listing_url": "https://patuljak.me/oglas/trazim-garsonjeru-u-blizini-ekonomskog-fakulteta--75004",
+  "listing_urls": [
+    "https://patuljak.me/oglas/trazim-garsonjeru-u-blizini-ekonomskog-fakulteta--75004"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 522,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:04.296575+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75004_0.webp"
+  ],
+  "status": "ok",
+  "title": "Tražim garsonjeru u blizini ekonomskog fakulteta",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75004"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3947892",
+  "source": "realitica",
+  "listing_id": "3947892",
+  "listing_url": "https://www.realitica.com/hr/listing/3947892",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947892"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 123,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:40.135271+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0009.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0005.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0016.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0013.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0010.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0003.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0006.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0004.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0001.jpg",
+    "https://www.realitica.com/images/listing_photos/3947892_img-20261018-wa0000.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Đenovići",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947892"
+}

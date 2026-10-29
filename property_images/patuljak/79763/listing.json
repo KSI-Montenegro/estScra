@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79763",
+  "source": "patuljak",
+  "listing_id": "79763",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-za-smjestaj-radnika--79763",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-za-smjestaj-radnika--79763"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 466,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:35.275792+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79763_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79763_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79763_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan za smjestaj radnika",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79763"
+}

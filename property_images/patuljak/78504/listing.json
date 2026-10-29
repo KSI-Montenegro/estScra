@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_78504",
+  "source": "patuljak",
+  "listing_id": "78504",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stana--78504",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stana--78504"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 168,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:06.141197+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78504_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78504"
+}

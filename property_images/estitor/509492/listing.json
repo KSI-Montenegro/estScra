@@ -1,0 +1,43 @@
+{
+  "key": "estitor_509492",
+  "source": "estitor",
+  "listing_id": "509492",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-509492",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-509492"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 292,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:07.188307+00:00",
+  "images": [
+    "https://content.estitor.com/8c71d77a-50ae-4d59-9e10-f712f349a78c-lg.webp",
+    "https://content.estitor.com/9a8d01a7-01b9-4544-9580-7a2b79026411-lg.webp",
+    "https://content.estitor.com/9a22b261-3143-44d3-be18-6f8220ea3494-lg.webp",
+    "https://content.estitor.com/dda5b45b-112e-4335-98ae-3f0d0bfe9e12-lg.webp",
+    "https://content.estitor.com/d206f4eb-492d-4aec-ae8d-0c6499f0fb26-lg.webp",
+    "https://content.estitor.com/fe4b9a32-6496-42a8-90e7-bac301fabf39-lg.webp",
+    "https://content.estitor.com/e32ad87a-f969-44c4-a144-99b647311244-lg.webp",
+    "https://content.estitor.com/d718ace5-e6e9-499a-8710-e9a2d6313c9b-lg.webp",
+    "https://content.estitor.com/c8b6ff22-5887-449b-b578-0abdbb2c5099-lg.webp",
+    "https://content.estitor.com/a56c0dac-04a8-47e0-8faf-d209de055278-lg.webp",
+    "https://content.estitor.com/366f69a8-9823-47f4-b6b0-eff0caf4bd4f-lg.webp",
+    "https://content.estitor.com/c18f23c1-0259-42ad-9e8b-3a3c71b7a59f-lg.webp",
+    "https://content.estitor.com/70db0d56-235b-4513-b28c-cdbe298726ab-lg.webp",
+    "https://content.estitor.com/ed9c1e2b-a12e-4ee1-be58-4577e8ab54a4-lg.webp",
+    "https://content.estitor.com/f6382161-5d3c-450a-b020-161727713683-lg.webp",
+    "https://content.estitor.com/c4d973c1-3c5d-4da1-b4ad-bca67b342ee2-lg.webp",
+    "https://content.estitor.com/0941f222-7260-48a4-87d4-824c1a5db24b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 52m², Tivat, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/509492"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_80564",
+  "source": "patuljak",
+  "listing_id": "80564",
+  "listing_url": "https://patuljak.me/oglas/prodajem-gradjevinski-plac-sa-utu-uslovima-u-vlasn--80564",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-gradjevinski-plac-sa-utu-uslovima-u-vlasn--80564"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 41,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:47.020441+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80564_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80564_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80564_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80564_3.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem građevinski plac sa UTU uslovima, u vlasništvu 1/1, u mirnom kraju Gornjeg Polja, na 7km od",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80564"
+}

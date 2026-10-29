@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_75515",
+  "source": "patuljak",
+  "listing_id": "75515",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-lijep--75515",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-lijep--75515"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 889,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:35.669796+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75515_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75515_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75515_2.webp"
+  ],
+  "status": "ok",
+  "title": "Iznajmljujem lijep",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75515"
+}

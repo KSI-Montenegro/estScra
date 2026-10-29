@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_84993",
+  "source": "patuljak",
+  "listing_id": "84993",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-namjstan-normal-sa-prva-zgrada--84993",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-namjstan-normal-sa-prva-zgrada--84993"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 67,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:28.444816+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84993_0.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban namj.stan Normal SA prva zgrada",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84993"
+}

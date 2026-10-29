@@ -1,0 +1,37 @@
+{
+  "key": "estitor_469128",
+  "source": "estitor",
+  "listing_id": "469128",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-469128",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-469128"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 684,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:24.147283+00:00",
+  "images": [
+    "https://content.estitor.com/36d3bfa7-0d97-4832-a8dd-d031dcbd2bb2-lg.webp",
+    "https://content.estitor.com/8914452b-6b35-45e7-8f87-4100ba517917-lg.webp",
+    "https://content.estitor.com/0b842709-24dc-47fe-b862-89132b6d9354-lg.webp",
+    "https://content.estitor.com/fc672175-bdce-4c0c-8149-744bb2acc601-lg.webp",
+    "https://content.estitor.com/88a2e4ab-6940-4bcb-a22d-b492e559dc3d-lg.webp",
+    "https://content.estitor.com/7730e3c7-7060-4844-9beb-966a3ae5fc8a-lg.webp",
+    "https://content.estitor.com/a44f16b5-5caf-48c3-8677-1fa871fda1b3-lg.webp",
+    "https://content.estitor.com/0bf6eb49-b42e-4a68-bfc7-5fae2a8060ea-lg.webp",
+    "https://content.estitor.com/1664ae96-a55d-4bdc-b2fd-ec32ff522b10-lg.webp",
+    "https://content.estitor.com/7ec5cd27-b1ae-4777-9dd7-a83d519e0c6b-lg.webp",
+    "https://content.estitor.com/87551111-4600-4cdc-9635-3a68f29ca703-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 114m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/469128"
+}

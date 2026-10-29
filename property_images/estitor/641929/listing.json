@@ -1,0 +1,35 @@
+{
+  "key": "estitor_641929",
+  "source": "estitor",
+  "listing_id": "641929",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641929",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641929"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 27,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:29.376865+00:00",
+  "images": [
+    "https://content.estitor.com/821943f6-aa1b-474a-b5d5-bd60c54a6a92-lg.webp",
+    "https://content.estitor.com/79d1106f-926e-4e67-a0ea-d3ac2856f4f9-lg.webp",
+    "https://content.estitor.com/72a5ae49-e7fe-43df-b73d-9d9018903054-lg.webp",
+    "https://content.estitor.com/af026d54-6a29-4137-83d2-90c6bd6d3c4c-lg.webp",
+    "https://content.estitor.com/d1de151e-bfc4-4e34-b674-ac2076556ebe-lg.webp",
+    "https://content.estitor.com/b1b46fa7-a9d1-43e9-b4b8-2c98d70f7562-lg.webp",
+    "https://content.estitor.com/1633bbcc-471d-4a9e-9bd9-1ffc6d28896d-lg.webp",
+    "https://content.estitor.com/7ab15df6-2253-4cd1-90bc-8776c146b460-lg.webp",
+    "https://content.estitor.com/91bb56d1-a729-4d55-b9d4-6c55203eb1f7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 59m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641929"
+}

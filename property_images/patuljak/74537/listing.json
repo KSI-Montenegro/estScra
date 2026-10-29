@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_74537",
+  "source": "patuljak",
+  "listing_id": "74537",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-525m-zabljak--74537",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-525m-zabljak--74537"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 91,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:18.185098+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74537_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74537_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 525m², Zabljak",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74537"
+}

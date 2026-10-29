@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_79934",
+  "source": "patuljak",
+  "listing_id": "79934",
+  "listing_url": "https://patuljak.me/oglas/prodajem-kucu-308-m2-vranici-podgorica--79934",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-kucu-308-m2-vranici-podgorica--79934"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 98,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:24.770369+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79934_3.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem kuću 308 m2, Vranići, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79934"
+}

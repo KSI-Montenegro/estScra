@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_82802",
+  "source": "patuljak",
+  "listing_id": "82802",
+  "listing_url": "https://patuljak.me/oglas/plac-pored-vinarije-u-dobrskom-selu--82802",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-pored-vinarije-u-dobrskom-selu--82802"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 66,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:28.360388+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82802_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82802_1.webp"
+  ],
+  "status": "ok",
+  "title": "Plac pored vinarije u Dobrskom Selu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82802"
+}

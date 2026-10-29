@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_57536",
+  "source": "patuljak",
+  "listing_id": "57536",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-i-sprat-30m-preko-puta-fudbalskog-sav--57536",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-i-sprat-30m-preko-puta-fudbalskog-sav--57536"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 549,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:19.225571+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/57536_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/57536_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/57536_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/57536_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/04/57536_4.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera, I sprat (30m), preko puta Fudbalskog Saveza, Stari Aerodrom",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/57536"
+}

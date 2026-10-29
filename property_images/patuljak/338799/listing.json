@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_338799",
+  "source": "patuljak",
+  "listing_id": "338799",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-43-m2-central-point--338799",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-43-m2-central-point--338799"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 229,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:39.176982+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/01/338799_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/01/338799_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/01/338799_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/01/338799_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/01/338799_2.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 43 m2, Central Point",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/338799"
+}

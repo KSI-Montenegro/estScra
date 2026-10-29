@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_78004",
+  "source": "patuljak",
+  "listing_id": "78004",
+  "listing_url": "https://patuljak.me/oglas/prodajem-urbanizovani-plac-597-m2-zlatica--78004",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-urbanizovani-plac-597-m2-zlatica--78004"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 28,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:39.113394+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78004_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78004_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78004_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem urbanizovani plac 597 m2 Zlatica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78004"
+}

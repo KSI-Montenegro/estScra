@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_51780",
+  "source": "patuljak",
+  "listing_id": "51780",
+  "listing_url": "https://patuljak.me/oglas/prodajem-stan-51m2-zabjelo-podgorica--51780",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-stan-51m2-zabjelo-podgorica--51780"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 534,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:10.941792+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/51780_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem stan 51m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/51780"
+}

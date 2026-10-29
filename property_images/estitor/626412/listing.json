@@ -1,0 +1,31 @@
+{
+  "key": "estitor_626412",
+  "source": "estitor",
+  "listing_id": "626412",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-626412",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-626412"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 802,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:34.714980+00:00",
+  "images": [
+    "https://content.estitor.com/d739435c-4df9-43b8-b883-61d1de701b69-lg.webp",
+    "https://content.estitor.com/9f57548e-3e96-40bc-ab6c-7906c6d693b0-lg.webp",
+    "https://content.estitor.com/a9e3c2f9-5c05-472f-80dc-b3e67b58b08c-lg.webp",
+    "https://content.estitor.com/b0829ea2-9b4a-4f9d-85ca-5ba4c03293ef-lg.webp",
+    "https://content.estitor.com/88c0bcca-10b4-4ded-9a69-bb7aa2646a3c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 81m², Dobra Voda, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626412"
+}

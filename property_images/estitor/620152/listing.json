@@ -1,0 +1,30 @@
+{
+  "key": "estitor_620152",
+  "source": "estitor",
+  "listing_id": "620152",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-620152",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-620152"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 181,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:07.855907+00:00",
+  "images": [
+    "https://content.estitor.com/5078aea9-6206-4351-9ef7-5972020f4cd9-lg.webp",
+    "https://content.estitor.com/8162417f-50f8-412d-8a86-2403dddadcca-lg.webp",
+    "https://content.estitor.com/672e4ea1-f808-4e40-91f0-421ed858ddd4-lg.webp",
+    "https://content.estitor.com/7e80ac7c-96e5-4e36-8a55-95f79c8b2480-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 12m², Rozino, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/620152"
+}

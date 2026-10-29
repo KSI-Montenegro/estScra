@@ -1,0 +1,34 @@
+{
+  "key": "realitica_3948903",
+  "source": "realitica",
+  "listing_id": "3948903",
+  "listing_url": "https://www.realitica.com/hr/listing/3948903",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948903"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 83,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:16.560262+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3948903_img_1820.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1823.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1826.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1819.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1832.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1829.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1828.jpg",
+    "https://www.realitica.com/images/listing_photos/3948903_img_1817.jpg"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan novogradnja zaobilaznica",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3948903"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80006",
+  "source": "patuljak",
+  "listing_id": "80006",
+  "listing_url": "https://patuljak.me/oglas/prodaja-zemljista-2000-m-u-blizini-skadarskog-je--80006",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-zemljista-2000-m-u-blizini-skadarskog-je--80006"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 49,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:52.980897+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80006_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja zemljišta 2.000 m², u blizini Skadarskog jezera, Cetinje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80006"
+}

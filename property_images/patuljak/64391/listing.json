@@ -1,0 +1,44 @@
+{
+  "key": "patuljak_64391",
+  "source": "patuljak",
+  "listing_id": "64391",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-kuca-342m2-cepurci-stara-varos--64391",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-kuca-342m2-cepurci-stara-varos--64391"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 2,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:40.726518+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/64391_17.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju, Kuća 342m2, Čepurci, Stara Varoš",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 18,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/64391"
+}

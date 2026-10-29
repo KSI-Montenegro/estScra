@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_83524",
+  "source": "patuljak",
+  "listing_id": "83524",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjestenu-kucu-120m2--83524",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjestenu-kucu-120m2--83524"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 974,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:29.202038+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83524_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namjestenu kucu 120m2-",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83524"
+}

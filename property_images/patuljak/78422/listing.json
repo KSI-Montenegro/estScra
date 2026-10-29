@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_78422",
+  "source": "patuljak",
+  "listing_id": "78422",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stanovi-zagoric--78422",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stanovi-zagoric--78422"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 64,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:06.034347+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78422_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78422_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja stanovi Zagorič",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78422"
+}

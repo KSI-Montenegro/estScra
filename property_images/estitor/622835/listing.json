@@ -1,0 +1,29 @@
+{
+  "key": "estitor_622835",
+  "source": "estitor",
+  "listing_id": "622835",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-622835",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-622835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 663,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:13.995212+00:00",
+  "images": [
+    "https://content.estitor.com/c2bf5f71-cf73-46e4-b227-cc9694505463-lg.webp",
+    "https://content.estitor.com/47ac958e-1c3c-4c3d-97ef-85965c6c6f40-lg.webp",
+    "https://content.estitor.com/e90c552a-ce02-48ca-9d28-9c8e3045d7d6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 37m², Pod Goricom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/622835"
+}

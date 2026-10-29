@@ -1,0 +1,31 @@
+{
+  "key": "estitor_638102",
+  "source": "estitor",
+  "listing_id": "638102",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-638102",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-638102"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 84,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:55.148903+00:00",
+  "images": [
+    "https://content.estitor.com/d58f896b-96c3-4541-b095-7609d0321c6b-lg.webp",
+    "https://content.estitor.com/43ddb977-5846-4182-af26-b1b780b0a21b-lg.webp",
+    "https://content.estitor.com/d144babb-95fd-47ef-ac50-73d9e603a5d8-lg.webp",
+    "https://content.estitor.com/a9f8cf63-2945-46ed-b57f-67d61caed78f-lg.webp",
+    "https://content.estitor.com/adca2cbe-d6ce-4433-a784-ffe9ad7aa88d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 160m², Dobra Voda, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638102"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "estitor_535618",
+  "source": "estitor",
+  "listing_id": "535618",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-535618",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-535618"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 191,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:13.702107+00:00",
+  "images": [
+    "https://content.estitor.com/79a2e30e-dafc-45f2-bafa-18cf1fe77b4c-lg.webp",
+    "https://content.estitor.com/772317c5-727a-4b40-a940-1003117c0b57-lg.webp",
+    "https://content.estitor.com/d930db87-2791-4dfa-9633-8f62dd448fb1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 2700m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/535618"
+}

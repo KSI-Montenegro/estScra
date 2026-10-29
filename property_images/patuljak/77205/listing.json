@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_77205",
+  "source": "patuljak",
+  "listing_id": "77205",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjesten-jednosoban-stan--77205",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjesten-jednosoban-stan--77205"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 499,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:52.703549+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77205_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77205_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77205_2.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJEM NAMJESTEN JEDNOSOBAN STAN",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77205"
+}

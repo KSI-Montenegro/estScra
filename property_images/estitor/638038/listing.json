@@ -1,0 +1,30 @@
+{
+  "key": "estitor_638038",
+  "source": "estitor",
+  "listing_id": "638038",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-638038",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-638038"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 274,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:58.646245+00:00",
+  "images": [
+    "https://content.estitor.com/63b0142e-32fd-408c-8a8e-49f89ab1d179-lg.webp",
+    "https://content.estitor.com/a66850d5-f9da-4c21-af24-5cc1a644286f-lg.webp",
+    "https://content.estitor.com/e008085b-bfe6-4562-af5e-694ab2fbc714-lg.webp",
+    "https://content.estitor.com/4fe39bd2-11db-49cd-b6f0-b6af2dc5330a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Škaljari, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638038"
+}

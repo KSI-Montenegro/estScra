@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_80236",
+  "source": "patuljak",
+  "listing_id": "80236",
+  "listing_url": "https://patuljak.me/oglas/kuca-147-m2-na-putu-za-crno-jezero-zabljak--80236",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kuca-147-m2-na-putu-za-crno-jezero-zabljak--80236"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 459,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:31.614153+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80236_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80236_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80236_1.webp"
+  ],
+  "status": "ok",
+  "title": "Kuća 147 m2 na putu za Crno jezero, Žabljak",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80236"
+}

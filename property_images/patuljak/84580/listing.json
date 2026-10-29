@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_84580",
+  "source": "patuljak",
+  "listing_id": "84580",
+  "listing_url": "https://patuljak.me/oglas/za-kratkorocni-najam-city-kvart-veliki-jednosoba--84580",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-kratkorocni-najam-city-kvart-veliki-jednosoba--84580"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 429,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:15.050294+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84580_1.webp"
+  ],
+  "status": "ok",
+  "title": "Za kratkorocni najam - City Kvart - veliki jednosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84580"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "estitor_484759",
+  "source": "estitor",
+  "listing_id": "484759",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-484759",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-484759"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 814,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:44.366211+00:00",
+  "images": [
+    "https://content.estitor.com/84aa6656-e419-45a3-9ad8-5337ec88b3a7-lg.webp",
+    "https://content.estitor.com/c1e004ba-ee32-44a2-bc2c-86847c2e0764-lg.webp",
+    "https://content.estitor.com/423f11c2-0b0c-4e52-ab70-8a35a1745b59-lg.webp",
+    "https://content.estitor.com/c76a8ed7-4f4c-4f54-9783-8b41024e8911-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Igalo, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/484759"
+}

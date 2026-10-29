@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3949789",
+  "source": "realitica",
+  "listing_id": "3949789",
+  "listing_url": "https://www.realitica.com/hr/listing/3949789",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949789"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 12,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:19.023806+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3949789_photo_3_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_12_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_18_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_13_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_15_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_8_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_20_2026-10-22_13-31-57.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_22_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_8_2026-10-22_13-36-24.jpg",
+    "https://www.realitica.com/images/listing_photos/3949789_photo_6_2026-10-22_13-36-24.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Rafailovići",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "saved_html_cache",
+  "errors": [],
+  "folder": "realitica/3949789"
+}

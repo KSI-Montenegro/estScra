@@ -1,0 +1,28 @@
+{
+  "key": "estitor_604742",
+  "source": "estitor",
+  "listing_id": "604742",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-pljevlja/id-604742",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-pljevlja/id-604742"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 69,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:06.920697+00:00",
+  "images": [
+    "https://content.estitor.com/9c64679c-eb29-488a-85c8-6db0f9423e8d-lg.webp",
+    "https://content.estitor.com/2f3fb56c-96d0-4a50-b977-f1208bdb6364-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 84m², Pljevlja, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604742"
+}

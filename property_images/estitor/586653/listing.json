@@ -1,0 +1,34 @@
+{
+  "key": "estitor_586653",
+  "source": "estitor",
+  "listing_id": "586653",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-zabljak/id-586653",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-zabljak/id-586653"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 33,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:06.333963+00:00",
+  "images": [
+    "https://content.estitor.com/1a5c47ed-c0ca-46db-ba96-a49889af1dfd-lg.webp",
+    "https://content.estitor.com/5e2b074a-84d1-4a1d-a73c-0f6355160010-lg.webp",
+    "https://content.estitor.com/14c9da04-a1ad-46e4-9820-4423d1efecb3-lg.webp",
+    "https://content.estitor.com/b3dbdc68-b975-4085-b701-5ace884713bb-lg.webp",
+    "https://content.estitor.com/578b0c2e-a459-49bd-bca2-449ecb8cb4a0-lg.webp",
+    "https://content.estitor.com/9690be1e-5ed5-4a15-bafa-215cfcfc35e1-lg.webp",
+    "https://content.estitor.com/ac732a6a-c823-4b81-8d0c-ef1887de5309-lg.webp",
+    "https://content.estitor.com/95cbcf37-92e2-424f-9de4-6443bb87637a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 100m², Virak, Žabljak | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/586653"
+}

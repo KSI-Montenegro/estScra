@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_670891",
+  "source": "patuljak",
+  "listing_id": "670891",
+  "listing_url": "https://patuljak.me/oglas/plac-1080m2-smailagica-polje-kolasin-prodaja--670891",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-1080m2-smailagica-polje-kolasin-prodaja--670891"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 123,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:36.797238+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/670891_10.webp"
+  ],
+  "status": "ok",
+  "title": "Plac, 1080m2, Smailagića Polje, Kolasin, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/670891"
+}

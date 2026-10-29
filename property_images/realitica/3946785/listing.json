@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3946785",
+  "source": "realitica",
+  "listing_id": "3946785",
+  "listing_url": "https://www.realitica.com/hr/listing/3946785",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946785"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 76,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:51.650466+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-01.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-03.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-05.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-08.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-09.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-10.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-11.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-12.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-14-1.jpg",
+    "https://www.realitica.com/images/listing_photos/3946785_mazina-15.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Tivat",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3946785"
+}

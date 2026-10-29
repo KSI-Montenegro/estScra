@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_633024",
+  "source": "patuljak",
+  "listing_id": "633024",
+  "listing_url": "https://patuljak.me/oglas/idajem-dvije-sobe-15-m2-gornja-gorica-podgorica-iz--633024",
+  "listing_urls": [
+    "https://patuljak.me/oglas/idajem-dvije-sobe-15-m2-gornja-gorica-podgorica-iz--633024"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 986,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:35.510001+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/633024_3.webp"
+  ],
+  "status": "ok",
+  "title": "Idajem dvije sobe, 15 m2, Gornja Gorica, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/633024"
+}

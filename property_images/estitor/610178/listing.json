@@ -1,0 +1,35 @@
+{
+  "key": "estitor_610178",
+  "source": "estitor",
+  "listing_id": "610178",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610178",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610178"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 881,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:30.658565+00:00",
+  "images": [
+    "https://content.estitor.com/4af3bb1e-34e5-41d1-9b80-3addd8d1eddc-lg.webp",
+    "https://content.estitor.com/ea7448d8-1861-4bb6-a540-dec75205cbac-lg.webp",
+    "https://content.estitor.com/daadf8fb-db3e-4685-9d2c-a667ce3098df-lg.webp",
+    "https://content.estitor.com/61f80c34-40a5-4b5d-88e4-2bde5a6ec6e4-lg.webp",
+    "https://content.estitor.com/7691efe7-f40f-4365-a257-6f8726e05ec2-lg.webp",
+    "https://content.estitor.com/97f714a9-df96-44e5-8e20-c4272dc3aa7b-lg.webp",
+    "https://content.estitor.com/687cdc96-fb09-4c2d-b95c-3a7a6465ac76-lg.webp",
+    "https://content.estitor.com/61a6c48a-8afa-441e-b642-db38212b47c7-lg.webp",
+    "https://content.estitor.com/5f6a188e-d152-452f-9346-85d00c30c863-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610178"
+}

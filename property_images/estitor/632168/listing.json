@@ -1,0 +1,30 @@
+{
+  "key": "estitor_632168",
+  "source": "estitor",
+  "listing_id": "632168",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-632168",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-632168"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 601,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:42.842548+00:00",
+  "images": [
+    "https://content.estitor.com/9cadd217-6363-4f09-8ea0-3d2b76f24f83-lg.webp",
+    "https://content.estitor.com/e1c647c9-5ab3-4faa-ab22-8b9c3efa0997-lg.webp",
+    "https://content.estitor.com/13ec896f-f3be-43e3-b37c-fb4ef321ddab-lg.webp",
+    "https://content.estitor.com/0f598536-72ad-4c28-9db3-3e826ef4f391-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 95m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/632168"
+}

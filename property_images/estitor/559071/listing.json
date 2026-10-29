@@ -1,0 +1,35 @@
+{
+  "key": "estitor_559071",
+  "source": "estitor",
+  "listing_id": "559071",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-559071",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-559071"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 156,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:53.154883+00:00",
+  "images": [
+    "https://content.estitor.com/ea48c4a8-fa62-4248-9c71-8c4c25df7d11-lg.webp",
+    "https://content.estitor.com/af28b7bd-07a5-47e0-a6bb-37e9e37fb66e-lg.webp",
+    "https://content.estitor.com/8425c677-b08f-4258-beb6-89fbd70c96c4-lg.webp",
+    "https://content.estitor.com/45c91258-630e-4b7b-b7dc-2e7c31ae4d4f-lg.webp",
+    "https://content.estitor.com/6e955cf6-58e4-463d-8ab4-53b00481c93a-lg.webp",
+    "https://content.estitor.com/58d87075-dc63-4102-8203-80a566669dbd-lg.webp",
+    "https://content.estitor.com/d0dcb471-e0ca-41ef-acb9-08848374a2d6-lg.webp",
+    "https://content.estitor.com/6acb8a0d-fefc-4964-831f-d913c7346671-lg.webp",
+    "https://content.estitor.com/46d825bb-f7f2-4947-a9d8-08f135f317d9-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 115m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/559071"
+}

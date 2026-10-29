@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_81991",
+  "source": "patuljak",
+  "listing_id": "81991",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-50m2-donja-lastva--81991",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-50m2-donja-lastva--81991"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 34,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:42.818601+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81991_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81991_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81991_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem poslovni prostor 50m2 Donja Lastva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81991"
+}

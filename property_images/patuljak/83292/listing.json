@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_83292",
+  "source": "patuljak",
+  "listing_id": "83292",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-2900m2-ko-bijelo-poljezeta-plac-ur--83292",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-2900m2-ko-bijelo-poljezeta-plac-ur--83292"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 25,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:37.567566+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83292_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 2900m2 KO Bijelo Polje(Zeta), plac uredno odrzavan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83292"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_631414",
+  "source": "estitor",
+  "listing_id": "631414",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-631414",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-631414"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 282,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:02.177328+00:00",
+  "images": [
+    "https://content.estitor.com/965170b0-8786-427a-82ea-93ecaa7fb413-lg.webp",
+    "https://content.estitor.com/11e51528-a8af-4057-b8ce-67c613591c89-lg.webp",
+    "https://content.estitor.com/7e282c90-60f1-4630-83d9-9db5c7e8e1f6-lg.webp",
+    "https://content.estitor.com/cffed322-1625-4383-adfd-b2b2e4428bff-lg.webp",
+    "https://content.estitor.com/5f3ae67a-2528-4314-8749-87a0112d65b9-lg.webp",
+    "https://content.estitor.com/962b3a10-310b-4c48-9dad-c49c4e10abc5-lg.webp",
+    "https://content.estitor.com/5ce64597-503d-4808-86dc-65d18da54621-lg.webp",
+    "https://content.estitor.com/7a778a01-285d-4db9-a1b5-df522a365a14-lg.webp",
+    "https://content.estitor.com/6b47c398-c1fe-4d4d-9d2d-b064adbd6307-lg.webp",
+    "https://content.estitor.com/d7364e9b-5823-4c17-a1a7-e7363ab6fc6f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 54m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/631414"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "estitor_627694",
+  "source": "estitor",
+  "listing_id": "627694",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-627694",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-627694"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 152,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:51.179644+00:00",
+  "images": [
+    "https://content.estitor.com/14119dd7-ed77-4753-ad18-8419b3308c1f-lg.webp",
+    "https://content.estitor.com/d11bf933-437f-4efa-bb25-89c49c745b4f-lg.webp",
+    "https://content.estitor.com/cb0405c9-5d39-45e7-9a40-1a38b35e3204-lg.webp",
+    "https://content.estitor.com/be7b3be0-51fe-495e-9727-509fecdad11f-lg.webp",
+    "https://content.estitor.com/38070022-c6d1-40b3-8ebc-b03ee9ce69d0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 5700m², Mataguži, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/627694"
+}

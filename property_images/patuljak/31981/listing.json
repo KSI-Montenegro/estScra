@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_31981",
+  "source": "patuljak",
+  "listing_id": "31981",
+  "listing_url": "https://patuljak.me/oglas/malo-brdo-trosoban--31981",
+  "listing_urls": [
+    "https://patuljak.me/oglas/malo-brdo-trosoban--31981"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 553,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:21.254818+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31981_13.webp"
+  ],
+  "status": "ok",
+  "title": "Malo brdo trosoban",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/31981"
+}

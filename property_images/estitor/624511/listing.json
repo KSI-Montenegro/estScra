@@ -1,0 +1,36 @@
+{
+  "key": "estitor_624511",
+  "source": "estitor",
+  "listing_id": "624511",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-624511",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-624511"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 823,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:51.858829+00:00",
+  "images": [
+    "https://content.estitor.com/4739f007-0b9f-4551-a14a-f6387a7ede27-lg.webp",
+    "https://content.estitor.com/975b7c37-4a2f-4a5e-a3ac-dc8b058154eb-lg.webp",
+    "https://content.estitor.com/78abf51b-8720-4d14-b9ab-8d68d87276dc-lg.webp",
+    "https://content.estitor.com/9cc80010-d72e-46ca-a8b8-08336e57c783-lg.webp",
+    "https://content.estitor.com/4b9709a1-0ee1-42c1-b1a7-35771e62c2cc-lg.webp",
+    "https://content.estitor.com/ef143112-6313-463f-9384-00f9f814e6e5-lg.webp",
+    "https://content.estitor.com/2682d869-3eed-434d-a83c-a4f5e0c51e97-lg.webp",
+    "https://content.estitor.com/6d2b6b6e-058a-4021-8243-128258e3020c-lg.webp",
+    "https://content.estitor.com/7879dd5a-9574-454b-a673-72b6d692f687-lg.webp",
+    "https://content.estitor.com/d1632a27-afaf-441d-ac61-4a5cedcbaef3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Centar, Cetinje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624511"
+}

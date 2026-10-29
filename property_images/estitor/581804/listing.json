@@ -1,0 +1,35 @@
+{
+  "key": "estitor_581804",
+  "source": "estitor",
+  "listing_id": "581804",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581804",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581804"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 688,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:26.483183+00:00",
+  "images": [
+    "https://content.estitor.com/5e647d58-8068-45b6-9ab1-e0fc629925a6-lg.webp",
+    "https://content.estitor.com/15a1a366-69c6-4af0-b8d3-de885374e657-lg.webp",
+    "https://content.estitor.com/7b5d7f09-edb9-4418-b8f0-08e1ad059dff-lg.webp",
+    "https://content.estitor.com/ce226f19-8333-46bf-9ab3-dde292c57bd4-lg.webp",
+    "https://content.estitor.com/56990ba8-6bdd-4e4b-b252-b0fe92552acd-lg.webp",
+    "https://content.estitor.com/0a10c224-777d-4626-96d4-8981a62807f1-lg.webp",
+    "https://content.estitor.com/29cced4f-ac8b-4ca3-9683-71979989b97a-lg.webp",
+    "https://content.estitor.com/c1951099-cc8b-49ca-932a-5f869f451667-lg.webp",
+    "https://content.estitor.com/b243dbaa-cfea-4821-acc1-6ceffc70ea19-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581804"
+}

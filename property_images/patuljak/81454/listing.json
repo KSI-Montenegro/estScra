@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_81454",
+  "source": "patuljak",
+  "listing_id": "81454",
+  "listing_url": "https://patuljak.me/oglas/garaza-za-rentiranje-petrovac-budva--81454",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garaza-za-rentiranje-petrovac-budva--81454"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 867,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:20.148343+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81454_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81454_1.webp"
+  ],
+  "status": "ok",
+  "title": "Garaža za rentiranje, Petrovac, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81454"
+}

@@ -1,0 +1,24 @@
+{
+  "key": "estitor_566766",
+  "source": "estitor",
+  "listing_id": "566766",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-budva/id-566766",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-budva/id-566766"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 13,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:24.218075+00:00",
+  "images": [],
+  "status": "unavailable",
+  "http_status": 404,
+  "errors": [
+    "direct_http_404"
+  ],
+  "folder": "estitor/566766"
+}

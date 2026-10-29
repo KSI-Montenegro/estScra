@@ -1,0 +1,36 @@
+{
+  "key": "estitor_635260",
+  "source": "estitor",
+  "listing_id": "635260",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-635260",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-635260"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 147,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:48.297565+00:00",
+  "images": [
+    "https://content.estitor.com/77c906a2-765f-4c16-ae74-de24177aa102-lg.webp",
+    "https://content.estitor.com/de8557f9-9883-4e1d-8119-585d7aba50df-lg.webp",
+    "https://content.estitor.com/d1654967-c7f9-46bc-a792-95dc75eabef6-lg.webp",
+    "https://content.estitor.com/2890ed3e-0eb6-46f9-a745-d86759dc8c30-lg.webp",
+    "https://content.estitor.com/ccaa03c1-2eba-407d-9aa4-88f635dc82bc-lg.webp",
+    "https://content.estitor.com/d28f787c-4ed0-4c66-81a6-0c8f52167014-lg.webp",
+    "https://content.estitor.com/c0703f6c-ea21-47b9-b0ac-dcbdc06ecf50-lg.webp",
+    "https://content.estitor.com/025c0c38-11d4-4d00-a6b7-43c486e0d451-lg.webp",
+    "https://content.estitor.com/f1399666-95b9-4698-b0f4-47d71b997f15-lg.webp",
+    "https://content.estitor.com/da537035-5aee-4a37-a204-cca904891033-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 370m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/635260"
+}

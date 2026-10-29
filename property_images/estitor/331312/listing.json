@@ -1,0 +1,32 @@
+{
+  "key": "estitor_331312",
+  "source": "estitor",
+  "listing_id": "331312",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-331312",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-331312"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 394,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:58.475670+00:00",
+  "images": [
+    "https://content.estitor.com/b7bfb132-b1a4-49ae-92f5-03d6cb232f94-lg.webp",
+    "https://content.estitor.com/4e3a7403-64c6-4e2a-827e-59e0aef91fcf-lg.webp",
+    "https://content.estitor.com/72f90293-1542-4add-bba0-3e3a9be34108-lg.webp",
+    "https://content.estitor.com/2a20b838-37ff-4a54-bf34-b17f5d8b4623-lg.webp",
+    "https://content.estitor.com/17391d91-5321-4ed1-94da-9a87ec6f6c34-lg.webp",
+    "https://content.estitor.com/7fd6ea03-2fac-4040-81c8-6f165f541b44-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 18m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/331312"
+}

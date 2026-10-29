@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_5632",
+  "source": "patuljak",
+  "listing_id": "5632",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-5677m2-golubovci-prodaja--5632",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-5677m2-golubovci-prodaja--5632"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 781,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:19.401346+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5632_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5632_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/05/5632_1.webp"
+  ],
+  "status": "ok",
+  "title": "Zemljiste, 5677m2, Golubovci, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/5632"
+}

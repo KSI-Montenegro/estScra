@@ -1,0 +1,33 @@
+{
+  "key": "estitor_566770",
+  "source": "estitor",
+  "listing_id": "566770",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566770",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566770"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 615,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:49.657091+00:00",
+  "images": [
+    "https://content.estitor.com/dfb3ecd9-d6cc-4788-ab28-23a81d609d97-lg.webp",
+    "https://content.estitor.com/8f70bd05-3bd1-40d0-80b7-3b1ed7a4ae87-lg.webp",
+    "https://content.estitor.com/c278f90f-78eb-41b8-8606-7e16bb355dc5-lg.webp",
+    "https://content.estitor.com/778fe73b-e4cc-4bb1-9644-2b4cd2a3a31b-lg.webp",
+    "https://content.estitor.com/80cf8912-4564-4cc5-94c1-4e76110f9a5f-lg.webp",
+    "https://content.estitor.com/45ece487-1a4f-40f7-bca7-6e0ab2a625d2-lg.webp",
+    "https://content.estitor.com/8e57d76a-1ef8-4538-b056-e8da7d221352-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 103m², Ljubović, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/566770"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_639009",
+  "source": "estitor",
+  "listing_id": "639009",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639009",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639009"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 58,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:20.821876+00:00",
+  "images": [
+    "https://content.estitor.com/a63bde80-312b-4133-ae18-42d2ed5be690-lg.webp",
+    "https://content.estitor.com/8439f931-46f5-431a-8cbb-f208999ed9cd-lg.webp",
+    "https://content.estitor.com/d344d7aa-0628-46a2-be04-cfd04df3e0f7-lg.webp",
+    "https://content.estitor.com/e7821064-8595-464e-9982-ed03236fd46c-lg.webp",
+    "https://content.estitor.com/10d0ec25-495c-4fcc-91cb-2dd34a3c0c84-lg.webp",
+    "https://content.estitor.com/7ab62b22-cec1-4332-99c7-5e93133004ce-lg.webp",
+    "https://content.estitor.com/108cb0f4-76ac-4f54-a5cb-8763b223cd8d-lg.webp",
+    "https://content.estitor.com/01548843-fa16-4fcf-b673-303f2795877c-lg.webp",
+    "https://content.estitor.com/3497b346-654a-4553-9963-1bf6811f23bf-lg.webp",
+    "https://content.estitor.com/39b63332-9ad3-4939-9b77-af82c7b75afb-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 43m², Lazi, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639009"
+}

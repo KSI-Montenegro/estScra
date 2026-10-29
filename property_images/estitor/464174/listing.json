@@ -1,0 +1,34 @@
+{
+  "key": "estitor_464174",
+  "source": "estitor",
+  "listing_id": "464174",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464174",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 786,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:21.957365+00:00",
+  "images": [
+    "https://content.estitor.com/8f4c7f49-910f-46bd-8ce3-ca3a7c3371c8-lg.webp",
+    "https://content.estitor.com/1380c2eb-952d-4437-b660-a93e7a540ea8-lg.webp",
+    "https://content.estitor.com/f021d9e3-5680-40b7-9d02-f7bd2aa675f2-lg.webp",
+    "https://content.estitor.com/3e3e8eea-332f-4956-a810-a2a42cbf76cc-lg.webp",
+    "https://content.estitor.com/25d3ed96-52f2-42e4-b461-70129a2c29a8-lg.webp",
+    "https://content.estitor.com/5113ebfa-d771-462c-88f2-44d750c7b9ca-lg.webp",
+    "https://content.estitor.com/92cdc1b7-9f3b-47c4-9424-caef3f889863-lg.webp",
+    "https://content.estitor.com/31be1cbc-3dee-46ab-87ac-008261f3e05e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 37m², Adok, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/464174"
+}

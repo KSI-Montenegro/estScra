@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_83737",
+  "source": "patuljak",
+  "listing_id": "83737",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-na-zabljaku-500m2--83737",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-na-zabljaku-500m2--83737"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 23,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:36.241102+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83737_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac na Zabljaku 500m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83737"
+}

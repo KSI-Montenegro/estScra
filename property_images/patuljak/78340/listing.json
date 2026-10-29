@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_78340",
+  "source": "patuljak",
+  "listing_id": "78340",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-plac-u-rogamima-3000-m2--78340",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-plac-u-rogamima-3000-m2--78340"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 63,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:01.624140+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78340_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se plac u Rogamima 3000 m2.",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78340"
+}

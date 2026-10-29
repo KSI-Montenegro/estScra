@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_84913",
+  "source": "patuljak",
+  "listing_id": "84913",
+  "listing_url": "https://patuljak.me/oglas/lijepa-kvalitetna-porodicna-kuca-u-vrhu-susanj--84913",
+  "listing_urls": [
+    "https://patuljak.me/oglas/lijepa-kvalitetna-porodicna-kuca-u-vrhu-susanj--84913"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 128,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:41.198517+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84913_0.webp"
+  ],
+  "status": "ok",
+  "title": "* Lijepa kvalitetna porodična kuća u vrhu Šušanj -  BAR",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84913"
+}

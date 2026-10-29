@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_77358",
+  "source": "patuljak",
+  "listing_id": "77358",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-kuca-moze-i-za-radnike--77358",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-kuca-moze-i-za-radnike--77358"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 495,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:50.674814+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77358_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se kuca moze i za radnike",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77358"
+}

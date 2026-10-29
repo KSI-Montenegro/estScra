@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_73034",
+  "source": "patuljak",
+  "listing_id": "73034",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-moskovska-ulica-zetagrad--73034",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-moskovska-ulica-zetagrad--73034"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 539,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:15.408224+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/73034_15.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se jednosoban stan  Moskovska ulica, Zetagradnja (kod Hrama)",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73034"
+}

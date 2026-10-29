@@ -1,0 +1,33 @@
+{
+  "key": "realitica_3947065",
+  "source": "realitica",
+  "listing_id": "3947065",
+  "listing_url": "https://www.realitica.com/hr/listing/3947065",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947065"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 123,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:39.857237+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0017.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0018.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0024.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0022.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0021.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0019.jpg",
+    "https://www.realitica.com/images/listing_photos/3947065_img-20261018-wa0025.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Baošići",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947065"
+}

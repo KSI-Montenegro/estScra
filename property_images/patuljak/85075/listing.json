@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_85075",
+  "source": "patuljak",
+  "listing_id": "85075",
+  "listing_url": "https://patuljak.me/oglas/prodajem-garsonjeru-u-sutomoru--85075",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-garsonjeru-u-sutomoru--85075"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 87,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:19.748560+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85075_10.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem garsonjeru u Sutomoru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85075"
+}

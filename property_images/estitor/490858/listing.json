@@ -1,0 +1,29 @@
+{
+  "key": "estitor_490858",
+  "source": "estitor",
+  "listing_id": "490858",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-490858",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-490858"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 150,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:49.825971+00:00",
+  "images": [
+    "https://content.estitor.com/a11a97f7-e354-468b-9604-a9f6b93de0d7-lg.webp",
+    "https://content.estitor.com/fe54211a-0fee-49a1-807c-af7a1aa2ea94-lg.webp",
+    "https://content.estitor.com/8a55ec94-66f7-4395-8112-28595bf86332-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 1627m², Tološi, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/490858"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_30945",
+  "source": "patuljak",
+  "listing_id": "30945",
+  "listing_url": "https://patuljak.me/oglas/prodajem-namjesten-stan-na-zabjelu-49m2-115000e--30945",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-namjesten-stan-na-zabjelu-49m2-115000e--30945"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 97,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:49.373081+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/30945"
+}

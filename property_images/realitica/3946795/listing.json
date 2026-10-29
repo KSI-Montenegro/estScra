@@ -1,0 +1,30 @@
+{
+  "key": "realitica_3946795",
+  "source": "realitica",
+  "listing_id": "3946795",
+  "listing_url": "https://www.realitica.com/hr/listing/3946795",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946795"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 423,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:13.021706+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3946795_img_1598.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946795_img_1597.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946795_img_1595.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946795_img_1596.jpeg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Garaža, Kotor",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3946795"
+}

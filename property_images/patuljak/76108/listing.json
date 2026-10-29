@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_76108",
+  "source": "patuljak",
+  "listing_id": "76108",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-25m2-dalmatinska-ulica-podgorica--76108",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-25m2-dalmatinska-ulica-podgorica--76108"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 771,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:11.027145+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76108_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76108_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76108_0.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera 25m2, Dalmatinska ulica, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76108"
+}

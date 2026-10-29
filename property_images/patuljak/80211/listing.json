@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80211",
+  "source": "patuljak",
+  "listing_id": "80211",
+  "listing_url": "https://patuljak.me/oglas/prodajazamjena-stan-u-budvi-za-podgoricu--80211",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajazamjena-stan-u-budvi-za-podgoricu--80211"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 96,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:22.961720+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80211_0.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJA/ZAMJENA Stan u Budvi za Podgoricu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80211"
+}

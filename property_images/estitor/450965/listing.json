@@ -1,0 +1,35 @@
+{
+  "key": "estitor_450965",
+  "source": "estitor",
+  "listing_id": "450965",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-450965",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-450965"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 597,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:40.920744+00:00",
+  "images": [
+    "https://content.estitor.com/d4e7ea41-9b59-4964-83aa-9f5cc56d1ce8-lg.webp",
+    "https://content.estitor.com/5ab9e4fd-5d9c-4b6a-8789-ce35ec0457f4-lg.webp",
+    "https://content.estitor.com/8dabaeab-7887-45e8-a89a-826e4434f827-lg.webp",
+    "https://content.estitor.com/aa586c3d-e1bf-410c-ba43-bfeabddff783-lg.webp",
+    "https://content.estitor.com/41a39233-907b-49bc-b551-a886371f29d3-lg.webp",
+    "https://content.estitor.com/1ac6278d-03a4-403e-821a-05dd7c7a65ab-lg.webp",
+    "https://content.estitor.com/00210323-6114-4921-a0e8-156f9e0b31f9-lg.webp",
+    "https://content.estitor.com/9ea9e419-2902-4110-b4b1-cbbde8214861-lg.webp",
+    "https://content.estitor.com/564d78d6-9937-452b-ba2a-67adf4b3df9d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 104m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/450965"
+}

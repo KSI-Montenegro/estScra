@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_78812",
+  "source": "patuljak",
+  "listing_id": "78812",
+  "listing_url": "https://patuljak.me/oglas/prodajem-montaznu-kucu--78812",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-montaznu-kucu--78812"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 477,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:42.099552+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78812_0.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJEM MONTAZNU KUCU",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78812"
+}

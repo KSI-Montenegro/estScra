@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_85202",
+  "source": "patuljak",
+  "listing_id": "85202",
+  "listing_url": "https://patuljak.me/oglas/50-ari-zemlje-10km-od-pljevalja--85202",
+  "listing_urls": [
+    "https://patuljak.me/oglas/50-ari-zemlje-10km-od-pljevalja--85202"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 995,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:40.237685+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85202_0.webp"
+  ],
+  "status": "ok",
+  "title": "50 ari zemlje 10km od Pljevalja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85202"
+}

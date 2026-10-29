@@ -1,0 +1,28 @@
+{
+  "key": "estitor_642160",
+  "source": "estitor",
+  "listing_id": "642160",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-poslovni-prostor/grad-kotor/id-642160",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-poslovni-prostor/grad-kotor/id-642160"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 20,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:26.767666+00:00",
+  "images": [
+    "https://content.estitor.com/0ecd6dd6-290c-43a4-9891-16bb05475129-lg.webp",
+    "https://content.estitor.com/08bf494f-78ed-4d63-9e05-be363d050293-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, poslovni prostor, 440m², Radanovići, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642160"
+}

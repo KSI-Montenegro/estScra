@@ -1,0 +1,42 @@
+{
+  "key": "estitor_629921",
+  "source": "estitor",
+  "listing_id": "629921",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-629921",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-629921"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 40,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:09.752011+00:00",
+  "images": [
+    "https://content.estitor.com/7172a028-acb0-4dee-b924-d61ecb539371-lg.webp",
+    "https://content.estitor.com/95e3ad69-a619-46d2-98e2-02b4eae57328-lg.webp",
+    "https://content.estitor.com/d9ae01df-a7d4-4d0b-86a1-dbb0d4723474-lg.webp",
+    "https://content.estitor.com/25c58350-4b3a-4ecc-9775-8fa049fe41cb-lg.webp",
+    "https://content.estitor.com/3cddef28-2ec8-4839-857b-4c4033775016-lg.webp",
+    "https://content.estitor.com/ae3ef0f7-0dae-49f0-a686-5a06621bfa60-lg.webp",
+    "https://content.estitor.com/e3aa0c57-4e64-45ab-9089-15a0d7bfa417-lg.webp",
+    "https://content.estitor.com/e366f12a-6486-4d3e-8951-79fb6821a8d6-lg.webp",
+    "https://content.estitor.com/f691779f-b469-40a7-bafb-ed95de23b2d4-lg.webp",
+    "https://content.estitor.com/d80efb6a-26b4-48bf-989c-893d0ad4a21f-lg.webp",
+    "https://content.estitor.com/beb5b913-caf9-417e-a142-06cab44ee046-lg.webp",
+    "https://content.estitor.com/83136239-10a1-4dc4-a1dc-6d6a7f8131e8-lg.webp",
+    "https://content.estitor.com/812809de-cae4-455a-9987-8f0c4ff194bd-lg.webp",
+    "https://content.estitor.com/dfcd1ed2-0cf2-4ea8-802c-f42a8f6ef3d1-lg.webp",
+    "https://content.estitor.com/45b8bced-8750-4f54-a4d0-03e5fc40662a-lg.webp",
+    "https://content.estitor.com/23f0fa69-fbeb-4c3c-b339-c1964dfe3e1c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², Dubovica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/629921"
+}

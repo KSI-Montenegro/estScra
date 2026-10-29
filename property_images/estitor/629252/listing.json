@@ -1,0 +1,32 @@
+{
+  "key": "estitor_629252",
+  "source": "estitor",
+  "listing_id": "629252",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-629252",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-629252"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 322,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:22.733848+00:00",
+  "images": [
+    "https://content.estitor.com/8afb8f3c-0039-4be7-991e-1a3e5340dac7-lg.webp",
+    "https://content.estitor.com/153372f0-d9c1-4ab9-92e3-4a480be5589f-lg.webp",
+    "https://content.estitor.com/75410cb2-991d-4923-8742-5afce1c41279-lg.webp",
+    "https://content.estitor.com/e6daddc9-a501-4ef1-b11c-a15b708620d8-lg.webp",
+    "https://content.estitor.com/9977a824-2537-4cc7-b0c3-9e3f92ba264e-lg.webp",
+    "https://content.estitor.com/d71d6a74-8a5a-4d32-8f2a-da5f97bfc5af-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Đenovići, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/629252"
+}

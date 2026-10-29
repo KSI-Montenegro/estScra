@@ -1,0 +1,34 @@
+{
+  "key": "estitor_490421",
+  "source": "estitor",
+  "listing_id": "490421",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-490421",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-490421"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 288,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:05.435873+00:00",
+  "images": [
+    "https://content.estitor.com/f4bda5e4-a526-4d81-a16a-b1d19033e3c6-lg.webp",
+    "https://content.estitor.com/bce0688c-ae4c-4906-97e8-1498fb808a47-lg.webp",
+    "https://content.estitor.com/2cf2683d-d0d9-4cb3-9ff5-f2d2114a2a51-lg.webp",
+    "https://content.estitor.com/d45dc5fb-d674-4061-9bfb-5e57a0ab5e76-lg.webp",
+    "https://content.estitor.com/56d530fa-db9f-4ec4-b0f5-0fa2befe6583-lg.webp",
+    "https://content.estitor.com/197c9815-813c-4b21-87e4-1a769400db42-lg.webp",
+    "https://content.estitor.com/18862f90-ee18-4d96-b44c-9102477fe256-lg.webp",
+    "https://content.estitor.com/35a047f6-88a7-43cb-a8eb-43504a701b3c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 60m², Kumbor, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/490421"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_85207",
+  "source": "patuljak",
+  "listing_id": "85207",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosoban-stan-60-m2-zabjelo-podgorica--85207",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosoban-stan-60-m2-zabjelo-podgorica--85207"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 127,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:41.196381+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/85207"
+}

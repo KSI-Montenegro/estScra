@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_81416",
+  "source": "patuljak",
+  "listing_id": "81416",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-garsonjera-47-m2-velika-plaza-ulcinj--81416",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-garsonjera-47-m2-velika-plaza-ulcinj--81416"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 3,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:17.014057+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81416_4.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju, garsonjera 47 m2, Velika Plaža, Ulcinj",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81416"
+}

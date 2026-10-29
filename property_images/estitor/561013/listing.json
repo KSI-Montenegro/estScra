@@ -1,0 +1,31 @@
+{
+  "key": "estitor_561013",
+  "source": "estitor",
+  "listing_id": "561013",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-561013",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-561013"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 685,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:25.450094+00:00",
+  "images": [
+    "https://content.estitor.com/aeba85a3-f6d4-4bbb-9d07-f1612d9e9d28-lg.webp",
+    "https://content.estitor.com/a8040699-a5db-4bbe-a3df-a14b8445b996-lg.webp",
+    "https://content.estitor.com/15325678-d8aa-49b6-92ba-3d0ae0966eb7-lg.webp",
+    "https://content.estitor.com/9b948e15-99fa-4266-98a0-7a27eba6d61e-lg.webp",
+    "https://content.estitor.com/1dd76b89-ca2d-4162-ac9f-c5e2ce0e6dc4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/561013"
+}

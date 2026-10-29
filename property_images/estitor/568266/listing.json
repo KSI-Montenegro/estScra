@@ -1,0 +1,28 @@
+{
+  "key": "estitor_568266",
+  "source": "estitor",
+  "listing_id": "568266",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-568266",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-568266"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 154,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:52.145549+00:00",
+  "images": [
+    "https://content.estitor.com/c4c87d2b-a3ad-4895-9d1b-5706e76b90b8-lg.webp",
+    "https://content.estitor.com/0a921bce-eeff-4163-9923-134390c3c607-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 95m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/568266"
+}

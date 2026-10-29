@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_84854",
+  "source": "patuljak",
+  "listing_id": "84854",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-garsonjera-preko-morace-ul-moskovska--84854",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-garsonjera-preko-morace-ul-moskovska--84854"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 68,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:29.000526+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/84854"
+}

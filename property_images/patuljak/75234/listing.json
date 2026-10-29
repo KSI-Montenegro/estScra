@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_75234",
+  "source": "patuljak",
+  "listing_id": "75234",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjesten-stan-40-m2-centar-podgorica--75234",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjesten-stan-40-m2-centar-podgorica--75234"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 893,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:40.806828+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75234_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namješten stan 40 m2, Centar, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75234"
+}

@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_77466",
+  "source": "patuljak",
+  "listing_id": "77466",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosobnog-stana--77466",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosobnog-stana--77466"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 492,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:48.909546+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77466_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje jednosobnog stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77466"
+}

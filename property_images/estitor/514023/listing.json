@@ -1,0 +1,29 @@
+{
+  "key": "estitor_514023",
+  "source": "estitor",
+  "listing_id": "514023",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-niksic/id-514023",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-niksic/id-514023"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 827,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:54.228126+00:00",
+  "images": [
+    "https://content.estitor.com/8a80bf4d-ba77-48d8-99bf-193421fec20f-lg.webp",
+    "https://content.estitor.com/6f230af7-bd66-4cf1-90be-0f93dfdcf77c-lg.webp",
+    "https://content.estitor.com/994a9f01-ddb0-4c1d-b621-3e4fa3ca3992-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 85m², Centar, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/514023"
+}

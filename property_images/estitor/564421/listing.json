@@ -1,0 +1,29 @@
+{
+  "key": "estitor_564421",
+  "source": "estitor",
+  "listing_id": "564421",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564421",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-564421"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 921,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:58.881804+00:00",
+  "images": [
+    "https://content.estitor.com/4b8037d5-8352-44a6-ba80-1af2e94cd812-lg.webp",
+    "https://content.estitor.com/95a7d290-12ac-4cf1-8134-0d5ea4bc3ea0-lg.webp",
+    "https://content.estitor.com/fea7fd28-66e0-4954-8036-f94a0af0a1ef-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 49m², Tološka šuma, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/564421"
+}

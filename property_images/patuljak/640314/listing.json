@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_640314",
+  "source": "patuljak",
+  "listing_id": "640314",
+  "listing_url": "https://patuljak.me/oglas/sobe-za-studentkinje-donja-gorica-podgorica-izdava--640314",
+  "listing_urls": [
+    "https://patuljak.me/oglas/sobe-za-studentkinje-donja-gorica-podgorica-izdava--640314"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 959,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:22.065031+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/08/640314_2.webp"
+  ],
+  "status": "ok",
+  "title": "Sobe za studentkinje, Donja Gorica, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/640314"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "estitor_462310",
+  "source": "estitor",
+  "listing_id": "462310",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-462310",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-462310"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 268,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:55.562868+00:00",
+  "images": [
+    "https://content.estitor.com/d5d52235-fc77-43d3-adcc-0d9c05ed38fa-lg.webp",
+    "https://content.estitor.com/d67002f9-ff43-436a-9ecf-9ce64354fe38-lg.webp",
+    "https://content.estitor.com/d21cd363-ec1b-4275-aedd-099d6a10c032-lg.webp",
+    "https://content.estitor.com/b89fd853-490d-4725-8921-589646af2e4c-lg.webp",
+    "https://content.estitor.com/2443d4ce-75ef-4b5a-9889-f4acd25f88a0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 25m², Mažina, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/462310"
+}

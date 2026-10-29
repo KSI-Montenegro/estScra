@@ -1,0 +1,35 @@
+{
+  "key": "estitor_487449",
+  "source": "estitor",
+  "listing_id": "487449",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-487449",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-487449"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 119,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:06.766948+00:00",
+  "images": [
+    "https://content.estitor.com/fabe88fd-f8c0-4b22-9913-47a16d21b4ab-lg.webp",
+    "https://content.estitor.com/dd8b72b8-26f6-4903-9711-261108ce38d9-lg.webp",
+    "https://content.estitor.com/4dc2a52c-1d2d-47e0-84d7-c3c173ebd537-lg.webp",
+    "https://content.estitor.com/84996062-875a-411b-9923-4854cd10efa7-lg.webp",
+    "https://content.estitor.com/3efcaa45-0837-4f0e-955a-59643ca0be51-lg.webp",
+    "https://content.estitor.com/4ef8c995-f532-469f-8e42-d052db18d1df-lg.webp",
+    "https://content.estitor.com/89cf5748-524f-4753-938c-785b50ed56c8-lg.webp",
+    "https://content.estitor.com/2cc6896e-8a80-4dcb-a8be-1843d9a255db-lg.webp",
+    "https://content.estitor.com/baf8d97f-6613-42bf-911b-2c914d155f01-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Sutomore, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/487449"
+}

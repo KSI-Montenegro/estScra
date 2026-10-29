@@ -1,0 +1,35 @@
+{
+  "key": "estitor_625053",
+  "source": "estitor",
+  "listing_id": "625053",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-625053",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-625053"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 121,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:09.179031+00:00",
+  "images": [
+    "https://content.estitor.com/9990100d-8268-443c-a1f8-68cb010ad580-lg.webp",
+    "https://content.estitor.com/8a3ef9fe-7bf5-497b-aca5-06ed7b15c119-lg.webp",
+    "https://content.estitor.com/912bf181-0a73-4aaf-bad8-cfafdefb6067-lg.webp",
+    "https://content.estitor.com/c4475496-cd20-4226-b654-5011e259ef82-lg.webp",
+    "https://content.estitor.com/c4b9f228-a759-4ec5-afa0-ba316263ec99-lg.webp",
+    "https://content.estitor.com/c130ec13-12a8-46a9-bc69-829e0b45f395-lg.webp",
+    "https://content.estitor.com/52ba9760-b20d-4a94-b52e-0f01e7974d5e-lg.webp",
+    "https://content.estitor.com/4e8a32f7-15d8-40ee-8e44-85e2430c5c9a-lg.webp",
+    "https://content.estitor.com/cfe2ce99-034c-454c-a047-e9ab6f4a8ef0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 340m², Mareza, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/625053"
+}

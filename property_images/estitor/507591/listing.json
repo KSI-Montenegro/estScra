@@ -1,0 +1,34 @@
+{
+  "key": "estitor_507591",
+  "source": "estitor",
+  "listing_id": "507591",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-507591",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-507591"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 808,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:39.291675+00:00",
+  "images": [
+    "https://content.estitor.com/ce7669c7-7dc6-4afc-a3aa-9242ee1db12c-lg.webp",
+    "https://content.estitor.com/327c5ea7-9253-4328-8107-9ff0778ff179-lg.webp",
+    "https://content.estitor.com/de8a5a9a-3674-4716-817b-f5db758cae77-lg.webp",
+    "https://content.estitor.com/e1910890-4e80-4b2c-b1c1-e240e4c76841-lg.webp",
+    "https://content.estitor.com/dbcc936b-5eba-4972-b39d-fac60b23bc39-lg.webp",
+    "https://content.estitor.com/1202745a-fe36-4c62-986e-134235b0d334-lg.webp",
+    "https://content.estitor.com/8cefd1c3-a22f-4300-b5cd-20c661019aaf-lg.webp",
+    "https://content.estitor.com/c0c5779c-138f-418a-a65a-aeb17792d2b1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 126m², Donji Martinići, Danilovgrad | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/507591"
+}

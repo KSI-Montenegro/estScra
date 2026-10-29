@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_74125",
+  "source": "patuljak",
+  "listing_id": "74125",
+  "listing_url": "https://patuljak.me/oglas/izdajem-kucu-50m2--74125",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-kucu-50m2--74125"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 896,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:41.030436+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74125_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74125_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem kucu 50m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74125"
+}

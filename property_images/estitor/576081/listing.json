@@ -1,0 +1,29 @@
+{
+  "key": "estitor_576081",
+  "source": "estitor",
+  "listing_id": "576081",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-576081",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-576081"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 186,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:11.160627+00:00",
+  "images": [
+    "https://content.estitor.com/d8b61332-1a55-40e9-af45-bca7bba4ff7b-lg.webp",
+    "https://content.estitor.com/49b7b13f-1d40-47b5-9063-4d1d34630940-lg.webp",
+    "https://content.estitor.com/6a0444b8-044f-4988-a009-5d0e119c7c53-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 25m², Krivi Most, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/576081"
+}

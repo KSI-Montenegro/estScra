@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_654939",
+  "source": "patuljak",
+  "listing_id": "654939",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-na-starom-aerodromu--654939",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-jednosoban-stan-na-starom-aerodromu--654939"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 558,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:23.746090+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/11/654939_4.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se jednosoban stan na Starom Aerodromu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/654939"
+}

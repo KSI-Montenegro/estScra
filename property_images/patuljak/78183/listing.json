@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_78183",
+  "source": "patuljak",
+  "listing_id": "78183",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosoban-stan-42-m2-breza-kolasin--78183",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosoban-stan-42-m2-breza-kolasin--78183"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 481,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:43.278566+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78183_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Jednosoban stan 42 m2, Breza, Kolašin",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78183"
+}

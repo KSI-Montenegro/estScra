@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_78305",
+  "source": "patuljak",
+  "listing_id": "78305",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-namjestenog-jednosobnog-stana--78305",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-namjestenog-jednosobnog-stana--78305"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 480,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:43.182356+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78305_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78305_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78305_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78305_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78305_4.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje namjestenog jednosobnog stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78305"
+}

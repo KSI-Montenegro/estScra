@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_72897",
+  "source": "patuljak",
+  "listing_id": "72897",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-48-m-meliora-homes-cetinje--72897",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-48-m-meliora-homes-cetinje--72897"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 542,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:15.648765+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72897_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Stan 48 m², Meliora Homes, Cetinje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72897"
+}

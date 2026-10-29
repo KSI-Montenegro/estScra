@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_75906",
+  "source": "patuljak",
+  "listing_id": "75906",
+  "listing_url": "https://patuljak.me/oglas/prodajem-mijenjam-kucu-podgorica-murtovina--75906",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-mijenjam-kucu-podgorica-murtovina--75906"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 71,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:09.258890+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75906_12.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem mijenjam kuću Podgorica-Murtovina",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75906"
+}

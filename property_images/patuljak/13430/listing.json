@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_13430",
+  "source": "patuljak",
+  "listing_id": "13430",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-50m2-stari-aerodrom-podgorica-izda--13430",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-50m2-stari-aerodrom-podgorica-izda--13430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 212,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:28.652545+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13430_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13430_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13430_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13430_1.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan, 50m2, Stari Aerodrom, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/13430"
+}

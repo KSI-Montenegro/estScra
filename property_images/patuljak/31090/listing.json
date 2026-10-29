@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_31090",
+  "source": "patuljak",
+  "listing_id": "31090",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-poslovni-prostor-45m2--31090",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-poslovni-prostor-45m2--31090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 115,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:32.040636+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/31090_0.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJE SE POSLOVNI PROSTOR 45m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/31090"
+}

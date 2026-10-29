@@ -1,0 +1,38 @@
+{
+  "key": "estitor_311033",
+  "source": "estitor",
+  "listing_id": "311033",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-311033",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-311033"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 406,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:04.464464+00:00",
+  "images": [
+    "https://content.estitor.com/64b72f48-e9a7-49fd-a41b-a114922cdc15-lg.webp",
+    "https://content.estitor.com/fd3e548c-b11f-40e7-9c37-3c074f2c689b-lg.webp",
+    "https://content.estitor.com/ccb55368-6e7f-4bd3-bb23-6a1370f466f7-lg.webp",
+    "https://content.estitor.com/db5f5256-36bb-4e3f-af1a-92c0bd4c6076-lg.webp",
+    "https://content.estitor.com/532eb878-2c39-4f40-814a-df9078847749-lg.webp",
+    "https://content.estitor.com/a49fd510-5dd0-4c1c-9055-b0d6ba025966-lg.webp",
+    "https://content.estitor.com/b016f2bc-a563-430e-82f0-c87ef49a7550-lg.webp",
+    "https://content.estitor.com/2df981cd-2f05-4c00-92e1-eca8fb694154-lg.webp",
+    "https://content.estitor.com/e025785f-97f4-4c26-a5c1-d82d67bc6e46-lg.webp",
+    "https://content.estitor.com/355cd56d-54ce-4194-9537-666f7e041362-lg.webp",
+    "https://content.estitor.com/e2f0e34e-0ce3-45b3-921e-2f2e91ebb941-lg.webp",
+    "https://content.estitor.com/55a82231-e010-4f2f-b9b2-e9581689e914-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 52m², Rafailovići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/311033"
+}

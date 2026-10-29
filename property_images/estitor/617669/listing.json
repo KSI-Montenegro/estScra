@@ -1,0 +1,31 @@
+{
+  "key": "estitor_617669",
+  "source": "estitor",
+  "listing_id": "617669",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617669",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617669"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 872,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:24.826438+00:00",
+  "images": [
+    "https://content.estitor.com/4e774ecc-f9c1-4042-9a7f-4999c4e4381d-lg.webp",
+    "https://content.estitor.com/ddb5a896-bdd6-4476-9e1e-5aff6008aa29-lg.webp",
+    "https://content.estitor.com/b1c4cdf5-c5d3-4110-8833-84996eedb8ba-lg.webp",
+    "https://content.estitor.com/0bd9a06c-17e5-4b18-ae92-78974faa931e-lg.webp",
+    "https://content.estitor.com/d0fe2c73-5c36-439b-afb6-83d783f9c04a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 46m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617669"
+}

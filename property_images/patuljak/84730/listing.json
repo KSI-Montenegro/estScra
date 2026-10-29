@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_84730",
+  "source": "patuljak",
+  "listing_id": "84730",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosobnog-stana-43-m2-stari-aerodrom-pod--84730",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosobnog-stana-43-m2-stari-aerodrom-pod--84730"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 18,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:43.199732+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84730_6.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja jednosobnog stana 43 m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84730"
+}

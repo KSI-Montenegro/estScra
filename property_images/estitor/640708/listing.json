@@ -1,0 +1,40 @@
+{
+  "key": "estitor_640708",
+  "source": "estitor",
+  "listing_id": "640708",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-640708",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-640708"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 49,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:15.428212+00:00",
+  "images": [
+    "https://content.estitor.com/28685aea-9d7c-4bbb-8277-4f11509e27b0-lg.webp",
+    "https://content.estitor.com/e724b4f7-4223-49f8-b194-0367679fd12c-lg.webp",
+    "https://content.estitor.com/e0a9e959-8c29-440c-8641-deebf16f04ee-lg.webp",
+    "https://content.estitor.com/c17877ca-4ed1-4fcf-979a-a8acc701cd30-lg.webp",
+    "https://content.estitor.com/1838aba4-d40e-4b8b-ba98-c7d94dd03a95-lg.webp",
+    "https://content.estitor.com/ea93ea06-03f8-4ddc-bf97-614a2074c6e8-lg.webp",
+    "https://content.estitor.com/aa44f52b-c858-4891-9310-a079108d4aa4-lg.webp",
+    "https://content.estitor.com/27dd3991-1a7b-461f-b67f-a3a3dff28790-lg.webp",
+    "https://content.estitor.com/74f3854a-d26f-401d-bb0d-9ff9d309bd8c-lg.webp",
+    "https://content.estitor.com/e60160a0-59e5-4af8-8b49-8936c7c1ef9e-lg.webp",
+    "https://content.estitor.com/ed1e4757-b82e-43e7-a095-60ce7f63b0bc-lg.webp",
+    "https://content.estitor.com/0e9f3494-2cb6-48e9-8efd-b7d5a980299b-lg.webp",
+    "https://content.estitor.com/a3c0df2c-d125-463d-a8f6-e82e2152a317-lg.webp",
+    "https://content.estitor.com/01d1f8d1-8606-48ea-b860-8700b308d05a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 355m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640708"
+}

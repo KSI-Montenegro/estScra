@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_79704",
+  "source": "patuljak",
+  "listing_id": "79704",
+  "listing_url": "https://patuljak.me/oglas/izdajem-nenamjestenu-kucu-60-m2-stara-zlatica-podg--79704",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-nenamjestenu-kucu-60-m2-stara-zlatica-podg--79704"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 163,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:02.002436+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79704_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem nenamještenu kuću 60 m2, Stara Zlatica, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79704"
+}

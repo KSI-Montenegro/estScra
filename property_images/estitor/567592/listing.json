@@ -1,0 +1,24 @@
+{
+  "key": "estitor_567592",
+  "source": "estitor",
+  "listing_id": "567592",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-567592",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-567592"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 199,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:17.609628+00:00",
+  "images": [],
+  "status": "unavailable",
+  "http_status": 404,
+  "errors": [
+    "direct_http_404"
+  ],
+  "folder": "estitor/567592"
+}

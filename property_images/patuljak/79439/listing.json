@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_79439",
+  "source": "patuljak",
+  "listing_id": "79439",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-46-m-budva--79439",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-46-m-budva--79439"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 6,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:17.015613+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79439_8.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, jednosoban stan 46 m², Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79439"
+}

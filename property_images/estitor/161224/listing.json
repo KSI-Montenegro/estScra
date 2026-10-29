@@ -1,0 +1,28 @@
+{
+  "key": "estitor_161224",
+  "source": "estitor",
+  "listing_id": "161224",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-161224",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-161224"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 646,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:05.435029+00:00",
+  "images": [
+    "https://content.estitor.com/a8e6ab59-e03a-4cf7-9ae7-958cfc836aec-lg.webp",
+    "https://content.estitor.com/40328d69-4e67-45b8-841b-5eb7aeb26cbd-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, stan, 35m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/161224"
+}

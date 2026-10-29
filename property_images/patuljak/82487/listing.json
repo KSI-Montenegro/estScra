@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_82487",
+  "source": "patuljak",
+  "listing_id": "82487",
+  "listing_url": "https://patuljak.me/oglas/lux-jednosoban-stan-momisici--82487",
+  "listing_urls": [
+    "https://patuljak.me/oglas/lux-jednosoban-stan-momisici--82487"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 23,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:55.761482+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/82487"
+}

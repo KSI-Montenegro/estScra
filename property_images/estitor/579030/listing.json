@@ -1,0 +1,31 @@
+{
+  "key": "estitor_579030",
+  "source": "estitor",
+  "listing_id": "579030",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-579030",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-579030"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 107,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:56.752236+00:00",
+  "images": [
+    "https://content.estitor.com/83f87ec7-f513-4fd8-97bf-092fcbfd166d-lg.webp",
+    "https://content.estitor.com/e92924f8-cd93-4adc-a446-b0a39c189782-lg.webp",
+    "https://content.estitor.com/2bcff386-a335-4e17-a9f1-ce2099def1d3-lg.webp",
+    "https://content.estitor.com/d080f33c-3eb9-4351-b6b4-3845f0100583-lg.webp",
+    "https://content.estitor.com/65624419-b77c-4f30-bdae-999ac495091f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 900m², Gornja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/579030"
+}

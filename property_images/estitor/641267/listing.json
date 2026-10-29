@@ -1,0 +1,34 @@
+{
+  "key": "estitor_641267",
+  "source": "estitor",
+  "listing_id": "641267",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-641267",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-641267"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 12,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:45.966867+00:00",
+  "images": [
+    "https://content.estitor.com/b1c5fb98-552f-4cb5-aa76-f01be85d15ae-lg.webp",
+    "https://content.estitor.com/84a82340-f1cb-490a-a401-303c9f657c01-lg.webp",
+    "https://content.estitor.com/dc6991c8-eff1-466b-8d0a-efad953f14e9-lg.webp",
+    "https://content.estitor.com/64ae44f9-055a-47fb-bd3a-51987a4f7065-lg.webp",
+    "https://content.estitor.com/cfb90a40-7ada-4a1c-8013-5a58e3a77270-lg.webp",
+    "https://content.estitor.com/355c12c6-a542-44a5-b631-341a8a95c283-lg.webp",
+    "https://content.estitor.com/bd2a2271-c7a8-4fb2-9ee9-31cdfcffe18b-lg.webp",
+    "https://content.estitor.com/8e35cd18-51cc-42f7-b350-7f2cf15895a3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Igalo, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641267"
+}

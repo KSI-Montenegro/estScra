@@ -1,0 +1,41 @@
+{
+  "key": "estitor_521563",
+  "source": "estitor",
+  "listing_id": "521563",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-521563",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-521563"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 7,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:20.874571+00:00",
+  "images": [
+    "https://content.estitor.com/7d7151c9-af1c-47ca-a823-c727d444a009-lg.webp",
+    "https://content.estitor.com/112db41d-0136-43dd-aea2-b4cfb9963ebd-lg.webp",
+    "https://content.estitor.com/f9b4c968-5f3d-4397-8675-e0c63781e914-lg.webp",
+    "https://content.estitor.com/ac683973-c25b-4064-89db-900f20d115fb-lg.webp",
+    "https://content.estitor.com/d3f86774-10d0-400d-9b07-a04d2ac3f49c-lg.webp",
+    "https://content.estitor.com/ff679ec2-4f47-44f7-85bb-4bffac52fb91-lg.webp",
+    "https://content.estitor.com/333eb08c-ba29-485e-b894-28e046011974-lg.webp",
+    "https://content.estitor.com/5af93440-89c9-427b-9729-6eb9ec22b256-lg.webp",
+    "https://content.estitor.com/ef3e561f-961a-45fd-9ae0-e4b8093ffbc5-lg.webp",
+    "https://content.estitor.com/1cd6a75a-3e7b-4411-a991-57554965b7dd-lg.webp",
+    "https://content.estitor.com/8cb4efc3-4432-4aec-8355-93b40c615e35-lg.webp",
+    "https://content.estitor.com/21829685-d68b-4644-bd9d-507665e926ef-lg.webp",
+    "https://content.estitor.com/271102c9-acb6-4d9b-b7d3-a5f4fc706aa1-lg.webp",
+    "https://content.estitor.com/1248e364-b9a1-4407-a8cb-bd793670742e-lg.webp",
+    "https://content.estitor.com/c6e8c46c-7685-4a6b-bb77-234abd5b0402-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, stan, 65m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/521563"
+}

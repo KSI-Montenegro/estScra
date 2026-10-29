@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_14730",
+  "source": "patuljak",
+  "listing_id": "14730",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-64m2-momisici-podgorica-izdavanje--14730",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-64m2-momisici-podgorica-izdavanje--14730"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 211,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:28.643258+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/14730_10.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban stan, 64m2, Momisici, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/14730"
+}

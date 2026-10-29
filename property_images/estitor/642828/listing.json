@@ -1,0 +1,38 @@
+{
+  "key": "estitor_642828",
+  "source": "estitor",
+  "listing_id": "642828",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642828",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642828"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 236,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:41.264286+00:00",
+  "images": [
+    "https://content.estitor.com/1f69a581-a5e3-4f53-89cb-34eade48f565-lg.webp",
+    "https://content.estitor.com/ec167157-9bf6-4c60-b553-768d55514f2c-lg.webp",
+    "https://content.estitor.com/eb6a0d44-38ee-48e0-b5b9-b964b81671d9-lg.webp",
+    "https://content.estitor.com/636e8f1c-4fe5-4b5b-9cf7-5d5918edd932-lg.webp",
+    "https://content.estitor.com/a402721e-f5e2-4ab9-8a74-8ec844bf99de-lg.webp",
+    "https://content.estitor.com/02abfa7c-0287-44b6-ae4a-f110603e39b7-lg.webp",
+    "https://content.estitor.com/efe7439c-13f2-46e0-852b-eab001b44ee7-lg.webp",
+    "https://content.estitor.com/760796dd-2752-4725-aac9-3fc7f9806463-lg.webp",
+    "https://content.estitor.com/8f91d6b0-2e0e-4313-a865-c4af064310db-lg.webp",
+    "https://content.estitor.com/6c453485-02c1-47c3-937e-29a5da1eee53-lg.webp",
+    "https://content.estitor.com/75aa4429-f9d8-42e9-b4eb-9462309503e9-lg.webp",
+    "https://content.estitor.com/081a34b7-d157-4e31-a1e7-e556f7bd7b9a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 35m², Velji Vinogradi, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642828"
+}

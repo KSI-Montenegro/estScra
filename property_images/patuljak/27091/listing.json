@@ -1,0 +1,39 @@
+{
+  "key": "patuljak_27091",
+  "source": "patuljak",
+  "listing_id": "27091",
+  "listing_url": "https://patuljak.me/oglas/stan-od-49m2-u-central-point-u--27091",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-od-49m2-u-central-point-u--27091"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 210,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:28.613827+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/27091_11.webp"
+  ],
+  "status": "ok",
+  "title": "Stan od 49m2 u Central Point-u",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/27091"
+}

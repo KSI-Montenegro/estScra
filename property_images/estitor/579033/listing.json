@@ -1,0 +1,43 @@
+{
+  "key": "estitor_579033",
+  "source": "estitor",
+  "listing_id": "579033",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-579033",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-579033"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 105,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:54.689040+00:00",
+  "images": [
+    "https://content.estitor.com/0cd596bd-be15-4086-a60e-6a1058dd3d3d-lg.webp",
+    "https://content.estitor.com/ede57392-84b3-4f7c-8a63-b2bef5ecfbea-lg.webp",
+    "https://content.estitor.com/edc27fe0-6a40-4dea-94ee-2ab0176f602d-lg.webp",
+    "https://content.estitor.com/bc295f15-4d1f-47fe-a880-a61d3fa3ce70-lg.webp",
+    "https://content.estitor.com/f09abfc0-1274-4bdf-a3c4-2234429ea1cf-lg.webp",
+    "https://content.estitor.com/7ad02565-9587-40e2-8a32-b278830220e3-lg.webp",
+    "https://content.estitor.com/fde6621b-178c-4de9-b675-b4934091b78e-lg.webp",
+    "https://content.estitor.com/40b0f87d-d0f3-472f-8c7d-f654848c6630-lg.webp",
+    "https://content.estitor.com/411e21d9-0e96-43c9-824f-6f83ecc745f9-lg.webp",
+    "https://content.estitor.com/9e086173-c49b-44d1-9328-82530879c004-lg.webp",
+    "https://content.estitor.com/3d163907-e5ad-4e2e-8601-87e740437e78-lg.webp",
+    "https://content.estitor.com/87c9b545-267f-4a68-a601-872c9600dc99-lg.webp",
+    "https://content.estitor.com/f394a875-ee61-473c-8f6f-a05b5783d37f-lg.webp",
+    "https://content.estitor.com/b4928fce-4beb-4563-8876-66d88477e440-lg.webp",
+    "https://content.estitor.com/3dcc2a8a-f003-4a87-919f-3119c4dea5b8-lg.webp",
+    "https://content.estitor.com/2604780c-be69-4024-874b-6789e7e18ffa-lg.webp",
+    "https://content.estitor.com/d7791f7c-4add-4f5c-ba5d-0df91b879cc0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 90m², Buljarica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/579033"
+}

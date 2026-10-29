@@ -1,0 +1,37 @@
+{
+  "key": "estitor_580933",
+  "source": "estitor",
+  "listing_id": "580933",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-580933",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-580933"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 692,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:28.418390+00:00",
+  "images": [
+    "https://content.estitor.com/83279020-41cf-416d-ad28-a1c3223ff5ba-lg.webp",
+    "https://content.estitor.com/7304943b-8ac9-4f77-8453-7b5d815c2adf-lg.webp",
+    "https://content.estitor.com/8e3c8196-1290-42ce-93d4-521499529a7d-lg.webp",
+    "https://content.estitor.com/23f266e5-1e85-4129-8e36-774e30e9cb12-lg.webp",
+    "https://content.estitor.com/5745185d-2ec2-40ee-b063-42e492109bc6-lg.webp",
+    "https://content.estitor.com/19434e4b-01af-4556-9748-918368879d74-lg.webp",
+    "https://content.estitor.com/3d8a79eb-92bd-4dee-a415-0f397a1962be-lg.webp",
+    "https://content.estitor.com/b93705a2-75e6-42fa-8bff-fc2653ebda8e-lg.webp",
+    "https://content.estitor.com/8daec87c-044b-448d-a700-0af1ab91f6cf-lg.webp",
+    "https://content.estitor.com/8f939c63-5139-40b4-8051-b232dfc785e1-lg.webp",
+    "https://content.estitor.com/6f15e9e7-4a68-40d0-8974-1f75ba26b3e7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 49m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/580933"
+}

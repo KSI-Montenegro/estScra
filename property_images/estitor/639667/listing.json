@@ -1,0 +1,32 @@
+{
+  "key": "estitor_639667",
+  "source": "estitor",
+  "listing_id": "639667",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-639667",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-639667"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 64,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:46.559433+00:00",
+  "images": [
+    "https://content.estitor.com/dc79b016-1f11-4ce4-b930-723b20abf9a4-lg.webp",
+    "https://content.estitor.com/7a69577e-70d3-4dac-8903-e5423f58af3a-lg.webp",
+    "https://content.estitor.com/10057de6-0db1-4740-a131-282c4c729eea-lg.webp",
+    "https://content.estitor.com/e4e0e644-14bb-4edf-ab4b-378c35280d98-lg.webp",
+    "https://content.estitor.com/3ca6bce0-1df1-4a13-9109-f7b751ff7062-lg.webp",
+    "https://content.estitor.com/fa457c4f-0f6b-4383-92f2-fed26270dcb9-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 74m², Luštica Bay, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639667"
+}

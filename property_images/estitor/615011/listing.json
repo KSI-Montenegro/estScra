@@ -1,0 +1,28 @@
+{
+  "key": "estitor_615011",
+  "source": "estitor",
+  "listing_id": "615011",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-615011",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-615011"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 994,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:39.931420+00:00",
+  "images": [
+    "https://content.estitor.com/6bc45e16-3577-4605-b5a7-2b658f1857d9-lg.webp",
+    "https://content.estitor.com/c9be17fc-f5e3-4af0-afe7-06bb50152744-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 15m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/615011"
+}

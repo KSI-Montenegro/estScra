@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_84224",
+  "source": "patuljak",
+  "listing_id": "84224",
+  "listing_url": "https://patuljak.me/oglas/poslovni-prostor--84224",
+  "listing_urls": [
+    "https://patuljak.me/oglas/poslovni-prostor--84224"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 19,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:33.743791+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84224_2.webp"
+  ],
+  "status": "ok",
+  "title": "Poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84224"
+}

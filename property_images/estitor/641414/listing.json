@@ -1,0 +1,31 @@
+{
+  "key": "estitor_641414",
+  "source": "estitor",
+  "listing_id": "641414",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-641414",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-641414"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 29,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:29.922979+00:00",
+  "images": [
+    "https://content.estitor.com/efdb80a0-0073-463b-a23d-82fea8673c24-lg.webp",
+    "https://content.estitor.com/24492224-a480-4b4f-8b79-61d719903139-lg.webp",
+    "https://content.estitor.com/348f9ab2-3a13-40ef-9cfe-ec6aef7b77af-lg.webp",
+    "https://content.estitor.com/ee1b016a-bf9f-499c-b2cd-5e2193b77ab6-lg.webp",
+    "https://content.estitor.com/51ebf49e-13c5-4ffb-b60d-3fbf65a68cc0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 76m², Stari Bar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641414"
+}

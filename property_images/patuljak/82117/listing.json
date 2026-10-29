@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_82117",
+  "source": "patuljak",
+  "listing_id": "82117",
+  "listing_url": "https://patuljak.me/oglas/4-jednosobna-stana--82117",
+  "listing_urls": [
+    "https://patuljak.me/oglas/4-jednosobna-stana--82117"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 149,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:54.731723+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82117_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82117_1.webp"
+  ],
+  "status": "ok",
+  "title": "4 Jednosobna stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82117"
+}

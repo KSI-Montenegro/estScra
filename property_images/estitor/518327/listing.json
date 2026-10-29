@@ -1,0 +1,28 @@
+{
+  "key": "estitor_518327",
+  "source": "estitor",
+  "listing_id": "518327",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-518327",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-518327"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 973,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:28.702069+00:00",
+  "images": [
+    "https://content.estitor.com/8ce6d3c1-9ba4-421c-a44a-a6e494026670-lg.webp",
+    "https://content.estitor.com/68e8de5b-6f38-44f3-b2d6-4fdb0729a000-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 15m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/518327"
+}

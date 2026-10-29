@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_80148",
+  "source": "patuljak",
+  "listing_id": "80148",
+  "listing_url": "https://patuljak.me/oglas/stanovi-za-izdavanje--80148",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stanovi-za-izdavanje--80148"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 753,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:00.134205+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80148_4.webp"
+  ],
+  "status": "ok",
+  "title": "Stanovi za izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80148"
+}

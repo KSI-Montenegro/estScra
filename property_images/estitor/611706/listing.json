@@ -1,0 +1,35 @@
+{
+  "key": "estitor_611706",
+  "source": "estitor",
+  "listing_id": "611706",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-611706",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-611706"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 842,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:04.350318+00:00",
+  "images": [
+    "https://content.estitor.com/296b6aae-ae25-4782-bd98-af645d7c01a1-lg.webp",
+    "https://content.estitor.com/4d09dbde-331e-4e94-84f2-bd46372a126f-lg.webp",
+    "https://content.estitor.com/5e0c8c48-8e8a-4b5b-8c99-b2aadb732dfe-lg.webp",
+    "https://content.estitor.com/cafb57de-3c9c-4614-b864-c9c6ffd2ae90-lg.webp",
+    "https://content.estitor.com/ddb63099-ba8f-4d25-988c-33166f9dd3fa-lg.webp",
+    "https://content.estitor.com/f7e1439e-3205-49b8-8dad-e42e812d8b59-lg.webp",
+    "https://content.estitor.com/290f0f1a-2def-4595-81c1-43294750ba74-lg.webp",
+    "https://content.estitor.com/82a50c06-35d6-485e-a18b-7b5e9d4d759b-lg.webp",
+    "https://content.estitor.com/2abb5aa4-dfcb-4bb0-9368-e21246fc7126-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 42m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/611706"
+}

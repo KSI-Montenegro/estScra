@@ -1,0 +1,38 @@
+{
+  "key": "estitor_526150",
+  "source": "estitor",
+  "listing_id": "526150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-526150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-526150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 4,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:20.339835+00:00",
+  "images": [
+    "https://content.estitor.com/9c4d52f4-34d4-4366-9168-37f59fdbcc7c-lg.webp",
+    "https://content.estitor.com/5a3e946a-0a5f-43e5-83f1-521e9093be44-lg.webp",
+    "https://content.estitor.com/d84491fe-0d99-4259-b13b-cedd97805a68-lg.webp",
+    "https://content.estitor.com/f7c2e15b-97df-4908-acfb-d34323b003ab-lg.webp",
+    "https://content.estitor.com/3af4c8c3-90c6-42da-b528-67441b8e2ff3-lg.webp",
+    "https://content.estitor.com/d7bd42a9-a487-44e9-ac37-0a9cb102eb23-lg.webp",
+    "https://content.estitor.com/82c77e15-79eb-487c-a3c0-7b96da3e4248-lg.webp",
+    "https://content.estitor.com/08059313-cd98-4c31-b24b-34c59b12fb03-lg.webp",
+    "https://content.estitor.com/31c5f1f3-944b-41b5-abf0-21b9e2ba8b67-lg.webp",
+    "https://content.estitor.com/d5d7b0d8-c3c1-45de-9016-670cd637c4d0-lg.webp",
+    "https://content.estitor.com/f6272211-c3e8-4c6b-92dc-ce838cd50ce9-lg.webp",
+    "https://content.estitor.com/3963f048-1f87-4b33-8709-7039326492cc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 44m², Ilino, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/526150"
+}

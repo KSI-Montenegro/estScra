@@ -1,0 +1,35 @@
+{
+  "key": "estitor_583150",
+  "source": "estitor",
+  "listing_id": "583150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-583150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-583150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 661,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:12.675524+00:00",
+  "images": [
+    "https://content.estitor.com/79b76be2-dd1b-489a-9404-8bda2fb54026-lg.webp",
+    "https://content.estitor.com/84b79ed9-83ca-42d2-9308-eaec36bc5379-lg.webp",
+    "https://content.estitor.com/eb2ed96f-e547-4de4-8298-9f49ae2ac51b-lg.webp",
+    "https://content.estitor.com/09415419-fc94-4c36-b8d0-ad214c4eae94-lg.webp",
+    "https://content.estitor.com/e7fdf29c-f7b4-4584-a863-994d9a675ef2-lg.webp",
+    "https://content.estitor.com/713bf3b8-0c0b-4170-8a36-63b78a13144b-lg.webp",
+    "https://content.estitor.com/7dc90c32-b3bb-4811-8cfe-ecf26b2dfef7-lg.webp",
+    "https://content.estitor.com/0fe12bc1-6237-457c-8da8-5769a5dcf39e-lg.webp",
+    "https://content.estitor.com/438cce2f-4011-4bd3-9c55-863b9986ca3a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 125m², Ibričevina, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/583150"
+}

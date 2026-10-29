@@ -1,0 +1,36 @@
+{
+  "key": "estitor_464276",
+  "source": "estitor",
+  "listing_id": "464276",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464276",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-464276"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 787,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:22.299845+00:00",
+  "images": [
+    "https://content.estitor.com/10cef177-4ac2-408a-8b3a-008fd7e93297-lg.webp",
+    "https://content.estitor.com/36ce7950-fa83-4de2-b3b4-ac3a6d76d3fc-lg.webp",
+    "https://content.estitor.com/70ae9c61-4c62-4c1d-85e3-c1c598e4d051-lg.webp",
+    "https://content.estitor.com/7f6750c7-bde5-418c-8556-58b0b5fa666c-lg.webp",
+    "https://content.estitor.com/a3b9668a-5cbc-4a7f-abe2-89e105b5c0fc-lg.webp",
+    "https://content.estitor.com/a0d31bf0-ed5c-4fbb-a5e6-01f7f88459f0-lg.webp",
+    "https://content.estitor.com/546c38d9-0f99-46d5-981c-074eb7c5b895-lg.webp",
+    "https://content.estitor.com/eaf2d4cf-c3e6-4b3c-83e3-e24ac7c090c3-lg.webp",
+    "https://content.estitor.com/48130d31-65cd-4dbb-9d6b-8111c07a7255-lg.webp",
+    "https://content.estitor.com/021a1194-f3b4-4e73-a9bd-3cf4a04250db-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 40m², Dubovica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/464276"
+}

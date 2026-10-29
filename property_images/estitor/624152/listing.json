@@ -1,0 +1,31 @@
+{
+  "key": "estitor_624152",
+  "source": "estitor",
+  "listing_id": "624152",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624152",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-624152"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 824,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:51.964834+00:00",
+  "images": [
+    "https://content.estitor.com/cff98e44-ed07-479f-9d06-c774367c1d4f-lg.webp",
+    "https://content.estitor.com/016bf622-33c0-42eb-9375-f2e170ec32f5-lg.webp",
+    "https://content.estitor.com/e5d04d05-1e19-4f89-be48-9dc65047e385-lg.webp",
+    "https://content.estitor.com/ebcbd6bd-b37a-45ef-adef-4d7999a4545d-lg.webp",
+    "https://content.estitor.com/983fc7e0-9d10-4cd5-8c25-6b7c5ebe954b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 40m², Lastva Grbaljska, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624152"
+}

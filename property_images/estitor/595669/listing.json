@@ -1,0 +1,36 @@
+{
+  "key": "estitor_595669",
+  "source": "estitor",
+  "listing_id": "595669",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595669",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-595669"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 839,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:02.019694+00:00",
+  "images": [
+    "https://content.estitor.com/d349fbb8-3383-4b9d-979c-facf79ff2106-lg.webp",
+    "https://content.estitor.com/6c658334-5c00-4f6b-921a-8ad7969d9d36-lg.webp",
+    "https://content.estitor.com/10cb33ee-c246-424e-9768-74e2ae53b597-lg.webp",
+    "https://content.estitor.com/0f9e4d9b-cdc4-460f-956d-c8789363b56a-lg.webp",
+    "https://content.estitor.com/78708bac-9337-4f54-bca7-5dc31110f91f-lg.webp",
+    "https://content.estitor.com/8576ea8a-0916-48c7-a911-42e2be6ff609-lg.webp",
+    "https://content.estitor.com/bb54a8b1-5ec4-4f8b-9749-918c8b482741-lg.webp",
+    "https://content.estitor.com/2335b892-c95c-4bdb-8f43-2a5ee7df8480-lg.webp",
+    "https://content.estitor.com/1671faf6-67f1-4d27-bd1b-a4e2d168f7ca-lg.webp",
+    "https://content.estitor.com/eba57c8c-d6f0-410c-97ef-6522e7644569-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Budva okolina, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595669"
+}

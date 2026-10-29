@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_76949",
+  "source": "patuljak",
+  "listing_id": "76949",
+  "listing_url": "https://patuljak.me/oglas/prodaja-plac-2251-ha-rasko-mioska-kolasin--76949",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-plac-2251-ha-rasko-mioska-kolasin--76949"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 71,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:07.079329+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76949_6.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac 22,51 ha, Raško Mioška, Kolašin",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76949"
+}

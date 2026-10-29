@@ -1,0 +1,32 @@
+{
+  "key": "estitor_566782",
+  "source": "estitor",
+  "listing_id": "566782",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566782",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-566782"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 717,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:40.655958+00:00",
+  "images": [
+    "https://content.estitor.com/218517ba-6170-4b2a-93d1-305e83fcba8d-lg.webp",
+    "https://content.estitor.com/6cd36979-bba8-464a-81b2-57ee22ded8b5-lg.webp",
+    "https://content.estitor.com/4c361086-98c9-42ce-8404-a040ca891deb-lg.webp",
+    "https://content.estitor.com/bd36124e-30d4-41ad-ba5f-72945ad13d01-lg.webp",
+    "https://content.estitor.com/b35f7764-0a91-4b25-94e2-ab82658e5f16-lg.webp",
+    "https://content.estitor.com/41557791-fbcd-47b5-b270-2e6a9abefd8b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 35m², City Kej, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/566782"
+}

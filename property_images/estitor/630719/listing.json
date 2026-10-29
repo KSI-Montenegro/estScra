@@ -1,0 +1,35 @@
+{
+  "key": "estitor_630719",
+  "source": "estitor",
+  "listing_id": "630719",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630719",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-630719"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 136,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:21.483517+00:00",
+  "images": [
+    "https://content.estitor.com/84f5928b-5b31-4ac8-bf20-1c15938e5bb7-lg.webp",
+    "https://content.estitor.com/80b75e3e-79a3-47ea-a929-a8640adf3753-lg.webp",
+    "https://content.estitor.com/12d21967-1715-4dbc-b18f-e34d36ae5709-lg.webp",
+    "https://content.estitor.com/5d283385-ff25-4127-a43a-bc0c961f459e-lg.webp",
+    "https://content.estitor.com/f61ab9d6-a2d8-470e-9124-ebcf4bb33f65-lg.webp",
+    "https://content.estitor.com/7b2b912d-9681-4dce-a074-fc62a17c47ec-lg.webp",
+    "https://content.estitor.com/0f20c6a9-a5f7-4a51-aa86-277e4fccfe90-lg.webp",
+    "https://content.estitor.com/90694b23-a9e0-4f27-af01-b77f30ca0978-lg.webp",
+    "https://content.estitor.com/41e40bf2-4ac8-456a-a3b9-f4c7efbee50d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Rozino, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/630719"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "estitor_626380",
+  "source": "estitor",
+  "listing_id": "626380",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626380",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626380"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 88,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:43.643309+00:00",
+  "images": [
+    "https://content.estitor.com/c0c08d0d-f122-4fe4-acc7-34ff035b9d37-lg.webp",
+    "https://content.estitor.com/85c53d0c-692e-4cb8-b89d-23a2bb93bd2a-lg.webp",
+    "https://content.estitor.com/89cb62b6-6b96-4e17-bdb9-8cf5d0590795-lg.webp",
+    "https://content.estitor.com/ed9b8317-021d-457c-9d2e-29ac8bfa00ab-lg.webp",
+    "https://content.estitor.com/9b771e68-fbd7-44eb-b3ea-80d25ce7c695-lg.webp",
+    "https://content.estitor.com/b09f6c9c-fff7-486a-a421-4116f929a71c-lg.webp",
+    "https://content.estitor.com/43bc4274-93a8-49b8-8d64-6ce6e16dabfa-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 56m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626380"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "estitor_571505",
+  "source": "estitor",
+  "listing_id": "571505",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-571505",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-571505"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 11,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:22.813178+00:00",
+  "images": [
+    "https://content.estitor.com/b2cb0196-1c85-4780-984d-7c8abc8bd700-lg.webp",
+    "https://content.estitor.com/fc2feac6-a52f-4ae3-86ae-c292e98ed06f-lg.webp",
+    "https://content.estitor.com/a452f923-7e72-49cb-9b84-2331f060c98e-lg.webp",
+    "https://content.estitor.com/343b4105-15a2-4515-acc7-ad7918924690-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 25m², Podkošljun, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/571505"
+}

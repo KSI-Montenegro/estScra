@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_84006",
+  "source": "patuljak",
+  "listing_id": "84006",
+  "listing_url": "https://patuljak.me/oglas/3-trosobna-u-3-dvosobna-i-3-jednosobna--84006",
+  "listing_urls": [
+    "https://patuljak.me/oglas/3-trosobna-u-3-dvosobna-i-3-jednosobna--84006"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 22,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:35.358130+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84006_0.webp"
+  ],
+  "status": "ok",
+  "title": "3 trosobna u 3 dvosobna i 3 jednosobna",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84006"
+}

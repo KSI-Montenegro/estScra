@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_79566",
+  "source": "patuljak",
+  "listing_id": "79566",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-centar-podgorica-office-f--79566",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-centar-podgorica-office-f--79566"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 54,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:56.502991+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79566_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem poslovni prostor, Centar, Podgorica / Office for rent in the City Center",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79566"
+}

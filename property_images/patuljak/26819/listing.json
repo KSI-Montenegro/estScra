@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_26819",
+  "source": "patuljak",
+  "listing_id": "26819",
+  "listing_url": "https://patuljak.me/oglas/prodaja-poslovnog-prostora-80m-bulevar-dzordza-v--26819",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-poslovnog-prostora-80m-bulevar-dzordza-v--26819"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 119,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:35.285864+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/09/26819_7.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja poslovnog prostora 80m², Bulevar Džordža Vašingtona, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/26819"
+}

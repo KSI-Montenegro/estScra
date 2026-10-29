@@ -1,0 +1,29 @@
+{
+  "key": "estitor_606736",
+  "source": "estitor",
+  "listing_id": "606736",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606736",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606736"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 882,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:31.324842+00:00",
+  "images": [
+    "https://content.estitor.com/3a9b0146-ea9b-49a1-b1c9-6cac807a7b82-lg.webp",
+    "https://content.estitor.com/17c55932-31c8-4cde-8f12-3dc9e2868ee7-lg.webp",
+    "https://content.estitor.com/1799a5c2-1683-4698-bd1a-1fc5921b2f6f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606736"
+}

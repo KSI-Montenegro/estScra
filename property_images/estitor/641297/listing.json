@@ -1,0 +1,33 @@
+{
+  "key": "estitor_641297",
+  "source": "estitor",
+  "listing_id": "641297",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641297",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641297"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 245,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:44.047635+00:00",
+  "images": [
+    "https://content.estitor.com/30a5f8cc-8e94-4078-82f3-a972adc9e8fa-lg.webp",
+    "https://content.estitor.com/c1cc949c-ca5e-466d-8b78-f899af697e8e-lg.webp",
+    "https://content.estitor.com/083501a8-145c-426f-9397-f5e9e5eba16c-lg.webp",
+    "https://content.estitor.com/8e77936c-b922-4a93-ba83-bf76e25974e5-lg.webp",
+    "https://content.estitor.com/6027a7bf-bf13-4daf-8776-6cbad80b469f-lg.webp",
+    "https://content.estitor.com/7eeac567-2db3-493f-8d3f-9a9ddf0fef71-lg.webp",
+    "https://content.estitor.com/29598d53-85da-4e9e-8ff3-c89210d04680-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 58m², Stari Grad, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641297"
+}

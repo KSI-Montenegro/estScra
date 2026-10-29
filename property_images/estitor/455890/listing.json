@@ -1,0 +1,28 @@
+{
+  "key": "estitor_455890",
+  "source": "estitor",
+  "listing_id": "455890",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-455890",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-455890"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 912,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:51.056163+00:00",
+  "images": [
+    "https://content.estitor.com/ca8f7592-c0c7-4bd1-ba94-a28344993ea7-lg.webp",
+    "https://content.estitor.com/eeb1a81f-7ff7-4ef3-8646-00baac370e75-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 17m², Nova Dalmatinska, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/455890"
+}

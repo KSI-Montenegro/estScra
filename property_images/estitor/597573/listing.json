@@ -1,0 +1,32 @@
+{
+  "key": "estitor_597573",
+  "source": "estitor",
+  "listing_id": "597573",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-597573",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-597573"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 668,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:16.450200+00:00",
+  "images": [
+    "https://content.estitor.com/2a71d1fd-4f1b-430f-abf6-3c1b782d0a69-lg.webp",
+    "https://content.estitor.com/047a6a6b-fe3d-4cd1-a701-40eda8a40182-lg.webp",
+    "https://content.estitor.com/6003b0ce-6fac-429e-ac70-747fa68ff32b-lg.webp",
+    "https://content.estitor.com/13c2256f-cb24-4f38-922e-7031fb9605c5-lg.webp",
+    "https://content.estitor.com/687f3cab-a124-4656-848f-57e722bb2956-lg.webp",
+    "https://content.estitor.com/ed663958-2ade-4958-956f-782daf26c46b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 50m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/597573"
+}

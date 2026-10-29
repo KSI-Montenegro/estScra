@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_81309",
+  "source": "patuljak",
+  "listing_id": "81309",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-dvosoban-110-m-namjesten-stan-gornja-g--81309",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-dvosoban-110-m-namjesten-stan-gornja-g--81309"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 745,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:55.300902+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81309_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81309_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se dvosoban 110 m² namješten stan, Gornja Gorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81309"
+}

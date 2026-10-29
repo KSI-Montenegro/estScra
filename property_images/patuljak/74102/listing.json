@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_74102",
+  "source": "patuljak",
+  "listing_id": "74102",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-37m2-stari-aerodrom-podgorica--74102",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-37m2-stari-aerodrom-podgorica--74102"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 773,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:12.530221+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74102_1.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban stan 37m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74102"
+}

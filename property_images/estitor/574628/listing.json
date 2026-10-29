@@ -1,0 +1,33 @@
+{
+  "key": "estitor_574628",
+  "source": "estitor",
+  "listing_id": "574628",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-574628",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-574628"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 125,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:13.324155+00:00",
+  "images": [
+    "https://content.estitor.com/e83513d3-99c1-4571-8f3d-d0c266cbdb3b-lg.webp",
+    "https://content.estitor.com/2083d31d-18e1-42f7-bdf3-43fc7b923e66-lg.webp",
+    "https://content.estitor.com/7eb1e974-a6b8-458e-8eb1-4228d92bfb2a-lg.webp",
+    "https://content.estitor.com/4fc2ad3b-34f5-4d30-9015-6239bc4f48ef-lg.webp",
+    "https://content.estitor.com/fb703d96-2b70-44f3-a8f4-5705099ca25a-lg.webp",
+    "https://content.estitor.com/eed2526f-76a6-4faf-b1df-ecc11d71d377-lg.webp",
+    "https://content.estitor.com/fb746abe-20b8-4492-8df7-4af848dfd6ce-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Tivat, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/574628"
+}

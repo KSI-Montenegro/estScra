@@ -1,0 +1,44 @@
+{
+  "key": "patuljak_77835",
+  "source": "patuljak",
+  "listing_id": "77835",
+  "listing_url": "https://patuljak.me/oglas/prodaja-kuce-u-centru-kolasina--77835",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-kuce-u-centru-kolasina--77835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 103,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:27.868341+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77835_17.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja kuće u centru Kolašina",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 18,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77835"
+}

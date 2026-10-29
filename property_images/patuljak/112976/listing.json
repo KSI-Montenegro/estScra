@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_112976",
+  "source": "patuljak",
+  "listing_id": "112976",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-plac--112976",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-plac--112976"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 132,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:42.665839+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2017/10/112976_20.webp"
+  ],
+  "status": "ok",
+  "title": "Zemljiste, plac",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/112976"
+}

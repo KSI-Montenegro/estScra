@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_84252",
+  "source": "patuljak",
+  "listing_id": "84252",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-stan-u-centru-sutomora--84252",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-stan-u-centru-sutomora--84252"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 88,
+      "column": "second_ad_url"
+    },
+    {
+      "sheet": "Rejected",
+      "row": 19,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:19.884012+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84252_8.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju stan u centru Sutomora",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84252"
+}

@@ -1,0 +1,42 @@
+{
+  "key": "patuljak_60474",
+  "source": "patuljak",
+  "listing_id": "60474",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-zemljiste-sa-kristalno-cistom-rijekom-k--60474",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-zemljiste-sa-kristalno-cistom-rijekom-k--60474"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 104,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:25.646257+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/60474_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se zemljište sa kristalno čistom rijekom koja protiče kroz njega",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/60474"
+}

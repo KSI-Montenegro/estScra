@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_626004",
+  "source": "patuljak",
+  "listing_id": "626004",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru-na-duzi-period--626004",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru-na-duzi-period--626004"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 961,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:23.941947+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/626004"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_603718",
+  "source": "estitor",
+  "listing_id": "603718",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-603718",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-603718"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 51,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:16.821668+00:00",
+  "images": [
+    "https://content.estitor.com/35917da5-670c-4ff4-b10b-902a1b6a9cb2-lg.webp",
+    "https://content.estitor.com/4c4c97e5-e72b-4d0e-af66-5648851d02cc-lg.webp",
+    "https://content.estitor.com/248f7ab9-c6fb-4cd6-90c2-2cc5f871320e-lg.webp",
+    "https://content.estitor.com/859ce996-1063-4f49-859d-3664d41a2d98-lg.webp",
+    "https://content.estitor.com/25c830ee-9708-46f4-bc90-a64719af98b3-lg.webp",
+    "https://content.estitor.com/551186c3-9447-43c0-b02c-afc8522c9be1-lg.webp",
+    "https://content.estitor.com/1a5e1948-b968-4d05-b3fa-a38c30654a15-lg.webp",
+    "https://content.estitor.com/a0f30eff-9a13-46bb-95ed-d7669a6d7207-lg.webp",
+    "https://content.estitor.com/3916f225-0890-4b52-b3f5-2d617ad22a32-lg.webp",
+    "https://content.estitor.com/3a28df4e-2826-4b7d-acbf-e38d5bcc4f53-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 64m², Centar, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/603718"
+}

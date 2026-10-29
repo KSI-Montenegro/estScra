@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_72769",
+  "source": "patuljak",
+  "listing_id": "72769",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-47m2-ulcinj--72769",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-47m2-ulcinj--72769"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 8,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:17.018255+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72769_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72769_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72769_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja: Jednosoban stan 47m2, Ulcinj",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72769"
+}

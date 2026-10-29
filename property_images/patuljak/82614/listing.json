@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_82614",
+  "source": "patuljak",
+  "listing_id": "82614",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-dvosoban-namjesten-stan-u-gornjoj-gorici--82614",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-dvosoban-namjesten-stan-u-gornjoj-gorici--82614"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 745,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:55.167709+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82614_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82614_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82614_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se dvosoban namjesten stan u Gornjoj Gorici 110m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82614"
+}

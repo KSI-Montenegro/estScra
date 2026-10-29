@@ -1,0 +1,35 @@
+{
+  "key": "estitor_461120",
+  "source": "estitor",
+  "listing_id": "461120",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-461120",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-461120"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 707,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:36.494362+00:00",
+  "images": [
+    "https://content.estitor.com/bbd74be1-d951-4d07-b1b9-f5513802af7c-lg.webp",
+    "https://content.estitor.com/03b09418-8ee1-49d4-bb0b-b859e3859c8f-lg.webp",
+    "https://content.estitor.com/b064ef2f-baf1-4a14-b068-00e97f119eca-lg.webp",
+    "https://content.estitor.com/1ef6eb79-aaee-4925-8faf-eea079bcff1b-lg.webp",
+    "https://content.estitor.com/44932f0b-89e1-4df0-b1e8-5e82b92a86cd-lg.webp",
+    "https://content.estitor.com/02bd4bb0-05dd-4305-a6c2-da6b60f3e535-lg.webp",
+    "https://content.estitor.com/9f648df0-f4ec-486b-b66c-6b68d1ad4500-lg.webp",
+    "https://content.estitor.com/d502020b-6807-465b-b8ab-7c7fdb5205d0-lg.webp",
+    "https://content.estitor.com/be4486fb-be45-43cf-a936-bde8cbb21a55-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/461120"
+}

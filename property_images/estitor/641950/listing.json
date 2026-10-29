@@ -1,0 +1,28 @@
+{
+  "key": "estitor_641950",
+  "source": "estitor",
+  "listing_id": "641950",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641950",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641950"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 25,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:27.817496+00:00",
+  "images": [
+    "https://content.estitor.com/939a62ad-24dd-4ab5-ac25-3d1461a38be6-lg.webp",
+    "https://content.estitor.com/3f0fb1d9-1304-45ed-96e3-cc128be98a4b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 1816m², Kličevo, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641950"
+}

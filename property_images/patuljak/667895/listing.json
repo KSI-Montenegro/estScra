@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_667895",
+  "source": "patuljak",
+  "listing_id": "667895",
+  "listing_url": "https://patuljak.me/oglas/soba-podgorica-izdavanje--667895",
+  "listing_urls": [
+    "https://patuljak.me/oglas/soba-podgorica-izdavanje--667895"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 990,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:37.726823+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/02/667895_2.webp"
+  ],
+  "status": "ok",
+  "title": "Soba, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/667895"
+}

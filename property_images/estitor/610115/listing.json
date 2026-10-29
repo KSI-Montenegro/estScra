@@ -1,0 +1,37 @@
+{
+  "key": "estitor_610115",
+  "source": "estitor",
+  "listing_id": "610115",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610115",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610115"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 709,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:37.152768+00:00",
+  "images": [
+    "https://content.estitor.com/c99584b6-7f95-4e19-81b6-d40d358098b7-lg.webp",
+    "https://content.estitor.com/d1e66d98-a72b-447f-8979-6c8fde196a2e-lg.webp",
+    "https://content.estitor.com/9d9ff991-25b6-4d02-aac4-77816c0a1965-lg.webp",
+    "https://content.estitor.com/f920bcfb-f531-4bca-bdb2-4e83229cb0f3-lg.webp",
+    "https://content.estitor.com/45d373b3-8bb1-42a8-9cfc-79760a0a1be8-lg.webp",
+    "https://content.estitor.com/8f642857-5b88-4b9e-95f4-102515e888c5-lg.webp",
+    "https://content.estitor.com/e4a7a5fa-9430-4617-9334-03a56213dfcb-lg.webp",
+    "https://content.estitor.com/d4bea84a-6930-478e-987b-f9b16c0784fc-lg.webp",
+    "https://content.estitor.com/85b7be4a-dc96-4b45-ac62-e67048ae1155-lg.webp",
+    "https://content.estitor.com/7c67520a-07d3-40cc-b6dc-e448c8de7f4f-lg.webp",
+    "https://content.estitor.com/4be3433e-6e46-480f-9169-6c15a0ddf1d3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 101m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610115"
+}

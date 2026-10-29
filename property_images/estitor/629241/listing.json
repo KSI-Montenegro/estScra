@@ -1,0 +1,35 @@
+{
+  "key": "estitor_629241",
+  "source": "estitor",
+  "listing_id": "629241",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-629241",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-629241"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 162,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:58.075491+00:00",
+  "images": [
+    "https://content.estitor.com/f97e43ad-7965-4ce8-818a-4d8857cc58ae-lg.webp",
+    "https://content.estitor.com/6ed7dfe7-2c92-4cc0-a84e-b5fe53dbf709-lg.webp",
+    "https://content.estitor.com/f150df1b-4b5e-4f9b-99fe-27b13fca5693-lg.webp",
+    "https://content.estitor.com/4be6cde4-9c9e-4c36-929d-4103581d6431-lg.webp",
+    "https://content.estitor.com/84d7f3bf-5641-450f-9328-b42d2554298d-lg.webp",
+    "https://content.estitor.com/d31ea6ee-a608-4110-946d-3a4003873a28-lg.webp",
+    "https://content.estitor.com/486971a0-788a-430f-bec9-2f99ee2c399f-lg.webp",
+    "https://content.estitor.com/4f282207-e885-41e5-9e6c-c6055b1cf61c-lg.webp",
+    "https://content.estitor.com/60940dd2-a78c-489f-a880-0dd485982a79-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 86m², Gintaš, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/629241"
+}

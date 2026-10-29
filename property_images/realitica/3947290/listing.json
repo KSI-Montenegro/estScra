@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3947290",
+  "source": "realitica",
+  "listing_id": "3947290",
+  "listing_url": "https://www.realitica.com/hr/listing/3947290",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947290"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 17,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:26.052190+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947290_10.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_1.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_2.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_3.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_4.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_5.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_7.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_8.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_6.jpg",
+    "https://www.realitica.com/images/listing_photos/3947290_9.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Seljanovo",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947290"
+}

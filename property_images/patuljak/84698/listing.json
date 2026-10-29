@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_84698",
+  "source": "patuljak",
+  "listing_id": "84698",
+  "listing_url": "https://patuljak.me/oglas/manji-dvosoban-stan--84698",
+  "listing_urls": [
+    "https://patuljak.me/oglas/manji-dvosoban-stan--84698"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 52,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:41.591247+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84698_10.webp"
+  ],
+  "status": "ok",
+  "title": "Manji dvosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84698"
+}

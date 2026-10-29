@@ -1,0 +1,34 @@
+{
+  "key": "estitor_463557",
+  "source": "estitor",
+  "listing_id": "463557",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-463557",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-463557"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 57,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:19.506581+00:00",
+  "images": [
+    "https://content.estitor.com/ac8837a9-5ff3-44f6-b0ae-625c5cdf11e2-lg.webp",
+    "https://content.estitor.com/d382d232-a1d5-46f0-9195-0c04658c1fc9-lg.webp",
+    "https://content.estitor.com/4dda1906-8a51-42f0-b708-429fce507718-lg.webp",
+    "https://content.estitor.com/badd2484-d38d-46f8-a5cb-6ef29a6931f6-lg.webp",
+    "https://content.estitor.com/fcb1e16b-40d0-44bf-a176-e16fd6204612-lg.webp",
+    "https://content.estitor.com/dbcab187-01a1-441e-a027-1a1e5ff493f6-lg.webp",
+    "https://content.estitor.com/b6e217de-14ae-4341-ac81-530cb5d72e69-lg.webp",
+    "https://content.estitor.com/e0480618-ed1b-4e31-8f95-4d1f7f27f529-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 55m², Kod Big Fashion-a, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/463557"
+}

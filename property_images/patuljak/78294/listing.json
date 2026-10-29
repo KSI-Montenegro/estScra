@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_78294",
+  "source": "patuljak",
+  "listing_id": "78294",
+  "listing_url": "https://patuljak.me/oglas/zen-gardens-novogradnja-stan-878-m2-tomba-bar--78294",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zen-gardens-novogradnja-stan-878-m2-tomba-bar--78294"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 29,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:02.573263+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78294_9.webp"
+  ],
+  "status": "ok",
+  "title": "Zen Gardens, novogradnja, stan 87,8 m2, Tomba, Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78294"
+}

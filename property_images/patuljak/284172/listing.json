@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_284172",
+  "source": "patuljak",
+  "listing_id": "284172",
+  "listing_url": "https://patuljak.me/oglas/plac-u-dalmatinskoj-ulici--284172",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-u-dalmatinskoj-ulici--284172"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 130,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:42.070854+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2021/03/284172_8.webp"
+  ],
+  "status": "ok",
+  "title": "Plac u Dalmatinskoj ulici",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/284172"
+}

@@ -1,0 +1,32 @@
+{
+  "key": "estitor_602049",
+  "source": "estitor",
+  "listing_id": "602049",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602049",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-602049"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 733,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:48.948495+00:00",
+  "images": [
+    "https://content.estitor.com/090defb0-1a0c-4d5b-8cda-5e389fdf8052-lg.webp",
+    "https://content.estitor.com/49f31852-34e4-4ddf-af6e-df563717175e-lg.webp",
+    "https://content.estitor.com/11f23666-a49f-45ba-8901-a00507a72491-lg.webp",
+    "https://content.estitor.com/d4bdbfce-7cc0-46a3-a8b1-86df738027e4-lg.webp",
+    "https://content.estitor.com/b1fc2b7e-2ba8-4041-bdc7-b253d8afdd0b-lg.webp",
+    "https://content.estitor.com/a5e7a73a-4991-490c-a13b-dd8b039ee8fd-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 100m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/602049"
+}

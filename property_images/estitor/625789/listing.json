@@ -1,0 +1,30 @@
+{
+  "key": "estitor_625789",
+  "source": "estitor",
+  "listing_id": "625789",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-625789",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-625789"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 172,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:03.741509+00:00",
+  "images": [
+    "https://content.estitor.com/add5e667-9132-43ee-901c-1349fdf082bc-lg.webp",
+    "https://content.estitor.com/0e8eff82-390d-4d51-a05d-5945c3600c58-lg.webp",
+    "https://content.estitor.com/3b51132c-1bfe-40ca-a619-adc40c186c82-lg.webp",
+    "https://content.estitor.com/370dc0c0-1afd-462a-a598-e140d1a9322b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 100m², Centar, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/625789"
+}

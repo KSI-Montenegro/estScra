@@ -1,0 +1,32 @@
+{
+  "key": "estitor_585238",
+  "source": "estitor",
+  "listing_id": "585238",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-585238",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-585238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 26,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:59.483222+00:00",
+  "images": [
+    "https://content.estitor.com/7d35ff7e-2e03-4479-bef2-0cb147b85526-lg.webp",
+    "https://content.estitor.com/46072ca0-8049-41be-a7ab-2f07773e23e6-lg.webp",
+    "https://content.estitor.com/fc904a28-3f45-475f-bcc6-ebe98817dd9a-lg.webp",
+    "https://content.estitor.com/3d479435-d982-429a-b9f0-0002aa7a0139-lg.webp",
+    "https://content.estitor.com/2ecadfce-5c76-4937-b921-2bff63a6df38-lg.webp",
+    "https://content.estitor.com/d7179053-09ef-4f75-95b7-42c19747d9da-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 53m², Master Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/585238"
+}

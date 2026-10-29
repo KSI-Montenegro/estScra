@@ -1,0 +1,36 @@
+{
+  "key": "estitor_622705",
+  "source": "estitor",
+  "listing_id": "622705",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-622705",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-622705"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 359,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:41.231609+00:00",
+  "images": [
+    "https://content.estitor.com/bf2b1e8f-049a-49ae-a995-506127fad081-lg.webp",
+    "https://content.estitor.com/638491c5-dbc3-4702-8c67-84255f29bf05-lg.webp",
+    "https://content.estitor.com/7cb36041-4c3e-41e5-82d8-eecd88a7f7c8-lg.webp",
+    "https://content.estitor.com/33a7c046-c58a-4f92-8aea-185f35b478f9-lg.webp",
+    "https://content.estitor.com/351bd824-dcc7-4734-a251-920d4b854a10-lg.webp",
+    "https://content.estitor.com/24621d99-e9d3-48b7-8898-5b13228ea736-lg.webp",
+    "https://content.estitor.com/ef4a05c8-0773-4ad9-9b95-4345bbfb2260-lg.webp",
+    "https://content.estitor.com/234a3389-67d6-458e-9a1e-2308e1c44826-lg.webp",
+    "https://content.estitor.com/f5170daa-d99e-4bcd-aa2c-428d65c14600-lg.webp",
+    "https://content.estitor.com/8005135e-0855-405a-bfb1-b81ae985bfdf-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 220m², Polje, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/622705"
+}

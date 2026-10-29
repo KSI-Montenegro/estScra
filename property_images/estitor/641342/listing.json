@@ -1,0 +1,28 @@
+{
+  "key": "estitor_641342",
+  "source": "estitor",
+  "listing_id": "641342",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641342",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-cetinje/id-641342"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 36,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:33.593353+00:00",
+  "images": [
+    "https://content.estitor.com/c3cb325b-cd9d-4a05-9c61-c9baf8949d6d-lg.webp",
+    "https://content.estitor.com/e05bb575-4f62-4887-8870-36e31241aada-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 7000m², Rijeka Crnojevića, Cetinje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641342"
+}

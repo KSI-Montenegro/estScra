@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_85203",
+  "source": "patuljak",
+  "listing_id": "85203",
+  "listing_url": "https://patuljak.me/oglas/potreban-jednosoban-stan-za-kupovinu--85203",
+  "listing_urls": [
+    "https://patuljak.me/oglas/potreban-jednosoban-stan-za-kupovinu--85203"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 424,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:13.400725+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85203_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85203_1.webp"
+  ],
+  "status": "ok",
+  "title": "Potreban jednosoban stan za kupovinu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85203"
+}

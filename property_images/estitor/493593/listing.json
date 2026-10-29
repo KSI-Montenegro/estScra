@@ -1,0 +1,38 @@
+{
+  "key": "estitor_493593",
+  "source": "estitor",
+  "listing_id": "493593",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-493593",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-493593"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 927,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:04.882906+00:00",
+  "images": [
+    "https://content.estitor.com/b48d8fb8-70ec-42af-b9ae-5e4242030740-lg.webp",
+    "https://content.estitor.com/cc6d7599-5318-4f71-bfac-44f73134d1cf-lg.webp",
+    "https://content.estitor.com/9c122358-0296-4fbf-859c-5c733012d884-lg.webp",
+    "https://content.estitor.com/d569f4d7-a582-411b-a225-885d40dabcf4-lg.webp",
+    "https://content.estitor.com/9ed1c44d-a91d-4e64-af26-f6cc0efa0f53-lg.webp",
+    "https://content.estitor.com/a59c99fa-d2ae-4c48-b8df-3c49580909e2-lg.webp",
+    "https://content.estitor.com/6a34abe3-2a5d-4d3a-aa95-0332e8225e12-lg.webp",
+    "https://content.estitor.com/266665dc-9e23-44da-be4f-ad443a825310-lg.webp",
+    "https://content.estitor.com/cf0b200b-13a6-4432-bef7-ae7fa6723c4b-lg.webp",
+    "https://content.estitor.com/a5428747-2783-4991-a33c-5184c872d1be-lg.webp",
+    "https://content.estitor.com/adc4eec3-7940-446b-97de-31f4768ecb45-lg.webp",
+    "https://content.estitor.com/86d5be18-36f8-4fa8-a9c0-1afc93c9f55e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 35m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/493593"
+}

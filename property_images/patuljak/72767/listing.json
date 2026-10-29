@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_72767",
+  "source": "patuljak",
+  "listing_id": "72767",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-zemljiste-izletiste-studeno--72767",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-zemljiste-izletiste-studeno--72767"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 774,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:13.796050+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72767_14.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se zemljiste izletiste Studeno",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72767"
+}

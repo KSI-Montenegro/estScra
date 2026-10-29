@@ -1,0 +1,38 @@
+{
+  "key": "estitor_610079",
+  "source": "estitor",
+  "listing_id": "610079",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610079",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610079"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 919,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:56.873666+00:00",
+  "images": [
+    "https://content.estitor.com/c8e084d6-05b3-4034-af98-dd5fb525216e-lg.webp",
+    "https://content.estitor.com/c2ea6e0f-8545-40d3-ba9e-bc7a0e7acf65-lg.webp",
+    "https://content.estitor.com/3593973b-9057-462b-a2f9-dc53dd03b12b-lg.webp",
+    "https://content.estitor.com/5258f8d6-03e5-4369-8812-6800df30f6f6-lg.webp",
+    "https://content.estitor.com/8f8c0a24-4ecf-4220-9e83-b7ecbef57aa6-lg.webp",
+    "https://content.estitor.com/ab6e5919-2508-4b6e-84cd-ef62a0ee2e3d-lg.webp",
+    "https://content.estitor.com/e738d7fb-c2fd-4522-ab81-d5f89dd60db0-lg.webp",
+    "https://content.estitor.com/1b2b8a48-677d-47e4-91a5-06a78d1cb24b-lg.webp",
+    "https://content.estitor.com/0d4df389-dad2-4aab-b149-bd28931a7475-lg.webp",
+    "https://content.estitor.com/38595629-1461-4bf9-848e-9172c74a3536-lg.webp",
+    "https://content.estitor.com/a2b7a827-fe3f-4750-aeb9-997db4410c56-lg.webp",
+    "https://content.estitor.com/4de309a8-b671-4817-a69e-dcda4e9f0c0c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 39m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610079"
+}

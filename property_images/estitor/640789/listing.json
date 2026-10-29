@@ -1,0 +1,38 @@
+{
+  "key": "estitor_640789",
+  "source": "estitor",
+  "listing_id": "640789",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-640789",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-640789"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 41,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:36.451083+00:00",
+  "images": [
+    "https://content.estitor.com/ec4a8b21-7905-4f52-a495-879a142afc8b-lg.webp",
+    "https://content.estitor.com/5d4cd8f5-d509-4782-883d-f21b6e3f3816-lg.webp",
+    "https://content.estitor.com/4c78a694-2115-4c50-97f1-f7099477c799-lg.webp",
+    "https://content.estitor.com/6bc4b0b9-68fc-4416-b43c-09740b5a3546-lg.webp",
+    "https://content.estitor.com/5fb01a9f-3a65-4ac4-a8cf-be60cfedca38-lg.webp",
+    "https://content.estitor.com/79137146-84be-4ef5-9c01-ddea91dc2a04-lg.webp",
+    "https://content.estitor.com/392b3854-7ce2-477e-a8f5-6ad09aa06b92-lg.webp",
+    "https://content.estitor.com/d0573ed6-6c24-43e5-b2bc-be645017c3c2-lg.webp",
+    "https://content.estitor.com/743fd453-8b45-4c56-82a3-3c9d99d57ef2-lg.webp",
+    "https://content.estitor.com/b06dec6a-95a9-4bb8-bf39-fe5b0f171164-lg.webp",
+    "https://content.estitor.com/53e906a4-6097-4759-bf41-12d07d215f1e-lg.webp",
+    "https://content.estitor.com/90f4754f-609f-4d23-aa83-faeab6961561-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 80m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640789"
+}

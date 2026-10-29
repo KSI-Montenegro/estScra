@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80266",
+  "source": "patuljak",
+  "listing_id": "80266",
+  "listing_url": "https://patuljak.me/oglas/izdajem-kucu-sekulici-danilovgrad--80266",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-kucu-sekulici-danilovgrad--80266"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 933,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:08.153998+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80266_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem kuću, Sekulići, Danilovgrad",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80266"
+}

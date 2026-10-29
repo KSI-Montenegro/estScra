@@ -1,0 +1,33 @@
+{
+  "key": "estitor_639110",
+  "source": "estitor",
+  "listing_id": "639110",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-639110",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-639110"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 69,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:48.012156+00:00",
+  "images": [
+    "https://content.estitor.com/d47f57c4-ea47-4015-bd9a-6e1459272718-lg.webp",
+    "https://content.estitor.com/50b38f5c-134c-423a-8783-d918d367fecb-lg.webp",
+    "https://content.estitor.com/403eba7f-41ee-4cd7-8bc8-d5cdc9fa6cf9-lg.webp",
+    "https://content.estitor.com/3a493e5b-7722-40ad-93d4-a2f43fc9cd3c-lg.webp",
+    "https://content.estitor.com/6794921e-c454-4be8-9de4-9398c8afb43c-lg.webp",
+    "https://content.estitor.com/34474cce-1d62-4b55-99f2-9d1b86c4200d-lg.webp",
+    "https://content.estitor.com/1501cbc0-f33c-4f8e-9676-df06626cdccc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 2102m², Bratešići, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639110"
+}

@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_70920",
+  "source": "patuljak",
+  "listing_id": "70920",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru-na-zabjelu--70920",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru-na-zabjelu--70920"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 547,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:18.275163+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/70920_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem garsonjeru na Zabjelu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/70920"
+}

@@ -1,0 +1,34 @@
+{
+  "key": "estitor_595874",
+  "source": "estitor",
+  "listing_id": "595874",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595874",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595874"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 95,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:48.576493+00:00",
+  "images": [
+    "https://content.estitor.com/bf1e0a8e-575b-4b16-96a4-275dc956c923-lg.webp",
+    "https://content.estitor.com/b500af04-0404-4378-92fc-f0e05c8ed34e-lg.webp",
+    "https://content.estitor.com/dad84f60-e1c7-4ad4-b446-262db575faf4-lg.webp",
+    "https://content.estitor.com/a348ad0a-2477-4bce-a842-30a8a75b821b-lg.webp",
+    "https://content.estitor.com/dad30775-6301-4307-a811-555e09a89324-lg.webp",
+    "https://content.estitor.com/fd2977e9-6d57-4c8e-a80f-1f50e2063414-lg.webp",
+    "https://content.estitor.com/6e3954b5-4189-45e0-9f06-2703fdafc8c6-lg.webp",
+    "https://content.estitor.com/be49dc66-61d6-4160-9e71-7a6122187878-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 42m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595874"
+}

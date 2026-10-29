@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_79612",
+  "source": "patuljak",
+  "listing_id": "79612",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-na-duze--79612",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-na-duze--79612"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 756,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:02.584013+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79612_13.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan na duze",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79612"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_80604",
+  "source": "patuljak",
+  "listing_id": "80604",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan--80604",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan--80604"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 454,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:28.793146+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80604_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80604_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80604_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80604_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80604"
+}

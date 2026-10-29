@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_74086",
+  "source": "patuljak",
+  "listing_id": "74086",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-namjesten-stan-60-m-u-momisicima-parking--74086",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-namjesten-stan-60-m-u-momisicima-parking--74086"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 897,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:41.529322+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74086_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se namješten stan 60 m u Momišićima, parking mjesto. Informacije: Tel. 067 617 053",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74086"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_343368",
+  "source": "estitor",
+  "listing_id": "343368",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-343368",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-podgorica/id-343368"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 144,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:47.242222+00:00",
+  "images": [
+    "https://content.estitor.com/7d1a7f69-10d9-4e78-b788-3f63a208dd6b-lg.webp",
+    "https://content.estitor.com/8cbb97a7-490c-4462-bd8e-98dfd3821189-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 10000m², Tuzi, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/343368"
+}

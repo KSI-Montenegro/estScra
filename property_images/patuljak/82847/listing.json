@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_82847",
+  "source": "patuljak",
+  "listing_id": "82847",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan--82847",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan--82847"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 860,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:15.954921+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82847_10.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82847"
+}

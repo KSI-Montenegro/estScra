@@ -1,0 +1,36 @@
+{
+  "key": "estitor_642005",
+  "source": "estitor",
+  "listing_id": "642005",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-kotor/id-642005",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-kotor/id-642005"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 24,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:27.699729+00:00",
+  "images": [
+    "https://content.estitor.com/36a4d20c-2bcd-4322-b543-6a0d7a13c116-lg.webp",
+    "https://content.estitor.com/bc5a313b-6be1-4550-a12b-55c4d2feff5d-lg.webp",
+    "https://content.estitor.com/51a09b42-bb7e-483c-8fc8-5328ea48fddc-lg.webp",
+    "https://content.estitor.com/c6f92583-e089-4d82-a741-c9f06e251739-lg.webp",
+    "https://content.estitor.com/4b433310-5c60-40a9-9fd4-23e2211391c1-lg.webp",
+    "https://content.estitor.com/583ee58e-7e35-41d1-bebf-2ebbbe534c49-lg.webp",
+    "https://content.estitor.com/32e8d5d3-7144-45d3-8276-313fec146c38-lg.webp",
+    "https://content.estitor.com/d8578079-8458-45ad-9546-3afe5281b673-lg.webp",
+    "https://content.estitor.com/d474ccc2-31ec-406c-a0e1-fc123f3f072f-lg.webp",
+    "https://content.estitor.com/6ee3a0f2-8503-43d3-b1b2-4fb5fb0a9468-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 111m², Škaljari, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642005"
+}

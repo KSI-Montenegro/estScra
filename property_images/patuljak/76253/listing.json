@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_76253",
+  "source": "patuljak",
+  "listing_id": "76253",
+  "listing_url": "https://patuljak.me/oglas/kupujem-zavrsen-stan-u-podgorici--76253",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-zavrsen-stan-u-podgorici--76253"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 508,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:57.025344+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76253_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76253_5.webp"
+  ],
+  "status": "ok",
+  "title": "Kupujem zavrsen stan u Podgorici",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76253"
+}

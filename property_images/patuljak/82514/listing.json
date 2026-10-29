@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_82514",
+  "source": "patuljak",
+  "listing_id": "82514",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-kuca-76-m2-mataguzi--82514",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-kuca-76-m2-mataguzi--82514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 144,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:51.315894+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82514_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Kuća 76 m2, Mataguži",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82514"
+}

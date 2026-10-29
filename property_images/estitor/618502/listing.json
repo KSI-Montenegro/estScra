@@ -1,0 +1,45 @@
+{
+  "key": "estitor_618502",
+  "source": "estitor",
+  "listing_id": "618502",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618502",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618502"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 50,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:15.429831+00:00",
+  "images": [
+    "https://content.estitor.com/c7a7b32f-07a8-49b6-b3dd-fa6ca1508ed9-lg.webp",
+    "https://content.estitor.com/5d1d0353-d6c0-4f49-8f93-3fa1d517e603-lg.webp",
+    "https://content.estitor.com/6e50f1fb-b612-43c2-94ac-b92177de63b9-lg.webp",
+    "https://content.estitor.com/9a30b665-ea7d-4595-8931-eb11168b75cb-lg.webp",
+    "https://content.estitor.com/722d9668-4676-4861-b714-ca8c9ca63985-lg.webp",
+    "https://content.estitor.com/6bb796f4-911f-44c3-9ac2-f472851e1ab3-lg.webp",
+    "https://content.estitor.com/6cce55b6-57b0-4cf5-8c47-fc001c37f740-lg.webp",
+    "https://content.estitor.com/b43c7787-caea-4644-b99e-ccdaf82e0727-lg.webp",
+    "https://content.estitor.com/f6bf7821-5d45-49bd-83d2-e5725552cadb-lg.webp",
+    "https://content.estitor.com/adf1a17b-2074-46a3-8fee-ddbd9bde721c-lg.webp",
+    "https://content.estitor.com/5452e0f1-ad8a-4161-a5b6-d0eb2b096783-lg.webp",
+    "https://content.estitor.com/c02f28d3-bad3-4333-9def-6a8121bca654-lg.webp",
+    "https://content.estitor.com/a009da19-8842-430a-89ec-6492214cb866-lg.webp",
+    "https://content.estitor.com/cd8eb6c5-ad18-4f2c-8483-dece1fdc2bb6-lg.webp",
+    "https://content.estitor.com/cf70dc39-5094-43d1-b0fe-d7acbe2f9a67-lg.webp",
+    "https://content.estitor.com/b17f8fc5-a693-4a1d-bc4a-a106ce34f392-lg.webp",
+    "https://content.estitor.com/4077fe4b-4d68-4fb4-bb2f-1180344010ee-lg.webp",
+    "https://content.estitor.com/4f978ac2-da82-4d16-8c12-82af0d0579ed-lg.webp",
+    "https://content.estitor.com/30c4679e-46e2-4b14-b11c-74dc7e2b7155-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 19,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/618502"
+}

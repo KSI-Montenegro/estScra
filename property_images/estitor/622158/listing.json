@@ -1,0 +1,34 @@
+{
+  "key": "estitor_622158",
+  "source": "estitor",
+  "listing_id": "622158",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622158",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622158"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 178,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:06.631080+00:00",
+  "images": [
+    "https://content.estitor.com/60330e62-bbd8-4898-9305-30bc38629337-lg.webp",
+    "https://content.estitor.com/5daa56fb-17bb-4a5e-88fe-373c8b0ba1b0-lg.webp",
+    "https://content.estitor.com/ad054909-b438-4803-a4f9-86f4c423d2cf-lg.webp",
+    "https://content.estitor.com/d48fe654-8694-42fa-9827-04ad279c59cb-lg.webp",
+    "https://content.estitor.com/b40bdcfa-9da0-416f-a176-18d4d1cc4a13-lg.webp",
+    "https://content.estitor.com/ade58df8-3a5e-4a89-8a3b-2e457c66dd23-lg.webp",
+    "https://content.estitor.com/d3ff7a84-dd31-43ce-8374-7f4442002f36-lg.webp",
+    "https://content.estitor.com/c966ec20-c42e-4596-8206-2dcce4895b1b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 11m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/622158"
+}

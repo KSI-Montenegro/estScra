@@ -1,0 +1,44 @@
+{
+  "key": "patuljak_82666",
+  "source": "patuljak",
+  "listing_id": "82666",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-dvosoban-stan-67m2-master-kvart-podgoric--82666",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-dvosoban-stan-67m2-master-kvart-podgoric--82666"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 143,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:51.096688+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82666_17.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se dvosoban stan 67m2, Master Kvart, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 18,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82666"
+}

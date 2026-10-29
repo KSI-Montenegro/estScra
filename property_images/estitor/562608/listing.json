@@ -1,0 +1,28 @@
+{
+  "key": "estitor_562608",
+  "source": "estitor",
+  "listing_id": "562608",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562608",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562608"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 19,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:51.279372+00:00",
+  "images": [
+    "https://content.estitor.com/0da2d5a5-109c-4bcb-9f62-15fd0944c3db-lg.webp",
+    "https://content.estitor.com/6bde1576-5744-4949-88d7-32bde0e9f267-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 25m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/562608"
+}

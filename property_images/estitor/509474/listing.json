@@ -1,0 +1,36 @@
+{
+  "key": "estitor_509474",
+  "source": "estitor",
+  "listing_id": "509474",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-509474",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-509474"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 106,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:55.392486+00:00",
+  "images": [
+    "https://content.estitor.com/962b4299-f4b5-47ce-ad7d-cbd96c5bd8e1-lg.webp",
+    "https://content.estitor.com/d842f90e-5620-4a7e-aea1-7d06762b688c-lg.webp",
+    "https://content.estitor.com/05ba3645-059e-4046-8e22-e076ac2e9262-lg.webp",
+    "https://content.estitor.com/2a978d9b-25cd-4ed3-87c4-02624c4c31a6-lg.webp",
+    "https://content.estitor.com/c5099436-ceb9-4b74-8154-9d6337826804-lg.webp",
+    "https://content.estitor.com/1a8739be-d14b-4c0f-9fb4-c4810682e94a-lg.webp",
+    "https://content.estitor.com/a722a33c-80ed-4c69-b618-267a5575d9ef-lg.webp",
+    "https://content.estitor.com/8c3480b4-3415-4cbf-9c99-d809f536c0f4-lg.webp",
+    "https://content.estitor.com/ea484a0f-182b-47d0-9b43-00cf61812041-lg.webp",
+    "https://content.estitor.com/f5731129-4aad-4aae-89ab-c47728a0769a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 28m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/509474"
+}

@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_78678",
+  "source": "patuljak",
+  "listing_id": "78678",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-stan-u-budvi--78678",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-stan-u-budvi--78678"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 762,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:06.534184+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78678_14.webp"
+  ],
+  "status": "ok",
+  "title": "Iznajmljujem stan u Budvi",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78678"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_72735",
+  "source": "patuljak",
+  "listing_id": "72735",
+  "listing_url": "https://patuljak.me/oglas/izdajem-smjestaj-za-15-radnika--72735",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-smjestaj-za-15-radnika--72735"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 981,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:33.167410+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72735_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem smjestaj za 15 radnika",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72735"
+}

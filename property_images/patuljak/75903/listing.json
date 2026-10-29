@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_75903",
+  "source": "patuljak",
+  "listing_id": "75903",
+  "listing_url": "https://patuljak.me/oglas/plac-2500m2-zeta-selo-bijelo-polje--75903",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-2500m2-zeta-selo-bijelo-polje--75903"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 81,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:12.159580+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75903_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75903_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75903_2.webp"
+  ],
+  "status": "ok",
+  "title": "Plac 2500m2, Zeta, selo Bijelo Polje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75903"
+}

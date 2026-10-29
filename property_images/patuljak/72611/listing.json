@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_72611",
+  "source": "patuljak",
+  "listing_id": "72611",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-niksic--72611",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-niksic--72611"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 114,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:37.568290+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72611_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72611_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72611_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72611_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72611_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja jednosoban stan Niksic",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72611"
+}

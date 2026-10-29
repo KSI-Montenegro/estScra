@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_77217",
+  "source": "patuljak",
+  "listing_id": "77217",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stana--77217",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stana--77217"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 66,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:07.038386+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77217_13.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77217"
+}

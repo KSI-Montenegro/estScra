@@ -1,0 +1,39 @@
+{
+  "key": "estitor_605227",
+  "source": "estitor",
+  "listing_id": "605227",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-605227",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-605227"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 408,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:05.186072+00:00",
+  "images": [
+    "https://content.estitor.com/5cfb2f3e-44e7-4b19-9dfb-ab160ff06010-lg.webp",
+    "https://content.estitor.com/bc2eaa7c-ab2e-4974-af92-0616919d20c8-lg.webp",
+    "https://content.estitor.com/fb469a2e-ded5-4e96-b893-7efddffe8b18-lg.webp",
+    "https://content.estitor.com/2211f156-f09a-4ffa-aea0-85549c313935-lg.webp",
+    "https://content.estitor.com/4a4adefb-06f6-4865-8eef-8a9ae1791e42-lg.webp",
+    "https://content.estitor.com/3a5173e5-c7b9-4837-8ab2-a566eff9de8e-lg.webp",
+    "https://content.estitor.com/36f01908-cb84-45b8-94e5-762b1e98b92e-lg.webp",
+    "https://content.estitor.com/a5a9be6b-5f5e-46f2-898c-af4de19a91c5-lg.webp",
+    "https://content.estitor.com/b1a54862-977c-4aa3-8a11-29aba0a57640-lg.webp",
+    "https://content.estitor.com/1f91458e-62e8-4353-be1e-166781e58ac7-lg.webp",
+    "https://content.estitor.com/67432840-d732-431d-8013-2bb98a89c784-lg.webp",
+    "https://content.estitor.com/c6f202d2-52e8-497b-ac5a-51a5d81c9a0f-lg.webp",
+    "https://content.estitor.com/af5a232d-de9f-45c2-b0b6-e2c212255f5a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Kalimanj, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/605227"
+}

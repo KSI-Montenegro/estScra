@@ -1,0 +1,32 @@
+{
+  "key": "estitor_640623",
+  "source": "estitor",
+  "listing_id": "640623",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-640623",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kolasin/id-640623"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 202,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:19.120794+00:00",
+  "images": [
+    "https://content.estitor.com/e1e463b8-21ce-4a34-b346-1f0774f49af7-lg.webp",
+    "https://content.estitor.com/4af1ca05-526c-4ec8-9fdf-6f7036b6c57e-lg.webp",
+    "https://content.estitor.com/93854e75-5125-4994-ada6-d7ba671ed0b5-lg.webp",
+    "https://content.estitor.com/c3e96485-6882-4ffe-b493-f90669e60ea2-lg.webp",
+    "https://content.estitor.com/32f67a2f-5606-466c-921a-25ed4d907126-lg.webp",
+    "https://content.estitor.com/12621073-62a2-425d-b5c0-441131bc34af-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 610m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640623"
+}

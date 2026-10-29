@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_78587",
+  "source": "patuljak",
+  "listing_id": "78587",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-39-m-blok-9-podgorica--78587",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-39-m-blok-9-podgorica--78587"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 146,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:53.211975+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78587_4.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, Jednosoban stan 39 m², Blok 9, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78587"
+}

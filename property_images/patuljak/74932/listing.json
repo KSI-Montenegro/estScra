@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_74932",
+  "source": "patuljak",
+  "listing_id": "74932",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-budvi--74932",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-budvi--74932"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 188,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:15.508437+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74932_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan u Budvi",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74932"
+}

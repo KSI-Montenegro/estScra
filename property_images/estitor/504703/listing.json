@@ -1,0 +1,30 @@
+{
+  "key": "estitor_504703",
+  "source": "estitor",
+  "listing_id": "504703",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-504703",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-504703"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 126,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:13.399769+00:00",
+  "images": [
+    "https://content.estitor.com/26a41ef0-6921-4395-bbe2-6d738b3c45e7-lg.webp",
+    "https://content.estitor.com/75261116-1496-49a8-8a6a-c51775c96a3f-lg.webp",
+    "https://content.estitor.com/3d4bde17-3b25-4d2f-92c8-59092739b137-lg.webp",
+    "https://content.estitor.com/04884107-8653-4a49-a737-7bd2b5550078-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Herceg Novi, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/504703"
+}

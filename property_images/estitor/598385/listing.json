@@ -1,0 +1,35 @@
+{
+  "key": "estitor_598385",
+  "source": "estitor",
+  "listing_id": "598385",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-598385",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-598385"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 95,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:48.854738+00:00",
+  "images": [
+    "https://content.estitor.com/3578da32-0e1a-4ec8-a33d-1d54031477d2-lg.webp",
+    "https://content.estitor.com/f89e1d98-28b7-48be-b154-380a57c447cc-lg.webp",
+    "https://content.estitor.com/7b5b9019-3cd7-4fcd-b448-cf80ae365ee3-lg.webp",
+    "https://content.estitor.com/abbc7bea-7786-4d85-a4e2-3e3d281af0f4-lg.webp",
+    "https://content.estitor.com/d264724b-e9fa-4c9d-8d63-2815a9073e16-lg.webp",
+    "https://content.estitor.com/7fb5e087-7776-4080-8761-eb0c9987ef3d-lg.webp",
+    "https://content.estitor.com/a716901c-d9e6-4ca8-ad1d-4b82135e5ef5-lg.webp",
+    "https://content.estitor.com/983e5df4-4fe0-4c8c-aa83-70f34188369d-lg.webp",
+    "https://content.estitor.com/6b3297f6-079c-4737-b554-6a1332a259d4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Topolica, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/598385"
+}

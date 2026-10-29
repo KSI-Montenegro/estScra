@@ -1,0 +1,31 @@
+{
+  "key": "estitor_607225",
+  "source": "estitor",
+  "listing_id": "607225",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607225",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607225"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 926,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:04.418782+00:00",
+  "images": [
+    "https://content.estitor.com/99e5f4c5-5e45-441a-b1a4-a0639a273a00-lg.webp",
+    "https://content.estitor.com/1f7e7fff-88c7-412b-9479-b5f741a770a3-lg.webp",
+    "https://content.estitor.com/15f114a7-abc2-4919-b419-b118ac9d3950-lg.webp",
+    "https://content.estitor.com/10931e6a-14fc-4b90-a9e1-344f12c1d8f2-lg.webp",
+    "https://content.estitor.com/3c5844fd-4735-428d-8b48-ef80911a7953-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 32m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/607225"
+}

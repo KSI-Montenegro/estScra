@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_75842",
+  "source": "patuljak",
+  "listing_id": "75842",
+  "listing_url": "https://patuljak.me/oglas/tivat-kalimanj-kuca-sa-prostranim-urbanizovanim-im--75842",
+  "listing_urls": [
+    "https://patuljak.me/oglas/tivat-kalimanj-kuca-sa-prostranim-urbanizovanim-im--75842"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 180,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:11.752547+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75842_1.webp"
+  ],
+  "status": "ok",
+  "title": "TIVAT, KALIMANJ  KUĆA SA PROSTRANIM URBANIZOVANIM IMANJEM",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75842"
+}

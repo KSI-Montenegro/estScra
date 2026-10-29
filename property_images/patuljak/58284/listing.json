@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_58284",
+  "source": "patuljak",
+  "listing_id": "58284",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan--58284",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan--58284"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 98,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:49.391913+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/58284"
+}

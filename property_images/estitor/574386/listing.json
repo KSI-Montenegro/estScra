@@ -1,0 +1,42 @@
+{
+  "key": "estitor_574386",
+  "source": "estitor",
+  "listing_id": "574386",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-574386",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-574386"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 925,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:02.855382+00:00",
+  "images": [
+    "https://content.estitor.com/738f92e3-cb56-471f-9a74-7a6898331a93-lg.webp",
+    "https://content.estitor.com/dcefeeb6-cf1f-4e31-afd2-45d63a226679-lg.webp",
+    "https://content.estitor.com/d408ca9b-9e5b-4bd7-8477-de663dab4d0a-lg.webp",
+    "https://content.estitor.com/6dcf1a84-8518-4c07-a781-62f750a3e827-lg.webp",
+    "https://content.estitor.com/0ea0f8f7-2c09-4519-b775-f91e9501f1a1-lg.webp",
+    "https://content.estitor.com/0e5e2182-b4ab-4b04-936a-3cd03162d9cc-lg.webp",
+    "https://content.estitor.com/d76c1b4c-d249-4a76-9701-e110d2d3ab6b-lg.webp",
+    "https://content.estitor.com/4c49c8d4-257e-4a6e-a747-0a2ed5805f3b-lg.webp",
+    "https://content.estitor.com/8a9dc308-466c-4962-aae0-8d27661f87b6-lg.webp",
+    "https://content.estitor.com/71dd09b1-72f8-480b-8b77-d834332133ca-lg.webp",
+    "https://content.estitor.com/c7b1ffef-b998-4400-96aa-7a1a24a95a44-lg.webp",
+    "https://content.estitor.com/2928ec16-6974-4db4-b822-c62ae79d60eb-lg.webp",
+    "https://content.estitor.com/ce4aa04f-76a6-436a-a8cc-6dc283bf44a0-lg.webp",
+    "https://content.estitor.com/ab48e7c0-9beb-4ada-984d-1a1441434dc1-lg.webp",
+    "https://content.estitor.com/835757ac-5e20-495d-9127-d6d8eb6d6cf3-lg.webp",
+    "https://content.estitor.com/e7c7e3b9-7c9f-46c6-b867-bfc9f2e5fcc3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², Dalmatinska ulica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/574386"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_77031",
+  "source": "patuljak",
+  "listing_id": "77031",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--77031",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--77031"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 69,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:06.925551+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77031_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77031_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77031_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77031"
+}

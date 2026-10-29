@@ -1,0 +1,32 @@
+{
+  "key": "estitor_607258",
+  "source": "estitor",
+  "listing_id": "607258",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607258",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-607258"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 713,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:39.021127+00:00",
+  "images": [
+    "https://content.estitor.com/bbca9b6d-be75-4090-9415-a4f55a5d6201-lg.webp",
+    "https://content.estitor.com/c29a3079-0ccf-4fe7-8af4-dd1c16ceba69-lg.webp",
+    "https://content.estitor.com/6993c5de-b8ee-4530-b53d-06d679681782-lg.webp",
+    "https://content.estitor.com/dd368874-2eeb-426a-acef-499b00218a58-lg.webp",
+    "https://content.estitor.com/704d9f85-6674-47cc-98b8-b280e322e708-lg.webp",
+    "https://content.estitor.com/8f9d3026-a0fd-4ce8-aa94-6352a3309e8c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 41m², Tološi, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/607258"
+}

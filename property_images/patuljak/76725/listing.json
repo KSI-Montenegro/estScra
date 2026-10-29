@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_76725",
+  "source": "patuljak",
+  "listing_id": "76725",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-poslovni-prostor--76725",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-poslovni-prostor--76725"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 991,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:37.916493+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76725_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76725"
+}

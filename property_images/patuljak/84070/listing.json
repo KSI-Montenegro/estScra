@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_84070",
+  "source": "patuljak",
+  "listing_id": "84070",
+  "listing_url": "https://patuljak.me/oglas/mijenjam-maserati-ferrari-engine-za-plac-u-kosicu--84070",
+  "listing_urls": [
+    "https://patuljak.me/oglas/mijenjam-maserati-ferrari-engine-za-plac-u-kosicu--84070"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 22,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:34.984796+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84070_0.webp"
+  ],
+  "status": "ok",
+  "title": "Mijenjam Maserati Ferrari engine za plac u Kosiću",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84070"
+}

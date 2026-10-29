@@ -1,0 +1,43 @@
+{
+  "key": "estitor_567013",
+  "source": "estitor",
+  "listing_id": "567013",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-567013",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-567013"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 701,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:33.171644+00:00",
+  "images": [
+    "https://content.estitor.com/ddd8728b-0df2-4d5e-8bfe-a13a6a5d40fa-lg.webp",
+    "https://content.estitor.com/1cdf73be-095d-4b86-9680-7ae0b66529be-lg.webp",
+    "https://content.estitor.com/89de1bcf-08b9-42d7-a16a-b551afe99a12-lg.webp",
+    "https://content.estitor.com/a5689bd1-1987-4bbd-8468-af5a220fc181-lg.webp",
+    "https://content.estitor.com/1fed3949-9240-4e12-bfa7-67ea6bd64578-lg.webp",
+    "https://content.estitor.com/2d2f5b01-96ec-41b0-a49c-3cf864179619-lg.webp",
+    "https://content.estitor.com/ee1c568b-49e1-401e-a7d1-64a50bb63dd1-lg.webp",
+    "https://content.estitor.com/e16bd0a3-d29e-493b-b796-53670772d25b-lg.webp",
+    "https://content.estitor.com/2dbc423f-d6d3-42b9-bb71-164ad7071d7a-lg.webp",
+    "https://content.estitor.com/e6af9c0c-2ec8-4c55-b160-9d29cc4ab867-lg.webp",
+    "https://content.estitor.com/3018b9a9-b270-4519-a3c4-535c7c6a0e76-lg.webp",
+    "https://content.estitor.com/37ef8f08-ab4d-4fdb-b860-513ab6c6a61d-lg.webp",
+    "https://content.estitor.com/2a8791d1-410d-40eb-8d74-6ba48d077917-lg.webp",
+    "https://content.estitor.com/83778b3e-912b-4f29-9b20-47883310ac1e-lg.webp",
+    "https://content.estitor.com/b10873bd-4a47-47c3-b4f4-eceb345b0928-lg.webp",
+    "https://content.estitor.com/e8368ab9-dc36-44cf-9fe6-6b60f0d2ae52-lg.webp",
+    "https://content.estitor.com/6103cf53-65a3-4055-a769-2af9c8634f4d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 262m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 17,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/567013"
+}

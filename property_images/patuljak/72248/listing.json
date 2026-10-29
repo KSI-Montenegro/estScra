@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_72248",
+  "source": "patuljak",
+  "listing_id": "72248",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosoban-stan-40m2-zabjelo-podgorica--72248",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosoban-stan-40m2-zabjelo-podgorica--72248"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 199,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:21.346915+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72248_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan 40m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72248"
+}

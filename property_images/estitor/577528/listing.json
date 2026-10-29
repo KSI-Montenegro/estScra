@@ -1,0 +1,28 @@
+{
+  "key": "estitor_577528",
+  "source": "estitor",
+  "listing_id": "577528",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-herceg-novi/id-577528",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-herceg-novi/id-577528"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 989,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:36.224267+00:00",
+  "images": [
+    "https://content.estitor.com/5c2042d4-df21-4bff-95a0-278dec12c4db-lg.webp",
+    "https://content.estitor.com/49dcc33c-fcc9-46a0-8d9c-5a73ffa66b90-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 15m², Sutorina, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/577528"
+}

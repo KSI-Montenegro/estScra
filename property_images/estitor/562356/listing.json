@@ -1,0 +1,33 @@
+{
+  "key": "estitor_562356",
+  "source": "estitor",
+  "listing_id": "562356",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562356",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562356"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 645,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:04.635500+00:00",
+  "images": [
+    "https://content.estitor.com/710b7d95-9ec4-4107-956c-58e4aca06b46-lg.webp",
+    "https://content.estitor.com/7318ee40-062e-4396-a881-234cbdf1012d-lg.webp",
+    "https://content.estitor.com/3091a8b7-cf5e-497e-b166-ea36626f20c4-lg.webp",
+    "https://content.estitor.com/8c2d485c-b8f5-4d03-be5f-37497415d221-lg.webp",
+    "https://content.estitor.com/b801840c-4ee3-4e21-8e22-0f9e448676de-lg.webp",
+    "https://content.estitor.com/63b78c85-766f-42ab-9c53-0720b9e82bde-lg.webp",
+    "https://content.estitor.com/f8a7c225-3bba-4d09-81d2-cf0701ac412c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 29m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/562356"
+}

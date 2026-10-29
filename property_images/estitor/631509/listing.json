@@ -1,0 +1,33 @@
+{
+  "key": "estitor_631509",
+  "source": "estitor",
+  "listing_id": "631509",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631509",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-631509"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 625,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:54.966783+00:00",
+  "images": [
+    "https://content.estitor.com/8dbcfbbf-cb26-47b5-a535-23e3b2c52bb5-lg.webp",
+    "https://content.estitor.com/667b8944-1281-44a6-8fab-a664d479ca33-lg.webp",
+    "https://content.estitor.com/60b61375-3ffc-4a3e-a65e-cbdf18f9e0ae-lg.webp",
+    "https://content.estitor.com/b1bb8d48-ad73-4531-b620-27043d9d3842-lg.webp",
+    "https://content.estitor.com/f4c26fe1-ac95-4caf-8999-b66c72b910d3-lg.webp",
+    "https://content.estitor.com/630e17e1-9920-4175-8ea9-02e4a08ce44a-lg.webp",
+    "https://content.estitor.com/09055f37-b023-4999-a1b7-79e77d79e95c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 90m², Kod Capital Plaze, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/631509"
+}

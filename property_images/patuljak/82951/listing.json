@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_82951",
+  "source": "patuljak",
+  "listing_id": "82951",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjestenu-garsonjeru-26-m2--82951",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjestenu-garsonjeru-26-m2--82951"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 142,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:51.042228+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82951_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namjestenu garsonjeru 26 m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82951"
+}

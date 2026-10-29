@@ -1,0 +1,49 @@
+{
+  "key": "patuljak_80046",
+  "source": "patuljak",
+  "listing_id": "80046",
+  "listing_url": "https://patuljak.me/oglas/nova-vila-170-m-sa-bazenom-velika-plaza-ulcinj--80046",
+  "listing_urls": [
+    "https://patuljak.me/oglas/nova-vila-170-m-sa-bazenom-velika-plaza-ulcinj--80046"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 61,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:04.501104+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_20.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_21.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80046_22.webp"
+  ],
+  "status": "ok",
+  "title": "Nova vila 170 m² sa bazenom, Velika Plaža, Ulcinj",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 23,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80046"
+}

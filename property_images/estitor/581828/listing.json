@@ -1,0 +1,31 @@
+{
+  "key": "estitor_581828",
+  "source": "estitor",
+  "listing_id": "581828",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581828",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581828"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 603,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:43.720570+00:00",
+  "images": [
+    "https://content.estitor.com/13d1f851-8d8f-4ef6-b52f-d1cd338be6d4-lg.webp",
+    "https://content.estitor.com/c0df1ba3-e001-49c1-8c94-e0fe6ed4d99f-lg.webp",
+    "https://content.estitor.com/44f8b48f-b048-4dd3-a09f-dc542173abdb-lg.webp",
+    "https://content.estitor.com/5e1b1913-9d2a-413c-bc74-86dbbf976205-lg.webp",
+    "https://content.estitor.com/04fc3b12-1bf8-4ae8-ab62-28729f941728-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 31m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581828"
+}

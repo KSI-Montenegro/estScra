@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_78338",
+  "source": "patuljak",
+  "listing_id": "78338",
+  "listing_url": "https://patuljak.me/oglas/zen-gardens-novogradnja-penthouse-191-m2-sa-teras--78338",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zen-gardens-novogradnja-penthouse-191-m2-sa-teras--78338"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 29,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:01.451980+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78338_9.webp"
+  ],
+  "status": "ok",
+  "title": "Zen Gardens - novogradnja, penthouse 191 m2 sa terasom, Tomba, Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78338"
+}

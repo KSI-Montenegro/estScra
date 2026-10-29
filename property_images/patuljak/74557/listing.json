@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_74557",
+  "source": "patuljak",
+  "listing_id": "74557",
+  "listing_url": "https://patuljak.me/oglas/stan-na-prodaju--74557",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-na-prodaju--74557"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 39,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:51.559779+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74557_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74557_1.webp"
+  ],
+  "status": "ok",
+  "title": "Stan na prodaju",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74557"
+}

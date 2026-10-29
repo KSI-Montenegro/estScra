@@ -1,0 +1,37 @@
+{
+  "key": "estitor_600807",
+  "source": "estitor",
+  "listing_id": "600807",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600807",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-600807"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 679,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:21.707679+00:00",
+  "images": [
+    "https://content.estitor.com/ddbe234d-2334-4ef7-b384-f44bdf723b6c-lg.webp",
+    "https://content.estitor.com/fb556994-c2aa-474d-8ae3-55f889e4c775-lg.webp",
+    "https://content.estitor.com/d73ba935-0361-40d5-acfc-f848080edb78-lg.webp",
+    "https://content.estitor.com/2c53d19e-171d-4af8-9d11-531471421fa7-lg.webp",
+    "https://content.estitor.com/abd03042-78d7-4cb0-a6f4-77e52df51424-lg.webp",
+    "https://content.estitor.com/e2467e51-d45c-42f9-8ca8-0b9eaef960e9-lg.webp",
+    "https://content.estitor.com/dd721144-372a-4a90-a051-681e972869dd-lg.webp",
+    "https://content.estitor.com/d58d9267-6edb-48a3-8f7b-d934e8fbcc3e-lg.webp",
+    "https://content.estitor.com/13c2e016-3aaf-40d3-9292-f9ab7a51085f-lg.webp",
+    "https://content.estitor.com/32dcc439-1b81-4f8a-830c-9bb6bb3f8c70-lg.webp",
+    "https://content.estitor.com/1afca362-7419-47e7-bcdc-14614b6037ca-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², New City, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/600807"
+}

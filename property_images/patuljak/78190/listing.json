@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_78190",
+  "source": "patuljak",
+  "listing_id": "78190",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-jednosobnog-stana-na-zabjelu-kod-novog-p--78190",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-jednosobnog-stana-na-zabjelu-kod-novog-p--78190"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 170,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:06.335444+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78190_5.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje jednosobnog stana na Zabjelu kod novog pješačkog mosta",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78190"
+}

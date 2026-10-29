@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_530238",
+  "source": "patuljak",
+  "listing_id": "530238",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-plac-308m2-stara-varos-podgorica--530238",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-plac-308m2-stara-varos-podgorica--530238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 30,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:40.625899+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2022/11/530238_3.webp"
+  ],
+  "status": "ok",
+  "title": "Za prodaju plac 308m2, Stara Varos, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/530238"
+}

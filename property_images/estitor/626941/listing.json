@@ -1,0 +1,35 @@
+{
+  "key": "estitor_626941",
+  "source": "estitor",
+  "listing_id": "626941",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-626941",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-626941"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 819,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:48.734505+00:00",
+  "images": [
+    "https://content.estitor.com/f29e3cdd-5e63-4c64-a1df-a48beec00324-lg.webp",
+    "https://content.estitor.com/29424ddb-9501-4303-9c4d-48f94f1fbf04-lg.webp",
+    "https://content.estitor.com/22e06757-2ead-4aee-b05f-e49efc2b5ed8-lg.webp",
+    "https://content.estitor.com/0d9601db-f19e-4869-a31d-9236d7d51a9c-lg.webp",
+    "https://content.estitor.com/d53b8747-5582-4e21-9e94-6f57a4d8b356-lg.webp",
+    "https://content.estitor.com/8b3c6f6f-10c9-4879-a31d-a66bf93bec74-lg.webp",
+    "https://content.estitor.com/cf4b4c63-e7fc-46eb-89c3-0f1ab0fc9779-lg.webp",
+    "https://content.estitor.com/cd075a15-8204-4fce-a325-0b115d8c8d74-lg.webp",
+    "https://content.estitor.com/e518c5bc-a69e-43fe-9695-11fc642b8a92-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 65m², Centar, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626941"
+}

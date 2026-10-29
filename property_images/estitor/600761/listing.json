@@ -1,0 +1,31 @@
+{
+  "key": "estitor_600761",
+  "source": "estitor",
+  "listing_id": "600761",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-600761",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-600761"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 848,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:07.978524+00:00",
+  "images": [
+    "https://content.estitor.com/9343ed1f-f9e7-4d25-bedd-1b55c358369c-lg.webp",
+    "https://content.estitor.com/fc0809ec-b42d-4e0d-ac4f-6914fc9b1e36-lg.webp",
+    "https://content.estitor.com/1055b3bd-e7af-4fb0-8734-5cd5987318cc-lg.webp",
+    "https://content.estitor.com/c0166880-aa08-4285-9a35-8698063da9db-lg.webp",
+    "https://content.estitor.com/8d6f4fe3-e65c-45af-8d8a-f324031650ec-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 43m², Rafailovići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/600761"
+}

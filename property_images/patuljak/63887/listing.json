@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_63887",
+  "source": "patuljak",
+  "listing_id": "63887",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-zemljiste-10000m-selo-duba-pluzine--63887",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-zemljiste-10000m-selo-duba-pluzine--63887"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 103,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:25.581739+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/63887_16.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju zemljište 10000m², selo Duba, Plužine",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/63887"
+}

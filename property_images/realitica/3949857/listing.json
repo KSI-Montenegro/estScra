@@ -1,0 +1,28 @@
+{
+  "key": "realitica_3949857",
+  "source": "realitica",
+  "listing_id": "3949857",
+  "listing_url": "https://www.realitica.com/hr/listing/3949857",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3949857"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 200,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:18.344536+00:00",
+  "images": [],
+  "status": "no_gallery_images",
+  "title": "Prodajem Zemljište, Cetinje",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 0,
+  "transport": "direct_https",
+  "errors": [
+    "target_http_403"
+  ],
+  "folder": "realitica/3949857",
+  "no_images_reason": "Returned property page has an empty photo gallery and empty og:image; no published image URLs were observed."
+}

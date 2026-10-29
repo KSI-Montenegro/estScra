@@ -1,0 +1,29 @@
+{
+  "key": "estitor_637733",
+  "source": "estitor",
+  "listing_id": "637733",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637733",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-637733"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 275,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:58.808036+00:00",
+  "images": [
+    "https://content.estitor.com/e5fc8c96-db3e-4e41-84f3-8a084b44cd12-lg.webp",
+    "https://content.estitor.com/e4b2c67e-ebe4-4706-8fd6-43296d4b86a7-lg.webp",
+    "https://content.estitor.com/4fe52aa4-18bd-4f53-931c-5223abf2705c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 49m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/637733"
+}

@@ -1,0 +1,31 @@
+{
+  "key": "estitor_625791",
+  "source": "estitor",
+  "listing_id": "625791",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-625791",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-625791"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 802,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:34.412609+00:00",
+  "images": [
+    "https://content.estitor.com/01dffa16-1b86-40b5-98c2-b3e43c028ea2-lg.webp",
+    "https://content.estitor.com/89fe0b97-2309-4f5d-8de8-d942d25e7ad4-lg.webp",
+    "https://content.estitor.com/78433152-e7e6-4366-8f1f-ecfe94a2599d-lg.webp",
+    "https://content.estitor.com/7fd09c42-b80c-4182-93d8-0372b7c551f7-lg.webp",
+    "https://content.estitor.com/bc25498e-2e29-47bf-9b03-92a2650ebdcc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 57m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/625791"
+}

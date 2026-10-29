@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_76796",
+  "source": "patuljak",
+  "listing_id": "76796",
+  "listing_url": "https://patuljak.me/oglas/duplex-stan-96-m2-u-centru-kolasina--76796",
+  "listing_urls": [
+    "https://patuljak.me/oglas/duplex-stan-96-m2-u-centru-kolasina--76796"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 501,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:53.639330+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76796_5.webp"
+  ],
+  "status": "ok",
+  "title": "Duplex stan 96 m2 u centru Kolašina",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76796"
+}

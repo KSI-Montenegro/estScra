@@ -1,0 +1,29 @@
+{
+  "key": "estitor_579255",
+  "source": "estitor",
+  "listing_id": "579255",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-579255",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-579255"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 153,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:51.716098+00:00",
+  "images": [
+    "https://content.estitor.com/575c1280-c698-4aaa-bdd5-5bdc29c875d4-lg.webp",
+    "https://content.estitor.com/1f514b9a-870a-44f7-81c9-6a97068d8f63-lg.webp",
+    "https://content.estitor.com/af70ca13-2b52-4981-8816-1e0ae4aa5861-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 29m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/579255"
+}

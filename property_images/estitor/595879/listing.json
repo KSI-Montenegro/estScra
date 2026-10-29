@@ -1,0 +1,29 @@
+{
+  "key": "estitor_595879",
+  "source": "estitor",
+  "listing_id": "595879",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-tivat/id-595879",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-tivat/id-595879"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 978,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:30.990521+00:00",
+  "images": [
+    "https://content.estitor.com/bbddaa9c-de6b-4bee-8e35-3938354278e2-lg.webp",
+    "https://content.estitor.com/b788b6a8-5864-4168-bc67-3e51c558f745-lg.webp",
+    "https://content.estitor.com/aa20da3c-937b-4b75-80a4-7f9e2bc0754b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 600m², Tivat, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595879"
+}

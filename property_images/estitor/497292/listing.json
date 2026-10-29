@@ -1,0 +1,34 @@
+{
+  "key": "estitor_497292",
+  "source": "estitor",
+  "listing_id": "497292",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-497292",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-497292"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 590,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:37.469327+00:00",
+  "images": [
+    "https://content.estitor.com/afc223fa-15c8-4192-92b8-2f6b6b76d4ea-lg.webp",
+    "https://content.estitor.com/ab02d62c-1bed-4976-8713-c184042db34d-lg.webp",
+    "https://content.estitor.com/10742a4d-82bc-472b-9faa-53bf3abcc7f1-lg.webp",
+    "https://content.estitor.com/2463289e-9b7c-4fe1-9b4a-935d33383cf3-lg.webp",
+    "https://content.estitor.com/1818202a-bca3-4810-b8fa-070f930ab299-lg.webp",
+    "https://content.estitor.com/af4d286c-d04f-41b8-99b2-fd1dad60ac23-lg.webp",
+    "https://content.estitor.com/f09ece1e-2acb-4c58-995e-384218d83bf7-lg.webp",
+    "https://content.estitor.com/cfcf2e00-b172-453c-8022-93fc900bd10f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 28m², Tuški Put, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/497292"
+}

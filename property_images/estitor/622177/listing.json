@@ -1,0 +1,28 @@
+{
+  "key": "estitor_622177",
+  "source": "estitor",
+  "listing_id": "622177",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622177",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-622177"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 361,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:41.719732+00:00",
+  "images": [
+    "https://content.estitor.com/40b01ea4-5b32-4d85-89b7-242f948bafc0-lg.webp",
+    "https://content.estitor.com/d4e9dd9b-b448-467a-925b-bfa668c963a1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/622177"
+}

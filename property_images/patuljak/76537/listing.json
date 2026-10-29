@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_76537",
+  "source": "patuljak",
+  "listing_id": "76537",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-baru--76537",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-u-baru--76537"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 45,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:12.370741+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/76537"
+}

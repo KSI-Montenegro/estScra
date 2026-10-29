@@ -1,0 +1,34 @@
+{
+  "key": "estitor_327434",
+  "source": "estitor",
+  "listing_id": "327434",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-327434",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-327434"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 922,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:59.898875+00:00",
+  "images": [
+    "https://content.estitor.com/dfbd71dc-2716-490a-8c5c-510934af440d-lg.webp",
+    "https://content.estitor.com/cfca6e2e-7ded-4400-a167-83b04565416b-lg.webp",
+    "https://content.estitor.com/de1916eb-52dc-48fb-bc22-94e98b1ff849-lg.webp",
+    "https://content.estitor.com/49aec4bc-a7d5-457e-8fba-46c25e31d363-lg.webp",
+    "https://content.estitor.com/82db6753-1aff-494a-a0dc-396ab6901e6c-lg.webp",
+    "https://content.estitor.com/7d2daebe-d1be-4546-b129-596f5d11fa59-lg.webp",
+    "https://content.estitor.com/2377c405-c84f-4262-b56d-51e5b6bd64c6-lg.webp",
+    "https://content.estitor.com/95beef35-4aa3-44c8-949b-a45e5ce079f9-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 400m², Donja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/327434"
+}

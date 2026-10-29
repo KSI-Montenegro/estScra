@@ -1,0 +1,35 @@
+{
+  "key": "estitor_616405",
+  "source": "estitor",
+  "listing_id": "616405",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-616405",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-616405"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 780,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:19.261156+00:00",
+  "images": [
+    "https://content.estitor.com/ace6bdcb-d85a-4822-97a6-4dd7df4a8bb4-lg.webp",
+    "https://content.estitor.com/1c642d70-3441-487e-9f78-6e36d3bee961-lg.webp",
+    "https://content.estitor.com/79c46db3-1c2e-4c7b-992e-73366be8d38a-lg.webp",
+    "https://content.estitor.com/5307077a-6f5b-4f8e-bce6-4f5af2130710-lg.webp",
+    "https://content.estitor.com/a0bd1446-bddb-4b04-bf2c-138b9713b14b-lg.webp",
+    "https://content.estitor.com/c72265f2-b015-4926-b376-3bdfb660c5f9-lg.webp",
+    "https://content.estitor.com/f7047f2a-851e-4163-8b70-8196bd4cf828-lg.webp",
+    "https://content.estitor.com/856f47a5-3181-4db3-bb4d-2d7d8a9e0856-lg.webp",
+    "https://content.estitor.com/edc053b2-1d1b-434a-be02-3658ac5d7876-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 29m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/616405"
+}

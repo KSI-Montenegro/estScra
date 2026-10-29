@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_84577",
+  "source": "patuljak",
+  "listing_id": "84577",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-54-m2-ljubovic-podgorica--84577",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-54-m2-ljubovic-podgorica--84577"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 131,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:42.447797+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84577_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84577_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84577_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84577_3.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 54 m2, Ljubović, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84577"
+}

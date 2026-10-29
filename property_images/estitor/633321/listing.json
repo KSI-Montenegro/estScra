@@ -1,0 +1,24 @@
+{
+  "key": "estitor_633321",
+  "source": "estitor",
+  "listing_id": "633321",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633321",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633321"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 10,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:22.327628+00:00",
+  "images": [],
+  "status": "unavailable",
+  "http_status": 404,
+  "errors": [
+    "direct_http_404"
+  ],
+  "folder": "estitor/633321"
+}

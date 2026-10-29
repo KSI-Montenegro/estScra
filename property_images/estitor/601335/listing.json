@@ -1,0 +1,29 @@
+{
+  "key": "estitor_601335",
+  "source": "estitor",
+  "listing_id": "601335",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601335",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601335"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 848,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:08.468088+00:00",
+  "images": [
+    "https://content.estitor.com/86807f36-0df5-4d66-a9d5-93bebcca67b8-lg.webp",
+    "https://content.estitor.com/d8e34b4f-d32a-4c73-8928-5ece38345336-lg.webp",
+    "https://content.estitor.com/86ebb2eb-8a79-488f-9059-c83ea34960eb-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 20m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601335"
+}

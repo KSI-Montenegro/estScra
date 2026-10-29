@@ -1,0 +1,30 @@
+{
+  "key": "estitor_599765",
+  "source": "estitor",
+  "listing_id": "599765",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-599765",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-599765"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 196,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:16.249742+00:00",
+  "images": [
+    "https://content.estitor.com/43b69e34-e645-4c04-b81f-b8bc5e0dca16-lg.webp",
+    "https://content.estitor.com/06a30340-dcfa-4253-b9ee-e533e448b58f-lg.webp",
+    "https://content.estitor.com/3ca72f0f-8154-4141-bc3d-490ec53d5c83-lg.webp",
+    "https://content.estitor.com/502a1fb4-3dde-4911-9cbc-d15568760127-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 200m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/599765"
+}

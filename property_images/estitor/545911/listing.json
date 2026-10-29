@@ -1,0 +1,30 @@
+{
+  "key": "estitor_545911",
+  "source": "estitor",
+  "listing_id": "545911",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-545911",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-545911"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 5,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:20.452886+00:00",
+  "images": [
+    "https://content.estitor.com/60c471b1-b688-4985-8cc3-6a85a39af863-lg.webp",
+    "https://content.estitor.com/64371ec8-f2e9-45ce-9508-fffcce0aee43-lg.webp",
+    "https://content.estitor.com/35b00e03-c443-4813-86a3-231f3584176a-lg.webp",
+    "https://content.estitor.com/95179fce-22d2-4400-b8e9-858627fea3fe-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 90m², Centar, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/545911"
+}

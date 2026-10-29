@@ -1,0 +1,37 @@
+{
+  "key": "estitor_638601",
+  "source": "estitor",
+  "listing_id": "638601",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-638601",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-tivat/id-638601"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 113,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:00.998184+00:00",
+  "images": [
+    "https://content.estitor.com/39d9f2ce-eabb-4f11-bda9-99f4c5700773-lg.webp",
+    "https://content.estitor.com/5a1f8f42-bfd7-40e1-9cb7-6e99f89f2802-lg.webp",
+    "https://content.estitor.com/4d7ce7a3-d53e-43eb-aa1b-a3e36aefad59-lg.webp",
+    "https://content.estitor.com/88ec0392-375e-4743-a76a-6b22a3ee61a9-lg.webp",
+    "https://content.estitor.com/2657a2ac-2c6e-4d4c-bb04-21e93d7952f6-lg.webp",
+    "https://content.estitor.com/0112c906-2ecf-499b-bcff-075875e3e511-lg.webp",
+    "https://content.estitor.com/0583398b-b352-428e-9dc8-022b660c7c0b-lg.webp",
+    "https://content.estitor.com/6e185106-09b5-49f4-9c57-e528a5320b69-lg.webp",
+    "https://content.estitor.com/12412fe6-c5c5-4e03-96f3-d41712468cf5-lg.webp",
+    "https://content.estitor.com/f53c0568-1657-4159-a230-f72df250736c-lg.webp",
+    "https://content.estitor.com/cd6ee346-82c7-444b-b7ee-e3959696c350-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 50m², Mrčevac, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638601"
+}

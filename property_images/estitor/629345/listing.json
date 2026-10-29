@@ -1,0 +1,30 @@
+{
+  "key": "estitor_629345",
+  "source": "estitor",
+  "listing_id": "629345",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-629345",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-629345"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 78,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:14.088673+00:00",
+  "images": [
+    "https://content.estitor.com/1dd283f1-3d5e-4ca3-b2f4-fef96fde8541-lg.webp",
+    "https://content.estitor.com/84c0ec34-d410-4363-b23d-5ad938e136e5-lg.webp",
+    "https://content.estitor.com/579633cd-cb39-49d4-bda2-4e3b2a4a02cf-lg.webp",
+    "https://content.estitor.com/062fff36-1a08-4126-9138-6269d7cc13c2-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "saved_html_cache",
+  "errors": [],
+  "folder": "estitor/629345"
+}

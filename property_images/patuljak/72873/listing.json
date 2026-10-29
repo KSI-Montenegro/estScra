@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_72873",
+  "source": "patuljak",
+  "listing_id": "72873",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-40m2-stari-aerodrom-podgor--72873",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-40m2-stari-aerodrom-podgor--72873"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 899,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:43.407142+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72873_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 40m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72873"
+}

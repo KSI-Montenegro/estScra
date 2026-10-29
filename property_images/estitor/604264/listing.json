@@ -1,0 +1,35 @@
+{
+  "key": "estitor_604264",
+  "source": "estitor",
+  "listing_id": "604264",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-604264",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-604264"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 129,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:17.216050+00:00",
+  "images": [
+    "https://content.estitor.com/500ba365-f3f7-4e6b-9733-ab93fab7e17e-lg.webp",
+    "https://content.estitor.com/f5f07a7a-861a-4bf4-80de-05aabfe2b27e-lg.webp",
+    "https://content.estitor.com/d97f6d1f-f58b-4c55-8e4d-1d1693bdd4e5-lg.webp",
+    "https://content.estitor.com/47e34ccc-3d85-4cbb-b27a-b46593f5eeec-lg.webp",
+    "https://content.estitor.com/a515631a-4fe8-46e3-8c7d-af87f56fd102-lg.webp",
+    "https://content.estitor.com/db6c508e-15c4-498a-a386-ec9d2df82527-lg.webp",
+    "https://content.estitor.com/73325796-27b6-461a-91de-962b7745467c-lg.webp",
+    "https://content.estitor.com/36dc89b4-4b68-40a2-8bfa-2f81da0856f7-lg.webp",
+    "https://content.estitor.com/72137ec7-b7a9-4144-8a3d-98820179c4e5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 70m², Prčanj, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604264"
+}

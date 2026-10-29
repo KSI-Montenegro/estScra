@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_85127",
+  "source": "patuljak",
+  "listing_id": "85127",
+  "listing_url": "https://patuljak.me/oglas/stari-bar--85127",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stari-bar--85127"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 849,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:09.382536+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85127_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/85127_1.webp"
+  ],
+  "status": "ok",
+  "title": "Stari Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/85127"
+}

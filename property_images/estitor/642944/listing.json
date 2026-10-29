@@ -1,0 +1,30 @@
+{
+  "key": "estitor_642944",
+  "source": "estitor",
+  "listing_id": "642944",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-mojkovac/id-642944",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-mojkovac/id-642944"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 133,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:43.155686+00:00",
+  "images": [
+    "https://content.estitor.com/2c7b095d-a97f-46ab-908a-44cc7050b076-lg.webp",
+    "https://content.estitor.com/66a1a4ed-a962-4fec-85c4-819a86f3a608-lg.webp",
+    "https://content.estitor.com/d12ec98c-4fc4-4168-8409-092d7f149578-lg.webp",
+    "https://content.estitor.com/14e91ea3-13ae-4b0f-a6ca-536f08024ea3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 24m², Centar, Mojkovac | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642944"
+}

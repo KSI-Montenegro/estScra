@@ -1,0 +1,36 @@
+{
+  "key": "estitor_590497",
+  "source": "estitor",
+  "listing_id": "590497",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590497",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-590497"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 897,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:41.377112+00:00",
+  "images": [
+    "https://content.estitor.com/7072e416-48bc-44f7-95b5-f9b94d746556-lg.webp",
+    "https://content.estitor.com/72b515bc-ea15-48c1-af64-5ebd805c801e-lg.webp",
+    "https://content.estitor.com/18f2d751-34a1-472e-84a4-2dfe06bee7c6-lg.webp",
+    "https://content.estitor.com/404e59c8-8574-4a43-9cc3-d90c6f930762-lg.webp",
+    "https://content.estitor.com/8d5b011d-2bd0-4373-b9e1-004c0eab1171-lg.webp",
+    "https://content.estitor.com/b4ed9aa3-85f0-45b5-b01e-8cb4d1808f0a-lg.webp",
+    "https://content.estitor.com/3a0d8afc-7fee-46ac-9bcb-6645bc198482-lg.webp",
+    "https://content.estitor.com/616b88f7-5efe-40e4-8a2e-fbc6c7e4476d-lg.webp",
+    "https://content.estitor.com/14765abd-8aef-4c6b-9e55-6d6ff7cf73af-lg.webp",
+    "https://content.estitor.com/dbcc6511-d155-47c5-a823-6d65f0d2cc29-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 60m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/590497"
+}

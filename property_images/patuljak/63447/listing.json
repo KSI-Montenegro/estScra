@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_63447",
+  "source": "patuljak",
+  "listing_id": "63447",
+  "listing_url": "https://patuljak.me/oglas/prodajem-renoviranu-i-namjestenu-garsonjeru-30m2-g--63447",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-renoviranu-i-namjestenu-garsonjeru-30m2-g--63447"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 97,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:49.251667+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/63447"
+}

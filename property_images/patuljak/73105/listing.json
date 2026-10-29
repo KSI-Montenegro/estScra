@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_73105",
+  "source": "patuljak",
+  "listing_id": "73105",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stanna-duze-vrijemest--73105",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stanna-duze-vrijemest--73105"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 537,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:15.260834+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73105_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban namjesten stan,na duze vrijeme.Stan je slobodan od septembra.",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73105"
+}

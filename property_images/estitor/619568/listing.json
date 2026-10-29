@@ -1,0 +1,36 @@
+{
+  "key": "estitor_619568",
+  "source": "estitor",
+  "listing_id": "619568",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-619568",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-619568"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 918,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:55.585173+00:00",
+  "images": [
+    "https://content.estitor.com/88164edf-9a06-47c2-a431-05c3d3ae3043-lg.webp",
+    "https://content.estitor.com/6d9c7fda-6328-45e5-afe0-2ec2948cdeb2-lg.webp",
+    "https://content.estitor.com/d08a49b9-6cee-48ae-925f-c84ad7764300-lg.webp",
+    "https://content.estitor.com/ccee74c5-27e5-45e5-aa0b-cc79e0aee72f-lg.webp",
+    "https://content.estitor.com/9be2f15c-14a9-44fa-937e-d6cb27831038-lg.webp",
+    "https://content.estitor.com/6514f94c-8e49-4289-9355-b35a394b2abd-lg.webp",
+    "https://content.estitor.com/e8b09f2a-a765-4b25-8f2e-2a3bafcd318d-lg.webp",
+    "https://content.estitor.com/0e594b91-5f74-4308-9480-72a8315aa7ed-lg.webp",
+    "https://content.estitor.com/07d10c82-bab7-445a-9962-575113ea6f39-lg.webp",
+    "https://content.estitor.com/7eb5bb94-e4ff-4e3f-8022-185cf8fc3112-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/619568"
+}

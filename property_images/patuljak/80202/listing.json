@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_80202",
+  "source": "patuljak",
+  "listing_id": "80202",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-namjesten-stan--80202",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-namjesten-stan--80202"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 460,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:32.199049+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80202_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80202_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80202_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem dvosoban namjesten stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80202"
+}

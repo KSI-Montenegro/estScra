@@ -1,0 +1,36 @@
+{
+  "key": "estitor_546133",
+  "source": "estitor",
+  "listing_id": "546133",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-546133",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-546133"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 675,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:19.939625+00:00",
+  "images": [
+    "https://content.estitor.com/c2cd33c9-52ef-4b6c-8f04-36cd66d6d38d-lg.webp",
+    "https://content.estitor.com/84a532b3-a3d4-4e96-b548-d4919aa1c1b8-lg.webp",
+    "https://content.estitor.com/42c20eaa-e160-45ed-9922-98d54b348461-lg.webp",
+    "https://content.estitor.com/4c9ae5ee-7c05-4370-998b-b7f8528df0fc-lg.webp",
+    "https://content.estitor.com/035b6228-6abb-4636-a0e7-295ddb5834bb-lg.webp",
+    "https://content.estitor.com/37b983c3-cb9c-4e56-b35e-6e426b34fd5d-lg.webp",
+    "https://content.estitor.com/848d7a48-4b34-4211-bd48-1b259a8e119c-lg.webp",
+    "https://content.estitor.com/e9cf22ae-f927-4519-b229-d0de15241d47-lg.webp",
+    "https://content.estitor.com/0608aef1-712b-4fbf-bca1-489920ac5f55-lg.webp",
+    "https://content.estitor.com/527ea2a9-bc3c-4b81-a18b-9f7c6ad4ed2f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Gornja Gorica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/546133"
+}

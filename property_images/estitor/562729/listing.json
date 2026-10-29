@@ -1,0 +1,32 @@
+{
+  "key": "estitor_562729",
+  "source": "estitor",
+  "listing_id": "562729",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562729",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-562729"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 672,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:18.532251+00:00",
+  "images": [
+    "https://content.estitor.com/c6070264-b487-418a-bb59-19881b642522-lg.webp",
+    "https://content.estitor.com/f6c4ca18-86bd-492d-b300-d2104c54ad3c-lg.webp",
+    "https://content.estitor.com/db0b22d3-4f28-4f47-a261-0febabd18353-lg.webp",
+    "https://content.estitor.com/be6e1beb-b0da-4e32-81ca-7cd76a517e12-lg.webp",
+    "https://content.estitor.com/a121a45b-7f3a-41d9-a12e-2ccd367d3578-lg.webp",
+    "https://content.estitor.com/d4c5efb3-86d1-4fba-ad0c-f702959e130f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 58m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/562729"
+}

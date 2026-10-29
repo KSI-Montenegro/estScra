@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_82772",
+  "source": "patuljak",
+  "listing_id": "82772",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-u-kuci-dalmatinska-blizu-bazara--82772",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-u-kuci-dalmatinska-blizu-bazara--82772"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 440,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:19.890249+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/82772"
+}

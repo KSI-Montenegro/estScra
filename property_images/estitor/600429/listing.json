@@ -1,0 +1,36 @@
+{
+  "key": "estitor_600429",
+  "source": "estitor",
+  "listing_id": "600429",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-600429",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-600429"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 104,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:53.353148+00:00",
+  "images": [
+    "https://content.estitor.com/e2bf468b-5339-41d5-849e-ddf5c71f6319-lg.webp",
+    "https://content.estitor.com/d7330719-f298-401c-a21a-691700931ab1-lg.webp",
+    "https://content.estitor.com/58e9936a-d42c-4754-be07-e5d2176a7d51-lg.webp",
+    "https://content.estitor.com/b861b64f-a255-4622-bb03-52ab2786856f-lg.webp",
+    "https://content.estitor.com/6e062d21-3fb0-453d-a73a-50f3275b34b9-lg.webp",
+    "https://content.estitor.com/04654ffb-50cd-48fb-b8ce-c7fa3f1e181b-lg.webp",
+    "https://content.estitor.com/42664d3a-1320-4966-b38a-923063b63f68-lg.webp",
+    "https://content.estitor.com/e77685b5-9933-452e-93b9-58b058dc14ef-lg.webp",
+    "https://content.estitor.com/c1389b0b-a340-4fcc-a50e-33150894dae8-lg.webp",
+    "https://content.estitor.com/dbf3dc65-b574-4ce4-9bd8-d9562a3bfb47-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², Meljine, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/600429"
+}

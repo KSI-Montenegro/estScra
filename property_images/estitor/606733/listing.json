@@ -1,0 +1,35 @@
+{
+  "key": "estitor_606733",
+  "source": "estitor",
+  "listing_id": "606733",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-606733",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-606733"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 67,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:06.784098+00:00",
+  "images": [
+    "https://content.estitor.com/d3af860a-3c17-45c4-abf6-49f06c3ca9ca-lg.webp",
+    "https://content.estitor.com/b951727d-6781-43fc-9d53-4acd587eff96-lg.webp",
+    "https://content.estitor.com/c2522b84-7035-44e5-accf-b9e23e87f991-lg.webp",
+    "https://content.estitor.com/3f663a89-470c-41ed-881d-1b315f0a40e1-lg.webp",
+    "https://content.estitor.com/13e17da8-94e3-4400-830c-e0acde950207-lg.webp",
+    "https://content.estitor.com/52df910e-133a-4c7e-8627-99b0c3bfcc4d-lg.webp",
+    "https://content.estitor.com/76b07ba2-7e3d-4322-bf9f-e95149171b2b-lg.webp",
+    "https://content.estitor.com/7d36eb65-a7bb-4dad-8973-cb263b2a1b0d-lg.webp",
+    "https://content.estitor.com/05681183-37a8-41f4-8262-3453d5496e62-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 30m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606733"
+}

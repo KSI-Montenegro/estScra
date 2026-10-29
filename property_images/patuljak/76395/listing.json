@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_76395",
+  "source": "patuljak",
+  "listing_id": "76395",
+  "listing_url": "https://patuljak.me/oglas/izdavanje--76395",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje--76395"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 941,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:10.204705+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76395_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76395"
+}

@@ -1,0 +1,32 @@
+{
+  "key": "estitor_635194",
+  "source": "estitor",
+  "listing_id": "635194",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-635194",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-635194"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 24,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:37.398579+00:00",
+  "images": [
+    "https://content.estitor.com/5390a6a2-cc0d-42fc-9dfc-a33a47aaf655-lg.webp",
+    "https://content.estitor.com/93fd7aec-87b9-432a-9f77-d4f06a621ebe-lg.webp",
+    "https://content.estitor.com/dcb99147-e06b-474c-97d7-54e2a1f3aca1-lg.webp",
+    "https://content.estitor.com/1cc9e62c-e2b2-4870-b8e5-7b991097ac58-lg.webp",
+    "https://content.estitor.com/31dec21f-5ea9-4999-be9d-abeeab89e622-lg.webp",
+    "https://content.estitor.com/c64bcab3-df1e-4dc9-bf6e-09756a970e75-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 46m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/635194"
+}

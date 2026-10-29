@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_84011",
+  "source": "patuljak",
+  "listing_id": "84011",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-43-m2-preko-morace--84011",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-43-m2-preko-morace--84011"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 22,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:54.738165+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84011_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, Jednosoban stan 43 m2, Preko Morače.",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84011"
+}

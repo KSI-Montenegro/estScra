@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_75520",
+  "source": "patuljak",
+  "listing_id": "75520",
+  "listing_url": "https://patuljak.me/oglas/studio-apartman-2678m-2-sprat-montenegrina-resid--75520",
+  "listing_urls": [
+    "https://patuljak.me/oglas/studio-apartman-2678m-2-sprat-montenegrina-resid--75520"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 32,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:05.729502+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75520_2.webp"
+  ],
+  "status": "ok",
+  "title": "Studio apartman - 26,78m - 2. sprat -Montenegrina Residence",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75520"
+}

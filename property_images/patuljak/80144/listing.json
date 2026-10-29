@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_80144",
+  "source": "patuljak",
+  "listing_id": "80144",
+  "listing_url": "https://patuljak.me/oglas/povoljno-atraktivno-zemljiste--80144",
+  "listing_urls": [
+    "https://patuljak.me/oglas/povoljno-atraktivno-zemljiste--80144"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 43,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:48.527453+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80144_2.webp"
+  ],
+  "status": "ok",
+  "title": "POVOLJNO atraktivno zemljište",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80144"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_83874",
+  "source": "patuljak",
+  "listing_id": "83874",
+  "listing_url": "https://patuljak.me/oglas/kupujem-nenamjesten-jednosoban-stan-lokacija-tuski--83874",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-nenamjesten-jednosoban-stan-lokacija-tuski--83874"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 433,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:15.581206+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/83874"
+}

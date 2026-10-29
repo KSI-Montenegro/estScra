@@ -1,0 +1,26 @@
+{
+  "key": "realitica_3948696",
+  "source": "realitica",
+  "listing_id": "3948696",
+  "listing_url": "https://www.realitica.com/hr/listing/3948696",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948696"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 132,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:18.691191+00:00",
+  "images": [],
+  "status": "no_gallery_images",
+  "title": "Prodajem Stan-Apartman, Gospoština",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 0,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3948696",
+  "no_images_reason": "Returned property page has an empty photo gallery and empty og:image; no published image URLs were observed."
+}

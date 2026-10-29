@@ -1,0 +1,42 @@
+{
+  "key": "estitor_639823",
+  "source": "estitor",
+  "listing_id": "639823",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639823",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639823"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 109,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:57.943742+00:00",
+  "images": [
+    "https://content.estitor.com/b8829dd2-c468-4d45-a8c5-142589a9b013-lg.webp",
+    "https://content.estitor.com/2ea76bc9-4576-4325-b172-a0cc3b14b833-lg.webp",
+    "https://content.estitor.com/ae50aaef-5f68-46c7-91f0-e1b1118d9eb1-lg.webp",
+    "https://content.estitor.com/0015c128-34b6-4595-a736-0584abd273fb-lg.webp",
+    "https://content.estitor.com/73ec314d-3336-4e34-9ceb-a3e00a344074-lg.webp",
+    "https://content.estitor.com/0faaff41-ce26-49c1-89fe-6737c106e99e-lg.webp",
+    "https://content.estitor.com/5e5bae55-e9a4-44b0-9c86-48928764a801-lg.webp",
+    "https://content.estitor.com/ec9c21dc-07a6-426e-bab2-4e2d8f1bdbd9-lg.webp",
+    "https://content.estitor.com/a35a500c-8d62-4ba4-b03d-be174cfe73c0-lg.webp",
+    "https://content.estitor.com/605e5860-ed67-4b27-8eb9-7f70dba00aa1-lg.webp",
+    "https://content.estitor.com/b81b8f40-b1a8-46ed-981d-0e6232e7ba90-lg.webp",
+    "https://content.estitor.com/87980eb5-fded-4388-953b-3a6a48f811f1-lg.webp",
+    "https://content.estitor.com/d3ceebeb-54b3-4597-96cf-4d6520915e34-lg.webp",
+    "https://content.estitor.com/cd205a91-7d66-44f3-96da-0f3c903f8bad-lg.webp",
+    "https://content.estitor.com/78c19690-f68f-41ec-b13b-5e529ba24d51-lg.webp",
+    "https://content.estitor.com/50dc8df6-8c43-4e5f-914d-bd8209f1d40f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 37m², Zavala, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639823"
+}

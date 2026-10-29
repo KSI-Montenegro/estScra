@@ -1,0 +1,29 @@
+{
+  "key": "estitor_638533",
+  "source": "estitor",
+  "listing_id": "638533",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638533",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-podgorica/id-638533"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 80,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:52.975949+00:00",
+  "images": [
+    "https://content.estitor.com/8e6218d2-8dc2-43fc-83e7-ce78ef97befb-lg.webp",
+    "https://content.estitor.com/d4adc464-d0e5-4381-8d89-7862d045eeb5-lg.webp",
+    "https://content.estitor.com/350f6196-e7f4-47ca-a719-f7e472a5d3c3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 4500m², Lijeva Rijeka, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638533"
+}

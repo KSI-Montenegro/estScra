@@ -1,0 +1,30 @@
+{
+  "key": "estitor_638580",
+  "source": "estitor",
+  "listing_id": "638580",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638580",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638580"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 598,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:41.407520+00:00",
+  "images": [
+    "https://content.estitor.com/9b16c86d-6271-4824-84ec-11104c533c10-lg.webp",
+    "https://content.estitor.com/492f148b-4388-4d0d-915b-65da44966899-lg.webp",
+    "https://content.estitor.com/dcb2cf65-fd37-4ebb-a6f9-979b3e2e663f-lg.webp",
+    "https://content.estitor.com/7b5b22a1-f36e-4f64-81bb-4d81209e2add-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 67m², Centar, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638580"
+}

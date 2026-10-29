@@ -1,0 +1,28 @@
+{
+  "key": "estitor_628475",
+  "source": "estitor",
+  "listing_id": "628475",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-628475",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-628475"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 327,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:24.942801+00:00",
+  "images": [
+    "https://content.estitor.com/a1755396-43b6-451f-a9c1-128a51563069-lg.webp",
+    "https://content.estitor.com/cde4f979-9f54-47f2-b83e-72eec20fdcc7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 37m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/628475"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_82427",
+  "source": "patuljak",
+  "listing_id": "82427",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-stan-u-ulivana-vujosevica--82427",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-stan-u-ulivana-vujosevica--82427"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 861,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:16.093021+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/82427"
+}

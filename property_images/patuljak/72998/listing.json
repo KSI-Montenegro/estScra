@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_72998",
+  "source": "patuljak",
+  "listing_id": "72998",
+  "listing_url": "https://patuljak.me/oglas/plac-na-prodaju-9569-m2-moze-u-parcelama--72998",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-na-prodaju-9569-m2-moze-u-parcelama--72998"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 100,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:22.799899+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72998_2.webp"
+  ],
+  "status": "ok",
+  "title": "Plac na prodaju 9569 m2 (moze u parcelama)",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72998"
+}

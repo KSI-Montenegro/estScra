@@ -1,0 +1,34 @@
+{
+  "key": "estitor_530119",
+  "source": "estitor",
+  "listing_id": "530119",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-530119",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-530119"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 840,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:03.027302+00:00",
+  "images": [
+    "https://content.estitor.com/397225a9-ba97-42e5-9769-53ba9605ba81-lg.webp",
+    "https://content.estitor.com/c251da0e-19c0-46a6-aefd-e386f124409e-lg.webp",
+    "https://content.estitor.com/00ecb903-bda6-4a96-b4d5-c5b38cd158d9-lg.webp",
+    "https://content.estitor.com/6fc84c62-8072-4235-ad3f-f6da259d3a48-lg.webp",
+    "https://content.estitor.com/b7cfbc03-e147-4afe-9c11-f83e2ecb3554-lg.webp",
+    "https://content.estitor.com/e995e266-a436-491e-a551-a882cc6e6c6b-lg.webp",
+    "https://content.estitor.com/888fa742-7c0e-4ce0-a613-46c2904dc330-lg.webp",
+    "https://content.estitor.com/58994401-6019-4ac0-be97-06658bbe5535-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 89m², Rozino, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/530119"
+}

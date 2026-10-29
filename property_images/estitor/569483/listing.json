@@ -1,0 +1,37 @@
+{
+  "key": "estitor_569483",
+  "source": "estitor",
+  "listing_id": "569483",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-569483",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-569483"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 816,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:46.237809+00:00",
+  "images": [
+    "https://content.estitor.com/4ebde381-65fa-48e4-9834-6ad8a2bf8303-lg.webp",
+    "https://content.estitor.com/ec53ca6a-ec23-4a09-bdb9-884fd0fa5425-lg.webp",
+    "https://content.estitor.com/9d5c52c2-5101-44ab-928f-b010493058db-lg.webp",
+    "https://content.estitor.com/c1599ef7-df90-469e-b93d-54a66d69c33f-lg.webp",
+    "https://content.estitor.com/348f7af9-d294-4ed8-87f3-c6172939bd3c-lg.webp",
+    "https://content.estitor.com/0fd33be9-e24f-40e2-8c56-e42e25cb0074-lg.webp",
+    "https://content.estitor.com/6a2727db-c9e9-467d-ba4b-eb0eb3a0fd2e-lg.webp",
+    "https://content.estitor.com/e58411db-1169-4768-bcc1-2573b7d2499f-lg.webp",
+    "https://content.estitor.com/f4ea097c-493f-4aee-9163-909b11d07d81-lg.webp",
+    "https://content.estitor.com/f7f68e84-2cf9-47f6-8eb0-365b845880c8-lg.webp",
+    "https://content.estitor.com/0150eb5e-8e05-4358-9f89-c6d5149de646-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 27m², Igalo, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/569483"
+}

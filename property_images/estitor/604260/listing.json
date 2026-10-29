@@ -1,0 +1,34 @@
+{
+  "key": "estitor_604260",
+  "source": "estitor",
+  "listing_id": "604260",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-604260",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-604260"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 15,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:24.852791+00:00",
+  "images": [
+    "https://content.estitor.com/143bdbcd-1b60-49eb-bdec-653ddcce9b96-lg.webp",
+    "https://content.estitor.com/57a99925-882b-4238-9803-4f45e5732d40-lg.webp",
+    "https://content.estitor.com/ed4b2848-9ad4-4391-9ab0-9a472d18d971-lg.webp",
+    "https://content.estitor.com/88f50def-7bb8-4076-a0ea-8958886c3028-lg.webp",
+    "https://content.estitor.com/72a148bc-e694-40dc-a33e-244dbbee3367-lg.webp",
+    "https://content.estitor.com/7e3ed982-c9a5-4dc8-9ff3-cc0880e0d7b8-lg.webp",
+    "https://content.estitor.com/0e2adc4e-0cd2-4e13-aac0-701662a8a8ec-lg.webp",
+    "https://content.estitor.com/1e96953a-f7db-42fd-8246-ceb3f459fb72-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 49m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604260"
+}

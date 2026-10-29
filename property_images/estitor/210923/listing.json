@@ -1,0 +1,36 @@
+{
+  "key": "estitor_210923",
+  "source": "estitor",
+  "listing_id": "210923",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-210923",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-210923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 339,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:31.158924+00:00",
+  "images": [
+    "https://content.estitor.com/e19f1196-60f0-4f64-b2b7-92030e6fb819-lg.webp",
+    "https://content.estitor.com/0ec21d4e-3196-45d7-b046-302450a858c5-lg.webp",
+    "https://content.estitor.com/0b9c0bdd-5e6f-472c-8868-b5e69d12dbe5-lg.webp",
+    "https://content.estitor.com/36fe3f1d-218e-492a-b81e-aa62276c6d94-lg.webp",
+    "https://content.estitor.com/c841f655-334e-440b-af01-c71e3a6c0c18-lg.webp",
+    "https://content.estitor.com/545b922c-a1c7-41f0-ad2b-34cfb5a9389b-lg.webp",
+    "https://content.estitor.com/23c8b523-2b9a-4c72-abb5-c038cd1c65f6-lg.webp",
+    "https://content.estitor.com/3f466449-a991-440d-80fa-7104c53b10f4-lg.webp",
+    "https://content.estitor.com/06e10ee6-6a5a-4682-8cd3-f8c062bf3bca-lg.webp",
+    "https://content.estitor.com/ffd76e9a-3a8b-48ea-860c-9a4a5a66b932-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 33m², Sutomore, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/210923"
+}

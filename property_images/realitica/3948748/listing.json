@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3948748",
+  "source": "realitica",
+  "listing_id": "3948748",
+  "listing_url": "https://www.realitica.com/hr/listing/3948748",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3948748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 53,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:59.614160+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3948748_4.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_2.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_5.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_6.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_7.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_9.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_10.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_kompleks-spolja-1.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_kompleks-spolja-2.jpeg",
+    "https://www.realitica.com/images/listing_photos/3948748_kompleks-spolja-3.jpeg"
+  ],
+  "status": "ok",
+  "title": "PRODAJA DVOSOBNOG STANA SA PRIVATNIM DVORIŠTEM – CORTEX SELO, PODGORICA",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3948748"
+}

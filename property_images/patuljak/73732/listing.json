@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_73732",
+  "source": "patuljak",
+  "listing_id": "73732",
+  "listing_url": "https://patuljak.me/oglas/izdajem-manji-jednosoban-stan-25kvm--73732",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-manji-jednosoban-stan-25kvm--73732"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 531,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:08.970109+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73732_7.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem manji jednosoban stan, 25kvm",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73732"
+}

@@ -1,0 +1,35 @@
+{
+  "key": "estitor_603339",
+  "source": "estitor",
+  "listing_id": "603339",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603339",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603339"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 766,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:08.044698+00:00",
+  "images": [
+    "https://content.estitor.com/e63a8337-3503-4943-b7c3-2671b9fd6915-lg.webp",
+    "https://content.estitor.com/bbe491ac-7b50-4801-979d-9ae5339032af-lg.webp",
+    "https://content.estitor.com/b376100d-6832-4a69-87f7-0cf99bdfa4ef-lg.webp",
+    "https://content.estitor.com/c405d19b-26c3-4c15-b791-3d6a9bbaf44d-lg.webp",
+    "https://content.estitor.com/649d936b-ad40-4667-bdae-8442262d5959-lg.webp",
+    "https://content.estitor.com/80c6f074-04fd-401d-9803-9e718757b06f-lg.webp",
+    "https://content.estitor.com/9cba450e-615b-4b0f-997e-d951dd61361a-lg.webp",
+    "https://content.estitor.com/d86d60e3-fc7b-443f-a72a-983f0cfdeec7-lg.webp",
+    "https://content.estitor.com/00870458-1d45-4178-9fa1-6c23dd48f8d6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 50m², Sveti Stasije, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/603339"
+}

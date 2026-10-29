@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_80621",
+  "source": "patuljak",
+  "listing_id": "80621",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-namjesten-jednosoban-stan-48-m2-u-novog--80621",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-namjesten-jednosoban-stan-48-m2-u-novog--80621"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 8,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:43.878767+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80621_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se namješten, jednosoban stan 48 m2, u novogradnji, Bečići, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80621"
+}

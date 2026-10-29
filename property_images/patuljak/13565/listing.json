@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_13565",
+  "source": "patuljak",
+  "listing_id": "13565",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-35m2-tivat-izdavanje--13565",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-35m2-tivat-izdavanje--13565"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 117,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:37.760441+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/13565_7.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera, 35m2, Tivat, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/13565"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_73166",
+  "source": "patuljak",
+  "listing_id": "73166",
+  "listing_url": "https://patuljak.me/oglas/jedinstveno-imanje-4000-m-iznad-kanjona-tare-dobri--73166",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jedinstveno-imanje-4000-m-iznad-kanjona-tare-dobri--73166"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 953,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:19.378313+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73166_6.webp"
+  ],
+  "status": "ok",
+  "title": "Jedinstveno imanje 4.000 m iznad kanjona Tare  Dobrilovina-Žabljak",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73166"
+}

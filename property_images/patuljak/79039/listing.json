@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_79039",
+  "source": "patuljak",
+  "listing_id": "79039",
+  "listing_url": "https://patuljak.me/oglas/izdajem-plac-u-donjim-kokotima-350m2--79039",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-plac-u-donjim-kokotima-350m2--79039"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 58,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:58.365066+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79039_0.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJEM PLAC U DONJIM KOKOTIMA  350m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79039"
+}

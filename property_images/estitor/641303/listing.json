@@ -1,0 +1,30 @@
+{
+  "key": "estitor_641303",
+  "source": "estitor",
+  "listing_id": "641303",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kolasin/id-641303",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-kolasin/id-641303"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 789,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:23.320948+00:00",
+  "images": [
+    "https://content.estitor.com/57dd08dd-54cc-4dde-80f7-5a5cef9ef3a1-lg.webp",
+    "https://content.estitor.com/c98addf3-e5e1-4fb0-ba4f-29527e1e0734-lg.webp",
+    "https://content.estitor.com/4eb6c267-d404-4dfe-ad3d-68ae2254fc94-lg.webp",
+    "https://content.estitor.com/80ad5eef-c5a0-4942-9ef4-c4f6680c0c46-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 80m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641303"
+}

@@ -1,0 +1,34 @@
+{
+  "key": "estitor_601671",
+  "source": "estitor",
+  "listing_id": "601671",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601671",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601671"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 10,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:44.681211+00:00",
+  "images": [
+    "https://content.estitor.com/789956c1-5187-46cb-adf5-13484a6ab5e6-lg.webp",
+    "https://content.estitor.com/14203b68-8bf3-4bd7-9696-60d7e2d7da47-lg.webp",
+    "https://content.estitor.com/b9928ec7-6822-482b-a9e2-191f3200de13-lg.webp",
+    "https://content.estitor.com/c9504c0b-5066-4fb6-ae7e-fbd8e0edfeee-lg.webp",
+    "https://content.estitor.com/ee159955-fe77-4fbc-aeeb-6cfd7692a208-lg.webp",
+    "https://content.estitor.com/51095cdd-5167-4e7c-b23f-00e2ec6e378b-lg.webp",
+    "https://content.estitor.com/32771908-b7d5-4137-a6d9-19a10100a1c1-lg.webp",
+    "https://content.estitor.com/594ef92c-c21e-4ba2-839c-e8b577fac8e7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 125m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601671"
+}

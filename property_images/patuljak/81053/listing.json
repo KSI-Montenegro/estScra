@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_81053",
+  "source": "patuljak",
+  "listing_id": "81053",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-dvosoban-stan-60-m2-zagoric--81053",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-dvosoban-stan-60-m2-zagoric--81053"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 868,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:21.338643+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81053_3.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Dvosoban stan 60 m2, Zagorič",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81053"
+}

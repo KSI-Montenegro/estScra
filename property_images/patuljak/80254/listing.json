@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_80254",
+  "source": "patuljak",
+  "listing_id": "80254",
+  "listing_url": "https://patuljak.me/oglas/prodajem-ili-izdajem-poslovni-prostor-32-m2-malo-b--80254",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-ili-izdajem-poslovni-prostor-32-m2-malo-b--80254"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 42,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:47.775844+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80254_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80254_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80254_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem ili izdajem poslovni prostor 32 m2, Malo Brdo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80254"
+}

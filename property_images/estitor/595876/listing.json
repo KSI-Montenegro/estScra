@@ -1,0 +1,36 @@
+{
+  "key": "estitor_595876",
+  "source": "estitor",
+  "listing_id": "595876",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595876",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-595876"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 891,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:37.147194+00:00",
+  "images": [
+    "https://content.estitor.com/560cd266-689d-4278-8cd5-31575e9fe4b1-lg.webp",
+    "https://content.estitor.com/a3fb2898-b965-456b-be05-a071ee6e82aa-lg.webp",
+    "https://content.estitor.com/48eae1bc-b791-41f2-8fbc-e2cf138627f3-lg.webp",
+    "https://content.estitor.com/0abe1c9f-c6ae-47de-87f3-c47fb4f3d50a-lg.webp",
+    "https://content.estitor.com/0b260d90-ae35-4ffb-a03b-488346a9513f-lg.webp",
+    "https://content.estitor.com/72239f31-2cc7-4ee4-b8fd-9693575c138e-lg.webp",
+    "https://content.estitor.com/913f433e-6bbe-4363-b25c-c7be600edd6e-lg.webp",
+    "https://content.estitor.com/d982633b-78c1-43cb-a746-b7781294a648-lg.webp",
+    "https://content.estitor.com/e3934e61-89c5-452f-8a0c-49b9a5d54c26-lg.webp",
+    "https://content.estitor.com/df57ef02-483f-4e93-a0ce-05392cdcdc86-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Blok 5, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595876"
+}

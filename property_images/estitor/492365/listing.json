@@ -1,0 +1,35 @@
+{
+  "key": "estitor_492365",
+  "source": "estitor",
+  "listing_id": "492365",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-492365",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-492365"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 164,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:59.324405+00:00",
+  "images": [
+    "https://content.estitor.com/8c8d5e92-5b72-4de6-9a1e-61ed181b8a62-lg.webp",
+    "https://content.estitor.com/42e8ad2c-ca86-4fbc-939e-79787807ec9d-lg.webp",
+    "https://content.estitor.com/8805875d-d451-4b16-b804-3537a27f1486-lg.webp",
+    "https://content.estitor.com/75756ad7-c013-4157-8d64-3f2a95747d44-lg.webp",
+    "https://content.estitor.com/12907f5e-7965-4529-b8fe-40b456e03df4-lg.webp",
+    "https://content.estitor.com/00c780d1-d4ee-4981-b5aa-1ee7cd8e03a8-lg.webp",
+    "https://content.estitor.com/59983e21-d8f1-4ffe-95f5-35f3e8fc7798-lg.webp",
+    "https://content.estitor.com/6ca68252-b9a0-4167-a1df-614106d5ae80-lg.webp",
+    "https://content.estitor.com/9f289593-fe93-43c9-bbec-3e99426efca6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 120m², Centar, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/492365"
+}

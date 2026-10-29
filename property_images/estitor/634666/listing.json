@@ -1,0 +1,39 @@
+{
+  "key": "estitor_634666",
+  "source": "estitor",
+  "listing_id": "634666",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-634666",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-634666"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 291,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:07.053142+00:00",
+  "images": [
+    "https://content.estitor.com/86898d27-8c90-4f36-9bdf-bdb004f8a232-lg.webp",
+    "https://content.estitor.com/6e1dfbc4-2141-4f2e-be2d-8b3dac0abe2a-lg.webp",
+    "https://content.estitor.com/9e24514d-e4cf-4b19-9e25-2ed15ff64872-lg.webp",
+    "https://content.estitor.com/c73280fe-0b37-4591-9857-00fc631d62cc-lg.webp",
+    "https://content.estitor.com/b1802ea2-9f6d-46fd-8e9f-d294e1811c89-lg.webp",
+    "https://content.estitor.com/14d37389-a14e-46cd-8981-6419d469f258-lg.webp",
+    "https://content.estitor.com/fc266a85-f782-485f-ba70-118d92e69a54-lg.webp",
+    "https://content.estitor.com/18e09941-5d0c-4467-b7c1-218b81a0aed1-lg.webp",
+    "https://content.estitor.com/a784fa98-5d2d-48e3-8db2-412d8a6ece92-lg.webp",
+    "https://content.estitor.com/8f4a31b4-9260-4acf-81b5-33568642d427-lg.webp",
+    "https://content.estitor.com/526d63fa-5df5-4d3f-bd3c-ec1705d69e79-lg.webp",
+    "https://content.estitor.com/ae5ed6fc-a164-4c46-bf8e-b89587cd97ca-lg.webp",
+    "https://content.estitor.com/89e5096c-7555-4464-bc5f-17c7f45c3a4e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 42m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/634666"
+}

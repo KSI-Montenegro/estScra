@@ -1,0 +1,34 @@
+{
+  "key": "estitor_633397",
+  "source": "estitor",
+  "listing_id": "633397",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633397",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-633397"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 296,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:09.522799+00:00",
+  "images": [
+    "https://content.estitor.com/4af0347d-2aa5-473f-86a4-1fe42582067b-lg.webp",
+    "https://content.estitor.com/f722f166-8288-49fa-b49e-5068b22d2d98-lg.webp",
+    "https://content.estitor.com/3425b4a3-8183-4365-b2f4-56d5b4267d3b-lg.webp",
+    "https://content.estitor.com/02a99a6d-befd-436f-af80-3aba0529b3ff-lg.webp",
+    "https://content.estitor.com/0322c5d9-3c10-4b74-a68c-36a7737ffe45-lg.webp",
+    "https://content.estitor.com/a742ff58-7118-494f-bd98-e864a63cf64c-lg.webp",
+    "https://content.estitor.com/84d7dbd0-feb3-4a6f-a3ed-6a6a09964b6f-lg.webp",
+    "https://content.estitor.com/ae34d5e2-68a3-4667-aeed-77c91726e86a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², Ilino, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633397"
+}

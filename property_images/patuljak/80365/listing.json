@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_80365",
+  "source": "patuljak",
+  "listing_id": "80365",
+  "listing_url": "https://patuljak.me/oglas/prodajem-dvosoban-stan-50-m2-budva--80365",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-dvosoban-stan-50-m2-budva--80365"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 60,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:03.008165+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80365_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem dvosoban stan 50 m2, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80365"
+}

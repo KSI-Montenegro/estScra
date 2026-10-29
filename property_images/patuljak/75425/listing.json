@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_75425",
+  "source": "patuljak",
+  "listing_id": "75425",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-46m-zabjelo--75425",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-46m-zabjelo--75425"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 890,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:36.407833+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75425_9.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 46m, Zabjelo",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75425"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_634548",
+  "source": "estitor",
+  "listing_id": "634548",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-634548",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-634548"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 606,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:45.579319+00:00",
+  "images": [
+    "https://content.estitor.com/340e99ca-e753-455f-bfef-06539636fbb4-lg.webp",
+    "https://content.estitor.com/6ce33960-fcd1-4e5f-b12f-2ec42c6d1a79-lg.webp",
+    "https://content.estitor.com/bce1abe1-0ae0-4c52-a35f-153a2a86bf9c-lg.webp",
+    "https://content.estitor.com/c270dd70-df49-42f9-bf48-373031f0849b-lg.webp",
+    "https://content.estitor.com/162856bb-95fe-463a-99c6-638356d8856c-lg.webp",
+    "https://content.estitor.com/a0821809-500c-4eff-a1ce-01eabea38c99-lg.webp",
+    "https://content.estitor.com/e2831b69-8ec8-49ea-9668-774e7fbd0239-lg.webp",
+    "https://content.estitor.com/9a091a02-7d70-4eea-bdd5-d3de9650aa3d-lg.webp",
+    "https://content.estitor.com/32692cc0-f853-4c34-a9b5-ba7005bf17e1-lg.webp",
+    "https://content.estitor.com/21fcb269-8d5e-45d0-8057-bfab41f1be86-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 75m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/634548"
+}

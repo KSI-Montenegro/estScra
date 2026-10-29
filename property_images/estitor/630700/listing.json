@@ -1,0 +1,33 @@
+{
+  "key": "estitor_630700",
+  "source": "estitor",
+  "listing_id": "630700",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630700",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-630700"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 299,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:11.073112+00:00",
+  "images": [
+    "https://content.estitor.com/2f8049c5-7f67-4511-9393-0be5fbb09bdf-lg.webp",
+    "https://content.estitor.com/7dd0d1a7-ba1b-4e0d-9afb-a48764a69272-lg.webp",
+    "https://content.estitor.com/daa369f6-09a1-4cf6-81d4-e7e9aef9a1ca-lg.webp",
+    "https://content.estitor.com/fe2e8b2e-15c2-4e8a-a508-fdbb486070e8-lg.webp",
+    "https://content.estitor.com/b850ca2f-2651-4ebb-9178-c86e8c71e820-lg.webp",
+    "https://content.estitor.com/a60135fc-5056-4f2c-ad3d-bc076bf8a70a-lg.webp",
+    "https://content.estitor.com/c9fdd070-2d4e-454a-9514-17d4d6bfd2b0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 47m², Seljanovo, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/630700"
+}

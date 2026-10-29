@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_78828",
+  "source": "patuljak",
+  "listing_id": "78828",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-masline-podgorica--78828",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-masline-podgorica--78828"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 59,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:59.494840+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78828_13.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJEM POSLOVNI PROSTOR MASLINE PODGORICA",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78828"
+}

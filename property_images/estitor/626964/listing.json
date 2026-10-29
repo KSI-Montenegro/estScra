@@ -1,0 +1,45 @@
+{
+  "key": "estitor_626964",
+  "source": "estitor",
+  "listing_id": "626964",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-626964",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-626964"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 818,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:47.737198+00:00",
+  "images": [
+    "https://content.estitor.com/ccdc3069-f1a3-4460-916d-42caf7c520a2-lg.webp",
+    "https://content.estitor.com/84a3a939-1736-41e0-abb4-7cbcf622141b-lg.webp",
+    "https://content.estitor.com/9b4ec4e4-27ed-4f19-82aa-d539cc325406-lg.webp",
+    "https://content.estitor.com/31a70502-5d85-4057-a578-dceb1921299a-lg.webp",
+    "https://content.estitor.com/6cb09c97-69b8-4488-ae46-baf75098e838-lg.webp",
+    "https://content.estitor.com/f132ddd2-02b7-483f-8035-798eadb30092-lg.webp",
+    "https://content.estitor.com/08835e35-13da-4933-9f8c-356026a26802-lg.webp",
+    "https://content.estitor.com/3e550508-cbd8-446e-a256-d2916644e7b6-lg.webp",
+    "https://content.estitor.com/b4a780b4-1cc5-4e12-868b-33a0aff04118-lg.webp",
+    "https://content.estitor.com/ec7fc328-9699-4f44-ab06-736bb529e82a-lg.webp",
+    "https://content.estitor.com/cc4381f7-3ff1-471a-a151-1443b834595c-lg.webp",
+    "https://content.estitor.com/d18cf5f6-d0e6-4889-b77d-ad48f55b1398-lg.webp",
+    "https://content.estitor.com/5d0e56ba-0f92-405b-9cd2-ceb7a48d088e-lg.webp",
+    "https://content.estitor.com/40e764e3-40a3-440d-b7f2-ffa96043a990-lg.webp",
+    "https://content.estitor.com/bcda7091-86c8-4aef-b862-ccc78ac7992a-lg.webp",
+    "https://content.estitor.com/d31b3282-76be-44d2-a143-0860956062c0-lg.webp",
+    "https://content.estitor.com/03dce077-8f0b-49bc-bc21-159e5d4e9f32-lg.webp",
+    "https://content.estitor.com/d488cfb1-a29a-4345-9d5d-ab03eb211401-lg.webp",
+    "https://content.estitor.com/5a13d059-066a-4de4-a13a-bd0637eab946-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 55m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 19,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626964"
+}

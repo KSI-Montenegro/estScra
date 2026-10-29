@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_74910",
+  "source": "patuljak",
+  "listing_id": "74910",
+  "listing_url": "https://patuljak.me/oglas/prodajem-deo-kuce-sutomore-bar--74910",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-deo-kuce-sutomore-bar--74910"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 38,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:51.208567+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74910_14.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem deo kuće, Sutomore, Bar",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74910"
+}

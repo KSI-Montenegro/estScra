@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_79367",
+  "source": "patuljak",
+  "listing_id": "79367",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-nenamjesten-stan-crnogorskih-serdara--79367",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-nenamjesten-stan-crnogorskih-serdara--79367"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 67,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:28.527877+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79367_0.webp"
+  ],
+  "status": "ok",
+  "title": "Jednosoban  nenamješten stan Crnogorskih Serdara",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79367"
+}

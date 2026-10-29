@@ -1,0 +1,40 @@
+{
+  "key": "estitor_606023",
+  "source": "estitor",
+  "listing_id": "606023",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606023",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606023"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 630,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:57.380553+00:00",
+  "images": [
+    "https://content.estitor.com/951a5154-bbaa-46eb-9fe4-afd8f7f94909-lg.webp",
+    "https://content.estitor.com/5948d392-3a7b-49fe-81a6-d9c6fc521c2c-lg.webp",
+    "https://content.estitor.com/c9b3d301-c178-4bc8-9ec4-7c617bc68463-lg.webp",
+    "https://content.estitor.com/8a072d76-21fb-4d75-bb51-329751dfcff1-lg.webp",
+    "https://content.estitor.com/40efe71d-41d8-4411-9429-1c8440f6e071-lg.webp",
+    "https://content.estitor.com/70c8186c-1bdd-4a1d-a793-cc539d51243d-lg.webp",
+    "https://content.estitor.com/0c742af7-0948-4759-8a7c-0a8c56f07a17-lg.webp",
+    "https://content.estitor.com/d9fde9e6-0b23-4a10-b1f5-c59cbfd82219-lg.webp",
+    "https://content.estitor.com/5db2fc1f-5003-40e2-bc26-8d2a051a1e6b-lg.webp",
+    "https://content.estitor.com/56011567-eaa2-4fdb-af68-0f52c5d841d7-lg.webp",
+    "https://content.estitor.com/ea82b0b1-6136-45d9-8dc2-dfc6c7e3da11-lg.webp",
+    "https://content.estitor.com/b02bf8b4-d5d6-40a3-a975-85bf848fbdd6-lg.webp",
+    "https://content.estitor.com/29d601a9-04b7-495d-aa9f-5136c16a3619-lg.webp",
+    "https://content.estitor.com/7e43f7a2-0525-42c7-aa42-248356e827b3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 100m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606023"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_52136",
+  "source": "patuljak",
+  "listing_id": "52136",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-kuca-na-izuzetnoj-lokaciji-cetinje--52136",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-kuca-na-izuzetnoj-lokaciji-cetinje--52136"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 116,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:37.627713+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/03/52136_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se kuća na izuzetnoj lokaciji- Cetinje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/52136"
+}

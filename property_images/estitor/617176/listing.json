@@ -1,0 +1,33 @@
+{
+  "key": "estitor_617176",
+  "source": "estitor",
+  "listing_id": "617176",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617176",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617176"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 873,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:25.746939+00:00",
+  "images": [
+    "https://content.estitor.com/ff4397db-5187-4d5f-bcd6-0fb5214f863f-lg.webp",
+    "https://content.estitor.com/2d33776b-e1a2-4a77-a655-e11bf168ba25-lg.webp",
+    "https://content.estitor.com/8e3244f5-a5f7-4495-b7ef-c82c7145f7aa-lg.webp",
+    "https://content.estitor.com/a2f2b41c-9a7d-4c4f-a1ff-6d56cee9c722-lg.webp",
+    "https://content.estitor.com/15d9d506-409a-47ee-8e54-70b02b9088b6-lg.webp",
+    "https://content.estitor.com/ca23015d-a42b-4c43-bdd6-33313d19c86d-lg.webp",
+    "https://content.estitor.com/5afa217b-4620-4cb5-84b9-98f753908ad6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 65m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617176"
+}

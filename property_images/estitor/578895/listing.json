@@ -1,0 +1,35 @@
+{
+  "key": "estitor_578895",
+  "source": "estitor",
+  "listing_id": "578895",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-578895",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-578895"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 405,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:04.152190+00:00",
+  "images": [
+    "https://content.estitor.com/d294861c-1e77-4d12-a36b-f15eb323b5ba-lg.webp",
+    "https://content.estitor.com/1e890328-49b1-4a54-be95-5a3ef161ccde-lg.webp",
+    "https://content.estitor.com/bc8fff9e-6f7c-4e75-bcb6-81d59958bbbb-lg.webp",
+    "https://content.estitor.com/d3cf463e-53e4-4ed9-863b-bc40c5e7e303-lg.webp",
+    "https://content.estitor.com/1508784b-e365-4d41-998d-7f5907b28ebf-lg.webp",
+    "https://content.estitor.com/763dc2c9-668b-474e-a94d-ab051c5152f0-lg.webp",
+    "https://content.estitor.com/95befaf2-6844-47ec-9609-2c830da0dd6d-lg.webp",
+    "https://content.estitor.com/b4dedd68-1a78-4292-9ce2-2d02214c042c-lg.webp",
+    "https://content.estitor.com/a7ad236f-1cfe-452a-a6a4-875a5c513503-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 75m², Dobrota, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/578895"
+}

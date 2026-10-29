@@ -1,0 +1,33 @@
+{
+  "key": "estitor_531630",
+  "source": "estitor",
+  "listing_id": "531630",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-531630",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-531630"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 189,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:12.769646+00:00",
+  "images": [
+    "https://content.estitor.com/b9930436-7451-4e5a-b73e-611b72842584-lg.webp",
+    "https://content.estitor.com/b14a484f-bcd0-4bff-9c0f-5c641655c6ea-lg.webp",
+    "https://content.estitor.com/516328fe-0c87-495e-af07-bf217364ca38-lg.webp",
+    "https://content.estitor.com/dcac8def-ae7d-40b6-b30a-bb0ba72617c2-lg.webp",
+    "https://content.estitor.com/78f683ca-ccf1-4a8f-9cc1-f9904ed8617a-lg.webp",
+    "https://content.estitor.com/fcada4b8-6193-4ccc-91b5-bac6f6611c4b-lg.webp",
+    "https://content.estitor.com/5d0ba438-7164-4fc1-8aad-cc685a16d7c4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 60m², Stara Varoš, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/531630"
+}

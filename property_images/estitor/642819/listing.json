@@ -1,0 +1,39 @@
+{
+  "key": "estitor_642819",
+  "source": "estitor",
+  "listing_id": "642819",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642819",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642819"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 3,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:19.967289+00:00",
+  "images": [
+    "https://content.estitor.com/3a6446dd-8437-421a-bdb0-c1ece655b9f5-lg.webp",
+    "https://content.estitor.com/e09523ad-adfb-4ae8-8e37-60bc8d09ab5b-lg.webp",
+    "https://content.estitor.com/ee542a00-880e-4d37-b29d-460695d645ec-lg.webp",
+    "https://content.estitor.com/16ab4a6d-31aa-41c6-a1e9-aa28f3c27200-lg.webp",
+    "https://content.estitor.com/c3d5c051-c1e6-4dc2-a844-b43f6cc73106-lg.webp",
+    "https://content.estitor.com/48705ead-c789-444b-b8ba-554895794f7a-lg.webp",
+    "https://content.estitor.com/d27b8e32-2a8b-4aac-89e7-86802774b6b6-lg.webp",
+    "https://content.estitor.com/52ab3dc1-5aaf-49ff-823f-76c99bfd44b7-lg.webp",
+    "https://content.estitor.com/0efa8357-9043-46d5-ac3c-8604bfa5945a-lg.webp",
+    "https://content.estitor.com/ee705c8d-46bf-47d8-afd2-484b8c9c59d9-lg.webp",
+    "https://content.estitor.com/ea1033bb-4e7b-498f-8356-76192da1aafe-lg.webp",
+    "https://content.estitor.com/a027b960-852d-4b5b-97a0-87d9a5957629-lg.webp",
+    "https://content.estitor.com/1c00e61b-a7d5-4b4a-8650-62de479c5ad8-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Adok, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642819"
+}

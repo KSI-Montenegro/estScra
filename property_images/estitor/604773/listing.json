@@ -1,0 +1,30 @@
+{
+  "key": "estitor_604773",
+  "source": "estitor",
+  "listing_id": "604773",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-604773",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-604773"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 726,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:45.541395+00:00",
+  "images": [
+    "https://content.estitor.com/22fc523f-1299-4648-a2e9-8505964a05c1-lg.webp",
+    "https://content.estitor.com/2b9a9b06-b563-4330-9089-ed347cc70443-lg.webp",
+    "https://content.estitor.com/07fd589e-14a6-485a-8474-859a42448e4c-lg.webp",
+    "https://content.estitor.com/25f5465e-f195-46f1-bc89-4e6d6eb89d2a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 47m², Krivi Most, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604773"
+}

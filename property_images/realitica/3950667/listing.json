@@ -1,0 +1,29 @@
+{
+  "key": "realitica_3950667",
+  "source": "realitica",
+  "listing_id": "3950667",
+  "listing_url": "https://www.realitica.com/hr/listing/3950667",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3950667"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 130,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:17.898187+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3950667_img_3955.jpeg",
+    "https://www.realitica.com/images/listing_photos/3950667_img_3956r.jpeg",
+    "https://www.realitica.com/images/listing_photos/3950667_img_3959.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Ulcinj",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3950667"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "estitor_581341",
+  "source": "estitor",
+  "listing_id": "581341",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-niksic/id-581341",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-niksic/id-581341"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 175,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:04.846499+00:00",
+  "images": [
+    "https://content.estitor.com/9c65392d-b7bb-439f-be41-16ac962cc2e7-lg.webp",
+    "https://content.estitor.com/0ae0fe2a-dd1a-4719-89a9-9538f488ddae-lg.webp",
+    "https://content.estitor.com/341a1eb9-25f7-4b3a-9f7f-809810b46924-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 1443m², Rastovac, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581341"
+}

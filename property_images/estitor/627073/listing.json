@@ -1,0 +1,32 @@
+{
+  "key": "estitor_627073",
+  "source": "estitor",
+  "listing_id": "627073",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627073",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-627073"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 642,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:03.728835+00:00",
+  "images": [
+    "https://content.estitor.com/0463fa2a-ccd2-4265-b40c-c0b5696c8415-lg.webp",
+    "https://content.estitor.com/85325b35-34e5-481e-a97b-3fca2c7fda21-lg.webp",
+    "https://content.estitor.com/ba71623a-9ce9-44c7-b722-7a3bd99a9932-lg.webp",
+    "https://content.estitor.com/ec9204be-fd45-4656-a812-3fc264f1001d-lg.webp",
+    "https://content.estitor.com/58ecd436-2abb-4009-a329-653c885578cb-lg.webp",
+    "https://content.estitor.com/34b0ef43-1546-4169-89de-713f6454f404-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 53m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/627073"
+}

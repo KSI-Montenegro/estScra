@@ -1,0 +1,31 @@
+{
+  "key": "estitor_641313",
+  "source": "estitor",
+  "listing_id": "641313",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641313",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641313"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 38,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:35.763304+00:00",
+  "images": [
+    "https://content.estitor.com/25101aa5-4dae-4b0d-8ead-dbfba7461a69-lg.webp",
+    "https://content.estitor.com/54b4ef0c-7f92-4850-9b21-a7698b775210-lg.webp",
+    "https://content.estitor.com/588f3c64-0510-493e-abd9-ce06573e480d-lg.webp",
+    "https://content.estitor.com/2c560dc1-cd20-4571-8779-efe4bfc98eca-lg.webp",
+    "https://content.estitor.com/b76160ba-b609-4cc7-a748-394d1fe4196f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 52m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641313"
+}

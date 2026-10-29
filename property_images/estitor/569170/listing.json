@@ -1,0 +1,28 @@
+{
+  "key": "estitor_569170",
+  "source": "estitor",
+  "listing_id": "569170",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-569170",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-569170"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 972,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:28.523454+00:00",
+  "images": [
+    "https://content.estitor.com/9edab0fb-78d9-4ec8-b05e-0322b01e538e-lg.webp",
+    "https://content.estitor.com/09b826ec-eebc-42b1-9c28-107cc5b64e6d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 15m², Pobrežje, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/569170"
+}

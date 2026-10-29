@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_73863",
+  "source": "patuljak",
+  "listing_id": "73863",
+  "listing_url": "https://patuljak.me/oglas/prodaja-placeva-kolasin-gornje-lipovo--73863",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-placeva-kolasin-gornje-lipovo--73863"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 96,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:20.650105+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73863_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73863_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73863_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja placeva Kolašin Gornje Lipovo",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73863"
+}

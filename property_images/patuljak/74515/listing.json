@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_74515",
+  "source": "patuljak",
+  "listing_id": "74515",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-stan-45m2-stari-aerodrom-podgorica--74515",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-stan-45m2-stari-aerodrom-podgorica--74515"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 895,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:40.938196+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74515_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Stan, 45m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74515"
+}

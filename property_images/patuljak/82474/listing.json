@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_82474",
+  "source": "patuljak",
+  "listing_id": "82474",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stan-47-m2-city-kvart--82474",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-namjesten-stan-47-m2-city-kvart--82474"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 76,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:34.419609+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82474_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban namješten stan 47 m2, City Kvart, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82474"
+}

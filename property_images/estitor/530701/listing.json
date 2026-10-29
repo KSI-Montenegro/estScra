@@ -1,0 +1,42 @@
+{
+  "key": "estitor_530701",
+  "source": "estitor",
+  "listing_id": "530701",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-530701",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-530701"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 310,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:16.202321+00:00",
+  "images": [
+    "https://content.estitor.com/fd3bca02-7fe1-445f-914a-45ad61fe5f45-lg.webp",
+    "https://content.estitor.com/5e3cb8e0-a0ce-4bed-b639-e9ca0c2b744e-lg.webp",
+    "https://content.estitor.com/4fc76126-f055-4860-a301-9374cbcb8889-lg.webp",
+    "https://content.estitor.com/45b638c1-6b38-4a52-800b-b86a6c36be23-lg.webp",
+    "https://content.estitor.com/c145a5de-324f-4a9d-90ee-82a25bb43fb9-lg.webp",
+    "https://content.estitor.com/0433c63b-460d-4503-b384-f92dfc5af11a-lg.webp",
+    "https://content.estitor.com/fb043c9e-bb1d-4cc5-817a-b5368e59f2fb-lg.webp",
+    "https://content.estitor.com/3a0572b2-8af9-4804-9691-9619309059ca-lg.webp",
+    "https://content.estitor.com/2667234b-79c6-4320-8ef3-311517e88f78-lg.webp",
+    "https://content.estitor.com/ea6e767e-c041-41dd-819b-501c6fea40c6-lg.webp",
+    "https://content.estitor.com/87ad030b-d660-42ee-8a1b-af6517b141ad-lg.webp",
+    "https://content.estitor.com/41889db2-1ea0-46e6-950b-b4205ab2f5c0-lg.webp",
+    "https://content.estitor.com/253725b9-3c0f-4960-8218-859e735547ad-lg.webp",
+    "https://content.estitor.com/ab2f614d-a196-4d1e-8d79-0308df8c8578-lg.webp",
+    "https://content.estitor.com/2131d703-e424-4e7c-b363-5f9880825a95-lg.webp",
+    "https://content.estitor.com/96af1761-986d-4afb-a593-2616a85d9cd1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 56m², Centar, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/530701"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_74543",
+  "source": "patuljak",
+  "listing_id": "74543",
+  "listing_url": "https://patuljak.me/oglas/izdajem-prodajem--74543",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-prodajem--74543"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 947,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:13.845327+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/74543"
+}

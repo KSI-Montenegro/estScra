@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79150",
+  "source": "patuljak",
+  "listing_id": "79150",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--79150",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--79150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 57,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:27:16.954463+00:00",
+  "images": [],
+  "status": "no_gallery_images",
+  "title": "Izdajem poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79150",
+  "no_images_reason": "Property gallery supplied no valid image-file URLs; media-directory links without a filename were excluded.",
+  "rejected_gallery_links": [
+    "/kes/slike/740xAuto/2026/09/"
+  ]
+}

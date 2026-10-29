@@ -1,0 +1,40 @@
+{
+  "key": "estitor_619603",
+  "source": "estitor",
+  "listing_id": "619603",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-619603",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-619603"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 40,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:09.597150+00:00",
+  "images": [
+    "https://content.estitor.com/c82f184a-7c8f-49dd-9b48-d4a8d1c065e3-lg.webp",
+    "https://content.estitor.com/73f97824-a2e7-4fd3-8004-a8eeb09344aa-lg.webp",
+    "https://content.estitor.com/83ab66c7-8515-4e4a-af39-cfaefb8791c0-lg.webp",
+    "https://content.estitor.com/58e989fd-af31-4361-afbe-22f86dc966c0-lg.webp",
+    "https://content.estitor.com/21dc6eab-2b18-4744-ad6a-6e49b92ae38e-lg.webp",
+    "https://content.estitor.com/2709192f-affe-4082-ab78-6f73efba7f20-lg.webp",
+    "https://content.estitor.com/58392ccc-0ce4-4042-b52b-2da5a29d3262-lg.webp",
+    "https://content.estitor.com/8b6097ca-958f-4b8d-aaae-cbabdb99c216-lg.webp",
+    "https://content.estitor.com/903aadf3-947d-4e54-a8a3-a3c7bcc966bc-lg.webp",
+    "https://content.estitor.com/5ba97ea5-5f92-4971-b03c-c79fa04abbb3-lg.webp",
+    "https://content.estitor.com/4af44db6-c095-41ae-a5fe-5819b5da7306-lg.webp",
+    "https://content.estitor.com/ef4a1162-91c4-40cf-a681-d6262617ee41-lg.webp",
+    "https://content.estitor.com/d9abbe1a-c16b-41ea-b497-323589538df5-lg.webp",
+    "https://content.estitor.com/0ec885ac-24f7-4d64-85ae-e4bba3ae987f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 120m², Lazi, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/619603"
+}

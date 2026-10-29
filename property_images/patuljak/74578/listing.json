@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_74578",
+  "source": "patuljak",
+  "listing_id": "74578",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-582m2-donji-kokoti--74578",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-582m2-donji-kokoti--74578"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 89,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:16.803851+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74578_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/74578_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 582m2 Donji Kokoti",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/74578"
+}

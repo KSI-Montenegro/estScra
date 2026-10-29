@@ -1,0 +1,33 @@
+{
+  "key": "estitor_640679",
+  "source": "estitor",
+  "listing_id": "640679",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640679",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-640679"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 579,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:32.162703+00:00",
+  "images": [
+    "https://content.estitor.com/d1b6e00c-b245-4993-8aa0-df30c82bea1d-lg.webp",
+    "https://content.estitor.com/8d3d0b7f-fe33-4434-919f-9eda5cc35fbc-lg.webp",
+    "https://content.estitor.com/4acfaf43-3154-4e18-a802-63e894c37e5b-lg.webp",
+    "https://content.estitor.com/568c3223-087a-49f5-9a1b-68aa1041c3d1-lg.webp",
+    "https://content.estitor.com/299be0e1-a2fc-462a-a681-b8212d459b16-lg.webp",
+    "https://content.estitor.com/bdaa4cb9-b6ae-496d-b1d6-e796b23fa3f7-lg.webp",
+    "https://content.estitor.com/bea0447b-db10-457d-b5ac-5516673421f0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 53m², Ljubović, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640679"
+}

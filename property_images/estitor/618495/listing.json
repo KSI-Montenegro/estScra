@@ -1,0 +1,29 @@
+{
+  "key": "estitor_618495",
+  "source": "estitor",
+  "listing_id": "618495",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-618495",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-niksic/id-618495"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 969,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:27.105406+00:00",
+  "images": [
+    "https://content.estitor.com/5de9df9b-8e6f-4379-865d-17904c4c409a-lg.webp",
+    "https://content.estitor.com/8406ba2e-207b-4dfa-a1d6-00f9a90e9fca-lg.webp",
+    "https://content.estitor.com/bc3817ec-a46b-4750-83cf-06fa3b128cc1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 35m², Centar, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/618495"
+}

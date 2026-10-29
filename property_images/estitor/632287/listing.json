@@ -1,0 +1,36 @@
+{
+  "key": "estitor_632287",
+  "source": "estitor",
+  "listing_id": "632287",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632287",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-632287"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 305,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:14.063634+00:00",
+  "images": [
+    "https://content.estitor.com/36123a31-ad97-447d-9b1f-c980c3da1b18-lg.webp",
+    "https://content.estitor.com/c232b345-b23d-4c23-8fef-96f065b5a602-lg.webp",
+    "https://content.estitor.com/c0ae912c-2dfb-4399-9572-9cc21486818d-lg.webp",
+    "https://content.estitor.com/e34526a6-2372-447a-97d6-85af2fba13c3-lg.webp",
+    "https://content.estitor.com/0fa376a8-ec6e-432f-84fe-692e78348b66-lg.webp",
+    "https://content.estitor.com/0779cc89-d7a1-4608-90f6-75e6b10fefe9-lg.webp",
+    "https://content.estitor.com/54e883fe-28dc-431d-b890-b78a8ec75b25-lg.webp",
+    "https://content.estitor.com/64f86e34-67e9-4bee-b590-2897a67849b4-lg.webp",
+    "https://content.estitor.com/b59637ee-000d-41bd-b3bb-419aefe82502-lg.webp",
+    "https://content.estitor.com/0a7324c1-8801-4899-8eca-ba9c7c28cc76-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², Budva, Crna Gora | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/632287"
+}

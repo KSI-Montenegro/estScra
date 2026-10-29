@@ -1,0 +1,28 @@
+{
+  "key": "realitica_3946516",
+  "source": "realitica",
+  "listing_id": "3946516",
+  "listing_url": "https://www.realitica.com/hr/listing/3946516",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946516"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 204,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:19.556789+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3946516_d9f02da7-bb82-4218-85c6-7471a9ece705.jpg",
+    "https://www.realitica.com/images/listing_photos/3946516_img_9973.jpeg"
+  ],
+  "status": "ok",
+  "title": "Prodajem urbanizovan plac -Prodajem Građevinsko Zemljište, Dobra Voda",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3946516"
+}

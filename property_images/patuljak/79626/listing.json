@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79626",
+  "source": "patuljak",
+  "listing_id": "79626",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-gradjevinski-plac-donja-gorica-550m2--79626",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-gradjevinski-plac-donja-gorica-550m2--79626"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 52,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:54.632773+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79626_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se gradjevinski plac, Donja Gorica, 550m2",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79626"
+}

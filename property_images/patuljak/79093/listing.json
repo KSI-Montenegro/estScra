@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79093",
+  "source": "patuljak",
+  "listing_id": "79093",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-bar-2116-m-kod-luke-okova-i-autobusk--79093",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-bar-2116-m-kod-luke-okova-i-autobusk--79093"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 28,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:47.355023+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79093_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79093_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79093_2.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJEM PLAC BAR 2.116 m, kod luke, Okova i autobuske stanice",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79093"
+}

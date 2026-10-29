@@ -1,0 +1,28 @@
+{
+  "key": "estitor_629428",
+  "source": "estitor",
+  "listing_id": "629428",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-629428",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-niksic/id-629428"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 148,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:49.092296+00:00",
+  "images": [
+    "https://content.estitor.com/b7a6bed7-7e55-4608-95bc-6ab8e324dada-lg.webp",
+    "https://content.estitor.com/0b33ac6d-cb4f-429b-9613-03d7dc853640-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 27m², Centar, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/629428"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "estitor_501430",
+  "source": "estitor",
+  "listing_id": "501430",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-501430",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-501430"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 168,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:00.825586+00:00",
+  "images": [
+    "https://content.estitor.com/4542c8cd-d0d1-4f5d-867c-ccf7457581f7-lg.webp",
+    "https://content.estitor.com/d40a58aa-dce9-4691-a093-4934e46e2be1-lg.webp",
+    "https://content.estitor.com/8ac5217b-258b-46f4-8f67-b0eb5a6fd315-lg.webp",
+    "https://content.estitor.com/dce7a8fc-b84d-4c5a-83a7-73ce993334cc-lg.webp",
+    "https://content.estitor.com/c45cc688-b090-4f5b-9886-9ea33b760f2d-lg.webp",
+    "https://content.estitor.com/6d953dad-871d-4654-b449-97065c28f3ff-lg.webp",
+    "https://content.estitor.com/acb3ed51-e404-431c-b63d-095c9c92d8d7-lg.webp",
+    "https://content.estitor.com/2f3c9856-17d4-4393-b95a-d00a5f654798-lg.webp",
+    "https://content.estitor.com/e4a3e352-d3ec-48ee-83b0-15254efaf1e5-lg.webp",
+    "https://content.estitor.com/627c92fd-5c1b-4977-9d62-4accf247bc84-lg.webp",
+    "https://content.estitor.com/72c2bb8e-ea51-4208-897f-127d4a8e8420-lg.webp",
+    "https://content.estitor.com/eb61990e-14d0-4e53-a6aa-f7494084732c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 125m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/501430"
+}

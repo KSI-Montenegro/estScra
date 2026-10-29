@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_76327",
+  "source": "patuljak",
+  "listing_id": "76327",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-ul-ivana-vujosevica-kod-mase--76327",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-ul-ivana-vujosevica-kod-mase--76327"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 507,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:56.431541+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76327_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76327_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76327_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76327_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76327_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan ul. Ivana Vujoševića, kod Maše",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76327"
+}

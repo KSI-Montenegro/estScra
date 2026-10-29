@@ -1,0 +1,35 @@
+{
+  "key": "estitor_639646",
+  "source": "estitor",
+  "listing_id": "639646",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-herceg-novi/id-639646",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-herceg-novi/id-639646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 66,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:47.619654+00:00",
+  "images": [
+    "https://content.estitor.com/ad27f035-6667-4dd6-8321-6109a37f2e03-lg.webp",
+    "https://content.estitor.com/b4ba67cf-cd5e-4b75-8eec-1625ab8d7d0a-lg.webp",
+    "https://content.estitor.com/821ba911-b204-45d8-9de4-7f8b9b6f4fba-lg.webp",
+    "https://content.estitor.com/4855e12f-a0b6-4abf-a423-deffb5be1d90-lg.webp",
+    "https://content.estitor.com/df8bc970-b48f-4307-868c-06562a0ca4b0-lg.webp",
+    "https://content.estitor.com/c29d8a1a-31cb-43dc-a6d6-aa38f7b8a460-lg.webp",
+    "https://content.estitor.com/1c09099e-ff05-4fdd-9e10-837c7cdae6c4-lg.webp",
+    "https://content.estitor.com/de07ab02-9336-4414-be13-ff8fcb18f6a4-lg.webp",
+    "https://content.estitor.com/7bf8b31a-a2e2-4ce6-a86d-f8d04547cf3c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 45m², Meljine, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639646"
+}

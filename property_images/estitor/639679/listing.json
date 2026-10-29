@@ -1,0 +1,36 @@
+{
+  "key": "estitor_639679",
+  "source": "estitor",
+  "listing_id": "639679",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639679",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-639679"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 259,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:50.687124+00:00",
+  "images": [
+    "https://content.estitor.com/430c4d1d-a962-409e-aa76-b0dd3aaf5d24-lg.webp",
+    "https://content.estitor.com/288aeaf1-bf97-4777-8ebe-b3ee771287fb-lg.webp",
+    "https://content.estitor.com/7de702e8-60ee-45a3-8a67-e97ef059f6de-lg.webp",
+    "https://content.estitor.com/5fcfdca1-5471-4b42-a89b-5faf84e0949c-lg.webp",
+    "https://content.estitor.com/ebbe452f-dcfc-45da-9419-0dc63352e400-lg.webp",
+    "https://content.estitor.com/0a7eee25-9409-4438-ae04-74254a02bfcd-lg.webp",
+    "https://content.estitor.com/3eb5c202-466b-41ef-8395-e577bf2822c0-lg.webp",
+    "https://content.estitor.com/f2340f2b-9221-44d5-96bb-7660cb4405ef-lg.webp",
+    "https://content.estitor.com/58962359-90b4-465d-8374-61b69632993c-lg.webp",
+    "https://content.estitor.com/79277090-88b4-4cf4-b7bd-bea0bdaaf0d4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 29m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639679"
+}

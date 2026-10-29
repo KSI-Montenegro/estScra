@@ -1,0 +1,28 @@
+{
+  "key": "estitor_641947",
+  "source": "estitor",
+  "listing_id": "641947",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641947",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-641947"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 26,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:28.329622+00:00",
+  "images": [
+    "https://content.estitor.com/3aba036b-b379-4206-849f-66f38de966e6-lg.webp",
+    "https://content.estitor.com/8dc34ace-6d77-4d9d-a07d-c293c7380c98-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, garsonjera, 10m², Ljubović, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641947"
+}

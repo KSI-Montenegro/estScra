@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_73097",
+  "source": "patuljak",
+  "listing_id": "73097",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru-uldalmatinska-potpuno-namjesten--73097",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru-uldalmatinska-potpuno-namjesten--73097"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 538,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:15.395095+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73097_5.webp"
+  ],
+  "status": "ok",
+  "title": "izdajem garsonjeru ul.dalmatinska potpuno namjestena",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73097"
+}

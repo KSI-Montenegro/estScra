@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_81918",
+  "source": "patuljak",
+  "listing_id": "81918",
+  "listing_url": "https://patuljak.me/oglas/novogradnja-garsonjera-30-m2-stari-aerodrom-podgor--81918",
+  "listing_urls": [
+    "https://patuljak.me/oglas/novogradnja-garsonjera-30-m2-stari-aerodrom-podgor--81918"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 9,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:44.389847+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81918_1.webp"
+  ],
+  "status": "ok",
+  "title": "Novogradnja, garsonjera 30 m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81918"
+}

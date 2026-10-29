@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_81813",
+  "source": "patuljak",
+  "listing_id": "81813",
+  "listing_url": "https://patuljak.me/oglas/smjestaj-za-radnike--81813",
+  "listing_urls": [
+    "https://patuljak.me/oglas/smjestaj-za-radnike--81813"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 975,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:29.947800+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/81813_0.webp"
+  ],
+  "status": "ok",
+  "title": "Smjestaj za radnike",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81813"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "estitor_536034",
+  "source": "estitor",
+  "listing_id": "536034",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-536034",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-536034"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 810,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:40.801143+00:00",
+  "images": [
+    "https://content.estitor.com/810c4722-d9e6-45a5-a27f-dc0ff6307c1f-lg.webp",
+    "https://content.estitor.com/a57024f5-4b84-4cd7-9bae-faebc2cada7c-lg.webp",
+    "https://content.estitor.com/d488b6da-d3af-4a31-8426-5dbb6965e9ba-lg.webp",
+    "https://content.estitor.com/c47e9cb0-7471-4a20-81ae-db481cee2145-lg.webp",
+    "https://content.estitor.com/360e5015-5b5f-4388-9ea0-f2dd67add321-lg.webp",
+    "https://content.estitor.com/d8e6f054-9728-4643-a07f-7b4ba8439f52-lg.webp",
+    "https://content.estitor.com/00567a52-2234-4727-bf99-34bc397139ad-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 65m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/536034"
+}

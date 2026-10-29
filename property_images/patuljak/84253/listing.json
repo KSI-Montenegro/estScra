@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_84253",
+  "source": "patuljak",
+  "listing_id": "84253",
+  "listing_url": "https://patuljak.me/oglas/na-prodaju-kuca-u-sutomoru--84253",
+  "listing_urls": [
+    "https://patuljak.me/oglas/na-prodaju-kuca-u-sutomoru--84253"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 88,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:19.879852+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84253_8.webp"
+  ],
+  "status": "ok",
+  "title": "Na prodaju kuca u Sutomoru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84253"
+}

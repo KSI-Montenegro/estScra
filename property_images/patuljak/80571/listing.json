@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_80571",
+  "source": "patuljak",
+  "listing_id": "80571",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor--80571",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor--80571"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 40,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:46.524370+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80571_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem poslovni prostor",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80571"
+}

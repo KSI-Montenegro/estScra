@@ -1,0 +1,42 @@
+{
+  "key": "estitor_641318",
+  "source": "estitor",
+  "listing_id": "641318",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-641318",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-641318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 37,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:34.752017+00:00",
+  "images": [
+    "https://content.estitor.com/6557ec6c-37e7-45d5-b3e7-e8f3adf9c36b-lg.webp",
+    "https://content.estitor.com/397fe785-57ba-409b-877c-ebf55480fee7-lg.webp",
+    "https://content.estitor.com/eec767d2-4472-401d-93e7-8c05626842c3-lg.webp",
+    "https://content.estitor.com/32376a71-9535-444e-b011-857e7dd88ec1-lg.webp",
+    "https://content.estitor.com/bd278ff7-00aa-4778-89d8-0a2781445b3b-lg.webp",
+    "https://content.estitor.com/6a954c27-f8f1-48bb-a3e9-35864974d89b-lg.webp",
+    "https://content.estitor.com/e65b2fdf-ffd2-4eaa-be71-aa8b6e4e2815-lg.webp",
+    "https://content.estitor.com/f6c0cd7f-08d9-477a-8e72-9c27f36a9209-lg.webp",
+    "https://content.estitor.com/dcbd8eaa-b756-4b6b-b95e-52fca499a128-lg.webp",
+    "https://content.estitor.com/6ec36c56-0c7d-4956-9528-bb508b11b14a-lg.webp",
+    "https://content.estitor.com/9869b50b-33d7-4d96-9149-dd0a3da43536-lg.webp",
+    "https://content.estitor.com/deaf944f-0f02-43da-9601-cb4f07a4a48d-lg.webp",
+    "https://content.estitor.com/18f6afc9-98a7-46c6-99da-538865e72ca2-lg.webp",
+    "https://content.estitor.com/3d7bcc29-bffe-4509-a3c7-0bccad3238a6-lg.webp",
+    "https://content.estitor.com/e7457e6d-b1a1-4afa-bc71-ea5a18ddb600-lg.webp",
+    "https://content.estitor.com/e0ede139-42ac-4e4c-b4fd-930040eeed4d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 474m², Kuljače, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641318"
+}

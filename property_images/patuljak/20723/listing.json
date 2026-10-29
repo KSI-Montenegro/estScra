@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_20723",
+  "source": "patuljak",
+  "listing_id": "20723",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-plac-6263-m2-u-niksicu-rastoci-ulparti--20723",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-plac-6263-m2-u-niksicu-rastoci-ulparti--20723"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 29,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:39.975217+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20723_5.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se plac 6263 m2 u Nikšiću (Rastoci, .ul.Partizanski put, uz bulevar)",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/20723"
+}

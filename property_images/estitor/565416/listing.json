@@ -1,0 +1,28 @@
+{
+  "key": "estitor_565416",
+  "source": "estitor",
+  "listing_id": "565416",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-565416",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-565416"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 993,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:39.054616+00:00",
+  "images": [
+    "https://content.estitor.com/396b2607-e14b-4957-9a6f-00b4ce5a5c03-lg.webp",
+    "https://content.estitor.com/e849014e-1474-450e-9988-7c331105ee7b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 18m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/565416"
+}

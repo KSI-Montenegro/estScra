@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_75887",
+  "source": "patuljak",
+  "listing_id": "75887",
+  "listing_url": "https://patuljak.me/oglas/izdajem-stan-nenamjesten-preko-morace--75887",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-stan-nenamjesten-preko-morace--75887"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 888,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:34.650894+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/75887_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem stan nenamjesten preko Morace",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/75887"
+}

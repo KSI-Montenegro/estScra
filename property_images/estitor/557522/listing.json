@@ -1,0 +1,33 @@
+{
+  "key": "estitor_557522",
+  "source": "estitor",
+  "listing_id": "557522",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-557522",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-557522"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 72,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:30.583989+00:00",
+  "images": [
+    "https://content.estitor.com/ba4eee2f-6ea0-43be-8e62-cecb55be0509-lg.webp",
+    "https://content.estitor.com/7d899575-6b0b-49f8-aa9d-29e5da26c871-lg.webp",
+    "https://content.estitor.com/d51f46f3-4e0c-44c5-bf87-32ba69c94c29-lg.webp",
+    "https://content.estitor.com/865bb3a8-c732-4667-a5df-71a113cd36b4-lg.webp",
+    "https://content.estitor.com/b4f9166a-9bfb-41ef-85ca-f059bef35f84-lg.webp",
+    "https://content.estitor.com/264b7d21-5b89-4aef-ab60-bdf4238bc751-lg.webp",
+    "https://content.estitor.com/2df462f4-d6d3-4a6f-9683-34079e2e653c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Centar, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/557522"
+}

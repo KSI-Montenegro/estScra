@@ -1,0 +1,34 @@
+{
+  "key": "estitor_617038",
+  "source": "estitor",
+  "listing_id": "617038",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617038",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617038"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 923,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:01.085893+00:00",
+  "images": [
+    "https://content.estitor.com/d74335c4-8951-41ae-b260-76d8569838d4-lg.webp",
+    "https://content.estitor.com/5a04811c-c5b7-4a6f-88fe-54f7f8b6f632-lg.webp",
+    "https://content.estitor.com/18bf4074-2857-4e5c-9284-06c9de832748-lg.webp",
+    "https://content.estitor.com/91e6fcf4-f049-4aa1-a843-f14de7a5ff9b-lg.webp",
+    "https://content.estitor.com/cfbb57be-6d2a-48a1-b395-44a93c1f0904-lg.webp",
+    "https://content.estitor.com/22f27c28-aaa5-45ec-bd02-0c2616f4a73c-lg.webp",
+    "https://content.estitor.com/f6c703d6-61b4-4c26-883c-185906606fdf-lg.webp",
+    "https://content.estitor.com/c3b08fa6-9eea-4ce4-86b9-b7c968978723-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617038"
+}

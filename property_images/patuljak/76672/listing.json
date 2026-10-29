@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_76672",
+  "source": "patuljak",
+  "listing_id": "76672",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-stan-47-m2-resident-park-donja-gorica--76672",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-stan-47-m2-resident-park-donja-gorica--76672"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 106,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:29.856515+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76672_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se stan 47 m2, Resident Park, Donja Gorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76672"
+}

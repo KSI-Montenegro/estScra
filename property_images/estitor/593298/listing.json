@@ -1,0 +1,33 @@
+{
+  "key": "estitor_593298",
+  "source": "estitor",
+  "listing_id": "593298",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-593298",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-593298"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 266,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:54.450890+00:00",
+  "images": [
+    "https://content.estitor.com/41a68242-dc69-4285-aa5a-93595ee1182a-lg.webp",
+    "https://content.estitor.com/9d1751aa-87f6-4cbe-88f3-533268deb65f-lg.webp",
+    "https://content.estitor.com/8be22244-8e2c-4f9c-a57b-701c7e2b131b-lg.webp",
+    "https://content.estitor.com/d0ea7bb1-f065-4c90-9c41-579aa6b8042d-lg.webp",
+    "https://content.estitor.com/3fe5ffc7-b1a1-4f41-be52-901867356632-lg.webp",
+    "https://content.estitor.com/67df9592-d3dd-4726-98ae-0c4d183ad73c-lg.webp",
+    "https://content.estitor.com/d59216b9-d84a-46be-bd16-9bd099d808d3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Babin Do, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/593298"
+}

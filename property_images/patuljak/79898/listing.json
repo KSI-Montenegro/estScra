@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_79898",
+  "source": "patuljak",
+  "listing_id": "79898",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan--79898",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan--79898"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 755,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:01.942324+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79898_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79898"
+}

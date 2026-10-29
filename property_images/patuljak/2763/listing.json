@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_2763",
+  "source": "patuljak",
+  "listing_id": "2763",
+  "listing_url": "https://patuljak.me/oglas/plac-600m2-niksic-prodaja--2763",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-600m2-niksic-prodaja--2763"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 122,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:36.602746+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/04/2763_0.webp"
+  ],
+  "status": "ok",
+  "title": "Plac, 600m2, Niksic, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/2763"
+}

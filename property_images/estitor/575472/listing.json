@@ -1,0 +1,28 @@
+{
+  "key": "estitor_575472",
+  "source": "estitor",
+  "listing_id": "575472",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-575472",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-plac/grad-bar/id-575472"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 187,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:11.453837+00:00",
+  "images": [
+    "https://content.estitor.com/5a729428-2bcf-44da-ae11-1b741b33172f-lg.webp",
+    "https://content.estitor.com/a36caebf-0868-4a9c-83d9-7cef9be6a38f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, plac, 400m², Dabezići, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/575472"
+}

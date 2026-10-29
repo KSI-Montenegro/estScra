@@ -1,0 +1,30 @@
+{
+  "key": "estitor_510416",
+  "source": "estitor",
+  "listing_id": "510416",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-510416",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-510416"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 832,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:57.026462+00:00",
+  "images": [
+    "https://content.estitor.com/3e073b9f-839f-4739-944f-0136ca7ef0e4-lg.webp",
+    "https://content.estitor.com/121b2c65-3669-4833-bfc8-f1d684f19a05-lg.webp",
+    "https://content.estitor.com/8f4860e6-065b-47ab-b53c-efa37b7fe5d7-lg.webp",
+    "https://content.estitor.com/b9c540b7-6b1e-475a-a6c8-2a985753928b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Smailagića Polje, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/510416"
+}

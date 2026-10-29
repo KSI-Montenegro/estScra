@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_72749",
+  "source": "patuljak",
+  "listing_id": "72749",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-poslovni-prostor-70m2-centar-podgorica--72749",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-poslovni-prostor-70m2-centar-podgorica--72749"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 96,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:49.250796+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72749_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor 70m2, Centar, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72749"
+}

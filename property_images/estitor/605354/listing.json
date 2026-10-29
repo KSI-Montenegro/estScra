@@ -1,0 +1,37 @@
+{
+  "key": "estitor_605354",
+  "source": "estitor",
+  "listing_id": "605354",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-605354",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kolasin/id-605354"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 846,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:06.956854+00:00",
+  "images": [
+    "https://content.estitor.com/0820c7d9-5998-4bd7-9dc8-bb8407278f94-lg.webp",
+    "https://content.estitor.com/67c23cdb-7787-4a45-a737-56b9ac1ac7da-lg.webp",
+    "https://content.estitor.com/7732a537-6bc1-4de4-bcd1-973a16ae1ccc-lg.webp",
+    "https://content.estitor.com/bbf78c3b-ce70-4f15-b5bb-4c3878d7cd28-lg.webp",
+    "https://content.estitor.com/e38ab79b-2e22-4516-ba1c-6ca70ae5c645-lg.webp",
+    "https://content.estitor.com/58a4a699-ec11-4ce2-944a-8a0bf61a2ed0-lg.webp",
+    "https://content.estitor.com/b6cfe0b0-2e9c-4abc-b1c2-ddf8e612bc70-lg.webp",
+    "https://content.estitor.com/bf01e0f4-651d-4288-9a3b-cab218dd8eb3-lg.webp",
+    "https://content.estitor.com/6dd3a160-b4c9-429f-bdfa-e44eeeac6e78-lg.webp",
+    "https://content.estitor.com/949efb19-acbc-4778-a9a0-443e84372f7f-lg.webp",
+    "https://content.estitor.com/27c16088-4a86-4f47-b045-849e545604eb-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 25m², Centar, Kolašin | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/605354"
+}

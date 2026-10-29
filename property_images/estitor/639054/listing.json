@@ -1,0 +1,33 @@
+{
+  "key": "estitor_639054",
+  "source": "estitor",
+  "listing_id": "639054",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-danilovgrad/id-639054",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-danilovgrad/id-639054"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 73,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:49.800499+00:00",
+  "images": [
+    "https://content.estitor.com/0eab3580-b0df-44d6-afca-b25304872fa1-lg.webp",
+    "https://content.estitor.com/d11bd9de-8bac-43fb-981f-b56bd6b94e69-lg.webp",
+    "https://content.estitor.com/1b19db62-b8e4-4e29-b59e-3bb3cd8b4f78-lg.webp",
+    "https://content.estitor.com/bd3a8c7e-ae6d-496c-a353-3f90f54fd1d6-lg.webp",
+    "https://content.estitor.com/08e9873b-1c0a-41ba-82bb-614741b545b9-lg.webp",
+    "https://content.estitor.com/e7b30308-9b8a-49bf-a631-8c5fc4a7de1d-lg.webp",
+    "https://content.estitor.com/476878f8-58ce-4aed-bcd0-da566b7c9d39-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 1009m², Grbe, Danilovgrad | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/639054"
+}

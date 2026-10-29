@@ -1,0 +1,37 @@
+{
+  "key": "estitor_83531",
+  "source": "estitor",
+  "listing_id": "83531",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-83531",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-83531"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 289,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:06.000563+00:00",
+  "images": [
+    "https://content.estitor.com/23d29f23-a3fb-4081-bbd1-bd9b49a3076d-lg.webp",
+    "https://content.estitor.com/2b1c6842-1c12-48b0-8160-480ebed667d2-lg.webp",
+    "https://content.estitor.com/9a237eea-cf8b-4dd3-96ca-3b3a3cef2ca1-lg.webp",
+    "https://content.estitor.com/222ab8ea-cd4a-493c-a647-e8d3506f390c-lg.webp",
+    "https://content.estitor.com/3b16754f-ab8b-4885-b4e9-27f295f327a2-lg.webp",
+    "https://content.estitor.com/3de1ca86-97ce-45d9-83ce-655adbc65862-lg.webp",
+    "https://content.estitor.com/1cba3aed-2db3-4a94-b407-067c3d629d01-lg.webp",
+    "https://content.estitor.com/7645aa88-c8a8-4b09-8dc5-7f3b56c5638a-lg.webp",
+    "https://content.estitor.com/4ca41269-717c-4984-9083-b31f3f0f8ec4-lg.webp",
+    "https://content.estitor.com/fc72f5fa-619d-47b2-8560-b2bc72593576-lg.webp",
+    "https://content.estitor.com/84435d6c-b4ac-4c84-9ebb-7b7f771604ca-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 90m², Đuraševići, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/83531"
+}

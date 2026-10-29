@@ -1,0 +1,25 @@
+{
+  "key": "patuljak_82488",
+  "source": "patuljak",
+  "listing_id": "82488",
+  "listing_url": "https://patuljak.me/oglas/jednosoban-stan-50-m2-gorica-c-podgorica--82488",
+  "listing_urls": [
+    "https://patuljak.me/oglas/jednosoban-stan-50-m2-gorica-c-podgorica--82488"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 23,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:55.498210+00:00",
+  "images": [],
+  "status": "unavailable_redirect",
+  "errors": [
+    "redirect_not_a_listing",
+    "target_http_302",
+    "target_http_302"
+  ],
+  "folder": "patuljak/82488"
+}

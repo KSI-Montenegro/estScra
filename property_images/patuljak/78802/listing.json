@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_78802",
+  "source": "patuljak",
+  "listing_id": "78802",
+  "listing_url": "https://patuljak.me/oglas/izdajem-namjestenu-sobu-stari-aerodrom-069714081--78802",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-namjestenu-sobu-stari-aerodrom-069714081--78802"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 934,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:08.559219+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78802_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namjestenu sobu, Stari aerodrom, 069714081",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78802"
+}

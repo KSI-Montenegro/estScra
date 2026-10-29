@@ -1,0 +1,35 @@
+{
+  "key": "estitor_635891",
+  "source": "estitor",
+  "listing_id": "635891",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635891",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-635891"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 72,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:30.695598+00:00",
+  "images": [
+    "https://content.estitor.com/2d138a77-e819-420a-aee0-5b8fc9c494aa-lg.webp",
+    "https://content.estitor.com/7741d372-6a09-4651-8257-e465d6fd4be9-lg.webp",
+    "https://content.estitor.com/6d80e61e-742b-43fe-a58f-29e13b45ca17-lg.webp",
+    "https://content.estitor.com/e098301e-fe9c-41fc-a800-9ebf8dc6c947-lg.webp",
+    "https://content.estitor.com/b01f94db-fe37-490e-9076-6f923fd97085-lg.webp",
+    "https://content.estitor.com/300f2eae-5795-45c2-ae59-5ea170876139-lg.webp",
+    "https://content.estitor.com/f566703f-52c1-45f4-b7ec-74ff854672a0-lg.webp",
+    "https://content.estitor.com/e35f0ce6-0372-4c62-8154-6377123dcd0f-lg.webp",
+    "https://content.estitor.com/f4025916-e1d9-4839-901e-7093d61c4d9c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 43m², Centar, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/635891"
+}

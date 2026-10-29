@@ -1,0 +1,36 @@
+{
+  "key": "estitor_619032",
+  "source": "estitor",
+  "listing_id": "619032",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-619032",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-619032"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 817,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:46.750005+00:00",
+  "images": [
+    "https://content.estitor.com/d0cce463-2b10-4f71-97c5-115d8ab0225c-lg.webp",
+    "https://content.estitor.com/e7c65a87-238e-499f-be25-40ad402e09d8-lg.webp",
+    "https://content.estitor.com/96685c87-07aa-4b2e-bbec-88d2112b726f-lg.webp",
+    "https://content.estitor.com/b1c9fd8a-f69c-4b22-8075-2c796952273d-lg.webp",
+    "https://content.estitor.com/7d7d8f35-4912-4ee3-9ee1-4fadfeb9a8d8-lg.webp",
+    "https://content.estitor.com/6855e7ff-e9ec-495b-9361-c4a34c3ef124-lg.webp",
+    "https://content.estitor.com/57a9a7dd-c85b-4b12-a873-38056e2f6c87-lg.webp",
+    "https://content.estitor.com/cdf44ec3-f77a-4ab9-b4d9-00bb929fda1a-lg.webp",
+    "https://content.estitor.com/e24f57da-64df-47ae-864c-fa532abfa0a4-lg.webp",
+    "https://content.estitor.com/857a0ec7-5e74-40f5-bb5e-5ffabad5338c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 75m², Gruda, Cetinje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/619032"
+}

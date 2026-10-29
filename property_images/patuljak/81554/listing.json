@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_81554",
+  "source": "patuljak",
+  "listing_id": "81554",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-64-m2-donja-gorica-podgori--81554",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-64-m2-donja-gorica-podgori--81554"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 152,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:57.472579+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81554_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan 64 m2, Donja Gorica, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81554"
+}

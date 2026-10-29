@@ -1,0 +1,31 @@
+{
+  "key": "estitor_624148",
+  "source": "estitor",
+  "listing_id": "624148",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624148",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624148"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 92,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:46.117762+00:00",
+  "images": [
+    "https://content.estitor.com/02394e7f-fb53-4b5d-a5ef-8830b86d6091-lg.webp",
+    "https://content.estitor.com/1bb46635-563d-413b-8805-127d5fb8ee6d-lg.webp",
+    "https://content.estitor.com/e12566ec-720a-447a-b629-a3baee52ab9f-lg.webp",
+    "https://content.estitor.com/3b1bc504-bacc-4c32-8d37-00d6cd06cd27-lg.webp",
+    "https://content.estitor.com/40944450-f616-4ac1-8e02-f7a2ec9f7a0a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 150m², Bioče, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624148"
+}

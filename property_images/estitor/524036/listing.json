@@ -1,0 +1,31 @@
+{
+  "key": "estitor_524036",
+  "source": "estitor",
+  "listing_id": "524036",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524036",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-524036"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 613,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:48.643390+00:00",
+  "images": [
+    "https://content.estitor.com/0595d7e6-862f-4a76-9553-983392a8743d-lg.webp",
+    "https://content.estitor.com/859a348c-9752-4c2b-a0cf-5c477b9331e9-lg.webp",
+    "https://content.estitor.com/2ce315c0-f2aa-47c4-9b7f-2c322dafaaaf-lg.webp",
+    "https://content.estitor.com/931c4510-53e3-4e09-b16f-465abaf13219-lg.webp",
+    "https://content.estitor.com/7bd5ff01-c6ca-4c3e-b0f3-a524933068c3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 48m², Ljubović, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/524036"
+}

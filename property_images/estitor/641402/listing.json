@@ -1,0 +1,29 @@
+{
+  "key": "estitor_641402",
+  "source": "estitor",
+  "listing_id": "641402",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-641402",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-641402"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 30,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:30.640604+00:00",
+  "images": [
+    "https://content.estitor.com/67996566-8cee-48aa-9902-ff16089d876c-lg.webp",
+    "https://content.estitor.com/8e359302-f437-435d-8d27-d3c0b0a6ed3a-lg.webp",
+    "https://content.estitor.com/f31e137e-42ac-4e62-9eba-28d4a1fa89d0-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, dvosoban stan, 67m², Centar, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641402"
+}

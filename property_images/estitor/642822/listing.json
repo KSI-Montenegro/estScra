@@ -1,0 +1,39 @@
+{
+  "key": "estitor_642822",
+  "source": "estitor",
+  "listing_id": "642822",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642822",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-642822"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 2,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:19.787330+00:00",
+  "images": [
+    "https://content.estitor.com/cf46e234-71bc-4906-ab7d-04696909598e-lg.webp",
+    "https://content.estitor.com/ff6ccf2b-cbd5-469f-a96c-6356bf73d37f-lg.webp",
+    "https://content.estitor.com/6b6ff069-3004-4189-b242-761e0bb1c4a6-lg.webp",
+    "https://content.estitor.com/769ef9bf-e469-4c03-8a34-ef4f40c64283-lg.webp",
+    "https://content.estitor.com/710d29f7-0ac6-4e80-a641-aa540fd9f761-lg.webp",
+    "https://content.estitor.com/8e17fd61-08c4-4d6d-8928-14c295e1274e-lg.webp",
+    "https://content.estitor.com/bd697076-9460-4f33-b894-d8efb0ca6170-lg.webp",
+    "https://content.estitor.com/b2fbc839-2af7-4e71-afe5-f34718a1ec7f-lg.webp",
+    "https://content.estitor.com/a5245ec4-3fe5-40e3-98c0-323e0fefb5d6-lg.webp",
+    "https://content.estitor.com/ac61bb98-86bf-4768-b488-24c07d57cb04-lg.webp",
+    "https://content.estitor.com/24c28d4f-7dc1-40ad-bb57-95728384d4da-lg.webp",
+    "https://content.estitor.com/9867d52f-96b7-441d-8d9c-fdeb343489dd-lg.webp",
+    "https://content.estitor.com/cb0769f9-e3ca-4968-975a-a71faddf345e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, stan, 37m², Golubovina, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642822"
+}

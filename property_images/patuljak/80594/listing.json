@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_80594",
+  "source": "patuljak",
+  "listing_id": "80594",
+  "listing_url": "https://patuljak.me/oglas/kupujem-stan--80594",
+  "listing_urls": [
+    "https://patuljak.me/oglas/kupujem-stan--80594"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 455,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:29.388621+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80594_0.webp"
+  ],
+  "status": "ok",
+  "title": "Kupujem stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80594"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_78186",
+  "source": "patuljak",
+  "listing_id": "78186",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-55-m2-zabjelo-podgorica--78186",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-55-m2-zabjelo-podgorica--78186"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 31,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:47.731747+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78186_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78186_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, Jednosoban stan 55 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78186"
+}

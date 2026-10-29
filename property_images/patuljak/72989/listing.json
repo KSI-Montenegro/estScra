@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_72989",
+  "source": "patuljak",
+  "listing_id": "72989",
+  "listing_url": "https://patuljak.me/oglas/dvosoban-stan-80m2-zabjelo-podgorica-prodaja--72989",
+  "listing_urls": [
+    "https://patuljak.me/oglas/dvosoban-stan-80m2-zabjelo-podgorica-prodaja--72989"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 45,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:58.240830+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72989_6.webp"
+  ],
+  "status": "ok",
+  "title": "Dvosoban stan 80m2, Zabjelo, Podgorica, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72989"
+}

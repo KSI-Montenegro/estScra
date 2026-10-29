@@ -1,0 +1,34 @@
+{
+  "key": "estitor_610781",
+  "source": "estitor",
+  "listing_id": "610781",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-610781",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-610781"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 401,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:02.084798+00:00",
+  "images": [
+    "https://content.estitor.com/813d0715-f43c-46d6-a0ef-f1de26242c39-lg.webp",
+    "https://content.estitor.com/e65633d7-827c-4968-87a1-ecefc9e2f379-lg.webp",
+    "https://content.estitor.com/d526f339-d0c3-489b-bcaf-3fd2743ba28d-lg.webp",
+    "https://content.estitor.com/323f8124-2196-405a-8795-8b16a740e2f7-lg.webp",
+    "https://content.estitor.com/396ec47c-9a9f-485c-aa77-41eba739cf34-lg.webp",
+    "https://content.estitor.com/bb7b7bcd-a3d0-4e05-8755-e4e146173346-lg.webp",
+    "https://content.estitor.com/f8720d9f-b152-4fd4-bc70-79e949f7c609-lg.webp",
+    "https://content.estitor.com/c3b05b51-1b0e-4b9c-980e-140cc955391b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 48m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610781"
+}

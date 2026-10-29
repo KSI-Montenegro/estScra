@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_20503",
+  "source": "patuljak",
+  "listing_id": "20503",
+  "listing_url": "https://patuljak.me/oglas/smjestaj-za-radnike--20503",
+  "listing_urls": [
+    "https://patuljak.me/oglas/smjestaj-za-radnike--20503"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 956,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:20.702974+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/08/20503_5.webp"
+  ],
+  "status": "ok",
+  "title": "Smjestaj za radnike",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/20503"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "estitor_581831",
+  "source": "estitor",
+  "listing_id": "581831",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-581831",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-581831"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 143,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:46.779758+00:00",
+  "images": [
+    "https://content.estitor.com/29f470c2-d7c3-4a26-9358-e67bc1616067-lg.webp",
+    "https://content.estitor.com/240a96a1-dcb7-45dc-a963-72d84fc389a0-lg.webp",
+    "https://content.estitor.com/b4eb9c51-8af0-45cf-a6e2-f3ed50c3d7aa-lg.webp",
+    "https://content.estitor.com/0817c300-9619-4a43-aa1e-e6a318653b5f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 22m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581831"
+}

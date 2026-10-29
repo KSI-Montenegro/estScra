@@ -1,0 +1,30 @@
+{
+  "key": "estitor_603021",
+  "source": "estitor",
+  "listing_id": "603021",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-603021",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-603021"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 61,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:22.896875+00:00",
+  "images": [
+    "https://content.estitor.com/c418664c-d318-41e4-8dc6-80b580a7b495-lg.webp",
+    "https://content.estitor.com/161002c4-3369-4f5d-b3af-cb0ff3136c7e-lg.webp",
+    "https://content.estitor.com/95117087-b61e-4946-a9bb-a7a99daf4e5a-lg.webp",
+    "https://content.estitor.com/f53036e5-2c60-48b9-94f0-34f708e6f449-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 15m², Igalo, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/603021"
+}

@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_78580",
+  "source": "patuljak",
+  "listing_id": "78580",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-nova-kuca-sa-2-spavace-sobe-573-m--78580",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-nova-kuca-sa-2-spavace-sobe-573-m--78580"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 167,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:06.129246+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78580_16.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJE SE NOVA KUĆA SA 2 SPAVAĆE SOBE 57,3 M",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78580"
+}

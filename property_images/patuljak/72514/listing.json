@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_72514",
+  "source": "patuljak",
+  "listing_id": "72514",
+  "listing_url": "https://patuljak.me/oglas/prodaja-urbanisticko-gradjevisnki-placevi--72514",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-urbanisticko-gradjevisnki-placevi--72514"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 101,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:23.295575+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72514_9.webp"
+  ],
+  "status": "ok",
+  "title": "PRODAJA-URBANISTICKO GRADJEVISNKI PLACEVI",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72514"
+}

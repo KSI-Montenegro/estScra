@@ -1,0 +1,39 @@
+{
+  "key": "estitor_303132",
+  "source": "estitor",
+  "listing_id": "303132",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-303132",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-303132"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 345,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:34.170000+00:00",
+  "images": [
+    "https://content.estitor.com/bfce7786-f54f-4e87-80e5-82c6583472f4-lg.webp",
+    "https://content.estitor.com/ed592770-8f03-4d25-9416-9aae7994b88b-lg.webp",
+    "https://content.estitor.com/8cb57d1f-73e1-4d8b-a95e-df81471dd60c-lg.webp",
+    "https://content.estitor.com/23a3cfd6-c84c-4764-aedf-aeb8a2dcf317-lg.webp",
+    "https://content.estitor.com/8bba8a6a-5b75-4982-833e-99fc652c3ff4-lg.webp",
+    "https://content.estitor.com/fa354a40-7f36-4940-a098-c82001f92ceb-lg.webp",
+    "https://content.estitor.com/68971f6e-0e3c-4f8b-9e0a-fc22554b0cc4-lg.webp",
+    "https://content.estitor.com/bedfc98f-32d8-47ad-a705-fcff7c9a6030-lg.webp",
+    "https://content.estitor.com/0c4cf04f-58ff-4ba6-ab0e-404c8a5e66b0-lg.webp",
+    "https://content.estitor.com/ccb190f5-b9a6-4f10-953f-e6f9b29af9ba-lg.webp",
+    "https://content.estitor.com/d4e2968d-34b1-4208-81d2-440b21939aea-lg.webp",
+    "https://content.estitor.com/e27cb506-d753-44c4-b6dd-d185bba76c5b-lg.webp",
+    "https://content.estitor.com/f5750931-08a1-4254-b61c-3154a0f79f9f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 64m², Petrovac, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/303132"
+}

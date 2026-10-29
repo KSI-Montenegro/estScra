@@ -1,0 +1,31 @@
+{
+  "key": "estitor_641290",
+  "source": "estitor",
+  "listing_id": "641290",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641290",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-niksic/id-641290"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 39,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:35.862867+00:00",
+  "images": [
+    "https://content.estitor.com/45704882-8846-4536-984b-efaebc1b9a15-lg.webp",
+    "https://content.estitor.com/a53a5d03-ab2f-4f76-9919-73722ec13f71-lg.webp",
+    "https://content.estitor.com/60c51bb4-e8c4-48c4-91fb-80b6cd376e80-lg.webp",
+    "https://content.estitor.com/7e2db772-3d5f-4592-a077-0086d6ebef7f-lg.webp",
+    "https://content.estitor.com/75d8ccc9-c613-427f-bb0b-9d525eeca0ee-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 600m², Centar, Nikšić | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641290"
+}

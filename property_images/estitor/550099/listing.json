@@ -1,0 +1,29 @@
+{
+  "key": "estitor_550099",
+  "source": "estitor",
+  "listing_id": "550099",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-550099",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-bar/id-550099"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 261,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:51.944689+00:00",
+  "images": [
+    "https://content.estitor.com/a8598ad9-aec7-41a3-900d-1396a782d420-lg.webp",
+    "https://content.estitor.com/50af8fdf-8619-4040-a2d3-bd5e296b6740-lg.webp",
+    "https://content.estitor.com/ed5a7a19-0823-4703-a41a-abacca0bf0f1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 65m², Šušanj, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/550099"
+}

@@ -1,0 +1,42 @@
+{
+  "key": "estitor_607238",
+  "source": "estitor",
+  "listing_id": "607238",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-607238",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-607238"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 117,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:05.214019+00:00",
+  "images": [
+    "https://content.estitor.com/4aba2d72-9d5e-4595-b103-a1da44689b3d-lg.webp",
+    "https://content.estitor.com/0240397f-60a8-4a4e-9229-5febd95e44f8-lg.webp",
+    "https://content.estitor.com/1d251a3c-f6af-4811-a4ec-613bced67a57-lg.webp",
+    "https://content.estitor.com/74c78ca0-06da-4d77-803c-d330e874417c-lg.webp",
+    "https://content.estitor.com/dcc518a7-9bb4-42d2-93e8-bf5b1bf64bd3-lg.webp",
+    "https://content.estitor.com/014767ad-104f-45dc-88d6-6522226055e2-lg.webp",
+    "https://content.estitor.com/97af1c75-4a06-4853-90cd-33dc319cd125-lg.webp",
+    "https://content.estitor.com/04cc3f23-a966-4b9a-b908-af9755505af9-lg.webp",
+    "https://content.estitor.com/744b7210-0f62-473f-9270-afdbee865512-lg.webp",
+    "https://content.estitor.com/34fdc64c-7c81-4682-991b-0efed3428f77-lg.webp",
+    "https://content.estitor.com/3d339cd3-328e-402e-9658-a92114db1d78-lg.webp",
+    "https://content.estitor.com/a0668e30-a057-40da-b087-4807e46ffc01-lg.webp",
+    "https://content.estitor.com/9e7b345a-942e-40dc-969e-1bf90e6688c6-lg.webp",
+    "https://content.estitor.com/99c060c9-3b72-4cdf-baab-bcd2e945da16-lg.webp",
+    "https://content.estitor.com/cc6c1941-cad1-4ce4-8370-a6dc21ed8ba9-lg.webp",
+    "https://content.estitor.com/88469ecc-4ed0-4ce2-8eb0-c98b94140aef-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Mažina, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 16,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/607238"
+}

@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_45217",
+  "source": "patuljak",
+  "listing_id": "45217",
+  "listing_url": "https://patuljak.me/oglas/prodaja-poslovni-prostor-101m2-blok-9-podgorica--45217",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-poslovni-prostor-101m2-blok-9-podgorica--45217"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 113,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:29.781042+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45217_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja - Poslovni prostor, 101m2, Blok 9, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/45217"
+}

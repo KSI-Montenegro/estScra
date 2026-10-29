@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_76067",
+  "source": "patuljak",
+  "listing_id": "76067",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-32-kvadrata-blok-ix--76067",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-32-kvadrata-blok-ix--76067"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 512,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:59.277652+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76067_4.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera 32 kvadrata, blok IX",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76067"
+}

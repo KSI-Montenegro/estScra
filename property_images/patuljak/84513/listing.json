@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_84513",
+  "source": "patuljak",
+  "listing_id": "84513",
+  "listing_url": "https://patuljak.me/oglas/nov-stangaraza--84513",
+  "listing_urls": [
+    "https://patuljak.me/oglas/nov-stangaraza--84513"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 20,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:53.530841+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84513_6.webp"
+  ],
+  "status": "ok",
+  "title": "Nov stan+garaža",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84513"
+}

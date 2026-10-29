@@ -1,0 +1,41 @@
+{
+  "key": "patuljak_84265",
+  "source": "patuljak",
+  "listing_id": "84265",
+  "listing_url": "https://patuljak.me/oglas/stan-u-budvi--84265",
+  "listing_urls": [
+    "https://patuljak.me/oglas/stan-u-budvi--84265"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 740,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:53.517159+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84265_13.webp"
+  ],
+  "status": "ok",
+  "title": "Stan u Budvi",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 15,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84265"
+}

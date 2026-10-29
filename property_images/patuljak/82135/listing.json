@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_82135",
+  "source": "patuljak",
+  "listing_id": "82135",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan--82135",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan--82135"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 78,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:35.455875+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82135_11.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem jednosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82135"
+}

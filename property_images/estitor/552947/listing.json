@@ -1,0 +1,37 @@
+{
+  "key": "estitor_552947",
+  "source": "estitor",
+  "listing_id": "552947",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-552947",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-552947"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 414,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:08.500247+00:00",
+  "images": [
+    "https://content.estitor.com/images/1000011154__adfa49ad-lg.webp",
+    "https://content.estitor.com/images/1000011157__8564490e-lg.webp",
+    "https://content.estitor.com/images/1000011159__e5d5ea35-lg.webp",
+    "https://content.estitor.com/images/1000011158__6426733d-lg.webp",
+    "https://content.estitor.com/images/1000011160__d3a3b4d7-lg.webp",
+    "https://content.estitor.com/images/1000011161__5eed1222-lg.webp",
+    "https://content.estitor.com/images/1000011153__6183ec49-lg.webp",
+    "https://content.estitor.com/images/1000011155__facb99f0-lg.webp",
+    "https://content.estitor.com/images/1000011167__003ae59e-lg.webp",
+    "https://content.estitor.com/images/1000011164__6493ad59-lg.webp",
+    "https://content.estitor.com/images/1000011170__948e71ea-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Bijela, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/552947"
+}

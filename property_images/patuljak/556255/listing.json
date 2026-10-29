@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_556255",
+  "source": "patuljak",
+  "listing_id": "556255",
+  "listing_url": "https://patuljak.me/oglas/za-prodaju-parcela-1416m2-seliste-kolasin--556255",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-prodaju-parcela-1416m2-seliste-kolasin--556255"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 123,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:37.291404+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/02/556255_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/02/556255_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/02/556255_2.webp"
+  ],
+  "status": "ok",
+  "title": "Za prodaju parcela 1416m2, Seliste, Kolasin",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/556255"
+}

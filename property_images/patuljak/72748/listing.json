@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_72748",
+  "source": "patuljak",
+  "listing_id": "72748",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-347m2-seoce-budva--72748",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-347m2-seoce-budva--72748"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 98,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:24.901442+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72748_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72748_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac 347m2, Seoce, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72748"
+}

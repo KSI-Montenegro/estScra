@@ -1,0 +1,32 @@
+{
+  "key": "patuljak_605539",
+  "source": "patuljak",
+  "listing_id": "605539",
+  "listing_url": "https://patuljak.me/oglas/iznajmljujem-nov-moderan-stan-u-baru--605539",
+  "listing_urls": [
+    "https://patuljak.me/oglas/iznajmljujem-nov-moderan-stan-u-baru--605539"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 222,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:35.754463+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/01/605539_5.webp"
+  ],
+  "status": "ok",
+  "title": "Iznajmljujem nov moderan stan u Baru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/605539"
+}

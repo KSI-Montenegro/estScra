@@ -1,0 +1,36 @@
+{
+  "key": "estitor_632142",
+  "source": "estitor",
+  "listing_id": "632142",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-632142",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-632142"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 158,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:55.218979+00:00",
+  "images": [
+    "https://content.estitor.com/12e9a48d-aae2-4de9-88fb-fb133b521dd2-lg.webp",
+    "https://content.estitor.com/360de5ad-871f-497e-b530-06bf34d48b32-lg.webp",
+    "https://content.estitor.com/63514beb-077f-46c7-85bf-63723b5c0048-lg.webp",
+    "https://content.estitor.com/8a250eef-5987-4206-a522-cb5356f5b564-lg.webp",
+    "https://content.estitor.com/79d8f21c-f0e0-44dc-bbf7-4d4e0f41ae5f-lg.webp",
+    "https://content.estitor.com/65529c58-a8c9-49df-b436-5c5c797cc999-lg.webp",
+    "https://content.estitor.com/5ecdb703-df96-4004-9fe1-a627936beb3a-lg.webp",
+    "https://content.estitor.com/70ff8d93-b465-4307-8820-0c16349f8538-lg.webp",
+    "https://content.estitor.com/ef94b1a6-c244-4dd3-84d0-1bc3b7496ee4-lg.webp",
+    "https://content.estitor.com/ed2d48c2-f41e-442e-9500-94fa96e21138-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, stan, 139m², Dalmatinska ulica, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/632142"
+}

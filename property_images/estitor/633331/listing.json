@@ -1,0 +1,31 @@
+{
+  "key": "estitor_633331",
+  "source": "estitor",
+  "listing_id": "633331",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633331",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633331"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 607,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:46.026372+00:00",
+  "images": [
+    "https://content.estitor.com/b3a77819-a7d8-4173-a156-63085d7966cf-lg.webp",
+    "https://content.estitor.com/e38fe35e-ce1a-4c4b-85fc-65531233ba0e-lg.webp",
+    "https://content.estitor.com/0dad8178-253c-4bed-b9ed-641eabb97573-lg.webp",
+    "https://content.estitor.com/310a0bbf-defd-4963-8944-e52d6907c51b-lg.webp",
+    "https://content.estitor.com/0a0fbe21-4565-4d7a-94d2-b01ce9b2468f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Stari Aerodrom, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633331"
+}

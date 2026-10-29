@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_679307",
+  "source": "patuljak",
+  "listing_id": "679307",
+  "listing_url": "https://patuljak.me/oglas/izdajem-sobe-za-radnike--679307",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-sobe-za-radnike--679307"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 985,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:35.247958+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/679307_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem sobe za radnike",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/679307"
+}

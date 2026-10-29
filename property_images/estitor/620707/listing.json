@@ -1,0 +1,39 @@
+{
+  "key": "estitor_620707",
+  "source": "estitor",
+  "listing_id": "620707",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-620707",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-620707"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 830,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:56.266841+00:00",
+  "images": [
+    "https://content.estitor.com/dc924af9-02d8-4696-aa59-432753e9757d-lg.webp",
+    "https://content.estitor.com/4bed4c71-cd60-4f61-a30c-0f914f680209-lg.webp",
+    "https://content.estitor.com/058af07c-e796-42d8-ae99-68dee4cb818a-lg.webp",
+    "https://content.estitor.com/cbdcea6d-8c2d-4064-9b85-0579415dfec6-lg.webp",
+    "https://content.estitor.com/f11f24b4-9be0-43f1-8a58-f3d6ae682615-lg.webp",
+    "https://content.estitor.com/9237cdab-a2b5-479f-bece-b00025436986-lg.webp",
+    "https://content.estitor.com/33d38948-a8c3-48e3-91f8-bc341e476533-lg.webp",
+    "https://content.estitor.com/5427674b-6989-44c2-8a90-7a46bff4364c-lg.webp",
+    "https://content.estitor.com/6726fee5-f276-44bd-835a-cccaca2fad9d-lg.webp",
+    "https://content.estitor.com/97e69b3d-2202-46a6-989b-2178594b2eab-lg.webp",
+    "https://content.estitor.com/9c8f505e-930c-4d48-8392-1d4d94169418-lg.webp",
+    "https://content.estitor.com/9fc02d0d-22bf-4f50-9ae9-4767b941f1e5-lg.webp",
+    "https://content.estitor.com/c64809a2-a556-4858-ac3f-89f475222f5e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 56m², Babin Do, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 13,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/620707"
+}

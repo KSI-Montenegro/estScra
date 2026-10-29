@@ -1,0 +1,34 @@
+{
+  "key": "estitor_604268",
+  "source": "estitor",
+  "listing_id": "604268",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-604268",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-cetinje/id-604268"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 847,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:07.774763+00:00",
+  "images": [
+    "https://content.estitor.com/0a6695ab-03cf-401c-91f1-21e9742a0d89-lg.webp",
+    "https://content.estitor.com/9cc241f1-2351-4fc4-9fae-165fa66b238c-lg.webp",
+    "https://content.estitor.com/0687d7aa-7497-4088-aa0b-4529c39ceeed-lg.webp",
+    "https://content.estitor.com/663cb2ea-a951-46e2-8416-33abb77b7b98-lg.webp",
+    "https://content.estitor.com/c9bcf83c-d3ad-4b30-aea0-a280f814765c-lg.webp",
+    "https://content.estitor.com/71920a4d-0e8c-44c8-b7c3-5dee539cbbd2-lg.webp",
+    "https://content.estitor.com/69137a97-af5d-47a1-9c10-b3f7f6349c5d-lg.webp",
+    "https://content.estitor.com/73e68dcf-a5ec-469a-b618-21018e95ee4f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 60m², Centar, Cetinje | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/604268"
+}

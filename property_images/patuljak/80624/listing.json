@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_80624",
+  "source": "patuljak",
+  "listing_id": "80624",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-garsonjera-28-m2-blok-6-podgorica--80624",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-garsonjera-28-m2-blok-6-podgorica--80624"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 155,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:57.704141+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80624_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, Garsonjera 28 m2, Blok 6, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80624"
+}

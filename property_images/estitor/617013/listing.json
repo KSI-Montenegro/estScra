@@ -1,0 +1,31 @@
+{
+  "key": "estitor_617013",
+  "source": "estitor",
+  "listing_id": "617013",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-617013",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-617013"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 177,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:06.113198+00:00",
+  "images": [
+    "https://content.estitor.com/12c35df6-728e-43c4-9460-9713107a3f2e-lg.webp",
+    "https://content.estitor.com/253490b9-84b0-401d-b6ab-503bae573fee-lg.webp",
+    "https://content.estitor.com/a84a3db2-db3f-403f-a910-b8fe5fb9afc7-lg.webp",
+    "https://content.estitor.com/3dec94ab-06f3-4564-8ddd-e427fc3c1cb7-lg.webp",
+    "https://content.estitor.com/0e39e8c1-a6fa-4592-8167-a2e24c85c9bc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 33m², City Kej, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617013"
+}

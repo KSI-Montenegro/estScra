@@ -1,0 +1,36 @@
+{
+  "key": "estitor_515231",
+  "source": "estitor",
+  "listing_id": "515231",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-515231",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-danilovgrad/id-515231"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 139,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:22.748277+00:00",
+  "images": [
+    "https://content.estitor.com/2404652c-6b97-4abd-bb1e-15d9995715a1-lg.webp",
+    "https://content.estitor.com/1599e13a-e691-4aa4-8305-2fcc60291f99-lg.webp",
+    "https://content.estitor.com/439aa980-2257-49cb-8db3-53e878142c78-lg.webp",
+    "https://content.estitor.com/7d4750e5-5812-4759-968b-5a5bf0a1a815-lg.webp",
+    "https://content.estitor.com/1d3eff24-9ab5-45ce-88fe-64e71548ea19-lg.webp",
+    "https://content.estitor.com/46d698b1-5807-4469-93ac-ac6870ca519c-lg.webp",
+    "https://content.estitor.com/4d86adda-723c-4eec-b595-fa3718f63a83-lg.webp",
+    "https://content.estitor.com/c36617eb-128f-4a19-8e88-ce0c69500bec-lg.webp",
+    "https://content.estitor.com/1e92fca2-9e8b-4ade-a376-e6f05548100a-lg.webp",
+    "https://content.estitor.com/90d27a85-0267-44b4-b06e-6a86466c55e1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 220m², Ćurilac, Danilovgrad | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/515231"
+}

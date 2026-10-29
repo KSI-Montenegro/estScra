@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_634110",
+  "source": "patuljak",
+  "listing_id": "634110",
+  "listing_url": "https://patuljak.me/oglas/plac-masline-podgorica-prodaja--634110",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-masline-podgorica-prodaja--634110"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 133,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:44.431320+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/07/634110_0.webp"
+  ],
+  "status": "ok",
+  "title": "Plac, Masline, Podgorica, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/634110"
+}

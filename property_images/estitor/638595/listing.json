@@ -1,0 +1,37 @@
+{
+  "key": "estitor_638595",
+  "source": "estitor",
+  "listing_id": "638595",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-podgorica/id-638595",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-podgorica/id-638595"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 77,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:51.793671+00:00",
+  "images": [
+    "https://content.estitor.com/7dbdf312-d1ac-4854-aef2-acb799fd8bb0-lg.webp",
+    "https://content.estitor.com/2ca125ce-6ccc-4965-8113-9e59e7cdc4b2-lg.webp",
+    "https://content.estitor.com/318a96d8-365a-4e47-bd65-33140aad7048-lg.webp",
+    "https://content.estitor.com/1d77659f-0ec6-4dc0-9045-947430c5add5-lg.webp",
+    "https://content.estitor.com/13605269-6e0d-4e26-bbe9-743382df4263-lg.webp",
+    "https://content.estitor.com/b461d5f0-8105-4946-800b-93d6c87593cf-lg.webp",
+    "https://content.estitor.com/1cc05880-b7dd-4fc3-9fec-eab83efc08b8-lg.webp",
+    "https://content.estitor.com/75a4a3e6-078e-49e7-8cd6-802f3ef336c0-lg.webp",
+    "https://content.estitor.com/e8d82b54-654f-4c67-807c-c161d36ac521-lg.webp",
+    "https://content.estitor.com/75790e10-8d37-4d79-9525-3bf2ba970eba-lg.webp",
+    "https://content.estitor.com/5eb23ade-7741-49f4-8068-22f7a4a0165a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, kuća, 180m², Momišići, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638595"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_622164",
+  "source": "estitor",
+  "listing_id": "622164",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622164",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-622164"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 140,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:45.343618+00:00",
+  "images": [
+    "https://content.estitor.com/9dc63d85-98c6-4fa5-9c9b-d08766e58c05-lg.webp",
+    "https://content.estitor.com/ff64cd69-1625-4069-90d7-1105a88964e1-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 445m², Zeta, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/622164"
+}

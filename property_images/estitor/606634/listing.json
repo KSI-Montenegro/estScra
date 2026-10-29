@@ -1,0 +1,38 @@
+{
+  "key": "estitor_606634",
+  "source": "estitor",
+  "listing_id": "606634",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-606634",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-606634"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 720,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:42.669936+00:00",
+  "images": [
+    "https://content.estitor.com/2534a1a1-f72c-41a7-bc21-d13c36b10c69-lg.webp",
+    "https://content.estitor.com/1165abc8-840d-46b6-ba4c-a24774a26334-lg.webp",
+    "https://content.estitor.com/6dce3a8b-596b-4b04-abca-8d0ef4efd121-lg.webp",
+    "https://content.estitor.com/9f40ac8c-73f4-4819-9a09-b09242836f2e-lg.webp",
+    "https://content.estitor.com/5d09f07d-fcde-4f2e-9143-2f5a02e46b63-lg.webp",
+    "https://content.estitor.com/00675926-77b0-4e14-98c6-d9834ecbc863-lg.webp",
+    "https://content.estitor.com/a17c3f23-19c7-4f29-9773-ed2b9bdeeff3-lg.webp",
+    "https://content.estitor.com/781758d0-e1f6-476b-9df8-aaf244dd23c4-lg.webp",
+    "https://content.estitor.com/c3d84e30-55f5-4a56-9afd-397e56c9f2a3-lg.webp",
+    "https://content.estitor.com/de6a176d-9f60-4397-8304-44871a90ef14-lg.webp",
+    "https://content.estitor.com/91d5c5fd-fbaf-4880-b122-c1829ae4c818-lg.webp",
+    "https://content.estitor.com/513de174-0b3e-41c3-88bf-6826fed6ff29-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 100m², Zeta, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606634"
+}

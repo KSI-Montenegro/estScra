@@ -1,0 +1,36 @@
+{
+  "key": "estitor_473295",
+  "source": "estitor",
+  "listing_id": "473295",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-473295",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-473295"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 128,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:15.698192+00:00",
+  "images": [
+    "https://content.estitor.com/aeaab247-c2a1-4403-b1d4-eb090de19648-lg.webp",
+    "https://content.estitor.com/9902684b-9f5e-4d4f-a683-13256ee4b5f7-lg.webp",
+    "https://content.estitor.com/961f9c8f-09fa-440e-aa53-666dba35579b-lg.webp",
+    "https://content.estitor.com/9ddd2869-f693-4e12-8a24-19cd7be75ec4-lg.webp",
+    "https://content.estitor.com/49f8d624-5b81-4c2a-af87-174ee0b576dc-lg.webp",
+    "https://content.estitor.com/d7c34e38-ba3e-4948-bcb0-9e8c30536232-lg.webp",
+    "https://content.estitor.com/d5cbc88b-450a-402c-a611-926aa5f95536-lg.webp",
+    "https://content.estitor.com/0fe10e1c-5dd7-4ec0-85d7-fec3b10163b5-lg.webp",
+    "https://content.estitor.com/3f5368c2-1639-4f14-b109-e1c06132e2e1-lg.webp",
+    "https://content.estitor.com/4691ddc8-be89-4f03-8645-2fcc76e6b770-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, kuća, 300m², Pržno, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/473295"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_640366",
+  "source": "estitor",
+  "listing_id": "640366",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-640366",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-kotor/id-640366"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 49,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:39.950643+00:00",
+  "images": [
+    "https://content.estitor.com/983cbfbd-2263-442c-b8d0-a69a3a45b2e1-lg.webp",
+    "https://content.estitor.com/8588f3ac-a588-411d-a152-c4a26ef367fc-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, plac, 5682m², Zagora, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/640366"
+}

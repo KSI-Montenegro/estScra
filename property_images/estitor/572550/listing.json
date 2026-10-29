@@ -1,0 +1,37 @@
+{
+  "key": "estitor_572550",
+  "source": "estitor",
+  "listing_id": "572550",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-572550",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-572550"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 185,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:09.879963+00:00",
+  "images": [
+    "https://content.estitor.com/6154b1cd-a66c-4d6c-8cec-6dfc21bbda68-lg.webp",
+    "https://content.estitor.com/b8ae09a2-4ca0-44a6-9581-b372f1767c68-lg.webp",
+    "https://content.estitor.com/9959b9de-dbb2-4c3e-9b86-da99752cd9a5-lg.webp",
+    "https://content.estitor.com/a62e0424-5cb1-4daf-97c2-1a934a1d8d2a-lg.webp",
+    "https://content.estitor.com/6938c326-a177-4322-bfe4-2e6968bc3497-lg.webp",
+    "https://content.estitor.com/d420e924-a957-41cd-83f2-771716f420a6-lg.webp",
+    "https://content.estitor.com/f3b974b7-83ad-4a92-a9e6-6c13194d0579-lg.webp",
+    "https://content.estitor.com/4a96df55-b3ed-4c00-8d82-7b8bcf050f22-lg.webp",
+    "https://content.estitor.com/2278caf7-00f9-4775-967f-087844610d40-lg.webp",
+    "https://content.estitor.com/10ff2206-6124-4d23-8461-32001c2e8e5d-lg.webp",
+    "https://content.estitor.com/6872dbcd-e789-47fe-b53f-e991bfb22e40-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 49m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/572550"
+}

@@ -1,0 +1,29 @@
+{
+  "key": "estitor_624092",
+  "source": "estitor",
+  "listing_id": "624092",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624092",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-624092"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 38,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:45.037527+00:00",
+  "images": [
+    "https://content.estitor.com/0732cb8b-1ca6-4206-9152-3a3694751e02-lg.webp",
+    "https://content.estitor.com/170c4f65-619e-4d62-972c-3d1b8cffb918-lg.webp",
+    "https://content.estitor.com/4ec224ea-7d86-4a3a-8876-76da9d40d84b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 500m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624092"
+}

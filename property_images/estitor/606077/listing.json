@@ -1,0 +1,34 @@
+{
+  "key": "estitor_606077",
+  "source": "estitor",
+  "listing_id": "606077",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606077",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606077"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 721,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:42.958128+00:00",
+  "images": [
+    "https://content.estitor.com/ef3ba29d-c768-4750-954f-df1193f3586d-lg.webp",
+    "https://content.estitor.com/e8380e6f-cd02-4786-8d3b-bfd645ed48be-lg.webp",
+    "https://content.estitor.com/ba8d33d2-24af-4bd8-8d60-3be1348b3a25-lg.webp",
+    "https://content.estitor.com/091645e7-c388-4392-854a-ea464af1ff41-lg.webp",
+    "https://content.estitor.com/500b0b56-6dbf-4224-b9a7-984bf9ded81d-lg.webp",
+    "https://content.estitor.com/37774755-d644-4b51-a39f-ad945d2f48cb-lg.webp",
+    "https://content.estitor.com/7238e841-7d16-4d03-ad80-205ee8813bc4-lg.webp",
+    "https://content.estitor.com/6abce5f6-0229-434e-9939-890706d7ade6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Master Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606077"
+}

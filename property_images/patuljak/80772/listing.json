@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_80772",
+  "source": "patuljak",
+  "listing_id": "80772",
+  "listing_url": "https://patuljak.me/oglas/prodajem-jednosoban-stan-48-m2-beogradska-ulica-10--80772",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-jednosoban-stan-48-m2-beogradska-ulica-10--80772"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 23,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:44.310282+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/80772_11.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem jednosoban stan 48 m2, Beogradska ulica, 103.000",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/80772"
+}

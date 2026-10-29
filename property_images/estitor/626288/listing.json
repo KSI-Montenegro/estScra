@@ -1,0 +1,35 @@
+{
+  "key": "estitor_626288",
+  "source": "estitor",
+  "listing_id": "626288",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626288",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-626288"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 648,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:06.540372+00:00",
+  "images": [
+    "https://content.estitor.com/5c27979c-1494-439c-b2bb-6bf1427c75f8-lg.webp",
+    "https://content.estitor.com/4dc7bc42-ed57-429c-8ce0-443e334e8afe-lg.webp",
+    "https://content.estitor.com/949a4b52-5e54-49bb-b9be-fef83f427dc1-lg.webp",
+    "https://content.estitor.com/d88eab7e-2369-4ce1-9780-37fb057e5e7d-lg.webp",
+    "https://content.estitor.com/204e3757-9dd3-4b96-b831-9e6b753ce999-lg.webp",
+    "https://content.estitor.com/9a4adbed-8647-4dc0-a9ff-4e0abb922177-lg.webp",
+    "https://content.estitor.com/dcb60cdd-eaea-4550-9056-58e6ede60690-lg.webp",
+    "https://content.estitor.com/6a46477f-5f2a-4a6e-ae03-18f02bd9cc28-lg.webp",
+    "https://content.estitor.com/84d38c52-41c2-492b-8d92-3c94faf86c8f-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, trosoban stan, 93m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/626288"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_76412",
+  "source": "patuljak",
+  "listing_id": "76412",
+  "listing_url": "https://patuljak.me/oglas/prodajem-plac-u-mataguzima-1500m--76412",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-plac-u-mataguzima-1500m--76412"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 76,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:09.151288+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76412_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76412_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76412_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76412_3.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem plac u Matagužima, 1500m",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76412"
+}

@@ -1,0 +1,34 @@
+{
+  "key": "estitor_641370",
+  "source": "estitor",
+  "listing_id": "641370",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641370",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-641370"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 788,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:23.044084+00:00",
+  "images": [
+    "https://content.estitor.com/211b803b-f765-478b-943a-315929003b08-lg.webp",
+    "https://content.estitor.com/bd686151-4955-4ff4-9d8d-f6e1a4b6e579-lg.webp",
+    "https://content.estitor.com/70e17d2c-7b3c-4ac0-bd78-7639f64f7a75-lg.webp",
+    "https://content.estitor.com/6c31ba98-f0dd-456d-8030-3641c689923d-lg.webp",
+    "https://content.estitor.com/cedfef15-1d8d-4f35-a542-f0101808ad42-lg.webp",
+    "https://content.estitor.com/56ee6de1-1b76-4cd0-8cb0-65ecdb29df2b-lg.webp",
+    "https://content.estitor.com/f8b6c7fa-a7ca-440b-8702-b88182fef59c-lg.webp",
+    "https://content.estitor.com/56e31cd5-54d7-4fa7-aabb-ec58150048bf-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 18m², Maine, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/641370"
+}

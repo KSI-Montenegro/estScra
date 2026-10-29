@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_81445",
+  "source": "patuljak",
+  "listing_id": "81445",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dugorocno-stan-49-m2-ljubovic-podgorica--81445",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dugorocno-stan-49-m2-ljubovic-podgorica--81445"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 153,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:57.602151+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/81445_4.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem dugoročno stan 49 m2, Ljubović, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/81445"
+}

@@ -1,0 +1,32 @@
+{
+  "key": "estitor_642837",
+  "source": "estitor",
+  "listing_id": "642837",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-642837",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-642837"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 134,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:43.395423+00:00",
+  "images": [
+    "https://content.estitor.com/d7e214bb-3bbd-435d-86b1-91568892b964-lg.webp",
+    "https://content.estitor.com/fbf9cf0d-38f6-40c4-a3e9-8ba1f85a4160-lg.webp",
+    "https://content.estitor.com/c65ba903-27ec-4793-9a3d-b246ed3c6bac-lg.webp",
+    "https://content.estitor.com/6374851c-de93-4f30-a444-b0c9443a063d-lg.webp",
+    "https://content.estitor.com/1f441dab-2b2c-4513-b3bd-0654a1efdcad-lg.webp",
+    "https://content.estitor.com/25581c55-5aea-4de7-be37-ed8eacec5c4c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 150m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/642837"
+}

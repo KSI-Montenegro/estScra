@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_82318",
+  "source": "patuljak",
+  "listing_id": "82318",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-kuca-120-m2-velje-brdo-podgorica--82318",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-kuca-120-m2-velje-brdo-podgorica--82318"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 974,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:29.717840+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82318_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se kuća 120 m2, Velje Brdo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82318"
+}

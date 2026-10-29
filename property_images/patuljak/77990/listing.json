@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_77990",
+  "source": "patuljak",
+  "listing_id": "77990",
+  "listing_url": "https://patuljak.me/oglas/prodaja-stana-u-becicima--77990",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-stana-u-becicima--77990"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 32,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:48.189381+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77990_13.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja stana u Bečićima",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77990"
+}

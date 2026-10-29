@@ -1,0 +1,33 @@
+{
+  "key": "estitor_603090",
+  "source": "estitor",
+  "listing_id": "603090",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603090",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-603090"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 767,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:08.709441+00:00",
+  "images": [
+    "https://content.estitor.com/6c32de4a-5848-4858-9735-3150e55e848d-lg.webp",
+    "https://content.estitor.com/4f317796-330a-438f-95a7-74e4699494e2-lg.webp",
+    "https://content.estitor.com/c3e787ce-ac30-481e-8fc1-a533fcaebf06-lg.webp",
+    "https://content.estitor.com/72d3bc8b-045b-4497-a1b1-648c1cbf1103-lg.webp",
+    "https://content.estitor.com/c43e78f7-5bf3-4650-8733-23fee56fb1b0-lg.webp",
+    "https://content.estitor.com/1794c0d7-0bc5-43e1-9fc5-8c9673baba02-lg.webp",
+    "https://content.estitor.com/71e878b1-dc51-4dd1-bba0-11fc43943499-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 65m², Škaljari, Kotor | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/603090"
+}

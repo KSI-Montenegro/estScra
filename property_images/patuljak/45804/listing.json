@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_45804",
+  "source": "patuljak",
+  "listing_id": "45804",
+  "listing_url": "https://patuljak.me/oglas/prodajem-zemljiste-dobra-voda--45804",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-zemljiste-dobra-voda--45804"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 206,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:25.499760+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/01/45804_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem zemljiste, Dobra Voda",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/45804"
+}

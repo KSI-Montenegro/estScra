@@ -1,0 +1,34 @@
+{
+  "key": "estitor_535589",
+  "source": "estitor",
+  "listing_id": "535589",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-535589",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-535589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 680,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:22.720979+00:00",
+  "images": [
+    "https://content.estitor.com/e88caf8c-6d16-434d-8cb4-09eff686dcf8-lg.webp",
+    "https://content.estitor.com/d51821dc-cdc6-4785-9852-446cb9ddbc6f-lg.webp",
+    "https://content.estitor.com/7b3b0a71-9998-434d-bbdd-bd048a8856af-lg.webp",
+    "https://content.estitor.com/79dbca2a-8faa-4bf2-ba68-04def78d918c-lg.webp",
+    "https://content.estitor.com/afe69812-3995-47a2-941c-cc4bcc115c92-lg.webp",
+    "https://content.estitor.com/369f0ddb-eacb-45d0-9cdd-321e20462932-lg.webp",
+    "https://content.estitor.com/733c5e05-5e9d-4b94-a200-8c4aa94b0fe0-lg.webp",
+    "https://content.estitor.com/58f3cecd-831d-4979-9b3e-d1b12fafc3a7-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 47m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/535589"
+}

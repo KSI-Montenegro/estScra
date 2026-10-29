@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_566823",
+  "source": "patuljak",
+  "listing_id": "566823",
+  "listing_url": "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-50m2-stari-aerodrom-p--566823",
+  "listing_urls": [
+    "https://patuljak.me/oglas/za-izdavanje-jednosoban-stan-50m2-stari-aerodrom-p--566823"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 907,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:48.495987+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_19.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_15.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2023/04/566823_20.webp"
+  ],
+  "status": "ok",
+  "title": "Za izdavanje jednosoban stan 50m2, Stari Aerodrom, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/566823"
+}

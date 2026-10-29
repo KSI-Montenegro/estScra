@@ -1,0 +1,38 @@
+{
+  "key": "estitor_617828",
+  "source": "estitor",
+  "listing_id": "617828",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617828",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-617828"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 681,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:23.181075+00:00",
+  "images": [
+    "https://content.estitor.com/b66a768c-9986-4624-80f8-3edd7fe35a96-lg.webp",
+    "https://content.estitor.com/2686b3cb-73ad-460e-8ad4-293677e15982-lg.webp",
+    "https://content.estitor.com/57742b8c-3b66-4625-836b-a91542c1bba6-lg.webp",
+    "https://content.estitor.com/f77019bb-2205-4677-8790-615530e2ce22-lg.webp",
+    "https://content.estitor.com/07f574a1-7d29-41aa-ab3b-c3639058b22e-lg.webp",
+    "https://content.estitor.com/5c4d0fac-a735-4dc4-917f-705ca3a7d3fc-lg.webp",
+    "https://content.estitor.com/f4514728-d5e3-47c9-9bc4-7346442b2e20-lg.webp",
+    "https://content.estitor.com/fb3a5676-a49d-410b-873e-b65838386ced-lg.webp",
+    "https://content.estitor.com/56eb75b3-5ce1-447a-908d-9b602ada27c2-lg.webp",
+    "https://content.estitor.com/2f4aedd7-a78d-45aa-856c-91b7e2b04d2d-lg.webp",
+    "https://content.estitor.com/53911644-213e-40bd-931c-90c5dfae1f77-lg.webp",
+    "https://content.estitor.com/a83c3433-e4db-486c-a7d4-cd475797a2db-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Blok 9, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617828"
+}

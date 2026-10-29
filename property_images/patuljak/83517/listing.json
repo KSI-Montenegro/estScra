@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_83517",
+  "source": "patuljak",
+  "listing_id": "83517",
+  "listing_url": "https://patuljak.me/oglas/izdajem-jednosoban-stan-43-m2-zabjelo-podgorica--83517",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-jednosoban-stan-43-m2-zabjelo-podgorica--83517"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 140,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:48.929888+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83517_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem namjesten jednosoban stan 43 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83517"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_552872",
+  "source": "estitor",
+  "listing_id": "552872",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-552872",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-552872"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 822,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:51.225811+00:00",
+  "images": [
+    "https://content.estitor.com/images/20250120_122921__f81ba8f5-lg.webp",
+    "https://content.estitor.com/images/IMG-75a9137014334070d3a52dc7caaf06e2-V__52320a5e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 60m², Blok 5, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/552872"
+}

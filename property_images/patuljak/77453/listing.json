@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_77453",
+  "source": "patuljak",
+  "listing_id": "77453",
+  "listing_url": "https://patuljak.me/oglas/namjestena-garsonjera-30-m2-tuski-put-podgorica--77453",
+  "listing_urls": [
+    "https://patuljak.me/oglas/namjestena-garsonjera-30-m2-tuski-put-podgorica--77453"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 31,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:03.767939+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77453_6.webp"
+  ],
+  "status": "ok",
+  "title": "Namještena garsonjera, 30 m2, Tuški put, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77453"
+}

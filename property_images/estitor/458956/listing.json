@@ -1,0 +1,33 @@
+{
+  "key": "estitor_458956",
+  "source": "estitor",
+  "listing_id": "458956",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-458956",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-458956"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 908,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:48.908222+00:00",
+  "images": [
+    "https://content.estitor.com/9f6b8817-4368-4dd6-aae8-ff9566c00fb5-lg.webp",
+    "https://content.estitor.com/b0790935-5aee-428c-8014-f1f30e79f3df-lg.webp",
+    "https://content.estitor.com/b8be67aa-4e03-434c-90b4-272439f86d45-lg.webp",
+    "https://content.estitor.com/e276f9ab-a4fb-4379-8548-ba2967908d0c-lg.webp",
+    "https://content.estitor.com/b91027c0-6cdb-4aca-a0b8-e0a7011e9fcc-lg.webp",
+    "https://content.estitor.com/72b3bf9c-6280-4a26-a6a3-26b0d60e7fb6-lg.webp",
+    "https://content.estitor.com/d3d25ab3-b6a6-4717-b0ca-080b11a6815d-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 68m², Pobrežje, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/458956"
+}

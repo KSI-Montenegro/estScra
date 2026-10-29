@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_76322",
+  "source": "patuljak",
+  "listing_id": "76322",
+  "listing_url": "https://patuljak.me/oglas/trazim-stan-ili-garsonjeru-za-izdavanje--76322",
+  "listing_urls": [
+    "https://patuljak.me/oglas/trazim-stan-ili-garsonjeru-za-izdavanje--76322"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 942,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:10.941322+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/76322_0.webp"
+  ],
+  "status": "ok",
+  "title": "Trazim stan ili garsonjeru za izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/76322"
+}

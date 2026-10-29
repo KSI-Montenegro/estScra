@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_82118",
+  "source": "patuljak",
+  "listing_id": "82118",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-sobe-podgorica--82118",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-sobe-podgorica--82118"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 990,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:37.471469+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82118_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje sobe, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82118"
+}

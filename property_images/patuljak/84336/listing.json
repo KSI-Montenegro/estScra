@@ -1,0 +1,33 @@
+{
+  "key": "patuljak_84336",
+  "source": "patuljak",
+  "listing_id": "84336",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru-35-m2-zabjelo-podgorica--84336",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru-35-m2-zabjelo-podgorica--84336"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 134,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:44.950751+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84336_6.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem garsonjeru 35 m2, Zabjelo, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84336"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "realitica_3946765",
+  "source": "realitica",
+  "listing_id": "3946765",
+  "listing_url": "https://www.realitica.com/hr/listing/3946765",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3946765"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 16,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:43.199268+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3946765_img_9727.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946765_img_9726.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946765_img_9740.jpeg",
+    "https://www.realitica.com/images/listing_photos/3946765_img_9709.jpeg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Stan-Apartman, Bar Centar",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3946765"
+}

@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_681646",
+  "source": "patuljak",
+  "listing_id": "681646",
+  "listing_url": "https://patuljak.me/oglas/zemljiste-stoj-ulcinj-prodaja--681646",
+  "listing_urls": [
+    "https://patuljak.me/oglas/zemljiste-stoj-ulcinj-prodaja--681646"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 96,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:22:49.101871+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/03/681646_1.webp"
+  ],
+  "status": "ok",
+  "title": "Zemljiste, Štoj, Ulcinj, Prodaja",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/681646"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_624150",
+  "source": "estitor",
+  "listing_id": "624150",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-624150",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-624150"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 824,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:52.475350+00:00",
+  "images": [
+    "https://content.estitor.com/f0ba8ca7-9746-4740-89d1-65f4159c816b-lg.webp",
+    "https://content.estitor.com/f2a86bfa-bd78-4d1c-a160-71270a51de42-lg.webp",
+    "https://content.estitor.com/963bb167-26ee-4cd4-b546-38333182dbb0-lg.webp",
+    "https://content.estitor.com/b31b2457-b488-49bf-9937-2330a23d24be-lg.webp",
+    "https://content.estitor.com/c76fef68-e3d0-439b-8763-c295982c95c0-lg.webp",
+    "https://content.estitor.com/2270dc85-8920-4206-a8e6-f469f7824a20-lg.webp",
+    "https://content.estitor.com/307bdd70-f11e-4dae-a165-3a1295950289-lg.webp",
+    "https://content.estitor.com/efca347d-88d7-4782-9117-5dfbcfef0693-lg.webp",
+    "https://content.estitor.com/82705788-c413-47dc-8760-c5f749c78596-lg.webp",
+    "https://content.estitor.com/ce933130-e707-4a9e-a35a-2c253fc86b71-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 43m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/624150"
+}

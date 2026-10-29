@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_83322",
+  "source": "patuljak",
+  "listing_id": "83322",
+  "listing_url": "https://patuljak.me/oglas/garsonjera-kod-gintasa--83322",
+  "listing_urls": [
+    "https://patuljak.me/oglas/garsonjera-kod-gintasa--83322"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 856,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:13.151836+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83322_9.webp"
+  ],
+  "status": "ok",
+  "title": "Garsonjera kod Gintaša",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83322"
+}

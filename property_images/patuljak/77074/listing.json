@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_77074",
+  "source": "patuljak",
+  "listing_id": "77074",
+  "listing_url": "https://patuljak.me/oglas/izdajem-dvosoban-stan-u-budvi--77074",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-dvosoban-stan-u-budvi--77074"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 176,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:09.620598+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/77074_0.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem dvosoban stan u Budvi",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77074"
+}

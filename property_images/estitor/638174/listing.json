@@ -1,0 +1,37 @@
+{
+  "key": "estitor_638174",
+  "source": "estitor",
+  "listing_id": "638174",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638174",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-638174"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 135,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:21.376315+00:00",
+  "images": [
+    "https://content.estitor.com/ed28652a-4f10-4956-898e-1367589dcf78-lg.webp",
+    "https://content.estitor.com/803ab13b-ea94-458e-b60e-0a49dc56de4e-lg.webp",
+    "https://content.estitor.com/fe6d64e2-c7ea-45aa-8ea9-2820713437a2-lg.webp",
+    "https://content.estitor.com/bc878427-9c3e-46cb-90ac-9677e387ea27-lg.webp",
+    "https://content.estitor.com/262d444c-390f-42f7-bde6-e60526e02c0a-lg.webp",
+    "https://content.estitor.com/f8d2c737-d46f-4e8c-b51c-67b5e6bd6d4e-lg.webp",
+    "https://content.estitor.com/434072e3-b173-46f8-b809-ff557a97c2f4-lg.webp",
+    "https://content.estitor.com/4ba2f1e6-e2fe-4a1e-8236-d452f120ec51-lg.webp",
+    "https://content.estitor.com/50e6c5f9-2b32-4e15-8900-e00cda5d3243-lg.webp",
+    "https://content.estitor.com/f1e8f803-a0e4-439c-8f42-6ef4fd9b788d-lg.webp",
+    "https://content.estitor.com/11edaaf6-2728-4351-bcdd-608e7d84d0eb-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 85m², Gorica C, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/638174"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "estitor_621521",
+  "source": "estitor",
+  "listing_id": "621521",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-621521",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-621521"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 15,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:30.995838+00:00",
+  "images": [
+    "https://content.estitor.com/6ee8fd1d-7ec4-4420-9d12-b3047b34a582-lg.webp",
+    "https://content.estitor.com/5b91785d-6f9a-416b-9232-f6575bbc7709-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 35m², Centar, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/621521"
+}

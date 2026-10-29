@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_83080",
+  "source": "patuljak",
+  "listing_id": "83080",
+  "listing_url": "https://patuljak.me/oglas/prodaja-jednosoban-stan-42-m2-lazi-budva--83080",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-jednosoban-stan-42-m2-lazi-budva--83080"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 57,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:01.455342+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/83080_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja, Jednosoban stan 42 m2, Lazi, Budva",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/83080"
+}

@@ -1,0 +1,33 @@
+{
+  "key": "estitor_621589",
+  "source": "estitor",
+  "listing_id": "621589",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-621589",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-621589"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Likely agents",
+      "row": 120,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:07.725483+00:00",
+  "images": [
+    "https://content.estitor.com/d4105533-30b7-4c78-8498-abf886c82d6b-lg.webp",
+    "https://content.estitor.com/e7baf5db-66fe-4e94-aac1-27ad28f3d9d0-lg.webp",
+    "https://content.estitor.com/4d244565-042e-4a56-a32d-cdc61cc21171-lg.webp",
+    "https://content.estitor.com/2f28a963-ad34-4fda-b494-252fdf9b168b-lg.webp",
+    "https://content.estitor.com/8dd033b0-03d6-499d-acbe-8bd8b8fe5317-lg.webp",
+    "https://content.estitor.com/6a93f6f1-66a3-40a9-9472-885428e97570-lg.webp",
+    "https://content.estitor.com/38de799e-0c3a-46c6-aec4-185203313fa6-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 50m², Dubovica, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/621589"
+}

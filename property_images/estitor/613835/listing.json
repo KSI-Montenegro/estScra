@@ -1,0 +1,34 @@
+{
+  "key": "estitor_613835",
+  "source": "estitor",
+  "listing_id": "613835",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-613835",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-613835"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 635,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:59.658432+00:00",
+  "images": [
+    "https://content.estitor.com/cd8a46c2-4e92-4b39-902a-5cd3e9353702-lg.webp",
+    "https://content.estitor.com/cb2a7e4b-c237-4206-ab1b-25e8ac5f2441-lg.webp",
+    "https://content.estitor.com/b3e7cd92-507c-4528-aa7f-1bf94d43b1bd-lg.webp",
+    "https://content.estitor.com/ec8d567b-e1e3-49e2-9c00-72d61db2fe7b-lg.webp",
+    "https://content.estitor.com/20e89373-b385-46ae-895f-4c06e4f85ef0-lg.webp",
+    "https://content.estitor.com/d190cd79-b7ea-4cf3-88d8-a9536a44aeae-lg.webp",
+    "https://content.estitor.com/c9fc9ae3-f84e-4319-a553-3e1fda07845e-lg.webp",
+    "https://content.estitor.com/78226ed3-1c44-4b12-b22c-88e8cc88735a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², Central Point, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/613835"
+}

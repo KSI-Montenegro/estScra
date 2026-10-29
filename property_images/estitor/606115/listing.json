@@ -1,0 +1,34 @@
+{
+  "key": "estitor_606115",
+  "source": "estitor",
+  "listing_id": "606115",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606115",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606115"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 906,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:47.653318+00:00",
+  "images": [
+    "https://content.estitor.com/083a99c0-a561-4e1b-ab29-77ca0ae8e6ea-lg.webp",
+    "https://content.estitor.com/9d6c705f-4b63-47cb-a5aa-d2d4b5948bce-lg.webp",
+    "https://content.estitor.com/efcfb34a-0223-4a48-892d-60e51ae9811b-lg.webp",
+    "https://content.estitor.com/2c1e392b-a3e7-4be7-a436-8859d7a6437a-lg.webp",
+    "https://content.estitor.com/d1ce0a27-7160-4dbf-a594-9a8c93c48501-lg.webp",
+    "https://content.estitor.com/4992b316-34f4-4003-85d4-897b913646c0-lg.webp",
+    "https://content.estitor.com/a6ede8aa-d6c6-4ab6-99df-bd24aa90a49c-lg.webp",
+    "https://content.estitor.com/c2296162-3f40-4578-9c97-de329d64c8c4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 45m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606115"
+}

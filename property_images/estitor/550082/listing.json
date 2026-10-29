@@ -1,0 +1,33 @@
+{
+  "key": "estitor_550082",
+  "source": "estitor",
+  "listing_id": "550082",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-550082",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-550082"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 619,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:51.623507+00:00",
+  "images": [
+    "https://content.estitor.com/f486c472-0709-4fb4-bb1b-66371652244d-lg.webp",
+    "https://content.estitor.com/50226b9d-bdc0-44d6-9a8a-b09ea7cba584-lg.webp",
+    "https://content.estitor.com/85b7dfff-6910-413c-a1cc-1baebc97a93a-lg.webp",
+    "https://content.estitor.com/85b4d1b1-3c11-462d-ada2-1252c2704403-lg.webp",
+    "https://content.estitor.com/afab5e7e-db6f-48cf-9be2-2e3c8684aa07-lg.webp",
+    "https://content.estitor.com/d341a93b-1f8d-4a5b-b67e-aa05d0eb4f71-lg.webp",
+    "https://content.estitor.com/9b9b0c69-7298-435d-a739-021d917c5c4c-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 61m², Preko Morače, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/550082"
+}

@@ -1,0 +1,34 @@
+{
+  "key": "patuljak_82187",
+  "source": "patuljak",
+  "listing_id": "82187",
+  "listing_url": "https://patuljak.me/oglas/izdajem-poslovni-prostor-blok-6-podgorica--82187",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-poslovni-prostor-blok-6-podgorica--82187"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 33,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:42.507996+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/82187_1.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem poslovni prostor, Blok 6, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/82187"
+}

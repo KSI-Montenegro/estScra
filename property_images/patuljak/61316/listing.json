@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_61316",
+  "source": "patuljak",
+  "listing_id": "61316",
+  "listing_url": "https://patuljak.me/oglas/prodaje-se-kuca-u-gornjim-vranicima--61316",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaje-se-kuca-u-gornjim-vranicima--61316"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 76,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:13:13.908045+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/61316_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/61316_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/61316_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/05/61316_3.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaje se kuca u Gornjim Vranicima",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/61316"
+}

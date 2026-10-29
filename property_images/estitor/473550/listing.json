@@ -1,0 +1,37 @@
+{
+  "key": "estitor_473550",
+  "source": "estitor",
+  "listing_id": "473550",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-473550",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-ulcinj/id-473550"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 255,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:48.665908+00:00",
+  "images": [
+    "https://content.estitor.com/1e8cd91b-906a-48a0-a9c7-137e3b37fe62-lg.webp",
+    "https://content.estitor.com/930a771f-d443-4e54-8dd8-8c87d0155165-lg.webp",
+    "https://content.estitor.com/e0a332e5-099c-41dd-b84b-24a2e0e044e7-lg.webp",
+    "https://content.estitor.com/22cce9b8-9c6b-4dab-91d4-750dcd8b35a7-lg.webp",
+    "https://content.estitor.com/5511fcf0-194f-421b-8d45-d4313e724cc3-lg.webp",
+    "https://content.estitor.com/1bc5ed22-a0de-4260-a12a-889aeee12053-lg.webp",
+    "https://content.estitor.com/89df1556-7473-46b1-85e2-8d363e9feed4-lg.webp",
+    "https://content.estitor.com/f077b929-05a1-4369-a094-8f90405d33ae-lg.webp",
+    "https://content.estitor.com/2c1f7d76-9b88-4a74-aaad-3257873a276b-lg.webp",
+    "https://content.estitor.com/157b6cbd-dca0-4368-9816-fb6645e27e3f-lg.webp",
+    "https://content.estitor.com/cf1fdf39-753e-4f0a-a244-08c2b116c6d4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 46m², Stari grad Ulcinj, Ulcinj | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/473550"
+}

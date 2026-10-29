@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_77793",
+  "source": "patuljak",
+  "listing_id": "77793",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-garsonjera-30m-zagoric-podgorica--77793",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-garsonjera-30m-zagoric-podgorica--77793"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 881,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:31.157133+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_18.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_17.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_16.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_14.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_13.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/77793_15.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m, Zagorič, Podgorica",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/77793"
+}

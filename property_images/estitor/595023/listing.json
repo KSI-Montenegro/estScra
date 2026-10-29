@@ -1,0 +1,38 @@
+{
+  "key": "estitor_595023",
+  "source": "estitor",
+  "listing_id": "595023",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-595023",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-595023"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 989,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:36.666979+00:00",
+  "images": [
+    "https://content.estitor.com/0fb5d121-f2d5-44a6-a9eb-8825100fc32e-lg.webp",
+    "https://content.estitor.com/96fe7c28-e918-4d3b-822b-a3752577d55c-lg.webp",
+    "https://content.estitor.com/c291c90c-d522-477c-8cd3-63643c0ef81e-lg.webp",
+    "https://content.estitor.com/6f9e29c7-507f-4d92-8349-09eee93030fa-lg.webp",
+    "https://content.estitor.com/288f50d7-784a-4748-993e-7938a7f2c479-lg.webp",
+    "https://content.estitor.com/6c8a993d-d2af-442d-8701-1b03f7905ded-lg.webp",
+    "https://content.estitor.com/9ff9f48f-924f-4c77-ba64-5dc66833fac7-lg.webp",
+    "https://content.estitor.com/cfdd2573-25ab-4abc-9ce1-f84a8060c31f-lg.webp",
+    "https://content.estitor.com/638953a6-0a52-4187-957c-a5650f205be7-lg.webp",
+    "https://content.estitor.com/9bd13cc5-c29d-43ee-bcb6-3971e62b7363-lg.webp",
+    "https://content.estitor.com/b9fb9618-2fad-4084-8494-c125b783bc44-lg.webp",
+    "https://content.estitor.com/db101ed6-5c4e-4719-a9db-427ea9e25ac3-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 30m², Sutorina, Herceg Novi | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/595023"
+}

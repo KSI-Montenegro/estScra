@@ -1,0 +1,35 @@
+{
+  "key": "estitor_618438",
+  "source": "estitor",
+  "listing_id": "618438",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618438",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-618438"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 871,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:24.416266+00:00",
+  "images": [
+    "https://content.estitor.com/201d891a-98a7-4358-9771-0b7ed85f2180-lg.webp",
+    "https://content.estitor.com/01d1633f-cca7-459d-8e9c-a078a732abcb-lg.webp",
+    "https://content.estitor.com/e381a6a3-9296-45c1-a7a8-f71762a81695-lg.webp",
+    "https://content.estitor.com/27316541-83de-4aec-a14e-7927fc121696-lg.webp",
+    "https://content.estitor.com/bc633efa-d04b-4ad5-8076-bcdb1744b16d-lg.webp",
+    "https://content.estitor.com/7f5ce6ec-2502-470b-a47d-d1979cd4d919-lg.webp",
+    "https://content.estitor.com/03caf665-f07e-4f38-b168-8c4c81d3b641-lg.webp",
+    "https://content.estitor.com/ce034521-7510-49a5-b9b0-7d81c7e32a72-lg.webp",
+    "https://content.estitor.com/95401bf4-d2e8-4175-8313-c65785420cce-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 37m², Kod Big Fashion-a, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/618438"
+}

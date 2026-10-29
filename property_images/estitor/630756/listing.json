@@ -1,0 +1,28 @@
+{
+  "key": "estitor_630756",
+  "source": "estitor",
+  "listing_id": "630756",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-630756",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-podgorica/id-630756"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 30,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:40.865151+00:00",
+  "images": [
+    "https://content.estitor.com/c2f22595-f854-46c3-8469-b40eaa38ed08-lg.webp",
+    "https://content.estitor.com/17c7ee8d-6037-47a7-8c77-4ff25236c34e-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 90m², City Kvart, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/630756"
+}

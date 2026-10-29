@@ -1,0 +1,31 @@
+{
+  "key": "estitor_601783",
+  "source": "estitor",
+  "listing_id": "601783",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-601783",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-bar/id-601783"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 198,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:17.109005+00:00",
+  "images": [
+    "https://content.estitor.com/8daa49dd-5326-44f6-b4c8-54ac9aac2c80-lg.webp",
+    "https://content.estitor.com/99c7420e-6400-4fd5-afc2-8e856669a2af-lg.webp",
+    "https://content.estitor.com/a76d21a2-0b52-4b85-85ef-a671927f818a-lg.webp",
+    "https://content.estitor.com/1574dc34-2f67-4570-8a44-f5ccd32effd7-lg.webp",
+    "https://content.estitor.com/f54eab73-042f-4424-9108-43becc9325f5-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 2000m², Centar, Bar | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601783"
+}

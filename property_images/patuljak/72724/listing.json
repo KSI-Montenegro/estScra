@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_72724",
+  "source": "patuljak",
+  "listing_id": "72724",
+  "listing_url": "https://patuljak.me/oglas/prodajem-dvosoban-stan--72724",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-dvosoban-stan--72724"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 197,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:19.852468+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/07/72724_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem dvosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/72724"
+}

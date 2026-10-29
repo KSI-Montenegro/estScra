@@ -1,0 +1,34 @@
+{
+  "key": "estitor_610277",
+  "source": "estitor",
+  "listing_id": "610277",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610277",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-610277"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 880,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:29.925185+00:00",
+  "images": [
+    "https://content.estitor.com/b2fcdb20-7e70-489d-99a6-02ec03f4fc60-lg.webp",
+    "https://content.estitor.com/f271e541-c17a-4afb-8213-05ea084b2066-lg.webp",
+    "https://content.estitor.com/1223d809-3ebb-49fd-8c7b-e80fc6d39ecb-lg.webp",
+    "https://content.estitor.com/b0fb1525-2aba-4bb2-a098-15576770e511-lg.webp",
+    "https://content.estitor.com/12d329db-2bef-4d4a-9b38-c19f5016ce9c-lg.webp",
+    "https://content.estitor.com/fdf1b9a7-d099-416c-afe3-56c7eb64f92c-lg.webp",
+    "https://content.estitor.com/1b0e9ad4-a241-4e21-ae71-306329d3ce07-lg.webp",
+    "https://content.estitor.com/ec403101-7ea3-4482-9ca2-4279fdfa20d4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 40m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610277"
+}

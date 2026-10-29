@@ -1,0 +1,28 @@
+{
+  "key": "estitor_627119",
+  "source": "estitor",
+  "listing_id": "627119",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-627119",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-poslovni-prostor/grad-budva/id-627119"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 169,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:01.631101+00:00",
+  "images": [
+    "https://content.estitor.com/144a75c6-06b2-43a1-9f1f-ba9936e718db-lg.webp",
+    "https://content.estitor.com/eadc50e4-e54c-483a-91d0-96c149d90648-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor, 46m², Babilonija, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/627119"
+}

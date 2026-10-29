@@ -1,0 +1,36 @@
+{
+  "key": "realitica_3947887",
+  "source": "realitica",
+  "listing_id": "3947887",
+  "listing_url": "https://www.realitica.com/hr/listing/3947887",
+  "listing_urls": [
+    "https://www.realitica.com/hr/listing/3947887"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Rejected",
+      "row": 16,
+      "column": "url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:25:25.698438+00:00",
+  "images": [
+    "https://www.realitica.com/images/listing_photos/3947887_1000022861.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000022869.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023081.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023079.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000022877.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023071.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023080.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023086.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023085.jpg",
+    "https://www.realitica.com/images/listing_photos/3947887_1000023082.jpg"
+  ],
+  "status": "ok",
+  "title": "Prodajem Kuću, Tološi",
+  "extraction_method": "realitica_full_size_gallery_links",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "realitica/3947887"
+}

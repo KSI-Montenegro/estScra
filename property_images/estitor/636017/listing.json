@@ -1,0 +1,36 @@
+{
+  "key": "estitor_636017",
+  "source": "estitor",
+  "listing_id": "636017",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-636017",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-636017"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 264,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:53.152045+00:00",
+  "images": [
+    "https://content.estitor.com/05da5fea-579b-4ae9-9441-6e1c476cfe84-lg.webp",
+    "https://content.estitor.com/43ae04e3-7050-438f-9d21-61437bd84a5f-lg.webp",
+    "https://content.estitor.com/ed8a34cf-b969-4eb0-8ae2-87cd681d9bf9-lg.webp",
+    "https://content.estitor.com/4c07de0c-4feb-47fc-a365-572f79f5eab0-lg.webp",
+    "https://content.estitor.com/ea1c2721-df70-401b-ae08-4aacbe2df062-lg.webp",
+    "https://content.estitor.com/2518d459-e81e-42d9-8fee-6a3771c5d047-lg.webp",
+    "https://content.estitor.com/c1b49844-0837-42b3-81be-6fbaece0a353-lg.webp",
+    "https://content.estitor.com/16f2cbf0-8dbb-4c83-a069-eaffe9d52160-lg.webp",
+    "https://content.estitor.com/71e6a1a8-3446-4481-93d7-98f5fb6874f6-lg.webp",
+    "https://content.estitor.com/b973bbd8-9dff-426a-931a-3e174e99827b-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 70m², Bečići, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/636017"
+}

@@ -1,0 +1,28 @@
+{
+  "key": "patuljak_15424",
+  "source": "patuljak",
+  "listing_id": "15424",
+  "listing_url": "https://patuljak.me/oglas/plac-1800m2-donja-gorica-podgorica-izdavanje--15424",
+  "listing_urls": [
+    "https://patuljak.me/oglas/plac-1800m2-donja-gorica-podgorica-izdavanje--15424"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 121,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:24:36.471738+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/15424_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/07/15424_1.webp"
+  ],
+  "status": "ok",
+  "title": "Plac, 1800m2, Donja Gorica, Podgorica, Izdavanje",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/15424"
+}

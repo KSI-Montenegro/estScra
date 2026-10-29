@@ -1,0 +1,31 @@
+{
+  "key": "patuljak_616407",
+  "source": "patuljak",
+  "listing_id": "616407",
+  "listing_url": "https://patuljak.me/oglas/izdajem-parking-mjesto-u-garazi-zgrade--616407",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-parking-mjesto-u-garazi-zgrade--616407"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 962,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:24.054510+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2024/03/616407_4.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJEM PARKING MJESTO U GARAZI ZGRADE",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 5,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/616407"
+}

@@ -1,0 +1,36 @@
+{
+  "key": "estitor_633996",
+  "source": "estitor",
+  "listing_id": "633996",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633996",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-633996"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 855,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:12.633260+00:00",
+  "images": [
+    "https://content.estitor.com/a1660bbc-7065-4031-a0d3-3fc702e2b2df-lg.webp",
+    "https://content.estitor.com/a092fad7-f0ca-4931-ada1-eeb44fd4d59c-lg.webp",
+    "https://content.estitor.com/6b636634-7112-4b6b-baff-cd3efc39bcd6-lg.webp",
+    "https://content.estitor.com/1312c16b-f729-438b-bb19-418fb5332660-lg.webp",
+    "https://content.estitor.com/f8d2ca80-eba0-425b-8847-fe9738389d69-lg.webp",
+    "https://content.estitor.com/b12a1f6b-7f3e-49c7-8b24-3921e5aed5e1-lg.webp",
+    "https://content.estitor.com/74630777-8b4d-4094-9b65-ee69cec79194-lg.webp",
+    "https://content.estitor.com/fe04b62e-8d48-40ac-bc89-ca7c9ad74435-lg.webp",
+    "https://content.estitor.com/45ae0345-a33b-466a-9c4c-62c562352b07-lg.webp",
+    "https://content.estitor.com/ba82276c-adb5-48ea-ad5f-3bfb3848756a-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 65m², Gintaš, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633996"
+}

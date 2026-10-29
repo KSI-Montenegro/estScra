@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_78111",
+  "source": "patuljak",
+  "listing_id": "78111",
+  "listing_url": "https://patuljak.me/oglas/urbanizovano-zemljiste-2097-m2-mahala-zeta--78111",
+  "listing_urls": [
+    "https://patuljak.me/oglas/urbanizovano-zemljiste-2097-m2-mahala-zeta--78111"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 742,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:18:54.262917+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78111_2.webp"
+  ],
+  "status": "ok",
+  "title": "Urbanizovano zemljište 2097 m2, Mahala, Zeta",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78111"
+}

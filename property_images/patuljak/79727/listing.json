@@ -1,0 +1,35 @@
+{
+  "key": "patuljak_79727",
+  "source": "patuljak",
+  "listing_id": "79727",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-namjesten-jednosoban-stan-iza-delte--79727",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-namjesten-jednosoban-stan-iza-delte--79727"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 871,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:24.741822+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79727_8.webp"
+  ],
+  "status": "ok",
+  "title": "Izdaje se namješten jednosoban stan  iza Delte",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 9,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79727"
+}

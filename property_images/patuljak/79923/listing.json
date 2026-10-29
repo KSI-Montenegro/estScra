@@ -1,0 +1,40 @@
+{
+  "key": "patuljak_79923",
+  "source": "patuljak",
+  "listing_id": "79923",
+  "listing_url": "https://patuljak.me/oglas/izdavanje-poslovni-prostor-95-m2-centar-niksic--79923",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdavanje-poslovni-prostor-95-m2-centar-niksic--79923"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Not homes",
+      "row": 39,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:23:45.996839+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_12.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79923_13.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, poslovni prostor 95 m2, Centar, Nikšić",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 14,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79923"
+}

@@ -1,0 +1,32 @@
+{
+  "key": "estitor_610769",
+  "source": "estitor",
+  "listing_id": "610769",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-610769",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-610769"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 843,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:04.827264+00:00",
+  "images": [
+    "https://content.estitor.com/18bd1d00-28e9-44be-ad06-59afe837facc-lg.webp",
+    "https://content.estitor.com/7b82056a-7d5e-44cd-aef8-95756d77d34a-lg.webp",
+    "https://content.estitor.com/424dea82-2ef4-4417-afc0-dd86bfd76e67-lg.webp",
+    "https://content.estitor.com/0e7ec931-d7ef-4848-841e-607e6b3e42d2-lg.webp",
+    "https://content.estitor.com/aea45bab-7989-47f8-b73b-6aa82c99f449-lg.webp",
+    "https://content.estitor.com/8dccd9cb-6eee-43c6-a067-6188be10d3ef-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, jednosoban stan, 68m², Petrovac, Budva | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/610769"
+}

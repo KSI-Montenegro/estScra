@@ -1,0 +1,30 @@
+{
+  "key": "patuljak_84574",
+  "source": "patuljak",
+  "listing_id": "84574",
+  "listing_url": "https://patuljak.me/oglas/izdaje-se-garsonjera-momisici-podgorica--84574",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdaje-se-garsonjera-momisici-podgorica--84574"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 852,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:11.240518+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84574_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84574_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84574_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/10/84574_3.webp"
+  ],
+  "status": "ok",
+  "title": "IZDAJE SE GARSONJERA  MOMIŠIĆI, PODGORICA",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/84574"
+}

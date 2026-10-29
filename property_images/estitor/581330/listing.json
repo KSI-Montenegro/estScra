@@ -1,0 +1,33 @@
+{
+  "key": "estitor_581330",
+  "source": "estitor",
+  "listing_id": "581330",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581330",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-581330"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 926,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:03.908864+00:00",
+  "images": [
+    "https://content.estitor.com/65de29d0-220e-4c9b-84ca-eda95962c6d5-lg.webp",
+    "https://content.estitor.com/4e8cc945-4db1-4ae7-a342-ff4a68c0f056-lg.webp",
+    "https://content.estitor.com/7da4f8ce-d02e-4c6d-b1db-c40c357f8570-lg.webp",
+    "https://content.estitor.com/486f7156-82d7-490b-8f9d-541fe81e8aff-lg.webp",
+    "https://content.estitor.com/2099e103-6ae2-468a-821a-787c8bb86139-lg.webp",
+    "https://content.estitor.com/9862c2f2-f45e-415d-9626-519492fe0a6a-lg.webp",
+    "https://content.estitor.com/fec9b370-ecaf-4239-93a1-6c6786efbac4-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 68m², Zagorič, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 7,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/581330"
+}

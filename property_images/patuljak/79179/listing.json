@@ -1,0 +1,27 @@
+{
+  "key": "patuljak_79179",
+  "source": "patuljak",
+  "listing_id": "79179",
+  "listing_url": "https://patuljak.me/oglas/prodajem-jednosoban-stan-44-m2-preko-morace-prizem--79179",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-jednosoban-stan-44-m2-preko-morace-prizem--79179"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 27,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:12:46.046111+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79179_0.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem jednosoban stan 44 m2, Preko Morače, prizemlje + terasa + podrum",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 1,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79179"
+}

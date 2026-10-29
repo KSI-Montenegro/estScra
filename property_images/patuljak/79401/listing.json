@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_79401",
+  "source": "patuljak",
+  "listing_id": "79401",
+  "listing_url": "https://patuljak.me/oglas/izdajem-garsonjeru--79401",
+  "listing_urls": [
+    "https://patuljak.me/oglas/izdajem-garsonjeru--79401"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 164,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:02.532825+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79401_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79401_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/79401_2.webp"
+  ],
+  "status": "ok",
+  "title": "Izdajem garsonjeru",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/79401"
+}

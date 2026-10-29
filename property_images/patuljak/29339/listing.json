@@ -1,0 +1,38 @@
+{
+  "key": "patuljak_29339",
+  "source": "patuljak",
+  "listing_id": "29339",
+  "listing_url": "https://patuljak.me/oglas/imanje-62ha-sa-starom-kucom-4-km-od-centra-selo-ra--29339",
+  "listing_urls": [
+    "https://patuljak.me/oglas/imanje-62ha-sa-starom-kucom-4-km-od-centra-selo-ra--29339"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 779,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:19:19.224620+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_11.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2025/10/29339_1.webp"
+  ],
+  "status": "ok",
+  "title": "Imanje 6,2ha, sa starom kućom, 4 km od Centra, Selo Rastoka",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 12,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/29339"
+}

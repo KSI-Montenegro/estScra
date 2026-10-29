@@ -1,0 +1,30 @@
+{
+  "key": "estitor_601750",
+  "source": "estitor",
+  "listing_id": "601750",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601750",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-601750"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 602,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:43.628141+00:00",
+  "images": [
+    "https://content.estitor.com/51cd663c-b00a-415d-9acc-68c72c30fd88-lg.webp",
+    "https://content.estitor.com/ebe4e93a-e982-4b23-8008-e6082d16d764-lg.webp",
+    "https://content.estitor.com/d485abb3-4025-4de1-866d-f2b75a5d7186-lg.webp",
+    "https://content.estitor.com/24ffe8d3-5d63-4b58-a965-a987227fb183-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 84m², Zabjelo, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 4,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/601750"
+}

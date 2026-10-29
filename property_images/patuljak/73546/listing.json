@@ -1,0 +1,36 @@
+{
+  "key": "patuljak_73546",
+  "source": "patuljak",
+  "listing_id": "73546",
+  "listing_url": "https://patuljak.me/oglas/prodajem-dvosoban-stan--73546",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-dvosoban-stan--73546"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 534,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:17:10.808570+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/08/73546_10.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem dvosoban stan",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 10,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/73546"
+}

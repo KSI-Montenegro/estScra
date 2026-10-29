@@ -1,0 +1,32 @@
+{
+  "key": "estitor_633381",
+  "source": "estitor",
+  "listing_id": "633381",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-633381",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-633381"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 297,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:15:10.032328+00:00",
+  "images": [
+    "https://content.estitor.com/70b45db6-618a-47e1-9aeb-d1cd980b5371-lg.webp",
+    "https://content.estitor.com/d82dcc1f-aaf2-42d2-91d5-6ade305ca265-lg.webp",
+    "https://content.estitor.com/6702498d-c2be-45a1-87b4-2ac630ebc209-lg.webp",
+    "https://content.estitor.com/88b547d5-1b11-42bb-a0f7-5f2c09e39d7e-lg.webp",
+    "https://content.estitor.com/331332cf-912b-4811-bb15-42a9e01fbbf5-lg.webp",
+    "https://content.estitor.com/a589eac5-7071-4abe-bb96-3bb5bfd7ed59-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, dvosoban stan, 71m², Centar, Tivat | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 6,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/633381"
+}

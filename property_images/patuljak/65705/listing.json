@@ -1,0 +1,37 @@
+{
+  "key": "patuljak_65705",
+  "source": "patuljak",
+  "listing_id": "65705",
+  "listing_url": "https://patuljak.me/oglas/prodaja-dvosobnog-stana--65705",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodaja-dvosobnog-stana--65705"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 197,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:14:20.693807+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_10.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_9.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_8.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_7.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_6.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_5.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_4.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_3.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_2.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/06/65705_1.webp"
+  ],
+  "status": "ok",
+  "title": "Prodaja dvosobnog stana",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 11,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/65705"
+}

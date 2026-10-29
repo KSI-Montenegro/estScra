@@ -1,0 +1,29 @@
+{
+  "key": "patuljak_78758",
+  "source": "patuljak",
+  "listing_id": "78758",
+  "listing_url": "https://patuljak.me/oglas/prodajem-kucu--78758",
+  "listing_urls": [
+    "https://patuljak.me/oglas/prodajem-kucu--78758"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 478,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:16:42.565388+00:00",
+  "images": [
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78758_0.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78758_1.webp",
+    "https://patuljak.me/kes/slike/740xAuto/2026/09/78758_2.webp"
+  ],
+  "status": "ok",
+  "title": "Prodajem kucu",
+  "extraction_method": "patuljak_property_image_gallery",
+  "gallery_entries_observed": 3,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "patuljak/78758"
+}

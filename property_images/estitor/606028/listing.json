@@ -1,0 +1,34 @@
+{
+  "key": "estitor_606028",
+  "source": "estitor",
+  "listing_id": "606028",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606028",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-606028"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 883,
+      "column": "ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:20:31.665794+00:00",
+  "images": [
+    "https://content.estitor.com/db3e9c13-3940-4342-90ba-e00fe82a95b5-lg.webp",
+    "https://content.estitor.com/a4447129-4b6c-4021-99a0-416d91ccc71e-lg.webp",
+    "https://content.estitor.com/2e38c19b-297d-4659-9346-351a06a9550e-lg.webp",
+    "https://content.estitor.com/cb8e53f6-b711-4b53-9da2-a00041d18169-lg.webp",
+    "https://content.estitor.com/0d100900-bc26-44b8-a25a-9093f37eb84a-lg.webp",
+    "https://content.estitor.com/8b3c3ceb-5384-4e25-859d-80247ab2ce61-lg.webp",
+    "https://content.estitor.com/67a81f86-3714-4824-bf91-43e60247b039-lg.webp",
+    "https://content.estitor.com/ce0b354a-59b9-4082-b6cb-cf6301516484-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, garsonjera, 30m², Tuški Put, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 8,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/606028"
+}

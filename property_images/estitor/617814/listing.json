@@ -1,0 +1,28 @@
+{
+  "key": "estitor_617814",
+  "source": "estitor",
+  "listing_id": "617814",
+  "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-617814",
+  "listing_urls": [
+    "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-parking-garaza/grad-podgorica/id-617814"
+  ],
+  "workbook_references": [
+    {
+      "sheet": "Outreach list",
+      "row": 993,
+      "column": "second_ad_url"
+    }
+  ],
+  "checked_at": "2026-10-29T19:21:39.519662+00:00",
+  "images": [
+    "https://content.estitor.com/c0ad9333-0663-4635-9388-aacf5de3fcb3-lg.webp",
+    "https://content.estitor.com/ef046e10-8c2f-4cfe-a416-a41dcbf97e59-lg.webp"
+  ],
+  "status": "ok",
+  "title": "Izdavanje, parking/garaža, 14m², Kod Capital Plaze, Podgorica | Estitor",
+  "extraction_method": "estitor_gallery_data",
+  "gallery_entries_observed": 2,
+  "transport": "direct_https",
+  "errors": [],
+  "folder": "estitor/617814"
+}
