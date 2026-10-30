@@ -1,0 +1,264 @@
+{
+  "policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+  "reference_mascot_box": [
+    530,
+    400,
+    605,
+    493
+  ],
+  "overlay_offset_from_mascot_top_left": [
+    -158,
+    -3
+  ],
+  "canonical_overlay_size": [
+    293,
+    103
+  ],
+  "calibration_images": 48,
+  "method": "48 aligned cross-photo overlays; silhouette dilation8px total, connected full text bands to suppress letter-shaped ghosts",
+  "spread_threshold": 32,
+  "mask_pixels": 20968,
+  "mask_asset_sha256": "54330586cf75bb9ddfa80ddd81d9671c0b01e9e88c2001e382fa737b57d6d7d5",
+  "references": [
+    {
+      "property_key": "patuljak_82084",
+      "image_number": "1",
+      "source_sha256": "bc501d05d0cdab3bae6fe8a2e18572f41fe9732aed9aba82fb446ffdeb49325c"
+    },
+    {
+      "property_key": "patuljak_84524",
+      "image_number": "16",
+      "source_sha256": "f8fa62d09fc14acdd6c9c7bf9bd0365a2fe800257490d927c143a7f30e55a378"
+    },
+    {
+      "property_key": "patuljak_79432",
+      "image_number": "7",
+      "source_sha256": "095dfb6bb83c53eb9435b30f893b5461216cebb84d759918d1c432da1bcb1ee6"
+    },
+    {
+      "property_key": "patuljak_81416",
+      "image_number": "10",
+      "source_sha256": "4cb26b85c1d04bb6264f8d9b598f1e5aee5d2104fd13a86b64a28a3004379df8"
+    },
+    {
+      "property_key": "patuljak_77341",
+      "image_number": "1",
+      "source_sha256": "c392d42930d7651dc4b531e2c002f659e526d80208de7fd1f80df01a7ffb1713"
+    },
+    {
+      "property_key": "patuljak_73729",
+      "image_number": "5",
+      "source_sha256": "3ef68326af9047e513f6271d9831041c6f8ef1e76e48286f831d673f7c6809e2"
+    },
+    {
+      "property_key": "patuljak_79261",
+      "image_number": "4",
+      "source_sha256": "38203aaafcaf1d7e02edbccdcb790f5c662e4b4e7962fbc79c2faece7198ea6c"
+    },
+    {
+      "property_key": "patuljak_42414",
+      "image_number": "2",
+      "source_sha256": "a7e51bfd832e88afd05dca1cfc30071886ac15aa9c3acdfb27d7a2e2ff27517c"
+    },
+    {
+      "property_key": "patuljak_84266",
+      "image_number": "4",
+      "source_sha256": "5c9f8b5ec5dfb4e0fe6ac33d0cf01d07b679e4f41180a1eb69afaef9a269323a"
+    },
+    {
+      "property_key": "patuljak_14979",
+      "image_number": "1",
+      "source_sha256": "aa98bce45c0d6d00be72fbd5927c59cb242c29fdba356a12ffe70d1c0299ad06"
+    },
+    {
+      "property_key": "patuljak_84698",
+      "image_number": "6",
+      "source_sha256": "e9e659a5e40f51b434446dc1a4030239c5e1cad13d0c8d7bcbe4b6bcf2f060ef"
+    },
+    {
+      "property_key": "patuljak_76092",
+      "image_number": "6",
+      "source_sha256": "3d67fe20e10de579105ac08b80d1fd08efd992be5a26508e179bfbb2190a473b"
+    },
+    {
+      "property_key": "patuljak_73439",
+      "image_number": "17",
+      "source_sha256": "b0c2dee265e110ea20b35549359c135a1ed4b000c4849b98d72bba73efe8f1f8"
+    },
+    {
+      "property_key": "patuljak_77217",
+      "image_number": "11",
+      "source_sha256": "12d2708ae50d738a7f3528b900d7fe36f7cd69e80d4b0b2cdfbfd3281bd88387"
+    },
+    {
+      "property_key": "patuljak_72778",
+      "image_number": "3",
+      "source_sha256": "3929b30a42604e701088245a447e085230707a3152fc4929df71dadb9099ab5b"
+    },
+    {
+      "property_key": "patuljak_78039",
+      "image_number": "2",
+      "source_sha256": "ba7975021b190999d01f646ab877735e54f830670ab8970fe74673cafcf90248"
+    },
+    {
+      "property_key": "patuljak_75706",
+      "image_number": "4",
+      "source_sha256": "84333c29e6014d97909b8eafef65af15a9792987313ddf2e8db197f985650972"
+    },
+    {
+      "property_key": "patuljak_32848",
+      "image_number": "4",
+      "source_sha256": "8ed9688a28a7f714fbc50c52c766fd0d479930557cd578944a34a91d75f47500"
+    },
+    {
+      "property_key": "patuljak_77115",
+      "image_number": "7",
+      "source_sha256": "98615366321300692894adc56f75cb918b76f8057d9478aea02e1c21a94fe17d"
+    },
+    {
+      "property_key": "patuljak_77848",
+      "image_number": "6",
+      "source_sha256": "ea52ff87d232138cf68e6d68b51274555ccf2443b1c7a43e0f2009c3c9597cf1"
+    },
+    {
+      "property_key": "patuljak_72531",
+      "image_number": "9",
+      "source_sha256": "ec5d7787620cd0bb05eac9287203df4b3d8a8c6eb288a911fd4dd84c73ff64fa"
+    },
+    {
+      "property_key": "patuljak_72906",
+      "image_number": "11",
+      "source_sha256": "f3f248168d7a5322d71cc419e3b3cd122d2299f89324548221128d9045d55d70"
+    },
+    {
+      "property_key": "patuljak_74515",
+      "image_number": "7",
+      "source_sha256": "021f2dba3442f95b0cd8e4c3c23e8cc185b7e43127f6eb95e0326a0e4e654aa6"
+    },
+    {
+      "property_key": "patuljak_65705",
+      "image_number": "11",
+      "source_sha256": "1ee3e4d06d7424c0dc0085b7d46376ff418e0061a8304a011ac09e9d8f4c11e7"
+    },
+    {
+      "property_key": "patuljak_80046",
+      "image_number": "21",
+      "source_sha256": "2ba44e56c418e311903438a16d9184e3823ca5f863d9502b4a1ea1b0db3b3d6e"
+    },
+    {
+      "property_key": "patuljak_79094",
+      "image_number": "8",
+      "source_sha256": "d60a160592729b74eb0786fb0ec511bfbc30d836041d95ad065398262aec2d60"
+    },
+    {
+      "property_key": "patuljak_77835",
+      "image_number": "8",
+      "source_sha256": "4283e9b7e8f5b0c9dbb182e73a31ae6552b254295aa0dcf5c6ceed9dbd9e529b"
+    },
+    {
+      "property_key": "patuljak_78678",
+      "image_number": "9",
+      "source_sha256": "222f734ee171af62e4f67b6d69531083dae7f6ffe213eb13fb46b18262ee1f59"
+    },
+    {
+      "property_key": "patuljak_15424",
+      "image_number": "1",
+      "source_sha256": "2a93a1223f1a0e8ace69bb1fab8d0e3ad40f4216eac4d179b05e7f49cdc2d7a6"
+    },
+    {
+      "property_key": "patuljak_79367",
+      "image_number": "9",
+      "source_sha256": "b69f6bc1923dddcf804ef615f98603df92faca439ecb9e1e9bc48a67208f2e90"
+    },
+    {
+      "property_key": "patuljak_82244",
+      "image_number": "4",
+      "source_sha256": "138f7bc69815431c93dbfbf2db17970aa5791afd619bf33986e9ad92313bc211"
+    },
+    {
+      "property_key": "patuljak_84253",
+      "image_number": "8",
+      "source_sha256": "5759f160b508385b924fe2fa08ddf3f6338028c8d99afea7fdd90bddc357cba4"
+    },
+    {
+      "property_key": "patuljak_660018",
+      "image_number": "1",
+      "source_sha256": "b09fedc10ba0c6f446f5f2f65f1591a840a51ea26d86b57d4d66e77b8a384ef0"
+    },
+    {
+      "property_key": "patuljak_73637",
+      "image_number": "3",
+      "source_sha256": "a2ff4f9f09c78b5ffe6a7991610f866481e9ffa50ccecf29d8a835e6143a8bd5"
+    },
+    {
+      "property_key": "patuljak_83737",
+      "image_number": "3",
+      "source_sha256": "ae45e8d31eaa0efdbc47e19e6a13486ae03c746a741e8458c86342e315e2d79a"
+    },
+    {
+      "property_key": "patuljak_80010",
+      "image_number": "1",
+      "source_sha256": "5144f9a0f78783e4b5fecedda26b376788e1396d62a911b6abfee6f68b9b2a5b"
+    },
+    {
+      "property_key": "patuljak_26819",
+      "image_number": "8",
+      "source_sha256": "ae401b7376a7ebf4debacf5528ce6f492f9b577411ea6695d44f2aa6c1fd1db5"
+    },
+    {
+      "property_key": "patuljak_75494",
+      "image_number": "4",
+      "source_sha256": "3267805fc5618c0a30db0b5a46ddebdf9767b937144f2fe63801a57ee6d01d07"
+    },
+    {
+      "property_key": "patuljak_73379",
+      "image_number": "9",
+      "source_sha256": "ecbd892a40310ec345430b416310dd3c17f320ea4e7e7b3ab7290d775b23c766"
+    },
+    {
+      "property_key": "patuljak_78852",
+      "image_number": "5",
+      "source_sha256": "dd0239d742c8ed763925bcf060065f0f24053375938ac24686fe7476135a9313"
+    },
+    {
+      "property_key": "patuljak_82443",
+      "image_number": "6",
+      "source_sha256": "b8d78b062d8ae7d93248d6fde610938a06fcf6ea8d4cdde90e4873b9b86109a9"
+    },
+    {
+      "property_key": "patuljak_72248",
+      "image_number": "1",
+      "source_sha256": "4accae7cc9834c0cde824bfee249f2cb2fb638650705d0b2c6a071c268881a2b"
+    },
+    {
+      "property_key": "patuljak_80144",
+      "image_number": "6",
+      "source_sha256": "a2694e7769c8380e3af1ba80a4774d45f510cc3ec60b838c433c56c30ee3cbe1"
+    },
+    {
+      "property_key": "patuljak_66437",
+      "image_number": "3",
+      "source_sha256": "5567ecbfba6a82e6a1972068a202b77de29cd28f986cc988103317617699670e"
+    },
+    {
+      "property_key": "patuljak_78424",
+      "image_number": "14",
+      "source_sha256": "beb6af4afc575b23556fffa7a35fd54e26932b208933d3e3d549ecb80009bffb"
+    },
+    {
+      "property_key": "patuljak_654939",
+      "image_number": "2",
+      "source_sha256": "6282bc96d284bed1566ab8b1c399d671f5f9ed465c86f0ecd487f49187d93043"
+    },
+    {
+      "property_key": "patuljak_47059",
+      "image_number": "1",
+      "source_sha256": "b3eb9134a189019b548ba3d01c92d2c28165e7d85d151e81db915d957bb2965f"
+    },
+    {
+      "property_key": "patuljak_81717",
+      "image_number": "4",
+      "source_sha256": "9382dd041d64ef6f7185cb9f6782e7b040d3866ad9b07577c44c32c21cea77cb"
+    }
+  ]
+}

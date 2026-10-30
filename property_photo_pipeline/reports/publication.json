@@ -2,14 +2,18 @@
   "status": "published",
   "latest_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/latest.json",
   "assets": {
-    "properties.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/a7d79183e6c43af02e2800be/properties.json",
-    "all_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/a7d79183e6c43af02e2800be/all_images.csv",
-    "watermark_candidates.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/a7d79183e6c43af02e2800be/watermark_candidates.csv",
-    "per_property_triage.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/a7d79183e6c43af02e2800be/per_property_triage.zip",
-    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/a7d79183e6c43af02e2800be/summary.json"
+    "properties.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/properties.json",
+    "all_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/all_images.csv",
+    "watermark_candidates.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/watermark_candidates.csv",
+    "watermark_remaining.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/watermark_remaining.csv",
+    "cleaned_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/cleaned_images.csv",
+    "per_property_triage.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/per_property_triage.zip",
+    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/summary.json"
   },
   "available_images": 14448,
   "watermark_candidates": 4789,
-  "catalog_bytes": 11347710,
+  "cleaned_images": 12,
+  "remaining_candidates": 4777,
+  "catalog_bytes": 11349859,
   "public_catalog_verified": true
 }

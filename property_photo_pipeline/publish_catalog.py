@@ -8,7 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 from pipeline import r2_settings, sha, write_json
-from build_triage import FIELDS as REPORT_FIELDS
+from build_triage import FIELDS as REPORT_FIELDS, apply_repair
 
 OWNER = 'estScra-property-photo-import'
 PREFIX = 'graden-imports/property-photos'
@@ -36,17 +36,32 @@ def build_catalog(reports):
             continue
         if row['upload_status'] not in ('uploaded', 'existing') or not row['uploaded_url']:
             raise ValueError('Every available photo must have a confirmed upload before catalog publication')
+        repaired = row['repair_status'] == 'processed'
+        if repaired:
+            proof = {'source_sha256': row['source_sha256'], 'status': 'processed', 'upload_status': 'uploaded',
+                     'output_sha256': row['repair_output_sha256'], 'uploaded_url': row['cleaned_url'],
+                     'qc': row['repair_qc'], 'policy_id': row['repair_policy_id'], 'algorithm': 'local-lama-mask-v2-edge-pad'}
+            verified = apply_repair(row, proof)
+            if verified['repair_status'] != 'processed' or verified['active_url'] != row['active_url']:
+                raise ValueError('Invalid repaired image in report')
+        elif row['active_url'] != row['uploaded_url'] or row['cleaned_url']:
+            raise ValueError('Unprocessed image cannot select repaired URL')
         prop['images'].append({
-            'image_number': int(row['image_number']), 'active_url': row['uploaded_url'],
-            'source_copy_url': row['uploaded_url'], 'cleaned_url': None, 'selected_version': 'source',
-            'watermark_status': 'unverified', 'watermark_candidate': row['candidate_method'] != 'none',
+            'image_number': int(row['image_number']), 'active_url': row['active_url'],
+            'source_copy_url': row['uploaded_url'], 'cleaned_url': row['cleaned_url'] or None, 'selected_version': 'cleaned' if repaired else 'source',
+            'watermark_status': 'processed_automated_checks' if repaired else 'unverified', 'watermark_candidate': row['candidate_method'] != 'none',
             'detection_methods': row['candidate_method'], 'detection_group': row['triage_group'],
             'pattern_id': row['pattern_id'], 'source_sha256': row['source_sha256'],
             'optimized_sha256': row['optimized_sha256'], 'bytes': int(row['optimized_bytes'])})
+    actual_cleaned = sum(row['repair_status'] == 'processed' for row in rows)
+    actual_candidates = sum(row['candidate_method'] != 'none' for row in rows)
+    if summary.get('combined_candidate_images') != actual_candidates or summary.get('cleaned_count', 0) != actual_cleaned or summary.get('remaining_candidates', actual_candidates) != actual_candidates - actual_cleaned:
+        raise ValueError('Report summary counts do not match image rows')
     catalog = {'schema_version': 1, 'created_at': summary['created_at'],
                'available_images': sum(len(p['images']) for p in properties.values()),
                'unavailable_images': sum(len(p['unavailable']) for p in properties.values()),
                'watermark_candidates': summary['combined_candidate_images'],
+               'cleaned_images': summary.get('cleaned_count', 0), 'remaining_candidates': summary.get('remaining_candidates', summary['combined_candidate_images']),
                'note': 'Source copies retain existing watermarks. Negative detection is not a clean-image certificate.',
                'properties': {k: dict(properties[k]) for k in sorted(properties)}}
     return catalog
@@ -68,7 +83,7 @@ def existing(client, bucket, key):
 def publish(client, bucket, public_base, reports, output, budget=8_000_000_000):
     catalog = build_catalog(reports)
     if not public_base.startswith('https://') or not all(
-            item['active_url'].startswith(public_base.rstrip('/')+'/')
+            item['active_url'].startswith(public_base.rstrip('/')+'/') and item['source_copy_url'].startswith(public_base.rstrip('/')+'/')
             for prop in catalog['properties'].values() for item in prop['images']):
         raise ValueError('Confirmed image URLs do not match the configured public delivery base')
     main = encode(catalog)
@@ -76,11 +91,13 @@ def publish(client, bucket, public_base, reports, output, budget=8_000_000_000):
     files = {'properties.json': (main, 'application/json')}
     for name, mime in [('all_images.csv','text/csv; charset=utf-8'),
                        ('watermark_candidates.csv','text/csv; charset=utf-8'),
+                       ('watermark_remaining.csv','text/csv; charset=utf-8'), ('cleaned_images.csv','text/csv; charset=utf-8'),
                        ('per_property_triage.zip','application/zip'), ('summary.json','application/json')]:
         files[name] = ((Path(reports)/name).read_bytes(), mime)
     urls = {name: public_base.rstrip('/')+'/'+run_prefix+'/'+name for name in files}
     pointer = encode({'schema_version': 1, 'catalog_url': urls['properties.json'], 'assets': urls,
-                      'available_images': catalog['available_images'], 'watermark_candidates': catalog['watermark_candidates']})
+                      'available_images': catalog['available_images'], 'watermark_candidates': catalog['watermark_candidates'],
+                      'cleaned_images': catalog['cleaned_images'], 'remaining_candidates': catalog['remaining_candidates']})
     pointer_key = PREFIX+'/latest.json'
     heads = {name: existing(client, bucket, run_prefix+'/'+name) for name in files}
     for name, head in heads.items():
@@ -105,7 +122,8 @@ def publish(client, bucket, public_base, reports, output, budget=8_000_000_000):
                       CacheControl='public, max-age=60', Metadata={'owner': OWNER, 'sha256': sha(pointer)}, **condition)
     result = {'status': 'published', 'latest_url': public_base.rstrip('/')+'/'+pointer_key,
               'assets': urls, 'available_images': catalog['available_images'],
-              'watermark_candidates': catalog['watermark_candidates'], 'catalog_bytes': len(main)}
+              'watermark_candidates': catalog['watermark_candidates'], 'cleaned_images': catalog['cleaned_images'],
+              'remaining_candidates': catalog['remaining_candidates'], 'catalog_bytes': len(main)}
     write_json(Path(output)/'publication.json', result)
     return result
 
@@ -125,7 +143,9 @@ def main():
     settings = r2_settings()
     client = boto3.client('s3', endpoint_url=settings['endpoint_url'], region_name='auto',
                           aws_access_key_id=os.environ['R2_ACCESS_KEY_ID'], aws_secret_access_key=os.environ['R2_SECRET_ACCESS_KEY'])
-    print(json.dumps(publish(client, settings['bucket_name'], settings['public_base_url'], args.reports, args.output), indent=2))
+    result = publish(client, settings['bucket_name'], settings['public_base_url'], args.reports, args.output)
+    write_json(Path(args.reports)/'publication.json', result)
+    print(json.dumps(result, indent=2))
 
 
 if __name__ == '__main__':

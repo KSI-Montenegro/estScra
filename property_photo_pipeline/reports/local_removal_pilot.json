@@ -1,0 +1,15 @@
+{
+  "method": "local LaMa TorchScript CPU",
+  "mask_policy": "patuljak-footer-stable-colors-v2-filled-word-bands",
+  "first_pilot_rejected_visible_text_ghosts": 3,
+  "revised_graphic_layout_pilot_reviewed": 10,
+  "joint_text_graphic_pilot_reviewed": 12,
+  "published_pilot_images": 12,
+  "public_cleaned_sample": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/83537/cleaned/017-9d1e3bd501c8196e8bcca08c299addb7aea4ad16253e36cb45aaea7783ac256e.webp",
+  "outside_mask_unchanged_before_encoding": true,
+  "full_batch_candidates": 4789,
+  "batch_state": "running",
+  "progress_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/removal-progress.json",
+  "no_paid_editing_api_calls": true,
+  "quality_note": "Representative pilot review and automated checks reduce errors; full absence and recovery of hidden detail are not certified."
+}

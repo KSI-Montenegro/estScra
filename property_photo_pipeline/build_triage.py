@@ -8,6 +8,8 @@ import hashlib
 import io
 import json
 from pathlib import Path
+import re
+from urllib.parse import urlsplit
 import zipfile
 
 from PIL import Image, ImageDraw, ImageOps
@@ -17,7 +19,51 @@ FIELDS = ['property_key', 'listing_url', 'image_number', 'image_url', 'source_sh
           'optimized_sha256', 'optimized_bytes', 'ocr_status', 'triage_group', 'pattern_id',
           'brands', 'positions', 'max_brand_text_confidence', 'brand_text', 'watermark_verified',
           'candidate_method', 'logo_template_score', 'logo_box_original_pixels',
-          'auto_edit_approved', 'upload_status', 'object_key', 'expected_public_url', 'uploaded_url']
+          'auto_edit_approved', 'upload_status', 'object_key', 'expected_public_url', 'uploaded_url',
+          'active_url', 'cleaned_url', 'repair_status', 'repair_output_sha256', 'repair_policy_id', 'repair_qc', 'repair_error']
+
+
+def apply_repair(row, repair):
+    """Never select a repaired copy without exact source, QC, upload and URL identity."""
+    candidate = bool(row.get('pattern_id'))
+    available = row.get('upload_status') in ('uploaded', 'existing') and bool(row.get('uploaded_url'))
+    result = {'active_url': row['uploaded_url'] if available else '', 'cleaned_url': '',
+              'repair_status': 'pending' if candidate else 'unverified_not_flagged',
+              'repair_output_sha256': '', 'repair_policy_id': '', 'repair_qc': '', 'repair_error': ''}
+    if not available:
+        result['repair_status'] = 'unavailable'
+    if not repair:
+        return result
+    if repair.get('source_sha256') != row.get('source_sha256'):
+        result['repair_error'] = 'source_hash_mismatch'
+        return result
+    result['repair_policy_id'] = repair.get('policy_id', '')
+    result['repair_qc'] = repair.get('qc', '')
+    if repair.get('status') != 'processed' or repair.get('upload_status') not in ('uploaded', 'existing'):
+        result['repair_error'] = repair.get('error', '') or 'not_uploaded_or_not_processed'
+        return result
+    digest = repair.get('output_sha256', '')
+    url = repair.get('uploaded_url', '')
+    try:
+        source, ident = group(row['property_key'])
+        number = int(row['image_number'])
+        expected = f'/properties/{source}/{ident}/cleaned/{number:03d}-{digest}.webp'
+        parsed = urlsplit(url)
+        source_delivery = urlsplit(row['uploaded_url'])
+        valid_url = (parsed.scheme == 'https' and parsed.netloc == source_delivery.netloc and not parsed.username
+                     and parsed.path.endswith(expected) and not parsed.query and not parsed.fragment)
+    except (ValueError, KeyError):
+        valid_url = False
+    valid = (candidate and available and re.fullmatch(r'[0-9a-f]{64}', row.get('source_sha256', '') or '')
+             and re.fullmatch(r'[0-9a-f]{64}', digest or '') and valid_url
+             and repair.get('qc') == 'mascot_and_ocr_only_pass_text_shape_unvalidated'
+             and repair.get('algorithm') == 'local-lama-mask-v2-edge-pad'
+             and repair.get('policy_id') == 'patuljak-footer-stable-colors-v2-filled-word-bands')
+    if not valid:
+        result['repair_error'] = 'repair_validation_failed'
+        return result
+    result.update(active_url=url, cleaned_url=url, repair_status='processed', repair_output_sha256=digest, repair_error='')
+    return result
 
 
 def write_csv(path, rows, fields):
@@ -110,9 +156,17 @@ def main():
     parser.add_argument('--manifest', default='property_images/all_image_urls.csv')
     parser.add_argument('--logos', default='watermark_detection/runs/logo_match/results.csv')
     parser.add_argument('--cache', default='watermark_detection/cache')
+    parser.add_argument('--repairs', default='property_photo_pipeline/reports/repair_results.json')
     parser.add_argument('--output', default='property_photo_pipeline/reports')
     args = parser.parse_args()
     raw = json.loads(Path(args.ocr).read_text())
+    repairs = {}
+    if Path(args.repairs).exists():
+        for record in json.loads(Path(args.repairs).read_text())['records']:
+            repair_key = (record['property_key'], str(int(record['image_number'])))
+            if repair_key in repairs:
+                raise ValueError('Duplicate repair record')
+            repairs[repair_key] = record
     logos = {}
     if Path(args.logos).exists():
         with open(args.logos, newline='') as file:
@@ -147,6 +201,7 @@ def main():
                    candidate_method='template_and_ocr' if has_logo and hits else 'template' if has_logo else 'ocr' if hits else 'none',
                    logo_template_score=logo.get('score', ''), logo_box_original_pixels=logo.get('bbox_xyxy', ''),
                    watermark_verified=False, auto_edit_approved=False, object_key=target['key'])
+        row.update(apply_repair(row, repairs.get((key[0], str(int(key[1]))))))
         rows.append(row); by_property[key[0]].append(row)
         if hits or has_logo:
             patterns[row['pattern_id']].append(original)
@@ -155,6 +210,10 @@ def main():
     write_csv(output/'all_images.csv', rows, FIELDS)
     candidates = [r for r in rows if r['pattern_id']]
     write_csv(output/'watermark_candidates.csv', candidates, FIELDS)
+    cleaned = [r for r in candidates if r['repair_status'] == 'processed']
+    remaining = [r for r in candidates if r['repair_status'] != 'processed']
+    write_csv(output/'watermark_remaining.csv', remaining, FIELDS)
+    write_csv(output/'cleaned_images.csv', cleaned, FIELDS)
     write_csv(output/'unavailable_images.csv', [r for r in rows if r['triage_group']=='unavailable'], FIELDS)
     pattern_rows = []
     for name, items in sorted(patterns.items(), key=lambda item: -len(item[1])):
@@ -176,7 +235,7 @@ def main():
                    property_count=len(by_property), triage_groups=dict(Counter(r['triage_group'] for r in rows)),
                    known_brand_text_candidates=sum(bool(r.get('brand_hits')) for r in raw),
                    known_logo_template_candidates=sum(r.get('_logo', {}).get('match_status') == 'known_logo_template_candidate' for r in raw),
-                   combined_candidate_images=len(candidates), logo_scan_rows=len(logos), pattern_groups=len(pattern_rows),
+                   combined_candidate_images=len(candidates), cleaned_count=len(cleaned), remaining_candidates=len(remaining), logo_scan_rows=len(logos), pattern_groups=len(pattern_rows),
                    candidate_methods=dict(Counter(r['candidate_method'] for r in rows)),
                    upload_statuses=dict(Counter(r['upload_status'] for r in rows)),
                    verified_watermark_count=None, verified_clean_count=None,

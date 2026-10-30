@@ -33,10 +33,11 @@ class CatalogTests(unittest.TestCase):
         self.row = dict.fromkeys(FIELDS, '')
         self.row.update(property_key='estitor_123', listing_url='https://example.com/listing', image_number='1',
                         upload_status='uploaded', uploaded_url='https://cdn.example.com/properties/a.webp',
-                        optimized_bytes='120', candidate_method='template', triage_group='known_logo_template_candidate')
+                        optimized_bytes='120', candidate_method='template', pattern_id='x', triage_group='known_logo_template_candidate',
+                        active_url='https://cdn.example.com/properties/a.webp', repair_status='pending')
         self.write_rows()
         (self.root/'summary.json').write_text(json.dumps({'created_at':'2026-10-30T00:00:00Z','combined_candidate_images':1}))
-        for name in ['watermark_candidates.csv','per_property_triage.zip']:
+        for name in ['watermark_candidates.csv','watermark_remaining.csv','cleaned_images.csv','per_property_triage.zip']:
             (self.root/name).write_bytes(b'test-artifact')
     def tearDown(self): self.tmp.cleanup()
     def write_rows(self, extra=False):
@@ -51,13 +52,34 @@ class CatalogTests(unittest.TestCase):
         client=FakeS3()
         result=p.publish(client,'bucket','https://cdn.example.com',self.root,self.root/'output')
         self.assertEqual(result['available_images'],1)
-        self.assertEqual(len(client.puts),6)
+        self.assertEqual(len(client.puts),8)
         self.assertTrue(all(call.get('IfNoneMatch')=='*' for call in client.puts))
         pointer=client.puts[-1]
         self.assertEqual(pointer['Key'],p.PREFIX+'/latest.json')
         p.publish(client,'bucket','https://cdn.example.com',self.root,self.root/'output')
-        self.assertEqual(len(client.puts),7)
+        self.assertEqual(len(client.puts),9)
         self.assertIn('IfMatch',client.puts[-1])
+    def test_repaired_url_requires_uploaded_verified_record(self):
+        digest = 'a' * 64
+        url = 'https://cdn.example.com/properties/estitor/123/cleaned/001-' + digest + '.webp'
+        self.row.update(source_sha256='b'*64, active_url=url, cleaned_url=url, repair_status='processed',
+                        repair_output_sha256=digest, repair_policy_id='patuljak-footer-stable-colors-v2-filled-word-bands',
+                        repair_qc='mascot_and_ocr_only_pass_text_shape_unvalidated')
+        self.write_rows()
+        (self.root/'summary.json').write_text(json.dumps({'created_at':'2026-10-30T00:00:00Z','combined_candidate_images':1,'cleaned_count':1,'remaining_candidates':0}))
+        item = p.build_catalog(self.root)['properties']['estitor_123']['images'][0]
+        self.assertEqual(item['selected_version'], 'cleaned')
+        self.assertEqual(item['active_url'], url)
+        self.assertEqual(item['source_copy_url'], 'https://cdn.example.com/properties/a.webp')
+        self.row['repair_qc'] = 'failed'
+        self.write_rows()
+        with self.assertRaisesRegex(ValueError, 'Invalid repaired'):
+            p.build_catalog(self.root)
+        self.row.update(repair_status='pending', repair_qc='', active_url=url)
+        self.write_rows()
+        with self.assertRaisesRegex(ValueError, 'cannot select'):
+            p.build_catalog(self.root)
+
     def test_unowned_pointer_and_budget_refuse_all_writes(self):
         client=FakeS3()
         client.objects[p.PREFIX+'/latest.json']={'ContentLength':10,'Metadata':{'owner':'another-app'},'ETag':'"a"'}
