@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-30T06:14:15.777818+00:00",
+  "created_at": "2026-10-30T06:44:42.693269+00:00",
   "images": 14522,
   "property_count": 1715,
   "triage_groups": {
@@ -22,8 +22,9 @@
     "ocr": 566
   },
   "upload_statuses": {
-    "planned": 14448,
-    "unavailable": 74
+    "uploaded": 12879,
+    "unavailable": 74,
+    "existing": 1569
   },
   "verified_watermark_count": null,
   "verified_clean_count": null,

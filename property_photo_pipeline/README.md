@@ -62,6 +62,16 @@ For a size study that makes no clearance decisions and writes no publishable ima
 
 ## Provisional uploads
 
+To run the complete source-bank delivery in one resumable job:
+
+```sh
+bash property_photo_pipeline/deliver_images.sh
+```
+
+It audits/uploads source copies, refreshes the OCR/template triage reports with confirmed image URLs, then publishes a versioned per-property catalog and reports to R2. `graden-imports/property-photos/latest.json` is the small current-catalog pointer. An existing pointer owned by another application is never replaced; updates to this importer's pointer are conditional on its previous ETag. Versioned reports and source images remain immutable. The catalog explicitly distinguishes unverified source copies from future cleaned versions. It contains no local paths or contact workbook fields.
+
+The SDK receives explicit R2 credentials. The runner unsets `AWS_PROFILE` and `AWS_DEFAULT_PROFILE` only for its R2 subprocesses, avoiding an unrelated platform profile with no AWS configuration. Other processes and global configuration are unchanged. The source audit uses up to four workers; bucket listing identifies absent keys without thousands of redundant HEAD calls, while existing keys are checked before reuse. Conditional writes protect against races.
+
 The separate `upload_staged.py` command supports the user's authorized provisional upload of the existing optimized staging images before watermark removal. Its `source` object paths contain unverified photos: an upload does not clear a watermark, verify an OCR result, or replace the clearance-gated workflow described above. Originals are not modified.
 
 ```sh
@@ -69,7 +79,9 @@ python property_photo_pipeline/upload_staged.py                # local audit and
 python property_photo_pipeline/upload_staged.py --execute      # upload audited provisional images to R2
 ```
 
-Both commands validate every available source hash and optimized hash, 400,000-byte limit, and dimensions against the staging records; unavailable images remain in the inventory. Audit errors prevent upload. The execute command uses the configured R2 endpoint and bucket and requires `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` environment variables. It lists bucket bytes and checks existing keys before writing, defaults to an 8,000,000,000-byte bucket limit (`--budget-bytes` changes it), uses at most four upload workers, and resumes based on R2 HEAD checks with an append-only checkpoint. Bucket usage is a snapshot, not an account-wide quota guarantee, and concurrent writers can change it. Credentials are never command arguments. The keys use `properties/<source>/<id>/source/<number>-<optimized_sha256>.webp`, so later cleaned versions can have their own paths.
+If the shell has an unrelated AWS profile configured, prefix direct R2 commands with `env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE`, as the delivery runner does.
+
+Both commands validate every available source hash and optimized hash, 400,000-byte limit, and dimensions against the staging records; unavailable images remain in the inventory. Audit errors prevent upload. The execute command uses the configured R2 endpoint and bucket and requires `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` environment variables. It lists bucket bytes and checks existing keys before writing, defaults to an 8,000,000,000-byte bucket limit (`--budget-bytes` changes it), defaults to sixteen network workers (configurable with `--workers`, up to 32) while limiting file-audit work to four workers, and resumes based on R2 HEAD checks with an append-only checkpoint. Bucket usage is a snapshot, not an account-wide quota guarantee, and concurrent writers can change it. Credentials are never command arguments. The keys use `properties/<source>/<id>/source/<number>-<optimized_sha256>.webp`, so later cleaned versions can have their own paths.
 
 Results go to `staging/r2_inventory/`: an overall CSV, per-property JSON inventories, a summary, and an upload checkpoint. Every object and inventory row retains `watermark_status=unverified` and its OCR status. `expected_public_url` is a delivery URL derived from an optional public base; `uploaded_url` is filled only after a confirmed upload or matching existing object. If no public base is configured, both URL fields are blank; the S3 endpoint is not assumed to be a public delivery URL. Existing staged photos can still contain watermarks.
 

@@ -1,6 +1,6 @@
 # Property photo bank and watermark triage
 
-These reports join the full OCR scan, any completed known-logo scan, the source listing manifest and the upload inventory by property/image number and exact captured SHA-256. See `summary.json` for the counts and generation time. An expected public URL describes the planned object path; only an `uploaded_url` with a confirmed upload status establishes that this worker published it.
+These reports join the full OCR scan, any completed known-logo scan, the source listing manifest and the upload inventory by property/image number and exact captured SHA-256. See `summary.json` for the counts and generation time. The source import has completed; `delivery_verification.json` records the verified R2 object count/sizes and public sample hashes, and `publication.json` gives the confirmed public catalog/report URLs. An expected public URL describes the planned object path; only an `uploaded_url` with a confirmed upload status establishes that this worker published it.
 
 - `all_images.csv`: every original image URL, property, source and optimized hash, planned bucket key, upload status and triage result.
 - `watermark_candidates.csv`: the union of known-logo template matches and known-brand OCR hits, deduplicated by property/image number. This is a processing queue, not a certified count of every watermark.
@@ -23,8 +23,7 @@ The import, free OCR/template detection, optimized staging and reports are imple
 From the repository root:
 
 ```sh
-watermark_detection/.venv/bin/python property_photo_pipeline/upload_staged.py --execute
-watermark_detection/.venv/bin/python property_photo_pipeline/build_triage.py
+bash property_photo_pipeline/deliver_images.sh
 ```
 
-The uploader requires bucket-scoped `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` values in the running process environment. The endpoint, bucket and public base URL are already in `r2_config.json`. Environment settings now contain declarations for these runtime variables; review/save and publish that configuration, and apply the stored values to the running worker, before expecting authenticated R2 access. No secret values belong in these reports or Git.
+The uploader requires bucket-scoped `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` values in the running process environment. The endpoint, bucket and public base URL are already in `r2_config.json`. The delivery runner supplies these explicit credentials to R2 while isolating the command from unrelated AWS profile settings. No secret values belong in these reports or Git.

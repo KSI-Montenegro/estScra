@@ -21,16 +21,24 @@ class FakeS3:
         self.objects = {}
         self.used = 5
         self.puts = []
+        self.heads = []
+        self.race_metadata = None
     def get_paginator(self, name):
         return self
     def paginate(self, **kwargs):
-        return [{'Contents': [{'Size': self.used}]}]
+        return [{'Contents': [{'Key': 'other', 'Size': self.used}] +
+                  [{'Key': key, 'Size': obj['ContentLength']} for key, obj in self.objects.items()]}]
     def head_object(self, Bucket, Key):
+        self.heads.append(Key)
         if Key not in self.objects:
             raise Error('404')
         return self.objects[Key]
     def put_object(self, **kwargs):
         self.puts.append(kwargs)
+        if self.race_metadata is not None:
+            self.objects[kwargs['Key']] = {'ContentLength': len(kwargs['Body']), 'Metadata': self.race_metadata}
+        if kwargs['Key'] in self.objects:
+            raise Error('PreconditionFailed')
         self.objects[kwargs['Key']] = {'ContentLength': len(kwargs['Body']), 'Metadata': kwargs['Metadata']}
 
 
@@ -72,6 +80,7 @@ class UploadStagedTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'budget exceeded'):
             subject.perform_uploads(rows, fake, 'bucket', row['optimized_bytes'] + 4, 2, self.output / 'checkpoint.jsonl')
         self.assertFalse(fake.puts)
+        self.assertFalse(fake.heads)
         subject.perform_uploads(rows, fake, 'bucket', row['optimized_bytes'] + 5, 2, self.output / 'checkpoint.jsonl')
         self.assertEqual(row['upload_status'], 'uploaded')
         self.assertEqual(row['uploaded_url'], row['expected_public_url'])
@@ -89,11 +98,44 @@ class UploadStagedTests(unittest.TestCase):
         rerun[0]['ocr_status'] = 'other_text_detected'
         subject.perform_uploads(rerun, fake, 'bucket', 100000, 2, self.output / 'checkpoint.jsonl')
         self.assertEqual(rerun[0]['upload_status'], 'existing')
+        self.assertEqual(fake.heads, [row['key']])
         self.assertEqual(len(fake.puts), 1)
         fake.objects[row['key']]['Metadata']['sha256'] = 'different'
         with self.assertRaisesRegex(ValueError, 'preflight failed'):
             subject.perform_uploads(self.rows(), fake, 'bucket', 100000, 2, self.output / 'checkpoint.jsonl')
         self.assertEqual(len(fake.puts), 1)
+    def test_conditional_race_never_overwrites(self):
+        rows = self.rows()
+        fake = FakeS3()
+        fake.race_metadata = {'sha256': 'different', 'source-sha256': 'different', 'watermark-status': 'unverified'}
+        subject.perform_uploads(rows, fake, 'bucket', 100000, 2, self.output / 'checkpoint.jsonl')
+        self.assertEqual(rows[0]['upload_status'], 'error')
+        self.assertEqual(rows[0]['uploaded_url'], '')
+        self.assertEqual(fake.objects[rows[0]['key']]['Metadata']['sha256'], 'different')
+        self.assertEqual(len(fake.puts), 1)
+        self.assertEqual(fake.puts[0]['IfNoneMatch'], '*')
+
+    def test_parallel_order_duplicate_numeric_alias_and_unavailable(self):
+        inventory = self.staging / 'staging_inventory.csv'
+        with inventory.open(newline='') as f:
+            reader = csv.DictReader(f)
+            fields = reader.fieldnames
+            row = next(reader)
+        alias = dict(row, image_number='001')
+        unavailable = dict(row, property_key='patuljak_2', image_number='2', stage_status='unavailable')
+        with inventory.open('w', newline='') as f:
+            writer = csv.DictWriter(f, fields)
+            writer.writeheader()
+            writer.writerows([row, alias, unavailable])
+        rows = self.rows()
+        self.assertEqual([r['image_number'] for r in rows], ['1', '001', '2'])
+        self.assertEqual([r['upload_status'] for r in rows], ['planned', 'error', 'unavailable'])
+        self.assertIn('duplicate', rows[1]['error'])
+        fake = FakeS3()
+        with self.assertRaisesRegex(ValueError, 'preflight failed'):
+            subject.perform_uploads(rows, fake, 'bucket', 100000, 2, self.output / 'checkpoint.jsonl')
+        self.assertFalse(fake.puts)
+
     def test_changed_original_and_optimized_fail_before_upload(self):
         staged = self.staging / self.record['staged_path']
         staged.write_bytes(b'changed')

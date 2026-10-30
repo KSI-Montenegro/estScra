@@ -1,0 +1,34 @@
+{
+  "verified_at": "2026-10-30T06:44:53.203946+00:00",
+  "bucket": "graden-property-photos",
+  "expected_images": 14448,
+  "verified_objects": 14448,
+  "verified_image_bytes": 1419771040,
+  "available_properties": 1711,
+  "unavailable_source_images": 74,
+  "upload_errors": 0,
+  "all_expected_keys_and_sizes_match": true,
+  "public_samples": [
+    {
+      "property_key": "estitor_139236",
+      "image_number": "1",
+      "public_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/139236/source/001-e390a9b45914f4f05830d5a114f9bbe12cbcba8453611fd06e98158d45cb0c9b.webp",
+      "http_status": 200,
+      "sha256_matches": true
+    },
+    {
+      "property_key": "patuljak_112976",
+      "image_number": "1",
+      "public_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/112976/source/001-dfe8f44f0c0f08b7b54a3fbb3d9b4e80bc333ae929714b7d8f67f5fac05121b3.webp",
+      "http_status": 200,
+      "sha256_matches": true
+    },
+    {
+      "property_key": "realitica_3946469",
+      "image_number": "1",
+      "public_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3946469/source/001-f1a42ba29eac0961bbb2fe6c64b9ef318ae34bbd31ade8fbeb9e14707b080cb5.webp",
+      "http_status": 200,
+      "sha256_matches": true
+    }
+  ]
+}
