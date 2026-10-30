@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-10-30T09:26:47.222337+00:00",
+  "candidate_images": 4789,
+  "accepted_and_uploaded": 4664,
+  "queued": 125,
+  "processing_errors": 0,
+  "verified_r2_keys_and_sizes": 4664,
+  "repaired_image_bytes": 273551202,
+  "all_accepted_keep_dimensions": true,
+  "all_accepted_outside_mask_equal_before_encoding": true,
+  "public_catalog_active_cleaned_count": 4664,
+  "public_cleaned_hash_samples_verified": 3,
+  "queued_mask_reasons": {
+    "Known-logo score or coordinates missing": 105,
+    "Graphic and independently located brand text do not corroborate": 9,
+    "Mask empty or covers excessive photo area": 11
+  },
+  "quality_note": "Automated checks and representative visual review do not certify absence of every watermark or exact recovery of hidden detail."
+}

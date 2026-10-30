@@ -2,18 +2,17 @@
   "status": "published",
   "latest_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/latest.json",
   "assets": {
-    "properties.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/properties.json",
-    "all_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/all_images.csv",
-    "watermark_candidates.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/watermark_candidates.csv",
-    "watermark_remaining.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/watermark_remaining.csv",
-    "cleaned_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/cleaned_images.csv",
-    "per_property_triage.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/per_property_triage.zip",
-    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/6537dab6e7380c7a303fb62e/summary.json"
+    "properties.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/properties.json",
+    "all_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/all_images.csv",
+    "watermark_candidates.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/watermark_candidates.csv",
+    "watermark_remaining.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/watermark_remaining.csv",
+    "cleaned_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/cleaned_images.csv",
+    "per_property_triage.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/per_property_triage.zip",
+    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/7c21bbf14787264a89debaec/summary.json"
   },
   "available_images": 14448,
   "watermark_candidates": 4789,
-  "cleaned_images": 12,
-  "remaining_candidates": 4777,
-  "catalog_bytes": 11349859,
-  "public_catalog_verified": true
+  "cleaned_images": 4664,
+  "remaining_candidates": 125,
+  "catalog_bytes": 12164257
 }

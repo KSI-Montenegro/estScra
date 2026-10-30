@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-30T08:18:55.965766+00:00",
+  "created_at": "2026-10-30T09:17:01.486452+00:00",
   "images": 14522,
   "property_count": 1715,
   "triage_groups": {
@@ -13,8 +13,8 @@
   "known_brand_text_candidates": 1235,
   "known_logo_template_candidates": 4223,
   "combined_candidate_images": 4789,
-  "cleaned_count": 12,
-  "remaining_candidates": 4777,
+  "cleaned_count": 4664,
+  "remaining_candidates": 125,
   "logo_scan_rows": 14522,
   "pattern_groups": 14,
   "candidate_methods": {
