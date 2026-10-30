@@ -16,12 +16,14 @@ We already have 14,522 direct image URLs mapped to property IDs. Listing pages d
 
 - S3 API endpoint: `https://56293bcae8874b5edecb11807ee67359.r2.cloudflarestorage.com`
 - Bucket: `graden-property-photos`
-- Object grouping: `properties/<source>/<listing_id>/<image_number>-<content_hash>.webp`
+- Source-copy grouping: `properties/<source>/<listing_id>/source/<image_number>-<optimized_content_hash>.webp`; later cleaned versions use separate paths.
 - At 14,522 images, a 400,000-byte ceiling is 5,808,800,000 bytes; a 300,000-byte average is 4,356,600,000 bytes, before manifests or other objects.
 
 The worker's bucket budget defaults to 8,000,000,000 bytes and checks current objects before uploads. That is a guard for this bucket, not an account-wide free-tier guarantee; other buckets and concurrent writers also consume storage. Keep original and lossless intermediate copies outside this delivery bucket. The S3 endpoint is for authenticated access. The owner supplied `https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev` as the public delivery base URL; the credential-free configuration example now includes it. Credentials still need to be available in the running worker environment before authenticated operations can be tested.
 
-The owner selected free preparation with paid editing deferred. `property_photo_pipeline/stage_cached.py --watch` follows OCR, verifies captured bytes and creates private provisional WebP files grouped by property. These retain existing watermarks and are explicitly unverified, not cleared for upload. They can be reused later only after a verified clean-image policy; images requiring removal must be reconstructed and re-encoded first.
+The owner selected free preparation with paid editing deferred. `property_photo_pipeline/stage_cached.py --watch` follows OCR, verifies captured bytes and creates provisional WebP files grouped by property. These retain existing watermarks and are explicitly unverified. A finished watermark-free selection needs verified clean-image rules; images requiring removal must be reconstructed and re-encoded first.
+
+The owner subsequently authorized uploading all available source copies before removal. `property_photo_pipeline/upload_staged.py --execute` implements that provisional import while preserving `watermark_status=unverified`; it does not fabricate clean-image clearance. The finished staging run contains 14,448 optimized photos totaling 1,419,771,040 bytes; 74 source URLs were unavailable. The earlier clearance-gated command remains for separately approved finished photos. See `property_photo_pipeline/reports/` for the combined OCR/known-logo queue, exact image-to-property mapping and current upload status. Reconstruction remains deferred.
 
 ## How to avoid reviewing every image
 

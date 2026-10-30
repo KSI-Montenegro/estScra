@@ -59,3 +59,22 @@ The public base URL was supplied by the bucket owner; object delivery will be ve
 A completed upload produces `published.csv` and per-property `published.json` records. Public URLs are blank when no public base URL is configured.
 
 For a size study that makes no clearance decisions and writes no publishable image files, use `python property_photo_pipeline/benchmark.py --input-dir watermark_detection/cache --limit 60 --output /tmp/photo-benchmark.json`. It encodes cached `.image` files in memory and records per-image size, dimensions, quality and original hash. This sample is not necessarily representative of the whole collection.
+
+## Provisional uploads
+
+The separate `upload_staged.py` command supports the user's authorized provisional upload of the existing optimized staging images before watermark removal. Its `source` object paths contain unverified photos: an upload does not clear a watermark, verify an OCR result, or replace the clearance-gated workflow described above. Originals are not modified.
+
+```sh
+python property_photo_pipeline/upload_staged.py                # local audit and inventory; no network upload
+python property_photo_pipeline/upload_staged.py --execute      # upload audited provisional images to R2
+```
+
+Both commands validate every available source hash and optimized hash, 400,000-byte limit, and dimensions against the staging records; unavailable images remain in the inventory. Audit errors prevent upload. The execute command uses the configured R2 endpoint and bucket and requires `R2_ACCESS_KEY_ID` and `R2_SECRET_ACCESS_KEY` environment variables. It lists bucket bytes and checks existing keys before writing, defaults to an 8,000,000,000-byte bucket limit (`--budget-bytes` changes it), uses at most four upload workers, and resumes based on R2 HEAD checks with an append-only checkpoint. Bucket usage is a snapshot, not an account-wide quota guarantee, and concurrent writers can change it. Credentials are never command arguments. The keys use `properties/<source>/<id>/source/<number>-<optimized_sha256>.webp`, so later cleaned versions can have their own paths.
+
+Results go to `staging/r2_inventory/`: an overall CSV, per-property JSON inventories, a summary, and an upload checkpoint. Every object and inventory row retains `watermark_status=unverified` and its OCR status. `expected_public_url` is a delivery URL derived from an optional public base; `uploaded_url` is filled only after a confirmed upload or matching existing object. If no public base is configured, both URL fields are blank; the S3 endpoint is not assumed to be a public delivery URL. Existing staged photos can still contain watermarks.
+
+Object metadata records OCR status at import time. Later recognition changes do not require uploading identical image bytes again; the current inventory/report carries the latest classification. Resume checks still require matching byte count, source and optimized hashes, and the source object's unverified status.
+
+## Batch watermark queues
+
+See [`reports/README.md`](reports/README.md) for the full inventory, per-property ZIP, combined watermark candidates and representative layout sheets. `build_triage.py` joins exact source hashes and distinguishes expected URLs from confirmed uploaded URLs. It can combine OCR findings with the optional completed `match_known_logo.py` scan of the known Patuljak mascot; a negative result from either method is never a clean-image approval. Known-pattern processing avoids inspecting every photo individually. Reconstruction remains deferred until an editing backend and spending limit are selected.

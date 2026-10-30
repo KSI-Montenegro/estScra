@@ -1,0 +1,23 @@
+{
+  "images": 14522,
+  "counts": {
+    "known_logo_template_candidate": 4223,
+    "no_template_match": 10225,
+    "unavailable": 74,
+    "error": 0
+  },
+  "threshold": 0.85,
+  "reference_sha256": "bc501d05d0cdab3bae6fe8a2e18572f41fe9732aed9aba82fb446ffdeb49325c",
+  "template_sha256": "1949188c23369b050d7a0b9e4190121ccebfb54b045f73a4c91c1f42bfdcc28d",
+  "scales": [
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5,
+    2.0
+  ],
+  "search_region": "bottom 35%",
+  "interpretation": "Candidates only; no_template_match does not establish absence of a watermark.",
+  "pilot_per_source": 0
+}

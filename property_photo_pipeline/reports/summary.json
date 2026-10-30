@@ -1,0 +1,33 @@
+{
+  "created_at": "2026-10-30T06:14:15.777818+00:00",
+  "images": 14522,
+  "property_count": 1715,
+  "triage_groups": {
+    "known_logo_template_candidate": 4223,
+    "other_text_uncertain": 5076,
+    "no_text_unverified": 4583,
+    "footer_brand_text_candidate": 563,
+    "unavailable": 74,
+    "other_brand_text_candidate": 3
+  },
+  "known_brand_text_candidates": 1235,
+  "known_logo_template_candidates": 4223,
+  "combined_candidate_images": 4789,
+  "logo_scan_rows": 14522,
+  "pattern_groups": 14,
+  "candidate_methods": {
+    "template_and_ocr": 669,
+    "template": 3554,
+    "none": 9733,
+    "ocr": 566
+  },
+  "upload_statuses": {
+    "planned": 14448,
+    "unavailable": 74
+  },
+  "verified_watermark_count": null,
+  "verified_clean_count": null,
+  "automatic_edit_approvals": 0,
+  "image_editing_calls": 0,
+  "interpretation": "Candidate counts combine OCR and a known mascot template, not every possible watermark. No text or no template match does not certify clean. Expected URLs are not proof of upload."
+}

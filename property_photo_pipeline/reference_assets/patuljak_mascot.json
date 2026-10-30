@@ -1,0 +1,17 @@
+{
+  "reference_image": "watermark_removal/originals/patuljak_82084_01.jpeg",
+  "reference_sha256": "bc501d05d0cdab3bae6fe8a2e18572f41fe9732aed9aba82fb446ffdeb49325c",
+  "reference_oriented_dimensions": [
+    666,
+    500
+  ],
+  "bbox_xyxy": [
+    530,
+    400,
+    605,
+    493
+  ],
+  "template_file": "patuljak_mascot.png",
+  "template_sha256": "1949188c23369b050d7a0b9e4190121ccebfb54b045f73a4c91c1f42bfdcc28d",
+  "description": "Mascot reference crop for template analysis; candidate matches are not proof of absence or a removal decision."
+}
