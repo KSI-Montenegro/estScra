@@ -32,6 +32,7 @@ from watermark_mask import build_mask
 from remove_local import process_row, TorchInpainter
 from photo_catalog import R2Store, is_cleaned, csv_bytes, sha
 from photo_queue import prepare, enqueue
+from brightdata_browser import BrowserAPI, BrowserFailure
 
 VERSION = 'one-property-sample-patuljak-v1'
 HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com'}
@@ -58,13 +59,36 @@ class SafeRedirect(HTTPRedirectHandler):
 
 
 class Downloader:
-    def __init__(self, cache, public_host, key='', zone='esstitor_site_phone_scraper', max_api=20):
+    def __init__(self, cache, public_host, key='', zone='esstitor_site_phone_scraper', max_api=100):
         self.cache = Path(cache)
         self.cache.mkdir(parents=True, exist_ok=True)
         self.hosts = HOSTS | {public_host}
         self.opener = build_opener(SafeRedirect(self.hosts))
         self.next_request, self.paused = {}, set()
         self.key, self.zone, self.max_api, self.api_requests = key, zone, max_api, 0
+        self.browser = BrowserAPI(key, os.getenv('BRIGHTDATA_BROWSER_ZONE', 'estitorscraper2'), self.hosts, 20_000_000) if key else None
+        self.browser_hosts = set()
+
+    def browser_image(self, url):
+        if not self.browser or self.api_requests >= self.max_api:
+            raise PhotoFailure('image_api_request_limit')
+        for attempt in range(2):
+            if self.api_requests >= self.max_api:
+                raise PhotoFailure('image_api_request_limit')
+            self.api_requests += 1
+            try:
+                data, _, _ = self.browser.get_image(url)
+                decode(data)
+                self.browser_hosts.add(urlsplit(url).hostname)
+                return data
+            except BrowserFailure as exc:
+                if str(exc) == 'browser_source_http_429':
+                    self.paused.add(urlsplit(url).hostname)
+                if attempt == 0 and str(exc) in ('browser_navigate_failed', 'browser_navigate_timeout', 'browser_content_failed',
+                                               'browser_content_timeout', 'browser_session_closed', 'browser_navigation_aborted'):
+                    time.sleep(1)
+                    continue
+                raise PhotoFailure('image_' + str(exc)) from None
 
     def get(self, url):
         if not safe_url(url, self.hosts):
@@ -79,6 +103,10 @@ class Downloader:
             raise PhotoFailure('image_host_rate_limited')
         time.sleep(max(0, self.next_request.get(host, 0) - time.monotonic()))
         self.next_request[host] = time.monotonic() + .5
+        if host in self.browser_hosts:
+            data = self.browser_image(url)
+            atomic_write(path, data)
+            return data
         request = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; GRADEN-PropertyPhotos/1.0)'})
         try:
             with self.opener.open(request, timeout=25) as response:
@@ -87,7 +115,9 @@ class Downloader:
             if exc.code == 429:
                 self.paused.add(host)
                 raise PhotoFailure('image_http_429') from None
-            if exc.code != 403 or not self.key or self.api_requests >= self.max_api or host not in HOSTS:
+            if exc.code == 403 and self.key and self.api_requests >= self.max_api:
+                raise PhotoFailure('image_api_request_limit') from None
+            if exc.code != 403 or not self.key or host not in HOSTS:
                 raise PhotoFailure('image_http_' + str(exc.code)) from None
             # Raw API mode is required for original image bytes, not JSON HTML.
             payload = json.dumps({'zone': self.zone, 'url': url, 'format': 'raw', 'method': 'GET'}).encode()
@@ -95,8 +125,17 @@ class Downloader:
             api = Request('https://api.brightdata.com/request', data=payload,
                           headers={'Authorization': 'Bearer ' + self.key, 'Content-Type': 'application/json'})
             try:
-                with build_opener().open(api, timeout=45) as response:
+                with build_opener(SafeRedirect({'api.brightdata.com'})).open(api, timeout=45) as response:
                     data = response.read(20_000_001)
+                try:
+                    decode(data)
+                except Exception:
+                    # A raw proxy response can still be a CloudFront/Cloudflare
+                    # HTML block with HTTP 200. Fetch original binary response
+                    # bytes through the managed browser, never a screenshot.
+                    data = self.browser_image(url)
+            except PhotoFailure:
+                raise
             except Exception:
                 raise PhotoFailure('image_proxy_fetch_failed') from None
         except PhotoFailure:
@@ -105,7 +144,13 @@ class Downloader:
             raise PhotoFailure('image_connection_failed') from None
         if len(data) > 20_000_000:
             raise PhotoFailure('image_bytes_limit')
-        decode(data)  # Reject challenges, invalid images and oversized decodes.
+        try:
+            decode(data)
+        except Exception:
+            if self.browser and host in HOSTS:
+                data = self.browser_image(url)
+            else:
+                raise PhotoFailure('image_response_not_image') from None
         atomic_write(path, data)
         return data
 
@@ -205,6 +250,8 @@ class PhotoWorker:
             self.checkpoint()
             return
         known_pending = any(r.get('watermark_candidate') and not is_cleaned(r) for r in existing.values())
+        if prop.get('sample', {}).get('retry_required') or (prop.get('sample') and not prop['sample'].get('source_sha256')):
+            prop['sample'] = {}
         if unprocessed and not prop.get('sample'):
             first = unprocessed[0]
             sample_url = first['original_url']
@@ -227,7 +274,7 @@ class PhotoWorker:
             except Exception as exc:
                 prop['sample'] = {'result': 'needs_review', 'reason': str(exc) if isinstance(exc, PhotoFailure) else 'sample_analysis_failed',
                                   'image_number': first['image_number'], 'sampled_url': sample_url,
-                                  'images_sampled': 1}
+                                  'images_sampled': 0, 'images_attempted': 1, 'retry_required': True}
         flagged = known_pending or prop.get('sample', {}).get('result') != 'sample_passed'
         for item in prop['input_images']:
             number = str(item['image_number'])
@@ -304,11 +351,11 @@ class PhotoWorker:
                 prop['images'][number] = row
                 self.checkpoint()
             except Exception as exc:
-                failures = prop['failures'].get(number, 0) + 1
-                prop['failures'][number] = failures
                 code = str(exc) if isinstance(exc, PhotoFailure) else 'image_stage_' + type(exc).__name__
                 if str(exc) == 'bucket_budget_exceeded':
                     raise PhotoFailure('bucket_budget_exceeded') from None
+                failures = prop['failures'].get(number, 0) + (code != 'image_api_request_limit')
+                prop['failures'][number] = failures
                 if base:
                     prop['images'][number] = {**base, 'reused_existing': True, 'ready_for_listing': False,
                                              'watermark_candidate': bool(flagged or base.get('watermark_candidate')),
@@ -317,7 +364,7 @@ class PhotoWorker:
                     prop['images'][number] = {'image_number': int(number), 'original_url': item['original_url'],
                                              'pipeline_status': 'unavailable' if failures >= 3 or code in ('image_http_404', 'image_http_410') else 'retry',
                                              'error_code': code, 'ready_for_listing': False}
-                self.counts['image_errors'] += 1
+                self.counts['deferred_by_limits' if code == 'image_api_request_limit' else 'image_errors'] += 1
                 self.checkpoint()
         images = prop['images']
         pending = any(str(i['image_number']) not in images or images[str(i['image_number'])].get('pipeline_status') in ('retry', 'deferred_cleanup') for i in prop['input_images'])
@@ -402,7 +449,7 @@ def main():
     parser.add_argument('--max-properties', type=int, default=300)
     parser.add_argument('--max-images', type=int, default=1500)
     parser.add_argument('--max-clean-images', type=int, default=300)
-    parser.add_argument('--max-image-api-requests', type=int, default=20)
+    parser.add_argument('--max-image-api-requests', type=int, default=100)
     parser.add_argument('--execute', action='store_true')
     parser.add_argument('--upload', action='store_true')
     args = parser.parse_args()

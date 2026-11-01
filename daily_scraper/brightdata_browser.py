@@ -51,7 +51,7 @@ class BrowserAPI:
             self.credentials = base64.b64encode((username + ':' + passwords[0]).encode()).decode()
         return {'Authorization': 'Basic ' + self.credentials}
 
-    def get(self, url):
+    def get(self, url, binary=False):
         if urlsplit(url).scheme != 'https' or urlsplit(url).hostname not in self.allowed_hosts:
             raise BrowserFailure('browser_unsupported_url')
         if self.unavailable:
@@ -71,13 +71,26 @@ class BrowserAPI:
                     page = browser.new_page()
                     # Save photo/font transfer; challenge resources on other hosts
                     # are left to the provider's browser service.
-                    page.route('**/*', lambda route: route.abort()
-                               if route.request.resource_type in ('image', 'media', 'font')
-                               and urlsplit(route.request.url).hostname == urlsplit(url).hostname
-                               else route.continue_())
+                    if not binary:
+                        page.route('**/*', lambda route: route.abort()
+                                   if route.request.resource_type in ('image', 'media', 'font')
+                                   and urlsplit(route.request.url).hostname == urlsplit(url).hostname
+                                   else route.continue_())
                     phase = 'navigate'
                     response = page.goto(url, wait_until='domcontentloaded', timeout=60_000)
                     phase = 'content'
+                    if binary:
+                        if not response or response.status != 200:
+                            raise BrowserFailure('browser_source_http_' + str(response.status if response else 0))
+                        if not response.headers.get('content-type', '').lower().startswith('image/'):
+                            raise BrowserFailure('browser_image_response_not_image')
+                        final = page.url
+                        if urlsplit(final).hostname not in self.allowed_hosts or urlsplit(final).scheme != 'https':
+                            raise BrowserFailure('browser_redirect_host_invalid')
+                        data = response.body()
+                        if len(data) > self.max_body:
+                            raise BrowserFailure('browser_response_too_large')
+                        return data, final, 'brightdata_browser_api'
                     deadline = time.monotonic() + 30
                     while re.search(r'just a moment|checking your browser', page.title(), re.I):
                         if time.monotonic() >= deadline:
@@ -120,3 +133,6 @@ class BrowserAPI:
             if type(exc).__name__ == 'TimeoutError':
                 raise BrowserFailure('browser_' + phase + '_timeout') from None
             raise BrowserFailure('browser_' + phase + '_failed') from None
+
+    def get_image(self, url):
+        return self.get(url, binary=True)

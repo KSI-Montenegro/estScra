@@ -3,6 +3,8 @@
 The **Daily property export** GitHub workflow now runs the listing scraper and this photo pipeline.
 No browser extension, hosted OCR service or paid image-editing API is used for photo processing.
 The existing Bright Data key can fetch an image through its HTTP API if direct image access returns 403.
+If the proxy returns a block page, the Browser API retrieves the original image response bytes;
+it does not substitute browser screenshots. A successful browser route is reused for that image host.
 
 ## Processing policy
 
@@ -79,7 +81,7 @@ The owner supplies three GitHub Actions secrets: `BRIGHTDATA_API_KEY`, `R2_ACCES
 The first workflow run installs Tesseract, CPU PyTorch and the pinned 206 MB LaMa model; subsequent
 runs use caches. No new editing subscription or Bright Data zone is created.
 
-Default per-run limits are 300 property galleries, 1,500 images, 300 local edits and 20 image API
+Default per-run limits are 300 property galleries, 1,500 images, 300 local edits and 100 image API
 fallback requests. The listing scraper has its own 100-request Bright Data limit. These are count
 limits, not monetary budgets. Run-workflow inputs can reduce photo limits for trials. The bucket
 guard is 8 GB, below the owner's 10 GB storage allowance; a budget failure stops further publication.

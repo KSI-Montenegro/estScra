@@ -206,6 +206,22 @@ class DailyTests(unittest.TestCase):
             with self.assertRaisesRegex(BrowserFailure, 'not_browser_api'):
                 api.auth_headers()
 
+    def test_browser_image_returns_original_response_bytes(self):
+        api = BrowserAPI('key', 'browser', scraper.ALLOWED_HOSTS)
+        manager = MagicMock()
+        browser = manager.__enter__.return_value.chromium.connect_over_cdp.return_value
+        page = browser.new_page.return_value
+        page.url = URL
+        response = page.goto.return_value
+        response.status = 200
+        response.headers = {'content-type': 'image/jpeg'}
+        response.body.return_value = b'original-image-bytes'
+        with patch.object(api, 'auth_headers', return_value={'Authorization': 'Basic masked'}), \
+             patch('playwright.sync_api.sync_playwright', return_value=manager):
+            self.assertEqual(api.get_image(URL)[0], b'original-image-bytes')
+        page.route.assert_not_called()
+        browser.close.assert_called_once()
+
 
 if __name__ == '__main__':
     unittest.main()

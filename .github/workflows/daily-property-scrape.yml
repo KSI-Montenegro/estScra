@@ -110,6 +110,7 @@ jobs:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
           MAX_PHOTO_PROPERTIES: ${{ inputs.max_photo_properties || '300' }}
           MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || '1500' }}

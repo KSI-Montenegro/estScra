@@ -6,6 +6,8 @@ import sys
 import tempfile
 import unittest
 from unittest.mock import patch
+from unittest.mock import MagicMock
+from urllib.error import HTTPError
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import process_photos as p
@@ -249,6 +251,32 @@ class PhotoTests(unittest.TestCase):
         self.assertFalse(p.safe_url('https://user:pass@patuljak.me/a', p.HOSTS))
         self.assertFalse(p.safe_url('http://patuljak.me/a', p.HOSTS))
         self.assertTrue(p.safe_url(self.urls[0], p.HOSTS))
+
+    def test_blocked_raw_proxy_image_uses_browser_binary_and_reuses_route(self):
+        downloader = p.Downloader(self.root / 'cache', 'cdn.example.com', key='test-key')
+        downloader.opener = MagicMock()
+        downloader.opener.open.side_effect = HTTPError(self.urls[0], 403, 'blocked', {}, None)
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = b'<html>CloudFront blocked</html>'
+        api = MagicMock(); api.open.return_value = response
+        raw = image_bytes()
+        with patch.object(p, 'build_opener', return_value=api), \
+             patch.object(downloader.browser, 'get_image', return_value=(raw, self.urls[0], 'browser')) as browser, \
+             patch.object(p.time, 'sleep'):
+            self.assertEqual(downloader.get(self.urls[0]), raw)
+            self.assertEqual(downloader.get(self.urls[1]), raw)
+            self.assertEqual(browser.call_count, 2)
+        self.assertEqual(downloader.opener.open.call_count, 1)
+        self.assertEqual(downloader.api_requests, 3)
+
+    def test_request_limit_does_not_exhaust_per_image_failure_retries(self):
+        w = self.worker()
+        with patch.object(w.downloader, 'get', side_effect=p.PhotoFailure('image_api_request_limit')):
+            w.process(w.state['properties']['patuljak_123'])
+        prop = w.state['properties']['patuljak_123']
+        self.assertEqual(prop['failures'], {'1': 0, '2': 0})
+        self.assertEqual(prop['phase'], 'pending')
+        self.assertEqual(prop['sample']['images_sampled'], 0)
 
 
 if __name__ == '__main__': unittest.main()
