@@ -246,5 +246,12 @@
     "artifact_upload": "success",
     "scope": "One page per search; three listing captures total; not a full-site crawl",
     "export_zip_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T113551-42ddea/property-export.zip"
+  },
+  "connected_photo_pipeline": {
+    "workflow": "https://github.com/KSI-Montenegro/estScra/actions/runs/41307655925",
+    "status": "success",
+    "report": "photo_pipeline_validation.json",
+    "download_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/f14cc142ddaa4407/graden_daily_scraper.zip",
+    "daily_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/daily/latest.json"
   }
 }

@@ -19,6 +19,7 @@ FILES = {
     HERE / 'requirements.txt': 'requirements.txt',
     HERE / 'README.md': 'README.md',
     HERE / 'DAILY_PHOTOS.md': 'DAILY_PHOTOS.md',
+    HERE / 'photo_pipeline_validation.json': 'photo_pipeline_validation.json',
     HERE / 'test_daily_scraper.py': 'test_daily_scraper.py',
     ROOT / 'collect_images.py': 'collect_images.py',
     ROOT / 'extract_listing_details.py': 'extract_listing_details.py',
