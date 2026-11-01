@@ -61,11 +61,13 @@ class BrowserAPI:
         except ImportError:
             raise BrowserFailure('install_playwright_for_browser_api') from None
         headers = self.auth_headers()
+        phase = 'connect'
         try:
             with sync_playwright() as p:
                 browser = p.chromium.connect_over_cdp(
                     'wss://brd.superproxy.io:9222', headers=headers, timeout=20_000)
                 try:
+                    phase = 'configure'
                     page = browser.new_page()
                     # Save photo/font transfer; challenge resources on other hosts
                     # are left to the provider's browser service.
@@ -73,7 +75,9 @@ class BrowserAPI:
                                if route.request.resource_type in ('image', 'media', 'font')
                                and urlsplit(route.request.url).hostname == urlsplit(url).hostname
                                else route.continue_())
+                    phase = 'navigate'
                     response = page.goto(url, wait_until='domcontentloaded', timeout=60_000)
+                    phase = 'content'
                     deadline = time.monotonic() + 30
                     while re.search(r'just a moment|checking your browser', page.title(), re.I):
                         if time.monotonic() >= deadline:
@@ -107,4 +111,12 @@ class BrowserAPI:
             if any(code in message for code in ('401 Unauthorized', '407', 'auth_failed')):
                 self.unavailable = True
                 raise BrowserFailure('browser_authentication_failed') from None
-            raise BrowserFailure('browser_connection_or_navigation_failed') from None
+            if 'ERR_ABORTED' in message:
+                raise BrowserFailure('browser_navigation_aborted') from None
+            if 'Execution context was destroyed' in message:
+                raise BrowserFailure('browser_page_context_changed') from None
+            if 'has been closed' in message or 'Connection closed' in message:
+                raise BrowserFailure('browser_session_closed') from None
+            if type(exc).__name__ == 'TimeoutError':
+                raise BrowserFailure('browser_' + phase + '_timeout') from None
+            raise BrowserFailure('browser_' + phase + '_failed') from None

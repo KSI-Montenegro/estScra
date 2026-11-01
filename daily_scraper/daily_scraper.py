@@ -53,21 +53,36 @@ class Fetcher:
         self.api_blocked = False
         self.counts = Counter()
         self.browser = BrowserAPI(key, browser_zone, ALLOWED_HOSTS, MAX_BODY) if browser_zone else None
+        self.browser_hosts = set()
 
     def browser_get(self, url):
         if not self.key:
             raise FetchFailure('brightdata_key_missing')
         if not self.browser:
             raise FetchFailure('brightdata_browser_zone_missing')
-        if self.counts['brightdata_requests'] + self.counts['brightdata_browser_requests'] >= self.max_api:
-            raise FetchFailure('brightdata_request_cap_reached')
-        self.counts['brightdata_browser_requests'] += 1
-        try:
-            return self.browser.get(url)
-        except BrowserFailure as exc:
-            if str(exc) == 'browser_source_http_429':
-                self.paused.add(urlsplit(url).hostname)
-            raise FetchFailure(str(exc)) from None
+        transient = {'browser_connection_or_navigation_failed', 'browser_connect_failed',
+                     'browser_configure_failed', 'browser_navigate_failed', 'browser_content_failed',
+                     'browser_connect_timeout', 'browser_configure_timeout', 'browser_navigate_timeout',
+                     'browser_content_timeout', 'browser_navigation_aborted', 'browser_page_context_changed',
+                     'browser_session_closed'}
+        for attempt in range(2):
+            if self.counts['brightdata_requests'] + self.counts['brightdata_browser_requests'] >= self.max_api:
+                raise FetchFailure('brightdata_request_cap_reached')
+            self.counts['brightdata_browser_requests'] += 1
+            try:
+                result = self.browser.get(url)
+                self.browser_hosts.add(urlsplit(url).hostname)
+                return result
+            except BrowserFailure as exc:
+                code = str(exc)
+                if code == 'browser_source_http_429':
+                    self.paused.add(urlsplit(url).hostname)
+                if attempt == 0 and code in transient:
+                    self.counts['browser_retries'] += 1
+                    print(json.dumps({'event': 'browser_retry', 'host': urlsplit(url).hostname, 'code': code}), flush=True)
+                    time.sleep(1)
+                    continue
+                raise FetchFailure(code) from None
 
     def get(self, url, force_api=False):
         host = urlsplit(url).hostname
@@ -77,7 +92,7 @@ class Fetcher:
             raise FetchFailure('source_rate_limited')
         time.sleep(max(0, self.next_request.get(host, 0) - time.monotonic()))
         self.next_request[host] = time.monotonic() + self.interval
-        if self.mode == 'browser':
+        if self.mode == 'browser' or (self.mode != 'direct' and host in self.browser_hosts):
             return self.browser_get(url)
         if self.mode != 'always' and not force_api:
             try:

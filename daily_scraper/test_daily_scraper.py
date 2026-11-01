@@ -138,10 +138,39 @@ class DailyTests(unittest.TestCase):
             self.assertEqual(fetcher.get(URL)[2], 'brightdata_browser_api')
             browser.assert_called_once()
         Response.status = 429
+        fetcher = scraper.Fetcher('test-key', 'dc-zone', mode='always', browser_zone='existing-browser')
         with patch.object(scraper, 'urlopen', return_value=Response()), patch.object(fetcher.browser, 'get') as browser:
             with self.assertRaisesRegex(scraper.FetchFailure, 'proxied_source_http_429'):
                 fetcher.get(URL)
             browser.assert_not_called()
+
+    def test_browser_retry_succeeds_and_reuses_working_route(self):
+        fetcher = scraper.Fetcher('test-key', 'dc', mode='always', max_api=4, browser_zone='browser')
+        result = (BODY, URL, 'brightdata_browser_api')
+        with patch.object(fetcher.browser, 'get', side_effect=[BrowserFailure('browser_navigation_aborted'), result, result]) as get, \
+             patch.object(scraper.time, 'sleep'), patch.object(scraper, 'urlopen') as http:
+            self.assertEqual(fetcher.browser_get(URL), result)
+            self.assertEqual(fetcher.get(URL), result)
+            self.assertEqual(get.call_count, 3)
+            http.assert_not_called()
+            self.assertEqual(fetcher.counts['browser_retries'], 1)
+
+    def test_browser_retry_respects_request_cap(self):
+        fetcher = scraper.Fetcher('test-key', 'dc', mode='browser', max_api=1, browser_zone='browser')
+        with patch.object(fetcher.browser, 'get', side_effect=BrowserFailure('browser_navigate_failed')) as get, \
+             patch.object(scraper.time, 'sleep'):
+            with self.assertRaisesRegex(scraper.FetchFailure, 'request_cap_reached'):
+                fetcher.get(URL)
+            self.assertEqual(get.call_count, 1)
+
+    def test_browser_rate_limit_is_not_retried(self):
+        fetcher = scraper.Fetcher('test-key', 'dc', mode='browser', max_api=4, browser_zone='browser')
+        with patch.object(fetcher.browser, 'get', side_effect=BrowserFailure('browser_source_http_429')) as get:
+            with self.assertRaisesRegex(scraper.FetchFailure, 'browser_source_http_429'):
+                fetcher.get(URL)
+            self.assertEqual(get.call_count, 1)
+            with self.assertRaisesRegex(scraper.FetchFailure, 'source_rate_limited'):
+                fetcher.get(URL)
 
     def test_http_and_browser_share_page_request_cap(self):
         fetcher = scraper.Fetcher('test-key', 'dc', mode='browser', max_api=1, browser_zone='browser')
