@@ -1,7 +1,7 @@
 {
-  "validated_at": "2026-11-01T08:30:38.151304+00:00",
-  "offline_tests_passed": 18,
-  "portable_bundle_tests_passed": 18,
+  "validated_at": "2026-11-01T11:37:54.547380+00:00",
+  "offline_tests_passed": 21,
+  "portable_bundle_tests_passed": 21,
   "workflow_yaml_and_bash_syntax": "passed",
   "live_direct_export": {
     "schema_version": 1,
@@ -86,13 +86,15 @@
     "realitica_searches": 3,
     "result": "API accepted requests; proxied target returned HTTP 403; existing datacenter zone is not a verified unblocker"
   },
-  "daily_schedule": "07:17 UTC; workflow is configured; full three-source coverage blocked on GitHub-hosted IP until proxy/hosting is fixed",
+  "daily_schedule": "Active GitHub workflow: 07:17 UTC daily; source access verified by a small successful run",
   "github_actions_api": {
     "dispatch_and_read_runs": "allowed",
-    "set_secret": "denied HTTP 403 on Actions secrets public-key endpoint"
+    "set_secret": "denied HTTP 403 on Actions secrets public-key endpoint",
+    "secret_configured_by_owner": true,
+    "secret_available_in_workflow": true
   },
   "publication": {
-    "graden_daily_scraper.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/b1f8c2394f007349/graden_daily_scraper.zip",
+    "graden_daily_scraper.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/ba2ebbbb313f331c/graden_daily_scraper.zip",
     "2026-11-01T083446-complete-export.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/property-export.zip",
     "listings.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/listings.csv",
     "listings.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/listings.json",
@@ -118,8 +120,7 @@
     "First discovery includes older listings outside the original selected import",
     "Photo URLs and one-photo sampling queue only; no new image binaries optimized or uploaded",
     "Existing Bright Data datacenter zone returned proxied target HTTP 403 for tested search pages",
-    "GitHub-hosted direct test worked only for Patuljak; Realitica and Estitor blocked",
-    "Actions secrets public-key API denied this integration; owner must set BRIGHTDATA_API_KEY and a compatible working zone"
+    "GitHub-hosted direct access is blocked for protected pages; verified Browser API fallback requires the saved key and existing browser zone."
   ],
   "browser_api_update": {
     "existing_zone": "estitorscraper2",
@@ -137,8 +138,113 @@
       "errors": 0
     },
     "browser_credentials_lookup": "verified through GET /status and GET /zone",
-    "browser_live_connection": "ECONNREFUSED on brd.superproxy.io:9222 from this cloud workspace; page scraping not verified",
+    "browser_live_connection": "Verified from GitHub-hosted runner; Realitica and Estitor listing captures both used Browser API. This workspace still refuses port 9222.",
     "secret_storage": "credentials remain in memory; no key embedded in download",
-    "download_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/aeaf3b2eabc179cf/graden_daily_scraper.zip"
+    "download_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/ba2ebbbb313f331c/graden_daily_scraper.zip"
+  },
+  "live_github_secret_test": {
+    "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41302569957",
+    "conclusion": "success",
+    "secret_received": true,
+    "summary": {
+      "schema_version": 1,
+      "run_id": "2026-11-01T113551-42ddea",
+      "started_at": "2026-11-01T11:35:51.327300+00:00",
+      "finished_at": "2026-11-01T11:37:54.547380+00:00",
+      "discovered_ids": 209,
+      "captured_listings": 3,
+      "attempted_listings": 3,
+      "by_source": {
+        "realitica": 1,
+        "patuljak": 1,
+        "estitor": 1
+      },
+      "pending_backlog": 1154,
+      "errors": 0,
+      "requests": {
+        "brightdata_requests": 2,
+        "brightdata_browser_requests": 7,
+        "direct_requests": 2
+      },
+      "discovery": [
+        {
+          "source": "realitica",
+          "search": "sale",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        },
+        {
+          "source": "realitica",
+          "search": "rent",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        },
+        {
+          "source": "realitica",
+          "search": "holiday",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        },
+        {
+          "source": "patuljak",
+          "search": "properties",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        },
+        {
+          "source": "estitor",
+          "search": "sale",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        },
+        {
+          "source": "estitor",
+          "search": "rent",
+          "pages_scanned": 1,
+          "stop_reason": "page_cap_reached",
+          "coverage": "bounded_scan_not_full_site_census"
+        }
+      ],
+      "coverage": "bounded_scan; increase max-pages for deeper coverage",
+      "photo_delivery": "source_urls_only; optimization_and_R2_photo_upload_are_separate",
+      "watermark_check": "one_representative_image_queued_per_property; not_analyzed",
+      "status": "completed_with_backlog"
+    },
+    "captures": [
+      {
+        "property_key": "realitica_3956377",
+        "source": "realitica",
+        "listing_id": "3956377",
+        "transport": "brightdata_browser_api",
+        "image_count": 6,
+        "import_status": "ready_for_mapping"
+      },
+      {
+        "property_key": "patuljak_86015",
+        "source": "patuljak",
+        "listing_id": "86015",
+        "transport": "direct_https",
+        "image_count": 9,
+        "import_status": "needs_review"
+      },
+      {
+        "property_key": "estitor_649878",
+        "source": "estitor",
+        "listing_id": "649878",
+        "transport": "brightdata_browser_api",
+        "image_count": 7,
+        "import_status": "ready_for_mapping"
+      }
+    ],
+    "csv_json_rows_verified": 3,
+    "state_save": "success",
+    "artifact_upload": "success",
+    "scope": "One page per search; three listing captures total; not a full-site crawl",
+    "export_zip_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T113551-42ddea/property-export.zip"
   }
 }

@@ -34,7 +34,11 @@ To use the hosted Browser API for every page:
 
 No local browser binary or extension is needed. Playwright connects to the remote browser over
 verified WSS on `brd.superproxy.io:9222`; that port must be reachable from the execution host.
-Each page gets a bounded session that closes immediately afterward. First-party image, font
+Each page gets a bounded session that closes immediately afterward. Temporary browser
+connection/navigation failures receive one retry, counted against the same page-request cap;
+HTTP 429, authentication and refused-port failures are not retried. Once a browser route succeeds
+for a source, the rest of that run uses it directly to avoid repeated blocked proxy requests.
+First-party image, font
 and media requests are blocked to reduce transfer. HTTP and browser page attempts share the
 request cap; account metadata lookups are separate control requests. This limits page attempts,
 not monetary spend. Existing account pricing applies; no new zone or subscription was created.
@@ -59,17 +63,23 @@ configured later through `BRIGHTDATA_ZONE`; browser_api zones use the separate P
 transport included in this version, rather than the HTTP `/request` endpoint.
 
 Additional live tests on 2026-11-01 confirmed a full Patuljak discovery and listing capture
-through the Bright Data HTTP API (2 requests, no errors). The existing `estitorscraper2` zone's
-Browser API credentials resolved correctly, but connecting to its browser port from this cloud
-workspace failed with `ECONNREFUSED` before a session opened. Successful browser page collection
-has not been verified. The fallback has mock test coverage and needs a live test on a host that
-can reach port 9222. Merely having a valid API key does not prove a target page can be fetched.
+through the Bright Data HTTP API (2 requests, no errors). This cloud workspace refuses port
+9222, but a GitHub-hosted run using the owner-configured API secret successfully captured one
+listing from each source, including Estitor through the existing `estitorscraper2` Browser API
+zone. Two rental search navigations failed in that first run; bounded retry support was added.
+The failed searches were reported rather than being treated as an empty market.
+
+The subsequent [GitHub verification run](https://github.com/KSI-Montenegro/estScra/actions/runs/41302569957)
+passed: all six search feeds loaded, one listing from each source was exported, no errors were
+reported, and checkpoint persistence plus artifact upload succeeded. Realitica and Estitor
+listing captures used the Browser API; Patuljak used direct HTTPS. The test was one page per
+search and three captures total, not a full-site crawl. The daily workflow is active.
 
 A separate GitHub-hosted runner test worked for Patuljak, but Realitica and Estitor returned
 direct HTTP 403 there. The workflow correctly saved a partial export and retry state, then
-reported a failed run. Full unattended coverage from GitHub therefore needs a working proxy
-zone; installing the workflow alone does not resolve target IP blocks. Alternatively schedule
-the script on a server where all three sources accept direct requests.
+reported a failed run. The owner has since added `BRIGHTDATA_API_KEY`; the configured Browser
+API fallback now reaches protected pages from GitHub. Direct-only mode still encounters those
+blocks. Alternatively schedule the script on a server where all sources accept direct requests.
 
 ## Daily files
 
@@ -132,8 +142,9 @@ to the main branch. Its state branch may contain captured source content while r
 interrupted export; use a private repository if that source data must remain private.
 Daily CSV/JSON/ZIP files are attached as downloadable workflow artifacts, retained for 30 days.
 The assistant's current GitHub integration can dispatch and inspect workflow runs, but cannot
-write Actions secrets (the public-key endpoint returns HTTP 403). The repository owner must
-configure the secret through GitHub Settings. No API key is embedded in the portable download.
+write Actions secrets (the public-key endpoint returns HTTP 403). The repository owner has
+configured `BRIGHTDATA_API_KEY` through GitHub Settings; the test job confirmed it is available.
+No API key is embedded in the portable download.
 The state restore fails closed on a network/JSON error. Concurrent scheduled/manual jobs are serialized.
 State-save failures fail the workflow and must be fixed before another run to prevent duplicate exports.
 
