@@ -1,0 +1,108 @@
+name: Daily property export
+
+on:
+  schedule:
+    - cron: '17 7 * * *'
+  workflow_dispatch:
+    inputs:
+      max_pages:
+        description: Pages per search (coverage is bounded)
+        default: '10'
+        required: true
+      max_listings:
+        description: Maximum new listing captures
+        default: '300'
+        required: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: graden-daily-property-scrape
+  cancel-in-progress: false
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 110
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: daily_scraper/requirements.txt
+      - name: Install parsers
+        run: python -m pip install -r daily_scraper/requirements.txt
+      - name: Restore durable state
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p daily_scraper/runtime
+          git ls-remote --heads origin refs/heads/daily-scraper-state > "$RUNNER_TEMP/state-ref"
+          if [ -s "$RUNNER_TEMP/state-ref" ]; then
+            git fetch origin refs/heads/daily-scraper-state:refs/remotes/origin/daily-scraper-state
+            git show origin/daily-scraper-state:state.json > daily_scraper/runtime/state.json
+            python -c 'import json; json.load(open("daily_scraper/runtime/state.json"))'
+          fi
+      - name: Discover and export
+        env:
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
+          MAX_PAGES: ${{ inputs.max_pages || '10' }}
+          MAX_LISTINGS: ${{ inputs.max_listings || '300' }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ -z "$BRIGHTDATA_API_KEY" ]; then
+            echo 'Add the BRIGHTDATA_API_KEY repository Actions secret before running.' >&2
+            exit 1
+          fi
+          python daily_scraper/daily_scraper.py --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" --max-api-requests 100
+      - name: Save durable state
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ ! -f daily_scraper/runtime/state.json ]; then exit 0; fi
+          python -c 'import json; json.load(open("daily_scraper/runtime/state.json"))'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          export GIT_INDEX_FILE="$RUNNER_TEMP/graden-state-index"
+          git read-tree --empty
+          state_blob=$(git hash-object -w daily_scraper/runtime/state.json)
+          git update-index --add --cacheinfo "100644,$state_blob,state.json"
+          state_tree=$(git write-tree)
+          if git rev-parse --verify refs/remotes/origin/daily-scraper-state >/dev/null 2>&1; then
+            state_parent=$(git rev-parse refs/remotes/origin/daily-scraper-state)
+            state_commit=$(git commit-tree "$state_tree" -p "$state_parent" -m 'Update daily scraper state')
+          else
+            state_commit=$(git commit-tree "$state_tree" -m 'Initialize daily scraper state')
+          fi
+          git push origin "$state_commit:refs/heads/daily-scraper-state"
+      - name: Attach daily files
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: property-export-${{ github.run_id }}-${{ github.run_attempt }}
+          path: daily_scraper/exports/
+          if-no-files-found: warn
+          retention-days: 30
+      - name: Publish run summary
+        if: always()
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json, os
+          from pathlib import Path
+          path = Path('daily_scraper/exports/latest.json')
+          if path.exists():
+              d = json.loads(path.read_text())['summary']
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+                  f.write('Daily export: ' + d['status'] + '\n\n')
+                  for k in ('captured_listings', 'pending_backlog', 'errors', 'by_source', 'requests'):
+                      f.write(f'- {k}: {d[k]}\n')
+                  f.write('\nDownload the property-export artifact below. Search coverage is bounded.\n')
+          PY
