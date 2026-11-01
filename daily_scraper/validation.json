@@ -1,0 +1,124 @@
+{
+  "validated_at": "2026-11-01T08:30:38.151304+00:00",
+  "offline_tests_passed": 13,
+  "portable_bundle_tests_passed": 13,
+  "workflow_yaml_and_bash_syntax": "passed",
+  "live_direct_export": {
+    "schema_version": 1,
+    "run_id": "2026-11-01T083446-complete-export",
+    "started_at": "2026-11-01T08:28:05.510437+00:00",
+    "finished_at": "2026-11-01T08:34:46.224034+00:00",
+    "discovered_ids": 1447,
+    "captured_listings": 300,
+    "attempted_listings": 300,
+    "by_source": {
+      "realitica": 100,
+      "patuljak": 100,
+      "estitor": 100
+    },
+    "pending_backlog": 1135,
+    "errors": 0,
+    "requests": {
+      "direct_requests": 429
+    },
+    "discovery": [
+      {
+        "source": "realitica",
+        "search": "sale",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "realitica",
+        "search": "rent",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "realitica",
+        "search": "holiday",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "patuljak",
+        "search": "properties",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "estitor",
+        "search": "sale",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "estitor",
+        "search": "rent",
+        "pages_scanned": 10,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      }
+    ],
+    "coverage": "bounded_scan; increase max-pages for deeper coverage",
+    "photo_delivery": "source_urls_only; optimization_and_R2_photo_upload_are_separate",
+    "watermark_check": "one_representative_image_queued_per_property; not_analyzed",
+    "status": "completed_with_backlog",
+    "supplemental_preview_rechecks": 69,
+    "low_resolution_preview_only": 67
+  },
+  "integrity": {
+    "csv_json_rows_match": 300,
+    "unique_property_keys": 300,
+    "source_image_urls": 2425,
+    "queued_watermark_samples": 298,
+    "public_download_hashes": "verified for all five delivery objects",
+    "bundle_credentials_scan": "passed",
+    "low_resolution_preview_only": 67
+  },
+  "brightdata_live_tests": {
+    "estitor_searches": 2,
+    "realitica_searches": 3,
+    "result": "API accepted requests; proxied target returned HTTP 403; existing datacenter zone is not a verified unblocker"
+  },
+  "daily_schedule": "07:17 UTC; workflow is configured; full three-source coverage blocked on GitHub-hosted IP until proxy/hosting is fixed",
+  "github_actions_api": {
+    "dispatch_and_read_runs": "allowed",
+    "set_secret": "denied HTTP 403 on Actions secrets public-key endpoint"
+  },
+  "publication": {
+    "graden_daily_scraper.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/b1f8c2394f007349/graden_daily_scraper.zip",
+    "2026-11-01T083446-complete-export.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/property-export.zip",
+    "listings.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/listings.csv",
+    "listings.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/listings.json",
+    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/exports/2026-11-01T083446-complete-export/summary.json"
+  },
+  "new_photo_binaries_uploaded": false,
+  "existing_image_catalog_modified": false,
+  "github_hosted_trial": {
+    "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41289224379",
+    "result": "partial export saved; workflow failure reported correctly",
+    "captured_listings": 1,
+    "working_source": "patuljak",
+    "blocked_sources": [
+      "realitica",
+      "estitor"
+    ],
+    "block": "direct HTTP 403; key absent from workflow runtime",
+    "state_save": "passed",
+    "artifact_upload": "passed"
+  },
+  "known_limitations": [
+    "Bounded 10-page scans per search; 300 captures per scheduled run with persistent backlog",
+    "First discovery includes older listings outside the original selected import",
+    "Photo URLs and one-photo sampling queue only; no new image binaries optimized or uploaded",
+    "Existing Bright Data datacenter zone returned proxied target HTTP 403 for tested search pages",
+    "GitHub-hosted direct test worked only for Patuljak; Realitica and Estitor blocked",
+    "Actions secrets public-key API denied this integration; owner must set BRIGHTDATA_API_KEY and a compatible working zone"
+  ]
+}

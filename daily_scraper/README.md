@@ -39,6 +39,12 @@ route first and records provider/target failures separately. A compatible workin
 configured later through `BRIGHTDATA_ZONE`; browser_api zones are not interchangeable with
 the HTTPS request API used by this script.
 
+A separate GitHub-hosted runner test worked for Patuljak, but Realitica and Estitor returned
+direct HTTP 403 there. The workflow correctly saved a partial export and retry state, then
+reported a failed run. Full unattended coverage from GitHub therefore needs a working proxy
+zone; installing the workflow alone does not resolve target IP blocks. Alternatively schedule
+the script on a server where all three sources accept direct requests.
+
 ## Daily files
 
 Every completed run writes a dated ZIP under `exports/` (repository: `daily_scraper/exports/`):
@@ -49,6 +55,10 @@ Every completed run writes a dated ZIP under `exports/` (repository: `daily_scra
 - `watermark_samples.csv`: one representative untouched photo per new listing, queued for visual checking.
 - `summary.json`: counts, discovery coverage, request usage and backlog.
 - `errors.json`: safe error codes; failed listings remain queued for a future run.
+
+Some Realitica ads expose only a small property-specific preview. Those observed URLs are
+retained with `only_low_resolution_preview_exposed` in JSON quality flags; full-size paths
+are never guessed. Other missing data stays missing and is flagged for review.
 
 This feed does not download/clean/upload new photo binaries. Feed `image_urls.csv` to the
 existing optimization/R2 pipeline for that stage. The sampling queue records `not_checked`;
@@ -95,6 +105,9 @@ State lives on the separate `daily-scraper-state` branch. The workflow never com
 to the main branch. Its state branch may contain captured source content while recovering an
 interrupted export; use a private repository if that source data must remain private.
 Daily CSV/JSON/ZIP files are attached as downloadable workflow artifacts, retained for 30 days.
+The assistant's current GitHub integration can dispatch and inspect workflow runs, but cannot
+write Actions secrets (the public-key endpoint returns HTTP 403). The repository owner must
+configure the secret through GitHub Settings. No API key is embedded in the portable download.
 The state restore fails closed on a network/JSON error. Concurrent scheduled/manual jobs are serialized.
 State-save failures fail the workflow and must be fixed before another run to prevent duplicate exports.
 

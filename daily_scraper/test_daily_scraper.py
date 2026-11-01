@@ -38,6 +38,12 @@ class DailyTests(unittest.TestCase):
         with self.assertRaisesRegex(scraper.FetchFailure, 'listing_body_missing'):
             scraper.parse_listing(b'<html>Checking your browser</html>', URL, 'patuljak', '123', scraper.now())
 
+    def test_realitica_thumbnail_scoped_to_exact_listing(self):
+        body = b'<html><div id="listing_body"><h2>Stan</h2></div><img src="/c_images/thumb_123_1_photo.jpeg"><img src="/c_images/thumb_124_1_other.jpeg"></html>'
+        r = scraper.parse_listing(body, 'https://www.realitica.com/hr/listing/123', 'realitica', '123', scraper.now())
+        self.assertEqual(r['image_urls'], ['https://www.realitica.com/c_images/thumb_123_1_photo.jpeg'])
+        self.assertIn('only_low_resolution_preview_exposed', r['quality_flags'])
+
     def test_state_corruption_is_not_silently_reset(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / 'state.json'

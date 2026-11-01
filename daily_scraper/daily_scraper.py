@@ -199,12 +199,27 @@ def parse_listing(body, url, source, ident, captured_at):
     if not root.xpath(selectors[source]):
         raise FetchFailure('listing_body_missing_or_challenge')
     images, _, method, _ = galleries.extract(body, url, source, ident)
+    thumbnail_only = False
+    if source == 'realitica' and not images:
+        # Some ads expose only a property-specific preview, not full-size gallery
+        # links. Keep the observed URL; never guess the hidden full-size path.
+        for value in root.xpath('//img/@src | //img/@data-src'):
+            observed = galleries.image_url(value, url)
+            if observed and urlsplit(observed).hostname in ('realitica.com', 'www.realitica.com') and re.fullmatch(
+                    r'/c_images/thumb_' + re.escape(ident) + r'_[^/]+\.(?:jpe?g|png|webp)', urlsplit(observed).path, re.I):
+                if observed not in images:
+                    images.append(observed)
+        if images:
+            thumbnail_only = True
+            method = 'realitica_observed_listing_thumbnail_only'
     r = {'property_key': source + '_' + ident, 'source': source, 'listing_id': ident,
          'listing_url': url, 'field_sources': {}, 'source_attributes': {}, 'quality_flags': [],
          'price_on_request': False, 'source_page_captured_at': captured_at,
          'source_html_sha256': hashlib.sha256(body).hexdigest(), 'image_urls': images,
          'image_count': len(images), 'gallery_extraction_method': method}
     getattr(details, source)(root, r)
+    if thumbnail_only:
+        r['quality_flags'].append('only_low_resolution_preview_exposed')
     if not r.get('title'):
         raise FetchFailure('listing_title_missing')
     if not r.get('deal_type'):
@@ -224,7 +239,7 @@ def parse_listing(body, url, source, ident, captured_at):
         r['missing_core_fields'].append('price')
     if not images:
         r['missing_core_fields'].append('images')
-    r['import_status'] = 'ready_for_mapping' if not r['missing_core_fields'] else 'needs_review'
+    r['import_status'] = 'ready_for_mapping' if not r['missing_core_fields'] and not r['quality_flags'] else 'needs_review'
     r['watermark_status'] = 'sample_required' if images else 'no_images'
     r['watermark_sample_url'] = images[0] if images else None
     r['watermark_sample_image_number'] = 1 if images else None
