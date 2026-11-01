@@ -278,5 +278,19 @@ class PhotoTests(unittest.TestCase):
         self.assertEqual(prop['phase'], 'pending')
         self.assertEqual(prop['sample']['images_sampled'], 0)
 
+    def test_existing_gallery_samples_its_verified_r2_source_copy(self):
+        raw = image_bytes()
+        base = {'image_number': 1, 'source_copy_url': BASE + '/source.webp', 'active_url': BASE + '/source.webp',
+                'selected_version': 'source', 'source_sha256': sha(raw), 'optimized_sha256': sha(raw),
+                'watermark_candidate': False}
+        w = self.worker(catalog={'properties': {'patuljak_123': {'images': [base]}}})
+        prop = w.state['properties']['patuljak_123']; prop['input_images'] = prop['input_images'][:1]
+        w.downloader.contents[BASE + '/source.webp'] = raw
+        with patch.object(w.downloader, 'get', wraps=w.downloader.get) as get:
+            w.process(prop)
+            self.assertEqual(get.call_count, 1)
+            self.assertEqual(get.call_args.args[0], BASE + '/source.webp')
+        self.assertEqual(prop['phase'], 'complete')
+
 
 if __name__ == '__main__': unittest.main()

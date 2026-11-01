@@ -254,18 +254,20 @@ class PhotoWorker:
             prop['sample'] = {}
         if unprocessed and not prop.get('sample'):
             first = unprocessed[0]
-            sample_url = first['original_url']
+            base = existing.get(str(first['image_number']), {})
+            sample_url = base.get('source_copy_url') or first['original_url']
             try:
                 try:
                     data = self.downloader.get(sample_url)
                 except Exception:
-                    base = existing.get(str(first['image_number']), {})
-                    sample_url = base.get('source_copy_url')
-                    if not sample_url:
+                    if not base.get('source_copy_url'):
                         raise PhotoFailure('sample_download_failed') from None
+                    sample_url = first['original_url']
                     data = self.downloader.get(sample_url)
-                    if sha(data) != base['optimized_sha256']:
-                        raise PhotoFailure('sample_source_copy_digest_mismatch')
+                if base:
+                    expected = base['optimized_sha256'] if sample_url == base.get('source_copy_url') else base['source_sha256']
+                    if sha(data) != expected:
+                        raise PhotoFailure('sample_source_identity_mismatch')
                 analysis = self.detector.analyze(data)
                 prop['sample'] = {**analysis, 'image_number': first['image_number'], 'sampled_url': sample_url,
                                   'source_sha256': sha(data), 'images_sampled': 1,

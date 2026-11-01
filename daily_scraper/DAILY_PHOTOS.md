@@ -11,6 +11,8 @@ it does not substitute browser screenshots. A successful browser route is reused
 1. Save listing photo URLs into a separate durable photo queue before processing images.
 2. Read the current R2 catalog. Reuse accepted cleaned images and keep their URLs selected.
 3. Check **one untouched source image per property**, preferring the first unprocessed image.
+   For already imported galleries, use the digest-verified R2 source copy to avoid another
+   source-site download. This is the copy that retains its original watermark, not a cleaned image.
 4. A negative OCR/template sample becomes `sample_passed`: its gallery may proceed provisionally.
    Only that one image was checked; this is not a certificate for every gallery photo.
 5. A known brand/logo or uncertain recognized text flags the property's remaining unprocessed images.
