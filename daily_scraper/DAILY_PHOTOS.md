@@ -106,3 +106,12 @@ Provide credentials through secure environment variables. For a standalone extra
 
 The historical `publish_catalog.py` snapshot publisher refuses to replace a catalog managed by this
 pipeline: doing so would discard later daily additions. Use the unified photo worker going forward.
+
+## Verified deployment
+
+The [live GitHub trial](https://github.com/KSI-Montenegro/estScra/actions/runs/41307655925) passed
+on 2026-11-01: 31 images were processed, 5 were locally cleaned, 19 source images proceeded under
+one-image property sampling, and 7 remained held. All 19 previously blocked Realitica image files
+were recovered through the Browser API. The enriched reports, shared catalog, photo checkpoint
+and R2 publication completed. All 4,664 original cleaned selections were checked unchanged.
+See `photo_pipeline_validation.json` for integrity checks and the remaining batch queue.

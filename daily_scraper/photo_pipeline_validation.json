@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "pipeline": "one-property-sample-patuljak-v1",
+  "daily_tests_passed": 42,
+  "legacy_photo_pipeline_tests_passed": 40,
+  "portable_bundle_tests_passed": 42,
+  "github_workflow": "https://github.com/KSI-Montenegro/estScra/actions/runs/41307655925",
+  "github_result": "success",
+  "github_trial": {
+    "schema_version": 1,
+    "pipeline_version": "one-property-sample-patuljak-v1",
+    "properties_sampled": 3,
+    "images_processed": 31,
+    "removal_attempts": 5,
+    "cleaned": 5,
+    "properties_in_report": 3,
+    "ready_images": 24,
+    "held_images": 7,
+    "pending_properties": 2033,
+    "properties_requiring_review": 3,
+    "hosted_editing_calls": 0,
+    "image_proxy_requests": 20,
+    "sample_policy": "One untouched representative image per property; flagged galleries locate a supported mask per image.",
+    "delivery": "uploaded_to_r2"
+  },
+  "local_trial": {
+    "schema_version": 1,
+    "pipeline_version": "one-property-sample-patuljak-v1",
+    "properties_sampled": 3,
+    "images_processed": 40,
+    "removal_attempts": 16,
+    "cleaned": 16,
+    "properties_in_report": 3,
+    "ready_images": 16,
+    "held_images": 24,
+    "pending_properties": 2029,
+    "properties_requiring_review": 2,
+    "hosted_editing_calls": 0,
+    "image_proxy_requests": 0,
+    "sample_policy": "One untouched representative image per property; flagged galleries locate a supported mask per image.",
+    "delivery": "uploaded_to_r2"
+  },
+  "integrity": {
+    "original_cleaned_selections_preserved": 4664,
+    "all_catalog_sources_under_400000_bytes": true,
+    "new_cleaned_public_sha256_and_dimensions_verified": 5,
+    "outside_mask_before_encoding_verified": true,
+    "blocked_realitica_images_recovered_and_uploaded": 19
+  },
+  "current_catalog": {
+    "available_images": 14553,
+    "cleaned_images": 4690,
+    "remaining_candidates": 185,
+    "ready_images": 4709
+  },
+  "catalog_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/latest.json",
+  "daily_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/daily/latest.json",
+  "scope": "Workflow implemented and small live trials passed; existing and new property backlog continues in bounded daily batches. Unknown marks remain held; sample_passed is provisional."
+}

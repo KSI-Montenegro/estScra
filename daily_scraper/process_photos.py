@@ -253,30 +253,34 @@ class PhotoWorker:
         if prop.get('sample', {}).get('retry_required') or (prop.get('sample') and not prop['sample'].get('source_sha256')):
             prop['sample'] = {}
         if unprocessed and not prop.get('sample'):
-            first = unprocessed[0]
-            base = existing.get(str(first['image_number']), {})
-            sample_url = base.get('source_copy_url') or first['original_url']
-            try:
+            for attempted, first in enumerate(unprocessed, 1):
+                base = existing.get(str(first['image_number']), {})
+                sample_url = base.get('source_copy_url') or first['original_url']
                 try:
-                    data = self.downloader.get(sample_url)
-                except Exception:
-                    if not base.get('source_copy_url'):
-                        raise PhotoFailure('sample_download_failed') from None
-                    sample_url = first['original_url']
-                    data = self.downloader.get(sample_url)
-                if base:
-                    expected = base['optimized_sha256'] if sample_url == base.get('source_copy_url') else base['source_sha256']
-                    if sha(data) != expected:
-                        raise PhotoFailure('sample_source_identity_mismatch')
-                analysis = self.detector.analyze(data)
-                prop['sample'] = {**analysis, 'image_number': first['image_number'], 'sampled_url': sample_url,
-                                  'source_sha256': sha(data), 'images_sampled': 1,
-                                  'meaning': 'One source image checked; remaining images are not individually certified.'}
-                self.counts['properties_sampled'] += 1
-            except Exception as exc:
-                prop['sample'] = {'result': 'needs_review', 'reason': str(exc) if isinstance(exc, PhotoFailure) else 'sample_analysis_failed',
-                                  'image_number': first['image_number'], 'sampled_url': sample_url,
-                                  'images_sampled': 0, 'images_attempted': 1, 'retry_required': True}
+                    try:
+                        data = self.downloader.get(sample_url)
+                    except Exception:
+                        if not base.get('source_copy_url'):
+                            raise
+                        sample_url = first['original_url']
+                        data = self.downloader.get(sample_url)
+                    if base:
+                        expected = base['optimized_sha256'] if sample_url == base.get('source_copy_url') else base['source_sha256']
+                        if sha(data) != expected:
+                            raise PhotoFailure('sample_source_identity_mismatch')
+                    analysis = self.detector.analyze(data)
+                    prop['sample'] = {**analysis, 'image_number': first['image_number'], 'sampled_url': sample_url,
+                                      'source_sha256': sha(data), 'images_sampled': 1, 'images_attempted': attempted,
+                                      'meaning': 'One source image checked; remaining images are not individually certified.'}
+                    self.counts['properties_sampled'] += 1
+                    break
+                except Exception as exc:
+                    code = str(exc) if isinstance(exc, PhotoFailure) else 'sample_analysis_failed'
+                    prop['sample'] = {'result': 'needs_review', 'reason': code,
+                                      'image_number': first['image_number'], 'sampled_url': sample_url,
+                                      'images_sampled': 0, 'images_attempted': attempted, 'retry_required': True}
+                    if code in ('image_api_request_limit', 'image_http_429', 'image_host_rate_limited'):
+                        break
         flagged = known_pending or prop.get('sample', {}).get('result') != 'sample_passed'
         for item in prop['input_images']:
             number = str(item['image_number'])

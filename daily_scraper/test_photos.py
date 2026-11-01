@@ -292,5 +292,19 @@ class PhotoTests(unittest.TestCase):
             self.assertEqual(get.call_args.args[0], BASE + '/source.webp')
         self.assertEqual(prop['phase'], 'complete')
 
+    def test_broken_cover_falls_back_to_one_available_gallery_photo(self):
+        w = self.worker()
+        original = w.downloader.get
+        def fetch(url):
+            if url == self.urls[0]: raise p.PhotoFailure('image_http_404')
+            return original(url)
+        with patch.object(w.downloader, 'get', side_effect=fetch):
+            w.process(w.state['properties']['patuljak_123'])
+        prop = w.state['properties']['patuljak_123']
+        self.assertEqual(prop['sample']['image_number'], 2)
+        self.assertEqual(prop['sample']['images_sampled'], 1)
+        self.assertEqual(w.detector.calls, 1)
+        self.assertTrue(prop['images']['2']['ready_for_listing'])
+
 
 if __name__ == '__main__': unittest.main()
