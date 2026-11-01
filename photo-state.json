@@ -92818,77 +92818,277 @@
       ],
       "input_signature": "d0dc51ee11cbb9b29d57e85ec6b08552e9f9ffa6fd2bfb7dbd8b96f949e2fc2f",
       "origin": "daily",
-      "phase": "pending",
+      "phase": "complete",
       "images": {
         "1": {
           "image_number": 1,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_img-20261006-wa0000.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/001-7eb780e6d079c41ebf902b1265625d15afb6909a4fc44c5a46ae42361f07cd08.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/001-7eb780e6d079c41ebf902b1265625d15afb6909a4fc44c5a46ae42361f07cd08.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "71802c510b6487c608cab6029b3a3dc543820563ed610782ce26a2c4b4520b40",
+          "optimized_sha256": "7eb780e6d079c41ebf902b1265625d15afb6909a4fc44c5a46ae42361f07cd08",
+          "bytes": 165612,
+          "dimensions": [
+            1080,
+            607
+          ],
+          "original_dimensions": [
+            1080,
+            607
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "2": {
           "image_number": 2,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_00000000204c8210b56698ec92e028cc--1-.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/002-8fed436a2ea95b4154f4d98339cd57a8aeabaade0b5cda1912838c76ac3c9115.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/002-8fed436a2ea95b4154f4d98339cd57a8aeabaade0b5cda1912838c76ac3c9115.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "6e633059db627e97d54d9c7a99107ed0a854c5315f711809e3ef66d6102bade6",
+          "optimized_sha256": "8fed436a2ea95b4154f4d98339cd57a8aeabaade0b5cda1912838c76ac3c9115",
+          "bytes": 252298,
+          "dimensions": [
+            840,
+            1587
+          ],
+          "original_dimensions": [
+            840,
+            1587
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "3": {
           "image_number": 3,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_00000000ee3882109b38ae0509f1e004.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/003-ae67bcb14f9bec30dd680abe7f8d7bfac68adef4fd67ed23a6ab5962a75b281d.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/003-ae67bcb14f9bec30dd680abe7f8d7bfac68adef4fd67ed23a6ab5962a75b281d.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "3cfcdffa7de8bf0c5ec64cebe1bde9d3317380ee153f6a9643720b29d9f8b0b6",
+          "optimized_sha256": "ae67bcb14f9bec30dd680abe7f8d7bfac68adef4fd67ed23a6ab5962a75b281d",
+          "bytes": 168378,
+          "dimensions": [
+            840,
+            1182
+          ],
+          "original_dimensions": [
+            840,
+            1182
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "4": {
           "image_number": 4,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_000000000d0c821099b9d59990400de7--1-.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/004-339fd0ab573a7db2e6f10f88ebcec4219ef72eff034e4a19eb615a3c416d6dbf.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/004-339fd0ab573a7db2e6f10f88ebcec4219ef72eff034e4a19eb615a3c416d6dbf.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "d8b08d2b4ac507198ff6cf8f156f294bf25e09cc0456fd45c83ea31346ca3fce",
+          "optimized_sha256": "339fd0ab573a7db2e6f10f88ebcec4219ef72eff034e4a19eb615a3c416d6dbf",
+          "bytes": 117106,
+          "dimensions": [
+            840,
+            586
+          ],
+          "original_dimensions": [
+            840,
+            586
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "5": {
           "image_number": 5,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_00000000b5188210b0422310f94df81d--1-.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/005-fc91674110247477853cde238f54dbaede6a97c46d8a53cae74a70a8f43ce908.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/005-fc91674110247477853cde238f54dbaede6a97c46d8a53cae74a70a8f43ce908.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "56de9fd655bce1e8870042a9d52263f0f3e249d101491a52c86e15e4c65b1693",
+          "optimized_sha256": "fc91674110247477853cde238f54dbaede6a97c46d8a53cae74a70a8f43ce908",
+          "bytes": 85016,
+          "dimensions": [
+            840,
+            590
+          ],
+          "original_dimensions": [
+            840,
+            590
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "6": {
           "image_number": 6,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_00000000bc5c82109de07298b3a583da--1-.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/006-a1d9aecad2cf82cbf2028d4df00173eae7a03b19bf9422123a2941dc7b2cc6ff.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/006-a1d9aecad2cf82cbf2028d4df00173eae7a03b19bf9422123a2941dc7b2cc6ff.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "b1de51174f7f168bfe29d944455363fbbe8561495319b1539e10608974e88902",
+          "optimized_sha256": "a1d9aecad2cf82cbf2028d4df00173eae7a03b19bf9422123a2941dc7b2cc6ff",
+          "bytes": 160074,
+          "dimensions": [
+            840,
+            593
+          ],
+          "original_dimensions": [
+            840,
+            593
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "7": {
           "image_number": 7,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_img-26ad988c9882f010ee1f53761927b973-v--2-.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/007-bef9b191f1c204fd1ed811b5e9d804fa7143d78f2a7218de19fc32a2bad4cfc8.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/007-bef9b191f1c204fd1ed811b5e9d804fa7143d78f2a7218de19fc32a2bad4cfc8.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "57931a145df96701259e9892365f7a946f96e72952b5ef8016c56ac2d6a2a93a",
+          "optimized_sha256": "bef9b191f1c204fd1ed811b5e9d804fa7143d78f2a7218de19fc32a2bad4cfc8",
+          "bytes": 64830,
+          "dimensions": [
+            667,
+            500
+          ],
+          "original_dimensions": [
+            667,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "8": {
           "image_number": 8,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_0000000028508210af00ce3b0b0a79ff.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/008-faf6488d073acb4c78c738ecb3af237f24ee415450a6eea20b0de590731c3694.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/008-faf6488d073acb4c78c738ecb3af237f24ee415450a6eea20b0de590731c3694.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "ea620412dd952a972c8365fc38017bf9f41f6cd1afac115cca4cfa0cd78885c5",
+          "optimized_sha256": "faf6488d073acb4c78c738ecb3af237f24ee415450a6eea20b0de590731c3694",
+          "bytes": 158264,
+          "dimensions": [
+            840,
+            593
+          ],
+          "original_dimensions": [
+            840,
+            593
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "9": {
           "image_number": 9,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_file_000000002cf0821088eab98e59de6bb9.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/009-f3a538497014da6039a1deabd51b957a322aa50d3d2b06213e9c2e23587ce97b.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/009-f3a538497014da6039a1deabd51b957a322aa50d3d2b06213e9c2e23587ce97b.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "50ec3388022c29647042f962df03d0995a021ea8c6a7f5516f33ffee593028b0",
+          "optimized_sha256": "f3a538497014da6039a1deabd51b957a322aa50d3d2b06213e9c2e23587ce97b",
+          "bytes": 256094,
+          "dimensions": [
+            840,
+            1556
+          ],
+          "original_dimensions": [
+            840,
+            1556
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "10": {
           "image_number": 10,
           "original_url": "https://www.realitica.com/images/listing_photos/3956375_1703325321494.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/010-e1bf7deddaa24fd2c3a278b5c26ac5013afa3fd4b3661acbf785886a2a161f43.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956375/source/010-e1bf7deddaa24fd2c3a278b5c26ac5013afa3fd4b3661acbf785886a2a161f43.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "55bcecb7f88b4dcfe29a7b96c2d3b93154a6505861c264d85f9fd192178ebd53",
+          "optimized_sha256": "e1bf7deddaa24fd2c3a278b5c26ac5013afa3fd4b3661acbf785886a2a161f43",
+          "bytes": 192996,
+          "dimensions": [
+            840,
+            630
+          ],
+          "original_dimensions": [
+            840,
+            630
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         }
       },
       "failures": {
@@ -92904,11 +93104,24 @@
         "10": 2
       },
       "sample": {
+        "result": "sample_passed",
+        "reason": "no_detected_mark_in_sample",
+        "score": 0.41623398661613464,
+        "box": [
+          69,
+          460,
+          107,
+          506
+        ],
+        "hits": [],
+        "width": 1080,
+        "height": 607,
+        "other_text_detected": false,
         "image_number": 1,
+        "sampled_url": "https://www.realitica.com/images/listing_photos/3956375_img-20261006-wa0000.jpg",
+        "source_sha256": "71802c510b6487c608cab6029b3a3dc543820563ed610782ce26a2c4b4520b40",
         "images_sampled": 1,
-        "reason": "sample_download_failed",
-        "result": "needs_review",
-        "sampled_url": null
+        "meaning": "One source image checked; remaining images are not individually certified."
       }
     },
     "patuljak_86014": {
@@ -94138,70 +94351,250 @@
       ],
       "input_signature": "93b483102348a0f43d7351ab0046d107fd3247663f46bc075dba48ffbd0c5df7",
       "origin": "daily",
-      "phase": "pending",
+      "phase": "complete",
       "images": {
         "1": {
           "image_number": 1,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_5.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/001-4e26c3f77417b85d35f2ea1d7c14c35adc8cb7159a5232aadcc8114651aace2e.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/001-4e26c3f77417b85d35f2ea1d7c14c35adc8cb7159a5232aadcc8114651aace2e.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "6d5b299532208371e2e34f99ec03f14164211012ce2cc87c30af5712f6f86bb4",
+          "optimized_sha256": "4e26c3f77417b85d35f2ea1d7c14c35adc8cb7159a5232aadcc8114651aace2e",
+          "bytes": 236042,
+          "dimensions": [
+            1280,
+            960
+          ],
+          "original_dimensions": [
+            1280,
+            960
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "2": {
           "image_number": 2,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_4.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/002-ae0b1e8466db61a89dedaa3057b5a319b58165fec58d7c4f360c0153adb8e452.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/002-ae0b1e8466db61a89dedaa3057b5a319b58165fec58d7c4f360c0153adb8e452.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "ceedab08711688c1223a0e0c49ac381caf7eadd315449b27a68c103e51067588",
+          "optimized_sha256": "ae0b1e8466db61a89dedaa3057b5a319b58165fec58d7c4f360c0153adb8e452",
+          "bytes": 255274,
+          "dimensions": [
+            1280,
+            960
+          ],
+          "original_dimensions": [
+            1280,
+            960
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "3": {
           "image_number": 3,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_3.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/003-e6040c4b8c5ce9d817b1780e676a6cb6e2793f02d9ac09779d2518776cbb7106.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/003-e6040c4b8c5ce9d817b1780e676a6cb6e2793f02d9ac09779d2518776cbb7106.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "16fda10d080586aff2ed35125e6e8d3de980af96c71b858ab93daff230dc7dae",
+          "optimized_sha256": "e6040c4b8c5ce9d817b1780e676a6cb6e2793f02d9ac09779d2518776cbb7106",
+          "bytes": 170002,
+          "dimensions": [
+            1280,
+            720
+          ],
+          "original_dimensions": [
+            1280,
+            720
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "4": {
           "image_number": 4,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_13.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/004-bfe8874dd2353d395d6e750c1dc7e757fd00a8cc000fd19cdaa89c7eb9f26e28.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/004-bfe8874dd2353d395d6e750c1dc7e757fd00a8cc000fd19cdaa89c7eb9f26e28.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "62a41316abcc9e1a5584f514f18b02bcef07ec5d1309481747237c857ecd70bb",
+          "optimized_sha256": "bfe8874dd2353d395d6e750c1dc7e757fd00a8cc000fd19cdaa89c7eb9f26e28",
+          "bytes": 239140,
+          "dimensions": [
+            682,
+            1024
+          ],
+          "original_dimensions": [
+            682,
+            1024
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "5": {
           "image_number": 5,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_20.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/005-44dffeac6d46120fc3f7f0f80411ea1e9588ef0c856d0bf2bcff93c407ddcc1f.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/005-44dffeac6d46120fc3f7f0f80411ea1e9588ef0c856d0bf2bcff93c407ddcc1f.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "12bb2be64e4e9cca50c6cb46e80c3641349f60f83af73ef84d45d17bf47499a7",
+          "optimized_sha256": "44dffeac6d46120fc3f7f0f80411ea1e9588ef0c856d0bf2bcff93c407ddcc1f",
+          "bytes": 294280,
+          "dimensions": [
+            840,
+            1121
+          ],
+          "original_dimensions": [
+            840,
+            1121
+          ],
+          "quality": 81,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "6": {
           "image_number": 6,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_11.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/006-26eabe5bc2ec9573ee31730c9cb0f8705ca08eacf2eeb724d323efd334f7af9b.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/006-26eabe5bc2ec9573ee31730c9cb0f8705ca08eacf2eeb724d323efd334f7af9b.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "32551eee7b8e8550a6952a288c11cc0834ecbd9c95da95056470a2c51705fc48",
+          "optimized_sha256": "26eabe5bc2ec9573ee31730c9cb0f8705ca08eacf2eeb724d323efd334f7af9b",
+          "bytes": 286110,
+          "dimensions": [
+            1280,
+            960
+          ],
+          "original_dimensions": [
+            1280,
+            960
+          ],
+          "quality": 92,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "7": {
           "image_number": 7,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_2.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/007-fdeb498bc464c9cb9ef87a8367c8622798b7cc0ea998217219ccec017ba083d2.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/007-fdeb498bc464c9cb9ef87a8367c8622798b7cc0ea998217219ccec017ba083d2.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "eb768f47e7558b2c86a94758ac346b5efc7246260554746982d99ed9a5bfe51a",
+          "optimized_sha256": "fdeb498bc464c9cb9ef87a8367c8622798b7cc0ea998217219ccec017ba083d2",
+          "bytes": 226070,
+          "dimensions": [
+            1280,
+            960
+          ],
+          "original_dimensions": [
+            1280,
+            960
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "8": {
           "image_number": 8,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_21.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/008-175cc2b46d8f9d087bce35e116d759cd51a1574a7bcebefd935bc84d1194a565.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/008-175cc2b46d8f9d087bce35e116d759cd51a1574a7bcebefd935bc84d1194a565.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "ab2ce0aa94224677f85f1344726cb3db4602a14b99bfe3c250b8e07d0c648b3d",
+          "optimized_sha256": "175cc2b46d8f9d087bce35e116d759cd51a1574a7bcebefd935bc84d1194a565",
+          "bytes": 255326,
+          "dimensions": [
+            960,
+            1280
+          ],
+          "original_dimensions": [
+            960,
+            1280
+          ],
+          "quality": 95,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         },
         "9": {
           "image_number": 9,
           "original_url": "https://www.realitica.com/images/listing_photos/3956374_8.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_stage_UnidentifiedImageError",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/009-5d98f95fc5206cf9846e2bae0eb0d3de9862f50b7ae2ec1305b8d69ae06b6bc1.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956374/source/009-5d98f95fc5206cf9846e2bae0eb0d3de9862f50b7ae2ec1305b8d69ae06b6bc1.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "2cac1093e0a1c4554f3188351e53653d9614df3671a72cec643315608829cce9",
+          "optimized_sha256": "5d98f95fc5206cf9846e2bae0eb0d3de9862f50b7ae2ec1305b8d69ae06b6bc1",
+          "bytes": 298706,
+          "dimensions": [
+            840,
+            1120
+          ],
+          "original_dimensions": [
+            840,
+            1120
+          ],
+          "quality": 90,
+          "watermark_candidate": false,
+          "ready_for_listing": true,
+          "watermark_status": "sample_passed",
+          "pipeline_status": "ready_sampled_source",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": ""
         }
       },
       "failures": {
@@ -94216,11 +94609,24 @@
         "9": 1
       },
       "sample": {
-        "result": "needs_review",
-        "reason": "sample_download_failed",
+        "result": "sample_passed",
+        "reason": "no_detected_mark_in_sample",
+        "score": 0.4645894467830658,
+        "box": [
+          756,
+          688,
+          906,
+          874
+        ],
+        "hits": [],
+        "width": 1280,
+        "height": 960,
+        "other_text_detected": false,
         "image_number": 1,
-        "sampled_url": null,
-        "images_sampled": 1
+        "sampled_url": "https://www.realitica.com/images/listing_photos/3956374_5.jpg",
+        "source_sha256": "6d5b299532208371e2e34f99ec03f14164211012ce2cc87c30af5712f6f86bb4",
+        "images_sampled": 1,
+        "meaning": "One source image checked; remaining images are not individually certified."
       }
     },
     "patuljak_86013": {
@@ -94278,10 +94684,389 @@
       ],
       "input_signature": "6f1938e8fea900193ee91d05df7c1df6dc1b2c20322be6fa3ba89b54cd05e4c9",
       "origin": "daily",
-      "phase": "pending",
-      "images": {},
+      "phase": "needs_review",
+      "images": {
+        "1": {
+          "image_number": 1,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_0.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/001-a63bdf42154c09575bdf361512e42b0ce70ef2495879b3b999d909c3b9ce15ee.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/001-a346b62be84a3d5f16ff532835ba5e2eabe72eb70a97c06955d26d04d3a6912d.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/001-a346b62be84a3d5f16ff532835ba5e2eabe72eb70a97c06955d26d04d3a6912d.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "9598e9a9648323a462fee2a6f8d92a618b14f2bd8bcce2690c4931ad4ab08c60",
+          "optimized_sha256": "a63bdf42154c09575bdf361512e42b0ce70ef2495879b3b999d909c3b9ce15ee",
+          "bytes": 57566,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "9598e9a9648323a462fee2a6f8d92a618b14f2bd8bcce2690c4931ad4ab08c60",
+          "repair_output_sha256": "a346b62be84a3d5f16ff532835ba5e2eabe72eb70a97c06955d26d04d3a6912d",
+          "repair_output_bytes": 47764,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "2": {
+          "image_number": 2,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_1.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/002-daed21b89003ad53643a56fb4000275beebcb851051c66a06f7607ef20c10b16.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/002-daed21b89003ad53643a56fb4000275beebcb851051c66a06f7607ef20c10b16.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "9a10f2ecaa705e1f0258254c810c1e61a7243d203256e447f343bcaf13bcb24c",
+          "optimized_sha256": "daed21b89003ad53643a56fb4000275beebcb851051c66a06f7607ef20c10b16",
+          "bytes": 65618,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "3": {
+          "image_number": 3,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_2.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/003-87c9867f6f0fac3733f2fdb43e323678624568bee7307b29c11c5bf5189443f2.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/003-5b799ea53a0b17c8c82c9c2810f2615ef1b407d41fdb51a6550cc9f338c2ba1c.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/003-5b799ea53a0b17c8c82c9c2810f2615ef1b407d41fdb51a6550cc9f338c2ba1c.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "51b5bbab5db5f1ca52f45ab14d01cb0307985177d5f545a02ebe34948bc51ecc",
+          "optimized_sha256": "87c9867f6f0fac3733f2fdb43e323678624568bee7307b29c11c5bf5189443f2",
+          "bytes": 52198,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "51b5bbab5db5f1ca52f45ab14d01cb0307985177d5f545a02ebe34948bc51ecc",
+          "repair_output_sha256": "5b799ea53a0b17c8c82c9c2810f2615ef1b407d41fdb51a6550cc9f338c2ba1c",
+          "repair_output_bytes": 47502,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "4": {
+          "image_number": 4,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_3.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/004-4b024de7722d70f9e3eb05625dc8943ffbc8a3b39cc0d660d8ae727541e70e6e.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/004-4b024de7722d70f9e3eb05625dc8943ffbc8a3b39cc0d660d8ae727541e70e6e.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "87a515cb46ef6a003b79b33fe7e7531a7638825aa677684b3019e164e02445d4",
+          "optimized_sha256": "4b024de7722d70f9e3eb05625dc8943ffbc8a3b39cc0d660d8ae727541e70e6e",
+          "bytes": 52300,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "5": {
+          "image_number": 5,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_4.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/005-6fdd90ec730d58cd52f43e54a47dfd5e7a8288afe7d658bbbec426d93ab0f5b6.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/005-6fdd90ec730d58cd52f43e54a47dfd5e7a8288afe7d658bbbec426d93ab0f5b6.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "b051b921aed5b60e4ef8b2034c07b3657b7a3876bb3bb8006ed011bf691defcc",
+          "optimized_sha256": "6fdd90ec730d58cd52f43e54a47dfd5e7a8288afe7d658bbbec426d93ab0f5b6",
+          "bytes": 43946,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "6": {
+          "image_number": 6,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_5.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/006-3d53655d9c157ae2b07c71599ee86487a2d7758ec2299de3455a609777f560ea.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/006-e8391d90f8b91ad655b27277fb0e7ca305f9cb7a1870c84fc283068eaf345202.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/006-e8391d90f8b91ad655b27277fb0e7ca305f9cb7a1870c84fc283068eaf345202.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "517220ad3920282a061e49e491b718b02988143f0125cf31b54003d81b0949f3",
+          "optimized_sha256": "3d53655d9c157ae2b07c71599ee86487a2d7758ec2299de3455a609777f560ea",
+          "bytes": 64660,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "517220ad3920282a061e49e491b718b02988143f0125cf31b54003d81b0949f3",
+          "repair_output_sha256": "e8391d90f8b91ad655b27277fb0e7ca305f9cb7a1870c84fc283068eaf345202",
+          "repair_output_bytes": 59432,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "7": {
+          "image_number": 7,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_6.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/007-05d8872e61d674951f74c26a1ee6acc3b0d38b2862cf5b2a2be232f27ed8bf98.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/007-05d8872e61d674951f74c26a1ee6acc3b0d38b2862cf5b2a2be232f27ed8bf98.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "95cb6df77767574195f9ddf682da8f3446a590a3d04de78d175114ff876b33d6",
+          "optimized_sha256": "05d8872e61d674951f74c26a1ee6acc3b0d38b2862cf5b2a2be232f27ed8bf98",
+          "bytes": 53242,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "8": {
+          "image_number": 8,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_7.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/008-6b3091110f4b4a4b0fe37cadbcd15d53aa8896f63fdbfc0bf98409554a87f428.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/008-88e8eada11aaa92cdb4a30259d3bcf0b5aedd563d25a1c8259265d9e2b66fd3a.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/008-88e8eada11aaa92cdb4a30259d3bcf0b5aedd563d25a1c8259265d9e2b66fd3a.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "96266cf0ee1e001c39c74cf52917f9e0522c9f9e49dca6ee21791793da3c3f39",
+          "optimized_sha256": "6b3091110f4b4a4b0fe37cadbcd15d53aa8896f63fdbfc0bf98409554a87f428",
+          "bytes": 81126,
+          "dimensions": [
+            667,
+            500
+          ],
+          "original_dimensions": [
+            667,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "96266cf0ee1e001c39c74cf52917f9e0522c9f9e49dca6ee21791793da3c3f39",
+          "repair_output_sha256": "88e8eada11aaa92cdb4a30259d3bcf0b5aedd563d25a1c8259265d9e2b66fd3a",
+          "repair_output_bytes": 73198,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "9": {
+          "image_number": 9,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_8.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/009-6352e904861456c78f09f6909aeefa3989b04f8f91ef170aa15a8202e3f70e12.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/009-6fdcbde562725e3dafb3bc5543e43c245c57777fcd3ebe39114614fef61a6402.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/cleaned/009-6fdcbde562725e3dafb3bc5543e43c245c57777fcd3ebe39114614fef61a6402.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "5ad7703bdf06717d825cf0ef4e406f10aa7894f560d099cf8fc78d20e0377e62",
+          "optimized_sha256": "6352e904861456c78f09f6909aeefa3989b04f8f91ef170aa15a8202e3f70e12",
+          "bytes": 82660,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "5ad7703bdf06717d825cf0ef4e406f10aa7894f560d099cf8fc78d20e0377e62",
+          "repair_output_sha256": "6fdcbde562725e3dafb3bc5543e43c245c57777fcd3ebe39114614fef61a6402",
+          "repair_output_bytes": 75254,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "10": {
+          "image_number": 10,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_9.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/010-20a0f02a9623907144c40621342333317784b86c225b6c07940e27b55ae6e10d.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/010-20a0f02a9623907144c40621342333317784b86c225b6c07940e27b55ae6e10d.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "8e20cfd881feb095a46836d9c7f0f1053401062e50d5e1b72d47bfee546dd1a2",
+          "optimized_sha256": "20a0f02a9623907144c40621342333317784b86c225b6c07940e27b55ae6e10d",
+          "bytes": 78204,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "11": {
+          "image_number": 11,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_10.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/011-092ee2c3c4ea1358a9e5ed28da63e8a4d54629663f5a3f30aaae7d03489828b4.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/011-092ee2c3c4ea1358a9e5ed28da63e8a4d54629663f5a3f30aaae7d03489828b4.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "a4a3bac6a76a948fab976873f88a598230987bc02ddc5cd59c2fb6feb83daa85",
+          "optimized_sha256": "092ee2c3c4ea1358a9e5ed28da63e8a4d54629663f5a3f30aaae7d03489828b4",
+          "bytes": 119774,
+          "dimensions": [
+            666,
+            500
+          ],
+          "original_dimensions": [
+            666,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "12": {
+          "image_number": 12,
+          "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_11.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/012-511f6dccfb034de6a71dfafc9cf9328f4c06d2c6d061dd58b16042bf36eee9a5.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86013/source/012-511f6dccfb034de6a71dfafc9cf9328f4c06d2c6d061dd58b16042bf36eee9a5.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "3ee8106b7a1d533eb4b5e840fe9ba8aa4fbcf02a1298ecdabfd920a7c366f5c8",
+          "optimized_sha256": "511f6dccfb034de6a71dfafc9cf9328f4c06d2c6d061dd58b16042bf36eee9a5",
+          "bytes": 50042,
+          "dimensions": [
+            667,
+            500
+          ],
+          "original_dimensions": [
+            667,
+            500
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        }
+      },
       "failures": {},
-      "sample": {}
+      "sample": {
+        "result": "watermark_candidate",
+        "reason": "known_logo_or_brand",
+        "score": 0.8991378545761108,
+        "box": [
+          530,
+          400,
+          605,
+          493
+        ],
+        "hits": [],
+        "width": 666,
+        "height": 500,
+        "other_text_detected": false,
+        "image_number": 1,
+        "sampled_url": "https://patuljak.me/kes/slike/740xAuto/2026/10/86013_0.webp",
+        "source_sha256": "9598e9a9648323a462fee2a6f8d92a618b14f2bd8bcce2690c4931ad4ab08c60",
+        "images_sampled": 1,
+        "meaning": "One source image checked; remaining images are not individually certified."
+      }
     },
     "estitor_649876": {
       "property_key": "estitor_649876",
@@ -94309,6 +95094,58 @@
         }
       ],
       "input_signature": "2159dd2347e6bfdeaa33e74de397b5925e6ce0c1b0f765cfbca25aa704c792b5",
+      "origin": "daily",
+      "phase": "pending",
+      "images": {},
+      "failures": {},
+      "sample": {}
+    },
+    "realitica_3956372": {
+      "property_key": "realitica_3956372",
+      "listing_url": "https://www.realitica.com/hr/listing/3956372",
+      "input_images": [
+        {
+          "image_number": 1,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-2e543675fc171452da58691cbe702a2d-v.jpg"
+        },
+        {
+          "image_number": 2,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-56d41d736b91666106a2e245e2ecf828-v.jpg"
+        },
+        {
+          "image_number": 3,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-8662e68e1315856e0fdb353a5e29fed0-v.jpg"
+        },
+        {
+          "image_number": 4,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-ebbb664d45a25c6978a74d838ac04aa5-v.jpg"
+        },
+        {
+          "image_number": 5,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-93ae1a758146e7d344402f104aa39777-v.jpg"
+        },
+        {
+          "image_number": 6,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-a7a22d6d5e6783cb79733d43cf93943f-v.jpg"
+        },
+        {
+          "image_number": 7,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-20260817-wa0001--1-.jpg"
+        },
+        {
+          "image_number": 8,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_img-28f3cac463264226a26e0c5393f92ec2-v.jpg"
+        },
+        {
+          "image_number": 9,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_utjeha-iz-aviona_1000x.jpg"
+        },
+        {
+          "image_number": 10,
+          "original_url": "https://www.realitica.com/images/listing_photos/3956372_veliki-pijesak_1000x.jpg"
+        }
+      ],
+      "input_signature": "a4c446cd6cbc26a412d1fc7a3f5130cbba2c047b2ed2e47710e68959c78f79b7",
       "origin": "daily",
       "phase": "pending",
       "images": {},
