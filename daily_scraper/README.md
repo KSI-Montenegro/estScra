@@ -86,7 +86,7 @@ The repository workflow `.github/workflows/daily-property-scrape.yml` runs at **
 
 One-time setup:
 
-1. In repository Settings → Secrets and variables → Actions, add repository secret `BRIGHTDATA_API_KEY`.
+1. To enable Bright Data fallback, in repository Settings → Secrets and variables → Actions, add repository secret `BRIGHTDATA_API_KEY`. Without it, the workflow runs direct HTTPS only.
 2. Optionally add repository variable `BRIGHTDATA_ZONE` if the zone changes.
 3. Ensure GitHub Actions is enabled and the workflow is permitted to write repository contents.
 4. Run “Daily property export” manually once and verify the summary/artifact.

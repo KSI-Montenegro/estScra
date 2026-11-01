@@ -56,11 +56,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          scrape_mode=auto
           if [ -z "$BRIGHTDATA_API_KEY" ]; then
-            echo 'Add the BRIGHTDATA_API_KEY repository Actions secret before running.' >&2
-            exit 1
+            echo 'BRIGHTDATA_API_KEY is not configured; running direct HTTPS only.'
+            scrape_mode=direct
           fi
-          python daily_scraper/daily_scraper.py --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" --max-api-requests 100
+          python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" --max-api-requests 100
       - name: Save durable state
         if: always()
         shell: bash
