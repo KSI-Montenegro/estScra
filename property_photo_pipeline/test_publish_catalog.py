@@ -85,6 +85,14 @@ class CatalogTests(unittest.TestCase):
         client.objects[p.PREFIX+'/latest.json']={'ContentLength':10,'Metadata':{'owner':'another-app'},'ETag':'"a"'}
         with self.assertRaisesRegex(ValueError,'not owned'):p.publish(client,'bucket','https://cdn.example.com',self.root,self.root/'output')
         self.assertFalse(client.puts)
+
+    def test_legacy_snapshot_cannot_erase_daily_catalog(self):
+        client = FakeS3()
+        client.objects[p.PREFIX + '/latest.json'] = {'ContentLength': 10,
+            'Metadata': {'owner': p.OWNER, 'daily-photo-pipeline': '1'}, 'ETag': '"a"'}
+        with self.assertRaisesRegex(ValueError, 'discard daily'):
+            p.publish(client, 'bucket', 'https://cdn.example.com', self.root, self.root / 'output')
+        self.assertFalse(client.puts)
         client.objects.clear()
         with self.assertRaisesRegex(ValueError,'budget'):p.publish(client,'bucket','https://cdn.example.com',self.root,self.root/'output',budget=0)
         self.assertFalse(client.puts)

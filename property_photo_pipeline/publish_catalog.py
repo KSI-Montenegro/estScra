@@ -106,6 +106,8 @@ def publish(client, bucket, public_base, reports, output, budget=8_000_000_000):
     old_pointer = existing(client, bucket, pointer_key)
     if old_pointer and old_pointer.get('Metadata', {}).get('owner') != OWNER:
         raise ValueError('Existing catalog pointer is not owned by this importer')
+    if old_pointer and old_pointer.get('Metadata', {}).get('daily-photo-pipeline') == '1':
+        raise ValueError('Legacy snapshot would discard daily photo updates; use daily_scraper/process_photos.py for catalog publication')
     used = sum(item['Size'] for page in client.get_paginator('list_objects_v2').paginate(Bucket=bucket) for item in page.get('Contents', []))
     delta = sum(len(data) for name, (data, _) in files.items() if heads[name] is None)
     delta += max(0, len(pointer)-(old_pointer or {}).get('ContentLength', 0))

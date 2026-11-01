@@ -13,6 +13,18 @@ on:
         description: Maximum new listing captures
         default: '300'
         required: true
+      max_photo_properties:
+        description: Maximum queued property galleries to process
+        default: '300'
+        required: true
+      max_photo_images:
+        description: Maximum photo downloads/encodes
+        default: '1500'
+        required: true
+      max_clean_images:
+        description: Maximum local LaMa edits
+        default: '300'
+        required: true
 
 permissions:
   contents: write
@@ -33,10 +45,14 @@ jobs:
         with:
           python-version: '3.12'
           cache: pip
-          cache-dependency-path: daily_scraper/requirements.txt
+          cache-dependency-path: |
+            daily_scraper/requirements.txt
+            daily_scraper/photo-requirements.txt
       - name: Install parsers
+        id: install
         run: python -m pip install -r daily_scraper/requirements.txt
       - name: Restore durable state
+        id: restore
         shell: bash
         run: |
           set -euo pipefail
@@ -46,8 +62,13 @@ jobs:
             git fetch origin refs/heads/daily-scraper-state:refs/remotes/origin/daily-scraper-state
             git show origin/daily-scraper-state:state.json > daily_scraper/runtime/state.json
             python -c 'import json; json.load(open("daily_scraper/runtime/state.json"))'
+            if git cat-file -e origin/daily-scraper-state:photo-state.json 2>/dev/null; then
+              git show origin/daily-scraper-state:photo-state.json > daily_scraper/runtime/photo-state.json
+              python -c 'import json; json.load(open("daily_scraper/runtime/photo-state.json"))'
+            fi
           fi
       - name: Discover and export
+        id: scrape
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -63,19 +84,63 @@ jobs:
             scrape_mode=direct
           fi
           python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" --max-api-requests 100
+      - name: Queue photo inputs independently of listing export
+        if: always() && steps.restore.outcome == 'success'
+        run: python daily_scraper/photo_queue.py
+      - name: Install local photo processing tools
+        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
+          python -m pip install -r daily_scraper/photo-requirements.txt
+          python -m pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
+      - name: Cache pinned local LaMa model
+        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        uses: actions/cache@v4
+        with:
+          path: property_photo_pipeline/models
+          key: local-lama-${{ hashFiles('property_photo_pipeline/lama_model.json') }}
+      - name: Verify local LaMa model
+        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        run: python property_photo_pipeline/install_local_lama.py
+      - name: Detect, clean, optimize and upload property photos
+        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        id: photos
+        env:
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          MAX_PHOTO_PROPERTIES: ${{ inputs.max_photo_properties || '300' }}
+          MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || '1500' }}
+          MAX_CLEAN_IMAGES: ${{ inputs.max_clean_images || '300' }}
+          OMP_THREAD_LIMIT: '1'
+          OPENBLAS_NUM_THREADS: '1'
+        run: |
+          env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/process_photos.py \
+            --execute --upload --max-properties "$MAX_PHOTO_PROPERTIES" \
+            --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES"
       - name: Save durable state
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          if [ ! -f daily_scraper/runtime/state.json ]; then exit 0; fi
-          python -c 'import json; json.load(open("daily_scraper/runtime/state.json"))'
+          if [ ! -f daily_scraper/runtime/state.json ] && [ ! -f daily_scraper/runtime/photo-state.json ]; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           export GIT_INDEX_FILE="$RUNNER_TEMP/graden-state-index"
-          git read-tree --empty
-          state_blob=$(git hash-object -w daily_scraper/runtime/state.json)
-          git update-index --add --cacheinfo "100644,$state_blob,state.json"
+          if git rev-parse --verify refs/remotes/origin/daily-scraper-state >/dev/null 2>&1; then
+            git read-tree refs/remotes/origin/daily-scraper-state
+          else
+            git read-tree --empty
+          fi
+          for state_file in state.json photo-state.json; do
+            if [ -f "daily_scraper/runtime/$state_file" ]; then
+              python -c 'import json,sys; json.load(open(sys.argv[1]))' "daily_scraper/runtime/$state_file"
+              state_blob=$(git hash-object -w "daily_scraper/runtime/$state_file")
+              git update-index --add --cacheinfo "100644,$state_blob,$state_file"
+            fi
+          done
           state_tree=$(git write-tree)
           if git rev-parse --verify refs/remotes/origin/daily-scraper-state >/dev/null 2>&1; then
             state_parent=$(git rev-parse refs/remotes/origin/daily-scraper-state)
@@ -89,7 +154,11 @@ jobs:
         if: always()
         with:
           name: property-export-${{ github.run_id }}-${{ github.run_attempt }}
-          path: daily_scraper/exports/
+          path: |
+            daily_scraper/exports/
+            daily_scraper/photo_exports/
+            !daily_scraper/photo_exports/ready/**
+            !daily_scraper/photo_exports/repairs/**
           if-no-files-found: warn
           retention-days: 30
       - name: Publish run summary
@@ -107,4 +176,8 @@ jobs:
                   for k in ('captured_listings', 'pending_backlog', 'errors', 'by_source', 'requests'):
                       f.write(f'- {k}: {d[k]}\n')
                   f.write('\nDownload the property-export artifact below. Search coverage is bounded.\n')
+          photos = Path('daily_scraper/photo_exports/summary.json')
+          if photos.exists():
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+                  f.write('\nPhoto processing\n\n```json\n' + photos.read_text() + '\n```\n')
           PY
