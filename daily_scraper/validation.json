@@ -1,7 +1,7 @@
 {
   "validated_at": "2026-11-01T08:30:38.151304+00:00",
-  "offline_tests_passed": 13,
-  "portable_bundle_tests_passed": 13,
+  "offline_tests_passed": 18,
+  "portable_bundle_tests_passed": 18,
   "workflow_yaml_and_bash_syntax": "passed",
   "live_direct_export": {
     "schema_version": 1,
@@ -120,5 +120,25 @@
     "Existing Bright Data datacenter zone returned proxied target HTTP 403 for tested search pages",
     "GitHub-hosted direct test worked only for Patuljak; Realitica and Estitor blocked",
     "Actions secrets public-key API denied this integration; owner must set BRIGHTDATA_API_KEY and a compatible working zone"
-  ]
+  ],
+  "browser_api_update": {
+    "existing_zone": "estitorscraper2",
+    "new_zones_created": 0,
+    "api_key_validated": true,
+    "control_request": "HTTP 200",
+    "datacenter_source_results": {
+      "patuljak": 200,
+      "estitor": "403 Cloudflare challenge",
+      "realitica": "403 CloudFront block"
+    },
+    "forced_http_patuljak_capture": {
+      "captured": 1,
+      "api_requests": 2,
+      "errors": 0
+    },
+    "browser_credentials_lookup": "verified through GET /status and GET /zone",
+    "browser_live_connection": "ECONNREFUSED on brd.superproxy.io:9222 from this cloud workspace; page scraping not verified",
+    "secret_storage": "credentials remain in memory; no key embedded in download",
+    "download_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/daily-scraper/releases/aeaf3b2eabc179cf/graden_daily_scraper.zip"
+  }
 }

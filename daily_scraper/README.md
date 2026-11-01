@@ -3,6 +3,8 @@
 Discovers ads from Realitica, Patuljak and Estitor without a browser extension.
 Uses direct verified HTTPS first, with the existing Bright Data zone as a fallback.
 `--mode always` routes every page through Bright Data; this uses more paid requests.
+If the HTTP proxy returns target HTTP 403, the configured Browser API zone is tried.
+The default browser fallback uses the account's existing `estitorscraper2` zone.
 No browser login, phone reveal requests, paid image editing or automatic publishing of listings.
 
 ## Run locally
@@ -19,6 +21,23 @@ These commands assume the portable ZIP is extracted. In the repository use
 `python daily_scraper/daily_scraper.py` and `daily_scraper/requirements.txt` instead.
 Alternatively set `BRIGHTDATA_API_KEY` using your secret manager. Never put the key in Git.
 Optional `BRIGHTDATA_ZONE` defaults to the previously working `esstitor_site_phone_scraper`.
+Optional `BRIGHTDATA_BROWSER_ZONE` defaults to `estitorscraper2`. The Browser API customer ID
+and zone password are retrieved at runtime through the API key using `GET /status` and
+`GET /zone`. Browser credentials stay in memory and never enter exports, state, or logs.
+Use `--browser-zone none` to disable browser fallback.
+
+To use the hosted Browser API for every page:
+
+```bash
+.venv/bin/python daily_scraper.py --mode browser --browser-zone estitorscraper2 --api-key-file /secure/path/brightdata_api_key --max-api-requests 10 --max-pages 1 --max-listings 1
+```
+
+No local browser binary or extension is needed. Playwright connects to the remote browser over
+verified WSS on `brd.superproxy.io:9222`; that port must be reachable from the execution host.
+Each page gets a bounded session that closes immediately afterward. First-party image, font
+and media requests are blocked to reduce transfer. HTTP and browser page attempts share the
+request cap; account metadata lookups are separate control requests. This limits page attempts,
+not monetary spend. Existing account pricing applies; no new zone or subscription was created.
 
 For a small initial trial:
 
@@ -36,8 +55,15 @@ The existing datacenter Bright Data zone accepted API requests but returned prox
 HTTP 403 for the tested Estitor and Realitica search pages. Its fallback transport is implemented,
 but that zone is not a verified unblocker for these pages. Auto mode uses the working direct
 route first and records provider/target failures separately. A compatible working zone may be
-configured later through `BRIGHTDATA_ZONE`; browser_api zones are not interchangeable with
-the HTTPS request API used by this script.
+configured later through `BRIGHTDATA_ZONE`; browser_api zones use the separate Playwright
+transport included in this version, rather than the HTTP `/request` endpoint.
+
+Additional live tests on 2026-11-01 confirmed a full Patuljak discovery and listing capture
+through the Bright Data HTTP API (2 requests, no errors). The existing `estitorscraper2` zone's
+Browser API credentials resolved correctly, but connecting to its browser port from this cloud
+workspace failed with `ECONNREFUSED` before a session opened. Successful browser page collection
+has not been verified. The fallback has mock test coverage and needs a live test on a host that
+can reach port 9222. Merely having a valid API key does not prove a target page can be fetched.
 
 A separate GitHub-hosted runner test worked for Patuljak, but Realitica and Estitor returned
 direct HTTP 403 there. The workflow correctly saved a partial export and retry state, then
@@ -97,7 +123,7 @@ The repository workflow `.github/workflows/daily-property-scrape.yml` runs at **
 One-time setup:
 
 1. To enable Bright Data fallback, in repository Settings → Secrets and variables → Actions, add repository secret `BRIGHTDATA_API_KEY`. Without it, the workflow runs direct HTTPS only.
-2. Optionally add repository variable `BRIGHTDATA_ZONE` if the zone changes.
+2. Optionally add repository variable `BRIGHTDATA_ZONE` for the HTTP zone and `BRIGHTDATA_BROWSER_ZONE` for the Browser API fallback.
 3. Ensure GitHub Actions is enabled and the workflow is permitted to write repository contents.
 4. Run “Daily property export” manually once and verify the summary/artifact.
 

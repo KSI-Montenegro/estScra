@@ -19,6 +19,7 @@ from urllib.parse import urlencode, urljoin, urlsplit
 from urllib.request import Request, urlopen
 
 from lxml import html
+from brightdata_browser import BrowserAPI, BrowserFailure
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
@@ -44,13 +45,29 @@ class FetchFailure(Exception):
 
 
 class Fetcher:
-    def __init__(self, key, zone, mode='auto', max_api=100, interval=0.7):
+    def __init__(self, key, zone, mode='auto', max_api=100, interval=0.7, browser_zone=None):
         self.key, self.zone, self.mode = key, zone, mode
         self.max_api, self.interval = max_api, interval
         self.next_request = {}
         self.paused = set()
         self.api_blocked = False
         self.counts = Counter()
+        self.browser = BrowserAPI(key, browser_zone, ALLOWED_HOSTS, MAX_BODY) if browser_zone else None
+
+    def browser_get(self, url):
+        if not self.key:
+            raise FetchFailure('brightdata_key_missing')
+        if not self.browser:
+            raise FetchFailure('brightdata_browser_zone_missing')
+        if self.counts['brightdata_requests'] + self.counts['brightdata_browser_requests'] >= self.max_api:
+            raise FetchFailure('brightdata_request_cap_reached')
+        self.counts['brightdata_browser_requests'] += 1
+        try:
+            return self.browser.get(url)
+        except BrowserFailure as exc:
+            if str(exc) == 'browser_source_http_429':
+                self.paused.add(urlsplit(url).hostname)
+            raise FetchFailure(str(exc)) from None
 
     def get(self, url, force_api=False):
         host = urlsplit(url).hostname
@@ -60,6 +77,8 @@ class Fetcher:
             raise FetchFailure('source_rate_limited')
         time.sleep(max(0, self.next_request.get(host, 0) - time.monotonic()))
         self.next_request[host] = time.monotonic() + self.interval
+        if self.mode == 'browser':
+            return self.browser_get(url)
         if self.mode != 'always' and not force_api:
             try:
                 with urlopen(Request(url, headers={'User-Agent': UA}), timeout=30) as response:
@@ -86,7 +105,7 @@ class Fetcher:
             raise FetchFailure('brightdata_key_missing')
         if self.api_blocked:
             raise FetchFailure('brightdata_paused')
-        if self.counts['brightdata_requests'] >= self.max_api:
+        if self.counts['brightdata_requests'] + self.counts['brightdata_browser_requests'] >= self.max_api:
             raise FetchFailure('brightdata_request_cap_reached')
         payload = {'zone': self.zone, 'url': url, 'format': 'json', 'method': 'GET',
                    'headers': {'User-Agent': UA}}
@@ -106,6 +125,8 @@ class Fetcher:
         if status != 200:
             if status == 429:
                 self.paused.add(host)
+            if status == 403 and self.browser:
+                return self.browser_get(url)
             raise FetchFailure('proxied_source_http_' + str(status))
         body = envelope.get('body')
         if not isinstance(body, str) or len(body.encode()) > MAX_BODY:
@@ -315,8 +336,9 @@ def export_run(folder, records, errors, summary):
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument('--sources', nargs='+', choices=SOURCES, default=list(SOURCES))
-    p.add_argument('--mode', choices=('auto', 'always', 'direct'), default='auto', help='auto: direct HTTPS first, Bright Data fallback')
+    p.add_argument('--mode', choices=('auto', 'always', 'direct', 'browser'), default='auto', help='auto: direct, then HTTP API, then configured Browser API on proxy 403')
     p.add_argument('--zone', default=os.getenv('BRIGHTDATA_ZONE', 'esstitor_site_phone_scraper'))
+    p.add_argument('--browser-zone', default=os.getenv('BRIGHTDATA_BROWSER_ZONE', 'estitorscraper2'), help='Existing Browser API zone; use none to disable browser fallback')
     p.add_argument('--api-key-file', type=Path)
     p.add_argument('--max-api-requests', type=int, default=100)
     p.add_argument('--max-pages', type=int, default=10, help='Per search; bounded coverage is reported explicitly')
@@ -332,18 +354,23 @@ def main(argv=None):
             0 <= args.max_api_requests <= 10000 and args.interval >= 0.5 and args.overlap_pages >= 0):
         p.error('Invalid limit; interval must be >= 0.5 seconds')
     args.state.parent.mkdir(parents=True, exist_ok=True)
-    lock = (args.state.parent / 'scraper.lock').open('a')
-    try:
-        fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-    except BlockingIOError:
-        p.error('Another scraper holds the state lock')
+    with (args.state.parent / 'scraper.lock').open('a') as lock:
+        try:
+            fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        except BlockingIOError:
+            p.error('Another scraper holds the state lock')
+        return run(args)
+
+
+def run(args):
     key = os.getenv('BRIGHTDATA_API_KEY', '').strip()
     if args.api_key_file:
         key = args.api_key_file.read_text().strip()
-    if args.mode == 'always' and not key:
-        p.error('Set BRIGHTDATA_API_KEY or provide --api-key-file')
+    if args.mode in ('always', 'browser') and not key:
+        raise SystemExit('Set BRIGHTDATA_API_KEY or provide --api-key-file')
     state = load_state(args.state, args.baseline)
-    fetcher = Fetcher(key, args.zone, args.mode, args.max_api_requests, args.interval)
+    browser_zone = None if args.browser_zone.lower() in ('none', '') else args.browser_zone
+    fetcher = Fetcher(key, args.zone, args.mode, args.max_api_requests, args.interval, browser_zone)
     started = now()
     run_id = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H%M%S') + '-' + os.urandom(3).hex()
     run_folder = args.output / run_id
@@ -396,6 +423,8 @@ def main(argv=None):
         except Exception as exc:
             code = str(exc) if isinstance(exc, FetchFailure) else 'parse_or_transport_' + type(exc).__name__
             terminal = code in ('source_http_404', 'source_http_410', 'canonical_not_a_listing',
+                                'proxied_source_http_404', 'proxied_source_http_410',
+                                'browser_source_http_404', 'browser_source_http_410',
                                 'canonical_listing_mismatch', 'redirect_not_a_listing', 'redirect_listing_mismatch')
             item.update(status='unavailable' if terminal else 'retry', last_error_code=code)
             errors.append({'source': source, 'stage': 'listing', 'property_key': k, 'code': code})

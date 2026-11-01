@@ -51,6 +51,7 @@ jobs:
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
+          BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
           MAX_PAGES: ${{ inputs.max_pages || '10' }}
           MAX_LISTINGS: ${{ inputs.max_listings || '300' }}
         shell: bash

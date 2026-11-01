@@ -8,6 +8,7 @@ ROOT = HERE.parent
 OUTPUT = HERE / 'dist/graden_daily_scraper.zip'
 FILES = {
     HERE / 'daily_scraper.py': 'daily_scraper.py',
+    HERE / 'brightdata_browser.py': 'brightdata_browser.py',
     HERE / 'baseline.json': 'baseline.json',
     HERE / 'requirements.txt': 'requirements.txt',
     HERE / 'README.md': 'README.md',

@@ -4,9 +4,11 @@ import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
+from unittest.mock import MagicMock
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import daily_scraper as scraper
+from brightdata_browser import BrowserAPI, BrowserFailure
 
 
 URL = 'https://patuljak.me/oglas/stan--123'
@@ -123,6 +125,57 @@ class DailyTests(unittest.TestCase):
             payload = json.loads(req.data)
             self.assertEqual(payload['url'], URL)
             self.assertNotIn('placeholder-test-key', req.data.decode())
+
+    def test_proxy_403_uses_browser_but_429_does_not(self):
+        class Response:
+            status = 403
+            def __enter__(self): return self
+            def __exit__(self, *args): return None
+            def read(self, limit): return json.dumps({'status_code': self.status, 'body': 'blocked'}).encode()
+        fetcher = scraper.Fetcher('test-key', 'dc-zone', mode='always', browser_zone='existing-browser')
+        with patch.object(scraper, 'urlopen', return_value=Response()), \
+             patch.object(fetcher.browser, 'get', return_value=(BODY, URL, 'brightdata_browser_api')) as browser:
+            self.assertEqual(fetcher.get(URL)[2], 'brightdata_browser_api')
+            browser.assert_called_once()
+        Response.status = 429
+        with patch.object(scraper, 'urlopen', return_value=Response()), patch.object(fetcher.browser, 'get') as browser:
+            with self.assertRaisesRegex(scraper.FetchFailure, 'proxied_source_http_429'):
+                fetcher.get(URL)
+            browser.assert_not_called()
+
+    def test_http_and_browser_share_page_request_cap(self):
+        fetcher = scraper.Fetcher('test-key', 'dc', mode='browser', max_api=1, browser_zone='browser')
+        fetcher.counts['brightdata_requests'] = 1
+        with patch.object(fetcher.browser, 'get') as browser:
+            with self.assertRaisesRegex(scraper.FetchFailure, 'request_cap_reached'):
+                fetcher.get(URL)
+            browser.assert_not_called()
+
+    def test_browser_credentials_resolved_from_key_and_cached(self):
+        api = BrowserAPI('test-key', 'existing-browser', scraper.ALLOWED_HOSTS)
+        with patch.object(api, 'account_get', side_effect=[{'customer': 'hl_test'}, {'plan': {'type': 'browser_api'}, 'password': ['private-password']}]) as get:
+            first = api.auth_headers()
+            self.assertTrue(first['Authorization'].startswith('Basic '))
+            self.assertEqual(first, api.auth_headers())
+            self.assertEqual(get.call_count, 2)
+
+    def test_browser_error_redacts_credentials_and_stops_refused_connections(self):
+        api = BrowserAPI('sensitive-api-key', 'browser', scraper.ALLOWED_HOSTS)
+        manager = MagicMock()
+        manager.__enter__.return_value.chromium.connect_over_cdp.side_effect = RuntimeError('ECONNREFUSED secret-password sensitive-api-key')
+        with patch.object(api, 'auth_headers', return_value={'Authorization': 'Basic sensitive-value'}), \
+             patch('playwright.sync_api.sync_playwright', return_value=manager):
+            with self.assertRaisesRegex(BrowserFailure, '^browser_network_port_refused$'):
+                api.get(URL)
+            with self.assertRaisesRegex(BrowserFailure, '^brightdata_browser_unavailable$'):
+                api.get(URL)
+            self.assertEqual(manager.__enter__.return_value.chromium.connect_over_cdp.call_count, 1)
+
+    def test_browser_rejects_datacenter_zone_credentials(self):
+        api = BrowserAPI('key', 'dc', scraper.ALLOWED_HOSTS)
+        with patch.object(api, 'account_get', side_effect=[{'customer':'hl_test'}, {'plan':{'type':'static'},'password':['secret']}]):
+            with self.assertRaisesRegex(BrowserFailure, 'not_browser_api'):
+                api.auth_headers()
 
 
 if __name__ == '__main__':
