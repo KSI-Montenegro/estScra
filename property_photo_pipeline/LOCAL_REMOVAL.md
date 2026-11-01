@@ -1,5 +1,10 @@
 # Local LaMa repair pipeline
 
+Ongoing daily processing is now connected through [`daily_scraper/process_photos.py`](../daily_scraper/process_photos.py)
+and the **Daily property export** workflow. See [the daily photo guide](../daily_scraper/DAILY_PHOTOS.md).
+The counts below describe the original batch. The shared catalog now also includes later deliveries;
+the legacy snapshot publisher is prevented from discarding those additions.
+
 The owner selected local LaMa, with no per-image editing API fee. The website that prompted this choice describes LaMa as its engine but prohibits automated scripts in its terms; this pipeline does not submit images to that website. CPU PyTorch 2.8.0 is installed, and the release model is pinned in `lama_model.json`. Binary weights are excluded from Git.
 
 ```sh

@@ -199,6 +199,40 @@ class PhotoTests(unittest.TestCase):
         enqueue(state, [self.record], 'daily')
         self.assertEqual(state['properties']['patuljak_123']['origin'], 'daily')
 
+    def test_enriched_listing_uses_only_ready_r2_urls_and_actual_sample(self):
+        folder = self.root / 'exports/run'; folder.mkdir(parents=True)
+        source = folder / 'listings.json'; source.write_text(json.dumps([self.record]))
+        state = {'properties': {'patuljak_123': {'phase': 'needs_review',
+            'sample': {'result': 'watermark_candidate', 'sampled_url': self.urls[0]},
+            'images': {'1': {'image_number': 1, 'active_url': BASE + '/clean.webp', 'ready_for_listing': True},
+                       '2': {'image_number': 2, 'active_url': BASE + '/held.webp', 'ready_for_listing': False}}}}}
+        rows = p.enrich_exports(folder.parent, [], state, self.root / 'out', BASE + '/latest.json')
+        self.assertEqual(rows[0]['image_urls'], [BASE + '/clean.webp'])
+        self.assertEqual(rows[0]['source_image_urls'], self.urls)
+        self.assertEqual(rows[0]['watermark_sample_result'], 'watermark_candidate')
+        self.assertEqual(rows[0]['held_image_count'], 1)
+
+    def test_known_candidate_remains_held_after_a_negative_sample(self):
+        raw = image_bytes()
+        base = {'image_number': 1, 'source_copy_url': BASE + '/existing.webp', 'active_url': BASE + '/existing.webp',
+                'selected_version': 'source', 'source_sha256': sha(raw), 'watermark_candidate': True}
+        w = self.worker(catalog={'properties': {'patuljak_123': {'images': [base]}}})
+        with patch.object(w, 'repair', return_value=(None, 'unsupported_or_uncertain_mask')):
+            w.process(w.state['properties']['patuljak_123'])
+        self.assertFalse(w.state['properties']['patuljak_123']['images']['1']['ready_for_listing'])
+
+    def test_daily_index_refuses_another_owners_pointer(self):
+        client = MemoryS3(); store = R2Store(client, 'bucket', BASE)
+        folder = self.root / 'daily'; folder.mkdir()
+        for name in ('properties.json', 'images.csv', 'watermark_exceptions.csv', 'property_queue.csv',
+                     'summary.json', 'listings_with_photos.json', 'listings_with_photos.csv'):
+            (folder / name).write_text('{}')
+        key = PREFIX + '/daily/latest.json'
+        client.objects[key] = {'Body': b'{}', 'Metadata': {'owner': 'another-app'}}
+        with self.assertRaisesRegex(ValueError, 'another application'):
+            store.publish_daily(folder)
+        self.assertEqual(client.objects[key]['Metadata']['owner'], 'another-app')
+
     def test_secret_free_queue_survives_and_skips_completed_inputs(self):
         exports = self.root / 'exports/run'; exports.mkdir(parents=True)
         (exports / 'listings.json').write_text(json.dumps([{**self.record, 'phone_e164': 'private-contact'}]))

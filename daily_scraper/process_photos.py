@@ -14,6 +14,7 @@ import re
 import shutil
 import sys
 import time
+import zipfile
 from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from urllib.request import Request, HTTPRedirectHandler, build_opener
@@ -366,6 +367,29 @@ def report(worker, output):
     return summary
 
 
+def enrich_exports(exports, files, state, output, catalog_url=''):
+    from daily_scraper import CSV_FIELDS, csv_text
+    records = {}
+    for path in files or sorted(Path(exports).glob('*/listings.json')):
+        for record in json.loads(Path(path).read_text()):
+            prop = state['properties'].get(record['property_key'], {})
+            images = sorted(prop.get('images', {}).values(), key=lambda r: int(r['image_number']))
+            ready = [r['active_url'] for r in images if r.get('ready_for_listing') and r.get('active_url')]
+            sample = prop.get('sample', {})
+            records[record['property_key']] = {**record, 'source_image_urls': record.get('image_urls', []),
+                'image_urls': ready, 'image_count': len(ready), 'photos': images,
+                'photo_delivery_status': prop.get('phase', 'pending'), 'ready_image_count': len(ready),
+                'held_image_count': sum(not r.get('ready_for_listing') for r in images),
+                'photo_catalog_url': catalog_url, 'watermark_status': prop.get('phase', 'pending'),
+                'watermark_sample_url': sample.get('sampled_url'),
+                'watermark_sample_result': sample.get('result', 'not_checked')}
+    rows = list(records.values())
+    write_json(Path(output) / 'listings_with_photos.json', rows)
+    fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count', 'photo_catalog_url']
+    atomic_write(Path(output) / 'listings_with_photos.csv', csv_text(fields, rows).encode())
+    return rows
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--exports', type=Path, default=Path('daily_scraper/exports'))
@@ -431,6 +455,21 @@ def main():
                 prop['phase'] = phase
             worker.checkpoint()
             summary = report(worker, args.output)
+        elif store:
+            for prop, phase in completed:
+                prop['phase'] = phase
+            worker.checkpoint()
+            summary = report(worker, args.output)
+        enrich_exports(args.exports, args.listings, state, args.output,
+                       store.public + '/graden-imports/property-photos/latest.json' if store else '')
+        if store:
+            delivery = store.publish_daily(args.output)
+            write_json(args.output / 'daily_delivery.json', delivery)
+        with zipfile.ZipFile(args.output / 'property-photos.zip', 'w', zipfile.ZIP_DEFLATED) as archive:
+            for path in args.output.rglob('*'):
+                relative = path.relative_to(args.output)
+                if path.is_file() and relative.parts[0] not in ('ready', 'repairs') and path.suffix in ('.json', '.csv'):
+                    archive.write(path, str(relative))
         print(json.dumps(summary), flush=True)
 
 

@@ -4,6 +4,7 @@ import csv
 import hashlib
 import io
 import json
+import re
 import zipfile
 from datetime import datetime, timezone
 from urllib.parse import urlsplit
@@ -13,7 +14,8 @@ PREFIX = 'graden-imports/property-photos'
 FIELDS = ['property_key', 'listing_url', 'image_number', 'original_url', 'source_copy_url',
           'active_url', 'cleaned_url', 'selected_version', 'watermark_status', 'watermark_candidate',
           'ready_for_listing', 'pipeline_status', 'source_sha256', 'optimized_sha256', 'bytes',
-          'repair_output_sha256', 'error_code']
+          'repair_output_sha256', 'error_code', 'image_url', 'uploaded_url', 'optimized_bytes',
+          'upload_status', 'repair_status']
 
 
 def encode(value):
@@ -29,7 +31,11 @@ def csv_bytes(records):
     writer = csv.DictWriter(out, FIELDS, extrasaction='ignore')
     writer.writeheader()
     for record in records:
-        row = {k: record.get(k, '') for k in FIELDS}
+        compatible = {**record, 'image_url': record.get('original_url', ''),
+                      'uploaded_url': record.get('source_copy_url', ''), 'optimized_bytes': record.get('bytes', ''),
+                      'upload_status': 'existing' if record.get('source_copy_url') else '',
+                      'repair_status': 'processed' if is_cleaned(record) else 'pending'}
+        row = {k: compatible.get(k, '') for k in FIELDS}
         for key, value in row.items():
             if isinstance(value, str) and value.lstrip().startswith(('=', '+', '-', '@')):
                 row[key] = "'" + value
@@ -77,6 +83,9 @@ def merge_catalog(current, updates):
         if is_cleaned(row):
             row['ready_for_listing'] = True
             row.setdefault('pipeline_status', 'ready_existing_cleaned')
+            match = re.search(r'-([0-9a-f]{64})\.webp$', row['cleaned_url'])
+            if match:
+                row.setdefault('repair_output_sha256', match.group(1))
         else:
             row.setdefault('ready_for_listing', False)
             row.setdefault('pipeline_status', 'needs_cleanup' if row.get('watermark_candidate') else 'pending_property_sample')
@@ -225,3 +234,24 @@ class R2Store:
                 if getattr(exc, 'response', {}).get('Error', {}).get('Code') not in ('PreconditionFailed', '412') or attempt == 2:
                     raise
         raise ValueError('Catalog update retry exhausted')
+
+    def publish_daily(self, folder):
+        from pathlib import Path
+        names = ['properties.json', 'images.csv', 'watermark_exceptions.csv', 'property_queue.csv',
+                 'summary.json', 'listings_with_photos.json', 'listings_with_photos.csv']
+        files = {name: (Path(folder) / name).read_bytes() for name in names}
+        version = sha(encode({k: sha(v) for k, v in files.items()}))[:24]
+        prefix = PREFIX + '/daily/' + version
+        assets = {name: self.put(prefix + '/' + name, data,
+                                'application/json' if name.endswith('.json') else 'text/csv; charset=utf-8',
+                                {'owner': 'graden-daily-photos'}) for name, data in files.items()}
+        key = PREFIX + '/daily/latest.json'
+        head = self.head(key)
+        if head and head.get('Metadata', {}).get('owner') != 'graden-daily-photos':
+            raise ValueError('Daily photo pointer owned by another application')
+        body = encode({'schema_version': 1, 'assets': assets, 'catalog_index': self.public + '/' + PREFIX + '/latest.json'})
+        self.reserve(len(body))
+        condition = {'IfMatch': head['ETag']} if head else {'IfNoneMatch': '*'}
+        self.client.put_object(Bucket=self.bucket, Key=key, Body=body, ContentType='application/json',
+                               CacheControl='public, max-age=60', Metadata={'owner': 'graden-daily-photos', 'sha256': sha(body)}, **condition)
+        return {'latest_url': self.public + '/' + key, 'assets': assets}

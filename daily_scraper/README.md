@@ -92,13 +92,18 @@ Every completed run writes a dated ZIP under `exports/` (repository: `daily_scra
 - `summary.json`: counts, discovery coverage, request usage and backlog.
 - `errors.json`: safe error codes; failed listings remain queued for a future run.
 
+The workflow now continues into photo processing. See [DAILY_PHOTOS.md](DAILY_PHOTOS.md) for
+the complete sampling, local removal, optimization, R2 upload and queue behavior. Platform
+imports should use the resulting `listings_with_photos.json` / `.csv`, which contain actual
+sample outcomes and ready R2 image URLs.
+
 Some Realitica ads expose only a small property-specific preview. Those observed URLs are
 retained with `only_low_resolution_preview_exposed` in JSON quality flags; full-size paths
 are never guessed. Other missing data stays missing and is flagged for review.
 
-This feed does not download/clean/upload new photo binaries. Feed `image_urls.csv` to the
-existing optimization/R2 pipeline for that stage. The sampling queue records `not_checked`;
-it does not claim that a watermark detector has run. Preserve existing cleaned selections.
+The listing scraper's initial `watermark_samples.csv` records `not_checked`. The connected
+photo worker performs sampling and writes actual outcomes to its enriched listing exports,
+per-property records and exception reports. Existing cleaned selections are preserved.
 
 ## State and coverage
 
