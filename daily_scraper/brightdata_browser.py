@@ -6,6 +6,7 @@ import time
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlsplit
 from urllib.request import Request, urlopen
+from url_utils import transport_url
 
 
 class BrowserFailure(Exception):
@@ -77,7 +78,7 @@ class BrowserAPI:
                                    and urlsplit(route.request.url).hostname == urlsplit(url).hostname
                                    else route.continue_())
                     phase = 'navigate'
-                    response = page.goto(url, wait_until='domcontentloaded', timeout=60_000)
+                    response = page.goto(transport_url(url), wait_until='domcontentloaded', timeout=60_000)
                     phase = 'content'
                     if binary:
                         if not response or response.status != 200:

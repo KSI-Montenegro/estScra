@@ -33,6 +33,7 @@ from remove_local import process_row, TorchInpainter
 from photo_catalog import R2Store, is_cleaned, csv_bytes, sha
 from photo_queue import prepare, enqueue
 from brightdata_browser import BrowserAPI, BrowserFailure
+from url_utils import transport_url
 
 VERSION = 'one-property-sample-patuljak-v1'
 HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com'}
@@ -85,7 +86,8 @@ class Downloader:
                 if str(exc) == 'browser_source_http_429':
                     self.paused.add(urlsplit(url).hostname)
                 if attempt == 0 and str(exc) in ('browser_navigate_failed', 'browser_navigate_timeout', 'browser_content_failed',
-                                               'browser_content_timeout', 'browser_session_closed', 'browser_navigation_aborted'):
+                                               'browser_content_timeout', 'browser_session_closed', 'browser_navigation_aborted',
+                                               'browser_connect_timeout', 'browser_connect_failed'):
                     time.sleep(1)
                     continue
                 raise PhotoFailure('image_' + str(exc)) from None
@@ -107,7 +109,7 @@ class Downloader:
             data = self.browser_image(url)
             atomic_write(path, data)
             return data
-        request = Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; GRADEN-PropertyPhotos/1.0)'})
+        request = Request(transport_url(url), headers={'User-Agent': 'Mozilla/5.0 (compatible; GRADEN-PropertyPhotos/1.0)'})
         try:
             with self.opener.open(request, timeout=25) as response:
                 data = response.read(20_000_001)
@@ -120,7 +122,7 @@ class Downloader:
             if exc.code != 403 or not self.key or host not in HOSTS:
                 raise PhotoFailure('image_http_' + str(exc.code)) from None
             # Raw API mode is required for original image bytes, not JSON HTML.
-            payload = json.dumps({'zone': self.zone, 'url': url, 'format': 'raw', 'method': 'GET'}).encode()
+            payload = json.dumps({'zone': self.zone, 'url': transport_url(url), 'format': 'raw', 'method': 'GET'}).encode()
             self.api_requests += 1
             api = Request('https://api.brightdata.com/request', data=payload,
                           headers={'Authorization': 'Bearer ' + self.key, 'Content-Type': 'application/json'})
@@ -171,7 +173,7 @@ class Detector:
             raise ValueError('Template digest mismatch')
         self.template = np.asarray(Image.open(io.BytesIO(data)).convert('RGB')) if template is None else template
 
-    def analyze(self, data):
+    def analyze(self, data, mask_only=False):
         rgb = decode(data)
         height, width = rgb.shape[:2]
         if min(width, height) < 100:
@@ -180,6 +182,13 @@ class Detector:
             score, box, _ = match_image(rgb, self.template)
         except ValueError:
             score, box = 0., []
+        # Gallery flagging already came from the property's full sample. Strong
+        # geometry needs no corroborating OCR; geometry below .65 cannot qualify
+        # under the existing mask policy even if OCR finds text.
+        if mask_only and (score < .65 or score >= .85):
+            return {'result': 'watermark_candidate' if score >= .85 else 'needs_review',
+                    'reason': 'known_logo_geometry' if score >= .85 else 'no_supported_mask_geometry',
+                    'score': float(score), 'box': box, 'hits': [], 'width': width, 'height': height}
         words = ocr(cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR), 'tesseract', 30)
         hits = brand_hits(words, width, height)
         text_found = any(w['confidence'] >= 45 and len(token(w['text'])) >= 3 for w in words)
@@ -189,22 +198,34 @@ class Detector:
                 'score': float(score), 'box': box, 'hits': hits,
                 'width': width, 'height': height, 'other_text_detected': text_found}
 
+    def for_removal(self, data):
+        return self.analyze(data, mask_only=True)
+
 
 class PhotoWorker:
     def __init__(self, state, state_path, output, store, detector, downloader, model_path,
-                 execute=False, max_images=1500, max_clean=300):
+                 execute=False, max_images=1500, max_clean=300, max_runtime=2700):
         self.state, self.state_path, self.output = state, Path(state_path), Path(output)
         self.store, self.detector, self.downloader = store, detector, downloader
         self.model_path, self.execute = Path(model_path), execute
         self.max_images, self.max_clean = max_images, max_clean
         self.infer, self.model_hash = None, None
         self.counts, self.updates = Counter(), {}
+        self.deadline = time.monotonic() + max_runtime
         self.catalog, _ = store.snapshot() if store else ({'properties': {}}, None)
+
+    def time_exhausted(self):
+        if time.monotonic() >= self.deadline:
+            self.counts['runtime_limit_reached'] = 1
+            return True
+        return False
 
     def checkpoint(self):
         write_json(self.state_path, self.state)
 
     def repair(self, key, item, data, analysis):
+        if self.time_exhausted():
+            return None, 'runtime_run_limit'
         row = {'property_key': key, 'image_number': item['image_number'], 'image_url': item['original_url'],
                'source_sha256': sha(data), 'logo_template_score': analysis['score'],
                'logo_box_original_pixels': json.dumps(analysis['box']), 'ocr_hits_json': json.dumps(analysis['hits']),
@@ -254,6 +275,10 @@ class PhotoWorker:
             prop['sample'] = {}
         if unprocessed and not prop.get('sample'):
             for attempted, first in enumerate(unprocessed, 1):
+                if self.time_exhausted():
+                    prop['phase'] = 'pending'
+                    self.checkpoint()
+                    return
                 base = existing.get(str(first['image_number']), {})
                 sample_url = base.get('source_copy_url') or first['original_url']
                 try:
@@ -283,6 +308,8 @@ class PhotoWorker:
                         break
         flagged = known_pending or prop.get('sample', {}).get('result') != 'sample_passed'
         for item in prop['input_images']:
+            if self.time_exhausted():
+                break
             number = str(item['image_number'])
             done = prop['images'].get(number)
             if done and done.get('upload_confirmed') and done.get('pipeline_status') != 'deferred_cleanup':
@@ -334,7 +361,7 @@ class PhotoWorker:
                 if held:
                     # Gallery flagging is per property; mask location must still
                     # be established independently on each image before editing.
-                    analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.analyze(data)
+                    analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.for_removal(data)
                     repaired, reason = self.repair(key, item, data, analysis)
                     if repaired:
                         content = Path(repaired['output_path']).read_bytes()
@@ -350,7 +377,7 @@ class PhotoWorker:
                                    outside_mask_unchanged_before_encoding=True)
                     else:
                         row['error_code'] = reason
-                        if reason == 'removal_run_limit':
+                        if reason in ('removal_run_limit', 'runtime_run_limit'):
                             row['pipeline_status'] = 'deferred_cleanup'
                 if not self.store:
                     row.update(ready_for_listing=False, pipeline_status='upload_pending', error_code='upload_not_requested')
@@ -456,10 +483,11 @@ def main():
     parser.add_argument('--max-images', type=int, default=1500)
     parser.add_argument('--max-clean-images', type=int, default=300)
     parser.add_argument('--max-image-api-requests', type=int, default=100)
+    parser.add_argument('--max-runtime-seconds', type=int, default=2700)
     parser.add_argument('--execute', action='store_true')
     parser.add_argument('--upload', action='store_true')
     args = parser.parse_args()
-    if not 1 <= args.max_properties <= 10000 or not 1 <= args.max_images <= 100000 or not 0 <= args.max_clean_images <= 10000:
+    if not 1 <= args.max_properties <= 10000 or not 1 <= args.max_images <= 100000 or not 0 <= args.max_clean_images <= 10000 or args.max_runtime_seconds < 1:
         parser.error('Invalid photo run limits')
     if args.upload and not args.execute:
         parser.error('Upload requires execute')
@@ -481,7 +509,7 @@ def main():
         downloader = Downloader(args.cache, urlsplit(settings['public_base_url']).hostname,
                                 os.getenv('BRIGHTDATA_API_KEY', ''), os.getenv('BRIGHTDATA_ZONE', 'esstitor_site_phone_scraper'), args.max_image_api_requests)
         worker = PhotoWorker(state, args.state, args.output, store, Detector(), downloader, args.model,
-                             args.execute, args.max_images, args.max_clean_images)
+                             args.execute, args.max_images, args.max_clean_images, args.max_runtime_seconds)
         if args.execute and args.max_clean_images:
             cfg = json.loads((ROOT / 'property_photo_pipeline/lama_model.json').read_text())
             if not args.model.exists() or sha(args.model.read_bytes()) != cfg['sha256']:
@@ -493,12 +521,14 @@ def main():
         # confirmed, so an interrupted publication is retried in the next run.
         completed = []
         for prop in pending[:args.max_properties]:
+            if worker.time_exhausted():
+                break
             worker.process(prop)
             if prop['phase'] != 'pending':
                 completed.append((prop, prop['phase']))
                 prop['phase'] = 'pending'
                 worker.checkpoint()
-            if worker.counts['images_processed'] >= args.max_images:
+            if worker.counts['images_processed'] >= args.max_images or worker.time_exhausted():
                 break
         summary = report(worker, args.output)
         if store and worker.updates:

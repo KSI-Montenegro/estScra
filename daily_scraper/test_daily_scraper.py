@@ -9,6 +9,7 @@ from unittest.mock import MagicMock
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import daily_scraper as scraper
 from brightdata_browser import BrowserAPI, BrowserFailure
+from url_utils import transport_url
 
 
 URL = 'https://patuljak.me/oglas/stan--123'
@@ -19,6 +20,84 @@ BODY = b'''<html lang="me"><head><link rel="canonical" href="https://patuljak.me
 
 
 class DailyTests(unittest.TestCase):
+    def small_run(self, root, found, fetch, extra=()):
+        root = Path(root)
+        baseline = root / 'baseline.json'; baseline.write_text('{"listings": {}}')
+        args = ['--state', str(root / 'state.json'), '--baseline', str(baseline), '--output', str(root / 'exports'), *extra]
+        with patch.object(scraper, 'discover', return_value=(found, [], [])), patch.object(scraper.Fetcher, 'get', side_effect=fetch):
+            code = scraper.main(args)
+        summary = json.loads((root / 'exports/latest.json').read_text())['summary']
+        state = json.loads((root / 'state.json').read_text())
+        return code, summary, state
+
+    def test_request_limit_defers_paid_sources_and_continues_direct_source(self):
+        second = URL.replace('--123', '--124')
+        found = {'realitica_100': 'https://www.realitica.com/hr/listing/100', 'patuljak_123': URL,
+                 'estitor_100': 'https://estitor.com/me/id-100', 'patuljak_124': second}
+        def fetch(url, **kwargs):
+            if 'patuljak.me' not in url: raise scraper.FetchFailure('brightdata_request_cap_reached')
+            return (BODY.replace(b'--123', b'--124') if url == second else BODY), url, 'direct_https'
+        with tempfile.TemporaryDirectory() as root:
+            code, summary, state = self.small_run(root, found, fetch, ['--max-listings', '2'])
+        self.assertEqual(code, 0)
+        self.assertEqual(summary['captured_listings'], 2)
+        self.assertEqual(summary['errors'], 0)
+        self.assertEqual(summary['deferred_by_request_limit'], 2)
+        self.assertEqual(state['listings']['realitica_100']['attempts'], 0)
+        self.assertEqual(state['listings']['estitor_100']['status'], 'pending')
+
+    def test_authentication_failure_still_fails_workflow(self):
+        def fetch(url, **kw): raise scraper.FetchFailure('brightdata_http_401')
+        with tempfile.TemporaryDirectory() as root:
+            code, summary, _ = self.small_run(root, {'patuljak_123': URL}, fetch)
+        self.assertEqual(code, 2)
+        self.assertEqual(summary['errors'], 1)
+
+    def test_expired_listing_is_recorded_without_failing_successful_discovery(self):
+        def fetch(url, **kw): raise scraper.FetchFailure('browser_source_http_404')
+        with tempfile.TemporaryDirectory() as root:
+            code, summary, state = self.small_run(root, {'patuljak_123': URL}, fetch)
+        self.assertEqual(code, 0)
+        self.assertEqual(summary['warnings'], 1)
+        self.assertEqual(state['listings']['patuljak_123']['status'], 'unavailable')
+
+    def test_complete_capture_outage_still_reports_failure_and_preserves_retry(self):
+        def fetch(url, **kw): raise scraper.FetchFailure('browser_challenge_not_resolved')
+        with tempfile.TemporaryDirectory() as root:
+            code, summary, state = self.small_run(root, {'patuljak_123': URL}, fetch)
+        self.assertEqual(code, 2)
+        self.assertEqual(summary['errors'], 1)
+        self.assertEqual(state['listings']['patuljak_123']['status'], 'retry')
+
+    def test_runtime_budget_exports_and_preserves_pending_queue(self):
+        with tempfile.TemporaryDirectory() as root, patch.object(scraper.time, 'monotonic', side_effect=[0, 2]):
+            code, summary, state = self.small_run(root, {'patuljak_123': URL}, lambda *a: self.fail('Fetch after deadline'),
+                                                ['--max-runtime-seconds', '1'])
+        self.assertEqual(code, 0)
+        self.assertIn('runtime_limit_reached', summary['limits_reached'])
+        self.assertEqual(state['listings']['patuljak_123']['status'], 'pending')
+
+    def test_discovery_cap_is_a_stop_reason_without_errors(self):
+        fetcher = MagicMock()
+        fetcher.get.side_effect = scraper.FetchFailure('brightdata_request_cap_reached')
+        found, reports, errors = scraper.discover(fetcher, ['patuljak'], 3, {}, 0)
+        self.assertEqual(errors, [])
+        self.assertEqual(reports[0]['stop_reason'], 'brightdata_request_cap_reached')
+
+    def test_unicode_paths_and_queries_are_encoded_without_double_escaping(self):
+        url = 'https://patuljak.me/oglas/kuća-žabljak--86004?grad=Žabljak&x=a%20b#photo'
+        encoded = transport_url(url)
+        self.assertTrue(encoded.isascii())
+        self.assertIn('ku%C4%87a-%C5%BEabljak', encoded)
+        self.assertIn('grad=%C5%BDabljak', encoded)
+        self.assertNotIn('%2520', encoded)
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = BODY
+        response.__enter__.return_value.geturl.return_value = encoded
+        with patch.object(scraper, 'urlopen', return_value=response) as send:
+            scraper.Fetcher('', 'zone', mode='direct').get(url)
+            self.assertTrue(send.call_args.args[0].full_url.isascii())
+
     def test_link_identity_deduplicates_and_rejects_other_hosts(self):
         body = b'<a href="/oglas/stan--123">a</a><a href="/oglas/stan--123?x=2">b</a><a href="https://evil.test/oglas/a--5">c</a>'
         self.assertEqual(scraper.listing_links(body, URL, 'patuljak'), {'patuljak_123': URL})

@@ -13,6 +13,18 @@ on:
         description: Maximum new listing captures
         default: '300'
         required: true
+      max_api_requests:
+        description: Bright Data page-request cap; reaching it defers work
+        default: '100'
+        required: true
+      scrape_runtime_seconds:
+        description: Listing processing time budget before export/checkpoint
+        default: '1200'
+        required: true
+      photo_runtime_seconds:
+        description: Photo processing time budget before publication/checkpoint
+        default: '2700'
+        required: true
       max_photo_properties:
         description: Maximum queued property galleries to process
         default: '300'
@@ -75,6 +87,8 @@ jobs:
           BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
           MAX_PAGES: ${{ inputs.max_pages || '10' }}
           MAX_LISTINGS: ${{ inputs.max_listings || '300' }}
+          MAX_API_REQUESTS: ${{ inputs.max_api_requests || '100' }}
+          SCRAPE_RUNTIME_SECONDS: ${{ inputs.scrape_runtime_seconds || '1200' }}
         shell: bash
         run: |
           set -euo pipefail
@@ -83,28 +97,29 @@ jobs:
             echo 'BRIGHTDATA_API_KEY is not configured; running direct HTTPS only.'
             scrape_mode=direct
           fi
-          python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" --max-api-requests 100
+          python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" \
+            --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS"
       - name: Queue photo inputs independently of listing export
         if: always() && steps.restore.outcome == 'success'
         run: python daily_scraper/photo_queue.py
       - name: Install local photo processing tools
-        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
           python -m pip install -r daily_scraper/photo-requirements.txt
           python -m pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
       - name: Cache pinned local LaMa model
-        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         uses: actions/cache@v4
         with:
           path: property_photo_pipeline/models
           key: local-lama-${{ hashFiles('property_photo_pipeline/lama_model.json') }}
       - name: Verify local LaMa model
-        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: python property_photo_pipeline/install_local_lama.py
       - name: Detect, clean, optimize and upload property photos
-        if: always() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         id: photos
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
@@ -115,12 +130,14 @@ jobs:
           MAX_PHOTO_PROPERTIES: ${{ inputs.max_photo_properties || '300' }}
           MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || '1500' }}
           MAX_CLEAN_IMAGES: ${{ inputs.max_clean_images || '300' }}
+          PHOTO_RUNTIME_SECONDS: ${{ inputs.photo_runtime_seconds || '2700' }}
           OMP_THREAD_LIMIT: '1'
           OPENBLAS_NUM_THREADS: '1'
         run: |
           env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/process_photos.py \
             --execute --upload --max-properties "$MAX_PHOTO_PROPERTIES" \
-            --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES"
+            --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES" \
+            --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS"
       - name: Save durable state
         if: always()
         shell: bash
@@ -174,8 +191,10 @@ jobs:
               d = json.loads(path.read_text())['summary']
               with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
                   f.write('Daily export: ' + d['status'] + '\n\n')
-                  for k in ('captured_listings', 'pending_backlog', 'errors', 'by_source', 'requests'):
-                      f.write(f'- {k}: {d[k]}\n')
+                  for k in ('captured_listings', 'pending_backlog', 'errors', 'warnings', 'deferred_by_request_limit', 'limits_reached', 'by_source', 'requests'):
+                      f.write(f'- {k}: {d.get(k)}\n')
+                  if d.get('warnings'):
+                      print('::warning::Some source listings need retry or are unavailable; see warnings.json and the run summary.')
                   f.write('\nDownload the property-export artifact below. Search coverage is bounded.\n')
           photos = Path('daily_scraper/photo_exports/summary.json')
           if photos.exists():

@@ -20,6 +20,7 @@ from urllib.request import Request, urlopen
 
 from lxml import html
 from brightdata_browser import BrowserAPI, BrowserFailure
+from url_utils import transport_url
 
 HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent))
@@ -30,6 +31,19 @@ UA = 'Mozilla/5.0 (compatible; GradenDailyCollector/1.0)'
 SOURCES = ('realitica', 'patuljak', 'estitor')
 ALLOWED_HOSTS = set(galleries.HOSTS) | {'www.patuljak.me', 'www.estitor.com'}
 MAX_BODY = 8_000_000
+LIMIT_CODES = {'brightdata_request_cap_reached', 'runtime_limit_reached'}
+FATAL_CODES = {'brightdata_key_missing', 'brightdata_http_401', 'brightdata_http_402', 'brightdata_http_403',
+               'browser_account_http_401', 'browser_account_http_403', 'browser_authentication_failed',
+               'configured_zone_is_not_browser_api', 'browser_zone_password_missing',
+               'browser_customer_id_missing', 'install_playwright_for_browser_api'}
+UNAVAILABLE_CODES = {'source_http_404', 'source_http_410', 'canonical_not_a_listing',
+                     'proxied_source_http_404', 'proxied_source_http_410',
+                     'browser_source_http_404', 'browser_source_http_410',
+                     'canonical_listing_mismatch', 'redirect_not_a_listing', 'redirect_listing_mismatch'}
+
+
+def fatal_issue(issue):
+    return issue['code'] in FATAL_CODES or issue['code'].startswith('parse_or_transport_')
 
 
 def now():
@@ -96,7 +110,7 @@ class Fetcher:
             return self.browser_get(url)
         if self.mode != 'always' and not force_api:
             try:
-                with urlopen(Request(url, headers={'User-Agent': UA}), timeout=30) as response:
+                with urlopen(Request(transport_url(url), headers={'User-Agent': UA}), timeout=30) as response:
                     body = response.read(MAX_BODY + 1)
                     final = response.geturl()
                 if len(body) > MAX_BODY:
@@ -122,7 +136,7 @@ class Fetcher:
             raise FetchFailure('brightdata_paused')
         if self.counts['brightdata_requests'] + self.counts['brightdata_browser_requests'] >= self.max_api:
             raise FetchFailure('brightdata_request_cap_reached')
-        payload = {'zone': self.zone, 'url': url, 'format': 'json', 'method': 'GET',
+        payload = {'zone': self.zone, 'url': transport_url(url), 'format': 'json', 'method': 'GET',
                    'headers': {'User-Agent': UA}}
         req = Request('https://api.brightdata.com/request', data=json.dumps(payload).encode(),
                       headers={'Authorization': 'Bearer ' + self.key, 'Content-Type': 'application/json'})
@@ -184,13 +198,16 @@ def search_url(source, value, page):
     return 'https://estitor.com/me/nekretnine/' + value + suffix + '?sort=latest'
 
 
-def discover(fetcher, sources, max_pages, known, overlap_pages):
+def discover(fetcher, sources, max_pages, known, overlap_pages, deadline=None):
     found, reports, errors = {}, [], []
     for source in sources:
         for label, value in searches(source):
             fingerprints, overlap, count = set(), 0, 0
             reason = 'page_cap_reached'
             for page in range(max_pages):
+                if deadline is not None and time.monotonic() >= deadline:
+                    reason = 'runtime_limit_reached'
+                    break
                 url = search_url(source, value, page)
                 try:
                     body, final, transport = fetcher.get(url)
@@ -212,6 +229,9 @@ def discover(fetcher, sources, max_pages, known, overlap_pages):
                         reason = 'known_overlap_reached'
                         break
                 except (FetchFailure, ValueError) as exc:
+                    if isinstance(exc, FetchFailure) and str(exc) in LIMIT_CODES:
+                        reason = str(exc)
+                        break
                     errors.append({'source': source, 'stage': 'discovery', 'search': label,
                                    'page': page, 'code': str(exc) if isinstance(exc, FetchFailure) else 'html_parse_failed'})
                     reason = 'error'
@@ -321,11 +341,12 @@ def csv_text(fields, records):
     return '\ufeff' + out.getvalue()
 
 
-def export_run(folder, records, errors, summary):
+def export_run(folder, records, errors, summary, warnings=()):
     folder.mkdir(parents=True, exist_ok=True)
     write_json(folder / 'listings.json', records)
     galleries.atomic(folder / 'listings.csv', csv_text(CSV_FIELDS, records))
     write_json(folder / 'errors.json', errors)
+    write_json(folder / 'warnings.json', list(warnings))
     write_json(folder / 'summary.json', summary)
     images = [dict(property_key=r['property_key'], listing_url=r['listing_url'], image_number=n, image_url=url)
               for r in records for n, url in enumerate(r['image_urls'], 1)]
@@ -356,6 +377,7 @@ def main(argv=None):
     p.add_argument('--browser-zone', default=os.getenv('BRIGHTDATA_BROWSER_ZONE', 'estitorscraper2'), help='Existing Browser API zone; use none to disable browser fallback')
     p.add_argument('--api-key-file', type=Path)
     p.add_argument('--max-api-requests', type=int, default=100)
+    p.add_argument('--max-runtime-seconds', type=int, default=1200, help='Gracefully export/checkpoint after this processing budget')
     p.add_argument('--max-pages', type=int, default=10, help='Per search; bounded coverage is reported explicitly')
     p.add_argument('--overlap-pages', type=int, default=3, help='Stop after this many fully known pages; 0 disables early stop')
     p.add_argument('--max-listings', type=int, default=300, help='New captures per run; excess discoveries remain pending')
@@ -366,7 +388,7 @@ def main(argv=None):
     p.add_argument('--discover-only', action='store_true')
     args = p.parse_args(argv)
     if not (1 <= args.max_pages <= 2000 and 1 <= args.max_listings <= 100000 and
-            0 <= args.max_api_requests <= 10000 and args.interval >= 0.5 and args.overlap_pages >= 0):
+            0 <= args.max_api_requests <= 10000 and args.interval >= 0.5 and args.overlap_pages >= 0 and args.max_runtime_seconds >= 1):
         p.error('Invalid limit; interval must be >= 0.5 seconds')
     args.state.parent.mkdir(parents=True, exist_ok=True)
     with (args.state.parent / 'scraper.lock').open('a') as lock:
@@ -390,7 +412,10 @@ def run(args):
     run_id = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H%M%S') + '-' + os.urandom(3).hex()
     run_folder = args.output / run_id
     records = []
-    found, reports, errors = discover(fetcher, args.sources, args.max_pages, state['listings'], args.overlap_pages)
+    deadline = time.monotonic() + args.max_runtime_seconds
+    found, reports, issues = discover(fetcher, args.sources, args.max_pages, state['listings'], args.overlap_pages, deadline)
+    errors = [r for r in issues if fatal_issue(r)]
+    warnings = [r for r in issues if not fatal_issue(r)]
     for k, url in found.items():
         if k not in state['listings']:
             state['listings'][k] = {'url': url, 'first_seen_at': started, 'status': 'pending', 'attempts': 0}
@@ -415,9 +440,19 @@ def run(args):
             if queues[source]:
                 ordered.append(queues[source].pop(0))
     attempted = 0
-    for k, item in ([] if args.discover_only else ordered[:max(0, args.max_listings - len(records))]):
+    deferred, capped_sources = set(), set()
+    runtime_limited = any(r['stop_reason'] == 'runtime_limit_reached' for r in reports)
+    recovered_count = len(records)
+    for k, item in ([] if args.discover_only else ordered):
+        if attempted >= max(0, args.max_listings - recovered_count):
+            break
+        if time.monotonic() >= deadline:
+            runtime_limited = True
+            break
         source, ident = k.split('_', 1)
-        attempted += 1
+        if source in capped_sources:
+            deferred.add(k)
+            continue
         try:
             body, final, transport = fetcher.get(item['url'])
             try:
@@ -435,28 +470,44 @@ def run(args):
             record.update(first_seen_at=item['first_seen_at'], transport=transport)
             records.append(record)
             item.update(status='captured_unexported', pending_record=record, captured_at=now())
+            item.pop('last_error_code', None)
+            item.pop('last_deferred_reason', None)
         except Exception as exc:
             code = str(exc) if isinstance(exc, FetchFailure) else 'parse_or_transport_' + type(exc).__name__
-            terminal = code in ('source_http_404', 'source_http_410', 'canonical_not_a_listing',
-                                'proxied_source_http_404', 'proxied_source_http_410',
-                                'browser_source_http_404', 'browser_source_http_410',
-                                'canonical_listing_mismatch', 'redirect_not_a_listing', 'redirect_listing_mismatch')
+            if code == 'brightdata_request_cap_reached':
+                deferred.add(k)
+                capped_sources.add(source)
+                item['last_deferred_reason'] = code
+                continue
+            terminal = code in UNAVAILABLE_CODES
             item.update(status='unavailable' if terminal else 'retry', last_error_code=code)
-            errors.append({'source': source, 'stage': 'listing', 'property_key': k, 'code': code})
+            issue = {'source': source, 'stage': 'listing', 'property_key': k, 'code': code}
+            (errors if fatal_issue(issue) else warnings).append(issue)
+        attempted += 1
         item['attempts'] = item.get('attempts', 0) + 1
         write_json(args.state, state)
         if attempted % 20 == 0:
             print(json.dumps({'attempted': attempted, 'captured': len(records)}), flush=True)
     backlog = sum(v['status'] in ('pending', 'retry') for v in state['listings'].values())
+    if warnings and not records and not found and not any(r['pages_scanned'] for r in reports):
+        errors.append({'stage': 'run', 'code': 'no_sources_reachable'})
+    if not errors and attempted and not records and any(r['code'] not in UNAVAILABLE_CODES for r in warnings):
+        errors.append({'stage': 'run', 'code': 'no_listings_captured'})
+    limits = []
+    if deferred or any(r['stop_reason'] == 'brightdata_request_cap_reached' for r in reports):
+        limits.append('brightdata_request_cap_reached')
+    if runtime_limited:
+        limits.append('runtime_limit_reached')
     summary = {'schema_version': 1, 'run_id': run_id, 'started_at': started, 'finished_at': now(),
                'discovered_ids': len(found), 'captured_listings': len(records), 'attempted_listings': attempted,
                'by_source': dict(Counter(r['source'] for r in records)), 'pending_backlog': backlog,
-               'errors': len(errors), 'requests': dict(fetcher.counts), 'discovery': reports,
+               'errors': len(errors), 'warnings': len(warnings), 'deferred_by_request_limit': len(deferred),
+               'limits_reached': limits, 'requests': dict(fetcher.counts), 'discovery': reports,
                'coverage': 'bounded_scan; increase max-pages for deeper coverage',
                'photo_delivery': 'source_urls_only; optimization_and_R2_photo_upload_are_separate',
                'watermark_check': 'one_representative_image_queued_per_property; not_analyzed',
-               'status': 'completed_with_errors' if errors else 'completed_with_backlog' if backlog else 'completed'}
-    archive = export_run(run_folder, records, errors, summary)
+               'status': 'completed_with_errors' if errors else 'completed_with_warnings' if warnings else 'completed_with_limits' if limits else 'completed_with_backlog' if backlog else 'completed'}
+    archive = export_run(run_folder, records, errors, summary, warnings)
     for record in records:
         item = state['listings'][record['property_key']]
         item.update(status='exported', exported_run_id=run_id)

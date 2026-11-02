@@ -72,6 +72,7 @@ class Detector:
     def analyze(self, data):
         self.calls += 1
         return {'result': self.result, 'reason': 'fixture', 'score': 1, 'box': [1, 2, 3, 4], 'hits': []}
+    def for_removal(self, data): return self.analyze(data)
 
 
 class PhotoTests(unittest.TestCase):
@@ -291,6 +292,35 @@ class PhotoTests(unittest.TestCase):
             self.assertEqual(get.call_count, 1)
             self.assertEqual(get.call_args.args[0], BASE + '/source.webp')
         self.assertEqual(prop['phase'], 'complete')
+
+    def test_removal_ocr_only_runs_for_weak_but_plausible_geometry(self):
+        detector = p.Detector()
+        for score, expected_calls in ((.4, 0), (.9, 0), (.75, 1)):
+            with patch.object(p, 'match_image', return_value=(score, [1, 2, 3, 4], 1)), \
+                 patch.object(p, 'ocr', return_value=[]) as ocr:
+                detector.for_removal(image_bytes())
+                self.assertEqual(ocr.call_count, expected_calls)
+        with patch.object(p, 'match_image', return_value=(.9, [1, 2, 3, 4], 1)), patch.object(p, 'ocr', return_value=[]) as ocr:
+            detector.analyze(image_bytes())  # Property sample retains full OCR.
+            self.assertEqual(ocr.call_count, 1)
+
+    def test_photo_runtime_budget_preserves_queue_without_fetches_or_edits(self):
+        worker = self.worker()
+        worker.deadline = 0
+        prop = worker.state['properties']['patuljak_123']
+        with patch.object(worker.downloader, 'get') as get:
+            worker.process(prop)
+            get.assert_not_called()
+        self.assertEqual(prop['phase'], 'pending')
+        self.assertEqual(worker.counts['runtime_limit_reached'], 1)
+
+    def test_image_browser_connection_timeout_has_one_bounded_retry(self):
+        downloader = p.Downloader(self.root / 'cache', 'cdn.example.com', key='test-key')
+        data = image_bytes()
+        with patch.object(downloader.browser, 'get_image', side_effect=[p.BrowserFailure('browser_connect_timeout'), (data, self.urls[0], 'browser')]), \
+             patch.object(p.time, 'sleep'):
+            self.assertEqual(downloader.browser_image(self.urls[0]), data)
+        self.assertEqual(downloader.api_requests, 2)
 
     def test_broken_cover_falls_back_to_one_available_gallery_photo(self):
         w = self.worker()

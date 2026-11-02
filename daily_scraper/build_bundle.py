@@ -9,6 +9,7 @@ OUTPUT = HERE / 'dist/graden_daily_scraper.zip'
 FILES = {
     HERE / 'daily_scraper.py': 'daily_scraper.py',
     HERE / 'brightdata_browser.py': 'brightdata_browser.py',
+    HERE / 'url_utils.py': 'url_utils.py',
     HERE / 'process_photos.py': 'process_photos.py',
     HERE / 'photo_catalog.py': 'photo_catalog.py',
     HERE / 'photo_queue.py': 'photo_queue.py',
