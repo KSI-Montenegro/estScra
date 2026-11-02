@@ -101928,93 +101928,115 @@
       ],
       "input_signature": "3a87033c46b3660425e135b58eb89448f7aa3424a2bdb3356c5f7452eedebe21",
       "origin": "daily",
-      "phase": "pending",
+      "phase": "needs_review",
       "images": {
         "1": {
-          "image_number": 1,
-          "original_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185331_samsung-internet.jpg",
-          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/001-8525b830622455676a985b6c1e6b6bcfdce78ebd6db4392ee71d2cc705eed8f9.webp",
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/001-8525b830622455676a985b6c1e6b6bcfdce78ebd6db4392ee71d2cc705eed8f9.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
-          "source_sha256": "1764a227b3734d21989dd2b1b22d5c69528478974e3ae030aa36eee9c857b00f",
-          "optimized_sha256": "8525b830622455676a985b6c1e6b6bcfdce78ebd6db4392ee71d2cc705eed8f9",
           "bytes": 102000,
+          "cleaned_url": null,
           "dimensions": [
             840,
             994
           ],
+          "error_code": "unsupported_or_uncertain_mask",
+          "image_number": 1,
+          "optimized_sha256": "8525b830622455676a985b6c1e6b6bcfdce78ebd6db4392ee71d2cc705eed8f9",
           "original_dimensions": [
             840,
             994
           ],
-          "quality": 95,
-          "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "needs_cleanup",
+          "original_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185331_samsung-internet.jpg",
           "pipeline_status": "needs_cleanup",
+          "quality": 95,
+          "ready_for_listing": false,
           "sample_only": true,
+          "selected_version": "source",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/001-8525b830622455676a985b6c1e6b6bcfdce78ebd6db4392ee71d2cc705eed8f9.webp",
+          "source_sha256": "1764a227b3734d21989dd2b1b22d5c69528478974e3ae030aa36eee9c857b00f",
           "upload_confirmed": true,
-          "error_code": "unsupported_or_uncertain_mask"
+          "watermark_candidate": true,
+          "watermark_status": "needs_cleanup",
+          "reused_existing": true
         },
         "2": {
-          "image_number": 2,
-          "original_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185319_samsung-internet.jpg",
-          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/002-cc4f80e886a081a56403112db4ee48c6f676daa26e9b3e99ededad50743c86fd.webp",
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/002-cc4f80e886a081a56403112db4ee48c6f676daa26e9b3e99ededad50743c86fd.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
-          "source_sha256": "d33cfa875f067d200b7fb921b133762de33a34f5318a836039aa627395ae8474",
-          "optimized_sha256": "cc4f80e886a081a56403112db4ee48c6f676daa26e9b3e99ededad50743c86fd",
           "bytes": 126098,
+          "cleaned_url": null,
           "dimensions": [
             1080,
             992
           ],
+          "error_code": "unsupported_or_uncertain_mask",
+          "image_number": 2,
+          "optimized_sha256": "cc4f80e886a081a56403112db4ee48c6f676daa26e9b3e99ededad50743c86fd",
           "original_dimensions": [
             1080,
             992
           ],
-          "quality": 95,
-          "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "needs_cleanup",
+          "original_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185319_samsung-internet.jpg",
           "pipeline_status": "needs_cleanup",
+          "quality": 95,
+          "ready_for_listing": false,
           "sample_only": true,
+          "selected_version": "source",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/002-cc4f80e886a081a56403112db4ee48c6f676daa26e9b3e99ededad50743c86fd.webp",
+          "source_sha256": "d33cfa875f067d200b7fb921b133762de33a34f5318a836039aa627395ae8474",
           "upload_confirmed": true,
-          "error_code": "unsupported_or_uncertain_mask"
+          "watermark_candidate": true,
+          "watermark_status": "needs_cleanup",
+          "reused_existing": true
         },
         "3": {
           "image_number": 3,
           "original_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185255_samsung-internet.jpg",
-          "pipeline_status": "retry",
-          "error_code": "image_browser_connect_timeout",
-          "ready_for_listing": false
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/003-b4ca34a822094c18d9d054fe7293866b758b447b4558f6b1c7c49e1b406ddea1.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/realitica/3956369/source/003-b4ca34a822094c18d9d054fe7293866b758b447b4558f6b1c7c49e1b406ddea1.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "48be3d3264a7d4da6de3691cc266f98d78831929aaa6a368d593f09a492d88aa",
+          "optimized_sha256": "b4ca34a822094c18d9d054fe7293866b758b447b4558f6b1c7c49e1b406ddea1",
+          "bytes": 110516,
+          "dimensions": [
+            840,
+            820
+          ],
+          "original_dimensions": [
+            840,
+            820
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
         }
       },
       "failures": {
         "3": 1
       },
       "sample": {
-        "result": "needs_review",
-        "reason": "unclassified_text",
-        "score": 0.3802032768726349,
         "box": [
           757,
           686,
           795,
           732
         ],
-        "hits": [],
-        "width": 840,
         "height": 994,
-        "other_text_detected": true,
+        "hits": [],
         "image_number": 1,
-        "sampled_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185331_samsung-internet.jpg",
-        "source_sha256": "1764a227b3734d21989dd2b1b22d5c69528478974e3ae030aa36eee9c857b00f",
-        "images_sampled": 1,
         "images_attempted": 1,
-        "meaning": "One source image checked; remaining images are not individually certified."
+        "images_sampled": 1,
+        "meaning": "One source image checked; remaining images are not individually certified.",
+        "other_text_detected": true,
+        "reason": "unclassified_text",
+        "result": "needs_review",
+        "sampled_url": "https://www.realitica.com/images/listing_photos/3956369_screenshot_20261031_185331_samsung-internet.jpg",
+        "score": 0.3802032768726349,
+        "source_sha256": "1764a227b3734d21989dd2b1b22d5c69528478974e3ae030aa36eee9c857b00f",
+        "width": 840
       }
     },
     "patuljak_86010": {
