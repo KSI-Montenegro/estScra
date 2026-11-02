@@ -1,0 +1,58 @@
+{
+  "failed_run": {
+    "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41487765606",
+    "commit": "52d1b5e",
+    "failed_step": "Discover and export",
+    "listing_exports": 147,
+    "reported_listing_errors": 153,
+    "request_limit_misclassified_as_errors": 145,
+    "unicode_url_encoding_errors": 3,
+    "expired_or_redirected_listings": 4,
+    "unresolved_source_challenges": 1,
+    "brightdata_page_requests": 100,
+    "photo_stage_succeeded": true,
+    "photo_images_processed": 1500,
+    "photo_images_cleaned_and_uploaded": 300,
+    "photo_stage_elapsed_minutes_approx": 82,
+    "listing_and_photo_checkpoints_saved": true
+  },
+  "fix_commit": "b13fedf",
+  "changes": [
+    "Defer request-limited listings without recording failures or incrementing attempts; retain the existing default 100-call page cap.",
+    "Encode Unicode URLs for HTTP transport while preserving original URLs in exports.",
+    "Separate recoverable warnings from fatal errors; authentication, unexpected code errors and a complete capture outage still fail.",
+    "Checkpoint and publish at cooperative processing budgets: 1200 seconds for listings and 2700 seconds for photos.",
+    "Avoid redundant full OCR during removal-mask selection; retain full property-sample OCR and post-edit residual checks.",
+    "Allow one bounded retry for transient image-browser connection failures."
+  ],
+  "verification": {
+    "daily_scraper_tests_passed": 52,
+    "legacy_photo_pipeline_tests_passed": 40,
+    "workflow_yaml_and_shell_syntax": "passed",
+    "unicode_url_live_check": {
+      "method": "Direct requests from the local environment with encoded transport URLs; no paid proxy calls.",
+      "patuljak_86004": 200,
+      "patuljak_86003": 200,
+      "patuljak_86002": 200
+    },
+    "github_regression": {
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41515726852",
+      "conclusion": "success",
+      "purpose": "Exercise request-cap deferral and checkpoint/publication with a deliberately small run, not a full daily batch.",
+      "page_request_cap": 3,
+      "page_requests_used": 3,
+      "listing_captures": 0,
+      "listing_errors": 0,
+      "listing_status": "completed_with_limits",
+      "listings_deferred_by_request_limit": 1593,
+      "photo_images_processed": 1,
+      "photo_cleanup_limit": 0,
+      "r2_delivery": "uploaded_to_r2",
+      "listing_and_photo_checkpoints_saved": true
+    },
+    "limitations": [
+      "The full daily production batch was not rerun after the fix; the scheduled workflow will use the new defaults.",
+      "Processing deadlines are cooperative and allow in-flight requests, image processing and final checkpoint/publication to finish."
+    ]
+  }
+}

@@ -54,6 +54,14 @@ at least 0.7 seconds between request starts per host. HTTP 429 pauses that sourc
 The API-request cap limits call count, not monetary spend; pricing belongs to Bright Data.
 `--mode direct` never uses the paid fallback. TLS verification always stays enabled.
 
+Reaching the request cap defers protected sources without incrementing failed-attempt counters;
+directly accessible sources can continue. The default listing processing budget is 1,200 seconds
+(`--max-runtime-seconds`). At a time/request limit the script exports completed work and keeps
+the rest queued. Limits are reported in `summary.json`, not as fatal errors. Expected expired
+ads and recoverable source challenges appear in `warnings.json`. Authentication/configuration
+errors, unexpected code exceptions and a complete capture outage still fail the workflow.
+Source URLs retain their original Unicode in exports; HTTP requests use percent-encoded URLs.
+
 Live validation on 2026-11-01: direct discovery and captures worked on all three sources.
 The existing datacenter Bright Data zone accepted API requests but returned proxied target
 HTTP 403 for the tested Estitor and Realitica search pages. Its fallback transport is implemented,
@@ -91,6 +99,7 @@ Every completed run writes a dated ZIP under `exports/` (repository: `daily_scra
 - `watermark_samples.csv`: one representative untouched photo per new listing, queued for visual checking.
 - `summary.json`: counts, discovery coverage, request usage and backlog.
 - `errors.json`: safe error codes; failed listings remain queued for a future run.
+- `warnings.json`: recoverable source problems and unavailable ads; see summary limits for deferred work.
 
 The workflow now continues into photo processing. See [DAILY_PHOTOS.md](DAILY_PHOTOS.md) for
 the complete sampling, local removal, optimization, R2 upload and queue behavior. Platform

@@ -89,6 +89,14 @@ limits, not monetary budgets. Run-workflow inputs can reduce photo limits for tr
 guard is 8 GB, below the owner's 10 GB storage allowance; a budget failure stops further publication.
 Queued galleries resume on later runs. Uncertain/unsupported images remain visible in exception reports.
 
+Photo processing has a 2,700-second (45-minute) cooperative budget by default. It finishes the
+current image, publishes/checkpoints completed work and leaves remaining images queued. This
+is separate from the listing stage's 1,200-second budget and leaves room before the 110-minute
+runner deadline. Manual workflow inputs expose both budgets. During flagged-gallery processing,
+full OCR is used only for weak but plausible logo geometry; strong approved geometry and images
+that cannot meet the mask threshold avoid redundant OCR. Property samples and post-edit residual
+OCR checks are retained. A temporary browser connection timeout has one bounded image retry.
+
 ## Local run from the repository root
 
 ```bash
