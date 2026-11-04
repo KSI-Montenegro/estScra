@@ -5731,7 +5731,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -5769,8 +5771,10 @@
       "parking_raw": "Garaža",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38267231153"
+      ],
+      "phone_e164": "+38267231153",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -5780,9 +5784,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.230056+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267231153",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649607"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:11.042347+00:00",
       "phone_error_code": null
     },
     "realitica_3956283": {
@@ -6018,7 +6028,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -6064,8 +6076,10 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -6075,9 +6089,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.248601+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649600"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:14.071561+00:00",
       "phone_error_code": null
     },
     "realitica_3956282": {
@@ -6494,7 +6514,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -6540,8 +6562,10 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -6551,9 +6575,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.267407+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649598"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:17.001148+00:00",
       "phone_error_code": null
     },
     "realitica_3956279": {
@@ -6785,7 +6815,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -6831,8 +6863,10 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -6842,9 +6876,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.286078+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649597"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:20.131760+00:00",
       "phone_error_code": null
     },
     "realitica_3956276": {
@@ -7035,7 +7075,9 @@
       "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649596",
       "field_sources": {
         "title": "page:h1",
-        "description_language": "page:language"
+        "description_language": "page:language",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {},
       "quality_flags": [],
@@ -7050,8 +7092,10 @@
       "amenities": [],
       "deal_type": null,
       "property_type": null,
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
       "missing_core_fields": [
         "description_original",
         "city",
@@ -7068,9 +7112,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.304370+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649596"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:23.164958+00:00",
       "phone_error_code": null
     },
     "realitica_3956275": {
@@ -7294,7 +7344,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -7340,8 +7392,10 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -7351,9 +7405,15 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api",
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": "2026-11-04T08:15:01.322730+00:00",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649595"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:26.280813+00:00",
       "phone_error_code": null
     },
     "realitica_3956273": {
@@ -15368,7 +15428,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -15425,11 +15487,19 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268062061"
+      ],
+      "phone_e164": "+38268062061",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649599"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:29.590690+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -15614,7 +15684,9 @@
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
         "year_built": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -15689,11 +15761,19 @@
         "Hodnik",
         "Novogradnja"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268462678"
+      ],
+      "phone_e164": "+38268462678",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268462678",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649592"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:32.540648+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -15874,7 +15954,9 @@
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
         "year_built": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -15955,11 +16037,19 @@
         "Trpezarija",
         "Novogradnja"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268462678"
+      ],
+      "phone_e164": "+38268462678",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268462678",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649591"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:36.086298+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -16378,7 +16468,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -16431,11 +16523,19 @@
         "Klimatizacija",
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268156405"
+      ],
+      "phone_e164": "+38268156405",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649583"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-04T22:09:40.013098+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -16745,7 +16845,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -17014,7 +17114,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -17338,7 +17438,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -17649,7 +17749,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -17954,7 +18054,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -18231,7 +18331,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -18506,7 +18606,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -18803,7 +18903,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -19116,7 +19216,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -19747,7 +19847,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -20036,7 +20136,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -20356,7 +20456,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -20888,7 +20988,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -21088,7 +21188,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -21411,7 +21511,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -37987,9 +38087,15 @@
       "checked_at": "2026-11-04T08:06:28.547633+00:00"
     },
     "estitor_649607": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.230056+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267231153",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649607"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:11.042347+00:00"
     },
     "realitica_3956283": {
       "status": "multiple_numbers",
@@ -38024,9 +38130,15 @@
       "checked_at": "2026-11-04T08:06:28.591460+00:00"
     },
     "estitor_649600": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.248601+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649600"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:14.071561+00:00"
     },
     "realitica_3956282": {
       "status": "found",
@@ -38083,9 +38195,15 @@
       "checked_at": "2026-11-04T08:06:29.938386+00:00"
     },
     "estitor_649598": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.267407+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649598"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:17.001148+00:00"
     },
     "realitica_3956279": {
       "status": "multiple_numbers",
@@ -38120,9 +38238,15 @@
       "checked_at": "2026-11-04T08:06:29.998606+00:00"
     },
     "estitor_649597": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.286078+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649597"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:20.131760+00:00"
     },
     "realitica_3956276": {
       "status": "found",
@@ -38152,9 +38276,15 @@
       "checked_at": "2026-11-04T08:06:30.670215+00:00"
     },
     "estitor_649596": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.304370+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649596"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:23.164958+00:00"
     },
     "realitica_3956275": {
       "status": "found",
@@ -38184,9 +38314,15 @@
       "checked_at": "2026-11-04T08:06:31.379833+00:00"
     },
     "estitor_649595": {
-      "status": "quota_deferred",
-      "candidates": [],
-      "checked_at": "2026-11-04T08:15:01.322730+00:00"
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649595"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:26.280813+00:00"
     },
     "realitica_3956273": {
       "status": "found",
@@ -40830,8 +40966,15 @@
       "checked_at": "2026-11-04T15:49:16.593782+00:00"
     },
     "estitor_649599": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268062061",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649599"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:29.590690+00:00"
     },
     "realitica_3956267": {
       "status": "multiple_numbers",
@@ -40880,8 +41023,15 @@
       "checked_at": "2026-11-04T15:49:16.626349+00:00"
     },
     "estitor_649592": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268462678",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649592"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:32.540648+00:00"
     },
     "realitica_3956266": {
       "status": "multiple_numbers",
@@ -40930,8 +41080,15 @@
       "checked_at": "2026-11-04T15:49:16.658221+00:00"
     },
     "estitor_649591": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268462678",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649591"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:36.086298+00:00"
     },
     "realitica_3956265": {
       "status": "multiple_numbers",
@@ -40997,8 +41154,15 @@
       "checked_at": "2026-11-04T15:49:16.753290+00:00"
     },
     "estitor_649583": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649583"
+        }
+      ],
+      "checked_at": "2026-11-04T22:09:40.013098+00:00"
     },
     "realitica_3956261": {
       "status": "multiple_numbers",
@@ -41063,7 +41227,7 @@
       "checked_at": "2026-11-04T15:49:16.817184+00:00"
     },
     "estitor_649550": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956257": {
@@ -41094,7 +41258,7 @@
       "checked_at": "2026-11-04T15:49:16.883159+00:00"
     },
     "estitor_649548": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956256": {
@@ -41160,7 +41324,7 @@
       "checked_at": "2026-11-04T15:49:16.945799+00:00"
     },
     "estitor_649471": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956252": {
@@ -41226,7 +41390,7 @@
       "checked_at": "2026-11-04T15:49:17.009826+00:00"
     },
     "estitor_649470": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956250": {
@@ -41292,7 +41456,7 @@
       "checked_at": "2026-11-04T15:49:17.073803+00:00"
     },
     "estitor_649466": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956247": {
@@ -41323,7 +41487,7 @@
       "checked_at": "2026-11-04T15:49:17.137484+00:00"
     },
     "estitor_649465": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956242": {
@@ -41354,7 +41518,7 @@
       "checked_at": "2026-11-04T15:49:17.200367+00:00"
     },
     "estitor_649463": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956239": {
@@ -41385,7 +41549,7 @@
       "checked_at": "2026-11-04T15:49:17.264497+00:00"
     },
     "estitor_649437": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956238": {
@@ -41416,7 +41580,7 @@
       "checked_at": "2026-11-04T15:49:17.328315+00:00"
     },
     "estitor_649435": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956213": {
@@ -41495,7 +41659,7 @@
       "checked_at": "2026-11-04T15:49:17.489620+00:00"
     },
     "estitor_649431": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956210": {
@@ -41531,7 +41695,7 @@
       "checked_at": "2026-11-04T15:49:17.552787+00:00"
     },
     "estitor_649430": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956209": {
@@ -41567,7 +41731,7 @@
       "checked_at": "2026-11-04T15:49:17.617132+00:00"
     },
     "estitor_649343": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956208": {
@@ -41635,7 +41799,7 @@
       "checked_at": "2026-11-04T15:49:17.746769+00:00"
     },
     "estitor_649334": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "patuljak_85822": {
@@ -41655,7 +41819,7 @@
       "checked_at": "2026-11-04T15:49:17.778697+00:00"
     },
     "estitor_649333": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3956114": {
@@ -41686,7 +41850,7 @@
       "checked_at": "2026-11-04T15:49:17.842833+00:00"
     },
     "estitor_649331": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "patuljak_85820": {
@@ -42841,13 +43005,15 @@
     }
   },
   "estitor_gate": {
-    "remaining_hour": 0,
-    "remaining_day": 5,
-    "last_request_at": 1793807356.143412,
+    "remaining_hour": 1,
+    "remaining_day": 6,
+    "last_request_at": 1793830178.328048,
     "resume_not_before": 1793810956.5607088
   },
-  "updated_at": "2026-11-04T15:49:38.179571+00:00",
+  "updated_at": "2026-11-04T22:09:40.048325+00:00",
   "last_run_counts": {
-    "quota_or_reveal_limit_deferred": 25
+    "listings_checked": 10,
+    "reveal_requests": 10,
+    "quota_or_reveal_limit_deferred": 15
   }
 }
