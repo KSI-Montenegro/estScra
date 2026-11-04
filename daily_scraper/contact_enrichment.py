@@ -244,8 +244,16 @@ def collect(state, state_path, fetcher, reveal, cache, max_listings=300, max_rev
             break
         if previous.get('retry_after', 0) > time.time():
             continue
-        counts['listings_checked'] += 1
         candidates = page_contacts(html.fromstring('<html/>'), row)
+        if row['source'] == 'estitor' and not candidates and (
+                gate.get('resume_not_before', 0) > time.time() or counts['reveal_requests'] >= max_reveals):
+            status = 'quota_deferred' if gate.get('resume_not_before', 0) > time.time() else 'pending'
+            result = {**previous, 'status': status, 'candidates': []}
+            state['results'][key] = result
+            state['records'][key] = apply_result(row, result)
+            counts['quota_or_reveal_limit_deferred'] += 1
+            continue
+        counts['listings_checked'] += 1
         result = result_from_candidates(candidates)
         if not candidates:
             try:
@@ -324,7 +332,8 @@ def collect(state, state_path, fetcher, reveal, cache, max_listings=300, max_rev
         save(state_path, state)
         if counts['listings_checked'] % 20 == 0:
             print(json.dumps({'event': 'contacts_checked', **counts}), flush=True)
-    state['updated_at'] = now()
+    if counts['listings_checked'] or not state.get('updated_at'):
+        state['updated_at'] = now()
     state['last_run_counts'] = dict(counts)
     save(state_path, state)
     return counts
@@ -388,7 +397,9 @@ def publish(state, store, output):
         (output / name).write_bytes(body)
     with zipfile.ZipFile(output / 'listings-with-contacts.zip', 'w', zipfile.ZIP_DEFLATED) as archive:
         for name, body in assets.items():
-            archive.writestr(name, body)
+            info = zipfile.ZipInfo(name, date_time=(1980, 1, 1, 0, 0, 0))
+            info.compress_type = zipfile.ZIP_DEFLATED
+            archive.writestr(info, body)
     assets['listings-with-contacts.zip'] = (output / 'listings-with-contacts.zip').read_bytes()
     version = sha(encode({k: sha(v) for k, v in assets.items()}))[:24]
     urls = {name: store.put(PREFIX + '/' + version + '/' + name, body,

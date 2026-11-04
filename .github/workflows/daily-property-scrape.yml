@@ -3,6 +3,7 @@ name: Daily property export
 on:
   schedule:
     - cron: '17 7 * * *'
+    - cron: '37 * * * *'
   workflow_dispatch:
     inputs:
       max_pages:
@@ -93,7 +94,7 @@ jobs:
           fi
       - name: Discover and export
         id: scrape
-        if: inputs.contacts_only != true
+        if: inputs.contacts_only != true && github.event.schedule != '37 * * * *'
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -123,26 +124,26 @@ jobs:
           MAX_PHONE_LISTINGS: ${{ inputs.max_phone_listings || '300' }}
         run: python daily_scraper/contact_enrichment.py --collect --max-listings "$MAX_PHONE_LISTINGS"
       - name: Queue photo inputs independently of listing export
-        if: always() && inputs.contacts_only != true && steps.restore.outcome == 'success'
+        if: always() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success'
         run: python daily_scraper/photo_queue.py
       - name: Install local photo processing tools
-        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
           python -m pip install -r daily_scraper/photo-requirements.txt
           python -m pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
       - name: Cache pinned local LaMa model
-        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         uses: actions/cache@v4
         with:
           path: property_photo_pipeline/models
           key: local-lama-${{ hashFiles('property_photo_pipeline/lama_model.json') }}
       - name: Verify local LaMa model
-        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: python property_photo_pipeline/install_local_lama.py
       - name: Detect, clean, optimize and upload property photos
-        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         id: photos
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}

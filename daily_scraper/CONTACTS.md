@@ -57,7 +57,11 @@ prevent overlapping state writes. Source statuses and individual failures remain
 
 Manual Run workflow has a contacts_only option to update pending contacts and publish feeds
 without new listing discovery, model installation or photo editing. max_phone_listings sets the
-pending-listing cap. The normal daily schedule includes contacts automatically.
+pending-listing cap. The normal daily schedule includes contacts automatically. A lightweight
+contacts-only run also executes hourly at minute 37 to resume queued lookups after cooldowns;
+it skips listing discovery, model installation and all image processing. Deferred lookups
+do not consume the actual-listing check limit or displace another source's accessible ads.
+Unchanged contact exports use deterministic ZIPs so idle retries reuse immutable assets.
 
 Local collection: python daily_scraper/contact_enrichment.py --collect
 

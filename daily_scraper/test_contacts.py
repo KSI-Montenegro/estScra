@@ -159,6 +159,18 @@ class ContactTests(unittest.TestCase):
             reveal.reveal.assert_not_called()
             self.assertEqual(state['records']['patuljak_123']['phone_e164'], '+38269123456')
 
+    def test_quota_deferred_ads_do_not_starve_an_accessible_source(self):
+        with tempfile.TemporaryDirectory() as directory:
+            state = self.state(record(ident='123'), record(ident='124'),
+                               record('patuljak', description='Pozovi 069123456'))
+            state['estitor_gate']['resume_not_before'] = c.time.time() + 3600
+            fetcher, reveal = self.worker(state, Path(directory), max_listings=1)
+            self.assertEqual(state['records']['patuljak_123']['phone_e164'], '+38269123456')
+            self.assertEqual(state['last_run_counts']['listings_checked'], 1)
+            self.assertEqual(state['last_run_counts']['quota_or_reveal_limit_deferred'], 2)
+            reveal.reveal.assert_not_called()
+            fetcher.get.assert_not_called()
+
     def test_time_budget_leaves_records_pending_without_network_calls(self):
         with tempfile.TemporaryDirectory() as directory:
             state = self.state(record())
@@ -210,6 +222,11 @@ class ContactTests(unittest.TestCase):
             self.assertEqual(row['image_urls'], ['https://cdn.example.com/ready.webp'])
             self.assertEqual(row['source_image_urls'], record()['image_urls'])
             self.assertIn(c.PREFIX + '/latest.json', client.objects)
+            first_zip = (Path(directory) / 'listings-with-contacts.zip').read_bytes()
+            with patch.object(store, 'snapshot', return_value=({'properties': {'estitor_123': prop}}, 'etag')):
+                repeated = c.publish(state, store, directory)
+            self.assertEqual(repeated['assets'], result['assets'])
+            self.assertEqual((Path(directory) / 'listings-with-contacts.zip').read_bytes(), first_zip)
 
     def test_remote_daily_refresh_preserves_image_selection_and_other_asset_urls(self):
         from test_photos import MemoryS3
