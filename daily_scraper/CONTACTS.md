@@ -15,6 +15,8 @@ daily captures. It does not replace the separate original 1,797-property import 
 listing_details/. Upsert by property_key. The existing latest daily photo feed is also refreshed
 with contact updates; historical immutable reports and old GitHub artifacts are retained as captured.
 The cumulative feed joins the current photo catalog, selecting only ready_for_listing images.
+contact_backfill.json is the original recovery input; use the public index for current contacts.
+See contact_pipeline_validation.json for the verified backfill counts and live workflow runs.
 
 ## Collection
 

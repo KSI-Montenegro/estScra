@@ -24,6 +24,7 @@ FILES = {
     HERE / 'README.md': 'README.md',
     HERE / 'DAILY_PHOTOS.md': 'DAILY_PHOTOS.md',
     HERE / 'CONTACTS.md': 'CONTACTS.md',
+    HERE / 'contact_pipeline_validation.json': 'contact_pipeline_validation.json',
     HERE / 'photo_pipeline_validation.json': 'photo_pipeline_validation.json',
     HERE / 'test_daily_scraper.py': 'test_daily_scraper.py',
     ROOT / 'collect_images.py': 'collect_images.py',

@@ -1,0 +1,66 @@
+{
+  "verified_at_utc": "2026-11-04",
+  "before": {
+    "listings": 164,
+    "with_phone": 0
+  },
+  "after": {
+    "listings": 164,
+    "with_phone": 107,
+    "with_single_phone": 89,
+    "with_multiple_phones": 18,
+    "by_source_with_phone": {
+      "estitor": 10,
+      "patuljak": 69,
+      "realitica": 28
+    },
+    "by_status": {
+      "found": 89,
+      "login_required": 38,
+      "multiple_numbers": 18,
+      "quota_deferred": 14,
+      "unavailable": 5
+    }
+  },
+  "public_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/latest.json",
+  "assets": {
+    "contact_queue.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/contact_queue.csv",
+    "listings-with-contacts.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/listings-with-contacts.zip",
+    "listings.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/listings.csv",
+    "listings.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/listings.json",
+    "phone_updates.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/phone_updates.json",
+    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/82f6238cef1eb412620fe826/summary.json"
+  },
+  "checks": {
+    "daily_scraper_unit_tests_passed": 74,
+    "workflow_yaml_and_shell_syntax": "passed",
+    "normal_daily_and_hourly_contact_routes": "verified",
+    "public_json_csv_zip_downloads": "passed",
+    "full_photo_catalog_unchanged": true,
+    "ready_only_photo_selection": "passed",
+    "latest_daily_feed_phone_updates": {
+      "records": 17,
+      "with_phone": 13,
+      "image_selections_unchanged": true
+    },
+    "bundle_secret_scan": "passed"
+  },
+  "github_runs": [
+    {
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41798004467",
+      "conclusion": "success"
+    },
+    {
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/41798541791",
+      "conclusion": "success",
+      "code_commit": "def27a7"
+    }
+  ],
+  "zip_sha256": "e0a080a70a979fc1db181900b78c9bb5c0b4faa8891fd5e5a76b27fef6e6e986",
+  "remaining": {
+    "patuljak_login_required": 38,
+    "estitor_quota_deferred": 14,
+    "unavailable": 5
+  },
+  "resumption": "Hourly minute-37 contact-only schedule; quota cooldown is shared across execution hosts. Login-only panels require the owner-supplied PATULJAK_COOKIE secret. No quota rotation or login automation."
+}
