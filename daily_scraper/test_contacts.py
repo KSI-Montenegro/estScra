@@ -114,6 +114,25 @@ class ContactTests(unittest.TestCase):
                 c.RevealClient('secret').reveal(record())
         self.assertEqual(send.call_count, 1)
 
+    def test_unknown_application_403_is_not_replayed_through_another_route(self):
+        error = HTTPError(c.REVEAL_URL, 403, '', {}, io.BytesIO(b'{"message":"not permitted"}'))
+        with patch.object(c, 'urlopen', side_effect=error) as send:
+            with self.assertRaisesRegex(c.ContactFailure, '^reveal_http_403$'):
+                c.RevealClient('secret').reveal(record())
+        self.assertEqual(send.call_count, 1)
+
+    def test_html_block_can_use_one_bounded_brightdata_post(self):
+        error = HTTPError(c.REVEAL_URL, 403, '', {}, io.BytesIO(b'<html>CloudFront request blocked</html>'))
+        reply = {'status_code': 200, 'body': json.dumps({'phone': '+38269123456', 'remainingHour': 4})}
+        with patch.object(c, 'urlopen', side_effect=[error, self.response(reply)]) as send:
+            result = c.RevealClient('secret', max_api=1).reveal(record())
+        self.assertEqual(result['phone'], '+38269123456')
+        self.assertEqual(send.call_count, 2)
+        req = send.call_args.args[0]
+        self.assertEqual(req.full_url, 'https://api.brightdata.com/request')
+        self.assertEqual(json.loads(req.data)['url'], c.REVEAL_URL)
+        self.assertEqual(json.loads(json.loads(req.data)['body'])['adId'], 123)
+
     def state(self, *rows):
         return {'schema_version': 1, 'records': {r['property_key']: r for r in rows}, 'results': {}, 'estitor_gate': {}}
 

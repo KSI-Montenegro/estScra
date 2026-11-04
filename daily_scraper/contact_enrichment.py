@@ -141,6 +141,10 @@ class NoRedirect(HTTPRedirectHandler):
         return None
 
 
+def quota_response(status, body):
+    return status == 429 or bool(re.search(r'QUOTA|LIMIT|TOO[_ ]MANY', str(body), re.I))
+
+
 class RevealClient:
     def __init__(self, key='', zone='esstitor_site_phone_scraper', max_api=20):
         self.key, self.zone, self.max_api = key, zone, max_api
@@ -157,7 +161,7 @@ class RevealClient:
                 data = json.loads(response.read(100_000))
         except HTTPError as exc:
             body = exc.read(4000).decode(errors='replace')
-            if exc.code == 429 or any(s in body.upper() for s in ('QUOTA', 'LIMIT_EXCEEDED', 'TOO_MANY', 'HOURLY_LIMIT', 'DAILY_LIMIT')):
+            if quota_response(exc.code, body):
                 wait = 3600 if 'HOURLY' in body.upper() and 'DAILY' not in body.upper() else 86400
                 value = exc.headers.get('Retry-After', '')
                 if value.isdigit():
@@ -167,6 +171,9 @@ class RevealClient:
                 raise ContactFailure('reveal_unavailable') from None
             if exc.code != 403 or not self.key:
                 raise ContactFailure('reveal_http_' + str(exc.code)) from None
+            # JSON 403s are application/auth responses, not evidence of a network block.
+            if not re.search(r'<html|cloudflare|cloudfront|access denied|request blocked', body, re.I):
+                raise ContactFailure('reveal_http_403') from None
             # Fallback only after a definite block, never after an ambiguous POST timeout.
             if self.api_requests >= self.max_api:
                 raise ContactFailure('contact_api_request_cap') from None
@@ -183,7 +190,7 @@ class RevealClient:
             except (ValueError, URLError, TimeoutError, OSError):
                 raise ContactFailure('contact_provider_transport_unknown') from None
             status, body = reply.get('status_code'), reply.get('body', '')
-            if status == 429 or any(s in str(body).upper() for s in ('LIMIT_EXCEEDED', 'HOURLY_LIMIT', 'DAILY_LIMIT')):
+            if quota_response(status, body):
                 wait = 3600 if 'HOURLY' in str(body).upper() and 'DAILY' not in str(body).upper() else 86400
                 raise ContactFailure('estitor_quota_or_rate_limit', time.time() + wait)
             if status != 200:
