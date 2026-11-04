@@ -282,14 +282,9 @@ def parse_listing(body, url, source, ident, captured_at):
         r['deal_type'] = details.deal(r['title'])
     if not r.get('property_type'):
         r['property_type'] = details.property_type(r['title'])
-    # Only phone numbers explicitly exposed by this page; no calls, reveal POSTs,
-    # account login, or copying contacts from unrelated listings.
-    phones = sorted({p for href in root.xpath('//a[starts-with(@href,"tel:")]/@href')
-                     if (p := details.phone(href[4:].split('?')[0]))})
-    r['contact_phones'] = phones
-    r['phone_e164'] = phones[0] if len(phones) == 1 else None
-    if phones:
-        r['field_sources']['contact_phones'] = 'page:tel_links'
+    from contact_enrichment import page_contacts, result_from_candidates, apply_result
+    contact_result = result_from_candidates(page_contacts(root, r), 'pending')
+    r = apply_result(r, contact_result)
     r['missing_core_fields'] = [k for k in ('title', 'description_original', 'city', 'deal_type', 'property_type') if not r.get(k)]
     if r.get('price_amount') is None and not r['price_on_request']:
         r['missing_core_fields'].append('price')
@@ -319,7 +314,8 @@ CSV_FIELDS = ['property_key', 'source', 'listing_id', 'listing_url', 'first_seen
               'price_currency', 'price_raw', 'price_on_request', 'city', 'district', 'street_address',
               'country', 'area_m2', 'lot_area_m2', 'bedrooms', 'bathrooms', 'published_date',
               'published_date_raw', 'updated_date', 'updated_date_raw', 'advertiser_name', 'phone_e164',
-              'contact_phones', 'image_count', 'image_urls', 'import_status', 'missing_core_fields',
+              'contact_phones', 'phone_collection_status', 'phone_checked_at', 'phone_error_code',
+              'image_count', 'image_urls', 'import_status', 'missing_core_fields',
               'watermark_status', 'watermark_sample_url', 'watermark_sample_result']
 
 

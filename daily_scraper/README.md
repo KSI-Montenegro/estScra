@@ -5,7 +5,10 @@ Uses direct verified HTTPS first, with the existing Bright Data zone as a fallba
 `--mode always` routes every page through Bright Data; this uses more paid requests.
 If the HTTP proxy returns target HTTP 403, the configured Browser API zone is tried.
 The default browser fallback uses the account's existing `estitorscraper2` zone.
-No browser login, phone reveal requests, paid image editing or automatic publishing of listings.
+The connected contact worker reads listing-specific phone-button data, published description
+numbers and Estitor's phone-reveal endpoint. It respects reveal quotas and accepts an optional
+owner-supplied Patuljak session cookie. No paid image editing or automatic listing publication.
+See [CONTACTS.md](CONTACTS.md) for the cumulative feed and access details.
 
 ## Run locally
 
@@ -93,7 +96,7 @@ blocks. Alternatively schedule the script on a server where all sources accept d
 
 Every completed run writes a dated ZIP under `exports/` (repository: `daily_scraper/exports/`):
 
-- `listings.json`: source text, details, field provenance, contact numbers exposed as `tel:` links, original image URLs.
+- `listings.json`: source text, details, field provenance, listing-specific contact numbers and collection status, original image URLs.
 - `listings.csv`: spreadsheet-friendly equivalent, with formula injection protection; exact source strings remain in JSON.
 - `image_urls.csv`: all captured photo URLs grouped by property and image number.
 - `watermark_samples.csv`: one representative untouched photo per new listing, queued for visual checking.
@@ -151,7 +154,9 @@ One-time setup:
 3. Ensure GitHub Actions is enabled and the workflow is permitted to write repository contents.
 4. Run “Daily property export” manually once and verify the summary/artifact.
 
-State lives on the separate `daily-scraper-state` branch. The workflow never commits daily exports
+State lives on the separate `daily-scraper-state` branch: listing state, photo state, and
+`contact-state.json` for cumulative daily listing records, phone results and reveal cooldowns.
+The workflow never commits daily exports
 to the main branch. Its state branch may contain captured source content while recovering an
 interrupted export; use a private repository if that source data must remain private.
 Daily CSV/JSON/ZIP files are attached as downloadable workflow artifacts, retained for 30 days.

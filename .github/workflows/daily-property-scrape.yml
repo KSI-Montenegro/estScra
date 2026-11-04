@@ -37,6 +37,14 @@ on:
         description: Maximum local LaMa edits
         default: '300'
         required: true
+      contacts_only:
+        description: Update pending contacts and feeds without scraping new ads or processing photos
+        type: boolean
+        default: false
+      max_phone_listings:
+        description: Maximum pending listings checked for phones
+        default: '300'
+        required: true
 
 permissions:
   contents: write
@@ -78,9 +86,14 @@ jobs:
               git show origin/daily-scraper-state:photo-state.json > daily_scraper/runtime/photo-state.json
               python -c 'import json; json.load(open("daily_scraper/runtime/photo-state.json"))'
             fi
+            if git cat-file -e origin/daily-scraper-state:contact-state.json 2>/dev/null; then
+              git show origin/daily-scraper-state:contact-state.json > daily_scraper/runtime/contact-state.json
+              python -c 'import json; json.load(open("daily_scraper/runtime/contact-state.json"))'
+            fi
           fi
       - name: Discover and export
         id: scrape
+        if: inputs.contacts_only != true
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -99,27 +112,37 @@ jobs:
           fi
           python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" \
             --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS"
+      - name: Collect listing phone numbers
+        id: contacts
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        env:
+          BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
+          BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
+          BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
+          PATULJAK_COOKIE: ${{ secrets.PATULJAK_COOKIE }}
+          MAX_PHONE_LISTINGS: ${{ inputs.max_phone_listings || '300' }}
+        run: python daily_scraper/contact_enrichment.py --collect --max-listings "$MAX_PHONE_LISTINGS"
       - name: Queue photo inputs independently of listing export
-        if: always() && steps.restore.outcome == 'success'
+        if: always() && inputs.contacts_only != true && steps.restore.outcome == 'success'
         run: python daily_scraper/photo_queue.py
       - name: Install local photo processing tools
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
           python -m pip install -r daily_scraper/photo-requirements.txt
           python -m pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
       - name: Cache pinned local LaMa model
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         uses: actions/cache@v4
         with:
           path: property_photo_pipeline/models
           key: local-lama-${{ hashFiles('property_photo_pipeline/lama_model.json') }}
       - name: Verify local LaMa model
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: python property_photo_pipeline/install_local_lama.py
       - name: Detect, clean, optimize and upload property photos
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.contacts_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         id: photos
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
@@ -138,12 +161,20 @@ jobs:
             --execute --upload --max-properties "$MAX_PHOTO_PROPERTIES" \
             --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES" \
             --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS"
+      - name: Publish listings with updated contacts
+        if: always() && !cancelled() && steps.contacts.outcome == 'success'
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          python -m pip install 'boto3>=1.35,<2'
+          env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/contact_enrichment.py --publish
       - name: Save durable state
         if: always()
         shell: bash
         run: |
           set -euo pipefail
-          if [ ! -f daily_scraper/runtime/state.json ] && [ ! -f daily_scraper/runtime/photo-state.json ]; then exit 0; fi
+          if [ ! -f daily_scraper/runtime/state.json ] && [ ! -f daily_scraper/runtime/photo-state.json ] && [ ! -f daily_scraper/runtime/contact-state.json ]; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           export GIT_INDEX_FILE="$RUNNER_TEMP/graden-state-index"
@@ -152,7 +183,7 @@ jobs:
           else
             git read-tree --empty
           fi
-          for state_file in state.json photo-state.json; do
+          for state_file in state.json photo-state.json contact-state.json; do
             if [ -f "daily_scraper/runtime/$state_file" ]; then
               python -c 'import json,sys; json.load(open(sys.argv[1]))' "daily_scraper/runtime/$state_file"
               state_blob=$(git hash-object -w "daily_scraper/runtime/$state_file")
@@ -175,6 +206,7 @@ jobs:
           path: |
             daily_scraper/exports/
             daily_scraper/photo_exports/
+            daily_scraper/contact_exports/
             !daily_scraper/photo_exports/ready/**
             !daily_scraper/photo_exports/repairs/**
           if-no-files-found: warn
@@ -196,6 +228,14 @@ jobs:
                   if d.get('warnings'):
                       print('::warning::Some source listings need retry or are unavailable; see warnings.json and the run summary.')
                   f.write('\nDownload the property-export artifact below. Search coverage is bounded.\n')
+          contacts = Path('daily_scraper/contact_exports/summary.json')
+          if contacts.exists():
+              with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
+                  d = json.loads(contacts.read_text())
+                  f.write('\nContact collection\n\n')
+                  for k in ('total_listings', 'with_phone', 'with_single_phone', 'by_status', 'errors'):
+                      f.write(f'- {k}: {d.get(k)}\n')
+                  f.write('\nLatest cumulative listing feed: https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/latest.json\n')
           photos = Path('daily_scraper/photo_exports/summary.json')
           if photos.exists():
               with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
