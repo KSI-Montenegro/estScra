@@ -20172,7 +20172,9 @@
         "furnishing_raw": "page:source_attributes",
         "condition_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -20233,11 +20235,19 @@
         "Kuhinja",
         "Trpezarija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267431410"
+      ],
+      "phone_e164": "+38267431410",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267431410",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649430"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T11:27:21.277384+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -20556,9 +20566,9 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
-      "phone_error_code": null,
+      "phone_collection_status": "unavailable",
+      "phone_checked_at": "2026-11-05T11:27:23.872013+00:00",
+      "phone_error_code": "reveal_unavailable",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -21023,7 +21033,9 @@
         "parking_raw": "page:source_attributes",
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -21085,11 +21097,19 @@
         "Trpezarija",
         "Novogradnja"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268907575"
+      ],
+      "phone_e164": "+38268907575",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268907575",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649334"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T11:27:27.227024+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -21227,7 +21247,9 @@
         "condition_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -21285,11 +21307,19 @@
         "Lift",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267583766"
+      ],
+      "phone_e164": "+38267583766",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267583766",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649333"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T11:27:30.629981+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -21611,9 +21641,9 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
-      "phone_error_code": null,
+      "phone_collection_status": "unavailable",
+      "phone_checked_at": "2026-11-05T11:27:33.179726+00:00",
+      "phone_error_code": "reveal_unavailable",
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
       "watermark_status": "sample_required",
@@ -41865,8 +41895,15 @@
       "checked_at": "2026-11-04T15:49:17.552787+00:00"
     },
     "estitor_649430": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267431410",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649430"
+        }
+      ],
+      "checked_at": "2026-11-05T11:27:21.277384+00:00"
     },
     "realitica_3956209": {
       "status": "multiple_numbers",
@@ -41901,8 +41938,11 @@
       "checked_at": "2026-11-04T15:49:17.617132+00:00"
     },
     "estitor_649343": {
-      "status": "pending",
-      "candidates": []
+      "status": "unavailable",
+      "candidates": [],
+      "checked_at": "2026-11-05T11:27:23.872013+00:00",
+      "error_code": "reveal_unavailable",
+      "retry_after": 1793881643.8720243
     },
     "realitica_3956208": {
       "status": "multiple_numbers",
@@ -41969,8 +42009,15 @@
       "checked_at": "2026-11-04T15:49:17.746769+00:00"
     },
     "estitor_649334": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268907575",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649334"
+        }
+      ],
+      "checked_at": "2026-11-05T11:27:27.227024+00:00"
     },
     "patuljak_85822": {
       "status": "found",
@@ -41989,8 +42036,15 @@
       "checked_at": "2026-11-04T15:49:17.778697+00:00"
     },
     "estitor_649333": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267583766",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649333"
+        }
+      ],
+      "checked_at": "2026-11-05T11:27:30.629981+00:00"
     },
     "realitica_3956114": {
       "status": "found",
@@ -42020,8 +42074,11 @@
       "checked_at": "2026-11-04T15:49:17.842833+00:00"
     },
     "estitor_649331": {
-      "status": "pending",
-      "candidates": []
+      "status": "unavailable",
+      "candidates": [],
+      "checked_at": "2026-11-05T11:27:33.179726+00:00",
+      "error_code": "reveal_unavailable",
+      "retry_after": 1793881653.1797369
     },
     "patuljak_85820": {
       "status": "found",
@@ -43175,15 +43232,14 @@
     }
   },
   "estitor_gate": {
-    "remaining_hour": 1,
-    "remaining_day": 6,
-    "last_request_at": 1793846712.7618458,
+    "remaining_hour": 2,
+    "remaining_day": 7,
+    "last_request_at": 1793878052.9772048,
     "resume_not_before": 1793810956.5607088
   },
-  "updated_at": "2026-11-05T02:45:13.094433+00:00",
+  "updated_at": "2026-11-05T11:27:33.204843+00:00",
   "last_run_counts": {
-    "listings_checked": 10,
-    "reveal_requests": 10,
-    "quota_or_reveal_limit_deferred": 5
+    "listings_checked": 5,
+    "reveal_requests": 5
   }
 }
