@@ -38879,7 +38879,9 @@
         "parking_raw": "page:source_attributes",
         "lot_area_m2": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Kuća",
@@ -38934,11 +38936,19 @@
         "Opremljen",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269280144"
+      ],
+      "phone_e164": "+38269280144",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-649297"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:42.907574+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -39061,7 +39071,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Plac",
@@ -39094,11 +39106,19 @@
       "property_type": "land",
       "property_type_raw": "Plac",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269280144"
+      ],
+      "phone_e164": "+38269280144",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649296"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:45.893596+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -39545,7 +39565,9 @@
         "parking_raw": "page:source_attributes",
         "lot_area_m2": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Kuća",
@@ -39605,11 +39627,19 @@
       "balconies": 0,
       "property_type_raw": "Kuća",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267512244"
+      ],
+      "phone_e164": "+38267512244",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267512244",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-649292"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:48.957278+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -39813,7 +39843,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Plac"
@@ -39843,11 +39875,19 @@
       "property_type": "land",
       "property_type_raw": "Plac",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269280144"
+      ],
+      "phone_e164": "+38269280144",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649293"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:52.071373+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -40061,7 +40101,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Plac"
@@ -40097,11 +40139,19 @@
       "property_type": "land",
       "property_type_raw": "Plac",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269280144"
+      ],
+      "phone_e164": "+38269280144",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649291"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:55.191717+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -40320,7 +40370,9 @@
         "floor_raw": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -40369,11 +40421,19 @@
         "Opremljen",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269280144"
+      ],
+      "phone_e164": "+38269280144",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649290"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:56:58.325691+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -40602,7 +40662,9 @@
         "parking_raw": "page:source_attributes",
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -40674,11 +40736,19 @@
         "Novogradnja",
         "Lux"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268543664"
+      ],
+      "phone_e164": "+38268543664",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649289"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:57:01.343025+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -40898,7 +40968,9 @@
         "condition_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -40975,11 +41047,19 @@
         "Novogradnja",
         "Lux"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268543664"
+      ],
+      "phone_e164": "+38268543664",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649287"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:57:04.422604+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -41191,7 +41271,9 @@
         "condition_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -41259,11 +41341,19 @@
         "Novogradnja",
         "Lux"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268543664"
+      ],
+      "phone_e164": "+38268543664",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649285"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:57:07.718377+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -43205,7 +43295,9 @@
         "parking_raw": "page:source_attributes",
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -43260,11 +43352,19 @@
         "Novogradnja",
         "Lux"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268631973"
+      ],
+      "phone_e164": "+38268631973",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268631973",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649264"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-05T18:57:10.609351+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -51190,8 +51290,15 @@
       "checked_at": "2026-11-05T15:44:53.977139+00:00"
     },
     "estitor_649297": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-bar/id-649297"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:42.907574+00:00"
     },
     "realitica_3956105": {
       "status": "found",
@@ -51205,8 +51312,15 @@
       "checked_at": "2026-11-05T15:44:54.029618+00:00"
     },
     "estitor_649296": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649296"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:45.893596+00:00"
     },
     "realitica_3956104": {
       "status": "found",
@@ -51231,8 +51345,15 @@
       "checked_at": "2026-11-05T15:44:54.133942+00:00"
     },
     "estitor_649292": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267512244",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-kuca/grad-budva/id-649292"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:48.957278+00:00"
     },
     "realitica_3956102": {
       "status": "found",
@@ -51246,8 +51367,15 @@
       "checked_at": "2026-11-05T15:44:54.185218+00:00"
     },
     "estitor_649293": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649293"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:52.071373+00:00"
     },
     "realitica_3956101": {
       "status": "found",
@@ -51261,8 +51389,15 @@
       "checked_at": "2026-11-05T15:44:54.236734+00:00"
     },
     "estitor_649291": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-plac/grad-bar/id-649291"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:55.191717+00:00"
     },
     "realitica_3956100": {
       "status": "found",
@@ -51276,8 +51411,15 @@
       "checked_at": "2026-11-05T15:44:54.288645+00:00"
     },
     "estitor_649290": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269280144",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649290"
+        }
+      ],
+      "checked_at": "2026-11-05T18:56:58.325691+00:00"
     },
     "realitica_3956099": {
       "status": "found",
@@ -51291,8 +51433,15 @@
       "checked_at": "2026-11-05T15:44:54.340793+00:00"
     },
     "estitor_649289": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649289"
+        }
+      ],
+      "checked_at": "2026-11-05T18:57:01.343025+00:00"
     },
     "realitica_3956098": {
       "status": "found",
@@ -51306,8 +51455,15 @@
       "checked_at": "2026-11-05T15:44:54.393016+00:00"
     },
     "estitor_649287": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649287"
+        }
+      ],
+      "checked_at": "2026-11-05T18:57:04.422604+00:00"
     },
     "realitica_3956097": {
       "status": "found",
@@ -51321,8 +51477,15 @@
       "checked_at": "2026-11-05T15:44:54.444920+00:00"
     },
     "estitor_649285": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268543664",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-bar/id-649285"
+        }
+      ],
+      "checked_at": "2026-11-05T18:57:07.718377+00:00"
     },
     "realitica_3956096": {
       "status": "found",
@@ -51509,20 +51672,26 @@
       "checked_at": "2026-11-05T15:44:55.177007+00:00"
     },
     "estitor_649264": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268631973",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649264"
+        }
+      ],
+      "checked_at": "2026-11-05T18:57:10.609351+00:00"
     }
   },
   "estitor_gate": {
-    "remaining_hour": 0,
-    "remaining_day": 5,
-    "last_request_at": 1793893493.4116287,
+    "remaining_hour": 1,
+    "remaining_day": 6,
+    "last_request_at": 1793905030.2710593,
     "resume_not_before": 1793897093.9247499
   },
-  "updated_at": "2026-11-05T15:44:55.229297+00:00",
+  "updated_at": "2026-11-05T18:57:10.655911+00:00",
   "last_run_counts": {
-    "listings_checked": 70,
-    "reveal_requests": 6,
-    "quota_or_reveal_limit_deferred": 10
+    "listings_checked": 10,
+    "reveal_requests": 10
   }
 }
