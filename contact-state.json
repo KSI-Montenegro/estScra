@@ -60390,7 +60390,9 @@
         "floor_raw": "page:source_attributes",
         "condition_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -60436,11 +60438,19 @@
       "balconies": 0,
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268200906"
+      ],
+      "phone_e164": "+38268200906",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268200906",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649212"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:01.988234+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -60673,7 +60683,9 @@
         "floor_raw": "page:source_attributes",
         "condition_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -60720,11 +60732,19 @@
       "balconies": 0,
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268200906"
+      ],
+      "phone_e164": "+38268200906",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268200906",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649209"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:05.149621+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -60960,7 +60980,9 @@
         "condition_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -61014,11 +61036,19 @@
       "amenities": [
         "Opremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267050633"
+      ],
+      "phone_e164": "+38267050633",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267050633",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649208"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:08.298965+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -61602,7 +61632,9 @@
         "floor_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -61654,11 +61686,19 @@
       "balconies": 1,
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267050633"
+      ],
+      "phone_e164": "+38267050633",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267050633",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649205"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:11.133828+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -61879,7 +61919,9 @@
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
         "year_built": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -61948,11 +61990,19 @@
         "Trpezarija",
         "Novogradnja"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267512528"
+      ],
+      "phone_e164": "+38267512528",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267512528",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-kotor/id-649204"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:14.241658+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -62158,7 +62208,9 @@
         "furnishing_raw": "page:source_attributes",
         "condition_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -62212,11 +62264,19 @@
       "amenities": [
         "Opremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267231153"
+      ],
+      "phone_e164": "+38267231153",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267231153",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649203"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:17.359553+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -62443,7 +62503,9 @@
         "orientation_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
         "year_built": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -62530,11 +62592,19 @@
         "Trpezarija",
         "Novogradnja"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268689602"
+      ],
+      "phone_e164": "+38268689602",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268689602",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649992"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-07T15:10:20.426335+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -62821,7 +62891,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
+      "phone_collection_status": "quota_deferred",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -63124,7 +63194,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
+      "phone_collection_status": "quota_deferred",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -63623,7 +63693,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
+      "phone_collection_status": "quota_deferred",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -63894,7 +63964,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
+      "phone_collection_status": "quota_deferred",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -64184,7 +64254,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "pending",
+      "phone_collection_status": "quota_deferred",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -82862,8 +82932,15 @@
       "checked_at": "2026-11-07T14:19:28.463776+00:00"
     },
     "estitor_649212": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268200906",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649212"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:01.988234+00:00"
     },
     "realitica_3956043": {
       "status": "found",
@@ -82877,8 +82954,15 @@
       "checked_at": "2026-11-07T14:19:28.517737+00:00"
     },
     "estitor_649209": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268200906",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-budva/id-649209"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:05.149621+00:00"
     },
     "realitica_3956042": {
       "status": "found",
@@ -82892,8 +82976,15 @@
       "checked_at": "2026-11-07T14:19:28.567917+00:00"
     },
     "estitor_649208": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267050633",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649208"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:08.298965+00:00"
     },
     "realitica_3956041": {
       "status": "found",
@@ -82929,8 +83020,15 @@
       "checked_at": "2026-11-07T14:19:28.717577+00:00"
     },
     "estitor_649205": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267050633",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-tivat/id-649205"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:11.133828+00:00"
     },
     "realitica_3956038": {
       "status": "found",
@@ -82944,8 +83042,15 @@
       "checked_at": "2026-11-07T14:19:28.767775+00:00"
     },
     "estitor_649204": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267512528",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-kotor/id-649204"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:14.241658+00:00"
     },
     "realitica_3956037": {
       "status": "found",
@@ -82959,8 +83064,15 @@
       "checked_at": "2026-11-07T14:19:28.818327+00:00"
     },
     "estitor_649203": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267231153",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-podgorica/id-649203"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:17.359553+00:00"
     },
     "realitica_3956026": {
       "status": "found",
@@ -82974,8 +83086,15 @@
       "checked_at": "2026-11-07T14:19:28.897111+00:00"
     },
     "estitor_649992": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268689602",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649992"
+        }
+      ],
+      "checked_at": "2026-11-07T15:10:20.426335+00:00"
     },
     "realitica_3955998": {
       "status": "found",
@@ -82989,7 +83108,7 @@
       "checked_at": "2026-11-07T14:19:28.963715+00:00"
     },
     "estitor_649991": {
-      "status": "pending",
+      "status": "quota_deferred",
       "candidates": []
     },
     "realitica_3955997": {
@@ -83004,7 +83123,7 @@
       "checked_at": "2026-11-07T14:19:29.017998+00:00"
     },
     "estitor_649988": {
-      "status": "pending",
+      "status": "quota_deferred",
       "candidates": []
     },
     "realitica_3955996": {
@@ -83046,7 +83165,7 @@
       "checked_at": "2026-11-07T14:19:29.177602+00:00"
     },
     "estitor_649982": {
-      "status": "pending",
+      "status": "quota_deferred",
       "candidates": []
     },
     "realitica_3955925": {
@@ -83066,7 +83185,7 @@
       "checked_at": "2026-11-07T14:19:29.227767+00:00"
     },
     "estitor_649980": {
-      "status": "pending",
+      "status": "quota_deferred",
       "candidates": []
     },
     "realitica_3955875": {
@@ -83091,7 +83210,7 @@
       "checked_at": "2026-11-07T14:19:29.277878+00:00"
     },
     "estitor_649979": {
-      "status": "pending",
+      "status": "quota_deferred",
       "candidates": []
     },
     "realitica_3955857": {
@@ -83107,15 +83226,15 @@
     }
   },
   "estitor_gate": {
-    "remaining_hour": 1,
-    "remaining_day": 6,
-    "last_request_at": 1794061168.0619943,
-    "resume_not_before": 1793897093.9247499
+    "remaining_hour": 0,
+    "remaining_day": 5,
+    "last_request_at": 1794064220.08314,
+    "resume_not_before": 1794067820.426343
   },
-  "updated_at": "2026-11-07T14:19:29.377625+00:00",
+  "updated_at": "2026-11-07T15:10:20.476759+00:00",
   "last_run_counts": {
-    "listings_checked": 138,
-    "reveal_requests": 10,
-    "quota_or_reveal_limit_deferred": 12
+    "listings_checked": 7,
+    "reveal_requests": 7,
+    "quota_or_reveal_limit_deferred": 5
   }
 }
