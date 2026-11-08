@@ -74224,7 +74224,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -74280,11 +74282,19 @@
       "amenities": [
         "Parking"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649963"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:29.028478+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -74403,7 +74413,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -74444,11 +74456,19 @@
       "amenities": [
         "Parking"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649962"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:32.004167+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -74631,7 +74651,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -74686,11 +74708,19 @@
       "amenities": [
         "Parking"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649961"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:35.182440+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -74885,7 +74915,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -74931,11 +74963,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649960"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:38.275655+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -75124,7 +75164,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -75163,11 +75205,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649959"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:41.284059+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -75278,7 +75328,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -75315,11 +75367,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649958"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:44.400980+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -75517,7 +75577,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -75562,11 +75624,19 @@
       "amenities": [
         "Parking"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649957"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:47.515790+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -75662,7 +75732,9 @@
       "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649955",
       "field_sources": {
         "title": "page:h1",
-        "description_language": "page:language"
+        "description_language": "page:language",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {},
       "quality_flags": [],
@@ -75677,11 +75749,19 @@
       "amenities": [],
       "deal_type": null,
       "property_type": null,
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649955"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:50.639589+00:00",
       "phone_error_code": null,
       "missing_core_fields": [
         "description_original",
@@ -75851,7 +75931,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -75890,11 +75972,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649954"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:53.739672+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -75992,7 +76082,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -76033,11 +76125,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649953"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T17:13:56.814412+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -76313,7 +76413,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -76538,7 +76638,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -77604,7 +77704,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -78149,7 +78249,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -97110,8 +97210,15 @@
       "checked_at": "2026-11-08T14:34:32.000862+00:00"
     },
     "estitor_649963": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649963"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:29.028478+00:00"
     },
     "realitica_3955790": {
       "status": "no_public_number",
@@ -97119,8 +97226,15 @@
       "checked_at": "2026-11-08T14:34:42.344475+00:00"
     },
     "estitor_649962": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649962"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:32.004167+00:00"
     },
     "realitica_3955788": {
       "status": "no_public_number",
@@ -97128,8 +97242,15 @@
       "checked_at": "2026-11-08T14:34:49.962644+00:00"
     },
     "estitor_649961": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649961"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:35.182440+00:00"
     },
     "realitica_3955787": {
       "status": "found",
@@ -97148,8 +97269,15 @@
       "checked_at": "2026-11-08T14:34:50.029803+00:00"
     },
     "estitor_649960": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649960"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:38.275655+00:00"
     },
     "realitica_3955786": {
       "status": "found",
@@ -97168,12 +97296,26 @@
       "checked_at": "2026-11-08T14:34:50.089802+00:00"
     },
     "estitor_649959": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649959"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:41.284059+00:00"
     },
     "estitor_649958": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649958"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:44.400980+00:00"
     },
     "realitica_3955767": {
       "status": "no_public_number",
@@ -97181,12 +97323,26 @@
       "checked_at": "2026-11-08T14:34:58.467663+00:00"
     },
     "estitor_649957": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649957"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:47.515790+00:00"
     },
     "estitor_649955": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-herceg-novi/id-649955"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:50.639589+00:00"
     },
     "realitica_3955751": {
       "status": "no_public_number",
@@ -97194,12 +97350,26 @@
       "checked_at": "2026-11-08T14:35:03.903489+00:00"
     },
     "estitor_649954": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649954"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:53.739672+00:00"
     },
     "estitor_649953": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649953"
+        }
+      ],
+      "checked_at": "2026-11-08T17:13:56.814412+00:00"
     },
     "realitica_3955725": {
       "status": "found",
@@ -97218,7 +97388,7 @@
       "checked_at": "2026-11-08T14:35:03.966619+00:00"
     },
     "estitor_649952": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3955724": {
@@ -97227,7 +97397,7 @@
       "checked_at": "2026-11-08T14:35:09.777962+00:00"
     },
     "estitor_649951": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3955723": {
@@ -97310,7 +97480,7 @@
       "checked_at": "2026-11-08T14:35:36.598641+00:00"
     },
     "estitor_649946": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     },
     "realitica_3955702": {
@@ -97351,20 +97521,20 @@
       "checked_at": "2026-11-08T14:35:45.907728+00:00"
     },
     "estitor_649944": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     }
   },
   "estitor_gate": {
-    "remaining_hour": 0,
-    "remaining_day": 5,
-    "last_request_at": 1794148461.309625,
+    "remaining_hour": 4,
+    "remaining_day": 9,
+    "last_request_at": 1794158036.4492192,
     "resume_not_before": 1794152061.8589225
   },
-  "updated_at": "2026-11-08T14:35:45.967365+00:00",
+  "updated_at": "2026-11-08T17:13:57.094387+00:00",
   "last_run_counts": {
-    "listings_checked": 125,
-    "reveal_requests": 5,
-    "quota_or_reveal_limit_deferred": 14
+    "listings_checked": 10,
+    "reveal_requests": 10,
+    "quota_or_reveal_limit_deferred": 4
   }
 }
