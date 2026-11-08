@@ -76355,7 +76355,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Kuća",
@@ -76410,11 +76412,19 @@
       "amenities": [
         "Parking"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-649952"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T21:21:16.067467+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -76596,7 +76606,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan"
@@ -76635,11 +76647,19 @@
       "property_type": "apartment",
       "property_type_raw": "Stan",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+381638291762"
+      ],
+      "phone_e164": "+381638291762",
+      "contact_candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649951"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T21:21:19.001416+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -77648,7 +77668,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -77701,11 +77723,19 @@
         "Klimatizacija",
         "Opremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269846538"
+      ],
+      "phone_e164": "+38269846538",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269846538",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649946"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T21:21:22.140819+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -78201,7 +78231,9 @@
         "property_type": "page:source_attributes",
         "floor_raw": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -78246,11 +78278,19 @@
         "Klimatizacija",
         "Opremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "pending",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38269846538"
+      ],
+      "phone_e164": "+38269846538",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269846538",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649944"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-08T21:21:25.119370+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -97388,8 +97428,15 @@
       "checked_at": "2026-11-08T14:35:03.966619+00:00"
     },
     "estitor_649952": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-budva/id-649952"
+        }
+      ],
+      "checked_at": "2026-11-08T21:21:16.067467+00:00"
     },
     "realitica_3955724": {
       "status": "no_public_number",
@@ -97397,8 +97444,15 @@
       "checked_at": "2026-11-08T14:35:09.777962+00:00"
     },
     "estitor_649951": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+381638291762",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649951"
+        }
+      ],
+      "checked_at": "2026-11-08T21:21:19.001416+00:00"
     },
     "realitica_3955723": {
       "status": "no_public_number",
@@ -97480,8 +97534,15 @@
       "checked_at": "2026-11-08T14:35:36.598641+00:00"
     },
     "estitor_649946": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269846538",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649946"
+        }
+      ],
+      "checked_at": "2026-11-08T21:21:22.140819+00:00"
     },
     "realitica_3955702": {
       "status": "no_public_number",
@@ -97521,20 +97582,26 @@
       "checked_at": "2026-11-08T14:35:45.907728+00:00"
     },
     "estitor_649944": {
-      "status": "pending",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269846538",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649944"
+        }
+      ],
+      "checked_at": "2026-11-08T21:21:25.119370+00:00"
     }
   },
   "estitor_gate": {
-    "remaining_hour": 4,
-    "remaining_day": 9,
-    "last_request_at": 1794158036.4492192,
+    "remaining_hour": 3,
+    "remaining_day": 8,
+    "last_request_at": 1794172884.5891871,
     "resume_not_before": 1794152061.8589225
   },
-  "updated_at": "2026-11-08T17:13:57.094387+00:00",
+  "updated_at": "2026-11-08T21:21:25.236953+00:00",
   "last_run_counts": {
-    "listings_checked": 10,
-    "reveal_requests": 10,
-    "quota_or_reveal_limit_deferred": 4
+    "listings_checked": 4,
+    "reveal_requests": 4
   }
 }
