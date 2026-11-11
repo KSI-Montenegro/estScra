@@ -90760,7 +90760,9 @@
         "property_type": "page:source_attributes",
         "floor_raw": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -90806,11 +90808,19 @@
         "Opremljen",
         "Opremljenost"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649634"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T22:59:51.456311+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -90845,7 +90855,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Kuća"
@@ -90897,11 +90909,19 @@
       "property_type": "house",
       "property_type_raw": "Kuća",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-649632"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T22:59:54.475760+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -90938,7 +90958,9 @@
         "property_type": "page:source_attributes",
         "floor_raw": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -90988,11 +91010,19 @@
         "Opremljen",
         "Opremljenost"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649629"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T22:59:57.588053+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91028,7 +91058,9 @@
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
         "floor_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -91079,11 +91111,19 @@
       "amenities": [
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649628"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:00.996842+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91118,7 +91158,9 @@
         "advertiser_name": "page:Offer.seller",
         "deal_type": "page:breadcrumbs",
         "property_type": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Kuća"
@@ -91161,11 +91203,19 @@
       "property_type": "house",
       "property_type_raw": "Kuća",
       "amenities": [],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-649627"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:03.822235+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91202,7 +91252,9 @@
         "property_type": "page:source_attributes",
         "floor_raw": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -91251,11 +91303,19 @@
         "Opremljen",
         "Opremljenost"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38267111199"
+      ],
+      "phone_e164": "+38267111199",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649626"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:06.881434+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91541,7 +91601,9 @@
         "property_type": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -91589,11 +91651,19 @@
         "Klimatizacija",
         "Neopremljen"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268156405"
+      ],
+      "phone_e164": "+38268156405",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649582"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:09.970880+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91728,7 +91798,9 @@
         "furnishing_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -91780,11 +91852,19 @@
         "Opremljenost",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268156405"
+      ],
+      "phone_e164": "+38268156405",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649581"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:13.865433+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -91914,7 +91994,9 @@
         "property_type": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -91966,11 +92048,19 @@
         "Opremljenost",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268156405"
+      ],
+      "phone_e164": "+38268156405",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649580"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:16.212454+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -92104,7 +92194,9 @@
         "furnishing_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
         "balconies": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -92157,11 +92249,19 @@
         "Opremljenost",
         "Klimatizacija"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268156405"
+      ],
+      "phone_e164": "+38268156405",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649579"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T23:00:19.409111+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -92355,7 +92455,7 @@
       "contact_phones": [],
       "phone_e164": null,
       "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
+      "phone_collection_status": "pending",
       "phone_checked_at": null,
       "phone_error_code": null,
       "missing_core_fields": [],
@@ -105746,58 +105846,130 @@
       "checked_at": "2026-11-11T15:34:14.147047+00:00"
     },
     "estitor_649634": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649634"
+        }
+      ],
+      "checked_at": "2026-11-11T22:59:51.456311+00:00"
     },
     "estitor_649632": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-649632"
+        }
+      ],
+      "checked_at": "2026-11-11T22:59:54.475760+00:00"
     },
     "estitor_649629": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649629"
+        }
+      ],
+      "checked_at": "2026-11-11T22:59:57.588053+00:00"
     },
     "estitor_649628": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649628"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:00.996842+00:00"
     },
     "estitor_649627": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-kuca/grad-podgorica/id-649627"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:03.822235+00:00"
     },
     "estitor_649626": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267111199",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649626"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:06.881434+00:00"
     },
     "estitor_649582": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649582"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:09.970880+00:00"
     },
     "estitor_649581": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649581"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:13.865433+00:00"
     },
     "estitor_649580": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649580"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:16.212454+00:00"
     },
     "estitor_649579": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268156405",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649579"
+        }
+      ],
+      "checked_at": "2026-11-11T23:00:19.409111+00:00"
     },
     "estitor_649578": {
-      "status": "quota_deferred",
+      "status": "pending",
       "candidates": []
     }
   },
   "estitor_gate": {
-    "remaining_hour": 0,
-    "remaining_day": 5,
-    "last_request_at": 1794411253.6988885,
+    "remaining_hour": 3,
+    "remaining_day": 8,
+    "last_request_at": 1794438018.9069004,
     "resume_not_before": 1794414854.0819356
   },
-  "updated_at": "2026-11-11T15:34:14.210664+00:00",
+  "updated_at": "2026-11-11T23:00:19.725318+00:00",
   "last_run_counts": {
-    "quota_or_reveal_limit_deferred": 11
+    "listings_checked": 10,
+    "reveal_requests": 10,
+    "quota_or_reveal_limit_deferred": 1
   }
 }
