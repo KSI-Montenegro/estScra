@@ -89717,7 +89717,9 @@
         "property_type": "page:source_attributes",
         "furnishing_raw": "page:source_attributes",
         "parking_raw": "page:source_attributes",
-        "property_type_raw": "page:source_attributes"
+        "property_type_raw": "page:source_attributes",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
       },
       "source_attributes": {
         "Tip nekretnine": "Stan",
@@ -89774,11 +89776,19 @@
         "Lift",
         "Opremljenost"
       ],
-      "contact_phones": [],
-      "phone_e164": null,
-      "contact_candidates": [],
-      "phone_collection_status": "quota_deferred",
-      "phone_checked_at": null,
+      "contact_phones": [
+        "+38268028419"
+      ],
+      "phone_e164": "+38268028419",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38268028419",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649861"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-11T00:52:28.040646+00:00",
       "phone_error_code": null,
       "missing_core_fields": [],
       "import_status": "ready_for_mapping",
@@ -102969,20 +102979,26 @@
       "checked_at": "2026-11-10T19:58:51.902487+00:00"
     },
     "estitor_649861": {
-      "status": "quota_deferred",
-      "candidates": []
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38268028419",
+          "source": "estitor:listing_phone_reveal",
+          "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649861"
+        }
+      ],
+      "checked_at": "2026-11-11T00:52:28.040646+00:00"
     }
   },
   "estitor_gate": {
-    "remaining_hour": 0,
-    "remaining_day": 5,
-    "last_request_at": 1794340731.4673052,
+    "remaining_hour": 4,
+    "remaining_day": 9,
+    "last_request_at": 1794358347.6581047,
     "resume_not_before": 1794344331.9024963
   },
-  "updated_at": "2026-11-10T19:58:51.960199+00:00",
+  "updated_at": "2026-11-11T00:52:28.139713+00:00",
   "last_run_counts": {
-    "listings_checked": 5,
-    "reveal_requests": 5,
-    "quota_or_reveal_limit_deferred": 1
+    "listings_checked": 1,
+    "reveal_requests": 1
   }
 }
