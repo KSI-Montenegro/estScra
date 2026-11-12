@@ -70,6 +70,11 @@ Unchanged contact exports use deterministic ZIPs so idle retries reuse immutable
 
 Local collection: python daily_scraper/contact_enrichment.py --collect
 
+Optional automatic renewal of the owner's Patuljak login uses a private TextBee
+SMS receiver. See [Patuljak SMS authentication](PATULJAK_SMS_AUTH.md) for pairing,
+Actions configuration, session storage, and renewal limits. This is separate from
+advertiser phone numbers and does not request SMS for individual login-walled ads.
+
 Local publication: env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/contact_enrichment.py --publish
 
 The existing R2 secrets and endpoint config are reused. Versioned outputs are immutable; latest

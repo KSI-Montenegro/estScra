@@ -136,6 +136,10 @@ jobs:
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
           BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
           PATULJAK_COOKIE: ${{ secrets.PATULJAK_COOKIE }}
+          PATULJAK_AUTH_BROKER_URL: ${{ vars.PATULJAK_AUTH_BROKER_URL }}
+          PATULJAK_AUTH_CLIENT_KEY: ${{ secrets.PATULJAK_AUTH_CLIENT_KEY }}
+          PATULJAK_AUTO_LOGIN: ${{ vars.PATULJAK_AUTO_LOGIN || 'false' }}
+          PATULJAK_LOGIN_PHONE: ${{ secrets.PATULJAK_LOGIN_PHONE }}
           MAX_PHONE_LISTINGS: ${{ inputs.max_phone_listings || '300' }}
         run: python daily_scraper/contact_enrichment.py --collect --max-listings "$MAX_PHONE_LISTINGS"
       - name: Queue photo inputs independently of listing export
@@ -256,7 +260,7 @@ jobs:
               with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
                   d = json.loads(contacts.read_text())
                   f.write('\nContact collection\n\n')
-                  for k in ('total_listings', 'with_phone', 'with_single_phone', 'by_status', 'errors'):
+                  for k in ('total_listings', 'with_phone', 'with_single_phone', 'by_status', 'errors', 'patuljak_auth'):
                       f.write(f'- {k}: {d.get(k)}\n')
                   f.write('\nLatest cumulative listing feed: https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/latest.json\n')
           photos = Path('daily_scraper/photo_exports/summary.json')

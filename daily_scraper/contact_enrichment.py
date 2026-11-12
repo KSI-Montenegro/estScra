@@ -393,6 +393,7 @@ def summary(state):
                        if r.get('error_code') in ('contact_provider_http_401', 'contact_provider_http_402', 'contact_provider_http_403')
                        or r.get('error_code') in ('contact_TypeError', 'contact_KeyError', 'contact_AttributeError')],
             'estitor_quota': state.get('estitor_gate', {}), 'last_run_counts': state.get('last_run_counts', {}),
+            'patuljak_auth': state.get('patuljak_auth', {}),
             'coverage': 'Cumulative daily listings, seeded with the 164 exports from 2026-11-02 and 2026-11-03; original 1797-property import is separate.',
             'contact_identity': 'Advertiser contacts from this listing; not verified private-owner identity.'}
 
@@ -508,8 +509,19 @@ def main(argv=None):
                               'auto' if key else 'direct', args.max_api_requests,
                               browser_zone=os.getenv('BRIGHTDATA_BROWSER_ZONE', 'estitorscraper2'))
             reveal = RevealClient(key, os.getenv('BRIGHTDATA_ZONE', 'esstitor_site_phone_scraper'), args.max_api_requests)
+            cookie = os.getenv('PATULJAK_COOKIE', '')
+            pending_patuljak = any(row.get('source') == 'patuljak' and not row.get('contact_phones') and
+                                  state['results'].get(k, {}).get('status', 'pending') in ('pending', 'retry', 'login_required')
+                                  for k, row in state['records'].items())
+            if args.max_listings and pending_patuljak:
+                from patuljak_auth import resolve_cookie
+                cookie, auth_status = resolve_cookie(os.environ)
+                state['patuljak_auth'] = {**auth_status, 'checked_at': now()}
+                if os.getenv('GITHUB_ACTIONS') == 'true' and auth_status.get('status') in (
+                        'authentication_deferred', 'textbee_pairing_required', 'session_expired_auto_login_disabled'):
+                    print('::warning::Patuljak authentication: ' + auth_status['status'], flush=True)
             collect(state, args.state, fetcher, reveal, args.cache, args.max_listings, args.max_reveals,
-                    args.max_runtime_seconds, os.getenv('PATULJAK_COOKIE', ''))
+                    args.max_runtime_seconds, cookie)
         save(args.state, state)
         patch_exports(state, args.exports, args.photo_output)
         args.output.mkdir(parents=True, exist_ok=True)
