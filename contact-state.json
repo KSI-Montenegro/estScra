@@ -98201,6 +98201,80 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "transport": "brightdata_browser_api"
+    },
+    "realitica_3955698": {
+      "property_key": "realitica_3955698",
+      "source": "realitica",
+      "listing_id": "3955698",
+      "listing_url": "https://www.realitica.com/hr/listing/3955698",
+      "field_sources": {
+        "title": "page:listing_body.h2",
+        "description_original": "page:listing_body.Opis",
+        "description_language": "page:html.lang_or_url",
+        "city": "page:source_attributes",
+        "published_date_raw": "page:source_attributes",
+        "updated_date_raw": "page:source_attributes",
+        "property_type_raw": "page:source_attributes",
+        "property_type": "page:source_attributes",
+        "deal_type": "page:source_attributes",
+        "price_raw": "page:source_attributes",
+        "price_amount": "page:source_attributes",
+        "price_currency": "page:source_attributes"
+      },
+      "source_attributes": {
+        "Vrsta": "Prodajem Stan-Apartman",
+        "Područje": "Tivat",
+        "Cijena": "€260.000",
+        "Oglas Broj": "3955698",
+        "Postavljeno": "30 Oct, 2026",
+        "Zadnja Promjena": "1 Nov, 2026"
+      },
+      "quality_flags": [],
+      "price_on_request": false,
+      "source_page_captured_at": "2026-11-12T17:53:13.198971+00:00",
+      "source_html_sha256": "a23caf1780a48a8f83990fa7b44e3a8a9732d760da59e8b53491f118522855ae",
+      "image_urls": [
+        "https://www.realitica.com/images/listing_photos/3955698_img_0750.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_0751.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_0752.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_4937.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_4938.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_0756.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_0757.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_4941.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_3320.jpeg",
+        "https://www.realitica.com/images/listing_photos/3955698_img_0754.jpeg"
+      ],
+      "image_count": 10,
+      "gallery_extraction_method": "realitica_full_size_gallery_links",
+      "title": "Prodajem Stan-Apartman, Tivat",
+      "description_original": "#JednosobanStanNaProdaju_Tivat\n\nID 657.\n\n? Jednosoban stan s velikim terasama na prodaju u Tivtu\n\n? Lokacija: Tivat, naselje Kava\n\nStambena površina: 46 m²\n\nGaražno mjesto: 12 m²\n\nTerase: 88 m² (potpuno ograđen prostor, isključivo na korištenje uz stan)\n\nStan se nalazi u mirnom naselju Kava. Odlikuju ga prostrane, potpuno ograđene i privatne terase koje okružuju stan, ukupne površine 88 m².\n\nKljučne značajke:\n\n• 46 m² stambenog prostora\n\n• 88 m² privatnih terasa\n\n• 12 m² garažnog prostora\n\n• Dodatno parkirno mjesto ispred zgrade\n\n• Ograđen prostor s automatskom rampom\n\n• Mirna lokacija\n\n? Cijena: 260.000 € — agencijska provizija uključena\n\n...",
+      "description_language": "hr",
+      "city": "Tivat",
+      "published_date_raw": "30 Oct, 2026",
+      "updated_date_raw": "1 Nov, 2026",
+      "property_type_raw": "Prodajem Stan-Apartman",
+      "property_type": "apartment",
+      "deal_type": "sale",
+      "price_raw": "€260.000",
+      "price_amount": 260000,
+      "price_currency": "EUR",
+      "amenities": [],
+      "contact_phones": [],
+      "phone_e164": null,
+      "contact_candidates": [],
+      "phone_collection_status": "pending",
+      "phone_checked_at": null,
+      "phone_error_code": null,
+      "missing_core_fields": [],
+      "import_status": "ready_for_mapping",
+      "watermark_status": "sample_required",
+      "watermark_sample_url": "https://www.realitica.com/images/listing_photos/3955698_img_0750.jpeg",
+      "watermark_sample_image_number": 1,
+      "watermark_sample_result": "not_checked",
+      "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
+      "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
+      "transport": "brightdata_browser_api"
     }
   },
   "results": {
@@ -114209,7 +114283,6 @@
   },
   "updated_at": "2026-11-12T17:49:41.601807+00:00",
   "last_run_counts": {
-    "listings_checked": 218,
-    "reveal_requests": 7
+    "runtime_or_listing_limit": 1
   }
 }
