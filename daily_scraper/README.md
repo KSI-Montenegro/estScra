@@ -7,6 +7,9 @@ scheduled runs continue to check all three. Realitica searches follow the site's
 current root-query pagination links. A missing/challenged listing DOM is an access
 failure, not evidence that an ad was removed; only confirmed unavailable responses
 and redirects/canonical identity changes mark source records unavailable.
+Browser fallback waits for actual Realitica listing/search content after JavaScript challenges,
+including intermediate HTTP 202 pages with blank titles. Image challenges must resolve to a
+main-frame image response; HTML challenges and screenshots are never substituted for source photos.
 `--mode always` routes every page through Bright Data; this uses more paid requests.
 If the HTTP proxy returns target HTTP 403, the configured Browser API zone is tried.
 The default browser fallback uses the account's existing `estitorscraper2` zone.

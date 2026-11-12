@@ -70,6 +70,19 @@ class BrowserAPI:
                 try:
                     phase = 'configure'
                     page = browser.new_page()
+                    image_responses = []
+                    def main_image(candidate):
+                        try:
+                            return (candidate.status == 200 and
+                                    candidate.headers.get('content-type', '').lower().startswith('image/') and
+                                    candidate.request.is_navigation_request() and candidate.frame == page.main_frame and
+                                    urlsplit(candidate.url).scheme == 'https' and
+                                    urlsplit(candidate.url).hostname in self.allowed_hosts)
+                        except Exception:
+                            return False
+                    if binary:
+                        page.on('response', lambda candidate: image_responses.append(candidate)
+                                if main_image(candidate) else None)
                     # Save photo/font transfer; challenge resources on other hosts
                     # are left to the provider's browser service.
                     if not binary:
@@ -81,6 +94,13 @@ class BrowserAPI:
                     response = page.goto(transport_url(url), wait_until='domcontentloaded', timeout=60_000)
                     phase = 'content'
                     if binary:
+                        # A 202 HTML response can be a JS challenge followed by
+                        # navigation to the original image. Never use that HTML
+                        # (or a screenshot/subresource) as a listing photograph.
+                        if response and response.status not in (404, 410, 429) and (
+                                response.status != 200 or not response.headers.get('content-type', '').lower().startswith('image/')):
+                            response = image_responses[-1] if image_responses else page.wait_for_event(
+                                'response', predicate=main_image, timeout=30_000)
                         if not response or response.status != 200:
                             raise BrowserFailure('browser_source_http_' + str(response.status if response else 0))
                         if not response.headers.get('content-type', '').lower().startswith('image/'):
@@ -97,6 +117,19 @@ class BrowserAPI:
                         if time.monotonic() >= deadline:
                             raise BrowserFailure('browser_challenge_not_resolved')
                         page.wait_for_timeout(1000)
+                    if (urlsplit(url).hostname in ('realitica.com', 'www.realitica.com') and
+                            (response is None or response.status not in (404, 410, 429))):
+                        selector = '#listing_body' if '/listing/' in urlsplit(url).path else 'a[href*="/listing/"]'
+                        # AWS-style 202 pages may have a blank/ordinary title.
+                        # Wait for source content, within the same challenge budget.
+                        if not page.locator(selector).count():
+                            try:
+                                page.wait_for_selector(selector, state='attached',
+                                                       timeout=max(1, int((deadline-time.monotonic()) * 1000)))
+                            except Exception as exc:
+                                if type(exc).__name__ == 'TimeoutError':
+                                    raise BrowserFailure('browser_challenge_not_resolved') from None
+                                raise
                     if response and response.status == 429:
                         raise BrowserFailure('browser_source_http_429')
                     # A provider challenge can reload the page; accept only an

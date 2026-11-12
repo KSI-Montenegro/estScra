@@ -35,7 +35,7 @@ from photo_queue import prepare, enqueue, ordered_pending
 from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
 
-VERSION = 'one-property-sample-patuljak-v1'
+VERSION = 'one-property-sample-patuljak-v2-individual-unknown-text'
 HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com'}
 cv2.setNumThreads(1)
 
@@ -162,6 +162,26 @@ def decode(data):
         if image.width * image.height > 40_000_000:
             raise PhotoFailure('image_pixel_limit')
         return np.asarray(ImageOps.exif_transpose(image).convert('RGB'))
+
+
+def uncertain_text_sample(sample):
+    """Only generic text uncertainty qualifies; known logo/brand evidence stays held."""
+    try:
+        return (sample.get('result') == 'needs_review' and sample.get('reason') == 'unclassified_text'
+                and not sample.get('hits') and float(sample.get('score', 1)) < .65)
+    except (TypeError, ValueError):
+        return False
+
+
+def requeue_uncertain_text(state):
+    for prop in state['properties'].values():
+        if (prop.get('phase') != 'needs_review' or not uncertain_text_sample(prop.get('sample', {}))
+                or prop.get('individual_text_policy') == VERSION):
+            continue
+        for row in prop.get('images', {}).values():
+            if not row.get('ready_for_listing') and row.get('source_copy_url') and row.get('error_code') == 'unsupported_or_uncertain_mask':
+                row.update(upload_confirmed=False, pipeline_status='retry')
+        prop.update(phase='pending', individual_text_policy=VERSION)
 
 
 class Detector:
@@ -307,6 +327,7 @@ class PhotoWorker:
                     if code in ('image_api_request_limit', 'image_http_429', 'image_host_rate_limited'):
                         break
         flagged = known_pending or prop.get('sample', {}).get('result') != 'sample_passed'
+        individual_unknown = uncertain_text_sample(prop.get('sample', {}))
         for item in prop['input_images']:
             if self.time_exhausted():
                 break
@@ -362,7 +383,17 @@ class PhotoWorker:
                     # Gallery flagging is per property; mask location must still
                     # be established independently on each image before editing.
                     analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.for_removal(data)
-                    repaired, reason = self.repair(key, item, data, analysis)
+                    if individual_unknown and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
+                        analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.analyze(data)
+                        row['individual_text_analysis'] = {**analysis, 'source_sha256': digest, 'policy': VERSION}
+                        if analysis.get('result') == 'sample_passed':
+                            row.update(watermark_candidate=False, ready_for_listing=True,
+                                       watermark_status='per_image_no_detected_mark',
+                                       pipeline_status='ready_individually_checked_source', sample_only=False,
+                                       verification_scope='per_image_ocr_and_template')
+                            held = False
+                            self.counts['individually_cleared_sources'] += 1
+                    repaired, reason = self.repair(key, item, data, analysis) if held else (None, '')
                     if repaired:
                         content = Path(repaired['output_path']).read_bytes()
                         cleaned_url = self.store.put(repaired['key'], content, 'image/webp',
@@ -499,6 +530,7 @@ def main():
     with args.state.with_suffix('.lock').open('a') as lock:
         fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
         state = prepare(args.state, args.exports, args.listings, args.legacy_manifest)
+        requeue_uncertain_text(state)
         settings = r2_settings()
         store = None
         if args.upload:

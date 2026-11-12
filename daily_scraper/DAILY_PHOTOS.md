@@ -19,6 +19,10 @@ it does not substitute browser screenshots. A successful browser route is reused
    Existing known watermark flags are retained even if the sample is negative.
 6. For flagged galleries, locate a supported mask independently on each image. The calibrated
    Patuljak footer policy is supported. Unknown marks and uncertain masks remain held.
+   When the gallery flag came only from unclassified text (no brand hit or plausible known
+   logo), candidate photos receive their own full OCR/template check. A negative individual
+   check can release that source photo provisionally without erasing anything. The marked cover
+   stays held. Known brand/logo flags and failed repair QC are not cleared by this rule.
 7. Run local CPU LaMa only inside eligible masks. Check dimensions, exact outside-mask equality
    before lossy encoding, residual known-logo matching and focused brand OCR.
 8. Optimize to WebP, targeting 300 KB with a **400,000-byte ceiling**, then upload immutable source
@@ -50,6 +54,10 @@ Pending daily galleries are ordered by source capture time, newest first. The du
 checkpoint supplies timestamps on fresh runners, including when no new listing export exists.
 Old blocked downloads cannot hold the front of the queue indefinitely. Existing ready selections
 and completed galleries are retained; recency migration does not reopen them.
+Unclassified-text review galleries are requeued once for the individual-check policy.
+Each released photo records `individual_text_analysis`, its source digest and
+`verification_scope=per_image_ocr_and_template`. This remains automatic detection, not a
+certificate that every possible branding variant is absent. Already accepted cleaned URLs are preserved.
 
 For a failed photo stage, use the manual workflow's `photos_only` option. It restores checkpoints,
 processes photos and republishes the cumulative contact feed without discovery or phone reveals.

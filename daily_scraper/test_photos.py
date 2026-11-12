@@ -117,6 +117,56 @@ class PhotoTests(unittest.TestCase):
         self.assertEqual(prop['phase'], 'needs_review')
         self.assertTrue(all(not r['ready_for_listing'] for r in prop['images'].values()))
 
+    def test_uncertain_cover_does_not_hold_a_photo_that_passes_its_own_check(self):
+        w = self.worker()
+        class MixedDetector:
+            template = None
+            def analyze(self, data):
+                unclear = data == image_bytes()
+                return {'result': 'needs_review' if unclear else 'sample_passed',
+                        'reason': 'unclassified_text' if unclear else 'no_detected_mark_in_sample',
+                        'score': .1, 'box': [], 'hits': []}
+            for_removal = analyze
+        w.detector = MixedDetector()
+        prop = w.state['properties']['patuljak_123']
+        with patch.object(w, 'repair', return_value=(None, 'unsupported_or_uncertain_mask')) as repair:
+            w.process(prop)
+        self.assertEqual(repair.call_count, 1)
+        self.assertFalse(prop['images']['1']['ready_for_listing'])
+        self.assertTrue(prop['images']['2']['ready_for_listing'])
+        self.assertEqual(prop['images']['2']['verification_scope'], 'per_image_ocr_and_template')
+        self.assertEqual(prop['phase'], 'needs_review')
+
+    def test_individual_brand_detection_is_never_cleared_by_uncertain_cover_policy(self):
+        w = self.worker()
+        sample = {'result':'needs_review','reason':'unclassified_text','score':.1,'hits':[],'box':[]}
+        brand = {'result':'watermark_candidate','reason':'known_logo_or_brand','score':.9,
+                 'hits':[{'brand':'patuljak'}],'box':[1,2,3,4]}
+        with patch.object(w.detector,'analyze',side_effect=[sample,brand]), \
+             patch.object(w,'repair',return_value=(None,'unsupported_or_uncertain_mask')):
+            w.process(w.state['properties']['patuljak_123'])
+        self.assertFalse(any(row['ready_for_listing'] for row in w.state['properties']['patuljak_123']['images'].values()))
+
+    def test_unknown_text_review_requeues_once_and_preserves_cleaned_selections(self):
+        w = self.worker(); prop=w.state['properties']['patuljak_123']
+        prop.update(phase='needs_review',sample={'result':'needs_review','reason':'unclassified_text','score':.1,'hits':[]})
+        cleaned={'selected_version':'cleaned','cleaned_url':'accepted','ready_for_listing':True,'upload_confirmed':True}
+        prop['images']={'1':copy.deepcopy(cleaned),'2':{'source_copy_url':'source','ready_for_listing':False,
+                        'upload_confirmed':True,'error_code':'unsupported_or_uncertain_mask'}}
+        p.requeue_uncertain_text(w.state)
+        self.assertEqual(prop['images']['1'],cleaned)
+        self.assertEqual(prop['phase'],'pending')
+        self.assertFalse(prop['images']['2']['upload_confirmed'])
+        prop['phase']='needs_review'
+        p.requeue_uncertain_text(w.state)
+        self.assertEqual(prop['phase'],'needs_review')
+
+    def test_known_watermark_review_is_not_reopened_as_generic_text(self):
+        w=self.worker();prop=w.state['properties']['patuljak_123']
+        prop.update(phase='needs_review',sample={'result':'watermark_candidate','reason':'known_logo_or_brand','score':.95,'hits':[]})
+        p.requeue_uncertain_text(w.state)
+        self.assertEqual(prop['phase'],'needs_review')
+
     def test_existing_cleaned_images_never_sampled_or_downgraded(self):
         cleaned = {'image_number': 1, 'selected_version': 'cleaned', 'cleaned_url': BASE + '/clean.webp',
                    'active_url': BASE + '/clean.webp', 'source_copy_url': BASE + '/source.webp'}

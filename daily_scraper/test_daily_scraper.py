@@ -308,6 +308,48 @@ class DailyTests(unittest.TestCase):
         page.route.assert_not_called()
         browser.close.assert_called_once()
 
+    def test_realitica_202_waits_for_listing_dom_even_with_blank_title(self):
+        api=BrowserAPI('key','browser',scraper.ALLOWED_HOSTS);manager=MagicMock()
+        browser=manager.__enter__.return_value.chromium.connect_over_cdp.return_value
+        page=browser.new_page.return_value;page.url='https://www.realitica.com/hr/listing/123'
+        page.title.return_value='';page.locator.return_value.count.return_value=0
+        page.goto.return_value.status=202
+        page.content.return_value='<div id="listing_body"><h2>Property</h2></div>'
+        with patch.object(api,'auth_headers',return_value={'Authorization':'Basic masked'}), \
+             patch('playwright.sync_api.sync_playwright',return_value=manager):
+            body,_,_=api.get(page.url)
+        self.assertIn(b'listing_body',body)
+        self.assertEqual(page.wait_for_selector.call_args.args[0],'#listing_body')
+
+    def test_unresolved_realitica_202_is_access_failure_not_removed_ad(self):
+        api=BrowserAPI('key','browser',scraper.ALLOWED_HOSTS);manager=MagicMock()
+        browser=manager.__enter__.return_value.chromium.connect_over_cdp.return_value
+        page=browser.new_page.return_value;page.url='https://www.realitica.com/?for=Prodaja'
+        page.title.return_value='';page.locator.return_value.count.return_value=0
+        page.goto.return_value.status=202
+        page.wait_for_selector.side_effect=TimeoutError('not resolved')
+        with patch.object(api,'auth_headers',return_value={'Authorization':'Basic masked'}), \
+             patch('playwright.sync_api.sync_playwright',return_value=manager):
+            with self.assertRaisesRegex(BrowserFailure,'^browser_challenge_not_resolved$'):api.get(page.url)
+        browser.close.assert_called_once()
+
+    def test_image_challenge_waits_for_main_image_response_and_rejects_subresources(self):
+        api=BrowserAPI('key','browser',scraper.ALLOWED_HOSTS);manager=MagicMock()
+        browser=manager.__enter__.return_value.chromium.connect_over_cdp.return_value
+        page=browser.new_page.return_value;page.url=URL
+        first=page.goto.return_value;first.status=202;first.headers={'content-type':'text/html'}
+        final=MagicMock();final.status=200;final.headers={'content-type':'image/jpeg'};final.url=URL
+        final.request.is_navigation_request.return_value=True;final.frame=page.main_frame
+        final.body.return_value=b'actual-source-image';page.wait_for_event.return_value=final
+        with patch.object(api,'auth_headers',return_value={'Authorization':'Basic masked'}), \
+             patch('playwright.sync_api.sync_playwright',return_value=manager):
+            self.assertEqual(api.get_image(URL)[0],b'actual-source-image')
+        predicate=page.wait_for_event.call_args.kwargs['predicate']
+        self.assertTrue(predicate(final))
+        final.request.is_navigation_request.return_value=False
+        self.assertFalse(predicate(final))
+        page.screenshot.assert_not_called()
+
 
 if __name__ == '__main__':
     unittest.main()
