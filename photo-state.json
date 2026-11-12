@@ -351874,9 +351874,57 @@
       "input_signature": "a701f0e612131d26d8cc388e3c2638ace48d792bb3ec2c528b9dd1f66abd46c5",
       "origin": "daily",
       "phase": "pending",
-      "images": {},
+      "images": {
+        "1": {
+          "image_number": 1,
+          "original_url": "https://content.estitor.com/79c885c3-aa94-4a3d-bc09-8e404a78a6b5-lg.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649328/source/001-c6375b73ae64a268497aec78874f7f8f1fffa554f3bea06bebca7a2076a0b063.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649328/source/001-c6375b73ae64a268497aec78874f7f8f1fffa554f3bea06bebca7a2076a0b063.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "77e8007114375fbec0edf13740d6eb935fb180409fb8a7185fc536bd593eb71e",
+          "optimized_sha256": "c6375b73ae64a268497aec78874f7f8f1fffa554f3bea06bebca7a2076a0b063",
+          "bytes": 87098,
+          "dimensions": [
+            810,
+            1080
+          ],
+          "original_dimensions": [
+            810,
+            1080
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "deferred_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "runtime_run_limit"
+        }
+      },
       "failures": {},
-      "sample": {},
+      "sample": {
+        "result": "needs_review",
+        "reason": "unclassified_text",
+        "score": 0.4070749878883362,
+        "box": [
+          476,
+          951,
+          514,
+          997
+        ],
+        "hits": [],
+        "width": 810,
+        "height": 1080,
+        "other_text_detected": true,
+        "image_number": 1,
+        "sampled_url": "https://content.estitor.com/79c885c3-aa94-4a3d-bc09-8e404a78a6b5-lg.webp",
+        "source_sha256": "77e8007114375fbec0edf13740d6eb935fb180409fb8a7185fc536bd593eb71e",
+        "images_sampled": 1,
+        "images_attempted": 1,
+        "meaning": "One source image checked; remaining images are not individually certified."
+      },
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "source_page_captured_at": "2026-11-12T16:19:00.418561+00:00"
     }

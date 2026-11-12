@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_at": "2026-11-01T08:27:09.236246+00:00",
-  "last_run_at": "2026-11-12T16:19:00.489954+00:00",
+  "last_run_at": "2026-11-12T17:42:28.482364+00:00",
   "listings": {
     "estitor_139236": {
       "url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-139236",
@@ -14333,7 +14333,7 @@
       "url": "https://www.realitica.com/hr/listing/3955698",
       "first_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "status": "retry",
-      "attempts": 4,
+      "attempts": 5,
       "last_seen_at": "2026-11-01T08:28:05.510437+00:00",
       "last_deferred_reason": "brightdata_request_cap_reached",
       "last_error_code": "listing_body_missing_or_challenge"

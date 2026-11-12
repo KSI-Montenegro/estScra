@@ -108990,8 +108990,6 @@
   },
   "updated_at": "2026-11-12T16:19:50.833937+00:00",
   "last_run_counts": {
-    "listings_checked": 20,
-    "reveal_requests": 8,
-    "quota_or_reveal_limit_deferred": 7
+    "runtime_or_listing_limit": 1
   }
 }
