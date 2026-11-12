@@ -9,7 +9,7 @@ from pathlib import Path
 import re
 import time
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, urljoin
 from urllib.request import Request, urlopen, build_opener, HTTPRedirectHandler
 import zipfile
 
@@ -249,7 +249,8 @@ def collect(state, state_path, fetcher, reveal, cache, max_listings=300, max_rev
         if counts['listings_checked'] >= max_listings or time.monotonic() >= deadline:
             counts['runtime_or_listing_limit'] += 1
             break
-        if previous.get('retry_after', 0) > time.time():
+        legacy_auth_error = cookie and row['source'] == 'patuljak' and previous.get('error_code') == 'contact_HTTPError'
+        if previous.get('retry_after', 0) > time.time() and not legacy_auth_error:
             continue
         candidates = page_contacts(html.fromstring('<html/>'), row)
         if row['source'] == 'estitor' and not candidates and (
@@ -329,6 +330,26 @@ def collect(state, state_path, fetcher, reveal, cache, max_listings=300, max_rev
                 if exc.retry_after:
                     gate['resume_not_before'] = exc.retry_after
                     result['status'] = 'quota_deferred'
+            except HTTPError as exc:
+                # Authenticated reads do not follow redirects or forward the
+                # cookie. A login redirect and a deleted-ad redirect differ.
+                try:
+                    target = urlsplit(urljoin(row['listing_url'], (exc.headers or {}).get('Location', '')))
+                    same_host = target.scheme == 'https' and target.netloc == urlsplit(row['listing_url']).netloc
+                except ValueError:
+                    target, same_host = urlsplit(''), False
+                status, code = 'retry', 'source_http_' + str(exc.code)
+                if exc.code in (301, 302, 303, 307, 308) and same_host:
+                    if target.path in ('/login.html', '/login', '/prijava'):
+                        status, code = 'login_required', 'patuljak_session_required'
+                    elif target.path == '/':
+                        status, code = 'unavailable', 'contact_redirect_identity_mismatch'
+                elif exc.code in (404, 410):
+                    status = 'unavailable'
+                elif exc.code == 401:
+                    status, code = 'login_required', 'patuljak_session_required'
+                result = {'status': status, 'candidates': [], 'checked_at': now(),
+                          'error_code': code, 'retry_after': time.time() + 3600}
             except Exception as exc:
                 from daily_scraper import FetchFailure, UNAVAILABLE_CODES
                 code = str(exc) if isinstance(exc, FetchFailure) else 'contact_' + type(exc).__name__

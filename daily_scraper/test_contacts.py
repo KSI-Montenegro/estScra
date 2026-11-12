@@ -178,6 +178,37 @@ class ContactTests(unittest.TestCase):
             reveal.reveal.assert_not_called()
             self.assertEqual(state['records']['patuljak_123']['phone_e164'], '+38269123456')
 
+    def test_authenticated_login_redirect_is_not_reported_as_a_removed_ad(self):
+        with tempfile.TemporaryDirectory() as directory:
+            row=record('patuljak');state=self.state(row);opener=MagicMock()
+            opener.open.side_effect=HTTPError(row['listing_url'],302,'',{'Location':'/login.html'},io.BytesIO())
+            state['results'][row['property_key']]={'status':'retry','error_code':'contact_HTTPError',
+                                                  'retry_after':c.time.time()+3600}
+            with patch.object(c,'build_opener',return_value=opener):
+                self.worker(state,Path(directory),cookie='session=test')
+            self.assertEqual(state['results'][row['property_key']]['status'],'login_required')
+            self.assertEqual(state['results'][row['property_key']]['error_code'],'patuljak_session_required')
+            self.assertEqual(opener.open.call_count,1)
+
+    def test_authenticated_removed_ad_redirect_stays_on_original_host_without_following(self):
+        for location,expected in [('/', 'unavailable'),('https://example.org/', 'retry')]:
+            with self.subTest(location=location),tempfile.TemporaryDirectory() as directory:
+                row=record('patuljak');state=self.state(row);opener=MagicMock()
+                opener.open.side_effect=HTTPError(row['listing_url'],302,'',{'Location':location},io.BytesIO())
+                with patch.object(c,'build_opener',return_value=opener):
+                    self.worker(state,Path(directory),cookie='session=test')
+                self.assertEqual(state['results'][row['property_key']]['status'],expected)
+                self.assertEqual(opener.open.call_count,1)
+
+    def test_classified_authenticated_failures_keep_their_retry_cooldown(self):
+        with tempfile.TemporaryDirectory() as directory:
+            row=record('patuljak');state=self.state(row)
+            state['results'][row['property_key']]={'status':'retry','error_code':'source_http_403',
+                                                  'retry_after':c.time.time()+3600}
+            with patch.object(c,'build_opener') as opener:
+                self.worker(state,Path(directory),cookie='session=test')
+            opener.assert_not_called()
+
     def test_quota_deferred_ads_do_not_starve_an_accessible_source(self):
         with tempfile.TemporaryDirectory() as directory:
             state = self.state(record(ident='123'), record(ident='124'),

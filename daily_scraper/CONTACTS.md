@@ -30,6 +30,9 @@ See contact_pipeline_validation.json for the verified backfill counts and live w
   login_required. An existing owner-supplied PATULJAK_COOKIE can enable authenticated reads.
   Set it in the local secret environment and GitHub Actions secrets; do not put it in Git or chat.
   The cookie is sent only to the exact Patuljak host and redirects are disabled for that request.
+  A same-host redirect to login is reported as login_required; a redirect to the site root
+  is unavailable. Other HTTP/access failures remain retryable with their actual HTTP code.
+  Legacy generic authenticated HTTP errors are rechecked once to classify them correctly.
 - Footers, support numbers, unrelated ads and popups are excluded. The known Estitor platform
   number is excluded. No contact forms, messages, callbacks or outbound calls are submitted.
 
