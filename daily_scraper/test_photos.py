@@ -12,7 +12,7 @@ from urllib.error import HTTPError
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import process_photos as p
 from photo_catalog import R2Store, merge_catalog, sha, encode, OWNER, PREFIX
-from photo_queue import enqueue, prepare
+from photo_queue import enqueue, prepare, ordered_pending
 from PIL import Image
 
 BASE = 'https://cdn.example.com'
@@ -246,6 +246,59 @@ class PhotoTests(unittest.TestCase):
         resumed = prepare(self.root / 'state.json', exports.parent, legacy_manifest='', backfill=missing)
         self.assertEqual(resumed['properties']['patuljak_123']['phase'], 'complete')
         self.assertNotIn('private-contact', json.dumps(resumed))
+
+    def test_latest_daily_gallery_precedes_older_retries_and_legacy_work(self):
+        state = {'schema_version': 1, 'properties': {}}
+        old = {**self.record, 'source_page_captured_at': '2026-11-01T10:00:00Z'}
+        new = {**self.record, 'property_key': 'estitor_456',
+               'source_page_captured_at': '2026-11-12T11:00:00+00:00'}
+        enqueue(state, [old, new])
+        state['properties']['patuljak_123']['images']['1'] = {'pipeline_status': 'retry'}
+        enqueue(state, [{**self.record, 'property_key': 'realitica_789',
+                         'source_page_captured_at': '2026-11-12T12:00:00Z'}], 'legacy')
+        self.assertEqual([r['property_key'] for r in ordered_pending(state)],
+                         ['estitor_456', 'patuljak_123', 'realitica_789'])
+
+    def test_durable_contacts_restore_recency_without_replacing_ready_images(self):
+        state = {'schema_version': 1, 'properties': {}}
+        enqueue(state, [self.record])
+        old = state['properties']['patuljak_123']
+        old.update(phase='complete', images={'1': {'selected_version': 'cleaned', 'active_url': 'accepted'}},
+                   sample={'result': 'watermark_candidate'})
+        path = self.root / 'photo-state.json'; path.write_text(json.dumps(state))
+        (self.root / 'contact-state.json').write_text(json.dumps({'schema_version': 1, 'records': {
+            'patuljak_123': {**self.record, 'source_page_captured_at': '2026-11-12T10:00:00Z',
+                             'phone_e164': 'must-not-enter-photo-state'}}}))
+        resumed = prepare(path, self.root/'missing', legacy_manifest='', backfill=self.root/'missing')
+        prop = resumed['properties']['patuljak_123']
+        self.assertEqual(prop['source_page_captured_at'], '2026-11-12T10:00:00Z')
+        self.assertEqual(prop['phase'], 'complete')
+        self.assertEqual(prop['images'], old['images'])
+        self.assertEqual(prop['sample'], old['sample'])
+        self.assertNotIn('must-not-enter-photo-state', json.dumps(resumed))
+
+    def test_source_urls_preferred_over_enriched_ready_gallery(self):
+        state = {'schema_version': 1, 'properties': {}}
+        enqueue(state, [{**self.record, 'image_urls': [BASE+'/ready.webp'], 'source_image_urls': self.urls}])
+        self.assertEqual([r['original_url'] for r in state['properties']['patuljak_123']['input_images']], self.urls)
+
+    def test_recovery_priority_is_explicit_and_does_not_reopen_complete_galleries(self):
+        state = {'schema_version': 1, 'properties': {}}
+        enqueue(state, [self.record, {**self.record, 'property_key': 'estitor_456'}])
+        self.assertEqual(ordered_pending(state, ['estitor_456'])[0]['property_key'], 'estitor_456')
+        state['properties']['estitor_456']['phase'] = 'complete'
+        self.assertEqual([r['property_key'] for r in ordered_pending(state, ['estitor_456'])], ['patuljak_123'])
+        with self.assertRaisesRegex(ValueError, 'missing from photo queue'):
+            ordered_pending(state, ['estitor_999'])
+
+    def test_older_export_does_not_override_fresher_durable_source_inputs(self):
+        fresh = {**self.record, 'image_urls': [self.urls[1]],
+                 'source_page_captured_at': '2026-11-12T10:00:00Z'}
+        (self.root / 'contact-state.json').write_text(json.dumps({'schema_version': 1, 'records': {'patuljak_123': fresh}}))
+        folder = self.root/'exports/run'; folder.mkdir(parents=True)
+        (folder/'listings.json').write_text(json.dumps([{**self.record, 'source_page_captured_at': '2026-11-01T10:00:00Z'}]))
+        state = prepare(self.root/'photo-state.json', folder.parent, legacy_manifest='', backfill=self.root/'missing')
+        self.assertEqual([r['original_url'] for r in state['properties']['patuljak_123']['input_images']], [self.urls[1]])
 
     def test_download_whitelist_rejects_private_hosts_and_credentials(self):
         self.assertFalse(p.safe_url('https://127.0.0.1/a', p.HOSTS))

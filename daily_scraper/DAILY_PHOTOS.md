@@ -46,6 +46,18 @@ take priority over older backfill and legacy galleries. Three failed downloads b
 The initial catch-up contains about 2,000 property galleries. It is intentionally processed in batches;
 connecting the workflow does not imply that this backlog was completed by a three-property trial.
 
+Pending daily galleries are ordered by source capture time, newest first. The durable contact
+checkpoint supplies timestamps on fresh runners, including when no new listing export exists.
+Old blocked downloads cannot hold the front of the queue indefinitely. Existing ready selections
+and completed galleries are retained; recency migration does not reopen them.
+
+For a failed photo stage, use the manual workflow's `photos_only` option. It restores checkpoints,
+processes photos and republishes the cumulative contact feed without discovery or phone reveals.
+`priority_properties` accepts comma-separated property keys for a targeted recovery; completed
+and review galleries remain unchanged. Each run still obeys its photo/time/API/edit caps.
+Dependency installation retries transient downloads. Photo tests, model preparation and processing
+require successful installation so a failed package download does not cascade into missing-module errors.
+
 ## What the platform should import
 
 The original listing CSV/JSON remains the source capture. Import **`listings_with_photos.json`** or

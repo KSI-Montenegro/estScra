@@ -42,6 +42,13 @@ on:
         description: Update pending contacts and feeds without scraping new ads or processing photos
         type: boolean
         default: false
+      photos_only:
+        description: Recover queued photos and republish contacts without new discovery or phone reveals
+        type: boolean
+        default: false
+      priority_properties:
+        description: Optional comma-separated property keys to process first
+        default: ''
       max_phone_listings:
         description: Maximum pending listings checked for phones
         default: '300'
@@ -94,7 +101,7 @@ jobs:
           fi
       - name: Discover and export
         id: scrape
-        if: inputs.contacts_only != true && github.event.schedule != '37 * * * *'
+        if: inputs.contacts_only != true && inputs.photos_only != true && github.event.schedule != '37 * * * *'
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -115,7 +122,7 @@ jobs:
             --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS"
       - name: Collect listing phone numbers
         id: contacts
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.photos_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -127,23 +134,29 @@ jobs:
         if: always() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success'
         run: python daily_scraper/photo_queue.py
       - name: Install local photo processing tools
+        id: photo_tools
         if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-eng
-          python -m pip install -r daily_scraper/photo-requirements.txt
-          python -m pip install --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
+          sudo apt-get -o Acquire::Retries=3 update -qq
+          sudo apt-get -o Acquire::Retries=3 install -y -qq tesseract-ocr tesseract-ocr-eng
+          python -m pip install --retries 5 --timeout 60 -r daily_scraper/photo-requirements.txt
+          python -m pip install --retries 5 --timeout 60 --index-url https://download.pytorch.org/whl/cpu 'torch==2.8.0+cpu'
+      - name: Test scraper, contact and photo regression cases
+        if: always() && !cancelled() && steps.photo_tools.outcome == 'success'
+        id: photo_tests
+        run: python -m unittest discover -s daily_scraper -p 'test_*.py'
       - name: Cache pinned local LaMa model
-        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.photo_tools.outcome == 'success' && steps.photo_tests.outcome == 'success'
         uses: actions/cache@v4
         with:
           path: property_photo_pipeline/models
           key: local-lama-${{ hashFiles('property_photo_pipeline/lama_model.json') }}
       - name: Verify local LaMa model
-        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.photo_tools.outcome == 'success' && steps.photo_tests.outcome == 'success'
+        id: photo_model
         run: python property_photo_pipeline/install_local_lama.py
       - name: Detect, clean, optimize and upload property photos
-        if: always() && !cancelled() && inputs.contacts_only != true && github.event.schedule != '37 * * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && steps.photo_model.outcome == 'success'
         id: photos
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
@@ -155,15 +168,16 @@ jobs:
           MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || '1500' }}
           MAX_CLEAN_IMAGES: ${{ inputs.max_clean_images || '300' }}
           PHOTO_RUNTIME_SECONDS: ${{ inputs.photo_runtime_seconds || '2700' }}
+          PRIORITY_PROPERTIES: ${{ inputs.priority_properties }}
           OMP_THREAD_LIMIT: '1'
           OPENBLAS_NUM_THREADS: '1'
         run: |
           env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/process_photos.py \
             --execute --upload --max-properties "$MAX_PHOTO_PROPERTIES" \
             --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES" \
-            --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS"
+            --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS" --priority-properties "$PRIORITY_PROPERTIES"
       - name: Publish listings with updated contacts
-        if: always() && !cancelled() && steps.contacts.outcome == 'success'
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success' && (steps.contacts.outcome == 'success' || inputs.photos_only == true)
         env:
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}

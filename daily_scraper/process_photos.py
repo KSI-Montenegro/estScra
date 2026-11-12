@@ -31,7 +31,7 @@ from ocr_scan import ocr, brand_hits, token
 from watermark_mask import build_mask
 from remove_local import process_row, TorchInpainter
 from photo_catalog import R2Store, is_cleaned, csv_bytes, sha
-from photo_queue import prepare, enqueue
+from photo_queue import prepare, enqueue, ordered_pending
 from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
 
@@ -484,9 +484,13 @@ def main():
     parser.add_argument('--max-clean-images', type=int, default=300)
     parser.add_argument('--max-image-api-requests', type=int, default=100)
     parser.add_argument('--max-runtime-seconds', type=int, default=2700)
+    parser.add_argument('--priority-properties', default='', help='Comma-separated property keys to recover first')
     parser.add_argument('--execute', action='store_true')
     parser.add_argument('--upload', action='store_true')
     args = parser.parse_args()
+    priority = [key for key in re.split(r'[,\s]+', args.priority_properties.strip()) if key]
+    if any(not re.fullmatch(r'(estitor|patuljak|realitica)_\d+', key) for key in priority):
+        parser.error('Invalid priority property key')
     if not 1 <= args.max_properties <= 10000 or not 1 <= args.max_images <= 100000 or not 0 <= args.max_clean_images <= 10000 or args.max_runtime_seconds < 1:
         parser.error('Invalid photo run limits')
     if args.upload and not args.execute:
@@ -514,9 +518,7 @@ def main():
             cfg = json.loads((ROOT / 'property_photo_pipeline/lama_model.json').read_text())
             if not args.model.exists() or sha(args.model.read_bytes()) != cfg['sha256']:
                 raise ValueError('Install the pinned LaMa model before executing cleanup')
-        pending = [p for p in state['properties'].values() if p['phase'] == 'pending']
-        rank = {'daily': 0, 'backfill': 1, 'legacy': 2}
-        pending.sort(key=lambda p: rank.get(p.get('origin'), 3))
+        pending = ordered_pending(state, priority)
         # Persist each property as pending until the shared catalog pointer is
         # confirmed, so an interrupted publication is retried in the next run.
         completed = []
