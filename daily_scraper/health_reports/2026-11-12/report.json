@@ -1,0 +1,510 @@
+{
+  "checked_at": "2026-11-12T18:06:09.678469+00:00",
+  "checked_at_montenegro": "2026-11-12T19:06:09.678469+01:00",
+  "repository": "KSI-Montenegro/estScra",
+  "scope": "Real-estate scraper only; no CRM messages or queue changes performed.",
+  "findings_and_fixes": [
+    {
+      "issue": "2026-11-11 photo dependency installation failed on Ubuntu mirror DNS; cv2 step then ran without dependencies",
+      "fix": "APT/pip retries; dependent steps require successful installation, tests and model verification"
+    },
+    {
+      "issue": "Old retry galleries stayed ahead of recent captures",
+      "fix": "Durable capture timestamps, fresh-first daily ordering and explicit property recovery priorities"
+    },
+    {
+      "issue": "One uncertain text sample held every photograph in a gallery",
+      "fix": "Full individual OCR/template checks for unknown-text candidates; known brands and failed repair QC retain holds"
+    },
+    {
+      "issue": "Realitica intermediate JS challenge pages were parsed before source content appeared",
+      "fix": "Wait for actual source listing/search DOM; image challenges require original main-frame image bytes, never screenshots"
+    },
+    {
+      "issue": "Patuljak lacked an authenticated session; redirects were reported as generic HTTP errors",
+      "fix": "Verified session stored as encrypted Actions secret; login, deleted-ad and other HTTP failures classified separately"
+    }
+  ],
+  "phone_recovery": {
+    "recovered_listings": 202,
+    "by_source": {
+      "estitor": 7,
+      "patuljak": 195
+    },
+    "new_distinct_numbers": 34,
+    "existing_numbers_retained": true
+  },
+  "current_contacts": {
+    "total_listings": 987,
+    "with_phone": 944,
+    "with_single_phone": 847,
+    "by_status": {
+      "found": 847,
+      "login_required": 14,
+      "multiple_numbers": 97,
+      "no_public_number": 17,
+      "retry": 1,
+      "unavailable": 11
+    }
+  },
+  "photo_recovery": {
+    "additional_ready_in_requested_properties": 76,
+    "new_lama_cleaned": 23,
+    "new_individual_negative_checks": 38,
+    "total_ready_in_requested_properties": 88,
+    "properties_with_at_least_three_ready_images": 10,
+    "current_catalog": {
+      "available_images": 20671,
+      "ready_images": 8491,
+      "cleaned_images": 7574,
+      "remaining_candidates": 2521
+    }
+  },
+  "integrity": {
+    "requested_properties": 18,
+    "downloaded_ready_images": 88,
+    "all_hashes_and_sizes_match": true,
+    "all_webp_without_exif": true,
+    "maximum_bytes": 298706,
+    "ready_urls_match_record_arrays": true,
+    "previous_cleaned_urls_preserved": 7551,
+    "all_before_cleaned_urls_unchanged": true
+  },
+  "tests": {
+    "local_python_regressions": 90,
+    "yaml_and_shell_syntax": "passed",
+    "changed_source_credential_scan": "passed"
+  },
+  "live_verification_runs": [
+    {
+      "kind": "photo_queue_recovery",
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/43270503034",
+      "conclusion": "success"
+    },
+    {
+      "kind": "authenticated_phone_backfill",
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/43272499790",
+      "conclusion": "success"
+    },
+    {
+      "kind": "realitica_sale_rent_holiday_and_individual_photo_checks",
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/43273948268",
+      "conclusion": "success",
+      "realitica_discovered": 75,
+      "realitica_captured": 1,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "kind": "authenticated_redirect_classification",
+      "url": "https://github.com/KSI-Montenegro/estScra/actions/runs/43275130795",
+      "conclusion": "success"
+    }
+  ],
+  "consumer_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/latest.json",
+  "photo_catalog_index": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/latest.json",
+  "limits_and_remaining_work": [
+    "14 Patuljak ads still redirect to login with this session; one other contact remains retryable.",
+    "97 multiple-number records remain ambiguous; no arbitrary primary was selected.",
+    "Two requested galleries have only two producer-ready images.",
+    "Known unsupported branding and uncertain photos stay held; no claim that automatic OCR detects every watermark.",
+    "A successful bounded source check is not a complete historical crawl."
+  ],
+  "requested_properties": [
+    {
+      "property_key": "estitor_649982",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-649982",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 6,
+      "ready_image_count": 6,
+      "source_image_count": 6,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 6,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "complete",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/001-2631aeb35d8c925a7f96accd32236c197ac7c753901bb7c97d3375864e7d7c69.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/002-b600bbfb44725e92fb878739b23c03f3429e99b7ebcd70f12f2634456c150b5b.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/003-b047cc4130678c8aeef0226df4569afda81e0a8178edf5ed4fdd4605fd86747f.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/004-06108a26bface7477a689c3eab74f3a4b2c559cc9208e33645dbed397db4a4ce.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/005-f58eb8f9d42c88d9e73d09b09181283693123a5ae3c7fa607ca80772e6ae77e2.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649982/source/006-d7531ffcb690a6dbc71a92107638ca62ff48fcaecec91aa67aa9039e9602f580.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "estitor_649969",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649969",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 2,
+      "source_image_count": 4,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 2,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649969/source/002-6d13df183fe823949aff640107237957bab9c1308412f50d8eebf18b6ef9b082.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649969/source/004-c615e38fb3e0598eb8166016313f1c8a69f54e92256092d156ace1bb77df36ec.webp"
+      ],
+      "note": "Fewer than three producer-ready images; held/source-copy URLs are not gallery approvals."
+    },
+    {
+      "property_key": "estitor_649970",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-649970",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 6,
+      "source_image_count": 10,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 6,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/004-8c1ce432d4e312b7511ed5a643b2d5e8c1cd260e6d855b7716f37ca7624e1ba2.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/005-c7246e5fa3119e0bd4f34ff04c1fdf1024cdb6dcfbe13803eac33f86802fb274.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/006-6a9f43e622b52dfae4619d7e483409cac3e40cab46430795365cc8b647c98a8d.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/007-1eabd793b50fe4560a763386623ccf0929eec0316f5faf4beb4aea97539a95da.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/008-da16a64c9514c9d2b9e43f8898b2899e41741097d5f5fc794f8b133f53a5a2b8.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649970/source/010-4e35c4cd7d009099d3d8accccdf6100a27603a6804b1b6f52a42f6d91caaa70a.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "estitor_649879",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-649879",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 5,
+      "source_image_count": 5,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 5,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "complete",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649879/source/001-a7b35e80b00a07cbf585518b72f7497d073f3013ce00832ea93c7bc03974092b.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649879/source/002-071b49066bd0bee160566f4cd12ad2e8e47e75dde06fee8c514d3cce488982cb.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649879/source/003-773cc655789d75b92785d5caa09daf11162078c154c9eacba224bd3d9bf9c284.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649879/source/004-2fd280a27661d8b2bfb7c3656c987a57d083db94c4f81d2ae4263469ab558e2c.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649879/source/005-3f5c9ff16032e14275fcd3421ad32392d5b7efd88fd348e1d622b3d705d7bbe8.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "estitor_649897",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-kotor/id-649897",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 2,
+      "source_image_count": 10,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 2,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649897/source/006-a672fe688152605daf977def0aed701f07d829ca3f749541ef8c40b3caca4f37.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649897/source/008-6af4ff21f7c7f175c94a7691aef80216d0fb736483f7837461762aa0b3b2cf68.webp"
+      ],
+      "note": "Fewer than three producer-ready images; held/source-copy URLs are not gallery approvals."
+    },
+    {
+      "property_key": "estitor_649992",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649992",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 11,
+      "source_image_count": 20,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 11,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/003-22bd74087fcf4cc0ecd30ecf4bedc9cb07be5992c362e46822a658b7174cb799.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/004-c8dbb1a97f423ecabe9b89c807018c9460b599df7f7ee6cb4baa771d933a4565.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/005-39189ec79163828e4a00ed1906ec4ba5487681134d6a0182ace9f8f5688969d4.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/009-19e2b05e154a0d4fb39fdc5567bfba472d99543f07bb25c20a9bad2ce89aa211.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/011-a7327c1b9662e162210a2f516b98959f03a4eeb5355303fb8feb685b24bac3d8.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/012-ac6785249db0c0e81409e79fa0678b0780281593d23559f4da43d3dcab0d7023.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/014-b3e9148c3344a9d6e5d18a552ed1b9f918d6792197ef1994e611e530e4c2350b.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/015-532579f2cc47319d6d0bb96251ddf91ccc430c1fa206c6c04122dfaa5b98497f.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/016-2b51ae72bc0711cd6becf5c3b1922abfc8e096eb09b8c8fea0f16fd67bda130c.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/017-0bfac56ad12c62d5c29ffc46cd25acb13fad7248f4db20ac5d9d091f00da9efc.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649992/source/018-b2b225d4265a3ed0ff6fe680245e6845c68cf2dc1ef10663c881f38f412d80dd.webp"
+      ],
+      "note": "Text-heavy promotional cover remains held. Gallery photos can pass individual checks."
+    },
+    {
+      "property_key": "estitor_649931",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-tivat/id-649931",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 11,
+      "source_image_count": 20,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 11,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/006-75053031cb23896ca7b95444b541a267717eb369122864031090279a5938962c.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/007-f5898223f8b55bd4cc0b7789410a300d3b7c13fac4270dd21bc925408f91d024.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/009-36a9fb526f2e16f65cd9c2fd113b1673b291a5c5074ad5b7657565b811e07939.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/011-8e115b51559cb67b8bbe8e1d126473e3a3695db5be26496b73e73d060216a6e7.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/012-8522ccecb1eae8977c4d93aa7225ea3e73c8804f71d515aba02515fca2bcdd69.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/013-5566a73fba0322b337f66e3458f70135cdd66988188e9f877c56c4856e01cd97.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/014-0bdb77e9ed3e9ab3662196b1f6adb184214c3bf7827ccfcf808c83605d11b8a5.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/016-9eb7ca74d6435dfae6e7bf4af5a176ad213322334ac8dcb647e050064bce0e58.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/017-244a92839fd6d51a9f3200b9c4d2fba7e3dc6c9b3adc31fe701caa40bb023f14.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/019-f90135ccffcc3234f3cafeece976f26ac0311fe75e42832f5b97307eb32517fa.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649931/source/020-a3d79e2938c9891ef4a423a3cce462687d592076e4da4af1cc5b79a118134a89.webp"
+      ],
+      "note": "Sample has visible Seaside Living branding; per-image checks retain holds where detected."
+    },
+    {
+      "property_key": "patuljak_86379",
+      "listing_url": "https://patuljak.me/oglas/kuca-u-pluzinama--86379",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 12,
+      "source_image_count": 14,
+      "ready_cleaned_images": 12,
+      "ready_source_images": 0,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/001-73761bdd4b06e2fadbd9b3d07b3999036a8d5bc3f8930db19dadeaed75c952e4.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/002-664c8ddb276e95d7b4fa2eed31530f313bf686661dfb6f0b06d74606051afc02.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/003-7729040300c02258f3cdf5f967f57b6cb8104f4672c15dd8198a20f51e4498ff.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/004-730c59c25f913ec5a5078a1f2e8096c394055a71d75b98d707d0db2e9b861895.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/006-a977636fae6c14864f44d0a5a8e3cf8d315f3d12e897aeb75b545ea0e833a9c9.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/007-97a90c222fc3f76eb4daeebd37c21466b66e7bf7056c2b71e889749662ca9279.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/008-34e83715a6954c1c051883c607fdd28cbe8390c25609aca0e474bdcfd65d5378.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/009-084acf160ab671a18fe2b9f1b275826924def62419d2c3284a9c204776603087.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/010-cad3a592d016a01fd2aa414716694878b57fd588fbfe7d3d9aeb2ee7b32d5dfe.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/011-af822da59b0cc6135f3010c96d669588b970caf4ec1ade1c674bf14675b54708.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/013-10ade8bd506850bd733a472b526ac902658b83de061b48d425c85242b366fd89.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86379/cleaned/014-37cd6ab35fe985d6672d7b9e1781f9165624814c6100ca863dfe11a8f54db3c0.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "patuljak_86717",
+      "listing_url": "https://patuljak.me/oglas/stan-64m2-jedna-spavaca-kotor--86717",
+      "reported_crm_status": "queued",
+      "producer_ready_before": 0,
+      "ready_image_count": 11,
+      "source_image_count": 17,
+      "ready_cleaned_images": 11,
+      "ready_source_images": 0,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/003-a02687b2849542b938034fa4a7d6326023e2d998c53e3a64ae0e095df8f7906e.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/007-9164ffc746725ffaf82e2988985bfc1db98bd24ebb865c63e0c3e3b692fb5293.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/008-7b460e336b939a3617067748087e2fb4d58880f0ae54b0a8abb76ae64cbea1d1.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/009-b7af43ac6231c44430d7e490b757ec57b5f76d5887cac8ade772aeb3afdc99b3.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/010-1baa7a9b5c10fd43540bc5bf0f1e3cebbdeec5a9394aa8644e3f58457b23536e.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/011-5d8960496ab5ae43931f342e6cad73e1843d95153a2984753047b8e52b6b8082.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/012-8d35bb837410fbce402e4d5157fb279d53421420eb5b9a08aa0c609079053d1d.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/013-b269bbf1e86e06853bf6af49a35c4850c86ca6a49a269a1b23251d9896e4ebf5.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/014-d248c8cf64d342a720bb58ffb0e8ff28eee0ebf1361c48e12c933a86058635ac.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/015-adf77466092b0d9fb00eee436b64a226db28dc4cab4430a82f69faf47b211d9c.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/016-3caed83ecab1cf54975f458d6e93eccdad00d783dbb585fc01139eda1eef45f8.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "estitor_649885",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-bar/id-649885",
+      "reported_crm_status": "first_message_already_sent",
+      "producer_ready_before": 0,
+      "ready_image_count": 10,
+      "source_image_count": 10,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 10,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "complete",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/001-e3766f383c79bd32e038c3ccf3ff0e35366b123b307a220a09b48f1d6974154f.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/002-40691474e3b6bf4f40dd36a4f635ee0d792876d76f3a0d04dfbe55bdab4df4f2.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/003-5f545fe8c0feff5153b90899624375f995b7221f94a7e0ec05562d2827c3d988.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/004-ca47be78c01ccea91a9021f6083f32f58d417a05f819a5eaf467816cea9572ea.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/005-d702565d7722aa26380bc833d4e1c378fd36dfc28f706c8cd8322dc25f51a8ce.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/006-147619082117a138e7cbd11216b527ad61867eac05d5b5aeba30ab8b6a087a14.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/007-bb75b5c27fb6cecbee692f9472182613b9d63bd11f59aecbb2ce9a173b8f303e.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/008-f74522bdc4e5ceeb4fe93045ee6c9d7248417ba050a3476dde1247b9c2fa7f40.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/009-bbc382e840ad365ee38acc1c696179c92d26d1348589c13f32b38098c84cdcd2.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649885/source/010-ec389880f107c24237faa125582b5c28bf525ecca80eea29e77151f1d4801a8c.webp"
+      ],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "estitor_649873",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-podgorica/id-649873",
+      "reported_crm_status": "agency_queue",
+      "producer_ready_before": 0,
+      "ready_image_count": 6,
+      "source_image_count": 16,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 6,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "needs_review",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/004-f99fac4dc1496ceab928caed2bab7e8e344fa6346a4a03bc6bf5313135851565.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/005-320989f535b38ea1dbdb3f4eb28a2540ad89ec5ded27b36757f805522fb72a58.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/009-920a5d6fbb5d1021a8069b62c93997e14eafcd92ce01d9292c2e79e773d2ba3a.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/011-81a30562bd4996a3dfb9547c7f1b1b9a95fad66e66412b426ebc431efcd138ec.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/013-f38e26037d3a87c2347f92d389e8e246ee4e0404011ed81511c4fa4de9035830.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649873/source/014-617aa2b4102fa4f73136427c44ec4265a89688b433463d6c4d98586538a70829.webp"
+      ],
+      "note": "Sample has visible Luxury branding; existing agency queue is unchanged."
+    },
+    {
+      "property_key": "estitor_649204",
+      "listing_url": "https://estitor.com/me/nekretnine/namjena-prodaja/tip-stan/grad-kotor/id-649204",
+      "reported_crm_status": "skipped_no_price",
+      "producer_ready_before": 6,
+      "ready_image_count": 6,
+      "source_image_count": 6,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 6,
+      "meets_three_ready_images": true,
+      "photo_delivery_status": "complete",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/001-63bce3a105855bd9bdace9bd986c2f7deb8f8934eb57aedf43016d44b743a365.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/002-75c5da18626a53898217718e396a018b1e3eb4bea6411faa482612086f1fbc9e.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/003-ad3f960bd3259a0cb878d5c750a7cad2c30744e6f4ff0f2324820e3c12bf9fad.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/004-09d67d3b2dd59b392365c4783f01dbf3431e2cd91637c7c01be84d05e6722f5b.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/005-2807aaec6edded70c6602de09d613f556a0472bd651fa653326b04b01542188c.webp",
+        "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/estitor/649204/source/006-394ee9c010974b119d2df429270c82a2dc741c6275ab5839ea231441bbab74d1.webp"
+      ],
+      "note": "Ready photos do not resolve the missing price; qualification remains separate."
+    },
+    {
+      "property_key": "patuljak_86867",
+      "listing_url": "https://patuljak.me/oglas/izzdaje-se-vila-sa-bazenom-6-stanova--86867",
+      "reported_crm_status": "skipped_reported_removed",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 14,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "redirects_away_from_listing",
+      "ready_image_urls": [],
+      "note": "Current URL redirects away from this listing."
+    },
+    {
+      "property_key": "patuljak_86872",
+      "listing_url": "https://patuljak.me/oglas/prodajem-2-kuce-u-mojkovcu--86872",
+      "reported_crm_status": "skipped_few_usable_photos",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 5,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "not_rechecked_for_availability",
+      "ready_image_urls": [],
+      "note": "Use current producer photo status; preserve existing CRM preparation and outreach history."
+    },
+    {
+      "property_key": "realitica_3955786",
+      "listing_url": "https://www.realitica.com/hr/listing/3955786",
+      "reported_crm_status": "skipped_reported_removed",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 2,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "live_listing_verified",
+      "ready_image_urls": [],
+      "note": "Listing is live on direct recheck. An access/challenge failure is not a removed-ad result; requalify before deciding CRM disposition."
+    },
+    {
+      "property_key": "realitica_3955834",
+      "listing_url": "https://www.realitica.com/hr/listing/3955834",
+      "reported_crm_status": "skipped_reported_removed",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 4,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "live_listing_verified",
+      "ready_image_urls": [],
+      "note": "Listing is live on direct recheck. An access/challenge failure is not a removed-ad result; requalify before deciding CRM disposition."
+    },
+    {
+      "property_key": "realitica_3955967",
+      "listing_url": "https://www.realitica.com/hr/listing/3955967",
+      "reported_crm_status": "skipped_reported_removed",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 4,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "live_listing_verified",
+      "ready_image_urls": [],
+      "note": "Listing is live on direct recheck. An access/challenge failure is not a removed-ad result; requalify before deciding CRM disposition."
+    },
+    {
+      "property_key": "realitica_3956026",
+      "listing_url": "https://www.realitica.com/hr/listing/3956026",
+      "reported_crm_status": "skipped_reported_removed",
+      "producer_ready_before": 0,
+      "ready_image_count": 0,
+      "source_image_count": 4,
+      "ready_cleaned_images": 0,
+      "ready_source_images": 0,
+      "meets_three_ready_images": false,
+      "photo_delivery_status": "pending",
+      "contact_collection_status": "found",
+      "availability_recheck": "live_listing_verified",
+      "ready_image_urls": [],
+      "note": "Listing is live on direct recheck. An access/challenge failure is not a removed-ad result; requalify before deciding CRM disposition."
+    }
+  ],
+  "storage": {
+    "measured_at": "2026-11-12T18:07:21.526425+00:00",
+    "bucket_bytes": 4013539814,
+    "bucket_decimal_gb": 4.014,
+    "guard_bytes": 8000000000,
+    "within_guard": true
+  }
+}
