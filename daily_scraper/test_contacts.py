@@ -137,7 +137,7 @@ class ContactTests(unittest.TestCase):
         return {'schema_version': 1, 'records': {r['property_key']: r for r in rows}, 'results': {}, 'estitor_gate': {}}
 
     def worker(self, state, root, reveal=None, **kwargs):
-        fetcher = MagicMock(max_api=20, counts=Counter())
+        fetcher = MagicMock(max_api=20, counts=Counter(), next_request={}, interval=.7)
         reveal = reveal or MagicMock(api_requests=0)
         with patch.object(c.time, 'sleep'):
             c.collect(state, root / 'state.json', fetcher, reveal, root / 'cache', **kwargs)
