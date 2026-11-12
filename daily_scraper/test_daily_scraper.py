@@ -20,6 +20,13 @@ BODY = b'''<html lang="me"><head><link rel="canonical" href="https://patuljak.me
 
 
 class DailyTests(unittest.TestCase):
+    def test_realitica_search_follows_observed_current_paginator(self):
+        from urllib.parse import urlsplit, parse_qs
+        parts = urlsplit(scraper.search_url('realitica', 'Prodaja', 1))
+        self.assertEqual(parts.path, '/')
+        self.assertEqual(parse_qs(parts.query)['pState'], ['Crna Gora'])
+        self.assertEqual(parse_qs(parts.query)['cur_page'], ['1'])
+
     def small_run(self, root, found, fetch, extra=()):
         root = Path(root)
         baseline = root / 'baseline.json'; baseline.write_text('{"listings": {}}')

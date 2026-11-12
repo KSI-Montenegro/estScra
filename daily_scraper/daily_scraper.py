@@ -189,7 +189,8 @@ def searches(source):
 
 def search_url(source, value, page):
     if source == 'realitica':
-        return 'https://www.realitica.com/index.php?' + urlencode({
+        # Match the current site's own search/pagination links.
+        return 'https://www.realitica.com/?' + urlencode({
             'for': value, 'pState': 'Crna Gora', 'pZpa': 'Crna Gora',
             'qob': 'p-new', 'lng': 'hr', 'cur_page': page})
     if source == 'patuljak':

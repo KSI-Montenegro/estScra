@@ -6,6 +6,11 @@ on:
     - cron: '37 * * * *'
   workflow_dispatch:
     inputs:
+      source:
+        description: Portal to check, or all portals for the normal daily scan
+        type: choice
+        options: [all, realitica, patuljak, estitor]
+        default: all
       max_pages:
         description: Pages per search (coverage is bounded)
         default: '10'
@@ -110,6 +115,7 @@ jobs:
           MAX_LISTINGS: ${{ inputs.max_listings || '300' }}
           MAX_API_REQUESTS: ${{ inputs.max_api_requests || '100' }}
           SCRAPE_RUNTIME_SECONDS: ${{ inputs.scrape_runtime_seconds || '1200' }}
+          SOURCE: ${{ inputs.source || 'all' }}
         shell: bash
         run: |
           set -euo pipefail
@@ -118,8 +124,10 @@ jobs:
             echo 'BRIGHTDATA_API_KEY is not configured; running direct HTTPS only.'
             scrape_mode=direct
           fi
+          source_args=()
+          if [ "$SOURCE" != 'all' ]; then source_args+=(--sources "$SOURCE"); fi
           python daily_scraper/daily_scraper.py --mode "$scrape_mode" --max-pages "$MAX_PAGES" --max-listings "$MAX_LISTINGS" \
-            --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS"
+            --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS" "${source_args[@]}"
       - name: Collect listing phone numbers
         id: contacts
         if: always() && !cancelled() && inputs.photos_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
