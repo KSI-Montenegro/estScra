@@ -34,6 +34,8 @@ flags the property; the Oglasi centre stamp is located independently on every
 image that needs cleaning. The calibrated Oglasi word shape and placement select
 the mask; OCR does not choose an arbitrary erasure region. Unrecognized placement,
 additional unsupported text/brands, and failed checks remain held for review.
+Because verified Oglasi CDN originals have faint centre stamps, negative OCR
+alone never releases an Oglasi image whose calibrated stamp could not be located.
 Only the Oglasi template is selected automatically for these properties; scenery
 that resembles another portal's logo does not authorize a second edit region.
 

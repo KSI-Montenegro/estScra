@@ -482,7 +482,9 @@ def patch_remote_daily(state, store):
     if not url.startswith(store.public + '/graden-imports/property-photos/daily/'):
         raise ValueError('Daily listings outside owned delivery prefix')
     rows = store.get_json(url[len(store.public) + 1:])
-    updated = [apply_result(r, state['results'][r['property_key']]) if r['property_key'] in state['results'] else r for r in rows]
+    from phone_matches import annotate, legacy_records
+    updated = annotate([apply_result(r, state['results'][r['property_key']]) if r['property_key'] in state['results'] else r for r in rows],
+                       list(state['records'].values())+legacy_records())
     if updated == rows:
         return None
     fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count', 'photo_catalog_url']

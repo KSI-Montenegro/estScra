@@ -83,6 +83,7 @@
       "outside_mask_unchanged_before_encoding": true
     }
   ],
-  "regression_tests_passed": 128,
-  "github_validation": "pending"
+  "regression_tests_passed": 130,
+  "github_validation": "pending",
+  "negative_ocr_policy": "Oglasi expected stamp stays held until calibrated pose/removal verifies"
 }

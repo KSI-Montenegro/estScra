@@ -5,6 +5,8 @@ from pathlib import Path
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
+import io
 
 sys.path[:0]=[str(Path(__file__).resolve().parent),str(Path(__file__).resolve().parents[1])]
 import collect_images as galleries
@@ -84,6 +86,28 @@ class OglasiTests(unittest.TestCase):
         items=[('a'+str(i),{'url':'https://oglasi.me/nekretnine/stanovi/'+str(i)}) for i in range(5)]
         items += [('h'+str(i),{'url':'https://oglasi.me/nekretnine/kuce/'+str(i)}) for i in range(2)]
         self.assertEqual([key for key,_ in scraper.balanced_oglasi_pending(items)],['a0','h0','a1','h1','a2','a3','a4'])
+
+    def test_negative_ocr_does_not_release_an_unlocated_oglasi_stamp(self):
+        from PIL import Image
+        from process_photos import Detector
+        data=io.BytesIO();Image.new('RGB',(800,800),'blue').save(data,format='PNG')
+        with patch('process_photos.ocr',return_value=[]):
+            analysis=Detector().analyze(data.getvalue(),source='oglasi')
+        self.assertEqual(analysis['result'],'needs_review')
+        self.assertEqual(analysis['reason'],'oglasi_expected_stamp_not_located')
+
+    def test_policy_upgrade_rechecks_sources_and_preserves_cleaned_selections(self):
+        import process_photos as photos
+        cleaned={'selected_version':'cleaned','cleaned_url':'https://example.org/clean.webp','ready_for_listing':True}
+        state={'properties':{'oglasi_12345':{'phase':'complete','sample':{'result':'sample_passed'},
+                    'images':{'1':deepcopy(cleaned),'2':{'ready_for_listing':True,'upload_confirmed':True}}},
+                    'patuljak_99':{'phase':'complete','images':{}}}}
+        photos.requeue_oglasi(state)
+        prop=state['properties']['oglasi_12345']
+        self.assertEqual(prop['phase'],'pending');self.assertEqual(prop['sample'],{})
+        self.assertEqual(prop['images']['1'],cleaned)
+        self.assertFalse(prop['images']['2']['ready_for_listing'])
+        self.assertEqual(state['properties']['patuljak_99']['phase'],'complete')
 
 
 class PhoneMatchTests(unittest.TestCase):

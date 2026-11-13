@@ -36,6 +36,7 @@ from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
 
 VERSION = 'one-property-sample-patuljak-v2-individual-unknown-text'
+OGLASI_VERSION = 'oglasi-portal-centers-v1-expected-stamp'
 HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com', 'slike.oglasi.me'}
 cv2.setNumThreads(1)
 
@@ -184,6 +185,16 @@ def requeue_uncertain_text(state):
         prop.update(phase='pending', individual_text_policy=VERSION)
 
 
+def requeue_oglasi(state):
+    for key,prop in state['properties'].items():
+        if not key.startswith('oglasi_') or prop.get('photo_pipeline_version') == OGLASI_VERSION:
+            continue
+        for row in prop.get('images',{}).values():
+            if not is_cleaned(row):
+                row.update(upload_confirmed=False,ready_for_listing=False,pipeline_status='retry')
+        prop.update(phase='pending',sample={},photo_pipeline_version=OGLASI_VERSION)
+
+
 class Detector:
     def __init__(self, template=None):
         folder = ROOT / 'property_photo_pipeline/reference_assets'
@@ -196,6 +207,8 @@ class Detector:
     def analyze(self, data, mask_only=False, source=None):
         rgb = decode(data)
         height, width = rgb.shape[:2]
+        if min(width, height) < 100:
+            return {'result': 'needs_review', 'reason': 'small_preview_only', 'score': 0, 'box': [], 'hits': []}
         if source == 'oglasi':
             from portal_watermarks import build_mask as portal_mask
             _, meta = portal_mask(rgb, 'oglasi')
@@ -211,13 +224,13 @@ class Detector:
                             x1-8 <= (a+c)/2 <= x2+8 and y1-8 <= (b+d)/2 <= y2+8):
                         outside = True
             known = meta['eligible'] or bool(hits)
-            return {'result':'watermark_candidate' if known else 'needs_review' if text_found else 'sample_passed',
-                    'reason':'oglasi_calibrated_center' if meta['eligible'] else 'unclassified_text' if text_found else 'no_detected_mark_in_sample',
+            # Oglasi's CDN originals carry faint stamps that OCR can miss. A
+            # missing calibrated pose must stay held, even when OCR sees no text.
+            return {'result':'watermark_candidate' if known else 'needs_review',
+                    'reason':'oglasi_calibrated_center' if meta['eligible'] else 'unclassified_text' if text_found else 'oglasi_expected_stamp_not_located',
                     'score':0., 'box':[], 'hits':hits, 'width':width, 'height':height,
                     'other_text_detected':text_found, 'unsupported_text_outside_portal':outside,
                     'portal_mask_metadata':meta}
-        if min(width, height) < 100:
-            return {'result': 'needs_review', 'reason': 'small_preview_only', 'score': 0, 'box': [], 'hits': []}
         try:
             score, box, _ = match_image(rgb, self.template)
         except ValueError:
@@ -332,9 +345,10 @@ class PhotoWorker:
 
     def process(self, prop):
         key = prop['property_key']
+        version=OGLASI_VERSION if key.startswith('oglasi_') else VERSION
         current = self.catalog.get('properties', {}).get(key, {})
         existing = {str(r['image_number']): r for r in current.get('images', [])}
-        if current.get('photo_pipeline_version') == VERSION and current.get('input_signature') == prop['input_signature']:
+        if current.get('photo_pipeline_version') == version and current.get('input_signature') == prop['input_signature']:
             prop['sample'] = current.get('watermark_sample', {})
             for number, row in existing.items():
                 if row.get('pipeline_status') not in ('retry', 'deferred_cleanup'):
@@ -441,7 +455,7 @@ class PhotoWorker:
                     # Gallery flagging is per property; mask location must still
                     # be established independently on each image before editing.
                     analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key, removal=True)
-                    if (individual_unknown or key.startswith('oglasi_')) and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
+                    if individual_unknown and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
                         analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key)
                         row['individual_text_analysis'] = {**analysis, 'source_sha256': digest, 'policy': VERSION}
                         if analysis.get('result') == 'sample_passed':
@@ -493,7 +507,7 @@ class PhotoWorker:
         held = any(not r.get('ready_for_listing') for r in images.values())
         prop['phase'] = 'pending' if pending or not self.store else 'needs_review' if held else 'complete'
         update = {'property_key': key, 'listing_url': prop['listing_url'], 'watermark_sample': prop.get('sample', {}),
-                  'input_signature': prop['input_signature'], 'photo_pipeline_version': VERSION,
+                  'input_signature': prop['input_signature'], 'photo_pipeline_version': version,
                   'photo_pipeline_status': prop['phase'],
                   'images': [r for r in images.values() if r.get('source_copy_url')],
                   'unavailable': [r for r in images.values() if not r.get('source_copy_url')]}
@@ -589,6 +603,7 @@ def main():
         fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
         state = prepare(args.state, args.exports, args.listings, args.legacy_manifest)
         requeue_uncertain_text(state)
+        requeue_oglasi(state)
         settings = r2_settings()
         store = None
         if args.upload:
