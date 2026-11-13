@@ -23,6 +23,17 @@ class WatermarkPolicyTests(unittest.TestCase):
         self.assertEqual(out['photo_audit_status'],'partial');self.assertEqual(out['photo_pending_count'],1)
         self.assertFalse(out['photos_ready_for_publication'])
 
+    def test_old_cover_result_cannot_be_relabelled_as_a_new_per_image_check(self):
+        from process_photos import requeue_per_image
+        state={'properties':{'patuljak_1':{'phase':'complete','sample':{'result':'sample_passed','source_sha256':'old'},
+                'images':{},'input_images':[{'image_number':1}]}}}
+        requeue_per_image(state)
+        prop=state['properties']['patuljak_1']
+        self.assertEqual(prop['phase'],'pending');self.assertEqual(prop['sample'],{})
+        prop['phase']='needs_review'
+        requeue_per_image(state)
+        self.assertEqual(prop['phase'],'needs_review')
+
     def test_analysis_is_bound_to_source_bytes(self):
         row=checked_image();row['source_sha256']='changed'
         self.assertFalse(ready(row))

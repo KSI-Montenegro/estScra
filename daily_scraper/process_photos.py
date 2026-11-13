@@ -201,6 +201,7 @@ def requeue_per_image(state):
         if prop.get('per_image_policy')==POLICY:
             continue
         prop['per_image_policy']=POLICY
+        prop['sample']={}
         rows=prop.get('images',{})
         if any(not checked(rows.get(str(i['image_number']),{})) for i in prop.get('input_images',[])):
             prop['phase']='pending'
@@ -414,6 +415,7 @@ class PhotoWorker:
                             raise PhotoFailure('sample_source_identity_mismatch')
                     analysis = self.analyze_property(data, key)
                     prop['sample'] = {**analysis, 'image_number': first['image_number'], 'sampled_url': sample_url,
+                                      'policy':POLICY,
                                       'source_sha256': sha(data), 'images_sampled': 1, 'images_attempted': attempted,
                                       'meaning': 'One source image checked; remaining images are not individually certified.'}
                     self.counts['properties_sampled'] += 1
@@ -443,7 +445,7 @@ class PhotoWorker:
                 digest = sha(data)
                 if base and digest != base.get('source_sha256'):
                     prop['images'][number] = {**base, 'original_url': item['original_url'], 'reused_existing': True,
-                                             'ready_for_listing': False, 'pipeline_status': 'needs_review',
+                                             'ready_for_listing': False, 'publication_hold':True, 'pipeline_status': 'needs_review',
                                              'error_code': 'original_changed_since_existing_import',
                                              'watermark_candidate': bool(flagged or base.get('watermark_candidate'))}
                     self.checkpoint()
@@ -465,7 +467,7 @@ class PhotoWorker:
                 cached=base.get('watermark_analysis') or {}
                 analysis=(cached.get('analysis') if checked(base) and cached.get('source_sha256')==digest else None)
                 if not analysis:
-                    analysis=(prop['sample'] if prop.get('sample',{}).get('source_sha256')==digest
+                    analysis=(prop['sample'] if prop.get('sample',{}).get('policy')==POLICY and prop.get('sample',{}).get('source_sha256')==digest
                               else self.analyze_property(data,key))
                 row['watermark_analysis']=analysis_record(analysis,digest)
                 if base.get('watermark_candidate') and not is_cleaned(base) and row['watermark_analysis']['status']=='clean':
@@ -529,6 +531,7 @@ class PhotoWorker:
                 prop['failures'][number] = failures
                 if base:
                     prop['images'][number] = {**base, 'reused_existing': True, 'ready_for_listing': False,
+                                             'publication_hold':True,
                                              'watermark_candidate': bool(flagged or base.get('watermark_candidate')),
                                              'pipeline_status': 'needs_review', 'error_code': code}
                 else:
