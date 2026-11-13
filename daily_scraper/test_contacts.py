@@ -263,7 +263,9 @@ class ContactTests(unittest.TestCase):
             state = self.state(record(description='Call 069123456'))
             client = MemoryS3()
             store = R2Store(client, 'bucket', 'https://cdn.example.com')
-            prop = {'images': [{'image_number': 1, 'ready_for_listing': True, 'active_url': 'https://cdn.example.com/ready.webp'},
+            from watermark_policy import POLICY
+            prop = {'images': [{'image_number': 1, 'ready_for_listing': True, 'active_url': 'https://cdn.example.com/ready.webp',
+                               'source_sha256':'fixture','watermark_analysis':{'policy':POLICY,'source_sha256':'fixture','status':'clean'}},
                                {'image_number': 2, 'ready_for_listing': False, 'active_url': 'https://cdn.example.com/held.webp'}]}
             with patch.object(store, 'snapshot', return_value=({'properties': {'estitor_123': prop}}, 'etag')):
                 result = c.publish(state, store, directory)
@@ -296,14 +298,22 @@ class ContactTests(unittest.TestCase):
             client.put_object(Bucket='bucket', Key=pointer_key, Body=encode({'assets': {
                 'listings_with_photos.json': store.public + '/' + listing_key, 'summary.json': other}}),
                 Metadata={'owner': 'graden-daily-photos'})
-            c.patch_remote_daily(state, store)
+            image={'image_number':1,'selected_version':'cleaned','cleaned_url':row['image_urls'][0],
+                   'active_url':row['image_urls'][0],'ready_for_listing':True,
+                   'source_sha256':'source','repair_output_sha256':'output',
+                   'watermark_analysis':{'policy':__import__('watermark_policy').POLICY,'source_sha256':'source','status':'watermarked'},
+                   'delivered_watermark_analysis':{'policy':__import__('watermark_policy').POLICY,'source_sha256':'output','status':'clean'}}
+            catalog={'properties':{row['property_key']:{'images':[image]}}}
+            with patch.object(store,'snapshot',return_value=(catalog,'etag')):
+                c.patch_remote_daily(state, store)
             pointer = json.loads(client.objects[pointer_key]['Body'])
             key = pointer['assets']['listings_with_photos.json'].split(store.public + '/')[1]
             updated = json.loads(client.objects[key]['Body'])[0]
             self.assertEqual(updated['image_urls'], row['image_urls'])
             self.assertEqual(updated['phone_e164'], '+38269123456')
             self.assertEqual(pointer['assets']['summary.json'], other)
-            self.assertIsNone(c.patch_remote_daily(state, store))
+            with patch.object(store,'snapshot',return_value=(catalog,'etag')):
+                self.assertIsNone(c.patch_remote_daily(state, store))
 
 
 if __name__ == '__main__':

@@ -34,9 +34,10 @@ from photo_catalog import R2Store, is_cleaned, csv_bytes, sha
 from photo_queue import prepare, enqueue, ordered_pending
 from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
+from watermark_policy import POLICY,analysis_record,checked,decorate,listing_summary,agency_hits,INCIDENT_PROPERTIES
 
-VERSION = 'one-property-sample-patuljak-v2-individual-unknown-text'
-OGLASI_VERSION = 'oglasi-portal-centers-v1-expected-stamp'
+VERSION = POLICY
+OGLASI_VERSION = POLICY+'-oglasi'
 HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com', 'slike.oglasi.me'}
 cv2.setNumThreads(1)
 
@@ -195,6 +196,22 @@ def requeue_oglasi(state):
         prop.update(phase='pending',sample={},photo_pipeline_version=OGLASI_VERSION)
 
 
+def requeue_per_image(state):
+    for key,prop in state['properties'].items():
+        if prop.get('per_image_policy')==POLICY:
+            continue
+        prop['per_image_policy']=POLICY
+        rows=prop.get('images',{})
+        if any(not checked(rows.get(str(i['image_number']),{})) for i in prop.get('input_images',[])):
+            prop['phase']='pending'
+            for row in rows.values():
+                if not checked(row):
+                    row['upload_confirmed']=False
+                    if not is_cleaned(row):row.update(ready_for_listing=False,pipeline_status='retry')
+        if key in INCIDENT_PROPERTIES:
+            for row in rows.values():row.update(publication_hold=True,ready_for_listing=False)
+
+
 class Detector:
     def __init__(self, template=None):
         folder = ROOT / 'property_photo_pipeline/reference_assets'
@@ -213,7 +230,7 @@ class Detector:
             from portal_watermarks import build_mask as portal_mask
             _, meta = portal_mask(rgb, 'oglasi')
             words = ocr(cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR), 'tesseract', 30)
-            hits = brand_hits(words, width, height)
+            hits = brand_hits(words, width, height)+agency_hits(words,width,height)
             text_found = any(w['confidence'] >= 45 and len(token(w['text'])) >= 3 for w in words)
             outside = False
             if meta['eligible']:
@@ -243,7 +260,7 @@ class Detector:
                     'reason': 'known_logo_geometry' if score >= .85 else 'no_supported_mask_geometry',
                     'score': float(score), 'box': box, 'hits': [], 'width': width, 'height': height}
         words = ocr(cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR), 'tesseract', 30)
-        hits = brand_hits(words, width, height)
+        hits = brand_hits(words, width, height)+agency_hits(words,width,height)
         text_found = any(w['confidence'] >= 45 and len(token(w['text'])) >= 3 for w in words)
         known = score >= .85 or bool(hits)
         return {'result': 'watermark_candidate' if known else 'needs_review' if text_found else 'sample_passed',
@@ -253,6 +270,12 @@ class Detector:
 
     def for_removal(self, data, source=None):
         return self.analyze(data, mask_only=True, source=source)
+
+    def for_property(self,data,source,delivered=False):
+        result=self.analyze(data,source='oglasi' if source=='oglasi' else None)
+        if source=='patuljak' and not delivered and result.get('result')=='sample_passed':
+            result={**result,'result':'needs_review','reason':'patuljak_expected_stamp_not_located'}
+        return result
 
 
 class PhotoWorker:
@@ -277,6 +300,8 @@ class PhotoWorker:
         write_json(self.state_path, self.state)
 
     def repair(self, key, item, data, analysis):
+        if any(h.get('kind')=='agency' for h in analysis.get('hits',[])):
+            return None,'agency_watermark_requires_supported_mask'
         if key.startswith('oglasi_'):
             return self.repair_portal(key, item, data, analysis)
         if self.time_exhausted():
@@ -338,10 +363,12 @@ class PhotoWorker:
         return {'output_path':str(path),'output_sha256':digest,'output_bytes':len(encoded),'key':object_key,
                 'qc':proof,'mask_metadata':{'policy_id':portal_version}},''
 
-    def analyze_property(self, data, key, removal=False):
+    def analyze_property(self, data, key, removal=False,delivered=False):
+        if hasattr(self.detector,'for_property'):
+            return self.detector.for_property(data,key.split('_',1)[0],delivered)
         if key.startswith('oglasi_'):
             return self.detector.analyze(data, source='oglasi')
-        return self.detector.for_removal(data) if removal else self.detector.analyze(data)
+        return self.detector.analyze(data)
 
     def process(self, prop):
         key = prop['property_key']
@@ -356,8 +383,8 @@ class PhotoWorker:
         for number, row in existing.items():
             if is_cleaned(row):
                 prop['images'][number] = {**copy.deepcopy(row), 'reused_existing': True,
-                                          'ready_for_listing': True, 'pipeline_status': 'ready_existing_cleaned'}
-        unprocessed = [i for i in prop['input_images'] if not is_cleaned(prop['images'].get(str(i['image_number']), {}))]
+                                          'ready_for_listing':not row.get('publication_hold'), 'pipeline_status': 'ready_existing_cleaned'}
+        unprocessed = [i for i in prop['input_images'] if not checked(prop['images'].get(str(i['image_number']), {}))]
         if not prop['input_images']:
             prop['phase'] = 'no_images'
             self.checkpoint()
@@ -405,20 +432,9 @@ class PhotoWorker:
                 break
             number = str(item['image_number'])
             done = prop['images'].get(number)
-            if done and done.get('upload_confirmed') and done.get('pipeline_status') != 'deferred_cleanup':
+            if done and done.get('upload_confirmed') and checked(done) and done.get('pipeline_status') != 'deferred_cleanup':
                 continue
-            if done and is_cleaned(done) and done.get('reused_existing'):
-                self.counts['reused_cleaned'] += 1
-                continue
-            base = copy.deepcopy(existing.get(number, {}))
-            if base and not flagged and not base.get('watermark_candidate'):
-                prop['images'][number] = {**base, 'reused_existing': True, 'original_url': item['original_url'],
-                                         'ready_for_listing': True, 'pipeline_status': 'ready_sampled_source',
-                                         'watermark_status': 'sample_passed', 'sample_only': True,
-                                         'upload_confirmed': True, 'error_code': ''}
-                self.counts['reused_source'] += 1
-                self.checkpoint()
-                continue
+            base = copy.deepcopy(done or existing.get(number, {}))
             if self.counts['images_processed'] >= self.max_images:
                 break
             self.counts['images_processed'] += 1
@@ -446,42 +462,61 @@ class PhotoWorker:
                            'selected_version': 'source', 'source_sha256': digest, 'optimized_sha256': encoded_sha,
                            'bytes': len(encoded), 'dimensions': list(dimensions), 'original_dimensions': list(original_dimensions),
                            'quality': quality}
-                held = flagged or bool(base.get('watermark_candidate'))
-                row.update(watermark_candidate=bool(held), ready_for_listing=not held,
-                           watermark_status='sample_passed' if not held else 'needs_cleanup',
-                           pipeline_status='ready_sampled_source' if not held else 'needs_cleanup',
-                           sample_only=True, upload_confirmed=bool(self.store), error_code='')
-                if held:
-                    # Gallery flagging is per property; mask location must still
-                    # be established independently on each image before editing.
-                    analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key, removal=True)
-                    if individual_unknown and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
-                        analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key)
-                        row['individual_text_analysis'] = {**analysis, 'source_sha256': digest, 'policy': VERSION}
-                        if analysis.get('result') == 'sample_passed':
-                            row.update(watermark_candidate=False, ready_for_listing=True,
-                                       watermark_status='per_image_no_detected_mark',
-                                       pipeline_status='ready_individually_checked_source', sample_only=False,
-                                       verification_scope='per_image_ocr_and_template')
-                            held = False
-                            self.counts['individually_cleared_sources'] += 1
-                    repaired, reason = self.repair(key, item, data, analysis) if held else (None, '')
+                cached=base.get('watermark_analysis') or {}
+                analysis=(cached.get('analysis') if checked(base) and cached.get('source_sha256')==digest else None)
+                if not analysis:
+                    analysis=(prop['sample'] if prop.get('sample',{}).get('source_sha256')==digest
+                              else self.analyze_property(data,key))
+                row['watermark_analysis']=analysis_record(analysis,digest)
+                if base.get('watermark_candidate') and not is_cleaned(base) and row['watermark_analysis']['status']=='clean':
+                    row['watermark_analysis']['status']='unknown'
+                    row['watermark_analysis']['reason']='previous_watermark_flag_unresolved'
+                row['sample_only']=False
+                row['verification_scope']='per_image_original_and_delivered_checks'
+                held=row['watermark_analysis']['status']!='clean'
+                row.update(watermark_candidate=held,ready_for_listing=not held,
+                           watermark_status=row['watermark_analysis']['status'],
+                           pipeline_status='needs_cleanup' if held else 'ready_individually_checked_source',
+                           upload_confirmed=bool(self.store),error_code='')
+                if is_cleaned(base):
+                    # Existing edits are inspected as delivered, not assumed clear.
+                    row.update(selected_version='cleaned',active_url=base['cleaned_url'],reused_existing=True)
+                    delivered=self.downloader.get(base['cleaned_url'])
+                    if sha(delivered)!=base.get('repair_output_sha256',base['cleaned_url'].rsplit('-',1)[-1].split('.')[0]):
+                        raise PhotoFailure('cleaned_output_identity_mismatch')
+                    out=self.analyze_property(delivered,key,delivered=True)
+                    if key.startswith('oglasi_') and out.get('reason')=='oglasi_expected_stamp_not_located':
+                        out={**out,'result':'sample_passed','reason':'delivered_portal_stamp_not_detected'}
+                    row['delivered_watermark_analysis']=analysis_record(out,sha(delivered))
+                    hold=(row['delivered_watermark_analysis']['status']!='clean' or key in INCIDENT_PROPERTIES)
+                    row.update(publication_hold=hold,ready_for_listing=not hold,
+                               pipeline_status='needs_review' if hold else 'ready_existing_cleaned',
+                               error_code='reported_image_requires_residual_review' if key in INCIDENT_PROPERTIES else
+                                          'residual_mark_or_unclassified_overlay' if hold else '')
+                elif held:
+                    repaired,reason=self.repair(key,item,data,analysis)
                     if repaired:
-                        content = Path(repaired['output_path']).read_bytes()
-                        cleaned_url = self.store.put(repaired['key'], content, 'image/webp',
-                                                     {'source-sha256': digest, 'status': 'processed'}) if self.store else ''
-                        row.update(cleaned_url=cleaned_url, active_url=cleaned_url,
-                                   reused_existing=False,
-                                   selected_version='cleaned', watermark_status='processed_automated_checks',
-                                   pipeline_status='ready_cleaned', ready_for_listing=True,
-                                   repair_input_sha256=digest, repair_output_sha256=repaired['output_sha256'],
-                                   repair_output_bytes=repaired['output_bytes'], repair_qc=repaired['qc'],
-                                   repair_policy_id=repaired['mask_metadata']['policy_id'],
-                                   outside_mask_unchanged_before_encoding=True)
+                        content=Path(repaired['output_path']).read_bytes()
+                        out=self.analyze_property(content,key,delivered=True)
+                        if key.startswith('oglasi_') and out.get('reason')=='oglasi_expected_stamp_not_located':
+                            out={**out,'result':'sample_passed','reason':'delivered_portal_stamp_not_detected'}
+                        output_analysis=analysis_record(out,sha(content))
+                        clear=output_analysis['status']=='clean'
+                        cleaned_url=self.store.put(repaired['key'],content,'image/webp',
+                                                  {'source-sha256':digest,'status':'processed'}) if self.store else ''
+                        row.update(cleaned_url=cleaned_url,active_url=cleaned_url,selected_version='cleaned',
+                                   reused_existing=False,watermark_status='cleaned' if clear else 'watermarked',
+                                   pipeline_status='ready_cleaned' if clear else 'needs_review',ready_for_listing=clear,
+                                   publication_hold=not clear,repair_input_sha256=digest,
+                                   repair_output_sha256=repaired['output_sha256'],repair_output_bytes=repaired['output_bytes'],
+                                   repair_qc=repaired['qc'],repair_policy_id=repaired['mask_metadata']['policy_id'],
+                                   outside_mask_unchanged_before_encoding=True,delivered_watermark_analysis=output_analysis,
+                                   error_code='' if clear else 'residual_mark_or_unclassified_overlay')
                     else:
-                        row['error_code'] = reason
-                        if reason in ('removal_run_limit', 'runtime_run_limit'):
-                            row['pipeline_status'] = 'deferred_cleanup'
+                        row['error_code']=reason
+                        if reason in ('removal_run_limit','runtime_run_limit'):
+                            row['pipeline_status']='deferred_cleanup'
+                decorate(row)
                 if not self.store:
                     row.update(ready_for_listing=False, pipeline_status='upload_pending', error_code='upload_not_requested')
                 prop['images'][number] = row
@@ -511,6 +546,7 @@ class PhotoWorker:
                   'photo_pipeline_status': prop['phase'],
                   'images': [r for r in images.values() if r.get('source_copy_url')],
                   'unavailable': [r for r in images.values() if not r.get('source_copy_url')]}
+        update.update(listing_summary(list(images.values()),len(prop['input_images']),key))
         self.updates[key] = update
         self.checkpoint()
         print(json.dumps({'event': 'property_photos_processed', 'property_key': key, 'phase': prop['phase'],
@@ -523,6 +559,7 @@ def report(worker, output):
     write_json(output / 'properties.json', {'schema_version': 1, 'properties': properties})
     rows = [{**r, 'property_key': key, 'listing_url': p['listing_url']} for key, p in properties.items() for r in p['images']]
     atomic_write(output / 'images.csv', csv_bytes(rows))
+    atomic_write(output / 'watermark_audit.csv', csv_bytes(rows))
     atomic_write(output / 'watermark_exceptions.csv', csv_bytes([r for r in rows if not r.get('ready_for_listing')]))
     queue = io.StringIO(newline='')
     writer = csv.writer(queue)
@@ -544,7 +581,7 @@ def report(worker, output):
                'pending_properties': sum(p['phase'] == 'pending' for p in worker.state['properties'].values()),
                'properties_requiring_review': sum(p['phase'] == 'needs_review' for p in worker.state['properties'].values()),
                'hosted_editing_calls': 0, 'image_proxy_requests': worker.downloader.api_requests,
-               'sample_policy': 'One untouched representative image per property; flagged galleries locate a supported mask per image.',
+               'sample_policy': 'Every original and every delivered edit is checked independently; representative samples are compatibility metadata.',
                'delivery': 'uploaded_to_r2' if worker.store else 'prepared_locally_upload_pending'}
     write_json(output / 'summary.json', summary)
     return summary
@@ -559,13 +596,10 @@ def enrich_exports(exports, files, state, output, catalog_url=''):
             images = sorted(prop.get('images', {}).values(), key=lambda r: int(r['image_number']))
             ready = [r['active_url'] for r in images if r.get('ready_for_listing') and r.get('active_url')]
             sample = prop.get('sample', {})
-            records[record['property_key']] = {**record, 'source_image_urls': record.get('image_urls', []),
-                'image_urls': ready, 'image_count': len(ready), 'photos': images,
-                'photo_delivery_status': prop.get('phase', 'pending'), 'ready_image_count': len(ready),
-                'held_image_count': sum(not r.get('ready_for_listing') for r in images),
-                'photo_catalog_url': catalog_url, 'watermark_status': prop.get('phase', 'pending'),
-                'watermark_sample_url': sample.get('sampled_url'),
-                'watermark_sample_result': sample.get('result', 'not_checked')}
+            from watermark_policy import attach_photos
+            records[record['property_key']]=attach_photos(record,{
+                **prop,'images':images,'watermark_sample':sample,'photo_pipeline_status':prop.get('phase','pending')})
+            records[record['property_key']]['photo_catalog_url']=catalog_url
     rows = list(records.values())
     write_json(Path(output) / 'listings_with_photos.json', rows)
     fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count', 'photo_catalog_url']
@@ -604,6 +638,7 @@ def main():
         state = prepare(args.state, args.exports, args.listings, args.legacy_manifest)
         requeue_uncertain_text(state)
         requeue_oglasi(state)
+        requeue_per_image(state)
         settings = r2_settings()
         store = None
         if args.upload:

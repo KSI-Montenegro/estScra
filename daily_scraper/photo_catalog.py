@@ -16,7 +16,8 @@ FIELDS = ['property_key', 'listing_url', 'image_number', 'original_url', 'source
           'active_url', 'cleaned_url', 'selected_version', 'watermark_status', 'watermark_candidate',
           'ready_for_listing', 'pipeline_status', 'source_sha256', 'optimized_sha256', 'bytes',
           'repair_output_sha256', 'error_code', 'image_url', 'uploaded_url', 'optimized_bytes',
-          'upload_status', 'repair_status']
+          'upload_status', 'repair_status', 'watermark_check_status', 'watermark_portals',
+          'watermark_agencies', 'watermark_brands', 'publication_hold', 'verification_scope']
 
 
 def encode(value):
@@ -38,6 +39,8 @@ def csv_bytes(records):
                       'repair_status': 'processed' if is_cleaned(record) else 'pending'}
         row = {k: compatible.get(k, '') for k in FIELDS}
         for key, value in row.items():
+            if isinstance(value,(list,dict)):
+                value=json.dumps(value,ensure_ascii=False);row[key]=value
             if isinstance(value, str) and value.lstrip().startswith(('=', '+', '-', '@')):
                 row[key] = "'" + value
         writer.writerow(row)
@@ -102,10 +105,20 @@ def merge_catalog(current, updates):
             number = int(row['image_number'])
             prior = images.get(number)
             if prior and is_cleaned(prior):
-                # A later sample, changed input, failed edit or old snapshot may
-                # never downgrade an accepted existing cleaned selection.
-                prior['ready_for_listing'] = True
-                prior['pipeline_status'] = 'ready_existing_cleaned'
+                from watermark_policy import checked
+                if checked(row) and row.get('source_sha256')==prior.get('source_sha256'):
+                    # Refresh evidence and readiness while preserving immutable edits.
+                    immutable={k:prior[k] for k in ('cleaned_url','active_url','selected_version',
+                               'repair_output_sha256','repair_output_bytes') if k in prior}
+                    prior.update(copy.deepcopy(row));prior.update(immutable)
+                # Keep stored edits; new residual evidence can revoke readiness.
+                if row.get('publication_hold'):
+                    prior.update(publication_hold=True,ready_for_listing=False,pipeline_status='needs_review',
+                                 error_code=row.get('error_code','publication_hold'),
+                                 watermark_analysis=copy.deepcopy(row.get('watermark_analysis',prior.get('watermark_analysis',{}))))
+                else:
+                    prior['ready_for_listing'] = not prior.get('publication_hold',False)
+                    prior['pipeline_status'] = 'needs_review' if prior.get('publication_hold') else 'ready_existing_cleaned'
                 continue
             if prior and row.get('source_sha256') != prior.get('source_sha256'):
                 prior.update(ready_for_listing=False, pipeline_status='needs_review',
@@ -121,10 +134,15 @@ def merge_catalog(current, updates):
         props[key] = {**old, **{k: copy.deepcopy(v) for k, v in delta.items() if k not in ('images', 'unavailable')},
                       'images': [images[n] for n in sorted(images)],
                       'unavailable': [unavailable[n] for n in sorted(unavailable)]}
+    from watermark_policy import listing_summary
+    for key,prop in props.items():
+        expected=max(prop.get('photo_expected_count',0),len(prop.get('images',[]))+len(prop.get('unavailable',[])))
+        prop.update(listing_summary(prop.get('images',[]),expected,key))
     rows = [r for p in props.values() for r in p.get('images', [])]
+    from watermark_policy import decorate
     for row in rows:
         if is_cleaned(row):
-            row['ready_for_listing'] = True
+            row['ready_for_listing'] = not row.get('publication_hold',False)
             row.setdefault('pipeline_status', 'ready_existing_cleaned')
             match = re.search(r'-([0-9a-f]{64})\.webp$', row['cleaned_url'])
             if match:
@@ -132,14 +150,15 @@ def merge_catalog(current, updates):
         else:
             row.setdefault('ready_for_listing', False)
             row.setdefault('pipeline_status', 'needs_cleanup' if row.get('watermark_candidate') else 'pending_property_sample')
+        decorate(row)
     result.update(schema_version=1, updated_at=datetime.now(timezone.utc).isoformat(),
                   daily_photo_pipeline_version=1, available_images=len(rows),
                   unavailable_images=sum(len(p.get('unavailable', [])) for p in props.values()),
                   cleaned_images=sum(is_cleaned(r) for r in rows),
                   watermark_candidates=sum(bool(r.get('watermark_candidate')) for r in rows),
-                  remaining_candidates=sum(bool(r.get('watermark_candidate')) and not is_cleaned(r) for r in rows),
-                  ready_images=sum(is_cleaned(r) or r.get('ready_for_listing') is True for r in rows),
-                  note='sample_passed is provisional one-image sampling, not verification of every photo. Held source copies are not ready galleries.')
+                  remaining_candidates=sum(bool(r.get('watermark_candidate') or r.get('publication_hold')) and not r.get('ready_for_listing') for r in rows),
+                  ready_images=sum(r.get('ready_for_listing') is True for r in rows),
+                  note='Ready source images require per-image checks. Cleaned files with residual holds are excluded from ready galleries.')
     return result
 
 
@@ -252,7 +271,13 @@ class R2Store:
                       'all_images.csv': (csv_bytes(rows), 'text/csv; charset=utf-8'),
                       'cleaned_images.csv': (csv_bytes([r for r in rows if is_cleaned(r)]), 'text/csv; charset=utf-8'),
                       'watermark_candidates.csv': (csv_bytes([r for r in rows if r.get('watermark_candidate')]), 'text/csv; charset=utf-8'),
-                      'watermark_remaining.csv': (csv_bytes([r for r in rows if r.get('watermark_candidate') and not is_cleaned(r)]), 'text/csv; charset=utf-8')}
+                      'watermark_remaining.csv': (csv_bytes([r for r in rows if (r.get('watermark_candidate') or r.get('publication_hold')) and not r.get('ready_for_listing')]), 'text/csv; charset=utf-8'),
+                      'ready_images.csv': (csv_bytes([r for r in rows if r.get('ready_for_listing')]),'text/csv; charset=utf-8'),
+                      'held_images.csv': (csv_bytes([r for r in rows if not r.get('ready_for_listing')]),'text/csv; charset=utf-8')}
+            routing=[{'property_key':k,**{field:p.get(field) for field in ('photo_audit_status','photo_audited_count','photo_pending_count',
+                     'watermark_agencies','reported_agency_brands','all_photos_agency_branded','suggested_contact_queue','agency_routing_reason')}}
+                     for k,p in sorted(catalog['properties'].items())]
+            assets['agency_routing.json']=(encode(routing),'application/json')
             summary = {k: catalog[k] for k in ('available_images', 'cleaned_images', 'remaining_candidates', 'watermark_candidates', 'ready_images', 'unavailable_images')}
             assets['summary.json'] = (encode(summary), 'application/json')
             zipped = io.BytesIO()

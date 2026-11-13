@@ -307,7 +307,7 @@ def parse_listing(body, url, source, ident, captured_at):
     if not images:
         r['missing_core_fields'].append('images')
     r['import_status'] = 'ready_for_mapping' if not r['missing_core_fields'] and not r['quality_flags'] else 'needs_review'
-    r['watermark_status'] = 'sample_required' if images else 'no_images'
+    r['watermark_status'] = 'per_image_check_required' if images else 'no_images'
     r['watermark_sample_url'] = images[0] if images else None
     r['watermark_sample_image_number'] = 1 if images else None
     r['watermark_sample_result'] = 'not_checked'
@@ -332,6 +332,9 @@ CSV_FIELDS = ['property_key', 'source', 'listing_id', 'listing_url', 'first_seen
               'published_date_raw', 'updated_date', 'updated_date_raw', 'advertiser_name', 'phone_e164',
               'contact_phones', 'phone_collection_status', 'phone_checked_at', 'phone_error_code',
               'phone_match_status', 'phone_match_count', 'matched_property_keys', 'phone_matches',
+              'photo_audit_status','photo_audited_count','photo_pending_count','photos_ready_for_publication',
+              'watermark_agencies','reported_agency_brands','all_photos_agency_branded',
+              'suggested_contact_queue','agency_routing_reason',
               'image_count', 'image_urls', 'import_status', 'missing_core_fields',
               'watermark_status', 'watermark_sample_url', 'watermark_sample_result']
 
@@ -526,7 +529,7 @@ def run(args):
                'limits_reached': limits, 'requests': dict(fetcher.counts), 'discovery': reports,
                'coverage': 'bounded_scan; increase max-pages for deeper coverage',
                'photo_delivery': 'source_urls_only; optimization_and_R2_photo_upload_are_separate',
-               'watermark_check': 'one_representative_image_queued_per_property; not_analyzed',
+               'watermark_check': 'per_image_checks_queued; not_analyzed',
                'status': 'completed_with_errors' if errors else 'completed_with_warnings' if warnings else 'completed_with_limits' if limits else 'completed_with_backlog' if backlog else 'completed'}
     archive = export_run(run_folder, records, errors, summary, warnings)
     for record in records:

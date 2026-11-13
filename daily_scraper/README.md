@@ -1,5 +1,9 @@
 # GRADEN daily property feed
 
+Current photo checks, schedules, agency routing fields and incident containment:
+[workflow handoff](WORKFLOW_HANDOFF.md). Publication uses per-image evidence;
+legacy representative samples do not release a complete gallery.
+
 Discovers ads from Realitica, Patuljak, Estitor and Oglasi.me without a browser extension.
 Uses direct verified HTTPS first, with the existing Bright Data zone as a fallback.
 The manual workflow's `source` selector can limit a diagnostic run to one portal;

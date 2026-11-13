@@ -89,15 +89,15 @@ class PhotoTests(unittest.TestCase):
                              FakeDownloader(self.root / 'cache', dict(zip(self.urls, [image_bytes(), image_bytes('red')]))),
                              self.root / 'model.pt', **kw)
 
-    def test_negative_sample_checks_only_one_image_then_uploads_gallery(self):
+    def test_every_image_is_checked_even_when_the_cover_passes(self):
         w = self.worker()
         prop = w.state['properties']['patuljak_123']
         w.process(prop)
-        self.assertEqual(w.detector.calls, 1)
+        self.assertEqual(w.detector.calls, 2)
         self.assertEqual(prop['sample']['images_sampled'], 1)
         self.assertEqual(prop['phase'], 'complete')
         self.assertEqual(len(w.store.puts), 2)
-        self.assertTrue(all(r['watermark_status'] == 'sample_passed' for r in prop['images'].values()))
+        self.assertTrue(all(r['watermark_status'] == 'clean' for r in prop['images'].values()))
         self.assertTrue(all(r['bytes'] <= 400000 for r in prop['images'].values()))
 
     def test_resume_does_not_reencode_uploaded_images_or_resample(self):
@@ -134,7 +134,7 @@ class PhotoTests(unittest.TestCase):
         self.assertEqual(repair.call_count, 1)
         self.assertFalse(prop['images']['1']['ready_for_listing'])
         self.assertTrue(prop['images']['2']['ready_for_listing'])
-        self.assertEqual(prop['images']['2']['verification_scope'], 'per_image_ocr_and_template')
+        self.assertEqual(prop['images']['2']['verification_scope'], 'per_image_original_and_delivered_checks')
         self.assertEqual(prop['phase'], 'needs_review')
 
     def test_individual_brand_detection_is_never_cleared_by_uncertain_cover_policy(self):
@@ -234,7 +234,7 @@ class PhotoTests(unittest.TestCase):
                    repair_policy_id='patuljak-footer-stable-colors-v2-filled-word-bands', outside_mask_unchanged_before_encoding=True)
         store.verify_image(row)
 
-    def test_existing_sampled_sources_are_reused_without_downloading_gallery(self):
+    def test_previous_sample_cannot_skip_another_originals_identity_check(self):
         raw = image_bytes()
         base = {'image_number': 2, 'source_copy_url': BASE + '/existing.webp', 'active_url': BASE + '/existing.webp',
                 'selected_version': 'source', 'source_sha256': 'old', 'watermark_candidate': False}
@@ -242,8 +242,9 @@ class PhotoTests(unittest.TestCase):
         prop = w.state['properties']['patuljak_123']
         with patch.object(w.downloader, 'get', wraps=w.downloader.get) as get:
             w.process(prop)
-            self.assertEqual(get.call_count, 2)  # First image is sampled and encoded; second reuses R2.
-        self.assertEqual(w.counts['reused_source'], 1)
+            self.assertEqual(get.call_count, 3)
+        self.assertFalse(prop['images']['2']['ready_for_listing'])
+        self.assertEqual(prop['images']['2']['error_code'],'original_changed_since_existing_import')
         self.assertEqual(prop['images']['2']['active_url'], BASE + '/existing.webp')
 
     def test_new_daily_inputs_are_prioritized_over_backfill(self):
@@ -257,7 +258,10 @@ class PhotoTests(unittest.TestCase):
         source = folder / 'listings.json'; source.write_text(json.dumps([self.record]))
         state = {'properties': {'patuljak_123': {'phase': 'needs_review',
             'sample': {'result': 'watermark_candidate', 'sampled_url': self.urls[0]},
-            'images': {'1': {'image_number': 1, 'active_url': BASE + '/clean.webp', 'ready_for_listing': True},
+            'images': {'1': {'image_number': 1, 'active_url': BASE + '/clean.webp', 'ready_for_listing': True,
+                             'selected_version':'cleaned','cleaned_url':BASE+'/clean.webp','source_sha256':'source','repair_output_sha256':'output',
+                             'watermark_analysis':{'policy':p.POLICY,'source_sha256':'source','status':'watermarked'},
+                             'delivered_watermark_analysis':{'policy':p.POLICY,'source_sha256':'output','status':'clean'}},
                        '2': {'image_number': 2, 'active_url': BASE + '/held.webp', 'ready_for_listing': False}}}}}
         rows = p.enrich_exports(folder.parent, [], state, self.root / 'out', BASE + '/latest.json')
         self.assertEqual(rows[0]['image_urls'], [BASE + '/clean.webp'])
@@ -392,8 +396,8 @@ class PhotoTests(unittest.TestCase):
         w.downloader.contents[BASE + '/source.webp'] = raw
         with patch.object(w.downloader, 'get', wraps=w.downloader.get) as get:
             w.process(prop)
-            self.assertEqual(get.call_count, 1)
-            self.assertEqual(get.call_args.args[0], BASE + '/source.webp')
+            self.assertEqual(get.call_count, 2)
+            self.assertEqual(get.call_args.args[0], self.urls[0])
         self.assertEqual(prop['phase'], 'complete')
 
     def test_removal_ocr_only_runs_for_weak_but_plausible_geometry(self):

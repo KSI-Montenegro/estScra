@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '17 7 * * *'
     - cron: '37 * * * *'
+    - cron: '47 */3 * * *'
   workflow_dispatch:
     inputs:
       source:
@@ -106,7 +107,7 @@ jobs:
           fi
       - name: Discover and export
         id: scrape
-        if: inputs.contacts_only != true && inputs.photos_only != true && github.event.schedule != '37 * * * *'
+        if: inputs.contacts_only != true && inputs.photos_only != true && github.event.schedule != '37 * * * *' && github.event.schedule != '47 */3 * * *'
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -130,7 +131,7 @@ jobs:
             --max-api-requests "$MAX_API_REQUESTS" --max-runtime-seconds "$SCRAPE_RUNTIME_SECONDS" "${source_args[@]}"
       - name: Collect listing phone numbers
         id: contacts
-        if: always() && !cancelled() && inputs.photos_only != true && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
+        if: always() && !cancelled() && inputs.photos_only != true && github.event.schedule != '47 */3 * * *' && steps.restore.outcome == 'success' && steps.install.outcome == 'success'
         env:
           BRIGHTDATA_API_KEY: ${{ secrets.BRIGHTDATA_API_KEY }}
           BRIGHTDATA_ZONE: ${{ vars.BRIGHTDATA_ZONE || 'esstitor_site_phone_scraper' }}
@@ -176,10 +177,11 @@ jobs:
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           BRIGHTDATA_BROWSER_ZONE: ${{ vars.BRIGHTDATA_BROWSER_ZONE || 'estitorscraper2' }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          MAX_PHOTO_PROPERTIES: ${{ inputs.max_photo_properties || '300' }}
-          MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || '1500' }}
-          MAX_CLEAN_IMAGES: ${{ inputs.max_clean_images || '300' }}
-          PHOTO_RUNTIME_SECONDS: ${{ inputs.photo_runtime_seconds || '2700' }}
+          MAX_PHOTO_PROPERTIES: ${{ inputs.max_photo_properties || (github.event.schedule == '47 */3 * * *' && '25' || '300') }}
+          MAX_PHOTO_IMAGES: ${{ inputs.max_photo_images || (github.event.schedule == '47 */3 * * *' && '250' || '1500') }}
+          MAX_CLEAN_IMAGES: ${{ inputs.max_clean_images || (github.event.schedule == '47 */3 * * *' && '25' || '300') }}
+          PHOTO_RUNTIME_SECONDS: ${{ inputs.photo_runtime_seconds || (github.event.schedule == '47 */3 * * *' && '900' || '2700') }}
+          MAX_IMAGE_API_REQUESTS: ${{ github.event.schedule == '47 */3 * * *' && '5' || '100' }}
           PRIORITY_PROPERTIES: ${{ inputs.priority_properties }}
           OMP_THREAD_LIMIT: '1'
           OPENBLAS_NUM_THREADS: '1'
@@ -187,9 +189,10 @@ jobs:
           env -u AWS_PROFILE -u AWS_DEFAULT_PROFILE python daily_scraper/process_photos.py \
             --execute --upload --max-properties "$MAX_PHOTO_PROPERTIES" \
             --max-images "$MAX_PHOTO_IMAGES" --max-clean-images "$MAX_CLEAN_IMAGES" \
-            --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS" --priority-properties "$PRIORITY_PROPERTIES"
+            --max-runtime-seconds "$PHOTO_RUNTIME_SECONDS" --priority-properties "$PRIORITY_PROPERTIES" \
+            --max-image-api-requests "$MAX_IMAGE_API_REQUESTS"
       - name: Publish listings with updated contacts
-        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success' && (steps.contacts.outcome == 'success' || inputs.photos_only == true)
+        if: always() && !cancelled() && steps.restore.outcome == 'success' && steps.install.outcome == 'success' && (steps.contacts.outcome == 'success' || inputs.photos_only == true || github.event.schedule == '47 */3 * * *')
         env:
           R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
           R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}

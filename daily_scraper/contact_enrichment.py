@@ -415,21 +415,21 @@ def publish(state, store, output):
     from daily_scraper import CSV_FIELDS, csv_text
     from photo_catalog import encode, sha
     catalog, _ = store.snapshot()
+    from watermark_policy import attach_photos
     records = []
     for key, source in sorted(state['records'].items()):
         row = apply_result(source, state['results'].get(key, {}))
         prop = catalog.get('properties', {}).get(key, {})
-        photos = sorted(prop.get('images', []), key=lambda r: int(r['image_number']))
-        ready = [r['active_url'] for r in photos if r.get('ready_for_listing') and r.get('active_url')]
-        row.update(source_image_urls=row.get('source_image_urls', row.get('image_urls', [])), image_urls=ready,
-                   image_count=len(ready), photos=photos, ready_image_count=len(ready),
-                   held_image_count=sum(not r.get('ready_for_listing') for r in photos),
-                   photo_delivery_status=prop.get('photo_pipeline_status', 'pending'),
-                   watermark_sample_result=prop.get('watermark_sample', {}).get('result', 'not_checked'))
+        row=attach_photos(row,prop)
         records.append(row)
     from phone_matches import annotate, legacy_records, report
     records=annotate(records, list(state['records'].values())+legacy_records())
     matches=report(records)
+    from photo_catalog import csv_bytes
+    photo_audit=[{**photo,'property_key':r['property_key'],'listing_url':r['listing_url']} for r in records for photo in r['photos']]
+    routing=[{k:r.get(k) for k in ('property_key','listing_url','photo_audit_status','photo_audited_count','photo_pending_count',
+             'watermark_agencies','reported_agency_brands','all_photos_agency_branded','suggested_contact_queue','agency_routing_reason',
+             'ready_image_count','photos_ready_for_publication')} for r in records]
     stats = {**summary(state), 'phone_matching': {
         'historical_baseline': 'listing_details/listings.json, qualified_listings_with_phones.csv, and cumulative daily contacts',
         'existing_contacts': sum(r['phone_match_status']=='existing_contact' for r in records),
@@ -441,7 +441,9 @@ def publish(state, store, output):
               'contact_queue.csv': csv_text(['property_key', 'source', 'listing_url', 'phone_collection_status', 'phone_error_code', 'retry_after'], queue).encode(),
               'summary.json': encode(stats), 'phone_updates.json': encode(state['results']),
               'phone_matches.json': encode(matches),
-              'phone_matches.csv': csv_text(list(matches[0]) if matches else ['property_key','phone_match_status'],matches).encode()}
+              'phone_matches.csv': csv_text(list(matches[0]) if matches else ['property_key','phone_match_status'],matches).encode(),
+              'watermark_audit.csv':csv_bytes(photo_audit), 'agency_routing.json':encode(routing),
+              'agency_routing.csv':csv_text(list(routing[0]) if routing else ['property_key','suggested_contact_queue'],routing).encode()}
     output = Path(output); output.mkdir(parents=True, exist_ok=True)
     for name, body in assets.items():
         (output / name).write_bytes(body)
@@ -482,8 +484,11 @@ def patch_remote_daily(state, store):
     if not url.startswith(store.public + '/graden-imports/property-photos/daily/'):
         raise ValueError('Daily listings outside owned delivery prefix')
     rows = store.get_json(url[len(store.public) + 1:])
+    from watermark_policy import attach_photos
+    catalog,_=store.snapshot()
     from phone_matches import annotate, legacy_records
-    updated = annotate([apply_result(r, state['results'][r['property_key']]) if r['property_key'] in state['results'] else r for r in rows],
+    updated = annotate([attach_photos(apply_result(r,state['results'].get(r['property_key'],{})),
+                                     catalog.get('properties',{}).get(r['property_key'],{})) for r in rows],
                        list(state['records'].values())+legacy_records())
     if updated == rows:
         return None
