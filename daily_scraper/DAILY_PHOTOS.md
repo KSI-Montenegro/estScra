@@ -10,25 +10,27 @@ it does not substitute browser screenshots. A successful browser route is reused
 
 1. Save listing photo URLs into a separate durable photo queue before processing images.
 2. Read the current R2 catalog. Reuse accepted cleaned images and keep their URLs selected.
-3. Check **one untouched source image per property**, preferring the first unprocessed image.
-   For already imported galleries, use the digest-verified R2 source copy to avoid another
-   source-site download. This is the copy that retains its original watermark, not a cleaned image.
-4. A negative OCR/template sample becomes `sample_passed`: its gallery may proceed provisionally.
-   Only that one image was checked; this is not a certificate for every gallery photo.
-5. A known brand/logo or uncertain recognized text flags the property's remaining unprocessed images.
-   Existing known watermark flags are retained even if the sample is negative.
-6. For flagged galleries, locate a supported mask independently on each image. The calibrated
-   Patuljak footer policy is supported. Unknown marks and uncertain masks remain held.
-   When the gallery flag came only from unclassified text (no brand hit or plausible known
-   logo), candidate photos receive their own full OCR/template check. A negative individual
-   check can release that source photo provisionally without erasing anything. The marked cover
-   stays held. Known brand/logo flags and failed repair QC are not cleared by this rule.
-7. Run local CPU LaMa only inside eligible masks. Check dimensions, exact outside-mask equality
-   before lossy encoding, residual known-logo matching and focused brand OCR.
-8. Optimize to WebP, targeting 300 KB with a **400,000-byte ceiling**, then upload immutable source
-   and accepted cleaned versions to their property folders.
-9. Merge the catalog using an owned pointer and ETag condition. Previously selected cleaned images
-   cannot be replaced by source versions or a failed edit.
+3. Check **every original image independently**, with source-SHA-bound evidence.
+   A cover sample cannot release other gallery images.
+4. Classify each photo as clean, watermarked, cleaned or unknown. Missing or
+   inconclusive checks remain held. Expected portal stamps are not cleared solely
+   because OCR returned no text.
+5. Locate a supported mask independently on each flagged image. Unknown agency
+   marks and uncertain masks remain held; arbitrary scene text is never erased.
+6. Run local CPU LaMa only inside eligible masks. Check dimensions, exact
+   outside-mask equality before encoding, residual known-logo matching and brand OCR.
+7. Check every existing or new cleaned output as delivered and bind that evidence
+   to its output SHA256. A `/cleaned/` URL does not grant readiness.
+8. Optimize WebP toward 300 KB with a **400,000-byte ceiling**, then upload immutable
+   source and edited objects into their property folders.
+9. Merge the catalog with an owned pointer and ETag condition. Failed edits and
+   source versions cannot replace selected cleaned files. A reviewed re-edit can
+   replace its exact superseded output only with a validated byte-bound receipt;
+   the previous URL is retained in held history.
+
+The current authoritative policy, agency attribution and incident status are in
+[WORKFLOW_HANDOFF.md](WORKFLOW_HANDOFF.md). Local setup is documented at
+[../LOCAL_SETUP.md](../LOCAL_SETUP.md).
 
 Detection uses local Tesseract and classical template matching. Ordinary scene text is never erased
 merely because OCR recognized it. Unknown text can cause a conservative review flag. LaMa reconstructs
@@ -79,7 +81,8 @@ The original listing CSV/JSON remains the source capture. Import **`listings_wit
 
 When reading `properties.json`, render only images with **`ready_for_listing: true`**. An `active_url`
 on a held source copy is an audit/download reference, not permission to put it in a ready gallery.
-Existing accepted cleaned selections are ready. `sample_passed` source versions are provisional.
+Use the current per-image `ready_for_listing` flags. Legacy sample results and
+cleaned paths alone never grant readiness.
 
 The current complete image catalog remains at:
 

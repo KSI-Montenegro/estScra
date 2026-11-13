@@ -3,3 +3,10 @@
 /qualified_listings.csv
 /__pycache__/
 /daily_scraper/contact_exports/
+
+# Local installation credentials, dependencies and code bundles.
+/.env
+/.env.*
+!/.env.example
+/.venv/
+/dist/
