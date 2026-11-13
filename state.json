@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "created_at": "2026-11-01T08:27:09.236246+00:00",
-  "last_run_at": "2026-11-12T17:53:13.263939+00:00",
+  "last_run_at": "2026-11-13T12:12:22.055393+00:00",
   "listings": {
     "estitor_139236": {
       "url": "https://estitor.com/me/nekretnine/namjena-izdavanje/tip-stan/grad-budva/id-139236",
@@ -55759,6 +55759,850 @@
       "status": "pending",
       "attempts": 0,
       "last_seen_at": "2026-11-12T17:52:39.577455+00:00"
+    },
+    "oglasi_75078779": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--63m2--centar--bar-og75078779me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "exported",
+      "attempts": 1,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "captured_at": "2026-11-13T12:12:21.364809+00:00",
+      "exported_run_id": "2026-11-13T121218-237d1e"
+    },
+    "oglasi_80873813": {
+      "url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84452258": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dva-sprata-kuce--stari-bar--bar-og84452258me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84451838": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-dvosobnih-stanova-u-izgradnji--susanj--bar-og84451838me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84437412": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodajem-jednosoban-stan-53m--og84437412me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83631678": {
+      "url": "https://oglasi.me/nekretnine/stanovi/izdavanje-og83631678me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_78405763": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--68m2--polje--bar-og78405763me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62424662": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--43m2--susanj--bar-og62424662me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_82131324": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--53m2--ilino--bar-og82131324me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81216227": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--85m2--centar--bar-og81216227me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84068813": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--45m2--bjelisi--bar-og84068813me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83286498": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--64m2--polje--bar-og83286498me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_67382704": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--27m2--susanj--bar-og67382704me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_80653380": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--78m2--centar--bar-og80653380me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_70301612": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--92m2--centar--bar-og70301612me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_80651006": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-stanova-u-iygradnji--susanj--bar-og80651006me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_80827028": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--53m2--susanj--bar-og80827028me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81112720": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--65m2--soho-city--bar-og81112720me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83787573": {
+      "url": "https://oglasi.me/nekretnine/stanovi/izdajem-dvostoban-stan-u-stari-bar-og83787573me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_82863797": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--50m2--bar-og82863797me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83822174": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-stanova-u-izgradnji--ilino--bar-og83822174me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81108781": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--71m2--centar--bar-og81108781me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_68064311": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--58m2--zetagradnja--bar-og68064311me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_77062466": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--69m2--celebic--bar-og77062466me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83286095": {
+      "url": "https://oglasi.me/nekretnine/stanovi/garsonjera--55m2--zaha-place--bar-og83286095me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81108366": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--80m2--makedonsko-naselje--bar-og81108366me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_72683667": {
+      "url": "https://oglasi.me/nekretnine/stanovi/garsonjera--30m2--makedonsko-naselje--bar-og72683667me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_76324067": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--78m2--centar--bar-og76324067me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_76324220": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--78m2--centar--bar-og76324220me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_74308278": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--50m2--makedonsko-naselje--bar-og74308278me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75637017": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--73m2--zeleni-pojas--bar-og75637017me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75034328": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-stanova-u-izgradnji--celuga--bar-og75034328me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_72045128": {
+      "url": "https://oglasi.me/nekretnine/stanovi/garsonjera--30m2--sutomore--bar-og72045128me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_73737091": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--112m2--centar--bar-og73737091me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_74868316": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--84m2--centar--bar-og74868316me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75636856": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--49m2--zeleni-pojas--bar-og75636856me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62582009": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--50m2--susanj--bar-og62582009me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75033894": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-stanova-u-izgradnji--celuga--bar-og75033894me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75034143": {
+      "url": "https://oglasi.me/nekretnine/stanovi/prodaja-stanova-u-izgradnji--celuga--bar-og75034143me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_74080833": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--84m2--centar--bar-og74080833me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_70122544": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--43m2--centar--bar-og70122544me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_74146194": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--69m2--bar-og74146194me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_71758596": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--115m2--polje--bar-og71758596me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_65351326": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--73m2--makedonsko-naselje--bar-og65351326me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_73330056": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--150m2--zaljevo--bar-og73330056me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63056739": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--44m2--centar--bar-og63056739me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63087838": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--65m2--soho-city--bar-og63087838me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_67308766": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--65m2--soho-city--bar-og67308766me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_66075171": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--62m2--centar--bar-og66075171me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_67310324": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--74m2--soho-city--bar-og67310324me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63088197": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--65m2--soho-city--bar-og63088197me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62558690": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--115m2--novogradnja--bar-og62558690me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62836737": {
+      "url": "https://oglasi.me/nekretnine/stanovi/trosoban-stan--150m2--stari-bar--bar-og62836737me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63087259": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--77m2--soho-city--bar-og63087259me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63087454": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--77m2--soho-city--bar-og63087454me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_63086641": {
+      "url": "https://oglasi.me/nekretnine/stanovi/jednosoban-stan--42m2--centar--bar-og63086641me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57884854": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--95m2--centar--bar-og57884854me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61746514": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan-74m2-popovici-bar-og61746514me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61335771": {
+      "url": "https://oglasi.me/nekretnine/stanovi/novogradnja--topolica-iii--centar--bar-og61335771me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57118059": {
+      "url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--73m2--bar-og57118059me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84113582": {
+      "url": "https://oglasi.me/nekretnine/kuce/izdaje-se-ekskluzivna-kuca-270-m2--gorica-c--podgorica-og84113582me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "exported",
+      "attempts": 1,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "captured_at": "2026-11-13T12:12:22.006211+00:00",
+      "exported_run_id": "2026-11-13T121218-237d1e"
+    },
+    "oglasi_84437339": {
+      "url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81324885": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--185m2--susanj--bar-og81324885me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_81316616": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--70m2--zeleni-pojas--bar-og81316616me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84366684": {
+      "url": "https://oglasi.me/nekretnine/kuce/vikendica-zabljak--og84366684me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_77357327": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--392m2--susanj--bar-og77357327me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_84331431": {
+      "url": "https://oglasi.me/nekretnine/kuce/izdaje-se--og84331431me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75223202": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--300m2--markovici--budva-og75223202me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_75225337": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--300m2--markovici--budva-og75225337me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_66343755": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--160m2--susanj--bar-og66343755me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_74558225": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--150m2--nisice--bar-og74558225me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62844768": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--200m2--dobra-voda--bar-og62844768me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58638679": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--170m2--susanj--bar-og58638679me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57018061": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--300m2--dobra-voda--bar-og57018061me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60304597": {
+      "url": "https://oglasi.me/nekretnine/kuce/prostrana-kuca-sa-vise-stambenih-jednica-u-sutomoru-og60304597me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57770087": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--170m2--susanj--bar-og57770087me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60881826": {
+      "url": "https://oglasi.me/nekretnine/kuce/stambeni-objekat--200m2--kunje--bar-og60881826me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58418461": {
+      "url": "https://oglasi.me/nekretnine/kuce/trospratna-kuca--300m2--dobra-voda--bar-og58418461me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_62407699": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--188m2--dobra-voda--bar-og62407699me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57226144": {
+      "url": "https://oglasi.me/nekretnine/kuce/porodicna-kuca-180m2-rena-bar-og57226144me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58852426": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--620m2--dobra-voda--bar-og58852426me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57806854": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--450m2--zupci--bar-og57806854me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56882393": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-sa-poslovnim-prostorom-380m2-susanj-bar-og56882393me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57280455": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--170m2--sutomore--bar-og57280455me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58633543": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--380m2--susanj--bar-og58633543me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60825562": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila-183m2-sutomore-bar-og60825562me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57610266": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--120m2--dobra-voda--bar-og57610266me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58063028": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--290m2--susanj--bar-og58063028me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58166428": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--252m2--zeleni-pojas--bar-og58166428me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56877764": {
+      "url": "https://oglasi.me/nekretnine/kuce/porodnicna-kuca--100m2--brca--sutomore-og56877764me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58550793": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-64m2-kunje-utjeha-og58550793me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58236061": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--250m2--dobra-voda--bar-og58236061me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58754524": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--88m2--dobra-voda--bar-og58754524me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58167210": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--110m2--zeleni-pojas--bar-og58167210me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58261490": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--150m2--dobra-voda--bar-og58261490me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56882062": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--140m2--susanj--bar-og56882062me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58318886": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--107m2--zeleni-pojas--bar-og58318886me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57015301": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--150m2--brca--bar-og57015301me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58635627": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--70m2--sutomore--bar-og58635627me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60361575": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--120m2--dobra-voda--bar-og60361575me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60070149": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-apartmanskog-tipa-552m2-susanj-bar-og60070149me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61375203": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--180m2--utjeha--bar-og61375203me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_57633608": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--65m2--ratac--bar-og57633608me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61204219": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--66m2--djurmani--bar-og61204219me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60768230": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--200m2--sutomore--bar-og60768230me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58238726": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-povrsine-356m2-sutomore-bar-og58238726me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60677115": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila--350m2--utjeha--bar-og60677115me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58551230": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-128m2-mandarinici-bar-og58551230me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58064577": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--100m2--dobra-voda--bar-og58064577me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61103476": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--150m2--dobra-voda--bar-og61103476me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60681062": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--132m2--ulcinj-og60681062me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58820314": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--178m2--zaljevo--bar-og58820314me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_61337023": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-128m2-sutomore-bar-og61337023me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_58237558": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--620m2--dobra-voda--bar-og58237558me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56625872": {
+      "url": "https://oglasi.me/nekretnine/kuce/porodicna-kuca-200m2-okolina-bara-og56625872me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56556886": {
+      "url": "https://oglasi.me/nekretnine/kuce/vila-na-periferiji-grada--200m2--marovici--bar-og56556886me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56520600": {
+      "url": "https://oglasi.me/nekretnine/kuce/dvospratna-kuca--98m2--kunje--bar-og56520600me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_56568586": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca--235m2--susanj-og56568586me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_83367899": {
+      "url": "https://oglasi.me/nekretnine/kuce/kuca-u-izgradnji--og83367899me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
+    },
+    "oglasi_60238736": {
+      "url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-sa-tri-troiposobna-stana-blizu-centra-pg-og60238736me",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "status": "pending",
+      "attempts": 0,
+      "last_seen_at": "2026-11-13T12:12:18.156290+00:00"
     }
   }
 }
