@@ -4,6 +4,7 @@ from collections import defaultdict
 from copy import deepcopy
 import csv
 import json
+import os
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -89,6 +90,10 @@ def annotate(candidates, known):
 
 
 def legacy_records():
+    # Fresh source-only installations can explicitly opt out of the old import.
+    # Production remains fail-closed if an expected historical baseline is lost.
+    if os.getenv('GRADEN_SKIP_HISTORICAL_PHONE_BASELINE') == '1':
+        return []
     if not LEGACY.exists():
         raise ValueError('Historical phone baseline missing: listing_details/listings.json')
     if not QUALIFIED.exists():

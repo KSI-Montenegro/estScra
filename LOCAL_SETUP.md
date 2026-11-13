@@ -73,7 +73,9 @@ Provide the same authorized credentials through your local secret manager or `.e
 ## 3. Choose existing or fresh state
 
 To continue the current deployment without rediscovering its already captured
-ads, restore all three checkpoints **before the first run**. A fork made with
+ads, restore all three checkpoints **before the first run**.
+The commands below require a Git clone; use the clone route above when resuming
+production rather than just extracting the source-only ZIP. A fork made with
 only `main` does not contain this state branch; fetch it from the original:
 
 ```bash
@@ -90,7 +92,12 @@ restoration into an empty runtime directory. Keep subsequent local checkpoints.
 Fetching this branch is not required for an independent fresh installation.
 
 A full clone includes historical seed inputs; the source-only ZIP omits them
-except the listing-ID baseline. With no checkpoint, that ZIP starts fresh contact
+except the listing-ID baseline. **For the source-only ZIP or an independent
+installation without the old import, set
+`GRADEN_SKIP_HISTORICAL_PHONE_BASELINE=1` in `.env`.** That explicitly compares
+phones only against current cumulative records. Published summaries label this
+reduced coverage. Full clones default to `0`: missing expected history is an
+error, so production cannot silently stop checking its historical phone baseline. With no checkpoint, that ZIP starts fresh contact
 and photo queues. Copy the original historical inputs separately if you need their
 cross-portal phone comparison history. `first_seen_at` does not prove that an ad
 was newly published.
@@ -164,7 +171,9 @@ unless configured otherwise. Keep the runtime directory between runs.
 ## Verify code and package it
 
 ```bash
+# Full clone (historical imports present):
 python -m unittest discover -s daily_scraper -p 'test_*.py'
+# Source-only ZIP: load .env with GRADEN_SKIP_HISTORICAL_PHONE_BASELINE=1 first.
 python scripts/build_source_bundle.py
 ```
 

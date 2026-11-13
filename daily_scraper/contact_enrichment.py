@@ -431,7 +431,9 @@ def publish(state, store, output):
              'watermark_agencies','reported_agency_brands','all_photos_agency_branded','suggested_contact_queue','agency_routing_reason',
              'ready_image_count','photos_ready_for_publication')} for r in records]
     stats = {**summary(state), 'phone_matching': {
-        'historical_baseline': 'listing_details/listings.json, qualified_listings_with_phones.csv, and cumulative daily contacts',
+        'historical_baseline': ('explicitly_disabled; matching_against_current_cumulative_records_only'
+                               if os.getenv('GRADEN_SKIP_HISTORICAL_PHONE_BASELINE') == '1' else
+                               'listing_details/listings.json, qualified_listings_with_phones.csv, and cumulative daily contacts'),
         'existing_contacts': sum(r['phone_match_status']=='existing_contact' for r in records),
         'new_contacts': sum(r['phone_match_status']=='new_contact' for r in records)}}
     fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count']

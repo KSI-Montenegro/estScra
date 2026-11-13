@@ -34,9 +34,13 @@ def include(path):
 
 
 def main():
-    tracked = subprocess.check_output(['git', 'ls-files', '-z'], cwd=ROOT).decode().split('\0')
+    if (ROOT / '.git').exists():
+        tracked = subprocess.check_output(['git', 'ls-files', '-z'], cwd=ROOT).decode().split('\0')
+        revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT).decode().strip()
+    else:
+        source = json.loads((ROOT / 'SOURCE_BUNDLE.json').read_text())
+        tracked, revision = list(source['files']), source['revision']
     files = sorted(Path(name) for name in tracked if name and include(Path(name)))
-    revision = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT).decode().strip()
     manifest = {'repository': 'https://github.com/KSI-Montenegro/estScra', 'revision': revision,
                 'layout': 'repository root',
                 'omitted': ['credentials', 'runtime state', 'captured listings and contact history',
