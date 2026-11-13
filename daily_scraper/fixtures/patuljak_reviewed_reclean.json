@@ -1,0 +1,173 @@
+{
+  "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/003-9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07.webp",
+  "bytes": 56214,
+  "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/cleaned/003-9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07.webp",
+  "delivered_watermark_analysis": {
+    "policy": "per-image-watermarks-v1",
+    "source_sha256": "9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07",
+    "status": "clean",
+    "portal_brands": [],
+    "agency_brands": [],
+    "detected_brands": [],
+    "detections": [],
+    "method": "per_image_template_ocr_and_visual_review",
+    "meaning": "no_visible_watermark_in_exact_delivered_bytes",
+    "analysis": {
+      "result": "sample_passed",
+      "reason": "no_detected_mark_in_sample",
+      "score": 0.3910764157772064,
+      "box": [
+        185,
+        384,
+        223,
+        430
+      ],
+      "hits": [],
+      "width": 740,
+      "height": 493,
+      "other_text_detected": false
+    },
+    "automated_status_before_visual_review": "clean",
+    "visual_review": {
+      "method": "assistant_visual_full_image",
+      "decision": "no_visible_watermark",
+      "output_sha256": "9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07",
+      "reviewed_at": "2026-11-13T14:52:21.855547+00:00"
+    }
+  },
+  "dimensions": [
+    740,
+    493
+  ],
+  "error_code": "",
+  "image_number": 3,
+  "optimized_sha256": "bd80d8456b26452dcd454f421cd1859c78a4e4edcd7a8bbe0cee932b521e4446",
+  "original_dimensions": [
+    740,
+    493
+  ],
+  "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86717_2.webp",
+  "outside_mask_unchanged_before_encoding": true,
+  "pipeline_status": "ready_cleaned_reviewed",
+  "publication_hold": false,
+  "quality": 95,
+  "ready_for_listing": true,
+  "repair_input_sha256": "db65e0a3030c451df7a20c54a74c70067e0da80e91b9f349926b6470c3d770b2",
+  "repair_output_bytes": 47810,
+  "repair_output_sha256": "9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07",
+  "repair_policy_id": "patuljak-footer-reviewed-v3-expanded",
+  "repair_qc": {
+    "image_number": 3,
+    "source_sha256": "db65e0a3030c451df7a20c54a74c70067e0da80e91b9f349926b6470c3d770b2",
+    "output_sha256": "9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07",
+    "output_bytes": 47810,
+    "quality": 95,
+    "dimensions": [
+      740,
+      493
+    ],
+    "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+    "mask_sha256": "4addc820bc13aa601d89ec5872050d294970dd521ee2cb5dc9bf504625ff9c57",
+    "mask_pixels": 22937,
+    "mask_box": [
+      442,
+      386,
+      740,
+      493
+    ],
+    "canonical_mask_sha256": "54330586cf75bb9ddfa80ddd81d9671c0b01e9e88c2001e382fa737b57d6d7d5",
+    "outside_mask_unchanged_before_encoding": true,
+    "residual_logo_score": 0.3910764157772064,
+    "focused_ocr": {
+      "brand_detected": false,
+      "matched_token": "",
+      "brand": ""
+    },
+    "dimensions_preserved_before_encoding": true,
+    "policy": "patuljak-footer-reviewed-v3-expanded",
+    "visual_review": {
+      "method": "assistant_visual_full_image",
+      "decision": "no_visible_watermark",
+      "output_sha256": "9304f5b982f44ae9f3e5ad28f3ba3c23f9af7cbbd7aaa7fe4c813a27328d0f07",
+      "reviewed_at": "2026-11-13T14:52:21.855547+00:00"
+    }
+  },
+  "reused_existing": false,
+  "sample_only": false,
+  "selected_version": "cleaned",
+  "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/source/003-bd80d8456b26452dcd454f421cd1859c78a4e4edcd7a8bbe0cee932b521e4446.webp",
+  "source_sha256": "db65e0a3030c451df7a20c54a74c70067e0da80e91b9f349926b6470c3d770b2",
+  "upload_confirmed": true,
+  "verification_scope": "per_image_original_delivered_and_visual_review",
+  "watermark_agencies": [],
+  "watermark_analysis": {
+    "agency_brands": [],
+    "analysis": {
+      "box": [
+        604,
+        393,
+        679,
+        486
+      ],
+      "height": 493,
+      "hits": [
+        {
+          "box_original_pixels": [
+            452,
+            438,
+            606,
+            481
+          ],
+          "brand": "patuljak",
+          "is_verified_watermark": false,
+          "ocr_confidence": 88.3,
+          "position": "bottom_right",
+          "recognized_text": "patuljak",
+          "string_similarity": 1.0
+        }
+      ],
+      "other_text_detected": true,
+      "reason": "known_logo_or_brand",
+      "result": "watermark_candidate",
+      "score": 0.7150779962539673,
+      "width": 740
+    },
+    "detected_brands": [
+      "patuljak"
+    ],
+    "detections": [
+      {
+        "box_original_pixels": [
+          452,
+          438,
+          606,
+          481
+        ],
+        "brand": "patuljak",
+        "is_verified_watermark": false,
+        "ocr_confidence": 88.3,
+        "position": "bottom_right",
+        "recognized_text": "patuljak",
+        "string_similarity": 1.0
+      }
+    ],
+    "meaning": "automated_detection_not_visual_certification",
+    "method": "per_image_template_and_ocr",
+    "policy": "per-image-watermarks-v1",
+    "portal_brands": [
+      "patuljak"
+    ],
+    "source_sha256": "db65e0a3030c451df7a20c54a74c70067e0da80e91b9f349926b6470c3d770b2",
+    "status": "watermarked"
+  },
+  "watermark_brands": [
+    "patuljak"
+  ],
+  "watermark_candidate": true,
+  "watermark_check_status": "checked",
+  "watermark_portals": [
+    "patuljak"
+  ],
+  "watermark_status": "cleaned",
+  "supersedes_output_sha256": "a02687b2849542b938034fa4a7d6326023e2d998c53e3a64ae0e095df8f7906e"
+}

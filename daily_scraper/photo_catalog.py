@@ -51,12 +51,48 @@ def is_cleaned(image):
     return image.get('selected_version') == 'cleaned' and bool(image.get('cleaned_url'))
 
 
+def reviewed_repair_matches(row):
+    """Accept an explicitly reviewed re-edit, bound to both source and output bytes."""
+    from watermark_policy import POLICY, checked
+    proof = row.get('repair_qc')
+    if row.get('repair_policy_id') != 'patuljak-footer-reviewed-v3-expanded' or not isinstance(proof, dict):
+        return False
+    root = Path(__file__).resolve().parent
+    root = root.parent if (root.parent / 'property_photo_pipeline').exists() else root
+    model = json.loads((root / 'property_photo_pipeline/lama_model.json').read_text())
+    config = json.loads((root / 'property_photo_pipeline/reference_assets/patuljak_overlay_mask.json').read_text())
+    out = row.get('delivered_watermark_analysis') or {}
+    review = proof.get('visual_review') or {}
+    return bool('/properties/patuljak/' in row.get('cleaned_url', '')
+                and checked(row)
+                and row.get('repair_input_sha256') == row.get('source_sha256') == proof.get('source_sha256')
+                and proof.get('output_sha256') == row.get('repair_output_sha256')
+                and proof.get('output_bytes') == row.get('repair_output_bytes')
+                and 0 < row.get('repair_output_bytes', 0) <= 400000
+                and proof.get('model_sha256') == model['sha256']
+                and proof.get('canonical_mask_sha256') == config['mask_asset_sha256']
+                and re.fullmatch(r'[a-f0-9]{64}', proof.get('mask_sha256', ''))
+                and proof.get('outside_mask_unchanged_before_encoding') is True
+                and row.get('outside_mask_unchanged_before_encoding') is True
+                and proof.get('dimensions_preserved_before_encoding') is True
+                and isinstance(proof.get('residual_logo_score'), (int, float))
+                and 0 <= proof['residual_logo_score'] < .65
+                and (proof.get('focused_ocr') or {}).get('brand_detected') is False
+                and out.get('policy') == POLICY and out.get('status') == 'clean'
+                and out.get('source_sha256') == row.get('repair_output_sha256')
+                and review.get('method') == 'assistant_visual_full_image'
+                and review.get('decision') == 'no_visible_watermark'
+                and review.get('output_sha256') == row.get('repair_output_sha256'))
+
+
 def repair_proof_matches(row):
     if (row.get('repair_input_sha256') != row.get('source_sha256') or
             row.get('outside_mask_unchanged_before_encoding') is not True):
         return False
     if row.get('repair_policy_id') == 'patuljak-footer-stable-colors-v2-filled-word-bands':
         return row.get('repair_qc') == 'mascot_and_ocr_only_pass_text_shape_unvalidated'
+    if reviewed_repair_matches(row):
+        return True
     if row.get('repair_policy_id') != 'portal-centers-v2-byte-optimized':
         return False
     proof=row.get('repair_qc')
@@ -105,6 +141,22 @@ def merge_catalog(current, updates):
             number = int(row['image_number'])
             prior = images.get(number)
             if prior and is_cleaned(prior):
+                if row.get('supersedes_output_sha256') and row.get('repair_output_sha256') != prior.get('repair_output_sha256'):
+                    if (row['supersedes_output_sha256'] != prior.get('repair_output_sha256')
+                            or row.get('source_sha256') != prior.get('source_sha256')
+                            or not reviewed_repair_matches(row)):
+                        raise ValueError('Reviewed replacement does not match the current source and cleaned version')
+                    replacement = copy.deepcopy(row)
+                    replacement['previous_cleaned_versions'] = copy.deepcopy(prior.get('previous_cleaned_versions', [])) + [{
+                        'cleaned_url': prior['cleaned_url'], 'output_sha256': prior['repair_output_sha256'],
+                        'publication_hold': True, 'reason': 'superseded_by_reviewed_reclean'}]
+                    images[number] = replacement
+                    continue
+                if (reviewed_repair_matches(prior) and row.get('source_sha256') == prior.get('source_sha256')
+                        and row.get('repair_output_sha256') != prior.get('repair_output_sha256')):
+                    # A worker restored before the re-edit must not reselect or
+                    # attach old output checks to the newly reviewed bytes.
+                    continue
                 from watermark_policy import checked
                 if checked(row) and row.get('source_sha256')==prior.get('source_sha256'):
                     # Refresh evidence and readiness while preserving immutable edits.

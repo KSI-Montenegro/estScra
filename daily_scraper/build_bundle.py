@@ -16,6 +16,8 @@ FILES = {
     HERE / 'watermark_policy.py': 'watermark_policy.py',
     HERE / 'WORKFLOW_HANDOFF.md': 'WORKFLOW_HANDOFF.md',
     HERE / 'test_watermark_policy.py': 'test_watermark_policy.py',
+    HERE / 'test_reviewed_reclean.py': 'test_reviewed_reclean.py',
+    HERE / 'fixtures/patuljak_reviewed_reclean.json': 'fixtures/patuljak_reviewed_reclean.json',
     HERE / 'OGLASI.md': 'OGLASI.md',
     HERE / 'test_oglasi.py': 'test_oglasi.py',
     HERE / 'test_oglasi_catalog.py': 'test_oglasi_catalog.py',

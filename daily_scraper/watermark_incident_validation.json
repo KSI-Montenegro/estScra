@@ -35,7 +35,7 @@
   "historical_recovery_run": "https://github.com/KSI-Montenegro/estScra/actions/runs/43425482745",
   "per_image_audit_run": "https://github.com/KSI-Montenegro/estScra/actions/runs/43430196381",
   "exact_draft_image_urls": "received; 16 current catalog matches and downloaded SHA256 matches; draft positions are not original positions",
-  "status": "per_image_audit_passed; all_reported_galleries_held",
+  "status": "patuljak_86717_redelivered_16_ready; other_eight_incident_galleries_held",
   "live_originals_audited": 115,
   "live_outputs_checked": 91,
   "ready_images_in_reported_galleries": 0,
@@ -419,5 +419,19 @@
       "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
     }
   ],
-  "exact_file_conclusion": "These are current stored cleaned versions, not superseded variants. All remain held; negative OCR does not clear reported residuals."
+  "exact_file_conclusion": "These are current stored cleaned versions, not superseded variants. All remain held; negative OCR does not clear reported residuals.",
+  "status_at_per_image_audit": "per_image_audit_passed; all_reported_galleries_held",
+  "subsequent_redeliveries": [
+    {
+      "property_key": "patuljak_86717",
+      "updated_at": "2026-11-13T14:55:13.557715+00:00",
+      "processed_originals": 17,
+      "ready_images": 16,
+      "held_floorplans": 1,
+      "public_output_sha256_matches": 16,
+      "manifest_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/deliveries/155e46ee4e98f58613115dcb/images.json",
+      "urls_file_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/deliveries/155e46ee4e98f58613115dcb/image-urls.txt",
+      "regression_tests_passed": 151
+    }
+  ]
 }

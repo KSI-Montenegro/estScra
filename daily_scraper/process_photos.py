@@ -30,7 +30,7 @@ from match_known_logo import match_image
 from ocr_scan import ocr, brand_hits, token
 from watermark_mask import build_mask
 from remove_local import process_row, TorchInpainter
-from photo_catalog import R2Store, is_cleaned, csv_bytes, sha
+from photo_catalog import R2Store, is_cleaned, csv_bytes, sha, reviewed_repair_matches
 from photo_queue import prepare, enqueue, ordered_pending
 from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
@@ -210,7 +210,8 @@ def requeue_per_image(state):
                     row['upload_confirmed']=False
                     if not is_cleaned(row):row.update(ready_for_listing=False,pipeline_status='retry')
         if key in INCIDENT_PROPERTIES:
-            for row in rows.values():row.update(publication_hold=True,ready_for_listing=False)
+            for row in rows.values():
+                if not reviewed_repair_matches(row):row.update(publication_hold=True,ready_for_listing=False)
 
 
 class Detector:
@@ -490,10 +491,19 @@ class PhotoWorker:
                     if key.startswith('oglasi_') and out.get('reason')=='oglasi_expected_stamp_not_located':
                         out={**out,'result':'sample_passed','reason':'delivered_portal_stamp_not_detected'}
                     row['delivered_watermark_analysis']=analysis_record(out,sha(delivered))
-                    hold=(row['delivered_watermark_analysis']['status']!='clean' or key in INCIDENT_PROPERTIES)
+                    if (reviewed_repair_matches(base) and row['delivered_watermark_analysis']['status']=='unknown'
+                            and out.get('reason')=='unclassified_text' and not out.get('hits')):
+                        # The exact same bytes already received a full-image visual
+                        # review. Ordinary scene text cannot invalidate that review;
+                        # new positive brand/logo evidence still revokes readiness.
+                        fresh=row['delivered_watermark_analysis']
+                        row['delivered_watermark_analysis']=copy.deepcopy(base['delivered_watermark_analysis'])
+                        row['delivered_watermark_analysis']['latest_automated_check']=fresh
+                    incident_hold=key in INCIDENT_PROPERTIES and not reviewed_repair_matches(row)
+                    hold=(row['delivered_watermark_analysis']['status']!='clean' or incident_hold)
                     row.update(publication_hold=hold,ready_for_listing=not hold,
                                pipeline_status='needs_review' if hold else 'ready_existing_cleaned',
-                               error_code='reported_image_requires_residual_review' if key in INCIDENT_PROPERTIES else
+                               error_code='reported_image_requires_residual_review' if incident_hold else
                                           'residual_mark_or_unclassified_overlay' if hold else '')
                 elif held:
                     repaired,reason=self.repair(key,item,data,analysis)

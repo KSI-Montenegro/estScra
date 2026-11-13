@@ -129,3 +129,36 @@ an unresolved file as clean. The five agency labels in this report are explicitl
 operator-supplied; the automatic audit recognized Patuljak but did not reliably
 read those faint agency marks. 145 regression tests passed. The wider legacy
 re-audit continues through bounded recovery jobs.
+
+
+## Reviewed redelivery of Patuljak 86717
+
+On 2026-11-13, all 17 captured originals were reprocessed locally from their
+SHA256-verified bytes, rather than resuming the 11 old cleaned artifacts. The
+reviewed pose was the constant 293x103 bottom-right stamp, positioned at
+`(width-294, height-103)`. The calibrated mask was expanded with a 9x9 dilation;
+the pinned LaMa model inpainted only that mask with 128px context. Source dimensions
+were preserved. Output files passed logo correlation (<0.65), focused brand OCR,
+and individual full-image visual review. Ordinary scene text that made free OCR
+inconclusive was resolved by the exact-output visual review, not silently ignored.
+
+Sixteen property photos are now eligible. Image 17 is a floor plan: its technical
+title block was distorted by the candidate repair, so it remains held and was
+excluded from the delivery. The other eight incident galleries remain held.
+WebP files are 29,840–153,960 bytes, with new content-addressed URLs. Both listing
+feeds, the photo catalog and durable photo state were updated.
+
+The `patuljak-footer-reviewed-v3-expanded` receipt binds original/output hashes,
+model/mask identity, dimensions, residual checks and the visual review of the
+exact delivered bytes. A new edit can replace an old cleaned selection only by
+naming its exact `supersedes_output_sha256`; earlier URLs are retained as held
+history. Stale worker output cannot reselect an old revision or attach old checks
+to the new bytes. Future positive brand evidence still revokes readiness. These
+reviewed receipts do not authorize automatic clearance of other incident files.
+
+Delivery manifest: https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/deliveries/155e46ee4e98f58613115dcb/images.json
+Plain URL list: https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86717/deliveries/155e46ee4e98f58613115dcb/image-urls.txt
+
+151 regression tests passed, including matching/stale replacement rejection,
+version history, incident holds and rerun handling of ordinary text versus a
+new positive watermark detection.
