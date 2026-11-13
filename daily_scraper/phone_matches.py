@@ -8,6 +8,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 LEGACY = (HERE.parent if (HERE.parent/'collect_images.py').exists() else HERE) / 'listing_details/listings.json'
+QUALIFIED = LEGACY.parent.parent / 'qualified_listings_with_phones.csv'
 
 
 def load_records(path):
@@ -90,7 +91,9 @@ def annotate(candidates, known):
 def legacy_records():
     if not LEGACY.exists():
         raise ValueError('Historical phone baseline missing: listing_details/listings.json')
-    return load_records(LEGACY)
+    if not QUALIFIED.exists():
+        raise ValueError('Historical qualified phone CSV missing: qualified_listings_with_phones.csv')
+    return load_records(LEGACY)+load_records(QUALIFIED)
 
 
 def report(records):
@@ -102,7 +105,7 @@ def report(records):
 def main():
     p=argparse.ArgumentParser(description=__doc__)
     p.add_argument('--candidates',type=Path,required=True)
-    p.add_argument('--known',type=Path,nargs='+',default=[LEGACY, HERE/'runtime/contact-state.json'])
+    p.add_argument('--known',type=Path,nargs='+',default=[LEGACY, QUALIFIED, HERE/'runtime/contact-state.json'])
     p.add_argument('--output',type=Path,default=HERE/'contact_exports/phone_matches')
     args=p.parse_args()
     known=[r for path in args.known for r in load_records(path)]

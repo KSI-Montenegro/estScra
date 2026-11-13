@@ -431,7 +431,7 @@ def publish(state, store, output):
     records=annotate(records, list(state['records'].values())+legacy_records())
     matches=report(records)
     stats = {**summary(state), 'phone_matching': {
-        'historical_baseline': 'listing_details/listings.json plus cumulative daily contacts',
+        'historical_baseline': 'listing_details/listings.json, qualified_listings_with_phones.csv, and cumulative daily contacts',
         'existing_contacts': sum(r['phone_match_status']=='existing_contact' for r in records),
         'new_contacts': sum(r['phone_match_status']=='new_contact' for r in records)}}
     fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count']

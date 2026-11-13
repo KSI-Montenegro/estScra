@@ -1,0 +1,96 @@
+{
+  "source_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+  "repair_input_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+  "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/001-c9fb83ca86b36b8282298ee6f238ffbf22ee751dbf97d44120c39019f1844967.webp",
+  "repair_output_sha256": "c9fb83ca86b36b8282298ee6f238ffbf22ee751dbf97d44120c39019f1844967",
+  "repair_output_bytes": 277306,
+  "repair_policy_id": "portal-centers-v2-byte-optimized",
+  "repair_qc": {
+    "policy": "portal-centers-v2-byte-optimized",
+    "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+    "source_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+    "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+    "mask_metadata": {
+      "eligible": true,
+      "version": "portal-centers-v2-byte-optimized",
+      "detections": {
+        "oglasi": {
+          "brand": "oglasi",
+          "score": 0.2263782024383545,
+          "null_q99": 0.041188810020685196,
+          "x": 319,
+          "y": 726,
+          "scale": 1.325,
+          "eligible": true
+        }
+      },
+      "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+      "reason": "calibrated_word_shape_and_placement",
+      "mask_fraction": 0.0317203125,
+      "stamps": [
+        {
+          "brand": "oglasi",
+          "score": 0.2263782024383545,
+          "null_q99": 0.041188810020685196,
+          "x": 319,
+          "y": 726,
+          "scale": 1.325,
+          "eligible": true
+        }
+      ],
+      "overlay_box_original_pixels": [
+        315,
+        722,
+        886,
+        889
+      ],
+      "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+      "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+    },
+    "outside_mask_unchanged_before_encoding": true,
+    "dimensions_preserved_before_encoding": true,
+    "region": [
+      187,
+      594,
+      1014,
+      1017
+    ],
+    "residual_pre_encoding": [
+      {
+        "brand": "oglasi",
+        "before": 0.2263782024383545,
+        "after": 0.018436800688505173,
+        "passed": true
+      }
+    ],
+    "focused_ocr": {
+      "brand_detected": false,
+      "matched_token": "",
+      "brand": ""
+    },
+    "qc": "portal_word_shapes_and_focused_ocr_passed",
+    "certification": "automatic_checks_only_not_certified",
+    "residual_post_encoding": [
+      {
+        "brand": "oglasi",
+        "before": 0.2263782024383545,
+        "after": 0.018558740615844727,
+        "passed": true
+      }
+    ],
+    "output_bytes": 277306,
+    "quality": 95,
+    "original_dimensions": [
+      1200,
+      1600
+    ],
+    "output_dimensions": [
+      1200,
+      1600
+    ],
+    "dimensions_preserved": true,
+    "resized_for_byte_limit": false
+  },
+  "outside_mask_unchanged_before_encoding": true,
+  "selected_version": "cleaned"
+}

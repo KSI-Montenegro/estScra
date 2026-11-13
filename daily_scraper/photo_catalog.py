@@ -6,6 +6,7 @@ import io
 import json
 import re
 import zipfile
+from pathlib import Path
 from datetime import datetime, timezone
 from urllib.parse import urlsplit
 
@@ -45,6 +46,48 @@ def csv_bytes(records):
 
 def is_cleaned(image):
     return image.get('selected_version') == 'cleaned' and bool(image.get('cleaned_url'))
+
+
+def repair_proof_matches(row):
+    if (row.get('repair_input_sha256') != row.get('source_sha256') or
+            row.get('outside_mask_unchanged_before_encoding') is not True):
+        return False
+    if row.get('repair_policy_id') == 'patuljak-footer-stable-colors-v2-filled-word-bands':
+        return row.get('repair_qc') == 'mascot_and_ocr_only_pass_text_shape_unvalidated'
+    if row.get('repair_policy_id') != 'portal-centers-v2-byte-optimized':
+        return False
+    proof=row.get('repair_qc')
+    if not isinstance(proof,dict) or '/properties/oglasi/' not in row.get('cleaned_url',''):
+        return False
+    root=Path(__file__).resolve().parent
+    root=root.parent if (root.parent/'property_photo_pipeline').exists() else root
+    model=json.loads((root/'property_photo_pipeline/lama_model.json').read_text())
+    reference=(root/'property_photo_pipeline/reference_assets/portal_centers.json').read_bytes()
+    meta=proof.get('mask_metadata') or {}
+    if (proof.get('policy') != row['repair_policy_id'] or proof.get('qc') != 'portal_word_shapes_and_focused_ocr_passed'
+            or proof.get('source_sha256') != row['source_sha256'] or proof.get('model_sha256') != model['sha256']
+            or proof.get('outside_mask_unchanged_before_encoding') is not True
+            or proof.get('dimensions_preserved_before_encoding') is not True
+            or proof.get('output_bytes') != row.get('repair_output_bytes')
+            or not 0 < row.get('repair_output_bytes',0) <= 400000
+            or (proof.get('focused_ocr') or {}).get('brand_detected') is not False
+            or meta.get('eligible') is not True or meta.get('reference_config_sha256') != sha(reference)
+            or not re.fullmatch(r'[a-f0-9]{64}',proof.get('mask_sha256',''))
+            or proof.get('mask_sha256') != meta.get('mask_sha256')):
+        return False
+    stamps=meta.get('stamps')
+    if not isinstance(stamps,list) or len(stamps)!=1 or stamps[0].get('brand')!='oglasi' or stamps[0].get('eligible') is not True:
+        return False
+    for key in ('residual_pre_encoding','residual_post_encoding'):
+        checks=proof.get(key)
+        if not isinstance(checks,list) or len(checks)!=1:
+            return False
+        check=checks[0]
+        if (check.get('brand')!='oglasi' or check.get('passed') is not True
+                or not isinstance(check.get('before'),(int,float)) or not isinstance(check.get('after'),(int,float))
+                or not -1 <= check['after'] < min(.10,check['before']*.5)):
+            return False
+    return True
 
 
 def merge_catalog(current, updates):
@@ -188,10 +231,7 @@ class R2Store:
             if not digest or digest not in url.rsplit('/', 1)[-1]:
                 raise ValueError('Image URL and digest disagree')
             self.verify(url[len(self.public) + 1:], int(row[bytes_field]), {'sha256': digest})
-        if is_cleaned(row) and (row.get('repair_input_sha256') != row.get('source_sha256') or
-                               row.get('repair_qc') != 'mascot_and_ocr_only_pass_text_shape_unvalidated' or
-                               row.get('repair_policy_id') != 'patuljak-footer-stable-colors-v2-filled-word-bands' or
-                               row.get('outside_mask_unchanged_before_encoding') is not True):
+        if is_cleaned(row) and not repair_proof_matches(row):
             raise ValueError('Cleaned image lacks matching repair proof')
 
     def publish(self, updates):

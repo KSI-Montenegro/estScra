@@ -650,9 +650,9 @@ def main():
                 prop['phase'] = phase
             worker.checkpoint()
             summary = report(worker, args.output)
-        enrich_exports(args.exports, args.listings, state, args.output,
+        enriched=enrich_exports(args.exports, args.listings, state, args.output,
                        store.public + '/graden-imports/property-photos/latest.json' if store else '')
-        if store:
+        if store and enriched:
             delivery = store.publish_daily(args.output)
             write_json(args.output / 'daily_delivery.json', delivery)
         with zipfile.ZipFile(args.output / 'property-photos.zip', 'w', zipfile.ZIP_DEFLATED) as archive:

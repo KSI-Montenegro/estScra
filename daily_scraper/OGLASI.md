@@ -65,8 +65,9 @@ The cumulative publication now includes `phone_matches.json` and
 Every listing also has `phone_match_status`, `phone_match_count`,
 `matched_property_keys`, and `phone_matches` with the matching source URLs.
 
-The index combines the historical `listing_details/listings.json` import and all
-cumulative daily records across portals. Local `067…`, `00382…`, bare `382…`, and
+The index combines the historical `listing_details/listings.json` import, the
+earlier `qualified_listings_with_phones.csv`, and all cumulative daily records
+across portals. Local `067…`, `00382…`, bare `382…`, and
 international `+382…` formatting normalize to the same number. Platform support
 numbers are excluded. A listing never matches itself. No phone means `no_phone`,
 not a confirmed new contact.
@@ -81,7 +82,7 @@ Run the standalone script against local exports:
 ```sh
 python daily_scraper/phone_matches.py \
   --candidates path/to/new-listings.json \
-  --known listing_details/listings.json daily_scraper/runtime/contact-state.json \
+  --known listing_details/listings.json qualified_listings_with_phones.csv daily_scraper/runtime/contact-state.json \
   --output /tmp/oglasi-phone-matches
 ```
 
