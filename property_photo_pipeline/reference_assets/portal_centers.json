@@ -1,0 +1,15 @@
+{
+  "version": "portal-centers-v1",
+  "references": {
+    "autodiler": {
+      "file": "autodiler_center_logo.png",
+      "sha256": "6185c7128d4aed3274ffb485a4b84643834c292a51f8b2b6ef7c7e6e5faee991",
+      "source_url": "https://autodiler.me/img/autodiler-logo.png"
+    },
+    "oglasi": {
+      "file": "oglasi_center_logo.png",
+      "sha256": "4a84f807c5e1db797c02de7759b8d5e7acc1aa2343b7bab3605ae17c233881cf",
+      "source_url": "https://oglasi.me/img/logo.png"
+    }
+  }
+}

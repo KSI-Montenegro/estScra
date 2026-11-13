@@ -246,6 +246,57 @@ def apply_attributes(r):
     r['amenities']=[k for k,v in r['source_attributes'].items() if bool_value(v) is True or v is True]
 
 
+def oglasi(root,r):
+    from oglasi_properties import current_ad
+    ad=current_ad(root,r['listing_id']);origin='page:currentAd.'
+    put(r,'title',ad.get('titleCompiled') or ad.get('title'),origin+'titleCompiled/title')
+    desc=ad.get('description')
+    if isinstance(desc,str):
+        put(r,'description_original',text(html.fromstring('<div>'+desc+'</div>')),origin+'description')
+    for key,field in [('published_date','createdAt'),('updated_date','updatedAt'),('source_refreshed_at','refreshed')]:
+        put(r,key,ad.get(field),origin+field)
+    for key,field in [('city','city'),('district','location'),('region','region'),('country','country')]:
+        put(r,key,(ad.get(field) or {}).get('name'),origin+field+'.name')
+    r['source_attributes']={item['specification']['title']:item.get('value') for item in ad.get('adsSpecifications',[])
+                            if isinstance(item,dict) and isinstance(item.get('specification'),dict) and item['specification'].get('title')}
+    apply_attributes(r)
+    attrs={norm(k):v for k,v in r['source_attributes'].items()}
+    kind=(ad.get('category') or {}).get('seo')
+    put(r,'property_type','apartment' if kind=='stanovi' else 'house',origin+'category.seo')
+    raw_type=attrs.get('tip kuce') or attrs.get('vrsta stana')
+    put(r,'property_type_raw',raw_type,origin+'adsSpecifications')
+    if raw_type and property_type(raw_type) in ('villa','studio','duplex','penthouse'):
+        put(r,'property_type',property_type(raw_type),origin+'adsSpecifications')
+    put(r,'room_layout_raw',attrs.get('broj soba'),origin+'adsSpecifications')
+    if kind=='kuce':put(r,'rooms',numeric(attrs.get('broj soba')),origin+'adsSpecifications')
+    put(r,'floor_raw',attrs.get('sprat'),origin+'adsSpecifications')
+    put(r,'furnishing_raw',attrs.get('opremljenost'),origin+'adsSpecifications')
+    put(r,'parking_raw',attrs.get('parking'),origin+'adsSpecifications')
+    put(r,'heating_raw',attrs.get('grijanje'),origin+'adsSpecifications')
+    put(r,'deal_type',deal(attrs.get('tip oglasa')),origin+'adsSpecifications.Tip oglasa')
+    if ad.get('isBuying'):
+        r['deal_type']='wanted';r['quality_flags'].append('wanted_ad_not_property_offer')
+    r['price_on_request']=bool(ad.get('priceOnRequest'))
+    if not r['price_on_request']:
+        for field,period in [('price',''),('priceMonthly','month'),('priceDaily','day')]:
+            amount=numeric(ad.get(field))
+            if amount is not None:
+                put(r,'price_amount',amount,origin+field)
+                put(r,'price_currency','EUR','page:price_display_EUR')
+                put(r,'price_raw',str(amount)+' EUR'+(' / '+period if period else ''),origin+field)
+                if period:put(r,'rental_period',period,origin+field)
+                break
+    else:
+        r['price_amount']=None
+    user=ad.get('user') or {}
+    put(r,'advertiser_name',line(' '.join(str(user.get(k) or '') for k in ('name','surname'))),origin+'user.name/surname')
+    put(r,'advertiser_profile_type',(user.get('type') or {}).get('name'),origin+'user.type.name')
+    put(r,'advertiser_source_id',user.get('id'),origin+'user.id')
+    r['amenities']=[x['title'] for x in ad.get('equipment',[]) if isinstance(x,dict) and x.get('title')]
+    r['field_sources']['amenities']=origin+'equipment[].title'
+    r['source_code']=ad.get('code');r['source_database_id']=ad.get('id')
+
+
 def workbook_data(path):
     wb=load_workbook(path,read_only=True,data_only=True);data={}
     for sh in wb:
@@ -343,7 +394,7 @@ def parse_property(meta,workbook,old_phones):
         canonical=root.xpath('//link[@rel="canonical"]/@href')
         if canonical and galleries.identify(galleries.parse.urljoin(r['listing_url'],canonical[0]))!=(r['source'],r['listing_id']):
             raise ValueError('Canonical listing mismatch')
-        {'estitor':estitor,'patuljak':patuljak,'realitica':realitica}[r['source']](root,r)
+        {'estitor':estitor,'patuljak':patuljak,'realitica':realitica,'oglasi':oglasi}[r['source']](root,r)
         put(r,'metadata_summary',first(root,'//meta[@name="description"]/@content') or first(root,'//meta[@property="og:description"]/@content'),'page:meta_description_summary_only')
     enrich(r,meta,workbook,old_phones)
     r['description_status']='extracted' if r.get('description_original') else 'no_published_description' if r['source_page_available'] else 'source_unavailable'

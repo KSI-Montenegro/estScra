@@ -23,7 +23,7 @@ def save(path, value):
 
 def input_property(record):
     key = record['property_key']
-    if not re.fullmatch(r'(estitor|patuljak|realitica)_[0-9]+', key):
+    if not re.fullmatch(r'(estitor|patuljak|realitica|oglasi)_[0-9]+', key):
         raise ValueError('Invalid photo property key')
     urls = record.get('source_image_urls', record.get('image_urls', []))
     if not isinstance(urls, list) or not all(isinstance(u, str) for u in urls):

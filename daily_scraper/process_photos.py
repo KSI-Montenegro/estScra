@@ -36,7 +36,7 @@ from brightdata_browser import BrowserAPI, BrowserFailure
 from url_utils import transport_url
 
 VERSION = 'one-property-sample-patuljak-v2-individual-unknown-text'
-HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com'}
+HOSTS = {'content.estitor.com', 'patuljak.me', 'www.patuljak.me', 'www.realitica.com', 'realitica.com', 'slike.oglasi.me'}
 cv2.setNumThreads(1)
 
 
@@ -193,9 +193,29 @@ class Detector:
             raise ValueError('Template digest mismatch')
         self.template = np.asarray(Image.open(io.BytesIO(data)).convert('RGB')) if template is None else template
 
-    def analyze(self, data, mask_only=False):
+    def analyze(self, data, mask_only=False, source=None):
         rgb = decode(data)
         height, width = rgb.shape[:2]
+        if source == 'oglasi':
+            from portal_watermarks import build_mask as portal_mask
+            _, meta = portal_mask(rgb, 'oglasi')
+            words = ocr(cv2.cvtColor(rgb, cv2.COLOR_RGB2BGR), 'tesseract', 30)
+            hits = brand_hits(words, width, height)
+            text_found = any(w['confidence'] >= 45 and len(token(w['text'])) >= 3 for w in words)
+            outside = False
+            if meta['eligible']:
+                x1,y1,x2,y2 = meta['overlay_box_original_pixels']
+                for word in words:
+                    a,b,c,d=word['box_original_pixels']
+                    if word['confidence'] >= 60 and len(token(word['text'])) >= 4 and not (
+                            x1-8 <= (a+c)/2 <= x2+8 and y1-8 <= (b+d)/2 <= y2+8):
+                        outside = True
+            known = meta['eligible'] or bool(hits)
+            return {'result':'watermark_candidate' if known else 'needs_review' if text_found else 'sample_passed',
+                    'reason':'oglasi_calibrated_center' if meta['eligible'] else 'unclassified_text' if text_found else 'no_detected_mark_in_sample',
+                    'score':0., 'box':[], 'hits':hits, 'width':width, 'height':height,
+                    'other_text_detected':text_found, 'unsupported_text_outside_portal':outside,
+                    'portal_mask_metadata':meta}
         if min(width, height) < 100:
             return {'result': 'needs_review', 'reason': 'small_preview_only', 'score': 0, 'box': [], 'hits': []}
         try:
@@ -218,8 +238,8 @@ class Detector:
                 'score': float(score), 'box': box, 'hits': hits,
                 'width': width, 'height': height, 'other_text_detected': text_found}
 
-    def for_removal(self, data):
-        return self.analyze(data, mask_only=True)
+    def for_removal(self, data, source=None):
+        return self.analyze(data, mask_only=True, source=source)
 
 
 class PhotoWorker:
@@ -244,6 +264,8 @@ class PhotoWorker:
         write_json(self.state_path, self.state)
 
     def repair(self, key, item, data, analysis):
+        if key.startswith('oglasi_'):
+            return self.repair_portal(key, item, data, analysis)
         if self.time_exhausted():
             return None, 'runtime_run_limit'
         row = {'property_key': key, 'image_number': item['image_number'], 'image_url': item['original_url'],
@@ -271,6 +293,42 @@ class PhotoWorker:
             return None, 'repair_automated_checks_failed'
         self.counts['cleaned'] += 1
         return result, ''
+
+    def repair_portal(self, key, item, data, analysis):
+        from portal_watermarks import build_mask as portal_mask, repair as portal_repair, VERSION as portal_version
+        if analysis.get('unsupported_text_outside_portal') or any(
+                hit.get('brand') not in (None,'oglasi') for hit in analysis.get('hits',[])):
+            return None, 'multiple_or_unsupported_watermarks'
+        rgb=decode(data);mask,meta=portal_mask(rgb,'oglasi')
+        if not meta['eligible']:
+            return None,'unsupported_or_uncertain_mask'
+        if not self.execute:
+            return None,'removal_execute_required'
+        if self.time_exhausted():
+            return None,'runtime_run_limit'
+        if self.counts['removal_attempts'] >= self.max_clean:
+            return None,'removal_run_limit'
+        if self.infer is None:
+            cfg=json.loads((ROOT/'property_photo_pipeline/lama_model.json').read_text())
+            self.model_hash=sha(self.model_path.read_bytes())
+            if self.model_hash != cfg['sha256']:
+                raise PhotoFailure('lama_model_digest_mismatch')
+            self.infer=TorchInpainter(self.model_path,2)
+        self.counts['removal_attempts']+=1
+        encoded,proof=portal_repair(rgb,mask,meta,self.infer,self.model_hash,sha(data))
+        if encoded is None:
+            return None,'repair_automated_checks_failed'
+        source,ident=key.split('_',1);digest=sha(encoded)
+        object_key=f'properties/{source}/{ident}/cleaned/{item["image_number"]:03d}-{digest}.webp'
+        path=self.output/'ready'/object_key;atomic_write(path,encoded)
+        self.counts['cleaned']+=1
+        return {'output_path':str(path),'output_sha256':digest,'output_bytes':len(encoded),'key':object_key,
+                'qc':proof,'mask_metadata':{'policy_id':portal_version}},''
+
+    def analyze_property(self, data, key, removal=False):
+        if key.startswith('oglasi_'):
+            return self.detector.analyze(data, source='oglasi')
+        return self.detector.for_removal(data) if removal else self.detector.analyze(data)
 
     def process(self, prop):
         key = prop['property_key']
@@ -313,7 +371,7 @@ class PhotoWorker:
                         expected = base['optimized_sha256'] if sample_url == base.get('source_copy_url') else base['source_sha256']
                         if sha(data) != expected:
                             raise PhotoFailure('sample_source_identity_mismatch')
-                    analysis = self.detector.analyze(data)
+                    analysis = self.analyze_property(data, key)
                     prop['sample'] = {**analysis, 'image_number': first['image_number'], 'sampled_url': sample_url,
                                       'source_sha256': sha(data), 'images_sampled': 1, 'images_attempted': attempted,
                                       'meaning': 'One source image checked; remaining images are not individually certified.'}
@@ -382,9 +440,9 @@ class PhotoWorker:
                 if held:
                     # Gallery flagging is per property; mask location must still
                     # be established independently on each image before editing.
-                    analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.for_removal(data)
-                    if individual_unknown and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
-                        analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.detector.analyze(data)
+                    analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key, removal=True)
+                    if (individual_unknown or key.startswith('oglasi_')) and base.get('error_code', '') in ('', 'unsupported_or_uncertain_mask'):
+                        analysis = prop['sample'] if prop.get('sample', {}).get('source_sha256') == digest else self.analyze_property(data, key)
                         row['individual_text_analysis'] = {**analysis, 'source_sha256': digest, 'policy': VERSION}
                         if analysis.get('result') == 'sample_passed':
                             row.update(watermark_candidate=False, ready_for_listing=True,
@@ -520,7 +578,7 @@ def main():
     parser.add_argument('--upload', action='store_true')
     args = parser.parse_args()
     priority = [key for key in re.split(r'[,\s]+', args.priority_properties.strip()) if key]
-    if any(not re.fullmatch(r'(estitor|patuljak|realitica)_\d+', key) for key in priority):
+    if any(not re.fullmatch(r'(estitor|patuljak|realitica|oglasi)_\d+', key) for key in priority):
         parser.error('Invalid priority property key')
     if not 1 <= args.max_properties <= 10000 or not 1 <= args.max_images <= 100000 or not 0 <= args.max_clean_images <= 10000 or args.max_runtime_seconds < 1:
         parser.error('Invalid photo run limits')

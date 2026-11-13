@@ -1,0 +1,88 @@
+{
+  "validated_at": "2026-11-13",
+  "scope": "bounded initial validation, not full-site crawl",
+  "local_scrape": {
+    "schema_version": 1,
+    "run_id": "2026-11-13T120819-5b4db3",
+    "started_at": "2026-11-13T12:08:19.692368+00:00",
+    "finished_at": "2026-11-13T12:08:23.959486+00:00",
+    "discovered_ids": 120,
+    "captured_listings": 2,
+    "attempted_listings": 2,
+    "by_source": {
+      "oglasi": 2
+    },
+    "pending_backlog": 118,
+    "errors": 0,
+    "warnings": 0,
+    "deferred_by_request_limit": 0,
+    "limits_reached": [],
+    "requests": {
+      "direct_requests": 4
+    },
+    "discovery": [
+      {
+        "source": "oglasi",
+        "search": "apartments",
+        "pages_scanned": 1,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      },
+      {
+        "source": "oglasi",
+        "search": "houses",
+        "pages_scanned": 1,
+        "stop_reason": "page_cap_reached",
+        "coverage": "bounded_scan_not_full_site_census"
+      }
+    ],
+    "coverage": "bounded_scan; increase max-pages for deeper coverage",
+    "photo_delivery": "source_urls_only; optimization_and_R2_photo_upload_are_separate",
+    "watermark_check": "one_representative_image_queued_per_property; not_analyzed",
+    "status": "completed_with_backlog"
+  },
+  "visible_gallery_images": {
+    "oglasi_75078779": 13,
+    "oglasi_84113582": 15
+  },
+  "phone_matches": [
+    {
+      "property_key": "oglasi_75078779",
+      "phone_match_status": "new_contact",
+      "phone_match_count": 0,
+      "matched_property_keys": []
+    },
+    {
+      "property_key": "oglasi_84113582",
+      "phone_match_status": "existing_contact",
+      "phone_match_count": 3,
+      "matched_property_keys": [
+        "patuljak_80621",
+        "patuljak_83106",
+        "patuljak_86571"
+      ]
+    }
+  ],
+  "local_watermark_trials": [
+    {
+      "property_key": "oglasi_75078779",
+      "image_number": 1,
+      "bytes": 295294,
+      "sha256": "c71cc49951582cc00e4cbde5f8631de38f64b40551f0f48d70a399a0c6cbda65",
+      "local_lama": true,
+      "residual_shape_and_focused_ocr_checks": "passed",
+      "outside_mask_unchanged_before_encoding": true
+    },
+    {
+      "property_key": "oglasi_84113582",
+      "image_number": 1,
+      "bytes": 277190,
+      "sha256": "01fc59540567dc655fa527f521eb0d0a98bcf65f77cfe1b1a5b236118809e569",
+      "local_lama": true,
+      "residual_shape_and_focused_ocr_checks": "passed",
+      "outside_mask_unchanged_before_encoding": true
+    }
+  ],
+  "regression_tests_passed": 128,
+  "github_validation": "pending"
+}

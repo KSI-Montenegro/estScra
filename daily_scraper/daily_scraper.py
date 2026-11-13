@@ -12,6 +12,7 @@ import sys
 import time
 import zipfile
 from collections import Counter
+from itertools import zip_longest
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
@@ -28,7 +29,7 @@ import collect_images as galleries
 import extract_listing_details as details
 
 UA = 'Mozilla/5.0 (compatible; GradenDailyCollector/1.0)'
-SOURCES = ('realitica', 'patuljak', 'estitor')
+SOURCES = ('realitica', 'patuljak', 'estitor', 'oglasi')
 ALLOWED_HOSTS = set(galleries.HOSTS) | {'www.patuljak.me', 'www.estitor.com'}
 MAX_BODY = 8_000_000
 LIMIT_CODES = {'brightdata_request_cap_reached', 'runtime_limit_reached'}
@@ -37,6 +38,7 @@ FATAL_CODES = {'brightdata_key_missing', 'brightdata_http_401', 'brightdata_http
                'configured_zone_is_not_browser_api', 'browser_zone_password_missing',
                'browser_customer_id_missing', 'install_playwright_for_browser_api'}
 UNAVAILABLE_CODES = {'source_http_404', 'source_http_410', 'canonical_not_a_listing',
+                     'oglasi_listing_unavailable', 'oglasi_non_home_category', 'oglasi_outside_montenegro',
                      'proxied_source_http_404', 'proxied_source_http_410',
                      'browser_source_http_404', 'browser_source_http_410',
                      'canonical_listing_mismatch', 'redirect_not_a_listing', 'redirect_listing_mismatch'}
@@ -167,6 +169,9 @@ class Fetcher:
 
 def listing_links(body, page_url, source):
     root = html.fromstring(body)
+    if source == 'oglasi':
+        from oglasi_properties import listing_links as oglasi_links
+        return oglasi_links(root, page_url)
     found = {}
     for href in root.xpath('//a/@href'):
         url = urljoin(page_url, href).split('#')[0].split('?')[0]
@@ -180,6 +185,8 @@ def listing_links(body, page_url, source):
 
 
 def searches(source):
+    if source == 'oglasi':
+        return [('apartments', 'stanovi'), ('houses', 'kuce')]
     if source == 'realitica':
         return [('sale', 'Prodaja'), ('rent', 'DuziNajam'), ('holiday', 'Najam')]
     if source == 'estitor':
@@ -188,6 +195,8 @@ def searches(source):
 
 
 def search_url(source, value, page):
+    if source == 'oglasi':
+        return 'https://oglasi.me/nekretnine/' + value + '?page=' + str(page + 1)
     if source == 'realitica':
         # Match the current site's own search/pagination links.
         return 'https://www.realitica.com/?' + urlencode({
@@ -252,9 +261,15 @@ def parse_listing(body, url, source, ident, captured_at):
             raise FetchFailure('canonical_not_a_listing') from None
         if identity != (source, ident):
             raise FetchFailure('canonical_listing_mismatch')
-    selectors = {'estitor': '//h1', 'patuljak': '//h1', 'realitica': '//*[@id="listing_body"]'}
+    selectors = {'estitor': '//h1', 'patuljak': '//h1', 'realitica': '//*[@id="listing_body"]', 'oglasi': '//h1'}
     if not root.xpath(selectors[source]):
         raise FetchFailure('listing_body_missing_or_challenge')
+    if source == 'oglasi':
+        from oglasi_properties import current_ad, OglasiFailure
+        try:
+            current_ad(root, ident)
+        except OglasiFailure as exc:
+            raise FetchFailure(str(exc)) from None
     images, _, method, _ = galleries.extract(body, url, source, ident)
     thumbnail_only = False
     if source == 'realitica' and not images:
@@ -316,6 +331,7 @@ CSV_FIELDS = ['property_key', 'source', 'listing_id', 'listing_url', 'first_seen
               'country', 'area_m2', 'lot_area_m2', 'bedrooms', 'bathrooms', 'published_date',
               'published_date_raw', 'updated_date', 'updated_date_raw', 'advertiser_name', 'phone_e164',
               'contact_phones', 'phone_collection_status', 'phone_checked_at', 'phone_error_code',
+              'phone_match_status', 'phone_match_count', 'matched_property_keys', 'phone_matches',
               'image_count', 'image_urls', 'import_status', 'missing_core_fields',
               'watermark_status', 'watermark_sample_url', 'watermark_sample_result']
 
@@ -396,6 +412,12 @@ def main(argv=None):
         return run(args)
 
 
+def balanced_oglasi_pending(items):
+    apartments=[item for item in items if '/stanovi/' in item[1]['url']]
+    houses=[item for item in items if '/kuce/' in item[1]['url']]
+    return [item for pair in zip_longest(apartments,houses) for item in pair if item is not None]
+
+
 def run(args):
     key = os.getenv('BRIGHTDATA_API_KEY', '').strip()
     if args.api_key_file:
@@ -431,6 +453,8 @@ def run(args):
                if k.split('_', 1)[0] in args.sources and v.get('status') in ('pending', 'retry')]
     # Round-robin sources, so a large Estitor backlog cannot starve Patuljak.
     queues = {s: [(k, v) for k, v in pending if k.startswith(s + '_')] for s in args.sources}
+    if 'oglasi' in queues:
+        queues['oglasi']=balanced_oglasi_pending(queues['oglasi'])
     ordered = []
     while any(queues.values()):
         for source in args.sources:

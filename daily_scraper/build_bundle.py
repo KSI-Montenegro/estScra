@@ -12,6 +12,10 @@ FILES = {
     HERE / 'url_utils.py': 'url_utils.py',
     HERE / 'contact_enrichment.py': 'contact_enrichment.py',
     HERE / 'patuljak_auth.py': 'patuljak_auth.py',
+    HERE / 'phone_matches.py': 'phone_matches.py',
+    HERE / 'OGLASI.md': 'OGLASI.md',
+    HERE / 'test_oglasi.py': 'test_oglasi.py',
+    HERE / 'test_portal_watermarks.py': 'test_portal_watermarks.py',
     HERE / 'PATULJAK_SMS_AUTH.md': 'PATULJAK_SMS_AUTH.md',
     HERE / 'provision_auth_broker.py': 'provision_auth_broker.py',
     HERE / 'auth_broker/worker.mjs': 'auth_broker/worker.mjs',
@@ -34,12 +38,14 @@ FILES = {
     HERE / 'photo_pipeline_validation.json': 'photo_pipeline_validation.json',
     HERE / 'test_daily_scraper.py': 'test_daily_scraper.py',
     ROOT / 'collect_images.py': 'collect_images.py',
+    ROOT / 'oglasi_properties.py': 'oglasi_properties.py',
+    ROOT / 'listing_details/listings.json': 'listing_details/listings.json',
     ROOT / 'extract_listing_details.py': 'extract_listing_details.py',
     ROOT / '.github/workflows/daily-property-scrape.yml': 'daily-property-scrape.yml',
     ROOT / 'property_images/all_image_urls.csv': 'property_images/all_image_urls.csv',
 }
 for name in ('pipeline.py', 'remove_local.py', 'watermark_mask.py', 'match_known_logo.py',
-             'install_local_lama.py', 'lama_model.json', 'r2_config.json'):
+             'install_local_lama.py', 'lama_model.json', 'r2_config.json', 'portal_watermarks.py'):
     FILES[ROOT / 'property_photo_pipeline' / name] = 'property_photo_pipeline/' + name
 for name in ('ocr_scan.py', 'detect_watermarks.py'):
     FILES[ROOT / 'watermark_detection' / name] = 'watermark_detection/' + name

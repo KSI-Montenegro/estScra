@@ -21,7 +21,7 @@ from pipeline import CACHE_CONTROL, atomic_write, group, optimize, r2_settings, 
 
 MAX_BYTES = 400000
 ALGORITHM = 'local-lama-mask-v2-edge-pad'
-BRANDS = ('patuljak', 'estitor', 'realitica')
+BRANDS = ('patuljak', 'estitor', 'realitica', 'oglasi')
 
 
 def repair_rgb(original, mask, infer, context=128):

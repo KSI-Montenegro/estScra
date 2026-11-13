@@ -9,7 +9,7 @@ on:
       source:
         description: Portal to check, or all portals for the normal daily scan
         type: choice
-        options: [all, realitica, patuljak, estitor]
+        options: [all, realitica, patuljak, estitor, oglasi]
         default: all
       max_pages:
         description: Pages per search (coverage is bounded)
@@ -260,7 +260,7 @@ jobs:
               with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as f:
                   d = json.loads(contacts.read_text())
                   f.write('\nContact collection\n\n')
-                  for k in ('total_listings', 'with_phone', 'with_single_phone', 'by_status', 'errors', 'patuljak_auth'):
+                  for k in ('total_listings', 'with_phone', 'with_single_phone', 'by_status', 'errors', 'patuljak_auth', 'phone_matching'):
                       f.write(f'- {k}: {d.get(k)}\n')
                   f.write('\nLatest cumulative listing feed: https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/latest.json\n')
           photos = Path('daily_scraper/photo_exports/summary.json')

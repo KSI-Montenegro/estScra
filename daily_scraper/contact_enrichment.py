@@ -41,6 +41,8 @@ def normalize_phone(value, local=False):
         value = '+' + value[2:]
     if local and re.fullmatch(r'0(?:20|30|31|32|33|40|41|50|51|52|60|63|67|68|69)\d{6}', value):
         value = '+382' + value[1:]
+    if local and re.fullmatch(r'382[2-6]\d{7}', value):
+        value = '+' + value
     if value.startswith('+382') and not re.fullmatch(r'\+382[2-6]\d{7}', value):
         return None
     if re.fullmatch(r'\+[1-9]\d{6,14}', value) and value != PLATFORM_PHONE:
@@ -74,6 +76,15 @@ def page_contacts(root, record):
         nodes = root.xpath('//*[contains(concat(" ",normalize-space(@class)," ")," product_full ")]')
         if nodes:
             scope = nodes[0]
+    if record['source'] == 'oglasi':
+        from oglasi_properties import current_ad
+        if root.xpath('//script[@id="__NEXT_DATA__"]'):
+            ad=current_ad(root, str(record['listing_id']))
+            for item in (ad.get('user') or {}).get('phones', []):
+                if isinstance(item, dict):
+                    add(item.get('phone'), 'page:currentAd.user.phones', local=True)
+        # Do not collect navigation, recommendation, or profile-directory numbers.
+        return candidates
     for a in scope.xpath('.//a[starts-with(@href,"tel:")]'):
         if any(e.tag in ('footer', 'aside') or any(v in (e.get('class', '') + ' ' + e.get('id', '')).lower()
                for v in ('related', 'newsletter', 'popup', 'suggestion')) for e in a.iterancestors()):
@@ -221,7 +232,7 @@ def load_inputs(state_path, exports, backfill):
     for path in paths:
         for row in json.loads(path.read_text()):
             key = row['property_key']
-            if not re.fullmatch(r'(realitica|patuljak|estitor)_\d+', key):
+            if not re.fullmatch(r'(realitica|patuljak|estitor|oglasi)_\d+', key):
                 raise ValueError('Invalid contact property key')
             if key != row['source'] + '_' + str(row['listing_id']):
                 raise ValueError('Contact property identity mismatch')
@@ -369,15 +380,17 @@ def collect(state, state_path, fetcher, reveal, cache, max_listings=300, max_rev
 
 def patch_exports(state, exports, photo_output):
     from daily_scraper import export_run, write_json, csv_text, CSV_FIELDS
+    from phone_matches import annotate, legacy_records
+    known=list(state['records'].values())+legacy_records()
     for path in sorted(Path(exports).glob('*/listings.json')):
-        rows = [apply_result(r, state['results'].get(r['property_key'], {})) for r in json.loads(path.read_text())]
+        rows = annotate([apply_result(r, state['results'].get(r['property_key'], {})) for r in json.loads(path.read_text())], known)
         folder = path.parent
         export_run(folder, rows, json.loads((folder / 'errors.json').read_text()),
                    json.loads((folder / 'summary.json').read_text()),
                    json.loads((folder / 'warnings.json').read_text()) if (folder / 'warnings.json').exists() else [])
     path = Path(photo_output) / 'listings_with_photos.json'
     if path.exists():
-        rows = [apply_result(r, state['results'].get(r['property_key'], {})) for r in json.loads(path.read_text())]
+        rows = annotate([apply_result(r, state['results'].get(r['property_key'], {})) for r in json.loads(path.read_text())], known)
         write_json(path, rows)
         fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count', 'photo_catalog_url']
         (path.with_suffix('.csv')).write_text(csv_text(fields, rows), encoding='utf-8')
@@ -414,13 +427,21 @@ def publish(state, store, output):
                    photo_delivery_status=prop.get('photo_pipeline_status', 'pending'),
                    watermark_sample_result=prop.get('watermark_sample', {}).get('result', 'not_checked'))
         records.append(row)
-    stats = summary(state)
+    from phone_matches import annotate, legacy_records, report
+    records=annotate(records, list(state['records'].values())+legacy_records())
+    matches=report(records)
+    stats = {**summary(state), 'phone_matching': {
+        'historical_baseline': 'listing_details/listings.json plus cumulative daily contacts',
+        'existing_contacts': sum(r['phone_match_status']=='existing_contact' for r in records),
+        'new_contacts': sum(r['phone_match_status']=='new_contact' for r in records)}}
     fields = CSV_FIELDS + ['source_image_urls', 'photo_delivery_status', 'ready_image_count', 'held_image_count']
     queue = [{**r, 'retry_after': state['results'].get(r['property_key'], {}).get('retry_after')}
              for r in records if not r.get('contact_phones')]
     assets = {'listings.json': encode(records), 'listings.csv': csv_text(fields, records).encode(),
               'contact_queue.csv': csv_text(['property_key', 'source', 'listing_url', 'phone_collection_status', 'phone_error_code', 'retry_after'], queue).encode(),
-              'summary.json': encode(stats), 'phone_updates.json': encode(state['results'])}
+              'summary.json': encode(stats), 'phone_updates.json': encode(state['results']),
+              'phone_matches.json': encode(matches),
+              'phone_matches.csv': csv_text(list(matches[0]) if matches else ['property_key','phone_match_status'],matches).encode()}
     output = Path(output); output.mkdir(parents=True, exist_ok=True)
     for name, body in assets.items():
         (output / name).write_bytes(body)

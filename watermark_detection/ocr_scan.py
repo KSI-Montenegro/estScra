@@ -19,7 +19,7 @@ import cv2
 import numpy as np
 import detect_watermarks as d
 
-BRANDS=('patuljak','estitor','realitica')
+BRANDS=('patuljak','estitor','realitica','oglasi')
 
 def token(s):return re.sub(r'[^a-z0-9]','',s.lower())
 

@@ -16,8 +16,9 @@ from pathlib import Path
 from urllib import request, error, parse
 from lxml import html
 
-HOSTS = {'estitor.com':'estitor', 'patuljak.me':'patuljak', 'www.realitica.com':'realitica', 'realitica.com':'realitica'}
-PATTERNS = {'estitor': r'/id-(\d+)(?:/|$)', 'patuljak':r'--(\d+)(?:/|$)', 'realitica':r'/listing/(\d+)(?:/|$)'}
+HOSTS = {'estitor.com':'estitor', 'patuljak.me':'patuljak', 'www.realitica.com':'realitica', 'realitica.com':'realitica', 'oglasi.me':'oglasi', 'www.oglasi.me':'oglasi'}
+PATTERNS = {'estitor': r'/id-(\d+)(?:/|$)', 'patuljak':r'--(\d+)(?:/|$)', 'realitica':r'/listing/(\d+)(?:/|$)',
+            'oglasi':r'^/nekretnine/(?:stanovi|kuce)/[^/]+-og(\d+)me/?$'}
 USER_AGENT = 'Mozilla/5.0 (compatible; PropertyGalleryCollector/1.0)'
 
 def now(): return datetime.now(timezone.utc).isoformat()
@@ -33,7 +34,7 @@ def identify(url):
     u=parse.urlsplit(url);host=(u.hostname or '').lower()
     if u.scheme not in ('http','https') or host not in HOSTS or u.username or u.password:
         raise ValueError('Unsupported listing URL')
-    source=HOSTS[host];m=re.search(PATTERNS[source],u.path)
+    source=HOSTS[host];m=re.search(PATTERNS[source],u.path,re.I)
     if not m:raise ValueError('Missing listing ID')
     return source,str(int(m[1]))
 
@@ -101,6 +102,10 @@ def extract(body, url, source, ident):
     elif source=='realitica':
         values=root.xpath('//a[contains(@href,"/listing_photos/'+ident+'_")]/@href')
         method='realitica_full_size_gallery_links'
+    elif source=='oglasi':
+        from oglasi_properties import gallery
+        values=gallery(root,ident)
+        method='oglasi_current_ad_media'
     result=[];seen=set()
     for value in values:
         image=image_url(value,url)

@@ -1,9 +1,11 @@
 # GRADEN daily property feed
 
-Discovers ads from Realitica, Patuljak and Estitor without a browser extension.
+Discovers ads from Realitica, Patuljak, Estitor and Oglasi.me without a browser extension.
 Uses direct verified HTTPS first, with the existing Bright Data zone as a fallback.
 The manual workflow's `source` selector can limit a diagnostic run to one portal;
-scheduled runs continue to check all three. Realitica searches follow the site's
+scheduled runs check all four. Oglasi apartments and houses include listing details,
+phones, the local watermark pipeline, and cross-portal phone matching; see [OGLASI.md](OGLASI.md).
+Realitica searches follow the site's
 current root-query pagination links. A missing/challenged listing DOM is an access
 failure, not evidence that an ad was removed; only confirmed unavailable responses
 and redirects/canonical identity changes mark source records unavailable.
