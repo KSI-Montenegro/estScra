@@ -85,9 +85,12 @@ The other reported residuals were in drafts. For 77029, screenshot/player graphi
 were reported and remain a review issue rather than an invented agency identity.
 
 Draft image numbers do not map reliably to original gallery numbers. Resolve
-reported files by exact source/delivered URL and SHA256. Exact draft R2 URLs were
-requested for comparison with current and older cleaned versions. Reported legacy
-edits remain quarantined despite negative OCR while that discrepancy is unresolved.
+reported files by exact source/delivered URL and SHA256. The operator supplied 16 exact draft R2 URLs for 79250 and 64027. All 16 match
+the current catalog and the downloaded SHA256 bytes: these are current stored
+cleaned versions, not superseded variants. The exact matches are recorded in
+`watermark_incident_validation.json`. This establishes file identity, not which
+original positions carried a reported agency mark. Reported legacy edits remain
+quarantined despite negative OCR until residuals are resolved.
 
 ## Storage and consumer contract
 
@@ -117,3 +120,12 @@ Patuljak repair proofs. Oglasi proof validation was added, and recovery run
 [43425482745](https://github.com/KSI-Montenegro/estScra/actions/runs/43425482745)
 passed using the saved uploads. That historical run remains failed in GitHub; its
 failure is distinct from the newly reported residual-watermark incident.
+
+Per-image incident verification passed in
+[run 43430196381](https://github.com/KSI-Montenegro/estScra/actions/runs/43430196381).
+All 115 captured originals in the nine galleries were audited, along with all 91
+saved cleaned outputs. Their holds remain: completing an audit does not certify
+an unresolved file as clean. The five agency labels in this report are explicitly
+operator-supplied; the automatic audit recognized Patuljak but did not reliably
+read those faint agency marks. 145 regression tests passed. The wider legacy
+re-audit continues through bounded recovery jobs.

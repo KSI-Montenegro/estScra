@@ -311,6 +311,8 @@ def parse_listing(body, url, source, ident, captured_at):
     r['watermark_sample_url'] = images[0] if images else None
     r['watermark_sample_image_number'] = 1 if images else None
     r['watermark_sample_result'] = 'not_checked'
+    r.update(photos_ready_for_publication=False,photo_audit_status='pending',
+             photo_audited_count=0,photo_pending_count=len(images),photo_expected_count=len(images))
     r['newness'] = 'previously_unseen_in_our_state_not_proof_of_new_publication'
     return r
 

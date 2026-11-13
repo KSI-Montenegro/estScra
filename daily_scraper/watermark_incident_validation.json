@@ -1,0 +1,423 @@
+{
+  "reported_properties": [
+    "patuljak_5176",
+    "patuljak_64027",
+    "patuljak_72906",
+    "patuljak_72989",
+    "patuljak_77029",
+    "patuljak_79250",
+    "patuljak_82189",
+    "patuljak_86379",
+    "patuljak_86717"
+  ],
+  "source_gallery_images": 115,
+  "existing_cleaned_versions": 91,
+  "quarantined_properties": 9,
+  "operator_reported_agencies": {
+    "patuljak_64027": [
+      "Montenegro Prospects"
+    ],
+    "patuljak_72906": [
+      "Kvadrat"
+    ],
+    "patuljak_72989": [
+      "Domus"
+    ],
+    "patuljak_82189": [
+      "Puerta Real Estate"
+    ],
+    "patuljak_5176": [
+      "Kvadrat"
+    ]
+  },
+  "regression_tests_passed": 145,
+  "failed_historical_run": "https://github.com/KSI-Montenegro/estScra/actions/runs/43423696302",
+  "historical_recovery_run": "https://github.com/KSI-Montenegro/estScra/actions/runs/43425482745",
+  "per_image_audit_run": "https://github.com/KSI-Montenegro/estScra/actions/runs/43430196381",
+  "exact_draft_image_urls": "received; 16 current catalog matches and downloaded SHA256 matches; draft positions are not original positions",
+  "status": "per_image_audit_passed; all_reported_galleries_held",
+  "live_originals_audited": 115,
+  "live_outputs_checked": 91,
+  "ready_images_in_reported_galleries": 0,
+  "property_results": [
+    {
+      "property_key": "patuljak_86717",
+      "expected": 17,
+      "audited": 17,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 11,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [],
+      "route": "unclassified",
+      "errors": {
+        "unsupported_or_uncertain_mask": 6,
+        "reported_image_requires_residual_review": 11
+      }
+    },
+    {
+      "property_key": "patuljak_79250",
+      "expected": 12,
+      "audited": 12,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 10,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [],
+      "route": "unclassified",
+      "errors": {
+        "reported_image_requires_residual_review": 10,
+        "unsupported_or_uncertain_mask": 2
+      }
+    },
+    {
+      "property_key": "patuljak_64027",
+      "expected": 8,
+      "audited": 8,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 6,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [
+        "Montenegro Prospects"
+      ],
+      "route": "agents",
+      "errors": {
+        "unsupported_or_uncertain_mask": 2,
+        "reported_image_requires_residual_review": 6
+      }
+    },
+    {
+      "property_key": "patuljak_72906",
+      "expected": 11,
+      "audited": 11,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 11,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [
+        "Kvadrat"
+      ],
+      "route": "agents",
+      "errors": {
+        "reported_image_requires_residual_review": 11
+      }
+    },
+    {
+      "property_key": "patuljak_72989",
+      "expected": 12,
+      "audited": 12,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 9,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [
+        "Domus"
+      ],
+      "route": "agents",
+      "errors": {
+        "reported_image_requires_residual_review": 9,
+        "unsupported_or_uncertain_mask": 3
+      }
+    },
+    {
+      "property_key": "patuljak_82189",
+      "expected": 20,
+      "audited": 20,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 15,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [
+        "Puerta Real Estate"
+      ],
+      "route": "agents",
+      "errors": {
+        "reported_image_requires_residual_review": 15,
+        "unsupported_or_uncertain_mask": 5
+      }
+    },
+    {
+      "property_key": "patuljak_5176",
+      "expected": 13,
+      "audited": 13,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 9,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [
+        "Kvadrat"
+      ],
+      "route": "agents",
+      "errors": {
+        "reported_image_requires_residual_review": 9,
+        "unsupported_or_uncertain_mask": 4
+      }
+    },
+    {
+      "property_key": "patuljak_77029",
+      "expected": 8,
+      "audited": 8,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 8,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [],
+      "route": "unclassified",
+      "errors": {
+        "reported_image_requires_residual_review": 8
+      }
+    },
+    {
+      "property_key": "patuljak_86379",
+      "expected": 14,
+      "audited": 14,
+      "audit_status": "complete",
+      "ready": 0,
+      "output_checks": 12,
+      "portals": [
+        "patuljak"
+      ],
+      "agencies": [],
+      "reported_agencies": [],
+      "route": "unclassified",
+      "errors": {
+        "reported_image_requires_residual_review": 12,
+        "unsupported_or_uncertain_mask": 2
+      }
+    }
+  ],
+  "report_assets": {
+    "agency_routing.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/agency_routing.json",
+    "all_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/all_images.csv",
+    "cleaned_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/cleaned_images.csv",
+    "held_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/held_images.csv",
+    "per_property_triage.zip": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/per_property_triage.zip",
+    "properties.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/properties.json",
+    "ready_images.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/ready_images.csv",
+    "summary.json": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/summary.json",
+    "watermark_candidates.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/watermark_candidates.csv",
+    "watermark_remaining.csv": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/property-photos/3dcbcb4ba17dfe04abb49eea/watermark_remaining.csv"
+  },
+  "agency_attribution": "operator_reported labels separate from automatic detections",
+  "wider_legacy_audit": "scheduled recovery continues",
+  "exact_draft_image_matches": [
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 1,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/001-7e23d68fae4a695af30011c57e32c3cf30c9fa551fed2389f1715def45d299a5.webp",
+      "output_sha256": "7e23d68fae4a695af30011c57e32c3cf30c9fa551fed2389f1715def45d299a5",
+      "original_sha256": "20ad252ed63d9b740eb1d5041b537f826c8f72ea032b17c454f382d527493399",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/001-f721db50326c7b0b916e191a31f06879cb811f0407804b66ddb5a439ec2eff8e.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 2,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/002-574a2319bc20cb05b985c8c21578bd20e83f3800fe888449e57df28fe06a78aa.webp",
+      "output_sha256": "574a2319bc20cb05b985c8c21578bd20e83f3800fe888449e57df28fe06a78aa",
+      "original_sha256": "0c0db390a1db43e173336a1b8d5f57970532f823937df5d0d9a1904bde3b792a",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/002-e2f03145fe739c2b631cba4f3cdaedfe3dd3227ada8ba473b119f774315e7860.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 3,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/003-f3bc755a18eaa058c140818eb3de19b027699c1055a50d9b333a1771bd8ad069.webp",
+      "output_sha256": "f3bc755a18eaa058c140818eb3de19b027699c1055a50d9b333a1771bd8ad069",
+      "original_sha256": "255a156c0794c200964fac3cc6e895d20f6f1d75edd9bc486d0ace124fd5e014",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/003-24b262ba51d27895d4b9feb0545aa3432d2f61c6d1144ab0b1404ee302c0a4ba.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 4,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/004-651db215edcfd9fa384308ed60f418b9b6089b230238a96c817a921992fe46e7.webp",
+      "output_sha256": "651db215edcfd9fa384308ed60f418b9b6089b230238a96c817a921992fe46e7",
+      "original_sha256": "8a89c016abf347fc8a3f4652a8cefec07601f3d61160a99ef4e90903b4ab3fba",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/004-c8244007f4cad421c75332325e1dcb3f2e16c647187a7ba7cc157a0d3a2464cf.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 5,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/005-2d68dfb3e2d83ddfa497041dbfc6439bb61371967a017229001c70aafb77b8eb.webp",
+      "output_sha256": "2d68dfb3e2d83ddfa497041dbfc6439bb61371967a017229001c70aafb77b8eb",
+      "original_sha256": "a47a29fe6771862c73c3da91d582dddd632b5dd0add5bf69a9a929004da81646",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/005-102a333ae3cfe1f70a23ddf20467c1d5f3b0986a2a7963497cdf4838783a7051.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 6,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/006-8218df58dbccda60653ef7a1dcf51538f77dbe43d2cbd3ea497a51355aef69cf.webp",
+      "output_sha256": "8218df58dbccda60653ef7a1dcf51538f77dbe43d2cbd3ea497a51355aef69cf",
+      "original_sha256": "365b39ad32084f7e4ee6f5aa9192b2ccfb3aec536317be02067d32a26dbab4d8",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/006-baea56b1ded594750e5a3d5cc9fa6a7c2e1bc012debd8f492d71fa20b117f4bb.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 7,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/007-cce175dc4fc6ea738c32c3d2b8cdb8c719338816ecd332d11b903ace80344c5e.webp",
+      "output_sha256": "cce175dc4fc6ea738c32c3d2b8cdb8c719338816ecd332d11b903ace80344c5e",
+      "original_sha256": "55377f98e8c4982bf62d3915c74b3e9337657b4dfb7895f61a83367cb5fec0b3",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/007-ee3c4b9c81e626b6c0ec530b1f28edb17ecb9a9463bbaba089f8fe7ee3d22503.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 8,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/008-a984a044e5c82587abb6f0c73ed5a1977124846faa2bbcd61c39cd76f3355a36.webp",
+      "output_sha256": "a984a044e5c82587abb6f0c73ed5a1977124846faa2bbcd61c39cd76f3355a36",
+      "original_sha256": "aa1b0f6781ec35daf6606c8a3a0807a7837bf3679223b68122a5baae70542746",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/008-bfb2590b3caf87f51e077a0f63437a35411bd790f41102a871b4cf412a6cddf0.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 10,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/010-3c27989b9ca03c0b9a5d778b398c76711518884d6878ca3a2fd1b513916a3b57.webp",
+      "output_sha256": "3c27989b9ca03c0b9a5d778b398c76711518884d6878ca3a2fd1b513916a3b57",
+      "original_sha256": "35c01bd73785b2e0c47c75148dd3a68c320311c1c5499b946a0730c2033e264f",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/010-2f54b13c84875a86ecd698f503cfeea1c6d140726cb2ff5dda5d4d9c5c88993b.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_79250",
+      "canonical_image_number": 12,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/cleaned/012-d0cfcade4e970c9b44532fd2c6f73a7f26c5d4ad28c7f4cbed54bb2c72b167f8.webp",
+      "output_sha256": "d0cfcade4e970c9b44532fd2c6f73a7f26c5d4ad28c7f4cbed54bb2c72b167f8",
+      "original_sha256": "5f93fb56b22ae9e5f01000bcd4ce6bab4a72c6a543d75b484ecca3acc0923f40",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/79250/source/012-dc6221c711c40410f0c64c5a842355650bfe8f1f1893b1c0a37c322da5924ea9.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 2,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/002-beb46ac6c2e0088bd4c44e9698e045dcf2f2b64d5814788a79b2df7836fe514b.webp",
+      "output_sha256": "beb46ac6c2e0088bd4c44e9698e045dcf2f2b64d5814788a79b2df7836fe514b",
+      "original_sha256": "2b6e4f90bdf5099c33c16609ce76b161cfce1faecc1783a81ee2f9d09b82c530",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/002-474ad9f5336af1c3b9813e127e5b7a35f2f78509e4b06d63ae6f9e8da9c1f894.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 3,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/003-2f4bdcc307b4a6b289dd20437bb310338bc0d0ff2829985f5d03f9ce915b675b.webp",
+      "output_sha256": "2f4bdcc307b4a6b289dd20437bb310338bc0d0ff2829985f5d03f9ce915b675b",
+      "original_sha256": "f81c2ba10a3d97aa55a8267fba8d65bbeb6f5b583229bcc0a1dee838348f0849",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/003-2ff05aa251b45935162896e3d1c9332fc70b8008c0dd0ff3c3df6bececf6516f.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 5,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/005-251b9126fc229ba228708f660c3355c7df672a6234f9af96ab0b30ceab36a4ef.webp",
+      "output_sha256": "251b9126fc229ba228708f660c3355c7df672a6234f9af96ab0b30ceab36a4ef",
+      "original_sha256": "bf41d16be318fa3bc6a477141f36c814c6f0b3b421b20a96c950280a73bcd6f0",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/005-e8c1e838adb1fd92989e0051ddbb75f2eb74811b768b943750c6e362b262442e.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 6,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/006-4475ac3693442441d2d8bb6c7e71ec2df747bc17b5497f61596a958561dad0cc.webp",
+      "output_sha256": "4475ac3693442441d2d8bb6c7e71ec2df747bc17b5497f61596a958561dad0cc",
+      "original_sha256": "10770e0feb54592e08fa4799b55200440d753791b1b9c297ca08ca24ef91127e",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/006-2e7cfc95c2e8b794a8fef7a2e5ee444c80b7d02d499a5d4b07ededb6bf8103c0.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 7,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/007-49448c8207b9844fa5c9addcd7d41f0b284669799e632b5b26a439e311af7759.webp",
+      "output_sha256": "49448c8207b9844fa5c9addcd7d41f0b284669799e632b5b26a439e311af7759",
+      "original_sha256": "327a5aa9bd4fdcbdbb61e36d990539a710c22f9e73b3d9013d656fd01f6f073d",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/007-0e3c4d64518949117dfa6ceb1ec5229dd0589f9728500a4e1df548f2ac1e52f9.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    },
+    {
+      "property_key": "patuljak_64027",
+      "canonical_image_number": 8,
+      "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/cleaned/008-a88738b1e4dbbc0bb1f6c9c7bc98513240c8b7d33c8103b4d8e5bbecc8a7359f.webp",
+      "output_sha256": "a88738b1e4dbbc0bb1f6c9c7bc98513240c8b7d33c8103b4d8e5bbecc8a7359f",
+      "original_sha256": "8f54f41ae3acd3638f19cb0eee4c304ad9f93eef56f2de8bd2bb947d2e566b28",
+      "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/64027/source/008-ac2a985303f6cd2d44ca421dfe31ec65cb6fb2314d426a405de0aa27c10ffcad.webp",
+      "matches_current_catalog": true,
+      "downloaded_sha256_verified": true,
+      "publication_status": "held",
+      "reported_mark_scope": "affected_draft_set; draft positions do not identify original positions"
+    }
+  ],
+  "exact_file_conclusion": "These are current stored cleaned versions, not superseded variants. All remain held; negative OCR does not clear reported residuals."
+}

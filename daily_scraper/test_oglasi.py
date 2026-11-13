@@ -54,6 +54,7 @@ class OglasiTests(unittest.TestCase):
         self.assertEqual(input_property(row)['property_key'],'oglasi_12345')
         self.assertEqual(row['published_date'],'2026-10-01T12:00:00Z')
         self.assertNotEqual(row['published_date'],row['source_refreshed_at'])
+        self.assertFalse(row['photos_ready_for_publication'])
         from contact_enrichment import page_contacts
         from lxml import html
         self.assertEqual(page_contacts(html.fromstring('<html/>'),row)[0]['phone_e164'],'+38267123456')
