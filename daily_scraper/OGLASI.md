@@ -93,3 +93,12 @@ scraper's historical and daily records.
 
 Initial scans are bounded by the workflow's page and capture limits. Adding the
 source does not imply that every historical Oglasi ad has already been imported.
+
+Live GitHub verification on 2026-11-13 passed in
+[run 43425482745](https://github.com/KSI-Montenegro/estScra/actions/runs/43425482745).
+The cumulative feed includes four Oglasi ads. The two supplied example galleries
+have 26 cleaned ready photos (11 apartment, 15 house), with apartment images 2 and
+5 held because their stamp masks could not be located confidently. Ready image
+URLs were checked over public HTTPS. The house phone matches four earlier ads;
+the apartment phone also matches another Oglasi ad found in the new capture batch.
+See `oglasi_validation.json` for the evidence and report URL.

@@ -45,25 +45,6 @@
     "oglasi_75078779": 13,
     "oglasi_84113582": 15
   },
-  "phone_matches": [
-    {
-      "property_key": "oglasi_75078779",
-      "phone_match_status": "new_contact",
-      "phone_match_count": 0,
-      "matched_property_keys": []
-    },
-    {
-      "property_key": "oglasi_84113582",
-      "phone_match_status": "existing_contact",
-      "phone_match_count": 4,
-      "matched_property_keys": [
-        "estitor_632889",
-        "patuljak_80621",
-        "patuljak_83106",
-        "patuljak_86571"
-      ]
-    }
-  ],
   "local_watermark_trials": [
     {
       "property_key": "oglasi_75078779",
@@ -85,6 +66,60 @@
     }
   ],
   "regression_tests_passed": 133,
-  "github_validation": "26 cleaned uploads prepared; recovery publication pending",
-  "negative_ocr_policy": "Oglasi expected stamp stays held until calibrated pose/removal verifies"
+  "github_validation": {
+    "status": "success",
+    "run_url": "https://github.com/KSI-Montenegro/estScra/actions/runs/43425482745",
+    "commit": "20e1bdd53af4d6a38a9e8d17c78d9f90c92c8eba",
+    "recovery_used_saved_uploads": true
+  },
+  "negative_ocr_policy": "Oglasi expected stamp stays held until calibrated pose/removal verifies",
+  "initial_phone_matches": [
+    {
+      "property_key": "oglasi_75078779",
+      "phone_match_status": "new_contact",
+      "phone_match_count": 0,
+      "matched_property_keys": []
+    },
+    {
+      "property_key": "oglasi_84113582",
+      "phone_match_status": "existing_contact",
+      "phone_match_count": 4,
+      "matched_property_keys": [
+        "estitor_632889",
+        "patuljak_80621",
+        "patuljak_83106",
+        "patuljak_86571"
+      ]
+    }
+  ],
+  "published_examples": [
+    {
+      "property_key": "oglasi_75078779",
+      "ready_image_count": 11,
+      "held_image_count": 2,
+      "photo_delivery_status": "needs_review",
+      "phone_match_status": "existing_contact",
+      "phone_match_count": 1,
+      "matched_property_keys": [
+        "oglasi_80873813"
+      ]
+    },
+    {
+      "property_key": "oglasi_84113582",
+      "ready_image_count": 15,
+      "held_image_count": 0,
+      "photo_delivery_status": "complete",
+      "phone_match_status": "existing_contact",
+      "phone_match_count": 4,
+      "matched_property_keys": [
+        "estitor_632889",
+        "patuljak_80621",
+        "patuljak_83106",
+        "patuljak_86571"
+      ]
+    }
+  ],
+  "oglasi_records_in_feed": 4,
+  "sample_image_delivery_verified": true,
+  "phone_match_report_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/graden-imports/listings/f5bd0690c5dcea2a1da72f3f/phone_matches.csv"
 }
