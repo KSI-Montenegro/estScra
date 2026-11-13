@@ -353691,9 +353691,1427 @@
       "input_signature": "1c3430408fd00cda2f449233681d87936f5b722b16b85053d0834391a5369124",
       "origin": "daily",
       "phase": "pending",
-      "images": {},
+      "images": {
+        "1": {
+          "image_number": 1,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/adf3643d-26ac-4f7a-8a70-4f23a865e55e.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/001-b760563b60640f6e387ac6a24b2116da3b36417c2888e862f035cbfb94915ee4.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/001-c71cc49951582cc00e4cbde5f8631de38f64b40551f0f48d70a399a0c6cbda65.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/001-c71cc49951582cc00e4cbde5f8631de38f64b40551f0f48d70a399a0c6cbda65.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "b6b89d4a34cb2b55bf8c2ae6191cb33053264bb4f4495eaa9f3ff33df82a4832",
+          "optimized_sha256": "b760563b60640f6e387ac6a24b2116da3b36417c2888e862f035cbfb94915ee4",
+          "bytes": 297196,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 84,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "b6b89d4a34cb2b55bf8c2ae6191cb33053264bb4f4495eaa9f3ff33df82a4832",
+          "repair_output_sha256": "c71cc49951582cc00e4cbde5f8631de38f64b40551f0f48d70a399a0c6cbda65",
+          "repair_output_bytes": 295294,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "b6b89d4a34cb2b55bf8c2ae6191cb33053264bb4f4495eaa9f3ff33df82a4832",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.23702333867549896,
+                  "null_q99": 0.04439958184957504,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.23702333867549896,
+                  "null_q99": 0.04439958184957504,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.23702333867549896,
+                "after": 0.031489308923482895,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.23702333867549896,
+                "after": 0.03374755382537842,
+                "passed": true
+              }
+            ],
+            "output_bytes": 295294,
+            "quality": 84,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "2": {
+          "image_number": 2,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/518fc9cf-4e14-4d16-aea0-4a8d34a819cd.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/002-faaf73c00f61e0faa1d2606cdc8045c3dbceae4dc383ac930792c1ecb4d752f0.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/002-faaf73c00f61e0faa1d2606cdc8045c3dbceae4dc383ac930792c1ecb4d752f0.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "9dcaa7e635a401f1dfc122eb3fed3cd5d3aac0e37b0c855738c278bfdbd5a93f",
+          "optimized_sha256": "faaf73c00f61e0faa1d2606cdc8045c3dbceae4dc383ac930792c1ecb4d752f0",
+          "bytes": 293598,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 88,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "3": {
+          "image_number": 3,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/0c93a9b0-b18d-4d04-8e04-0c50fab7e968.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/003-4b31822989bc25e73cd4b7017d16991ebfcb6a91b13013bac9fdc55c14319075.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/003-7e33ca547a7884fc97e917e10db492ca5d54453c5cfac87198f720d379aa354b.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/003-7e33ca547a7884fc97e917e10db492ca5d54453c5cfac87198f720d379aa354b.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "74757ad76981972d6293e49922009fbb408fa480cf824e953d3b8ccb55c1c180",
+          "optimized_sha256": "4b31822989bc25e73cd4b7017d16991ebfcb6a91b13013bac9fdc55c14319075",
+          "bytes": 288272,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 81,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "74757ad76981972d6293e49922009fbb408fa480cf824e953d3b8ccb55c1c180",
+          "repair_output_sha256": "7e33ca547a7884fc97e917e10db492ca5d54453c5cfac87198f720d379aa354b",
+          "repair_output_bytes": 299748,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "74757ad76981972d6293e49922009fbb408fa480cf824e953d3b8ccb55c1c180",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.28212451934814453,
+                  "null_q99": 0.04367935657501221,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.28212451934814453,
+                  "null_q99": 0.04367935657501221,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.28212451934814453,
+                "after": 0.011638023890554905,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.28212451934814453,
+                "after": 0.012698367238044739,
+                "passed": true
+              }
+            ],
+            "output_bytes": 299748,
+            "quality": 82,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "4": {
+          "image_number": 4,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/85705b5c-486b-4037-9596-2079da07801a.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/004-6984445766e0aeeeaf6ff8fb4837ace0fe6a0110fe7f51f74fad78b8c69de629.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/004-9d0300e06d365f7185b4943e2787b145caa58afeee9a23de64c859a2863447ff.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/004-9d0300e06d365f7185b4943e2787b145caa58afeee9a23de64c859a2863447ff.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "e251220eca853404c5cd36ce86fd775d89be562dff1df9a3264e3a23b239cd70",
+          "optimized_sha256": "6984445766e0aeeeaf6ff8fb4837ace0fe6a0110fe7f51f74fad78b8c69de629",
+          "bytes": 258656,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "e251220eca853404c5cd36ce86fd775d89be562dff1df9a3264e3a23b239cd70",
+          "repair_output_sha256": "9d0300e06d365f7185b4943e2787b145caa58afeee9a23de64c859a2863447ff",
+          "repair_output_bytes": 256734,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "e251220eca853404c5cd36ce86fd775d89be562dff1df9a3264e3a23b239cd70",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.1297268569469452,
+                  "null_q99": 0.036592379212379456,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.1297268569469452,
+                  "null_q99": 0.036592379212379456,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.1297268569469452,
+                "after": 0.02025090530514717,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.1297268569469452,
+                "after": 0.021322915330529213,
+                "passed": true
+              }
+            ],
+            "output_bytes": 256734,
+            "quality": 95,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "5": {
+          "image_number": 5,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/a40e387d-cbcd-4b0e-8c7e-8bf7bcd3bc98.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/005-f3b6c0c0bf1d1763aaa3102be05962a58541f09d2bd5effe10a3654076994faa.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/005-f3b6c0c0bf1d1763aaa3102be05962a58541f09d2bd5effe10a3654076994faa.webp",
+          "cleaned_url": null,
+          "selected_version": "source",
+          "source_sha256": "3a4fa428e9c6730555e6dca0207b869bf5948210f9d2643d506d4e60520c5822",
+          "optimized_sha256": "f3b6c0c0bf1d1763aaa3102be05962a58541f09d2bd5effe10a3654076994faa",
+          "bytes": 299348,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 93,
+          "watermark_candidate": true,
+          "ready_for_listing": false,
+          "watermark_status": "needs_cleanup",
+          "pipeline_status": "needs_cleanup",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "unsupported_or_uncertain_mask"
+        },
+        "6": {
+          "image_number": 6,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/8888fa98-ab8f-45bf-b921-48eeb88dea74.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/006-d7a192730a29f93654112d3400d2c23b6a9fa6c9cb1046ac77115d330f0457c5.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/006-9459fa5086bfbf20edc9b5783a1a1ecd96ce2d79b2802e3af0673bc7b45c8c78.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/006-9459fa5086bfbf20edc9b5783a1a1ecd96ce2d79b2802e3af0673bc7b45c8c78.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "a058ebe724d455f2bab0e1f376043ba05ac6a4c91213108332c59cea2697522d",
+          "optimized_sha256": "d7a192730a29f93654112d3400d2c23b6a9fa6c9cb1046ac77115d330f0457c5",
+          "bytes": 287952,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 93,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "a058ebe724d455f2bab0e1f376043ba05ac6a4c91213108332c59cea2697522d",
+          "repair_output_sha256": "9459fa5086bfbf20edc9b5783a1a1ecd96ce2d79b2802e3af0673bc7b45c8c78",
+          "repair_output_bytes": 287574,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "a058ebe724d455f2bab0e1f376043ba05ac6a4c91213108332c59cea2697522d",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.34262508153915405,
+                  "null_q99": 0.05118916928768158,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.34262508153915405,
+                  "null_q99": 0.05118916928768158,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.34262508153915405,
+                "after": 0.019287314265966415,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.34262508153915405,
+                "after": 0.02181294560432434,
+                "passed": true
+              }
+            ],
+            "output_bytes": 287574,
+            "quality": 93,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "7": {
+          "image_number": 7,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/feb84a49-2835-4a02-b506-24bbf2d2e188.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/007-94177b7f5f6690bbd6875620d9e92f941c6a0137e844773e9ccda3538c04c149.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/007-b0896dbd4094f3d45207faa9f4121295545d7bbb8ca9660409317bccc5d68f7b.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/007-b0896dbd4094f3d45207faa9f4121295545d7bbb8ca9660409317bccc5d68f7b.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "60d1e4f50d145fb40bdb2c4606d78ac9eca54556b1e2c90d833d6a4b06d9e97a",
+          "optimized_sha256": "94177b7f5f6690bbd6875620d9e92f941c6a0137e844773e9ccda3538c04c149",
+          "bytes": 295274,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 93,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "60d1e4f50d145fb40bdb2c4606d78ac9eca54556b1e2c90d833d6a4b06d9e97a",
+          "repair_output_sha256": "b0896dbd4094f3d45207faa9f4121295545d7bbb8ca9660409317bccc5d68f7b",
+          "repair_output_bytes": 293180,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "60d1e4f50d145fb40bdb2c4606d78ac9eca54556b1e2c90d833d6a4b06d9e97a",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.2492484599351883,
+                  "null_q99": 0.0427631251513958,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.2492484599351883,
+                  "null_q99": 0.0427631251513958,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2492484599351883,
+                "after": 0.02006419748067856,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2492484599351883,
+                "after": 0.01931634172797203,
+                "passed": true
+              }
+            ],
+            "output_bytes": 293180,
+            "quality": 93,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "8": {
+          "image_number": 8,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/0c8e300f-3084-4d49-a3f8-bd679e4a1849.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/008-595baa9fb77d5729dc0649afb4f682cf2c0636bc5f2ab5753cf50880c8e6c653.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/008-eab77a0ab9b29b9be37bca2456e9904b9d175e302b8e8bcbd326ca9a74daed6d.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/008-eab77a0ab9b29b9be37bca2456e9904b9d175e302b8e8bcbd326ca9a74daed6d.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "1e79070c36a8540318502eb83764146f3e8d592162de1eed34530ee0edeed5fa",
+          "optimized_sha256": "595baa9fb77d5729dc0649afb4f682cf2c0636bc5f2ab5753cf50880c8e6c653",
+          "bytes": 287306,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 92,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "1e79070c36a8540318502eb83764146f3e8d592162de1eed34530ee0edeed5fa",
+          "repair_output_sha256": "eab77a0ab9b29b9be37bca2456e9904b9d175e302b8e8bcbd326ca9a74daed6d",
+          "repair_output_bytes": 284254,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "1e79070c36a8540318502eb83764146f3e8d592162de1eed34530ee0edeed5fa",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.3257693946361542,
+                  "null_q99": 0.048707567155361176,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.3257693946361542,
+                  "null_q99": 0.048707567155361176,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3257693946361542,
+                "after": 0.03487098962068558,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3257693946361542,
+                "after": 0.0351732112467289,
+                "passed": true
+              }
+            ],
+            "output_bytes": 284254,
+            "quality": 92,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "9": {
+          "image_number": 9,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/1d0f5e30-7342-4070-b46e-e2d1d5d107d8.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/009-13898251f94dd9fff27905558c401bf9ece8cb05918cc369ad1e66c2911052f7.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/009-2a075b9733f96a8fff910a2da17be27e5b0920328a6e4e33c00d0b87d33f5eab.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/009-2a075b9733f96a8fff910a2da17be27e5b0920328a6e4e33c00d0b87d33f5eab.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "f072ce9cde45590811063686aa2119a6429f7923e9d1c6ec2ad43c9ab40bdc96",
+          "optimized_sha256": "13898251f94dd9fff27905558c401bf9ece8cb05918cc369ad1e66c2911052f7",
+          "bytes": 284406,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 92,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "f072ce9cde45590811063686aa2119a6429f7923e9d1c6ec2ad43c9ab40bdc96",
+          "repair_output_sha256": "2a075b9733f96a8fff910a2da17be27e5b0920328a6e4e33c00d0b87d33f5eab",
+          "repair_output_bytes": 281592,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "f072ce9cde45590811063686aa2119a6429f7923e9d1c6ec2ad43c9ab40bdc96",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.2630064785480499,
+                  "null_q99": 0.04064544662833214,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.2630064785480499,
+                  "null_q99": 0.04064544662833214,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2630064785480499,
+                "after": 0.007001345511525869,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2630064785480499,
+                "after": 0.007699944078922272,
+                "passed": true
+              }
+            ],
+            "output_bytes": 281592,
+            "quality": 92,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "10": {
+          "image_number": 10,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/e9174f0b-a6bf-4cba-aa58-41787713cf72.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/010-efa4c12ab21f175b6802465b376849a8588f3c5c22c80f56ab8c69a3bec51b9d.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/010-61db19786cf3a334683111f3285275e6a0fce3d40a1bbb3ee0ea733d2df40dd2.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/010-61db19786cf3a334683111f3285275e6a0fce3d40a1bbb3ee0ea733d2df40dd2.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "8aa38627c3ecbad9c07ca5957bd470feb55285d97071ceadacb18c6f7158cb3a",
+          "optimized_sha256": "efa4c12ab21f175b6802465b376849a8588f3c5c22c80f56ab8c69a3bec51b9d",
+          "bytes": 283358,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 92,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "8aa38627c3ecbad9c07ca5957bd470feb55285d97071ceadacb18c6f7158cb3a",
+          "repair_output_sha256": "61db19786cf3a334683111f3285275e6a0fce3d40a1bbb3ee0ea733d2df40dd2",
+          "repair_output_bytes": 281776,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "8aa38627c3ecbad9c07ca5957bd470feb55285d97071ceadacb18c6f7158cb3a",
+            "mask_sha256": "83d88463bd361bc80b439e3d06bdb32d1128c579d6c21b1ffc8b591dba698e43",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.21785388886928558,
+                  "null_q99": 0.03318963199853897,
+                  "x": 520,
+                  "y": 525,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.21785388886928558,
+                  "null_q99": 0.03318963199853897,
+                  "x": 520,
+                  "y": 525,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                516,
+                521,
+                1087,
+                688
+              ],
+              "mask_sha256": "83d88463bd361bc80b439e3d06bdb32d1128c579d6c21b1ffc8b591dba698e43",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              388,
+              393,
+              1215,
+              816
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21785388886928558,
+                "after": 0.011121599934995174,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21785388886928558,
+                "after": 0.010739409364759922,
+                "passed": true
+              }
+            ],
+            "output_bytes": 281776,
+            "quality": 92,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "11": {
+          "image_number": 11,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/a336bf77-d50c-49b1-866c-4b047048cb3b.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/011-523bef4077e633af40e0dcf705906620a3eb07c37706921733672fac8582147a.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/011-a6ae1dd5e547b1fa70a4b48f61fc31be1e5e81e60d72ae49629f1b10c05e713e.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/011-a6ae1dd5e547b1fa70a4b48f61fc31be1e5e81e60d72ae49629f1b10c05e713e.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "516561d6537c9df899835de672f27d7a323b46fa848fe5266976ba98907b247e",
+          "optimized_sha256": "523bef4077e633af40e0dcf705906620a3eb07c37706921733672fac8582147a",
+          "bytes": 263490,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "516561d6537c9df899835de672f27d7a323b46fa848fe5266976ba98907b247e",
+          "repair_output_sha256": "a6ae1dd5e547b1fa70a4b48f61fc31be1e5e81e60d72ae49629f1b10c05e713e",
+          "repair_output_bytes": 261600,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "516561d6537c9df899835de672f27d7a323b46fa848fe5266976ba98907b247e",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.28678131103515625,
+                  "null_q99": 0.04953600838780403,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.28678131103515625,
+                  "null_q99": 0.04953600838780403,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.28678131103515625,
+                "after": 0.028012042865157127,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.28678131103515625,
+                "after": 0.02931765839457512,
+                "passed": true
+              }
+            ],
+            "output_bytes": 261600,
+            "quality": 95,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "12": {
+          "image_number": 12,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/0a1d25fc-99c9-4561-a5cc-6c21b9769bb5.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/012-f34954e7a106491bce74f5caf9374250672cfd29d89460d09beda11c004d232b.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/012-a95c541b6e1a0184137d1f4fdc68c57ab4298c832e9ba030ab121c846b00d903.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/012-a95c541b6e1a0184137d1f4fdc68c57ab4298c832e9ba030ab121c846b00d903.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "0b8f9ed565bf63000e0eec9a72804286fe6f69e5f58f0b2a103a25097b956f4e",
+          "optimized_sha256": "f34954e7a106491bce74f5caf9374250672cfd29d89460d09beda11c004d232b",
+          "bytes": 278882,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 93,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "0b8f9ed565bf63000e0eec9a72804286fe6f69e5f58f0b2a103a25097b956f4e",
+          "repair_output_sha256": "a95c541b6e1a0184137d1f4fdc68c57ab4298c832e9ba030ab121c846b00d903",
+          "repair_output_bytes": 276882,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "0b8f9ed565bf63000e0eec9a72804286fe6f69e5f58f0b2a103a25097b956f4e",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.2524663805961609,
+                  "null_q99": 0.03933454677462578,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.2524663805961609,
+                  "null_q99": 0.03933454677462578,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2524663805961609,
+                "after": 0.023356838151812553,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2524663805961609,
+                "after": 0.020262859761714935,
+                "passed": true
+              }
+            ],
+            "output_bytes": 276882,
+            "quality": 93,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "13": {
+          "image_number": 13,
+          "original_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/c0dc6380-de83-4de6-ba93-20c43a849332.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/source/013-ace8e34f86af38c24bcc0fe28dc03b9b65ea97ce33d3eb01b243d34e76777dfa.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/013-644f111fb702d864204ecf040b5b8bb4932e3a9d34aa15bbce34dbf6fc36f66f.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/75078779/cleaned/013-644f111fb702d864204ecf040b5b8bb4932e3a9d34aa15bbce34dbf6fc36f66f.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "cc5e100d015ced9486a9f3e7699176b39e85c9f93b97ad983c7324e0693e4d1f",
+          "optimized_sha256": "ace8e34f86af38c24bcc0fe28dc03b9b65ea97ce33d3eb01b243d34e76777dfa",
+          "bytes": 289462,
+          "dimensions": [
+            1600,
+            1200
+          ],
+          "original_dimensions": [
+            1600,
+            1200
+          ],
+          "quality": 92,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "cc5e100d015ced9486a9f3e7699176b39e85c9f93b97ad983c7324e0693e4d1f",
+          "repair_output_sha256": "644f111fb702d864204ecf040b5b8bb4932e3a9d34aa15bbce34dbf6fc36f66f",
+          "repair_output_bytes": 287358,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "cc5e100d015ced9486a9f3e7699176b39e85c9f93b97ad983c7324e0693e4d1f",
+            "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.15794803202152252,
+                  "null_q99": 0.03122721239924431,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.15794803202152252,
+                  "null_q99": 0.03122721239924431,
+                  "x": 519,
+                  "y": 526,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                515,
+                522,
+                1086,
+                689
+              ],
+              "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              387,
+              394,
+              1214,
+              817
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.15794803202152252,
+                "after": 0.016996951773762703,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.15794803202152252,
+                "after": 0.018216503784060478,
+                "passed": true
+              }
+            ],
+            "output_bytes": 287358,
+            "quality": 92,
+            "original_dimensions": [
+              1600,
+              1200
+            ],
+            "output_dimensions": [
+              1600,
+              1200
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        }
+      },
       "failures": {},
-      "sample": {}
+      "sample": {
+        "result": "watermark_candidate",
+        "reason": "oglasi_calibrated_center",
+        "score": 0.0,
+        "box": [],
+        "hits": [],
+        "width": 1600,
+        "height": 1200,
+        "other_text_detected": true,
+        "unsupported_text_outside_portal": false,
+        "portal_mask_metadata": {
+          "eligible": true,
+          "version": "portal-centers-v2-byte-optimized",
+          "detections": {
+            "oglasi": {
+              "brand": "oglasi",
+              "score": 0.23702333867549896,
+              "null_q99": 0.04439958184957504,
+              "x": 519,
+              "y": 526,
+              "scale": 1.325,
+              "eligible": true
+            }
+          },
+          "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+          "reason": "calibrated_word_shape_and_placement",
+          "mask_fraction": 0.0317203125,
+          "stamps": [
+            {
+              "brand": "oglasi",
+              "score": 0.23702333867549896,
+              "null_q99": 0.04439958184957504,
+              "x": 519,
+              "y": 526,
+              "scale": 1.325,
+              "eligible": true
+            }
+          ],
+          "overlay_box_original_pixels": [
+            515,
+            522,
+            1086,
+            689
+          ],
+          "mask_sha256": "7496641c305da71ea719f0e581eab9800844e099e9ee3d945f6a618d7ffacf9a",
+          "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+        },
+        "image_number": 1,
+        "sampled_url": "https://slike.oglasi.me/2026/5/8/OG75078779ME/adf3643d-26ac-4f7a-8a70-4f23a865e55e.webp",
+        "source_sha256": "b6b89d4a34cb2b55bf8c2ae6191cb33053264bb4f4495eaa9f3ff33df82a4832",
+        "images_sampled": 1,
+        "images_attempted": 1,
+        "meaning": "One source image checked; remaining images are not individually certified."
+      },
+      "photo_pipeline_version": "oglasi-portal-centers-v1-expected-stamp"
     },
     "oglasi_84113582": {
       "property_key": "oglasi_84113582",
@@ -353765,9 +355183,1935 @@
       "input_signature": "aabbd7664820c3529711f52a1e8d3f2c257e420d704b9f931bccd0fb38664e55",
       "origin": "daily",
       "phase": "pending",
+      "images": {
+        "1": {
+          "image_number": 1,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/51670ae7-90b5-49d8-a1b5-65a27e8df1b6.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/001-b62372bfd353a4c6321809f37336b875f88923a481c762f1ece505aa2b14d32e.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/001-c9fb83ca86b36b8282298ee6f238ffbf22ee751dbf97d44120c39019f1844967.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/001-c9fb83ca86b36b8282298ee6f238ffbf22ee751dbf97d44120c39019f1844967.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+          "optimized_sha256": "b62372bfd353a4c6321809f37336b875f88923a481c762f1ece505aa2b14d32e",
+          "bytes": 273776,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+          "repair_output_sha256": "c9fb83ca86b36b8282298ee6f238ffbf22ee751dbf97d44120c39019f1844967",
+          "repair_output_bytes": 277306,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.2263782024383545,
+                  "null_q99": 0.041188810020685196,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.2263782024383545,
+                  "null_q99": 0.041188810020685196,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2263782024383545,
+                "after": 0.018436800688505173,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.2263782024383545,
+                "after": 0.018558740615844727,
+                "passed": true
+              }
+            ],
+            "output_bytes": 277306,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "2": {
+          "image_number": 2,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/47282782-50b0-4100-8dee-6134644c2c02.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/002-e7df491956f1033019a5c323ec062d58d13010e4a98d9ad766a6623f6da49516.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/002-93faecd5cd74eb08b195d184b5ce1de4ba00ccf69554d597a8e2a093ccbcb23b.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/002-93faecd5cd74eb08b195d184b5ce1de4ba00ccf69554d597a8e2a093ccbcb23b.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "b3c6cb878464e86302fbf173dd506e694fc8779f087021ada8550f2d683d7bc9",
+          "optimized_sha256": "e7df491956f1033019a5c323ec062d58d13010e4a98d9ad766a6623f6da49516",
+          "bytes": 294936,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 92,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "b3c6cb878464e86302fbf173dd506e694fc8779f087021ada8550f2d683d7bc9",
+          "repair_output_sha256": "93faecd5cd74eb08b195d184b5ce1de4ba00ccf69554d597a8e2a093ccbcb23b",
+          "repair_output_bytes": 274078,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "b3c6cb878464e86302fbf173dd506e694fc8779f087021ada8550f2d683d7bc9",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.27713850140571594,
+                  "null_q99": 0.04474461078643799,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.27713850140571594,
+                  "null_q99": 0.04474461078643799,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.27713850140571594,
+                "after": -0.004570393357425928,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.27713850140571594,
+                "after": -0.006216051522642374,
+                "passed": true
+              }
+            ],
+            "output_bytes": 274078,
+            "quality": 91,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "3": {
+          "image_number": 3,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/0e4f7658-c429-4102-92aa-9610dcff7b34.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/003-cfb9476d953923361b361a53b7d864fad9d1ded2658c9863cc6ba42fc7737565.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/003-dddf54824bbcc67234f7931410120c0c079d163131a9e0aa3425fb1b6d3d2f81.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/003-dddf54824bbcc67234f7931410120c0c079d163131a9e0aa3425fb1b6d3d2f81.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "e8380cbda541d5386b534ae25e2585b366f61dadc537b3cca5c830071dbda771",
+          "optimized_sha256": "cfb9476d953923361b361a53b7d864fad9d1ded2658c9863cc6ba42fc7737565",
+          "bytes": 238056,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "e8380cbda541d5386b534ae25e2585b366f61dadc537b3cca5c830071dbda771",
+          "repair_output_sha256": "dddf54824bbcc67234f7931410120c0c079d163131a9e0aa3425fb1b6d3d2f81",
+          "repair_output_bytes": 236670,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "e8380cbda541d5386b534ae25e2585b366f61dadc537b3cca5c830071dbda771",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.22108134627342224,
+                  "null_q99": 0.03285205736756325,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.22108134627342224,
+                  "null_q99": 0.03285205736756325,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.22108134627342224,
+                "after": 0.018871471285820007,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.22108134627342224,
+                "after": 0.02046000398695469,
+                "passed": true
+              }
+            ],
+            "output_bytes": 236670,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "4": {
+          "image_number": 4,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/ab13ac60-55a6-432e-a992-75ae1d7e8f87.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/004-1e9a3aeaa5ddbe0778ae3ee2cb9b46d1b0423f64211042093112d487545cd7b0.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/004-dcfe0f9ca3443efb69cbea3d9d63836f396daef78779037f3d97cd20bfa24f73.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/004-dcfe0f9ca3443efb69cbea3d9d63836f396daef78779037f3d97cd20bfa24f73.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "b42e89e12595782a24548b806b631c2d28684eb377d5daccb59191f4d04deb2c",
+          "optimized_sha256": "1e9a3aeaa5ddbe0778ae3ee2cb9b46d1b0423f64211042093112d487545cd7b0",
+          "bytes": 282214,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "b42e89e12595782a24548b806b631c2d28684eb377d5daccb59191f4d04deb2c",
+          "repair_output_sha256": "dcfe0f9ca3443efb69cbea3d9d63836f396daef78779037f3d97cd20bfa24f73",
+          "repair_output_bytes": 281386,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "b42e89e12595782a24548b806b631c2d28684eb377d5daccb59191f4d04deb2c",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.20223185420036316,
+                  "null_q99": 0.04023844376206398,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.20223185420036316,
+                  "null_q99": 0.04023844376206398,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.20223185420036316,
+                "after": 0.03278398513793945,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.20223185420036316,
+                "after": 0.03354132920503616,
+                "passed": true
+              }
+            ],
+            "output_bytes": 281386,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "5": {
+          "image_number": 5,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/0f107072-5b1b-434c-b05a-7677b5cb0fd5.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/005-dbd255720e45acae0f6f6f422a315d32bf2abedd56f9e106fdb06db82366c624.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/005-e77ff111060ec36bb703ae5300f646b0c72ea113bd38acc37c1f0aa3835b8e8d.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/005-e77ff111060ec36bb703ae5300f646b0c72ea113bd38acc37c1f0aa3835b8e8d.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "01c49c0b5c218c8bd8f0c4ba9b29af179922c6dfc36ad7bd626efa964f01b821",
+          "optimized_sha256": "dbd255720e45acae0f6f6f422a315d32bf2abedd56f9e106fdb06db82366c624",
+          "bytes": 265260,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "01c49c0b5c218c8bd8f0c4ba9b29af179922c6dfc36ad7bd626efa964f01b821",
+          "repair_output_sha256": "e77ff111060ec36bb703ae5300f646b0c72ea113bd38acc37c1f0aa3835b8e8d",
+          "repair_output_bytes": 263578,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "01c49c0b5c218c8bd8f0c4ba9b29af179922c6dfc36ad7bd626efa964f01b821",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.21571402251720428,
+                  "null_q99": 0.035303711891174316,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.21571402251720428,
+                  "null_q99": 0.035303711891174316,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21571402251720428,
+                "after": 0.016808975487947464,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21571402251720428,
+                "after": 0.01878884807229042,
+                "passed": true
+              }
+            ],
+            "output_bytes": 263578,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "6": {
+          "image_number": 6,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/59b3a23c-f59b-491e-9e56-bbb8417c2057.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/006-5e42af327c515e54a56b3b744dd98a3c88c529b96ec7e52c8cc2374e2ff4d9dc.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/006-44ca09a0ebd9994d7d453fc6567ef8df6f2a991fd85ccc87c90382077a8b9ce1.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/006-44ca09a0ebd9994d7d453fc6567ef8df6f2a991fd85ccc87c90382077a8b9ce1.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "da22d9749fb1716abe61466892d5c41e0087dad43508b6d1155ac583c72ea3ca",
+          "optimized_sha256": "5e42af327c515e54a56b3b744dd98a3c88c529b96ec7e52c8cc2374e2ff4d9dc",
+          "bytes": 297990,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 87,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "da22d9749fb1716abe61466892d5c41e0087dad43508b6d1155ac583c72ea3ca",
+          "repair_output_sha256": "44ca09a0ebd9994d7d453fc6567ef8df6f2a991fd85ccc87c90382077a8b9ce1",
+          "repair_output_bytes": 295618,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "da22d9749fb1716abe61466892d5c41e0087dad43508b6d1155ac583c72ea3ca",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.21903449296951294,
+                  "null_q99": 0.03467131778597832,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.21903449296951294,
+                  "null_q99": 0.03467131778597832,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21903449296951294,
+                "after": 0.009132910519838333,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.21903449296951294,
+                "after": 0.008461272343993187,
+                "passed": true
+              }
+            ],
+            "output_bytes": 295618,
+            "quality": 87,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "7": {
+          "image_number": 7,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/0fc690cd-41fe-4a27-8085-62e56fc15a20.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/007-d474b158b8f037bf549683a11768b38aeb6cfbc0b2356d81adba3fc26b68e20c.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/007-5b48fb5e3673c7d465227842b3e408ede697e75439ef7d599e3aa54d9c0a6f37.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/007-5b48fb5e3673c7d465227842b3e408ede697e75439ef7d599e3aa54d9c0a6f37.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "29c87a32f1dbdc83bb3d7f32314114b07e3cca744043d4f38d8d8f1a53b1e398",
+          "optimized_sha256": "d474b158b8f037bf549683a11768b38aeb6cfbc0b2356d81adba3fc26b68e20c",
+          "bytes": 283338,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 94,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "29c87a32f1dbdc83bb3d7f32314114b07e3cca744043d4f38d8d8f1a53b1e398",
+          "repair_output_sha256": "5b48fb5e3673c7d465227842b3e408ede697e75439ef7d599e3aa54d9c0a6f37",
+          "repair_output_bytes": 280148,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "29c87a32f1dbdc83bb3d7f32314114b07e3cca744043d4f38d8d8f1a53b1e398",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.254972904920578,
+                  "null_q99": 0.038248997181653976,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.254972904920578,
+                  "null_q99": 0.038248997181653976,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.254972904920578,
+                "after": 0.028623469173908234,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.254972904920578,
+                "after": 0.025577181950211525,
+                "passed": true
+              }
+            ],
+            "output_bytes": 280148,
+            "quality": 94,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "8": {
+          "image_number": 8,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/ab9fbc7a-578a-438d-a5bd-e1863fcfb150.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/008-e972dee3929ccb12c15f4bc1dd4c6098c479a4a6022dc7a99b6b6da0fc5d8d9c.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/008-e1606707b81f2b40072e64b8d7183e847473406e362071ea75933154760f7330.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/008-e1606707b81f2b40072e64b8d7183e847473406e362071ea75933154760f7330.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "f5a00b4fad0a6c25da66ccc73f0900955ecc38c4a52b9526696013ff9e03aa4e",
+          "optimized_sha256": "e972dee3929ccb12c15f4bc1dd4c6098c479a4a6022dc7a99b6b6da0fc5d8d9c",
+          "bytes": 292014,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 93,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "f5a00b4fad0a6c25da66ccc73f0900955ecc38c4a52b9526696013ff9e03aa4e",
+          "repair_output_sha256": "e1606707b81f2b40072e64b8d7183e847473406e362071ea75933154760f7330",
+          "repair_output_bytes": 290132,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "f5a00b4fad0a6c25da66ccc73f0900955ecc38c4a52b9526696013ff9e03aa4e",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.34142380952835083,
+                  "null_q99": 0.05099564790725708,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.34142380952835083,
+                  "null_q99": 0.05099564790725708,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.34142380952835083,
+                "after": 0.018708793446421623,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.34142380952835083,
+                "after": 0.017678145319223404,
+                "passed": true
+              }
+            ],
+            "output_bytes": 290132,
+            "quality": 93,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "9": {
+          "image_number": 9,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/bbdb80a2-019f-4eee-a48a-1fc94a29fab9.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/009-60ce73b295f02985b4a21a4db2dddbb565ae011f6c4c73866a4a969b8c463a9e.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/009-ebb1770532c5686cb218db2cdf3bf755d31117eb5351574ee54c508a68935e14.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/009-ebb1770532c5686cb218db2cdf3bf755d31117eb5351574ee54c508a68935e14.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "b6ad34d0c2ac35acc9cd4efac135697b037c44b996456842f79e74e29a9dcf2f",
+          "optimized_sha256": "60ce73b295f02985b4a21a4db2dddbb565ae011f6c4c73866a4a969b8c463a9e",
+          "bytes": 282922,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 94,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "b6ad34d0c2ac35acc9cd4efac135697b037c44b996456842f79e74e29a9dcf2f",
+          "repair_output_sha256": "ebb1770532c5686cb218db2cdf3bf755d31117eb5351574ee54c508a68935e14",
+          "repair_output_bytes": 294166,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "b6ad34d0c2ac35acc9cd4efac135697b037c44b996456842f79e74e29a9dcf2f",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.17133170366287231,
+                  "null_q99": 0.03178521990776062,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.17133170366287231,
+                  "null_q99": 0.03178521990776062,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.17133170366287231,
+                "after": 0.022893421351909637,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.17133170366287231,
+                "after": 0.022668955847620964,
+                "passed": true
+              }
+            ],
+            "output_bytes": 294166,
+            "quality": 94,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "10": {
+          "image_number": 10,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/0e84600a-21f1-449a-a55f-eabc1b83756e.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/010-907abd0b1c42ae8a183f6eef408d7ec56a84059086fb57231c6a4c1733b21d25.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/010-e2c44bbcfbf8e1723a9186faf36509e71284a066caf87413a235cb550c5838b3.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/010-e2c44bbcfbf8e1723a9186faf36509e71284a066caf87413a235cb550c5838b3.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "ceba96b301603dc038ac41f10347a99b0e213b3f3312268621bc87efb52e9536",
+          "optimized_sha256": "907abd0b1c42ae8a183f6eef408d7ec56a84059086fb57231c6a4c1733b21d25",
+          "bytes": 186780,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "ceba96b301603dc038ac41f10347a99b0e213b3f3312268621bc87efb52e9536",
+          "repair_output_sha256": "e2c44bbcfbf8e1723a9186faf36509e71284a066caf87413a235cb550c5838b3",
+          "repair_output_bytes": 184622,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "ceba96b301603dc038ac41f10347a99b0e213b3f3312268621bc87efb52e9536",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.37615010142326355,
+                  "null_q99": 0.054442599415779114,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.37615010142326355,
+                  "null_q99": 0.054442599415779114,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.37615010142326355,
+                "after": 0.02469848282635212,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.37615010142326355,
+                "after": 0.02306855097413063,
+                "passed": true
+              }
+            ],
+            "output_bytes": 184622,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "11": {
+          "image_number": 11,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/90e3b00c-6ab3-4f34-b1c8-3f34665d8c89.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/011-289d8904fd4794433edaf4f35a7ef3679308638318351781dcefad62042571f7.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/011-82fb570022f417f4d78c15f9c300774443ad88cfc8d4c48f67c8aa0b1a7ac88e.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/011-82fb570022f417f4d78c15f9c300774443ad88cfc8d4c48f67c8aa0b1a7ac88e.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "d38a42ba6b6619a21ee1d6056d4d45ad51b8d4de87d81d96b148f763c1129f19",
+          "optimized_sha256": "289d8904fd4794433edaf4f35a7ef3679308638318351781dcefad62042571f7",
+          "bytes": 246684,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "d38a42ba6b6619a21ee1d6056d4d45ad51b8d4de87d81d96b148f763c1129f19",
+          "repair_output_sha256": "82fb570022f417f4d78c15f9c300774443ad88cfc8d4c48f67c8aa0b1a7ac88e",
+          "repair_output_bytes": 243848,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "d38a42ba6b6619a21ee1d6056d4d45ad51b8d4de87d81d96b148f763c1129f19",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.3280320465564728,
+                  "null_q99": 0.04713519662618637,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.3280320465564728,
+                  "null_q99": 0.04713519662618637,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3280320465564728,
+                "after": 0.02608782798051834,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3280320465564728,
+                "after": 0.023040365427732468,
+                "passed": true
+              }
+            ],
+            "output_bytes": 243848,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "12": {
+          "image_number": 12,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/d41b9a8f-5189-4839-b8df-37ba7d9b9364.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/012-72fa841fc1401ffa9486670f87ef7df757f3c3135baa2a76e0a2f23600a27a1a.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/012-4b06d99f61cc5ca72e8b180e60e271dc4d7fff2fca7fb20fdd85cebcfeaf4bff.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/012-4b06d99f61cc5ca72e8b180e60e271dc4d7fff2fca7fb20fdd85cebcfeaf4bff.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "a392acec06da04d4257011010aaddeb59b225bcec9c6bab0852e8082918aab13",
+          "optimized_sha256": "72fa841fc1401ffa9486670f87ef7df757f3c3135baa2a76e0a2f23600a27a1a",
+          "bytes": 277800,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "a392acec06da04d4257011010aaddeb59b225bcec9c6bab0852e8082918aab13",
+          "repair_output_sha256": "4b06d99f61cc5ca72e8b180e60e271dc4d7fff2fca7fb20fdd85cebcfeaf4bff",
+          "repair_output_bytes": 277470,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "a392acec06da04d4257011010aaddeb59b225bcec9c6bab0852e8082918aab13",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.24465274810791016,
+                  "null_q99": 0.03734012693166733,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.24465274810791016,
+                  "null_q99": 0.03734012693166733,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24465274810791016,
+                "after": 0.02320791967213154,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24465274810791016,
+                "after": 0.022195156663656235,
+                "passed": true
+              }
+            ],
+            "output_bytes": 277470,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "13": {
+          "image_number": 13,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/970b024d-3fbc-4a23-bc42-0db34fbde1e7.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/013-4305bdeb6181b027cef8b6d3978418aefa2570371099097ba858cb932fabca07.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/013-04339113c80a576681a05a0e357800da99c1752b7fbb49eb7c73f1f110f4a193.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/013-04339113c80a576681a05a0e357800da99c1752b7fbb49eb7c73f1f110f4a193.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "c4e2dd3bb7fe0c1f3ace41a25bed182d92767f1353dbe3173d1b6b8a4b7a4dc6",
+          "optimized_sha256": "4305bdeb6181b027cef8b6d3978418aefa2570371099097ba858cb932fabca07",
+          "bytes": 299000,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 94,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "c4e2dd3bb7fe0c1f3ace41a25bed182d92767f1353dbe3173d1b6b8a4b7a4dc6",
+          "repair_output_sha256": "04339113c80a576681a05a0e357800da99c1752b7fbb49eb7c73f1f110f4a193",
+          "repair_output_bytes": 297898,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "c4e2dd3bb7fe0c1f3ace41a25bed182d92767f1353dbe3173d1b6b8a4b7a4dc6",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.24996274709701538,
+                  "null_q99": 0.0383894145488739,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.24996274709701538,
+                  "null_q99": 0.0383894145488739,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24996274709701538,
+                "after": 0.019468093290925026,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24996274709701538,
+                "after": 0.019880283623933792,
+                "passed": true
+              }
+            ],
+            "output_bytes": 297898,
+            "quality": 94,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "14": {
+          "image_number": 14,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/98a6e351-b033-472f-a309-e6634efd5667.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/014-4b9a43d918d3c4921bfa4c44f112443ee1d9356c2493d00d91a79b4b28357486.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/014-33e319b65650ce652f43263f0ddb7860c786035a5ae09f0c3b45e1e3570d746e.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/014-33e319b65650ce652f43263f0ddb7860c786035a5ae09f0c3b45e1e3570d746e.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "9706964bcd094b8e8eb9e4e8e939e1a75e8e3f2aea6e3226d504247e798d0731",
+          "optimized_sha256": "4b9a43d918d3c4921bfa4c44f112443ee1d9356c2493d00d91a79b4b28357486",
+          "bytes": 220412,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "9706964bcd094b8e8eb9e4e8e939e1a75e8e3f2aea6e3226d504247e798d0731",
+          "repair_output_sha256": "33e319b65650ce652f43263f0ddb7860c786035a5ae09f0c3b45e1e3570d746e",
+          "repair_output_bytes": 217598,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "9706964bcd094b8e8eb9e4e8e939e1a75e8e3f2aea6e3226d504247e798d0731",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.24959419667720795,
+                  "null_q99": 0.053105950355529785,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.24959419667720795,
+                  "null_q99": 0.053105950355529785,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24959419667720795,
+                "after": 0.031483832746744156,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.24959419667720795,
+                "after": 0.03202258422970772,
+                "passed": true
+              }
+            ],
+            "output_bytes": 217598,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        },
+        "15": {
+          "image_number": 15,
+          "original_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/ba2f73a6-fcbe-4afe-9429-91ed33c404f7.webp",
+          "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/source/015-31943ad02bc32272c8222ee1e6e68d73de67d361ec9dcd4ba0dd343f621772ce.webp",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/015-a42029a1a1eb87555e57528b81072c2ca3aacbf7c55e26d9031797994985b2e7.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/oglasi/84113582/cleaned/015-a42029a1a1eb87555e57528b81072c2ca3aacbf7c55e26d9031797994985b2e7.webp",
+          "selected_version": "cleaned",
+          "source_sha256": "0f4cb79456fd1017791033dd12d48327d6b1297ddcfcfb84fa197204de96a674",
+          "optimized_sha256": "31943ad02bc32272c8222ee1e6e68d73de67d361ec9dcd4ba0dd343f621772ce",
+          "bytes": 176374,
+          "dimensions": [
+            1200,
+            1600
+          ],
+          "original_dimensions": [
+            1200,
+            1600
+          ],
+          "quality": 95,
+          "watermark_candidate": true,
+          "ready_for_listing": true,
+          "watermark_status": "processed_automated_checks",
+          "pipeline_status": "ready_cleaned",
+          "sample_only": true,
+          "upload_confirmed": true,
+          "error_code": "",
+          "reused_existing": false,
+          "repair_input_sha256": "0f4cb79456fd1017791033dd12d48327d6b1297ddcfcfb84fa197204de96a674",
+          "repair_output_sha256": "a42029a1a1eb87555e57528b81072c2ca3aacbf7c55e26d9031797994985b2e7",
+          "repair_output_bytes": 172798,
+          "repair_qc": {
+            "policy": "portal-centers-v2-byte-optimized",
+            "model_sha256": "7ba7aa7ac37a4d41fdbbeba3a2af7ead18058552997e3a3cd1a3b2210c9e6b4c",
+            "source_sha256": "0f4cb79456fd1017791033dd12d48327d6b1297ddcfcfb84fa197204de96a674",
+            "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+            "mask_metadata": {
+              "eligible": true,
+              "version": "portal-centers-v2-byte-optimized",
+              "detections": {
+                "oglasi": {
+                  "brand": "oglasi",
+                  "score": 0.3238286077976227,
+                  "null_q99": 0.04880104959011078,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              },
+              "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+              "reason": "calibrated_word_shape_and_placement",
+              "mask_fraction": 0.0317203125,
+              "stamps": [
+                {
+                  "brand": "oglasi",
+                  "score": 0.3238286077976227,
+                  "null_q99": 0.04880104959011078,
+                  "x": 319,
+                  "y": 726,
+                  "scale": 1.325,
+                  "eligible": true
+                }
+              ],
+              "overlay_box_original_pixels": [
+                315,
+                722,
+                886,
+                889
+              ],
+              "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+              "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+            },
+            "outside_mask_unchanged_before_encoding": true,
+            "dimensions_preserved_before_encoding": true,
+            "region": [
+              187,
+              594,
+              1014,
+              1017
+            ],
+            "residual_pre_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3238286077976227,
+                "after": 0.01937055215239525,
+                "passed": true
+              }
+            ],
+            "focused_ocr": {
+              "brand_detected": false,
+              "matched_token": "",
+              "brand": ""
+            },
+            "qc": "portal_word_shapes_and_focused_ocr_passed",
+            "certification": "automatic_checks_only_not_certified",
+            "residual_post_encoding": [
+              {
+                "brand": "oglasi",
+                "before": 0.3238286077976227,
+                "after": 0.018779480829834938,
+                "passed": true
+              }
+            ],
+            "output_bytes": 172798,
+            "quality": 95,
+            "original_dimensions": [
+              1200,
+              1600
+            ],
+            "output_dimensions": [
+              1200,
+              1600
+            ],
+            "dimensions_preserved": true,
+            "resized_for_byte_limit": false
+          },
+          "repair_policy_id": "portal-centers-v2-byte-optimized",
+          "outside_mask_unchanged_before_encoding": true
+        }
+      },
+      "failures": {},
+      "sample": {
+        "result": "watermark_candidate",
+        "reason": "oglasi_calibrated_center",
+        "score": 0.0,
+        "box": [],
+        "hits": [],
+        "width": 1200,
+        "height": 1600,
+        "other_text_detected": true,
+        "unsupported_text_outside_portal": false,
+        "portal_mask_metadata": {
+          "eligible": true,
+          "version": "portal-centers-v2-byte-optimized",
+          "detections": {
+            "oglasi": {
+              "brand": "oglasi",
+              "score": 0.2263782024383545,
+              "null_q99": 0.041188810020685196,
+              "x": 319,
+              "y": 726,
+              "scale": 1.325,
+              "eligible": true
+            }
+          },
+          "reference_config_sha256": "62ba2d43cd0451c404085b96c49ffff967e8904d3592c72d6de324aec58c1e9e",
+          "reason": "calibrated_word_shape_and_placement",
+          "mask_fraction": 0.0317203125,
+          "stamps": [
+            {
+              "brand": "oglasi",
+              "score": 0.2263782024383545,
+              "null_q99": 0.041188810020685196,
+              "x": 319,
+              "y": 726,
+              "scale": 1.325,
+              "eligible": true
+            }
+          ],
+          "overlay_box_original_pixels": [
+            315,
+            722,
+            886,
+            889
+          ],
+          "mask_sha256": "ed0c47fec8f9c522076045e6b46bca588147d07af9bd0acde677325502275342",
+          "mask_kind": "word_glyphs_and_mascot_tagline_footprints"
+        },
+        "image_number": 1,
+        "sampled_url": "https://slike.oglasi.me/2026/10/9/OG84113582ME/51670ae7-90b5-49d8-a1b5-65a27e8df1b6.webp",
+        "source_sha256": "b173910243b179d7e5775af33c4c59d92907b9b59336a885c062ba02153628fa",
+        "images_sampled": 1,
+        "images_attempted": 1,
+        "meaning": "One source image checked; remaining images are not individually certified."
+      },
+      "photo_pipeline_version": "oglasi-portal-centers-v1-expected-stamp"
+    },
+    "oglasi_80873813": {
+      "property_key": "oglasi_80873813",
+      "listing_url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me",
+      "input_images": [
+        {
+          "image_number": 1,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/1fc51712-26a4-4832-a7dc-3ba6d32c83bc.webp"
+        },
+        {
+          "image_number": 2,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/68de3612-0394-4975-9a27-2a9059cc2cf4.webp"
+        },
+        {
+          "image_number": 3,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/e2064aa9-a9ed-4103-96a2-88a97a9553c1.webp"
+        },
+        {
+          "image_number": 4,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/bf27f356-2ba4-4f8a-9bad-9193432623d4.webp"
+        },
+        {
+          "image_number": 5,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/6723e961-8082-4154-b2fc-865da47ae2af.webp"
+        },
+        {
+          "image_number": 6,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/dfbf5fa5-6cad-4461-8814-513f24f28830.webp"
+        },
+        {
+          "image_number": 7,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/4a72ed90-9bae-4065-9c89-53754ee0597a.webp"
+        },
+        {
+          "image_number": 8,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/e44abb81-97ee-4a7a-a801-92384e806d5f.webp"
+        },
+        {
+          "image_number": 9,
+          "original_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/1abcca5d-8db2-4b83-a9d7-871f0a8a26c6.webp"
+        }
+      ],
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "source_page_captured_at": "2026-11-13T12:16:17.724742+00:00",
+      "input_signature": "883d72a55b6508bed94474c97967fadbc78d123e00bcdef6d8d64d5c01335820",
+      "origin": "daily",
+      "phase": "pending",
       "images": {},
       "failures": {},
-      "sample": {}
+      "sample": {},
+      "photo_pipeline_version": "oglasi-portal-centers-v1-expected-stamp"
+    },
+    "oglasi_84437339": {
+      "property_key": "oglasi_84437339",
+      "listing_url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me",
+      "input_images": [
+        {
+          "image_number": 1,
+          "original_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/02de81d6-73f9-4e15-b1f7-88029d4c07d9.webp"
+        },
+        {
+          "image_number": 2,
+          "original_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/6073f180-c832-49a1-a318-df93c33cfe59.webp"
+        },
+        {
+          "image_number": 3,
+          "original_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/202f1600-832f-43b2-8cd5-6154b6addcef.webp"
+        },
+        {
+          "image_number": 4,
+          "original_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/ba86d8e9-c3fa-43b1-b290-6dc0f2903bb7.webp"
+        },
+        {
+          "image_number": 5,
+          "original_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/3a20b599-8b5b-4c5c-b95c-c89279da56f2.webp"
+        }
+      ],
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "source_page_captured_at": "2026-11-13T12:16:18.729351+00:00",
+      "input_signature": "541e3723812b8786d254667bf77e20d2a6b75dc0d0b36c4a3055de64ca9d44e7",
+      "origin": "daily",
+      "phase": "pending",
+      "images": {},
+      "failures": {},
+      "sample": {},
+      "photo_pipeline_version": "oglasi-portal-centers-v1-expected-stamp"
     }
   },
   "legacy_seeded": true,

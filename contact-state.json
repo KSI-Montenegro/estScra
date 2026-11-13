@@ -98585,6 +98585,288 @@
       "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
       "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
       "transport": "direct_https"
+    },
+    "oglasi_80873813": {
+      "property_key": "oglasi_80873813",
+      "source": "oglasi",
+      "listing_id": "80873813",
+      "listing_url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me",
+      "field_sources": {
+        "title": "page:currentAd.titleCompiled/title",
+        "description_original": "page:currentAd.description",
+        "published_date": "page:currentAd.createdAt",
+        "updated_date": "page:currentAd.updatedAt",
+        "source_refreshed_at": "page:currentAd.refreshed",
+        "city": "page:currentAd.city.name",
+        "district": "page:currentAd.location.name",
+        "region": "page:currentAd.region.name",
+        "country": "page:currentAd.country.name",
+        "floor_raw": "page:currentAd.adsSpecifications",
+        "room_layout_raw": "page:currentAd.adsSpecifications",
+        "heating_raw": "page:currentAd.adsSpecifications",
+        "condition_raw": "page:source_attributes",
+        "parking_raw": "page:currentAd.adsSpecifications",
+        "orientation_raw": "page:source_attributes",
+        "area_m2": "page:source_attributes",
+        "bathrooms": "page:source_attributes",
+        "deal_type": "page:currentAd.adsSpecifications.Tip oglasa",
+        "property_type": "page:currentAd.category.seo",
+        "property_type_raw": "page:currentAd.adsSpecifications",
+        "furnishing_raw": "page:currentAd.adsSpecifications",
+        "price_amount": "page:currentAd.price",
+        "price_currency": "page:price_display_EUR",
+        "price_raw": "page:currentAd.price",
+        "advertiser_name": "page:currentAd.user.name/surname",
+        "advertiser_profile_type": "page:currentAd.user.type.name",
+        "advertiser_source_id": "page:currentAd.user.id",
+        "amenities": "page:currentAd.equipment[].title",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
+      },
+      "source_attributes": {
+        "Tip oglasa": "Prodaja",
+        "Broj soba": "Garsonjera",
+        "Vrsta stana": "Stan u zgradi",
+        "Opremljenost": "Namješten",
+        "Površina": "27",
+        "Sprat": "7. sprat",
+        "Ukupan broj spratova": "8. sprat",
+        "Broj kupatila": "1",
+        "Lift": "Ima lift",
+        "Broj liftova": "2 lifta",
+        "Uknjiženo": "Uknjiženo",
+        "Parking": "Javni parking",
+        "Grijanje": "[\"Struja\"]",
+        "Orijentacija": "Sjeverozapad",
+        "Stanje nekretnine": "Uobičajeno"
+      },
+      "quality_flags": [],
+      "price_on_request": false,
+      "source_page_captured_at": "2026-11-13T12:16:17.724742+00:00",
+      "source_html_sha256": "a4f14d40f51c8b0dbc1f839fdb8f4d863856353f46344bb5a2ebeedf44ac0e40",
+      "image_urls": [
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/1fc51712-26a4-4832-a7dc-3ba6d32c83bc.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/68de3612-0394-4975-9a27-2a9059cc2cf4.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/e2064aa9-a9ed-4103-96a2-88a97a9553c1.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/bf27f356-2ba4-4f8a-9bad-9193432623d4.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/6723e961-8082-4154-b2fc-865da47ae2af.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/dfbf5fa5-6cad-4461-8814-513f24f28830.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/4a72ed90-9bae-4065-9c89-53754ee0597a.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/e44abb81-97ee-4a7a-a801-92384e806d5f.webp",
+        "https://slike.oglasi.me/2026/8/12/OG80873813ME/1abcca5d-8db2-4b83-a9d7-871f0a8a26c6.webp"
+      ],
+      "image_count": 9,
+      "gallery_extraction_method": "oglasi_current_ad_media",
+      "title": "Garsonjera 27m2 - Bar - Centar grada",
+      "description_original": "Na prodaju garsonjera površine 27m2 u Baru, iza Zelene pijace. Garsonjera je u potpunosti opremljena - kao takva se i prodaje. Bez tereta i ograničenja, vlasnik 1/1. Za više informacija - kontaktirajte nas.",
+      "published_date": "2026-08-12T08:47:59.000Z",
+      "updated_date": "2026-11-12T08:54:49.000Z",
+      "source_refreshed_at": "2026-11-12T08:54:49.000Z",
+      "city": "Bar",
+      "district": "Centar grada",
+      "region": "Primorska regija",
+      "country": "Crna Gora",
+      "floor_raw": "7. sprat",
+      "room_layout_raw": "Garsonjera",
+      "heating_raw": "[\"Struja\"]",
+      "condition_raw": "Uobičajeno",
+      "parking_raw": "Javni parking",
+      "orientation_raw": "Sjeverozapad",
+      "area_m2": 27,
+      "bathrooms": 1,
+      "deal_type": "sale",
+      "amenities": [
+        "Frižider",
+        "Interfon",
+        "Klima",
+        "Kuhinjski elementi",
+        "Ležaj",
+        "Plakar",
+        "Rerna",
+        "Sudo mašina",
+        "TV",
+        "Ugradni plakar",
+        "Video nadzor"
+      ],
+      "property_type": "apartment",
+      "property_type_raw": "Stan u zgradi",
+      "furnishing_raw": "Namješten",
+      "price_amount": 93000,
+      "price_currency": "EUR",
+      "price_raw": "93000 EUR",
+      "advertiser_name": "Real Estate 111 d.o.o.",
+      "advertiser_profile_type": "Agencija za nekretnine",
+      "advertiser_source_id": 176543,
+      "source_code": "OG80873813ME",
+      "source_database_id": 478826,
+      "contact_phones": [
+        "+38267015777"
+      ],
+      "phone_e164": "+38267015777",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38267015777",
+          "source": "page:currentAd.user.phones",
+          "listing_url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me"
+        },
+        {
+          "phone_e164": "+38267015777",
+          "source": "existing_contact",
+          "listing_url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-13T12:16:20.516718+00:00",
+      "phone_error_code": null,
+      "missing_core_fields": [],
+      "import_status": "ready_for_mapping",
+      "watermark_status": "sample_required",
+      "watermark_sample_url": "https://slike.oglasi.me/2026/8/12/OG80873813ME/1fc51712-26a4-4832-a7dc-3ba6d32c83bc.webp",
+      "watermark_sample_image_number": 1,
+      "watermark_sample_result": "not_checked",
+      "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "transport": "direct_https",
+      "phone_match_status": "existing_contact",
+      "phone_match_count": 1,
+      "matched_property_keys": [
+        "oglasi_75078779"
+      ],
+      "phone_matches": [
+        {
+          "phone_e164": "+38267015777",
+          "listings": [
+            {
+              "property_key": "oglasi_75078779",
+              "source": "oglasi",
+              "listing_url": "https://oglasi.me/nekretnine/stanovi/dvosoban-stan--63m2--centar--bar-og75078779me"
+            }
+          ]
+        }
+      ]
+    },
+    "oglasi_84437339": {
+      "property_key": "oglasi_84437339",
+      "source": "oglasi",
+      "listing_id": "84437339",
+      "listing_url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me",
+      "field_sources": {
+        "title": "page:currentAd.titleCompiled/title",
+        "description_original": "page:currentAd.description",
+        "published_date": "page:currentAd.createdAt",
+        "updated_date": "page:currentAd.updatedAt",
+        "city": "page:currentAd.city.name",
+        "district": "page:currentAd.location.name",
+        "region": "page:currentAd.region.name",
+        "country": "page:currentAd.country.name",
+        "room_layout_raw": "page:currentAd.adsSpecifications",
+        "condition_raw": "page:source_attributes",
+        "parking_raw": "page:currentAd.adsSpecifications",
+        "orientation_raw": "page:source_attributes",
+        "area_m2": "page:source_attributes",
+        "lot_area_m2": "page:source_attributes",
+        "bathrooms": "page:source_attributes",
+        "balconies": "page:source_attributes",
+        "deal_type": "page:currentAd.adsSpecifications.Tip oglasa",
+        "property_type": "page:currentAd.category.seo",
+        "property_type_raw": "page:currentAd.adsSpecifications",
+        "rooms": "page:currentAd.adsSpecifications",
+        "furnishing_raw": "page:currentAd.adsSpecifications",
+        "advertiser_name": "page:currentAd.user.name/surname",
+        "advertiser_profile_type": "page:currentAd.user.type.name",
+        "advertiser_source_id": "page:currentAd.user.id",
+        "amenities": "page:currentAd.equipment[].title",
+        "contact_phones": "contact_candidates:see_source_and_listing_url",
+        "phone_e164": "single_unambiguous_contact"
+      },
+      "source_attributes": {
+        "Tip oglasa": "Prodaja",
+        "Tip kuće": "Porodična kuća",
+        "Opremljenost": "Namještena",
+        "Broj etaža": "2-etažna kuća",
+        "Površina": "200",
+        "Površina placa": "2200",
+        "Broj soba": "5",
+        "Broj kupatila": "1",
+        "Parking": "Lična garaža",
+        "Broj terasa": "4",
+        "Stanje nekretnine": "Uobičajeno",
+        "Uknjiženo": "Uknjiženo",
+        "Orijentacija": "Jug"
+      },
+      "quality_flags": [],
+      "price_on_request": true,
+      "source_page_captured_at": "2026-11-13T12:16:18.729351+00:00",
+      "source_html_sha256": "7b25bf62de8a1e3f82a176b443a44254a37293b3d40adba1b05f439ee2541257",
+      "image_urls": [
+        "https://slike.oglasi.me/2026/11/7/OG84437339ME/02de81d6-73f9-4e15-b1f7-88029d4c07d9.webp",
+        "https://slike.oglasi.me/2026/11/7/OG84437339ME/6073f180-c832-49a1-a318-df93c33cfe59.webp",
+        "https://slike.oglasi.me/2026/11/7/OG84437339ME/202f1600-832f-43b2-8cd5-6154b6addcef.webp",
+        "https://slike.oglasi.me/2026/11/7/OG84437339ME/ba86d8e9-c3fa-43b1-b290-6dc0f2903bb7.webp",
+        "https://slike.oglasi.me/2026/11/7/OG84437339ME/3a20b599-8b5b-4c5c-b95c-c89279da56f2.webp"
+      ],
+      "image_count": 5,
+      "gallery_extraction_method": "oglasi_current_ad_media",
+      "title": "Porodična kuća 200m2 - Podgorica - Podgorica (uži dio)",
+      "description_original": "Jedinstvena prilika da spojite mediteranski način života, mir, privatnost, prirodu i prelijep pogled na Jadransko more.\nNa atraktivnoj lokaciji u naselju Bjeliši - Ahmetov brijeg u Baru prodaje se kuća površine 200 m2 smještena na prostranom placu površine 2200 m2.\nPrelijep pogled na more i veliko zemljište čine ovu nekretninu posebnom prilikom za sve koji žele da ostvare san o životu na crnogorskom primorju ili da investiraju u nekretninu sa velikim potencijalom.",
+      "published_date": "2026-11-07T19:57:23.000Z",
+      "updated_date": "2026-11-09T13:02:17.000Z",
+      "city": "Podgorica",
+      "district": "Podgorica (uži dio)",
+      "region": "Centralna regija",
+      "country": "Crna Gora",
+      "room_layout_raw": "5",
+      "condition_raw": "Uobičajeno",
+      "parking_raw": "Lična garaža",
+      "orientation_raw": "Jug",
+      "area_m2": 200,
+      "lot_area_m2": 2200,
+      "bathrooms": 1,
+      "balconies": 4,
+      "deal_type": "sale",
+      "amenities": [],
+      "property_type": "house",
+      "property_type_raw": "Porodična kuća",
+      "rooms": 5,
+      "furnishing_raw": "Namještena",
+      "price_amount": null,
+      "advertiser_name": "Jelena Radonjić",
+      "advertiser_profile_type": "Korisnik",
+      "advertiser_source_id": 204057,
+      "source_code": "OG84437339ME",
+      "source_database_id": 501861,
+      "contact_phones": [
+        "+38269971542"
+      ],
+      "phone_e164": "+38269971542",
+      "contact_candidates": [
+        {
+          "phone_e164": "+38269971542",
+          "source": "page:currentAd.user.phones",
+          "listing_url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me"
+        },
+        {
+          "phone_e164": "+38269971542",
+          "source": "existing_contact",
+          "listing_url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me"
+        }
+      ],
+      "phone_collection_status": "found",
+      "phone_checked_at": "2026-11-13T12:16:20.632581+00:00",
+      "phone_error_code": null,
+      "missing_core_fields": [],
+      "import_status": "ready_for_mapping",
+      "watermark_status": "sample_required",
+      "watermark_sample_url": "https://slike.oglasi.me/2026/11/7/OG84437339ME/02de81d6-73f9-4e15-b1f7-88029d4c07d9.webp",
+      "watermark_sample_image_number": 1,
+      "watermark_sample_result": "not_checked",
+      "newness": "previously_unseen_in_our_state_not_proof_of_new_publication",
+      "first_seen_at": "2026-11-13T12:12:18.156290+00:00",
+      "transport": "direct_https",
+      "phone_match_status": "new_contact",
+      "phone_match_count": 0,
+      "matched_property_keys": [],
+      "phone_matches": []
     }
   },
   "results": {
@@ -114613,6 +114895,28 @@
         }
       ],
       "checked_at": "2026-11-13T12:12:23.876313+00:00"
+    },
+    "oglasi_80873813": {
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38267015777",
+          "source": "existing_contact",
+          "listing_url": "https://oglasi.me/nekretnine/stanovi/garsonjera--27m2--centar--bar-og80873813me"
+        }
+      ],
+      "checked_at": "2026-11-13T12:16:20.516718+00:00"
+    },
+    "oglasi_84437339": {
+      "status": "found",
+      "candidates": [
+        {
+          "phone_e164": "+38269971542",
+          "source": "existing_contact",
+          "listing_url": "https://oglasi.me/nekretnine/kuce/prodajem-kucu-i-plac--bjelisi--bar-og84437339me"
+        }
+      ],
+      "checked_at": "2026-11-13T12:16:20.632581+00:00"
     }
   },
   "estitor_gate": {
@@ -114621,7 +114925,7 @@
     "last_request_at": 1794505781.0858068,
     "resume_not_before": 1794509381.5375714
   },
-  "updated_at": "2026-11-13T12:12:23.985344+00:00",
+  "updated_at": "2026-11-13T12:16:20.746600+00:00",
   "last_run_counts": {
     "listings_checked": 2,
     "runtime_or_listing_limit": 1
@@ -114629,6 +114933,6 @@
   "patuljak_auth": {
     "status": "session_active",
     "source": "broker",
-    "checked_at": "2026-11-13T12:12:23.759295+00:00"
+    "checked_at": "2026-11-13T12:16:20.513624+00:00"
   }
 }
