@@ -11,6 +11,11 @@ OLD = 'PHPSESSID=old-session; 5tg=' + base64.b64encode(PHONE.encode()).decode() 
 NEW = OLD.replace('old-session', 'new-session')
 PENDING = '11111111-2222-3333-4444-555555555555'
 CODE_FORM = b'<form method="POST" action="/process/login"><input type="hidden" name="csrf" value="fixture"><input name="kod" autocomplete="one-time-code"><button name="verify" value="1">Confirm</button></form>'
+SPLIT_CODE_FORM = ('<form method="POST" action="/login_code.html">'
+                   '<input type="hidden" name="phone_2" value="fixture-account">'
+                   + ''.join('<input type="tel" name="phone_code_'+str(i)+'" autocomplete="one-time-code" maxlength="1">' for i in range(1,7))
+                   + '<input type="hidden" name="submit_code" value="submit_code" autocomplete="one-time-code">'
+                   '<button name="login" value="confirm">Confirm</button></form>').encode()
 
 
 def env(**extra):
@@ -70,6 +75,33 @@ class AuthTests(unittest.TestCase):
         self.assertEqual(s.posts[1][1]['kod'],'123456')
         self.assertTrue(any(path.endswith('/complete') and data['cookie']==NEW for path,_,data in b.calls))
         self.assertNotIn(PHONE,str(status));self.assertNotIn('123456',str(status));self.assertNotIn(NEW,str(status))
+
+    def test_live_portal_split_code_form_submits_digits_with_hidden_fields(self):
+        b,s=FakeBroker(),FakeSite()
+        def request(url,fields=None,enctype=''):
+            s.posts.append((url,dict(fields)));return SPLIT_CODE_FORM,url
+        s.request=request
+        cookie,status=auth.resolve_cookie(env(),b,s)
+        self.assertEqual(cookie,NEW);self.assertEqual(status['status'],'session_renewed')
+        self.assertEqual(len(s.posts),2)
+        sent=s.posts[1][1]
+        self.assertEqual([sent['phone_code_'+str(i)] for i in range(1,7)],list('123456'))
+        self.assertEqual(sent['submit_code'],'submit_code')
+        self.assertEqual(sent['phone_2'],'fixture-account')
+        self.assertEqual(sent['login'],'confirm')
+
+    def test_split_code_length_or_missing_digit_never_submits_a_partial_code(self):
+        b,s=FakeBroker(),FakeSite()
+        s.request=MagicMock(return_value=(SPLIT_CODE_FORM,'https://patuljak.me/login_code.html'))
+        original=b.request
+        def request(path,method='GET',data=None):
+            return {'code':'1234'} if path.endswith('/code') else original(path,method,data)
+        b.request=request
+        _,status=auth.resolve_cookie(env(),b,s)
+        self.assertEqual(status['reason'],'verification_code_length_mismatch')
+        self.assertEqual(s.request.call_count,1)
+        with self.assertRaises(auth.AuthFailure):
+            auth.verification_form(SPLIT_CODE_FORM.replace(b'phone_code_3',b'unrelated_field'),'https://patuljak.me/login_code.html')
 
     def test_unknown_verification_form_stops_without_repeating_sms(self):
         b,s=FakeBroker(),FakeSite()

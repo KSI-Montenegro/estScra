@@ -10,9 +10,10 @@ ads that redirect to login do not prove that the account session has expired.
 - Private broker: `https://graden-patuljak-auth.automobili-d2153dc7.workers.dev`.
 - TextBee device: `6af6051e3d2c9203edfe3ae7`, hosted TextBee.
 - Webhook: `POST /webhooks/textbee`, event `MESSAGE_RECEIVED`.
-- Automatic login is initially **disabled** (`PATULJAK_AUTO_LOGIN=false`).
-- Receiver and mocked login flow are tested. A genuine TextBee delivery and the
-  first actual Patuljak OTP form submission still need live verification.
+- Automatic login is **enabled** (`PATULJAK_AUTO_LOGIN=true`) following live validation.
+- On 2026-11-13, a real incoming device SMS verified webhook delivery. One actual
+  Patuljak login then requested one SMS, automatically claimed its code, submitted
+  the six separate code fields, and verified/cached the fresh account session.
 
 In the TextBee dashboard, create a webhook using that URL, `MESSAGE_RECEIVED`, and
 the signing secret in the locally generated `private/textbee-webhook-setup.json`.

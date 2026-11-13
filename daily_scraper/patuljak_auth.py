@@ -138,11 +138,29 @@ def verification_form(body, page_url):
                        if node.get('type', 'text').lower() in ('text', 'tel', 'number', 'password') and
                        (node.get('autocomplete') == 'one-time-code' or re.fullmatch(
                            r'(?:code|kod|pin|otp|login_code|verification_code|sms_code|token|activation_code)', node.get('name'), re.I))]
+        code_target = None
         if len(code_fields) == 1:
-            candidates.append((action, form_data(form), code_fields[0].get('name'), form.get('enctype', '')))
+            code_target = code_fields[0].get('name')
+        elif 4 <= len(code_fields) <= 8:
+            names = [node.get('name') for node in code_fields]
+            if names == ['phone_code_' + str(i) for i in range(1, len(names) + 1)]:
+                code_target = tuple(names)
+        if code_target:
+            candidates.append((action, form_data(form), code_target, form.get('enctype', '')))
     if len(candidates) != 1:
         raise AuthFailure('verification_form_unrecognized')
     return candidates[0]
+
+
+def fill_verification_code(fields, target, code):
+    if not isinstance(code, str) or not re.fullmatch(r'\d{4,8}', code):
+        raise AuthFailure('invalid_sms_code')
+    if isinstance(target, tuple):
+        if len(target) != len(code):
+            raise AuthFailure('verification_code_length_mismatch')
+        fields.update(zip(target, code))
+    else:
+        fields[target] = code
 
 
 class PatuljakSite:
@@ -283,7 +301,7 @@ def resolve_cookie(env, broker=None, site=None):
             time.sleep(3)
         if not isinstance(code, str) or not re.fullmatch(r'\d{4,8}', code):
             raise AuthFailure('sms_code_timeout')
-        fields[code_field] = code
+        fill_verification_code(fields, code_field, code)
         site.request(action, fields, enctype)
         fresh = site.session_header()
         if not fresh or not site.session_valid(fresh):
