@@ -357243,9 +357243,9 @@
           "image_number": 4,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86875_9.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/004-44f9dc323aad5e956a06b215b17b866d00b3e171e888d771a3f58a04301d8eb4.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/004-44f9dc323aad5e956a06b215b17b866d00b3e171e888d771a3f58a04301d8eb4.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/004-f6d4fe7e8d7762549ef7380c8a55b15284821be2da986386058e2e0f68d19567.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/004-f6d4fe7e8d7762549ef7380c8a55b15284821be2da986386058e2e0f68d19567.webp",
+          "selected_version": "cleaned",
           "source_sha256": "66b151c2c64ecfed10d54d0318824c2cfbba1b3318c351b63a0c7ae4bd3b7a6b",
           "optimized_sha256": "44f9dc323aad5e956a06b215b17b866d00b3e171e888d771a3f58a04301d8eb4",
           "bytes": 59208,
@@ -357291,11 +357291,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -357304,15 +357304,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "66b151c2c64ecfed10d54d0318824c2cfbba1b3318c351b63a0c7ae4bd3b7a6b",
+          "repair_output_sha256": "f6d4fe7e8d7762549ef7380c8a55b15284821be2da986386058e2e0f68d19567",
+          "repair_output_bytes": 56150,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "f6d4fe7e8d7762549ef7380c8a55b15284821be2da986386058e2e0f68d19567",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.313508540391922,
+              "box": [
+                12,
+                332,
+                68,
+                402
+              ],
+              "hits": [],
+              "width": 375,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "5": {
           "image_number": 5,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86875_8.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/005-661501b1918bc89402a2799682bccb0e405adfa9cd28567b68d1a49c7303e44d.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/005-661501b1918bc89402a2799682bccb0e405adfa9cd28567b68d1a49c7303e44d.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/005-7763687d36ac35dd99682bac870b884fc94adcc0d659a3e7c095643b79dbd91f.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/005-7763687d36ac35dd99682bac870b884fc94adcc0d659a3e7c095643b79dbd91f.webp",
+          "selected_version": "cleaned",
           "source_sha256": "39a717020e2dd1efb582b5dcd5ce3146895b6472b12d8bbe2a701d324f3b6fd7",
           "optimized_sha256": "661501b1918bc89402a2799682bccb0e405adfa9cd28567b68d1a49c7303e44d",
           "bytes": 48498,
@@ -357416,11 +357449,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -357429,15 +357462,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "39a717020e2dd1efb582b5dcd5ce3146895b6472b12d8bbe2a701d324f3b6fd7",
+          "repair_output_sha256": "7763687d36ac35dd99682bac870b884fc94adcc0d659a3e7c095643b79dbd91f",
+          "repair_output_bytes": 44450,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "7763687d36ac35dd99682bac870b884fc94adcc0d659a3e7c095643b79dbd91f",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.36555173993110657,
+              "box": [
+                261,
+                450,
+                299,
+                496
+              ],
+              "hits": [],
+              "width": 375,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "6": {
           "image_number": 6,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86875_7.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/006-dcb19d472ed8f918735878c67a08d660538ebcc6d834db2b96c60d396c600e20.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/source/006-dcb19d472ed8f918735878c67a08d660538ebcc6d834db2b96c60d396c600e20.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/006-128a5b0d1fc3322160f18a30dda3ee527c1bd79eeff9f50177553d8113c8b934.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86875/cleaned/006-128a5b0d1fc3322160f18a30dda3ee527c1bd79eeff9f50177553d8113c8b934.webp",
+          "selected_version": "cleaned",
           "source_sha256": "dace6edc687e66a043dc8c8b68e69b76aa43c5a5e474fe2acc2767eee7342250",
           "optimized_sha256": "dcb19d472ed8f918735878c67a08d660538ebcc6d834db2b96c60d396c600e20",
           "bytes": 45700,
@@ -357513,11 +357579,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -357526,7 +357592,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "dace6edc687e66a043dc8c8b68e69b76aa43c5a5e474fe2acc2767eee7342250",
+          "repair_output_sha256": "128a5b0d1fc3322160f18a30dda3ee527c1bd79eeff9f50177553d8113c8b934",
+          "repair_output_bytes": 41634,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "128a5b0d1fc3322160f18a30dda3ee527c1bd79eeff9f50177553d8113c8b934",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.38367217779159546,
+              "box": [
+                105,
+                408,
+                143,
+                454
+              ],
+              "hits": [],
+              "width": 365,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "7": {
           "image_number": 7,
@@ -358065,9 +358164,9 @@
           "image_number": 1,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86874_0.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/001-0ae67351a1d8cda94b84bac708a6670efd53705be769b7e02511471194561f45.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/001-0ae67351a1d8cda94b84bac708a6670efd53705be769b7e02511471194561f45.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/001-fd9cc09a4f8a1d4a6306d2e7dfb6100306fcb52c55c7bf7051e2f693d2ef8c06.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/001-fd9cc09a4f8a1d4a6306d2e7dfb6100306fcb52c55c7bf7051e2f693d2ef8c06.webp",
+          "selected_version": "cleaned",
           "source_sha256": "41f5a6cc79d8bc19ae1aa603b0986dd8f7365d2c2b7257b2bc87018576143cb8",
           "optimized_sha256": "0ae67351a1d8cda94b84bac708a6670efd53705be769b7e02511471194561f45",
           "bytes": 64538,
@@ -358120,11 +358219,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358133,15 +358232,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "41f5a6cc79d8bc19ae1aa603b0986dd8f7365d2c2b7257b2bc87018576143cb8",
+          "repair_output_sha256": "fd9cc09a4f8a1d4a6306d2e7dfb6100306fcb52c55c7bf7051e2f693d2ef8c06",
+          "repair_output_bytes": 58404,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "fd9cc09a4f8a1d4a6306d2e7dfb6100306fcb52c55c7bf7051e2f693d2ef8c06",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.4318521022796631,
+              "box": [
+                340,
+                268,
+                378,
+                314
+              ],
+              "hits": [],
+              "width": 740,
+              "height": 411,
+              "other_text_detected": false
+            }
+          }
         },
         "2": {
           "image_number": 2,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86874_1.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/002-f24e4fa28ef013e2704c2c40d565a37880b4b974ee92bf30703274cde6eace11.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/002-f24e4fa28ef013e2704c2c40d565a37880b4b974ee92bf30703274cde6eace11.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/002-c1cc508f96161897d20684d47c3bfaee11e92ccc1c074818c3b759360609cc45.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/002-c1cc508f96161897d20684d47c3bfaee11e92ccc1c074818c3b759360609cc45.webp",
+          "selected_version": "cleaned",
           "source_sha256": "cc63452cbc874abfc25c371305262daec66ec81ba698de884de3b28870a56b5a",
           "optimized_sha256": "f24e4fa28ef013e2704c2c40d565a37880b4b974ee92bf30703274cde6eace11",
           "bytes": 62382,
@@ -358187,11 +358319,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358200,15 +358332,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "cc63452cbc874abfc25c371305262daec66ec81ba698de884de3b28870a56b5a",
+          "repair_output_sha256": "c1cc508f96161897d20684d47c3bfaee11e92ccc1c074818c3b759360609cc45",
+          "repair_output_bytes": 55412,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "c1cc508f96161897d20684d47c3bfaee11e92ccc1c074818c3b759360609cc45",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.41192543506622314,
+              "box": [
+                220,
+                278,
+                258,
+                324
+              ],
+              "hits": [],
+              "width": 740,
+              "height": 416,
+              "other_text_detected": false
+            }
+          }
         },
         "3": {
           "image_number": 3,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86874_2.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/003-6657b128cde2246f78bc51bf9b85fedf36a4e9d9ca9448eff12958512b5e3a44.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/source/003-6657b128cde2246f78bc51bf9b85fedf36a4e9d9ca9448eff12958512b5e3a44.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/003-a61cf70c0cf16a7913e7567a07512e2d6b239e1ff263a6c580de47538e49d07b.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86874/cleaned/003-a61cf70c0cf16a7913e7567a07512e2d6b239e1ff263a6c580de47538e49d07b.webp",
+          "selected_version": "cleaned",
           "source_sha256": "4d9c34a5fb7fcc99dffb81509ed7ae62689ba2625c5ca2eb959a2ada08fdf61a",
           "optimized_sha256": "6657b128cde2246f78bc51bf9b85fedf36a4e9d9ca9448eff12958512b5e3a44",
           "bytes": 51586,
@@ -358255,10 +358420,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358267,7 +358432,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "4d9c34a5fb7fcc99dffb81509ed7ae62689ba2625c5ca2eb959a2ada08fdf61a",
+          "repair_output_sha256": "a61cf70c0cf16a7913e7567a07512e2d6b239e1ff263a6c580de47538e49d07b",
+          "repair_output_bytes": 42662,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "a61cf70c0cf16a7913e7567a07512e2d6b239e1ff263a6c580de47538e49d07b",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.46210232377052307,
+              "box": [
+                582,
+                305,
+                620,
+                351
+              ],
+              "hits": [],
+              "width": 740,
+              "height": 422,
+              "other_text_detected": true
+            }
+          }
         }
       },
       "failures": {},
@@ -358330,9 +358528,9 @@
           "image_number": 1,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86872_0.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/001-faa272dfa4b3938f7b77d6afbdee3c039f2b6971f311cac4df33220bea39e071.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/001-faa272dfa4b3938f7b77d6afbdee3c039f2b6971f311cac4df33220bea39e071.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/001-cefd21541f68f1ff757668f3012e6295c7a6a82fea0fdbb5f16434f052fb5581.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/001-cefd21541f68f1ff757668f3012e6295c7a6a82fea0fdbb5f16434f052fb5581.webp",
+          "selected_version": "cleaned",
           "source_sha256": "c5fea37d4c9a3ce25bf935dc58cf3460dec3ceb5b98f254a97671212763fe9d7",
           "optimized_sha256": "faa272dfa4b3938f7b77d6afbdee3c039f2b6971f311cac4df33220bea39e071",
           "bytes": 62516,
@@ -358386,10 +358584,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358398,15 +358596,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "c5fea37d4c9a3ce25bf935dc58cf3460dec3ceb5b98f254a97671212763fe9d7",
+          "repair_output_sha256": "cefd21541f68f1ff757668f3012e6295c7a6a82fea0fdbb5f16434f052fb5581",
+          "repair_output_bytes": 60970,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "cefd21541f68f1ff757668f3012e6295c7a6a82fea0fdbb5f16434f052fb5581",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.3271368741989136,
+              "box": [
+                173,
+                402,
+                211,
+                448
+              ],
+              "hits": [],
+              "width": 376,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         },
         "2": {
           "image_number": 2,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86872_1.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/002-82a32625fd4dd26960818a49f9be2ebc511fd5f3d8efef4ea29a8c9bed85e3ec.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/002-82a32625fd4dd26960818a49f9be2ebc511fd5f3d8efef4ea29a8c9bed85e3ec.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/002-a72f706ba3904921acb1c773af9032175d6858e9ce83e2c11a6228c950881fe3.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/002-a72f706ba3904921acb1c773af9032175d6858e9ce83e2c11a6228c950881fe3.webp",
+          "selected_version": "cleaned",
           "source_sha256": "845deb5ee61ee32667d8856abfeb11c62ea2895785c7313d8db030432fe4518a",
           "optimized_sha256": "82a32625fd4dd26960818a49f9be2ebc511fd5f3d8efef4ea29a8c9bed85e3ec",
           "bytes": 54190,
@@ -358453,10 +358684,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358465,15 +358696,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "845deb5ee61ee32667d8856abfeb11c62ea2895785c7313d8db030432fe4518a",
+          "repair_output_sha256": "a72f706ba3904921acb1c773af9032175d6858e9ce83e2c11a6228c950881fe3",
+          "repair_output_bytes": 51464,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "a72f706ba3904921acb1c773af9032175d6858e9ce83e2c11a6228c950881fe3",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.41381514072418213,
+              "box": [
+                274,
+                357,
+                312,
+                403
+              ],
+              "hits": [],
+              "width": 376,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         },
         "3": {
           "image_number": 3,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86872_2.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/003-dc9d73bd13584f56659e2ba34620f37dde886379c7387ef0a06d03a6a2f374c9.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/003-dc9d73bd13584f56659e2ba34620f37dde886379c7387ef0a06d03a6a2f374c9.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/003-57e93e23db8a085a128c0dc323ed84fc67aa6637db0d5da3fa0ab3bd54b7f3db.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/003-57e93e23db8a085a128c0dc323ed84fc67aa6637db0d5da3fa0ab3bd54b7f3db.webp",
+          "selected_version": "cleaned",
           "source_sha256": "f7b28d80554c7f4e61ae9693b33d38d6a164e920c1d20c5fb1ff78ca922cdd34",
           "optimized_sha256": "dc9d73bd13584f56659e2ba34620f37dde886379c7387ef0a06d03a6a2f374c9",
           "bytes": 71386,
@@ -358520,10 +358784,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358532,15 +358796,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "f7b28d80554c7f4e61ae9693b33d38d6a164e920c1d20c5fb1ff78ca922cdd34",
+          "repair_output_sha256": "57e93e23db8a085a128c0dc323ed84fc67aa6637db0d5da3fa0ab3bd54b7f3db",
+          "repair_output_bytes": 67658,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "57e93e23db8a085a128c0dc323ed84fc67aa6637db0d5da3fa0ab3bd54b7f3db",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.3813279867172241,
+              "box": [
+                278,
+                425,
+                316,
+                471
+              ],
+              "hits": [],
+              "width": 376,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         },
         "4": {
           "image_number": 4,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86872_3.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/004-0aa745a506aebed384b99faebef116e024906813d24979e315c887a22766d487.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/004-0aa745a506aebed384b99faebef116e024906813d24979e315c887a22766d487.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/004-76205f5ebf6654b29778efe3a03be9d94fbf3641d6c9b1c999a1a4472654d4d2.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/004-76205f5ebf6654b29778efe3a03be9d94fbf3641d6c9b1c999a1a4472654d4d2.webp",
+          "selected_version": "cleaned",
           "source_sha256": "11a25a9eddf580b0054ab6db23f3770b21003bae96128200f531174fa8f71afa",
           "optimized_sha256": "0aa745a506aebed384b99faebef116e024906813d24979e315c887a22766d487",
           "bytes": 41004,
@@ -358586,11 +358883,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358599,15 +358896,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "11a25a9eddf580b0054ab6db23f3770b21003bae96128200f531174fa8f71afa",
+          "repair_output_sha256": "76205f5ebf6654b29778efe3a03be9d94fbf3641d6c9b1c999a1a4472654d4d2",
+          "repair_output_bytes": 33930,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "76205f5ebf6654b29778efe3a03be9d94fbf3641d6c9b1c999a1a4472654d4d2",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.470668226480484,
+              "box": [
+                204,
+                378,
+                242,
+                424
+              ],
+              "hits": [],
+              "width": 376,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "5": {
           "image_number": 5,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86872_4.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/005-fbd7227cb5ae319601bf5b9c7141198843abd0dca858a8c91298f8eca48ee51c.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/source/005-fbd7227cb5ae319601bf5b9c7141198843abd0dca858a8c91298f8eca48ee51c.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/005-4750db3b18d7a4ad6f28f061cfea2747e44547966246d79face1a291b2744a4c.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86872/cleaned/005-4750db3b18d7a4ad6f28f061cfea2747e44547966246d79face1a291b2744a4c.webp",
+          "selected_version": "cleaned",
           "source_sha256": "4f542f38a15f0217027ccb0c5286c4e56afba857f86a38d6b2249409d665c12d",
           "optimized_sha256": "fbd7227cb5ae319601bf5b9c7141198843abd0dca858a8c91298f8eca48ee51c",
           "bytes": 46074,
@@ -358654,10 +358984,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358666,7 +358996,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "4f542f38a15f0217027ccb0c5286c4e56afba857f86a38d6b2249409d665c12d",
+          "repair_output_sha256": "4750db3b18d7a4ad6f28f061cfea2747e44547966246d79face1a291b2744a4c",
+          "repair_output_bytes": 37682,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "4750db3b18d7a4ad6f28f061cfea2747e44547966246d79face1a291b2744a4c",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.37465429306030273,
+              "box": [
+                130,
+                380,
+                168,
+                426
+              ],
+              "hits": [],
+              "width": 376,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         }
       },
       "failures": {},
@@ -358823,9 +359186,9 @@
           "image_number": 2,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86871_11.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/002-2bd5ee89bad7164ca27b4e8056bae715e0971c38b467395f5eca9c53a3dd6665.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/002-2bd5ee89bad7164ca27b4e8056bae715e0971c38b467395f5eca9c53a3dd6665.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/002-8f4c32a1f3e912c850d1cd8732a29f6885a9e5076a13bce6b5f2bcb39a7ada36.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/002-8f4c32a1f3e912c850d1cd8732a29f6885a9e5076a13bce6b5f2bcb39a7ada36.webp",
+          "selected_version": "cleaned",
           "source_sha256": "cbdb094e3aabdcdafcfa9144466f8f0323a215ce2c59e31f4c4b669aeb226cae",
           "optimized_sha256": "2bd5ee89bad7164ca27b4e8056bae715e0971c38b467395f5eca9c53a3dd6665",
           "bytes": 107460,
@@ -358871,11 +359234,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -358884,15 +359247,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "cbdb094e3aabdcdafcfa9144466f8f0323a215ce2c59e31f4c4b669aeb226cae",
+          "repair_output_sha256": "8f4c32a1f3e912c850d1cd8732a29f6885a9e5076a13bce6b5f2bcb39a7ada36",
+          "repair_output_bytes": 102646,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "8f4c32a1f3e912c850d1cd8732a29f6885a9e5076a13bce6b5f2bcb39a7ada36",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.39516106247901917,
+              "box": [
+                374,
+                329,
+                412,
+                375
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "3": {
           "image_number": 3,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86871_10.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/003-ee47c8e0ca016c98be2f8c93a686636d7d638fe1a00342652a839add834c4719.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/003-ee47c8e0ca016c98be2f8c93a686636d7d638fe1a00342652a839add834c4719.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/003-51d5c91b6f01334c34345621260d6b8470d3a2283a18719adee405f1d679df51.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/003-51d5c91b6f01334c34345621260d6b8470d3a2283a18719adee405f1d679df51.webp",
+          "selected_version": "cleaned",
           "source_sha256": "b3bff04b1ca098d98494bb634af34351aa16a5324e06666ab202a29a21e4e6f0",
           "optimized_sha256": "ee47c8e0ca016c98be2f8c93a686636d7d638fe1a00342652a839add834c4719",
           "bytes": 50062,
@@ -358996,11 +359392,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359009,7 +359405,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "b3bff04b1ca098d98494bb634af34351aa16a5324e06666ab202a29a21e4e6f0",
+          "repair_output_sha256": "51d5c91b6f01334c34345621260d6b8470d3a2283a18719adee405f1d679df51",
+          "repair_output_bytes": 43794,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "51d5c91b6f01334c34345621260d6b8470d3a2283a18719adee405f1d679df51",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.40592870116233826,
+              "box": [
+                36,
+                358,
+                92,
+                428
+              ],
+              "hits": [],
+              "width": 375,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "4": {
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/004-15724b3a19837454ce5599dd26fd3478c47e074e61bf89333d3d445cb489af66.webp",
@@ -359133,9 +359562,9 @@
           "image_number": 6,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86871_7.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/006-576bf1cb4bfc23c11891d9e38db925697833af0f996f3244b1960dafb0a94c9b.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/006-576bf1cb4bfc23c11891d9e38db925697833af0f996f3244b1960dafb0a94c9b.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/006-4a6e63d7dc55aafe64774fcc706e79492680d35ef940b971ba1dd235171e3eb9.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/006-4a6e63d7dc55aafe64774fcc706e79492680d35ef940b971ba1dd235171e3eb9.webp",
+          "selected_version": "cleaned",
           "source_sha256": "c3ad781682ee32c08139d9d3bd1d0f4dd35d8849bcba76f5a584339f05758e61",
           "optimized_sha256": "576bf1cb4bfc23c11891d9e38db925697833af0f996f3244b1960dafb0a94c9b",
           "bytes": 65822,
@@ -359182,10 +359611,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359194,7 +359623,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "c3ad781682ee32c08139d9d3bd1d0f4dd35d8849bcba76f5a584339f05758e61",
+          "repair_output_sha256": "4a6e63d7dc55aafe64774fcc706e79492680d35ef940b971ba1dd235171e3eb9",
+          "repair_output_bytes": 60280,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "4a6e63d7dc55aafe64774fcc706e79492680d35ef940b971ba1dd235171e3eb9",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.3924749195575714,
+              "box": [
+                71,
+                359,
+                165,
+                475
+              ],
+              "hits": [],
+              "width": 369,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         },
         "7": {
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/007-68ef1acd2b03e6acab56425f9f3ac95a7b50db93909f218fcfdeb4912af9122c.webp",
@@ -359377,9 +359839,9 @@
           "image_number": 10,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86871_3.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/010-7083c718cf06cf0cfce4825f6ab0124a0ff5f247e647b0c6ec22148f7d9e07cf.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/010-7083c718cf06cf0cfce4825f6ab0124a0ff5f247e647b0c6ec22148f7d9e07cf.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/010-637bfbecb44bdbd076a8f1f75789ee719708194b489ae0aaa537ad031e92f163.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/010-637bfbecb44bdbd076a8f1f75789ee719708194b489ae0aaa537ad031e92f163.webp",
+          "selected_version": "cleaned",
           "source_sha256": "6e398bda55351b9d10603474687811f5bd34cc161801abd98a932150cb7370d0",
           "optimized_sha256": "7083c718cf06cf0cfce4825f6ab0124a0ff5f247e647b0c6ec22148f7d9e07cf",
           "bytes": 49526,
@@ -359425,11 +359887,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359438,7 +359900,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "6e398bda55351b9d10603474687811f5bd34cc161801abd98a932150cb7370d0",
+          "repair_output_sha256": "637bfbecb44bdbd076a8f1f75789ee719708194b489ae0aaa537ad031e92f163",
+          "repair_output_bytes": 44990,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "637bfbecb44bdbd076a8f1f75789ee719708194b489ae0aaa537ad031e92f163",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.4198358654975891,
+              "box": [
+                295,
+                400,
+                333,
+                446
+              ],
+              "hits": [],
+              "width": 373,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "11": {
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/011-283124b8be17307fb62afe0a1bced8178843f9c04002fe47f4b463a9bcd70958.webp",
@@ -359503,9 +359998,9 @@
           "image_number": 12,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86871_1.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/012-ebc25b3c7cba00104f06880256b31ba0f5c244fd696098d710a18044f8d21746.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/source/012-ebc25b3c7cba00104f06880256b31ba0f5c244fd696098d710a18044f8d21746.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/012-8cfbecd997603829f2cad707ec4f3bc758efc185851fda644f6a863fc7e9fcd5.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86871/cleaned/012-8cfbecd997603829f2cad707ec4f3bc758efc185851fda644f6a863fc7e9fcd5.webp",
+          "selected_version": "cleaned",
           "source_sha256": "30e2795476e46ec2d26cf207c050ba2f2bd25c7b65bdbbcb7f19f7ba62e2b0a7",
           "optimized_sha256": "ebc25b3c7cba00104f06880256b31ba0f5c244fd696098d710a18044f8d21746",
           "bytes": 63404,
@@ -359551,11 +360046,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359564,7 +360059,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "30e2795476e46ec2d26cf207c050ba2f2bd25c7b65bdbbcb7f19f7ba62e2b0a7",
+          "repair_output_sha256": "8cfbecd997603829f2cad707ec4f3bc758efc185851fda644f6a863fc7e9fcd5",
+          "repair_output_bytes": 54268,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "8cfbecd997603829f2cad707ec4f3bc758efc185851fda644f6a863fc7e9fcd5",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.39148959517478943,
+              "box": [
+                197,
+                337,
+                235,
+                383
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         }
       },
       "failures": {},
@@ -359647,9 +360175,9 @@
           "image_number": 1,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_0.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/001-6687d3512ea773858f615efa6eeb73bc5c0789d30e08c190f6b69e7d1bfe15d6.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/001-6687d3512ea773858f615efa6eeb73bc5c0789d30e08c190f6b69e7d1bfe15d6.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/001-66d24694199023eefcf8dac252742e61f895c55c7be556661d3abfa9782f09a8.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/001-66d24694199023eefcf8dac252742e61f895c55c7be556661d3abfa9782f09a8.webp",
+          "selected_version": "cleaned",
           "source_sha256": "a1ad0f07edabea4811c5c3e6e24170c9df1640215bd574d0ac4b7d626b524986",
           "optimized_sha256": "6687d3512ea773858f615efa6eeb73bc5c0789d30e08c190f6b69e7d1bfe15d6",
           "bytes": 44974,
@@ -359702,11 +360230,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359715,15 +360243,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "a1ad0f07edabea4811c5c3e6e24170c9df1640215bd574d0ac4b7d626b524986",
+          "repair_output_sha256": "66d24694199023eefcf8dac252742e61f895c55c7be556661d3abfa9782f09a8",
+          "repair_output_bytes": 37204,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "66d24694199023eefcf8dac252742e61f895c55c7be556661d3abfa9782f09a8",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.33067575097084045,
+              "box": [
+                230,
+                379,
+                286,
+                449
+              ],
+              "hits": [],
+              "width": 375,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "2": {
           "image_number": 2,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_6.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/002-8a1c00fb050624286ce05c000b164dfbd05f569fea49872c1c5bdcbd4a9bc23a.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/002-8a1c00fb050624286ce05c000b164dfbd05f569fea49872c1c5bdcbd4a9bc23a.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/002-77f3667d2b24b44745c91a5f737729f6ba618aa2159092eef8bb34eb00f23daa.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/002-77f3667d2b24b44745c91a5f737729f6ba618aa2159092eef8bb34eb00f23daa.webp",
+          "selected_version": "cleaned",
           "source_sha256": "625f8abfb7a7e1f61e8516136e68d7775366a387d2e1b57a98b089ef4342195a",
           "optimized_sha256": "8a1c00fb050624286ce05c000b164dfbd05f569fea49872c1c5bdcbd4a9bc23a",
           "bytes": 62330,
@@ -359769,11 +360330,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359782,15 +360343,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "625f8abfb7a7e1f61e8516136e68d7775366a387d2e1b57a98b089ef4342195a",
+          "repair_output_sha256": "77f3667d2b24b44745c91a5f737729f6ba618aa2159092eef8bb34eb00f23daa",
+          "repair_output_bytes": 52372,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "77f3667d2b24b44745c91a5f737729f6ba618aa2159092eef8bb34eb00f23daa",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.41251692175865173,
+              "box": [
+                132,
+                325,
+                188,
+                395
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "3": {
           "image_number": 3,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_1.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/003-be5f56e00f3a1fae2898fca8c87925716df05ec82846fb1377a403ba7f295c01.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/003-be5f56e00f3a1fae2898fca8c87925716df05ec82846fb1377a403ba7f295c01.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/003-7fcd382a2166c41c7a7560688c32b984d2e62f71d3ea2fb0e78661dcedd5001c.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/003-7fcd382a2166c41c7a7560688c32b984d2e62f71d3ea2fb0e78661dcedd5001c.webp",
+          "selected_version": "cleaned",
           "source_sha256": "11d51a72b71dbdb43c2afa1683082d87b9613320d5da406dbd6b05712ba91b72",
           "optimized_sha256": "be5f56e00f3a1fae2898fca8c87925716df05ec82846fb1377a403ba7f295c01",
           "bytes": 91936,
@@ -359837,10 +360431,10 @@
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
           "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "watermark_status": "unknown",
+          "pipeline_status": "needs_review",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "residual_mark_or_unclassified_overlay",
           "watermark_portals": [
             "patuljak"
           ],
@@ -359849,7 +360443,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": true,
+          "repair_input_sha256": "11d51a72b71dbdb43c2afa1683082d87b9613320d5da406dbd6b05712ba91b72",
+          "repair_output_sha256": "7fcd382a2166c41c7a7560688c32b984d2e62f71d3ea2fb0e78661dcedd5001c",
+          "repair_output_bytes": 84036,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "7fcd382a2166c41c7a7560688c32b984d2e62f71d3ea2fb0e78661dcedd5001c",
+            "status": "unknown",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "needs_review",
+              "reason": "unclassified_text",
+              "score": 0.46579137444496155,
+              "box": [
+                302,
+                365,
+                340,
+                411
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": true
+            }
+          }
         },
         "4": {
           "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/004-e9e1cd5e9bace8567cec9d26fa90af29abd5750945622319b75e9b3268cf1a5b.webp",
@@ -359980,9 +360607,9 @@
           "image_number": 5,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_3.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/005-b33f989ffe32dfade753be4bb48fb2455ebb44a5b738b397bac0155ebee9fd49.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/005-b33f989ffe32dfade753be4bb48fb2455ebb44a5b738b397bac0155ebee9fd49.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/005-80a6bebc51b5f57ca749a72ac9c39991789d24dbfda6fddd8dde9298e34c5a81.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/005-80a6bebc51b5f57ca749a72ac9c39991789d24dbfda6fddd8dde9298e34c5a81.webp",
+          "selected_version": "cleaned",
           "source_sha256": "7192564b05bd014cc56b3db9f9c0d696ea4b57a3b5687edd3c6cd91d22cd1d21",
           "optimized_sha256": "b33f989ffe32dfade753be4bb48fb2455ebb44a5b738b397bac0155ebee9fd49",
           "bytes": 41978,
@@ -360114,11 +360741,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360127,15 +360754,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "7192564b05bd014cc56b3db9f9c0d696ea4b57a3b5687edd3c6cd91d22cd1d21",
+          "repair_output_sha256": "80a6bebc51b5f57ca749a72ac9c39991789d24dbfda6fddd8dde9298e34c5a81",
+          "repair_output_bytes": 33888,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "80a6bebc51b5f57ca749a72ac9c39991789d24dbfda6fddd8dde9298e34c5a81",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.3367871344089508,
+              "box": [
+                160,
+                327,
+                198,
+                373
+              ],
+              "hits": [],
+              "width": 375,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "6": {
           "image_number": 6,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_4.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/006-32592fd079d3c7f073e053fd193ff322cf753573c605c90d75238b9cf6bfb9c9.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/006-32592fd079d3c7f073e053fd193ff322cf753573c605c90d75238b9cf6bfb9c9.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/006-71be6973feb5f1e4da1a6b8081f21ae3a3a37cc214b7b197353c3f9200c58386.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/006-71be6973feb5f1e4da1a6b8081f21ae3a3a37cc214b7b197353c3f9200c58386.webp",
+          "selected_version": "cleaned",
           "source_sha256": "17b5386b14bbcc4de444326e17a4d317f19418c96969ee0109607c25b381e0d3",
           "optimized_sha256": "32592fd079d3c7f073e053fd193ff322cf753573c605c90d75238b9cf6bfb9c9",
           "bytes": 69542,
@@ -360181,11 +360841,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360194,15 +360854,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "17b5386b14bbcc4de444326e17a4d317f19418c96969ee0109607c25b381e0d3",
+          "repair_output_sha256": "71be6973feb5f1e4da1a6b8081f21ae3a3a37cc214b7b197353c3f9200c58386",
+          "repair_output_bytes": 63570,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "71be6973feb5f1e4da1a6b8081f21ae3a3a37cc214b7b197353c3f9200c58386",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.34483107924461365,
+              "box": [
+                13,
+                397,
+                51,
+                443
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "7": {
           "image_number": 7,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_5.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/007-a904c2598704f0b00c80a8e8db1f5e5523d11214d8f8608a87e3424173c90725.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/007-a904c2598704f0b00c80a8e8db1f5e5523d11214d8f8608a87e3424173c90725.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/007-a4406b8d394efa7bd923cf100791bc95d9e5a3f449d29caec2ad2d548ec9c1f7.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/007-a4406b8d394efa7bd923cf100791bc95d9e5a3f449d29caec2ad2d548ec9c1f7.webp",
+          "selected_version": "cleaned",
           "source_sha256": "611d36f597b37b585ed1eded3127a7122e13c084cdf86ebca8f00f83c712548d",
           "optimized_sha256": "a904c2598704f0b00c80a8e8db1f5e5523d11214d8f8608a87e3424173c90725",
           "bytes": 35896,
@@ -360278,11 +360971,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360291,15 +360984,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "611d36f597b37b585ed1eded3127a7122e13c084cdf86ebca8f00f83c712548d",
+          "repair_output_sha256": "a4406b8d394efa7bd923cf100791bc95d9e5a3f449d29caec2ad2d548ec9c1f7",
+          "repair_output_bytes": 27964,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "a4406b8d394efa7bd923cf100791bc95d9e5a3f449d29caec2ad2d548ec9c1f7",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.4173731505870819,
+              "box": [
+                150,
+                383,
+                188,
+                429
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "8": {
           "image_number": 8,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_7.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/008-aa8cafbc67b230a094b6653adacfa443a81fdda4d05b1140fcc2c03d46630f64.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/008-aa8cafbc67b230a094b6653adacfa443a81fdda4d05b1140fcc2c03d46630f64.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/008-5b11eaa2f4ea933cc32b67d03422c271a51e71b9598118ed54b06bdd824a8c21.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/008-5b11eaa2f4ea933cc32b67d03422c271a51e71b9598118ed54b06bdd824a8c21.webp",
+          "selected_version": "cleaned",
           "source_sha256": "81affb8327e5965898a255fd77ea984807f3476aceb2f8043f6b1bc29bc0f9d6",
           "optimized_sha256": "aa8cafbc67b230a094b6653adacfa443a81fdda4d05b1140fcc2c03d46630f64",
           "bytes": 57030,
@@ -360345,11 +361071,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360358,15 +361084,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "81affb8327e5965898a255fd77ea984807f3476aceb2f8043f6b1bc29bc0f9d6",
+          "repair_output_sha256": "5b11eaa2f4ea933cc32b67d03422c271a51e71b9598118ed54b06bdd824a8c21",
+          "repair_output_bytes": 48984,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "5b11eaa2f4ea933cc32b67d03422c271a51e71b9598118ed54b06bdd824a8c21",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.39068251848220825,
+              "box": [
+                488,
+                330,
+                526,
+                376
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "9": {
           "image_number": 9,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_8.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/009-18eb44a78b95aab0a51e32dec026f47daaeb57cdfe82b865e8290be2e8645dcc.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/009-18eb44a78b95aab0a51e32dec026f47daaeb57cdfe82b865e8290be2e8645dcc.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/009-c659eddd8cca95dde8bb4146c140bd5962e553f5e7d78aa6cc2678f449116eeb.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/009-c659eddd8cca95dde8bb4146c140bd5962e553f5e7d78aa6cc2678f449116eeb.webp",
+          "selected_version": "cleaned",
           "source_sha256": "0f696b3ff53d6ac3ffd7dd068d7adbe99518aab9ff2167468873eb3e9e9398f2",
           "optimized_sha256": "18eb44a78b95aab0a51e32dec026f47daaeb57cdfe82b865e8290be2e8645dcc",
           "bytes": 62588,
@@ -360412,11 +361171,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360425,15 +361184,48 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "0f696b3ff53d6ac3ffd7dd068d7adbe99518aab9ff2167468873eb3e9e9398f2",
+          "repair_output_sha256": "c659eddd8cca95dde8bb4146c140bd5962e553f5e7d78aa6cc2678f449116eeb",
+          "repair_output_bytes": 53578,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "c659eddd8cca95dde8bb4146c140bd5962e553f5e7d78aa6cc2678f449116eeb",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.47859281301498413,
+              "box": [
+                69,
+                327,
+                107,
+                373
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         },
         "10": {
           "image_number": 10,
           "original_url": "https://patuljak.me/kes/slike/740xAuto/2026/11/86870_9.webp",
           "source_copy_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/010-5196800b1ca76e71d8c9d2a4c94c94111ed929b9ff16b9b535961453ffa0cc29.webp",
-          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/source/010-5196800b1ca76e71d8c9d2a4c94c94111ed929b9ff16b9b535961453ffa0cc29.webp",
-          "cleaned_url": null,
-          "selected_version": "source",
+          "active_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/010-8fc9a4ab3d5729fcd382d21bacca758c84f009e6222c45e61a9dec6a4251cf02.webp",
+          "cleaned_url": "https://pub-f3c0e65ac46b487d83f5dfb93b1c90b8.r2.dev/properties/patuljak/86870/cleaned/010-8fc9a4ab3d5729fcd382d21bacca758c84f009e6222c45e61a9dec6a4251cf02.webp",
+          "selected_version": "cleaned",
           "source_sha256": "44ac6debf274aa2762cceadbcf2254da30660f3158aa07e96cb33daad4123983",
           "optimized_sha256": "5196800b1ca76e71d8c9d2a4c94c94111ed929b9ff16b9b535961453ffa0cc29",
           "bytes": 46236,
@@ -360479,11 +361271,11 @@
           "sample_only": false,
           "verification_scope": "per_image_original_and_delivered_checks",
           "watermark_candidate": true,
-          "ready_for_listing": false,
-          "watermark_status": "watermarked",
-          "pipeline_status": "deferred_cleanup",
+          "ready_for_listing": true,
+          "watermark_status": "cleaned",
+          "pipeline_status": "ready_cleaned",
           "upload_confirmed": true,
-          "error_code": "removal_run_limit",
+          "error_code": "",
           "watermark_portals": [
             "patuljak"
           ],
@@ -360492,7 +361284,40 @@
             "patuljak"
           ],
           "watermark_check_status": "checked",
-          "reused_existing": true
+          "reused_existing": false,
+          "publication_hold": false,
+          "repair_input_sha256": "44ac6debf274aa2762cceadbcf2254da30660f3158aa07e96cb33daad4123983",
+          "repair_output_sha256": "8fc9a4ab3d5729fcd382d21bacca758c84f009e6222c45e61a9dec6a4251cf02",
+          "repair_output_bytes": 37158,
+          "repair_qc": "mascot_and_ocr_only_pass_text_shape_unvalidated",
+          "repair_policy_id": "patuljak-footer-stable-colors-v2-filled-word-bands",
+          "outside_mask_unchanged_before_encoding": true,
+          "delivered_watermark_analysis": {
+            "policy": "per-image-watermarks-v1",
+            "source_sha256": "8fc9a4ab3d5729fcd382d21bacca758c84f009e6222c45e61a9dec6a4251cf02",
+            "status": "clean",
+            "portal_brands": [],
+            "agency_brands": [],
+            "detected_brands": [],
+            "detections": [],
+            "method": "per_image_template_and_ocr",
+            "meaning": "automated_detection_not_visual_certification",
+            "analysis": {
+              "result": "sample_passed",
+              "reason": "no_detected_mark_in_sample",
+              "score": 0.39109912514686584,
+              "box": [
+                471,
+                389,
+                509,
+                435
+              ],
+              "hits": [],
+              "width": 666,
+              "height": 500,
+              "other_text_detected": false
+            }
+          }
         }
       },
       "failures": {},
