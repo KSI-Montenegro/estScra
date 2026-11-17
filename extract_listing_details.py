@@ -155,6 +155,12 @@ def estitor(root,r):
 
 def patuljak(root,r):
     put(r,'title',text(first(root,'//h1')),'page:h1')
+    if not r.get('title'):
+        # Some sellers paste HTML into the title ("<p>Prodaje se <strong>..."), which Patuljak renders as an
+        # empty <h1>; og:title still carries it, so strip the tags from there.
+        og=first(root,'//meta[@property="og:title"]/@content')
+        if og and og.strip():
+            put(r,'title',line(html.fragment_fromstring(str(og),create_parent='div').text_content())[:200] or None,'page:og:title_html_stripped')
     put(r,'description_original',description_section(root,'detaljan opis'),'page:Detaljan opis')
     put(r,'description_language',root.get('lang'),'page:html.lang')
     for li in root.xpath('//*[contains(@class,"product_full__ispod_slike--details")]//li'):

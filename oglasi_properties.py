@@ -27,7 +27,9 @@ def current_ad(root, ident):
         raise OglasiFailure('oglasi_non_home_category')
     if str((ad.get('country') or {}).get('abr', '')).upper() not in ('ME', 'MNE'):
         raise OglasiFailure('oglasi_outside_montenegro')
-    if ad.get('status') != 'Published' or ad.get('listingStatus') != 'Active':
+    # Only `status` says whether the ad is live. `listingStatus` is the paid-promotion package
+    # (None = not promoted, Expired/Rejected promotion): most live ads in search results are not 'Active'.
+    if ad.get('status') != 'Published':
         raise OglasiFailure('oglasi_listing_unavailable')
     return ad
 

@@ -60,10 +60,17 @@ class OglasiTests(unittest.TestCase):
         self.assertEqual(page_contacts(html.fromstring('<html/>'),row)[0]['phone_e164'],'+38267123456')
 
     def test_wrong_detail_identity_country_category_or_inactive_ad_is_rejected(self):
-        for change in [{'code':'OG999ME'},{'category':{'seo':'automobili'}},{'country':{'abr':'RS'}},{'listingStatus':'Expired'}]:
+        for change in [{'code':'OG999ME'},{'category':{'seo':'automobili'}},{'country':{'abr':'RS'}},{'status':'Archived'}]:
             item=ad();item.update(change)
             with self.subTest(change=change),self.assertRaises(scraper.FetchFailure):
                 scraper.parse_listing(body(item),URL,'oglasi','12345','now')
+
+    def test_unpromoted_published_ad_is_accepted(self):
+        # listingStatus is the paid promotion; most live ads have none, or an expired/rejected one.
+        for value in (None,'Expired','Rejected'):
+            item=ad();item['listingStatus']=value
+            with self.subTest(listingStatus=value):
+                self.assertEqual(scraper.parse_listing(body(item),URL,'oglasi','12345','now')['listing_id'],'12345')
 
     def test_gallery_excludes_profile_hidden_recommendation_and_foreign_host_images(self):
         item=ad()

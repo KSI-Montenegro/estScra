@@ -101,9 +101,36 @@ class DailyTests(unittest.TestCase):
         response = MagicMock()
         response.__enter__.return_value.read.return_value = BODY
         response.__enter__.return_value.geturl.return_value = encoded
+        response.__enter__.return_value.status = 200
+        response.__enter__.return_value.headers = {}
         with patch.object(scraper, 'urlopen', return_value=response) as send:
             scraper.Fetcher('', 'zone', mode='direct').get(url)
             self.assertTrue(send.call_args.args[0].full_url.isascii())
+
+    def test_patuljak_html_in_title_falls_back_to_og_title(self):
+        url = 'https://patuljak.me/oglas/pprodaje-se-strongdvosoban-stan--86331'
+        page = ('<html><head><meta property="og:title" content="&lt;p&gt;Prodaje se &lt;strong&gt;dvosoban '
+                'stan&lt;/strong&gt;, 79m2&lt;/p&gt;"></head><body><h1></h1></body></html>').encode()
+        record = scraper.parse_listing(page, url, 'patuljak', '86331', 'now')
+        self.assertEqual(record['title'], 'Prodaje se dvosoban stan, 79m2')
+        self.assertEqual(record['field_sources']['title'], 'page:og:title_html_stripped')
+
+    def test_waf_challenge_is_not_parsed_as_a_page(self):
+        # Realitica's CloudFront WAF answers 202 with an empty body and x-amzn-waf-action: challenge.
+        url = 'https://www.realitica.com/?for=Prodaja&cur_page=0'
+        response = MagicMock()
+        response.__enter__.return_value.read.return_value = b''
+        response.__enter__.return_value.geturl.return_value = url
+        response.__enter__.return_value.status = 202
+        response.__enter__.return_value.headers = {'x-amzn-waf-action': 'challenge'}
+        with patch.object(scraper, 'urlopen', return_value=response):
+            with self.assertRaisesRegex(scraper.FetchFailure, 'direct_page_not_parseable'):
+                scraper.Fetcher('', 'zone', mode='direct').get(url)
+            # auto mode falls through to Bright Data instead of returning the empty page
+            with self.assertRaisesRegex(scraper.FetchFailure, 'brightdata_key_missing'):
+                scraper.Fetcher('', 'zone', mode='auto').get(url)
+        with self.assertRaisesRegex(scraper.FetchFailure, 'empty_search_page'):
+            scraper.listing_links(b'  ', url, 'realitica')
 
     def test_link_identity_deduplicates_and_rejects_other_hosts(self):
         body = b'<a href="/oglas/stan--123">a</a><a href="/oglas/stan--123?x=2">b</a><a href="https://evil.test/oglas/a--5">c</a>'

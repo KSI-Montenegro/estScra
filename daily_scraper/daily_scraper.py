@@ -115,12 +115,18 @@ class Fetcher:
                 with urlopen(Request(transport_url(url), headers={'User-Agent': UA}), timeout=30) as response:
                     body = response.read(MAX_BODY + 1)
                     final = response.geturl()
+                    status = response.status
+                    waf = response.headers.get('x-amzn-waf-action')
                 if len(body) > MAX_BODY:
                     raise FetchFailure('response_too_large')
                 if urlsplit(final).hostname not in ALLOWED_HOSTS:
                     raise FetchFailure('unexpected_redirect_host')
-                self.counts['direct_requests'] += 1
-                return body, final, 'direct_https'
+                if status == 200 and body.strip() and not waf:
+                    self.counts['direct_requests'] += 1
+                    return body, final, 'direct_https'
+                # e.g. Realitica's CloudFront WAF answers 202 + empty body (x-amzn-waf-action: challenge);
+                # not a page, so fall through to the proxy/browser path instead of parsing nothing.
+                self.counts['direct_not_a_page'] += 1
             except HTTPError as exc:
                 if exc.code == 429:
                     self.paused.add(host)
@@ -168,6 +174,8 @@ class Fetcher:
 
 
 def listing_links(body, page_url, source):
+    if not body.strip():
+        raise FetchFailure('empty_search_page')
     root = html.fromstring(body)
     if source == 'oglasi':
         from oglasi_properties import listing_links as oglasi_links
